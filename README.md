@@ -1,6 +1,7 @@
 NLP-Project
 ===========
 Members: Anas Salamah, Jordan Hoskins, Nick Farrow
+
 Project Proposal: https://docs.google.com/document/d/1x34VXmbU3Hr0deV65aqz5kN6jJbPxMDYg72f9zURHZw/edit?usp=sharing
 
 TODO List
