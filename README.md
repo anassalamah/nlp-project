@@ -17,3 +17,5 @@ TODO List
 * [NICK] create an initial guess (solution file) based on the top computer guesses only.
 no sentence information will be used for this initial guess.
 
+* [JORDAN] Figure out how to read wikipedia articles into python
+
