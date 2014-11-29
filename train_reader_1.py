@@ -14,7 +14,7 @@ from csv import DictReader, DictWriter
 from useful_routines import form_dict
 from useful_routines import top_guess
 from useful_routines import split_question_sents
-
+from useful_routines import answer_position_in_guesses
 
 if __name__ == "__main__":
 
@@ -65,6 +65,9 @@ if __name__ == "__main__":
         QANTA_dict = form_dict(ii['QANTA Scores'])
         IR_dict = form_dict(ii['IR_Wiki Scores'])
 
+        Q_num_guesses = len(QANTA_dict)
+        IR_num_guesses = len(IR_dict)
+
         #print QANTA_dict.keys()
 
         #ik = QANTA_dict.iteritems()
@@ -78,16 +81,19 @@ if __name__ == "__main__":
         #print Q_top_score
         
         if ii['Answer'] in QANTA_dict:
-            print "QANTA score", QANTA_dict[ii['Answer']]/Q_top_score
+            print "QANTA score", QANTA_dict[ii['Answer']]/Q_top_score,
+            print "|", answer_position_in_guesses(ii['QANTA Scores'], ii['Answer']),
+            print "/", Q_num_guesses
         else:
             print "Answer not found in QANTA"
 
         if ii['Answer'] in IR_dict:
-            print "IR_Wiki score", IR_dict[ii['Answer']]/IR_top_score
+            print "IR_Wiki score", IR_dict[ii['Answer']]/IR_top_score,
+            print "|", answer_position_in_guesses(ii['IR_Wiki Scores'], ii['Answer']),
+            print "/", IR_num_guesses
         else:
             print "Answer not found in IR_Wiki"
 
         key_inp = raw_input()
-
 
     print "DONE"
