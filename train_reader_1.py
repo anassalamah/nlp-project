@@ -13,6 +13,8 @@ from csv import DictReader, DictWriter
 
 from useful_routines import form_dict
 from useful_routines import top_guess
+from useful_routines import split_question_sents
+
 
 if __name__ == "__main__":
 
@@ -56,6 +58,9 @@ if __name__ == "__main__":
         print "IR_Wiki: " + ii['IR_Wiki Scores']
         print "QANTA: " + ii['QANTA Scores']
         print ""
+
+        sents = split_question_sents(ii['Question Text'], int(ii['Sentence Position'])+1)
+        print sents
         
         QANTA_dict = form_dict(ii['QANTA Scores'])
         IR_dict = form_dict(ii['IR_Wiki Scores'])

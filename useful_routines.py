@@ -29,3 +29,19 @@ def top_guess(vals):
         #d[key.strip()] = float(val)
         break
     return (key, float(val))
+
+def split_question_sents(text, num_expected):
+    """
+    takes the question text and returns it as a list of sentences
+    """
+    sents = []
+    for s in text.split("."):
+        sents.append(s.strip())
+
+    # in most (all?) cases, there will be an empty element addded at the end (something after the . ?)
+    del sents[-1]   # cleans up the empty entry
+
+    if len(sents) != num_expected:
+        print "ERROR, num sentences is unexpected"
+
+    return sents
