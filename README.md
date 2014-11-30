@@ -13,10 +13,12 @@ TODO List
 (sentences returned as a python list, no period exists at end of sentence, all lowercase letters)
 (python code for this in minimal examples folder)
 
-* [NICK] write code to evaluate the QANTA and IR_Wiki guessers performance
+* [DONE] Write code to evaluate the QANTA and IR_Wiki guessers performance.
+Create an initial guess (solution file) based on the top computer guesses only.
+No sentence information will be used for this initial guess, Naive Bayes is used instead.
+(code for this in bayes classifier example)
 
-* [NICK] create an initial guess (solution file) based on the top computer guesses only.
-no sentence information will be used for this initial guess.
+* [DONE] Submit a first guess to Kaggle
 
 * [JORDAN] Figure out how to read wikipedia articles into python
 

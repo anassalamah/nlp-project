@@ -1,0 +1,43 @@
+read training data
+Training classifier ...
+how good is this?
+
+BY SENTENCE POSITION
+
+sentence position: 0
+QANTA:   wrong ( 0.367314599971 )
+IR_Wiki: wrong ( 0.321571309842 )
+
+sentence position: 1
+QANTA:   right ( 0.631209882159 )
+IR_Wiki: right ( 0.520791283761 )
+
+sentence position: 2
+QANTA:   right ( 0.775109776899 )
+IR_Wiki: right ( 0.596261871971 )
+
+sentence position: 3
+QANTA:   right ( 0.832577269455 )
+IR_Wiki: right ( 0.583582916853 )
+
+sentence position: 4
+QANTA:   right ( 0.856416829992 )
+IR_Wiki: right ( 0.534052857613 )
+
+BY CATEGORY
+
+category: science
+QANTA:   right ( 0.640703324387 )
+IR_Wiki: wrong ( 0.0392992242932 )
+
+category: lit
+QANTA:   right ( 0.669700827518 )
+IR_Wiki: right ( 0.711910811772 )
+
+category: social
+QANTA:   right ( 0.559899788121 )
+IR_Wiki: wrong ( 0.0211656342225 )
+
+category: history
+QANTA:   right ( 0.712884768344 )
+IR_Wiki: right ( 0.755672180242 )

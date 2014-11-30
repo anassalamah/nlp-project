@@ -1,0 +1,103 @@
+read training data
+Training classifier ...
+how good is this?
+
+sentence position: 0
+category: science
+QANTA:   wrong ( 0.351259224717 )
+IR_Wiki: wrong ( 0.0190390972008 )
+
+sentence position: 0
+category: lit
+QANTA:   wrong ( 0.381049845622 )
+IR_Wiki: right ( 0.539691992566 )
+
+sentence position: 0
+category: social
+QANTA:   wrong ( 0.278649295904 )
+IR_Wiki: wrong ( 0.0101551888615 )
+
+sentence position: 0
+category: history
+QANTA:   wrong ( 0.429843264863 )
+IR_Wiki: right ( 0.59472108725 )
+
+sentence position: 1
+category: science
+QANTA:   right ( 0.614828954356 )
+IR_Wiki: wrong ( 0.0426041685381 )
+
+sentence position: 1
+category: lit
+QANTA:   right ( 0.644756848995 )
+IR_Wiki: right ( 0.728865837641 )
+
+sentence position: 1
+category: social
+QANTA:   right ( 0.532452783616 )
+IR_Wiki: wrong ( 0.0229820800188 )
+
+sentence position: 1
+category: history
+QANTA:   right ( 0.689690909558 )
+IR_Wiki: right ( 0.770880594536 )
+
+sentence position: 2
+category: science
+QANTA:   right ( 0.762717834495 )
+IR_Wiki: wrong ( 0.0570242227703 )
+
+sentence position: 2
+category: lit
+QANTA:   right ( 0.785169847225 )
+IR_Wiki: right ( 0.785089537011 )
+
+sentence position: 2
+category: social
+QANTA:   right ( 0.696349735573 )
+IR_Wiki: wrong ( 0.0309756044364 )
+
+sentence position: 2
+category: history
+QANTA:   right ( 0.81737397136 )
+IR_Wiki: right ( 0.820537091424 )
+
+sentence position: 3
+category: science
+QANTA:   right ( 0.822627284141 )
+IR_Wiki: wrong ( 0.054270347486 )
+
+sentence position: 3
+category: lit
+QANTA:   right ( 0.840595309322 )
+IR_Wiki: right ( 0.776113923091 )
+
+sentence position: 3
+category: social
+QANTA:   right ( 0.767917118419 )
+IR_Wiki: wrong ( 0.0294404224112 )
+
+sentence position: 3
+category: history
+QANTA:   right ( 0.865909800523 )
+IR_Wiki: right ( 0.812688710778 )
+
+sentence position: 4
+category: science
+QANTA:   right ( 0.847624340333 )
+IR_Wiki: wrong ( 0.0448281354627 )
+
+sentence position: 4
+category: lit
+QANTA:   right ( 0.863480376975 )
+IR_Wiki: right ( 0.739252188186 )
+
+sentence position: 4
+category: social
+QANTA:   right ( 0.79873807596 )
+IR_Wiki: wrong ( 0.0242076593997 )
+
+sentence position: 4
+category: history
+QANTA:   right ( 0.885654940541 )
+IR_Wiki: right ( 0.780142965844 )
