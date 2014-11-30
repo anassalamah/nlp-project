@@ -15,6 +15,10 @@ def split_question_sents(text, num_expected):
 
     if len(sents) != num_expected:
         print "ERROR, num sentences is unexpected"
+        print sents
+        print num_expected
+        raw_input()
+
 
     return sents
 
