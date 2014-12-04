@@ -2,11 +2,12 @@ from collections import defaultdict
 from csv import DictReader, DictWriter
 from string import replace
 import nltk
+import requests
+import json
+import urllib
 #from nltk.corpus import wordnet as wn
 #from nltk.tokenize import TreebankWordTokenizer
-from nltk.tag.stanford import NERTagger
-st = NERTagger('stanford-ner/dewac_175m_600.crf.ser.gz','stanford-ner/stanford-ner.jar')
-
+FREEBASE_KEY = "AIzaSyBRMODj1mCWq6CGzuGnH1BcUw_8Baqp4bw"
 #from nltk import FreqDist
 
 #import string
@@ -74,7 +75,25 @@ def features(case):
     d["Sentence Position"] = case['Sentence Position']
 
     return d
-
+def is_person(possible_name):
+    """
+    Use freebase to know if answere is a person and return boolean
+    """
+    freebase_server = "https://www.googleapis.com/freebase/v1/search"
+    params = {
+            "key": FREEBASE_KEY,
+            "query": possible_name,
+            "filter": "(any type:/people/person)"
+        }
+    url = freebase_server + '?' + urllib.urlencode(params)
+    response = json.loads(urllib.urlopen(url).read())
+    for result in response['result']:
+        if possible_name == result['name'].lower():
+            #print possible_name, result['name'] + ' (' + str(result['score']) + ')'
+            return True
+        else:
+            return False
+    
 def remove_none_types(guesses, pronouns):
     """
     returns the guesses as a string with only relevent guesses
@@ -90,12 +109,21 @@ def remove_none_types(guesses, pronouns):
         if pronouns_dict[k] > max:
             max = pronouns_dict[k]
             pronoun = k
-    if pronoun == "he" or pronoun == "she":
-        for jj in guesses.split(", "):
-            key, val = jj.split(":")
-            key_spaced = replace(key,"_"," ")
-            print key_spaced
-    return 0
+    #if pronoun == "he" or pronoun == "she":
+    #print "PAST FIND MOST USED PRONOUN"
+    new_guesses= ""
+    for jj in guesses.split(", "):
+        key, val = jj.split(":")
+        key_spaced = replace(key,"_"," ")
+        if is_person(key_spaced):
+            if pronoun == "he" or pronoun =="his" or pronoun =="she" or pronoun =="her":
+                new_guesses += jj+", "
+        else:
+            new_guesses += jj+", "
+    """ remove last ', ' """
+    new_guesses = new_guesses[:-2]
+    return new_guesses
+
 
 
 debug = 0
@@ -116,8 +144,6 @@ if __name__ == "__main__":
         train_examples += 1
 
         feat = features(ii)
-        #print "FFFF", find_pronouns(ii['Question Text'])
-        #print ""
         new_guesses = remove_none_types(ii['QANTA Scores'], find_pronouns(ii['Question Text']))
         Q_guess, Q_confidence = top_guess(ii['QANTA Scores'])
         IR_guess, IR_confidence = top_guess(ii['IR_Wiki Scores'])
