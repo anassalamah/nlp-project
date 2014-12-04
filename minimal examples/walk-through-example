@@ -1,0 +1,54 @@
+Example 1:
+Quistion Text: 
+it was founded as kart-hadasht meaning new town and it is now a suburb of a world capital. the byrsu its ancient citadel was on a hill overlooking the sea.
+Question Pos:
+1
+Question ID:
+2390
+__________________ The question is asking about a thing
+Keywords:
+it, founded, kart-hadasht, byrsu, citadel
+
+QANTA Scores:
+battle_of_shiloh:0.033232900633, henry_the_navigator:0.0284243790704, portugal:0.0265999397752, henry_hudson:0.0230739594363, douglas_macarthur:0.0208447153599, peter_the_great:0.0193701648315, john_cabot:0.0184925415521, hittites:0.0142397831655, paraguay:0.0142090385419, oda_nobunaga:0.0135919505505, christopher_columbus:0.0131529600763, emiliano_zapata:0.0121641982969, battle_of_actium:0.0118758916012, marcus_licinius_crassus:0.0105880716126, hyksos:0.0103782098671, carthage:0.0103271463015, louis_riel:0.010006428617, frederick_douglass:0.00998968464617, jawaharlal_nehru:0.00961062899454, amerigo_vespucci:0.00952671178009
+__________________ Knowing that the question is of type "group" or "thing" we can remove all common names. So QANTA Scores:
+
+battle_of_shiloh:0.033232900633, portugal:0.0265999397752, hittites:0.0142397831655, paraguay:0.0142090385419, battle_of_actium:0.0118758916012, hyksos:0.0103782098671, carthage:0.0103271463015
+__________________ out of 20, we're left out with only 7
+
+IR_Wiki Scores:
+carthage:4.46484593046, nelson_mandela:3.46234617073, verdun:3.15971690441, mali_empire:3.07175457186, ancient_corinth:3.01212692235, teapot_dome_scandal:2.6037119541, jamaica:2.6037119541, byzantine_empire:2.4800311556, antonio_lopez_de_santa_anna:2.4800311556, paris_commune:2.38758166566, council_of_constance:2.38758166566, sparta:2.31297053998, cyrus_the_great:2.20891279225, chiang_kai-shek:2.14628676236, safavid_dynasty:2.11277334269, gang_of_four:2.11277334269, cherokee:2.08967018412, charles_lindbergh:2.07650192779, maximilien_de_robespierre:1.91357333451, gadsden_purchase:1.89950155507
+__________________ Elemenating the non-thing answeres(common names):
+
+carthage:4.46484593046, verdun:3.15971690441, mali_empire:3.07175457186, ancient_corinth:3.01212692235, teapot_dome_scandal:2.6037119541, jamaica:2.6037119541, byzantine_empire:2.4800311556, paris_commune:2.38758166566, council_of_constance:2.38758166566, sparta:2.31297053998, safavid_dynasty:2.11277334269, gang_of_four:2.11277334269, cherokee:2.08967018412, gadsden_purchase:1.89950155507
+__________________ out of 20, we're left out with 14
+
+
+//////////////////////////
+Example 2:
+Question Text: 
+francis_i_of_france rejected it demanding that the participants show him the will of adam to support their claims. altered by the treaty of san ildefonso this agreement revised the papal bull inter caetera which might have threatened the west african possessions of king john ii. instead the new line drawn 370 leagues west of the cape verdes gave john a claim to the discoveries of pedro alvares cabral.
+Quesatin ID:
+4037
+Question Pos:
+2
+__________________ The question is asking about a thing, More specifically an agreement
+keywords:
+francis_i_of_france, it, treaty of san ildefonso, this, agreement, papal bull inter caetera, west african possessions of king john ii, 370 leagues, cape verdes, the discoveries of pedro alvares cabral
+
+QUANTA scores:
+treaty_of_tordesillas:0.381257962513, amerigo_vespucci:0.0619200822209, bartolomeu_dias:0.0544079936633, henry_morton_stanley:0.0138093074438, war_of_the_spanish_succession:0.0107475722379, portugal:0.0104247090811, henry_the_navigator:0.00907282550716, wilmot_proviso:0.00792582519618, suez_crisis:0.00782456990854, vasco_da_gama:0.00649416520593, francisco_pizarro:0.00646094358632, jacques_cartier:0.00617865726385, roger_b._taney:0.00599601687586, haile_selassie:0.00577549344636, treaty_of_utrecht:0.00571661319063, truman_doctrine:0.00567422079966, great_northern_war:0.00492211418178, christopher_columbus:0.00490699661333, henry_hudson:0.00486746028928, cherokee:0.00473777390835
+__________________ Knowing that the question is of type "group" or "thing" we can remove all common names. So QANTA Scores:
+QUANTA scores:
+treaty_of_tordesillas:0.381257962513, war_of_the_spanish_succession:0.0107475722379, portugal:0.0104247090811, wilmot_proviso:0.00792582519618, suez_crisis:0.00782456990854, treaty_of_utrecht:0.00571661319063, truman_doctrine:0.00567422079966, great_northern_war:0.00492211418178, cherokee:0.00473777390835
+__________________ left out with 9
+
+IR_Wiki Scores:
+treaty_of_tordesillas:7.32619806801, vasco_da_gama:2.79401944423, francis_drake:2.57717262495, portugal:2.40350509001, mary,_queen_of_scots:2.39672479831, magna_carta:2.37015102629, otto_von_bismarck:2.30684207918, william_mckinley:2.2237800881, cecil_rhodes:2.19843455995, congress_of_vienna:2.1638712865, henry_i_of_england:2.06356405101, amerigo_vespucci:2.00066707427, war_of_the_spanish_succession:1.98202126092, battle_of_hastings:1.95523048066, thomas_jefferson:1.94018372179, louisiana_purchase:1.91948601953, ferdinand_magellan:1.89279157708, john_wycliffe:1.84874729481, war_of_the_austrian_succession:1.80324851426, trent_affair:1.7469839771
+__________________ after removing names:
+IR_Wiki Scores:
+treaty_of_tordesillas:7.32619806801, portugal:2.40350509001, magna_carta:2.37015102629, congress_of_vienna:2.1638712865, war_of_the_spanish_succession:1.98202126092, battle_of_hastings:1.95523048066, louisiana_purchase:1.91948601953, war_of_the_austrian_succession:1.80324851426, trent_affair:1.7469839771
+__________________ left out with 9
+
+
+
