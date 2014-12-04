@@ -1,11 +1,11 @@
 from collections import defaultdict
 from csv import DictReader, DictWriter
-
+from string import replace
 import nltk
 #from nltk.corpus import wordnet as wn
 #from nltk.tokenize import TreebankWordTokenizer
 from nltk.tag.stanford import NERTagger
-st = NERTagger('stanford-ner/english.all.3class.distsim.crf.ser.gz', 'stanford-ner/stanford-ner.jar')
+st = NERTagger('stanford-ner/dewac_175m_600.crf.ser.gz','stanford-ner/stanford-ner.jar')
 
 #from nltk import FreqDist
 
@@ -93,8 +93,8 @@ def remove_none_types(guesses, pronouns):
     if pronoun == "he" or pronoun == "she":
         for jj in guesses.split(", "):
             key, val = jj.split(":")
-            if st.tag(key):
-                print key
+            key_spaced = replace(key,"_"," ")
+            print key_spaced
     return 0
 
 
