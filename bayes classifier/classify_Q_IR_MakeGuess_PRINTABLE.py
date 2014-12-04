@@ -4,6 +4,8 @@ from csv import DictReader, DictWriter
 import nltk
 #from nltk.corpus import wordnet as wn
 #from nltk.tokenize import TreebankWordTokenizer
+from nltk.tag.stanford import NERTagger
+st = NERTagger('stanford-ner/english.all.3class.distsim.crf.ser.gz', 'stanford-ner/stanford-ner.jar')
 
 #from nltk import FreqDist
 
@@ -73,6 +75,28 @@ def features(case):
 
     return d
 
+def remove_none_types(guesses, pronouns):
+    """
+    returns the guesses as a string with only relevent guesses
+    """
+    pronouns_dict = defaultdict(int)
+    """ find the count of each pronoun """
+    for ii in pronouns:
+        pronouns_dict[ii] += 1
+    max = 0
+    pronoun = ""
+    """ give me the most frequent pronoun """
+    for k in pronouns_dict:
+        if pronouns_dict[k] > max:
+            max = pronouns_dict[k]
+            pronoun = k
+    if pronoun == "he" or pronoun == "she":
+        for jj in guesses.split(", "):
+            key, val = jj.split(":")
+            if st.tag(key):
+                print key
+    return 0
+
 
 debug = 0
 
@@ -92,7 +116,9 @@ if __name__ == "__main__":
         train_examples += 1
 
         feat = features(ii)
-
+        #print "FFFF", find_pronouns(ii['Question Text'])
+        #print ""
+        new_guesses = remove_none_types(ii['QANTA Scores'], find_pronouns(ii['Question Text']))
         Q_guess, Q_confidence = top_guess(ii['QANTA Scores'])
         IR_guess, IR_confidence = top_guess(ii['IR_Wiki Scores'])
         
