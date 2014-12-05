@@ -74,6 +74,7 @@ def features(case):
     d["Sentence Position"] = case['Sentence Position']
 
     return d
+
 def is_person(possible_name):
     """
     Use freebase to know if answere is a person and return boolean
@@ -84,13 +85,20 @@ def is_person(possible_name):
             "query": possible_name,
             "filter": "(any type:/people/person)"
         }
+
     url = freebase_server + '?' + urllib.urlencode(params)
     response = json.loads(urllib.urlopen(url).read())
+
+#    print "freebasing:", possible_name, response
+    print "freebasing:", possible_name,
+
+
     for result in response['result']:
         if possible_name == result['name'].lower():
-            #print possible_name, result['name'] + ' (' + str(result['score']) + ')'
+            print possible_name, result['name'] + ' (' + str(result['score']) + ')'
             return True
         else:
+            print "not found"
             return False
     
 def remove_none_types(guesses, pronouns):
