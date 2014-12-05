@@ -95,7 +95,7 @@ def is_person(possible_name):
 
     for result in response['result']:
         if possible_name == result['name'].lower():
-            print possible_name, result['name'] + ' (' + str(result['score']) + ')'
+            print result['name'] + ' (' + str(result['score']) + ')'
             return True
         else:
             print "not found"
