@@ -2,7 +2,6 @@ from collections import defaultdict
 from csv import DictReader, DictWriter
 from string import replace
 import nltk
-import requests
 import json
 import urllib
 #from nltk.corpus import wordnet as wn
@@ -109,8 +108,6 @@ def remove_none_types(guesses, pronouns):
         if pronouns_dict[k] > max:
             max = pronouns_dict[k]
             pronoun = k
-    #if pronoun == "he" or pronoun == "she":
-    #print "PAST FIND MOST USED PRONOUN"
     new_guesses= ""
     for jj in guesses.split(", "):
         key, val = jj.split(":")
@@ -122,6 +119,8 @@ def remove_none_types(guesses, pronouns):
             new_guesses += jj+", "
     """ remove last ', ' """
     new_guesses = new_guesses[:-2]
+    #print pronoun
+    #print new_guesses
     return new_guesses
 
 
@@ -144,9 +143,11 @@ if __name__ == "__main__":
         train_examples += 1
 
         feat = features(ii)
-        new_guesses = remove_none_types(ii['QANTA Scores'], find_pronouns(ii['Question Text']))
-        Q_guess, Q_confidence = top_guess(ii['QANTA Scores'])
-        IR_guess, IR_confidence = top_guess(ii['IR_Wiki Scores'])
+        pronouns = find_pronouns(ii['Question Text'])
+        QANTA_new_guesses = remove_none_types(ii['QANTA Scores'], pronouns)
+        WIKI_new_guesses = remove_none_types(ii['IR_Wiki Scores'], pronouns)
+        Q_guess, Q_confidence = top_guess(QANTA_new_guesses)
+        IR_guess, IR_confidence = top_guess(WIKI_new_guesses)
         
         if Q_guess == ii['Answer']:
             correct = 'right'
