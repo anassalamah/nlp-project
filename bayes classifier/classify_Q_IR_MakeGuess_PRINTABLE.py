@@ -1,12 +1,10 @@
 from collections import defaultdict
 from csv import DictReader, DictWriter
-from string import replace
+
 import nltk
-import json
-import urllib
 #from nltk.corpus import wordnet as wn
 #from nltk.tokenize import TreebankWordTokenizer
-FREEBASE_KEY = "AIzaSyBRMODj1mCWq6CGzuGnH1BcUw_8Baqp4bw"
+
 #from nltk import FreqDist
 
 #import string
@@ -76,7 +74,6 @@ def features(case):
     return d
 
 
-
 debug = 0
 
 if __name__ == "__main__":
@@ -95,7 +92,7 @@ if __name__ == "__main__":
         train_examples += 1
 
         feat = features(ii)
-        
+
         Q_guess, Q_confidence = top_guess(ii['QANTA Scores'])
         IR_guess, IR_confidence = top_guess(ii['IR_Wiki Scores'])
         
