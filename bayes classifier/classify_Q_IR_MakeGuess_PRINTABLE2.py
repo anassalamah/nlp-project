@@ -74,7 +74,6 @@ def features(case):
     d["Sentence Position"] = case['Sentence Position']
 
     return d
-
 def is_person(possible_name):
     """
     Use freebase to know if answere is a person and return boolean
@@ -85,20 +84,13 @@ def is_person(possible_name):
             "query": possible_name,
             "filter": "(any type:/people/person)"
         }
-
     url = freebase_server + '?' + urllib.urlencode(params)
     response = json.loads(urllib.urlopen(url).read())
-
-#    print "freebasing:", possible_name, response
-    print "freebasing:", possible_name,
-
-
     for result in response['result']:
         if possible_name == result['name'].lower():
-            print result['name'] + ' (' + str(result['score']) + ')'
+            #print possible_name, result['name'] + ' (' + str(result['score']) + ')'
             return True
         else:
-            print "not found"
             return False
     
 def remove_none_types(guesses, pronouns):
@@ -118,8 +110,8 @@ def remove_none_types(guesses, pronouns):
             pronoun = k
     new_guesses= ""
     for jj in guesses.split(", "):
-        key, val = jj.split(":")
-        key_spaced = replace(key,"_"," ")
+        answer = jj.split(":")
+        key_spaced = replace(answer[0],"_"," ")
         if is_person(key_spaced):
             if pronoun == "he" or pronoun =="his" or pronoun =="she" or pronoun =="her":
                 new_guesses += jj+", "
@@ -140,7 +132,7 @@ if __name__ == "__main__":
     print "read training data"
     
     # Read in training data
-    train = DictReader(open("../train.csv", 'r'))
+    train = DictReader(open("../train.csv", 'rU'))
 
     Q_train = []
     IR_train = []
@@ -153,8 +145,9 @@ if __name__ == "__main__":
         feat = features(ii)
         pronouns = find_pronouns(ii['Question Text'])
         QANTA_new_guesses = remove_none_types(ii['QANTA Scores'], pronouns)
-        WIKI_new_guesses = remove_none_types(ii['IR_Wiki Scores'], pronouns)
         Q_guess, Q_confidence = top_guess(QANTA_new_guesses)
+        
+        WIKI_new_guesses = remove_none_types(ii['IR_Wiki Scores'], pronouns)
         IR_guess, IR_confidence = top_guess(WIKI_new_guesses)
         
         if Q_guess == ii['Answer']:
@@ -187,7 +180,7 @@ if __name__ == "__main__":
     test = DictReader(open("../test.csv", 'r'))
 
     # Create File for predictions
-    o = DictWriter(open('printable_pred.csv', 'w'), ['ID','cat','S','Question','keywords','prob','Answer'], lineterminator='\n')
+    o = DictWriter(open('printable_pred2.csv', 'w'), ['ID','cat','S','Question','keywords','prob','Answer'], lineterminator='\n')
     o.writeheader()
     
     test_examples = 0
