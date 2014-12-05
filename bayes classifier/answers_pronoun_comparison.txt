@@ -1,0 +1,268 @@
+read training data answer
+it
+portugal:0.0748547872365, paraguay:0.0487103853552, ethiopia:0.035498772914, suez_crisis:0.0240598682041, jamaica:0.0213090838777, finland:0.0194695593488, mali_empire:0.00953917596126
+
+its
+battle_of_shiloh:0.033232900633, portugal:0.0265999397752, hittites:0.0142397831655, paraguay:0.0142090385419, battle_of_actium:0.0118758916012, hyksos:0.0103782098671, carthage:0.0103271463015
+
+it
+carthage:0.0279183721093, paraguay:0.0240669914741, vandals:0.0239426417275, fort_ticonderoga:0.016665160435, portugal:0.0161407677418, sparta:0.0130113140251, hyksos:0.0122718006529, mali_empire:0.0117851555407, hittites:0.0111101876032, battle_of_shiloh:0.00909129332147
+
+its
+carthage:0.120553743404, vandals:0.0246747601716, hittites:0.0156041926779, paraguay:0.0142813878872, fort_ticonderoga:0.0118097884162, hyksos:0.0107825278384, mali_empire:0.0105653164138, sparta:0.00983309999537, byzantine_empire:0.00927727206872, parthian_empire:0.00760760823831, tang_dynasty:0.00744622890744
+
+it
+battle_of_austerlitz:0.06581875769, treaty_of_brest-litovsk:0.0211007800884, council_of_constance:0.016784942076, atlantic_charter:0.0159711766025, labour_party_(uk):0.0151943068445, night_of_the_long_knives:0.0118143238919, meiji_restoration:0.00989676559274, diet_of_worms:0.00975165029797, peasants'_revolt:0.0096835213499, suez_crisis:0.00901672961124, teutonic_knights:0.00896420970994, homestead_strike:0.00883961760678, mustafa_kemal_ataturk:0.00874323672585, gunpowder_plot:0.00811084426317, seneca_falls_convention:0.00806387015904, battle_of_caporetto:0.00798045924073
+
+it
+treaty_of_brest-litovsk:0.0290714511706, congress_of_vienna:0.0258778274298, council_of_constance:0.0241473372817, louisiana_purchase:0.0181037571314, atlantic_charter:0.0166075111719, embargo_act_of_1807:0.0151676647378, meiji_restoration:0.0131351661464, lateran_treaty:0.0131015412626, battle_of_austerlitz:0.0114690350121, council_of_trent:0.0104656592134, treaty_of_ghent:0.00957602764316, credit_mobilier_of_america_scandal:0.00871270424126, mustafa_kemal_ataturk:0.00788445845375
+
+it
+congress_of_vienna:0.18004693222, teutonic_knights:0.0257698900839, peace_of_westphalia:0.0214695834898, hanseatic_league:0.0207373914319, lateran_treaty:0.0155325444503, council_of_constance:0.0145052190105, council_of_trent:0.0123860260616, battle_of_austerlitz:0.0101156069607, thirty_years'_war:0.00991510375103, louisiana_purchase:0.00942473743753, war_of_devolution:0.00831189671722, battle_of_the_bulge:0.00789714616741, treaty_of_brest-litovsk:0.00787803434607, monroe_doctrine:0.00728887211052, atlantic_charter:0.00722647426849, third_crusade:0.00675142324444
+
+it
+congress_of_vienna:0.224345119428, teutonic_knights:0.0199585218791, lateran_treaty:0.0188224845075, peace_of_westphalia:0.0164178376399, council_of_constance:0.0141442484625, council_of_trent:0.0129912449641, hanseatic_league:0.0120062518027, battle_of_austerlitz:0.0107729643775, louisiana_purchase:0.00993026391301, thirty_years'_war:0.00844821664624, third_crusade:0.00733490460841, war_of_devolution:0.00715492008458, congress_of_berlin:0.00670263469064, monroe_doctrine:0.00665237493906, battle_of_caporetto:0.00663298472648, atlantic_charter:0.00641873964529
+
+he
+benito_mussolini:0.343499429074, hannibal:0.0910101102209, emilio_aguinaldo:0.0569233039207, bernardo_o'higgins:0.0413454730188, andrew_jackson:0.0396819520607, ethiopia:0.0219452058964, charles_de_gaulle:0.0189298631193, jamaica:0.0178878102866, falklands_war:0.0157653473679, winston_churchill:0.014272189012, john_marshall:0.0109627511053, george_meade:0.00983059010704, hernando_de_soto:0.009201770145, douglas_macarthur:0.00800450144527, lewis_cass:0.00744142005091, francisco_pizarro:0.00718397420107, adolf_eichmann:0.00714554867302, rough_riders:0.00685289972995, william_henry_harrison:0.00677865359545, john_c._calhoun:0.00673514993679
+
+he
+emilio_aguinaldo:0.0391431785257, napoleon_iii:0.0365717697777, ming_dynasty:0.0325225316326, darius_i:0.0243714060219, konrad_adenauer:0.0212971500573, georges_clemenceau:0.0173176704803, neville_chamberlain:0.0168642905331, benito_mussolini:0.0161966553343, paul_von_hindenburg:0.0158717906853, salvador_allende:0.0150099962711, adolf_eichmann:0.0138374768488, paris_commune:0.0129169434567, francisco_franco:0.0124998534034, ethiopia:0.0121270511089, rough_riders:0.0121181317714, nero:0.0115597679572, jamaica:0.0114911114488, falklands_war:0.0114813674755, william_howard_taft:0.0106778835084, hannibal:0.0105015639004
+
+he
+francisco_franco:0.0383488577287, darius_i:0.0339117897969, emilio_aguinaldo:0.0292269833228, napoleon_iii:0.0279374562663, ming_dynasty:0.0232362744409, benito_mussolini:0.015574795308, adolf_eichmann:0.0146439416557, salvador_allende:0.0143979540973, jawaharlal_nehru:0.0136334819116, konrad_adenauer:0.0124436164471, winston_churchill:0.0122701899782, charles_martel:0.012122986672, william_henry_harrison:0.0109107827576, neville_chamberlain:0.0108177792424, ethiopia:0.0105113019132, paul_von_hindenburg:0.0103760109499, paris_commune:0.0103463270955, nero:0.0100466653589, georges_clemenceau:0.00881264371663, john_brown_(abolitionist):0.00779552750512
+
+he
+francisco_franco:0.0639853472986, emilio_aguinaldo:0.034485111468, darius_i:0.0221111190627, adolf_eichmann:0.0196388362961, benito_mussolini:0.019161929795, napoleon_iii:0.0188211336037, salvador_allende:0.0143067010097, ming_dynasty:0.0135624206599, jawaharlal_nehru:0.0127910089504, georges_clemenceau:0.0122892236804, winston_churchill:0.011912014393, paul_von_hindenburg:0.0103351578089, charles_martel:0.00960701511095, konrad_adenauer:0.00915624101028, william_henry_harrison:0.00895061433333, antonio_lopez_de_santa_anna:0.00877490705241, neville_chamberlain:0.00796481740763, ethiopia:0.00794967460267, john_brown_(abolitionist):0.00794582080373, mobutu_sese_seko:0.00750545319727
+
+None
+compromise_of_1850:0.13320498011, second_bank_of_the_united_states:0.0119409931132, seminole_wars:0.00976077648837, luddite:0.00917525546642, roger_b._taney:0.00897663200362
+
+he
+william_ewart_gladstone:0.123619741036, benjamin_disraeli:0.0805747286537, john_c._calhoun:0.0589461872925, henry_vii_of_england:0.0279355730847, alexander_h._stephens:0.0237274720824, robert_walpole:0.0193977155438, maximilien_de_robespierre:0.019026321269, jefferson_davis:0.0186837463163, charles_stewart_parnell:0.0158202941634, opium_wars:0.0112984999063, dorr_rebellion:0.0104754566826, whiskey_ring:0.00997902060042, david_lloyd_george:0.00993349371282, winston_churchill:0.0097282131256, john_brown_(abolitionist):0.00963555052663, ostend_manifesto:0.00942832425881, second_bank_of_the_united_states:0.00937871353961, elizabeth_cady_stanton:0.00891528105527, thomas_hart_benton_(politician):0.0081665623444, muhammad_ali_jinnah:0.00809854367539
+
+he
+william_ewart_gladstone:0.284934897763, benjamin_disraeli:0.179458627581, john_c._calhoun:0.017822986211, david_lloyd_george:0.0170863137574, robert_walpole:0.0127713529087, muhammad_ali_jinnah:0.0101902519767, alexander_ii_of_russia:0.00896708043588, dorr_rebellion:0.00896560238584, whiskey_ring:0.00843403494962, hideki_tojo:0.00841384068251, brian_mulroney:0.00814883909751, otto_von_bismarck:0.00803864196406, alexander_h._stephens:0.00799863971164, henry_vii_of_england:0.00791325243242, oliver_cromwell:0.00710124282189, ostend_manifesto:0.00655860058334, huldrych_zwingli:0.00586338479854, opium_wars:0.00585512227069, charles_stewart_parnell:0.00566826575251, cultural_revolution:0.00554471908178
+
+he
+william_ewart_gladstone:0.249538984543, benjamin_disraeli:0.16712935527, david_lloyd_george:0.0228107898316, charles_stewart_parnell:0.0128051926975, brian_mulroney:0.0119950961484, john_c._calhoun:0.0115359616381, muhammad_ali_jinnah:0.00929254678639, robert_walpole:0.00915576273043, alexander_kerensky:0.00859287742002, oliver_cromwell:0.00844268584579, henry_vii_of_england:0.00773371883767, whiskey_ring:0.00649812287393, girolamo_savonarola:0.00619890404132, kwame_nkrumah:0.0061752004413, charles_lindbergh:0.0061477830899, hideki_tojo:0.00597920986479, clarence_darrow:0.00583872502519, samuel_adams:0.00560406986463, opium_wars:0.00517590931878, alexander_h._stephens:0.00517464370642
+
+he
+benjamin_disraeli:0.257423435159, william_ewart_gladstone:0.206640969751, david_lloyd_george:0.0210382432689, brian_mulroney:0.0175247977573, charles_stewart_parnell:0.0112411087576, alexander_kerensky:0.00883523387363, robert_walpole:0.00852593772493, kwame_nkrumah:0.00785779277329, muhammad_ali_jinnah:0.00750201066207, oliver_cromwell:0.00668461641652, whiskey_ring:0.00667813021058, john_c._calhoun:0.00628702993968, clarence_darrow:0.0058970879171, margaret_thatcher:0.00582621185141, hideki_tojo:0.00580224363744, opium_wars:0.00564197193807, girolamo_savonarola:0.0054453555322, neville_chamberlain:0.00496382081391, charles_lindbergh:0.00493894432517, cultural_revolution:0.00482926756285
+
+None
+compromise_of_1850:0.0654801351089, roger_b._taney:0.0292371847618, greenback_party:0.0285717861043, homestead_strike:0.0184189059323, wilmot_proviso:0.0174409633819, schenck_v._united_states:0.0167743848951, dorr_rebellion:0.0135212680649, missouri_compromise:0.0105415899434
+
+he
+william_h._seward:0.0444338464169, john_sherman:0.0372136521719, salmon_p._chase:0.031460077762, william_jennings_bryan:0.0303796357493, william_mckinley:0.024892605547, schenck_v._united_states:0.0224912182146, millard_fillmore:0.0208684331822, wilmot_proviso:0.0178715629469, roger_b._taney:0.0172613753414, george_b._mcclellan:0.0170544620027, martin_van_buren:0.0151896249585, lester_b._pearson:0.0147026714662, charles_evans_hughes:0.0132986967483, stephen_a._douglas:0.0130818368479, george_wallace:0.0125142425444, george_h._pendleton:0.012305226502, william_henry_harrison:0.0122384836743, miguel_hidalgo_y_costilla:0.0122170495268, earl_warren:0.0116718199841, alexander_h._stephens:0.0115561483867
+
+he
+salmon_p._chase:0.217887741615, martin_van_buren:0.0522257618329, william_h._seward:0.050560448308, john_sherman:0.038443594087, james_buchanan:0.0252500018768, millard_fillmore:0.022930785424, william_mckinley:0.0207358306712, schenck_v._united_states:0.0132875242729, lester_b._pearson:0.0126683081726, wilmot_proviso:0.0116879224414, roger_b._taney:0.0115775890753, henry_clay:0.0115490607771, sam_houston:0.0108514736039, eugene_v._debs:0.0102541158711, charles_sumner:0.00913588154347, grover_cleveland:0.00866691819427, george_wallace:0.00857534607698, stephen_a._douglas:0.00748761889215, lewis_cass:0.00718897292324, william_jennings_bryan:0.00685364642454
+
+he
+salmon_p._chase:0.280839617453, william_h._seward:0.0388959433059, john_sherman:0.0289071550487, millard_fillmore:0.0242615272267, martin_van_buren:0.0214560112081, william_mckinley:0.0160197467245, james_buchanan:0.0155014217345, lester_b._pearson:0.014506598269, schenck_v._united_states:0.0139470249787, roger_b._taney:0.0113843794625, henry_clay:0.0104337000118, sam_houston:0.00889483228285, george_wallace:0.00832296618891, stephen_a._douglas:0.00823069265711, wilmot_proviso:0.00775065575768, charles_sumner:0.00738943573999, eugene_v._debs:0.0072494692993, john_tyler:0.00705957388468, mapp_v._ohio:0.00655958198066, henry_cabot_lodge,_jr.:0.00628925855394
+
+his
+millard_fillmore:0.101228899912, chiang_kai-shek:0.0671243135577, mark_antony:0.0440476544945, mao_zedong:0.0437311761941, alexander_ii_of_russia:0.0404960935483, adolf_hitler:0.0389581969598, rough_riders:0.0363079623407, tokugawa_ieyasu:0.0320962443483, stephen_a._douglas:0.0204678028567, peter_the_great:0.0196612778776, maximilien_de_robespierre:0.0125712681342, nikita_khrushchev:0.0119582418495, prague_spring:0.0111739104198, tecumseh:0.0110106230335, george_washington:0.0100336794733, atahualpa:0.0098677674579, benjamin_disraeli:0.00944998098719, emiliano_zapata:0.00846127180972, bastille:0.00846013089964, alexander_kerensky:0.00827299508309
+
+he
+grover_cleveland:0.0594977007698, adolf_hitler:0.0482418136711, walter_mondale:0.0407086261939, mao_zedong:0.024829464057, andrew_jackson:0.0244874383981, warren_g._harding:0.0221657039907, peace_of_westphalia:0.0210897558916, truman_doctrine:0.0142107461114, chiang_kai-shek:0.0141644335541, millard_fillmore:0.012434057765, tokugawa_ieyasu:0.0112539059087, spiro_agnew:0.0111741420059, porfirio_diaz:0.0101744833915, ronald_reagan:0.00941982003778, charles_martel:0.00930864414567, tecumseh:0.00912827357903, mark_antony:0.00912452928312, rough_riders:0.00898248522425, maria_theresa:0.00824691497376, darius_i:0.00804930926751
+
+he
+walter_mondale:0.377201033516, grover_cleveland:0.0442659406613, ronald_reagan:0.0301959273176, hubert_humphrey:0.0187601649995, andrew_jackson:0.0161506398577, adolf_hitler:0.0153299508417, warren_g._harding:0.0129448994843, spiro_agnew:0.0125061447258, millard_fillmore:0.0110120037889, mao_zedong:0.0101204456314, earl_warren:0.0101195963066, darius_i:0.00970914256545, jimmy_carter:0.00937779248715, henry_cabot_lodge:0.00876186134006, barry_goldwater:0.00875427357573, charles_evans_hughes:0.00857483866666, free_soil_party:0.00699685273695, charles_de_gaulle:0.00673363809457, henry_cabot_lodge,_jr.:0.0066735441811, brian_mulroney:0.00654069948321
+
+None
+molly_maguires:0.0253855416182, battle_of_gettysburg:0.0114661722736, cultural_revolution:0.0110338311794, war_of_the_pacific:0.00938010250638, martin_luther:0.00849163874109, whiskey_rebellion:0.00800752070816
+
+he
+benjamin_disraeli:0.139117353222, john_sherman:0.035301105707, elizabeth_cady_stanton:0.0231444886658, james_a._garfield:0.0154298146854, marco_polo:0.0132072013077, alexander_ii_of_russia:0.0112113161967, martin_luther:0.0108501715031, harry_s._truman:0.00912773425928, winston_churchill:0.00910957100907, neville_chamberlain:0.00895233834079, molly_maguires:0.00858912345364, henry_cabot_lodge:0.00851369498413, otto_von_bismarck:0.0082847409055, samuel_adams:0.00820708235897, frederick_douglass:0.0079680759884, calvin_coolidge:0.00772361072809, seneca_falls_convention:0.00754056571358, napoleon_iii:0.00739826902601, john_hay:0.00736392886916, adolf_hitler:0.00689773540293
+
+he
+benjamin_disraeli:0.504966999019, william_ewart_gladstone:0.0300197906064, charles_stewart_parnell:0.0151624082121, maria_theresa:0.0117881508112, winston_churchill:0.0110779080212, neville_chamberlain:0.00988907509991, arthur_wellesley,_1st_duke_of_wellington:0.00812290864355, elizabeth_cady_stanton:0.00741785549296, john_hancock:0.00709513163894, alexander_ii_of_russia:0.00638613477411, muhammad_ali_jinnah:0.00612065471616, napoleon_iii:0.00572620808548, cecil_rhodes:0.00504929079209, seneca_falls_convention:0.00494120171115, samuel_adams:0.00467222441659, battle_of_plassey:0.00426287819608, alexander_h._stephens:0.00409977240717, war_of_the_spanish_succession:0.00407223567047, margaret_thatcher:0.00404859733953, cultural_revolution:0.00404305756236
+
+he
+benjamin_disraeli:0.606883229456, charles_stewart_parnell:0.038212153298, william_ewart_gladstone:0.0269367772377, neville_chamberlain:0.0111891065526, winston_churchill:0.00902835317386, muhammad_ali_jinnah:0.00638753797627, maria_theresa:0.00514652400812, cultural_revolution:0.00429175406228, elizabeth_cady_stanton:0.00416432064597, john_hancock:0.00403077381313, adolf_hitler:0.00401795869565, arthur_wellesley,_1st_duke_of_wellington:0.00391857040624, napoleon_iii:0.00387088010145, cecil_rhodes:0.0036017389448, marco_polo:0.00328756931645, paul_von_hindenburg:0.00326247842743, seneca_falls_convention:0.00317895032853, battle_of_tannenberg:0.0031444127706, battle_of_plassey:0.0031426884236, jameson_raid:0.00303277444157
+
+he
+william_henry_harrison:0.10253067341, eleanor_roosevelt:0.054889806035, stephen_a._douglas:0.0250607939142, muhammad_ali_jinnah:0.0214543581574, treaty_of_ghent:0.0208932795935, dorr_rebellion:0.0205930964504, peterloo_massacre:0.0182492865198, william_tecumseh_sherman:0.0180021441848, brigham_young:0.0176375026088, thomas_jefferson:0.0159107368189, francisco_franco:0.0145386009035, james_buchanan:0.0144313129519, winston_churchill:0.0133951597394, alexander_h._stephens:0.0127218085789, oliver_cromwell:0.0122504721273, john_c._calhoun:0.0112512068764, fidel_castro:0.0111703065069, wars_of_the_roses:0.00975413305819, john_tyler:0.00938268516564, william_h._seward:0.00880069474733
+
+he
+william_henry_harrison:0.0360263678274, eleanor_roosevelt:0.0310938128064, muhammad_ali_jinnah:0.0290118117709, jawaharlal_nehru:0.0270350302582, winston_churchill:0.0187706022519, wars_of_the_roses:0.0136261503114, brigham_young:0.0128403756222, william_tecumseh_sherman:0.0126756429848, ambrose_burnside:0.0112526285644, dorr_rebellion:0.0104845515932, indira_gandhi:0.0103069280602, pepin_the_short:0.00983827074864, booker_t._washington:0.00962752529444, treaty_of_ghent:0.00950022647021, john_c._calhoun:0.00906472484673, victoria_woodhull:0.00893264530086, alexander_h._stephens:0.00852873171679, mapp_v._ohio:0.00800813111526, luddite:0.00786771599558, hideki_tojo:0.00771420155663
+
+he
+jawaharlal_nehru:0.0339485862745, william_henry_harrison:0.0276565236629, muhammad_ali_jinnah:0.0238079292969, winston_churchill:0.0159822772067, brigham_young:0.0123679314885, kwame_nkrumah:0.0115088954258, eleanor_roosevelt:0.0106325721797, indira_gandhi:0.0105336775395, william_tecumseh_sherman:0.010302333255, booker_t._washington:0.00846762298683, alexander_h._stephens:0.0084104891403, francisco_franco:0.0083513192831, wars_of_the_roses:0.00783426390475, charles_stewart_parnell:0.00775267000854, adolf_eichmann:0.00692386023627, hideki_tojo:0.00691476069712, victoria_woodhull:0.00679365224992, benjamin_disraeli:0.00665002750134, benito_mussolini:0.00655402445239, mapp_v._ohio:0.00630282021609
+
+he
+muhammad_ali_jinnah:0.0630508189849, jawaharlal_nehru:0.0319637331526, indira_gandhi:0.0217465292126, benjamin_disraeli:0.0188099892498, william_henry_harrison:0.012948167697, winston_churchill:0.0129207125709, kwame_nkrumah:0.0112497447752, brigham_young:0.0100349276166, eleanor_roosevelt:0.00988963458383, mapp_v._ohio:0.00870996182775, victoria_woodhull:0.00859869767918, chiang_kai-shek:0.00856331601846, william_tecumseh_sherman:0.00835261585071, booker_t._washington:0.00828536863161, alexander_h._stephens:0.00795355850929, john_c._calhoun:0.00753426580371, arthur_wellesley,_1st_duke_of_wellington:0.00739868430043, henry_l._stimson:0.00695954007993, charles_stewart_parnell:0.00683684812873, mustafa_kemal_ataturk:0.00671952678758
+
+his
+henry_i_of_england:0.145803962254, eleanor_of_aquitaine:0.0767178012281, thirty_years'_war:0.0580995572714, wars_of_the_roses:0.0305352300763, arthur_wellesley,_1st_duke_of_wellington:0.0292442997586, kulturkampf:0.0254232133672, alfred_the_great:0.0250406850969, peace_of_westphalia:0.0205098587223, alfred_dreyfus:0.0171255678914, girolamo_savonarola:0.0167830931862, hugh_capet:0.01509700885, tokugawa_ieyasu:0.013706706192, dorr_rebellion:0.0136014577357, robert_walpole:0.0108203387192, hideki_tojo:0.0106979390138, credit_mobilier_of_america_scandal:0.0100955127127, mary,_queen_of_scots:0.0100239278371, aaron_burr:0.00821610482767, clarence_darrow:0.00732734748414, second_bank_of_the_united_states:0.00683182016675
+
+his
+henry_i_of_england:0.0224379954671, oliver_cromwell:0.016212259339, tecumseh:0.0151424531434, hideki_tojo:0.0149221325912, peace_of_westphalia:0.0147388727812, francisco_franco:0.0134246005594, thirty_years'_war:0.0112192183371, wars_of_the_roses:0.0111067800521, arthur_wellesley,_1st_duke_of_wellington:0.0102253486827, war_of_the_austrian_succession:0.0101497383847, eleanor_of_aquitaine:0.00995928720699, napoleon_iii:0.00934471190855, henry_vii_of_england:0.00929387012116, alexander_kerensky:0.00925058831107, david_lloyd_george:0.00913253100746, adolf_eichmann:0.00856599024548, kulturkampf:0.00818635999636, otto_von_bismarck:0.00807851890703, mark_antony:0.00796382043866, maria_theresa:0.00780550581077
+
+his
+hideki_tojo:0.0143920339482, thirty_years'_war:0.0134426934097, david_livingstone:0.0108431557392, alfred_the_great:0.0107652273361, napoleon_iii:0.0106107943661, otto_von_bismarck:0.0103903565514, peace_of_westphalia:0.0103517210567, wars_of_the_roses:0.0100870482347, kulturkampf:0.0097777443922, black_panther_party:0.00892270311259, henry_i_of_england:0.00872233697104, lewis_cass:0.00863881569392, robert_walpole:0.00845913818069, congress_of_berlin:0.00772456357933, charles_stewart_parnell:0.00768169801219, muhammad_ali_jinnah:0.00691349304212, david_lloyd_george:0.00682696208261, alexander_kerensky:0.00657898200081, barry_goldwater:0.00647113512102, adolf_eichmann:0.00630442965159
+
+his
+francisco_franco:0.0175062356277, napoleon_iii:0.014698105653, mark_antony:0.0130037642572, hideki_tojo:0.0102358802029, peace_of_westphalia:0.0100374880774, thirty_years'_war:0.00977749887702, jawaharlal_nehru:0.00848538770375, paul_von_hindenburg:0.00830473184535, robert_walpole:0.00824795995578, john_brown_(abolitionist):0.00788089376718, charles_stewart_parnell:0.00723069531726, david_lloyd_george:0.00703844584647, oliver_cromwell:0.00693282431528, dorr_rebellion:0.00680782598358, konrad_adenauer:0.00645522367706, brian_mulroney:0.00632550882772, alfred_the_great:0.00627854633979, winston_churchill:0.00624333067281, otto_von_bismarck:0.00616194136329, thomas_paine:0.00614407261416
+
+his
+jawaharlal_nehru:0.0248515204152, muhammad_ali_jinnah:0.018059015985, napoleon_iii:0.014330951091, kwame_nkrumah:0.0122941569598, francisco_franco:0.0121854362844, neville_chamberlain:0.0119924753202, indira_gandhi:0.0111423334274, hideki_tojo:0.00953871749823, winston_churchill:0.00930723975944, paul_von_hindenburg:0.00890720351555, benjamin_disraeli:0.00864755908722, camillo_benso,_count_of_cavour:0.00778385428867, konrad_adenauer:0.00774792817118, adolf_eichmann:0.00748425272534, ghana:0.00704742920858, brian_mulroney:0.00678008793973, nelson_mandela:0.00675659807949, oliver_cromwell:0.00645396144661, labour_party_(uk):0.00620920527368, tecumseh:0.00609905250417
+
+its
+battle_of_caporetto:0.324992233108, battle_of_kings_mountain:0.0660564625035, finland:0.0369406140652, porfirio_diaz:0.0267312427136, second_boer_war:0.0183448003736, peace_of_westphalia:0.0176221581758, battle_of_antietam:0.0129145852614, battle_of_plassey:0.00903232806296, cultural_revolution:0.00878294065745, first_crusade:0.00665326599381, night_of_the_long_knives:0.00595593625046, battle_of_the_thames:0.0054330616415
+
+its
+battle_of_caporetto:0.60371616303, night_of_the_long_knives:0.0172590629921, battle_of_bannockburn:0.0115245911313, battle_of_the_bulge:0.0105093214732, battle_of_kings_mountain:0.01011877117, peace_of_westphalia:0.00769760013315, battle_of_tannenberg:0.00588738095035, battle_of_trafalgar:0.00536790158002, porfirio_diaz:0.00403284399161, congress_of_berlin:0.00399257751413, boston_massacre:0.00375976189613, battle_of_leyte_gulf:0.00349788809682
+
+its
+battle_of_caporetto:0.344996863523, battle_of_the_bulge:0.0165234270911, battle_of_bannockburn:0.0121871239092, battle_of_kings_mountain:0.0120075653065, battle_of_trafalgar:0.0115427250336, night_of_the_long_knives:0.0105914441996, battle_of_tannenberg:0.00871789119912, peace_of_westphalia:0.00731911066718, battle_of_leyte_gulf:0.00709320780586, congress_of_berlin:0.00633401571822, verdun:0.00596454405873, second_boer_war:0.00572848969352, porfirio_diaz:0.00564187116353, battle_of_austerlitz:0.00547242558683
+
+he
+council_of_constance:0.12500344897, edward_the_confessor:0.0522273389307, henry_i_of_england:0.0521339032727, william_lloyd_garrison:0.0463580882506, william_the_conqueror:0.0363960990792, eleanor_of_aquitaine:0.0272497313336, john_sherman:0.0237111435571, battle_of_bosworth_field:0.023248907418, hannibal:0.0204112831704, battle_of_shiloh:0.0173492964302, genghis_khan:0.0168792455778, ethiopia:0.0164953747131, otto_von_bismarck:0.016214243514, philip_ii_of_macedon:0.0144863525066, peloponnesian_war:0.0135383105117, kublai_khan:0.0122245389017, battle_of_hastings:0.0113416344493, john_marshall:0.0105170736757, john_wycliffe:0.00992188311823, william_penn:0.00990707030072
+
+he
+pepin_the_short:0.688605750563, charlemagne:0.127914853083, william_the_conqueror:0.0504125065313, henry_i_of_england:0.0141608929532, hannibal:0.00510247568461, christopher_columbus:0.00345437955667, attila:0.00344231354196, martin_luther:0.00328319062607, edward_the_confessor:0.00318669452789, missouri_compromise:0.00263636841221, oliver_cromwell:0.00258219377479, first_crusade:0.00258044769655, atahualpa:0.00237252289669, tecumseh:0.00233435049519, haile_selassie:0.00213673707489, william_lloyd_garrison:0.002126775708, peter_the_great:0.00210145082794, eleanor_of_aquitaine:0.00199664653975, charles_martel:0.00197682141021, maine:0.00197402460374
+
+he
+pepin_the_short:0.302459273465, charlemagne:0.300931407221, william_the_conqueror:0.0357636180498, claudius:0.0203884874284, henry_i_of_england:0.0156453511545, haile_selassie:0.0113623500239, attila:0.0109530957223, edward_the_confessor:0.00835992485851, peter_the_great:0.00733473954979, charles_martel:0.00651886436918, vandals:0.00641835900537, ivan_the_terrible:0.00634864745852, hannibal:0.00526564092205, atahualpa:0.004756150186, martin_luther:0.00447945639631, nero:0.00445332995142, tecumseh:0.00441369673432, eleanor_of_aquitaine:0.00437882909629, missouri_compromise:0.00411690124807, first_crusade:0.00398339703315
+
+None
+cultural_revolution:0.0441770783443, prague_spring:0.021649939892, porfirio_diaz:0.0149918212784, hartford_convention:0.0129474126926, july_revolution:0.0127143871407, free_soil_party:0.0121999261387, tang_dynasty:0.00949149910472, jameson_raid:0.0082875444113, wounded_knee_massacre:0.00671578875105
+
+he
+claudius:0.0418869097373, huey_long:0.033529331848, thomas_hart_benton_(politician):0.0249570199358, fashoda_incident:0.0211451369592, free_soil_party:0.0211273015281, girolamo_savonarola:0.0144655092852, warren_g._harding:0.0131001146132, cultural_revolution:0.0130717669154, benito_juarez:0.0124500447979, anti-masonic_party:0.0117494650895, oregon_trail:0.0105771326964, porfirio_diaz:0.0103332098132, daniel_boone:0.0100292066527, vandals:0.0100115288248, hubert_humphrey:0.0100017776706, amelia_earhart:0.00923097941574, getulio_vargas:0.00914507012808, easter_rising:0.00876749409712, julius_nyerere:0.00839143307807, booker_t._washington:0.00828564890856
+
+his
+thomas_hart_benton_(politician):0.160164363493, claudius:0.0148988848523, horace_greeley:0.0102226652573, brook_farm:0.0099391205628, warren_g._harding:0.0097325691983, huey_long:0.00936758778821, fashoda_incident:0.00935177818737, joseph_mccarthy:0.0092985808849, daniel_boone:0.00902693749327, hubert_humphrey:0.0085381177345, nelson_mandela:0.00845981572078, free_soil_party:0.00815272209973, porfirio_diaz:0.00807227961251, teapot_dome_scandal:0.00746128505391, finland:0.00738452101694, girolamo_savonarola:0.0073275250486, benito_juarez:0.00680820833023, vandals:0.00660916510768, gadsden_purchase:0.00648524302076, oregon_trail:0.00639326959639
+
+his
+thomas_hart_benton_(politician):0.22801133408, free_soil_party:0.0129268615225, warren_g._harding:0.0113674876214, joseph_mccarthy:0.010847810388, adlai_stevenson_ii:0.0108208801715, fashoda_incident:0.010568704993, claudius:0.0100047414906, huey_long:0.00931047205403, john_sherman:0.00899361201975, porfirio_diaz:0.00780139007369, easter_rising:0.00743885435275, hubert_humphrey:0.00665684793301, clarence_darrow:0.00664210103572, barry_goldwater:0.00664101427034, benjamin_harrison:0.00655421322411, daniel_boone:0.00626161522723, war_of_the_pacific:0.00612136658553, horace_greeley:0.0058556556991, zebulon_pike:0.00575643238415, rutherford_b._hayes:0.00564917724752
+
+his
+thomas_hart_benton_(politician):0.244092842135, free_soil_party:0.012371732384, fashoda_incident:0.0118735238162, joseph_mccarthy:0.0114271386532, claudius:0.0110605464918, warren_g._harding:0.0108443941563, huey_long:0.00940613376039, daniel_boone:0.00891144244245, adlai_stevenson_ii:0.00819068261762, porfirio_diaz:0.00767119656238, anti-masonic_party:0.00748384046316, benjamin_harrison:0.00736120781008, zebulon_pike:0.00730512194671, hubert_humphrey:0.00729867319681, wilmot_proviso:0.00667947158401, gadsden_purchase:0.00647157470895, teapot_dome_scandal:0.0060593707886, hull_house:0.00594100444558, horace_greeley:0.00568397903476, john_sherman:0.00567189555369
+
+his
+roger_b._taney:0.201571834618, knights_of_labor:0.031782568614, andrew_jackson:0.0217295838443, whig_party_(united_states):0.0168032508441, salem_witch_trials:0.0163436458742, alexander_h._stephens:0.0147906455636, antonio_de_oliveira_salazar:0.0130002975981, war_of_the_pacific:0.0121413003642, john_paul_jones:0.0115684495514, lester_b._pearson:0.0103343952414, miguel_hidalgo_y_costilla:0.0100377920149, james_a._garfield:0.00988324544271, luddite:0.00976079558293, bartolomeu_dias:0.00967130331551, triangle_shirtwaist_factory_fire:0.00866293940627, getulio_vargas:0.00856228640024, benito_juarez:0.00839767979521, stephen_a._douglas:0.00815898039682, teapot_dome_scandal:0.00785543470916, john_a._macdonald:0.00771778557835
+
+his
+roger_b._taney:0.0542643123648, anti-masonic_party:0.0364442955753, andrew_jackson:0.0299121642344, salem_witch_trials:0.0225372621202, john_a._macdonald:0.018925992142, antonio_de_oliveira_salazar:0.0165661056303, chester_a._arthur:0.0139252037755, james_a._garfield:0.0110213211736, bartolomeu_dias:0.0102000806033, luddite:0.0100253018746, dorr_rebellion:0.0099126600253, battle_of_the_thames:0.00978687756757, alexander_h._stephens:0.00967309599827, samuel_j._tilden:0.00960919396152, gang_of_four:0.00925673803286, henry_the_navigator:0.00907466310468, marco_polo:0.00875506241124, james_k._polk:0.00815373494396, camillo_benso,_count_of_cavour:0.00693739381827, portugal:0.00688013256667
+
+he
+roger_b._taney:0.101851489337, samuel_j._tilden:0.014421569432, andrew_jackson:0.0132311231719, salem_witch_trials:0.0125828860914, shays'_rebellion:0.0124733381709, thomas_hart_benton_(politician):0.0121647720328, lewis_cass:0.0119477317934, whig_party_(united_states):0.011845971466, james_k._polk:0.0118053858319, henry_the_navigator:0.0100273336705, salmon_p._chase:0.00989869418962, james_a._garfield:0.00963098164611, john_wycliffe:0.0089177762657, alexander_h._stephens:0.0086780711538, second_bank_of_the_united_states:0.00803525075683, john_sherman:0.00743092401434, john_a._macdonald:0.00736188557064, antonio_de_oliveira_salazar:0.00733261093682, martin_van_buren:0.00665817749425, chester_a._arthur:0.0063719022252
+
+his
+roger_b._taney:0.224523162839, james_a._garfield:0.0135416617526, ambrose_burnside:0.0109609755589, fugitive_slave_laws:0.0107039710952, shays'_rebellion:0.0105925630227, antonio_de_oliveira_salazar:0.0103882783122, benito_juarez:0.0103638377736, henry_the_navigator:0.0101189911832, salem_witch_trials:0.0100319561029, thomas_hart_benton_(politician):0.00868608818097, salmon_p._chase:0.0081953894105, john_wycliffe:0.00814685091617, miguel_hidalgo_y_costilla:0.00786292700255, alexander_h._stephens:0.00746503694848, roger_williams_(theologian):0.00745612288719, jawaharlal_nehru:0.00697603769309, sam_houston:0.00665888031068, compromise_of_1850:0.00653198749062, william_h._seward:0.00641408049846, benito_mussolini:0.00628091307583
+
+his
+roger_b._taney:0.26707398785, john_marshall:0.0114856014589, antonio_de_oliveira_salazar:0.0112718989909, salmon_p._chase:0.0110467591055, fugitive_slave_laws:0.0110228549834, james_a._garfield:0.0106918869914, earl_warren:0.00940261373853, ambrose_burnside:0.00916770045402, john_wycliffe:0.00907567646235, stephen_a._douglas:0.00883210628377, benito_juarez:0.00830229497556, thomas_hart_benton_(politician):0.00770073893408, shays'_rebellion:0.00759541219978, whig_party_(united_states):0.00748281729785, salem_witch_trials:0.00715238617862, compromise_of_1850:0.00703845622906, sam_houston:0.00699452971812, alexander_hamilton:0.00685880346234, chester_a._arthur:0.00668793658954, roger_williams_(theologian):0.00662616719159
+
+it
+council_of_constance:0.0893362608193, yuan_dynasty:0.0436995376, sherman_antitrust_act:0.0161404292688, paraguay:0.0108736731313, teutonic_knights:0.0106541278076, ming_dynasty:0.0105905888939, battle_of_shiloh:0.00925998093118, lollardy:0.00890138489541
+
+it
+council_of_constance:0.657971450034, yuan_dynasty:0.0188791692336, teutonic_knights:0.0109287183354, diet_of_worms:0.00931728588502, council_of_chalcedon:0.00791734564968, ming_dynasty:0.00789572386751, martin_luther:0.00746853141423, boston_massacre:0.00484329792227, battle_of_hastings:0.00419659706316, council_of_trent:0.00378909262339
+
+it
+third_crusade:0.0396665937019, spanish_civil_war:0.0340719099264, peterloo_massacre:0.0307659533718, maine:0.0190061642901, hartford_convention:0.0175664496419, umayyad_caliphate:0.0164421931278, wars_of_the_roses:0.0142903557428, council_of_chalcedon:0.0134395211162, peloponnesian_war:0.0133905487749, paris_commune:0.0118675011019, battle_of_lepanto:0.0116204559919, great_northern_war:0.0114708807493, safavid_dynasty:0.0113919583773, first_crusade:0.0110888809239, war_of_the_pacific:0.0110372756421, tang_dynasty:0.010791460376, st._bartholomew's_day_massacre:0.00940495530206
+
+it
+third_crusade:0.0692939891014, battle_of_lepanto:0.04601933888, war_of_the_spanish_succession:0.0353142660518, peloponnesian_war:0.0335241107781, first_crusade:0.0314532544474, battle_of_chancellorsville:0.0219872380657, battle_of_bosworth_field:0.0165010484206, battle_of_hastings:0.0160992512437, spanish_civil_war:0.0156112885945, battle_of_bannockburn:0.0149831701736, umayyad_caliphate:0.012778955091, wars_of_the_roses:0.0125946606892, battle_of_agincourt:0.0116302199367, safavid_dynasty:0.011274155602, st._bartholomew's_day_massacre:0.0106747104586, congress_of_berlin:0.00987790092921, battle_of_culloden:0.00899412994941, battle_of_plassey:0.00897076938086, council_of_chalcedon:0.00886746820275
+
+it
+battle_of_lepanto:0.471821803743, war_of_the_spanish_succession:0.0210818272566, battle_of_chancellorsville:0.0191361163362, battle_of_bannockburn:0.0162514703573, peloponnesian_war:0.0130461500873, battle_of_agincourt:0.0112027646222, first_crusade:0.00898537242066, third_crusade:0.00797904355933, battle_of_bosworth_field:0.00772767037108, peace_of_westphalia:0.00674361117244, great_northern_war:0.00671950572825, congress_of_berlin:0.00616886608545, battle_of_austerlitz:0.00615584103588, st._bartholomew's_day_massacre:0.00608253788367, umayyad_caliphate:0.0057666370094, battle_of_culloden:0.00546135369852, battle_of_hastings:0.00518613077287, battle_of_caporetto:0.0051132062006, battle_of_trafalgar:0.00503715170811
+
+it
+battle_of_lepanto:0.579555554409, war_of_the_spanish_succession:0.0205452040853, battle_of_chancellorsville:0.014727560757, battle_of_bannockburn:0.011729490269, battle_of_agincourt:0.00882966568425, great_northern_war:0.00879382497724, peloponnesian_war:0.00862663675234, peace_of_westphalia:0.0063293562008, umayyad_caliphate:0.00610274147288, battle_of_trafalgar:0.00566378549636, first_crusade:0.00558121522527, battle_of_actium:0.00538151308188, battle_of_austerlitz:0.00529955231435, congress_of_berlin:0.00505149035596, third_crusade:0.00449274476742, battle_of_culloden:0.00432958868205, portugal:0.00411772743337, battle_of_bosworth_field:0.00409394159223
+
+he
+barry_goldwater:0.0693414368747, alexander_h._stephens:0.0338265475649, clarence_darrow:0.0250475640907, kublai_khan:0.0237662378721, hannibal:0.0178338876821, taiping_rebellion:0.0169531197679, fourth_crusade:0.0148158239608, thomas_hart_benton_(politician):0.0144375908439, charles_martel:0.0138832653377, solon:0.0137771354302, alfred_the_great:0.0135602896571, robert_walpole:0.0135176919016, atlantic_charter:0.0133032611206, toyotomi_hideyoshi:0.0131576005815, ancient_corinth:0.0114600631506, battle_of_agincourt:0.010774815648, dawes_plan:0.0103206701539, darius_i:0.0102208732374, han_dynasty:0.0102070366652, henry_cabot_lodge,_jr.:0.0100996164093
+
+he
+tecumseh:0.0673841346827, hannibal:0.044200052574, battle_of_salamis:0.0169126354628, marcus_licinius_crassus:0.0125288910707, roger_williams_(theologian):0.0117801398938, claudius:0.0109278846578, truman_doctrine:0.0106508713807, charles_martel:0.0100212236764, barry_goldwater:0.00977941584413, carthage:0.0090186758824, benito_mussolini:0.00880615274391, adolf_eichmann:0.00813995067002, attila:0.00789043596945, atahualpa:0.00786071253362, teapot_dome_scandal:0.00784765302112, dawes_plan:0.00726432868517, thomas_hart_benton_(politician):0.00693236662696, gaius_marius:0.00683438033963, william_tecumseh_sherman:0.00660065113535, gang_of_four:0.00653174119874
+
+he
+tecumseh:0.190690211139, claudius:0.0256188417969, hannibal:0.0187443681023, roger_williams_(theologian):0.0102950757545, battle_of_the_thames:0.00960773392103, truman_doctrine:0.00907760544351, atahualpa:0.00882179755991, pancho_villa:0.00864229375549, attila:0.00844508695612, emilio_aguinaldo:0.00839864841809, darius_i:0.00794248020597, maria_theresa:0.00758758480896, adolf_eichmann:0.00713262999796, teapot_dome_scandal:0.00669859229102, marcus_licinius_crassus:0.00661795446666, barry_goldwater:0.00660997540086, vandals:0.00648247438618, william_henry_harrison:0.00636511306276, robert_walpole:0.00636405703961, dawes_plan:0.00607109224273
+
+his
+mapp_v._ohio:0.663002559712, schenck_v._united_states:0.0708979903654, george_b._mcclellan:0.0128693541045, roger_b._taney:0.0118341945735, earl_warren:0.0110416048891, treaty_of_waitangi:0.0110335830569, jay_treaty:0.00841795222252, eleanor_roosevelt:0.00650038817371, clayton_antitrust_act:0.00622912071993, hubert_humphrey:0.00584720146806, charles_evans_hughes:0.00560912991587, louis_brandeis:0.00502034262869, salmon_p._chase:0.00499264343883, samuel_gompers:0.00498840447116, manifest_destiny:0.00462317495403, muhammad_ali_jinnah:0.00410860812102, john_adams:0.00395823935247, stephen_a._douglas:0.00282175933076, lateran_treaty:0.00277847363947, labour_party_(uk):0.00273017058542
+
+his
+mapp_v._ohio:0.488179443897, schenck_v._united_states:0.0398575436019, george_b._mcclellan:0.0314881031889, clayton_antitrust_act:0.0140832779257, treaty_of_waitangi:0.0118357751224, charles_evans_hughes:0.0112156715638, samuel_gompers:0.0104259430797, earl_warren:0.00984993147768, stephen_a._douglas:0.00900701938296, muhammad_ali_jinnah:0.00892737026067, roger_b._taney:0.00858003370444, louis_brandeis:0.00821731943173, plessy_v._ferguson:0.0078313821187, sherman_antitrust_act:0.00714977732211, john_adams:0.00657164180071, cherokee:0.00612883123238, salmon_p._chase:0.00559731781733, jay_treaty:0.00536256444374, hubert_humphrey:0.0049426437096, woodrow_wilson:0.00475805405318
+
+his
+mapp_v._ohio:0.525142314516, george_b._mcclellan:0.0226287188775, schenck_v._united_states:0.021596620973, stephen_a._douglas:0.0115547238259, treaty_of_waitangi:0.0110676652664, muhammad_ali_jinnah:0.00974185937095, clayton_antitrust_act:0.00951848012512, roger_b._taney:0.00927514232369, john_adams:0.00779988729793, samuel_gompers:0.00751990317768, earl_warren:0.00741096470666, charles_evans_hughes:0.00671503594198, plessy_v._ferguson:0.00665034195208, louis_brandeis:0.0058271138288, salmon_p._chase:0.00527147303082, lateran_treaty:0.0047928387328, cherokee:0.00475443638805, albany_congress:0.00441663621769, jay_treaty:0.00440841092264, sherman_antitrust_act:0.00435279693873
+
+his
+mapp_v._ohio:0.37694338333, stephen_a._douglas:0.0210531302295, schenck_v._united_states:0.0194033345341, george_b._mcclellan:0.0179299508363, charles_evans_hughes:0.0163239293706, earl_warren:0.0137542310968, clayton_antitrust_act:0.0134998069026, roger_b._taney:0.0127456636238, louis_brandeis:0.00947919233675, plessy_v._ferguson:0.00931656269725, treaty_of_waitangi:0.00907627329001, salmon_p._chase:0.00892883880544, muhammad_ali_jinnah:0.00825836490731, john_adams:0.00791992574402, samuel_gompers:0.0071142439134, sherman_antitrust_act:0.00624878829472, thomas_jefferson:0.00541880290374, cherokee:0.00533416894974, labour_party_(uk):0.00520318415364, albany_congress:0.00514553573249
+
+its
+boston_massacre:0.0335673169031, wounded_knee_massacre:0.0248960535721, bonus_army:0.023702999969, treaty_of_ghent:0.0211635897981, dorr_rebellion:0.0156625976234, wars_of_the_roses:0.0154285826767, shays'_rebellion:0.0150310431103, battle_of_gettysburg:0.0146487703058, john_jay:0.010664323272, roger_b._taney:0.01044382578, treaty_of_brest-litovsk:0.0100268797151, embargo_act_of_1807:0.00946510028305, golden_horde:0.00935232180144
+
+its
+bonus_army:0.0225854932494, teapot_dome_scandal:0.0163271359251, whig_party_(united_states):0.0130118638625, kitchen_cabinet:0.0103156458217, treaty_of_brest-litovsk:0.0095047180898, coxey's_army:0.00850838424719, peterloo_massacre:0.00834787505103, paris_commune:0.00667635974144, ghana:0.00659797366745, battle_of_bunker_hill:0.0065030154691, rough_riders:0.00632138397709, night_of_the_long_knives:0.00626093376878
+
+its
+bonus_army:0.337220045133, golden_horde:0.0138241125668, green_mountain_boys:0.0098996460161, treaty_of_brest-litovsk:0.00980580822825, coxey's_army:0.00863590427907, ghana:0.00805721909258, fort_ticonderoga:0.00687077781661, caroline_affair:0.00632526685932, july_revolution:0.00577179163634, boxer_rebellion:0.00564471449879, dorr_rebellion:0.00550914874619, paris_commune:0.00528079236179, wounded_knee_massacre:0.00511981584957
+
+they
+bonus_army:0.452681721504, treaty_of_brest-litovsk:0.0122183480915, caroline_affair:0.00764563955567, boxer_rebellion:0.00748757719641, golden_horde:0.00735092605224, coxey's_army:0.00724093182917, green_mountain_boys:0.00691888994568, dorr_rebellion:0.00635396178606, july_revolution:0.00548707748419, paris_commune:0.00539575180292, boston_massacre:0.00485110246303, wounded_knee_massacre:0.00471916503257, homestead_strike:0.0044245796741
+
+None
+roger_b._taney:0.0259625397746, battle_of_the_thames:0.0190946902052, salem_witch_trials:0.0176637439455, dorr_rebellion:0.0142228279786, treaty_of_ghent:0.0112823749591, second_bank_of_the_united_states:0.0105629684676, peterloo_massacre:0.00900718478041
+
+its
+second_bank_of_the_united_states:0.41549237995, whig_party_(united_states):0.0415488998796, compromise_of_1850:0.0295234663753, fugitive_slave_laws:0.0149993166588, treaty_of_ghent:0.0113319527944, shays'_rebellion:0.0100489708829, ostend_manifesto:0.00999289362309, dorr_rebellion:0.00908314688815, roger_b._taney:0.00882907882619, peloponnesian_war:0.00686229152366, missouri_compromise:0.00653117905579, salem_witch_trials:0.00631645373784
+
+its
+second_bank_of_the_united_states:0.137435160438, whig_party_(united_states):0.0341302801919, fugitive_slave_laws:0.0284048306157, dorr_rebellion:0.0230262894244, treaty_of_ghent:0.0223008637472, compromise_of_1850:0.0213939783278, missouri_compromise:0.0139218185106, roger_b._taney:0.0120416798964, shays'_rebellion:0.0119582928269, battle_of_bosworth_field:0.0100660304149
+
+its
+second_bank_of_the_united_states:0.269613681598, whig_party_(united_states):0.03890979418, compromise_of_1850:0.0329965885452, fugitive_slave_laws:0.0172922621611, dorr_rebellion:0.0161770868826, shays'_rebellion:0.0119373483065, treaty_of_ghent:0.0090640986946, roger_b._taney:0.0086517527816, missouri_compromise:0.00859068666731
+
+his
+maine:0.0373979525375, john_adams:0.0358442633456, william_howard_taft:0.0334990034501, solon:0.0320437892532, fugitive_slave_laws:0.0268766158085, douglas_macarthur:0.0246877296878, charlemagne:0.0175461251539, john_marshall:0.0170537074009, jimmy_carter:0.0161965725904, council_of_constance:0.0147184795429, jawaharlal_nehru:0.0145229171769, camillo_benso,_count_of_cavour:0.0133578870874, alexander_hamilton:0.012997879716, indira_gandhi:0.0121060736138, konrad_adenauer:0.0109895106152, league_of_nations:0.0100639402045, william_jennings_bryan:0.00937782608003, rutherford_b._hayes:0.00898479176196, hartford_convention:0.00844107936447, ronald_reagan:0.00838992127428
+
+his
+william_howard_taft:0.062960096103, john_marshall:0.0509926582191, fugitive_slave_laws:0.0158673156275, john_quincy_adams:0.0151908514762, whig_party_(united_states):0.0151203112857, roger_b._taney:0.0137923077707, john_adams:0.0129407859994, indira_gandhi:0.0127651883071, rutherford_b._hayes:0.0123846985789, earl_warren:0.0122485040215, treaty_of_ghent:0.0119093567029, louis_brandeis:0.0118552436784, maine:0.0117173249498, franklin_pierce:0.00969264650422, charlemagne:0.00963361747139, camillo_benso,_count_of_cavour:0.00926719450672, john_tyler:0.00914261538863, pierre_trudeau:0.00906078077327, jawaharlal_nehru:0.00877361863618, thomas_jefferson:0.00876033411466
+
+his
+franklin_pierce:0.0436305719295, treaty_of_ghent:0.0245065483377, maine:0.0175611007053, james_buchanan:0.0171467999612, william_walker_(filibuster):0.0136956544786, james_monroe:0.0118769986132, john_quincy_adams:0.0114287996036, alexander_hamilton:0.0112467563786, ostend_manifesto:0.0101865781246, roger_b._taney:0.010148580456, thomas_jefferson:0.0100636032684, john_marshall:0.00878757846081, james_k._polk:0.00860604721789, william_howard_taft:0.00824345902954, louis_brandeis:0.00761655369346, julius_nyerere:0.00727797296498, william_jennings_bryan:0.00726834080826, francisco_franco:0.00685409645766, pierre_trudeau:0.006741480777, john_t._scopes:0.00671433673024
+
+his
+franklin_pierce:0.100507598239, james_buchanan:0.0294532903855, james_k._polk:0.0264755204904, lester_b._pearson:0.0181416412253, treaty_of_ghent:0.0155920435528, jefferson_davis:0.014198950684, ostend_manifesto:0.0118175019341, william_walker_(filibuster):0.0117717130869, roger_b._taney:0.0110629975621, william_jennings_bryan:0.010497896723, john_a._macdonald:0.00990882029531, first_triumvirate:0.0096603346368, maine:0.00960625133595, james_a._garfield:0.00952872692348, john_t._scopes:0.00881531074517, st._bartholomew's_day_massacre:0.00783356017262, george_b._mcclellan:0.00743550757737, clarence_darrow:0.00680900723349, alexander_hamilton:0.00639442405098, rutherford_b._hayes:0.00620708586157
+
+his
+franklin_pierce:0.0955270900384, james_buchanan:0.0245857884343, james_k._polk:0.0209782243024, jefferson_davis:0.017211306887, lester_b._pearson:0.0144761601015, treaty_of_ghent:0.0101121770343, john_a._macdonald:0.00968143028757, john_t._scopes:0.00879010542001, george_b._mcclellan:0.00875295625285, thomas_hart_benton_(politician):0.00831859993169, maine:0.00821701895799, james_a._garfield:0.00808786584514, andrew_jackson:0.00792587418747, clarence_darrow:0.00790242774937, william_walker_(filibuster):0.00738204384496, john_c._calhoun:0.00731383155915, william_jennings_bryan:0.00727591866675, alexander_hamilton:0.00721598953003, roger_b._taney:0.0070524494949, st._bartholomew's_day_massacre:0.00688019929764
+
+None
+third_crusade:0.283098142769, battle_of_plassey:0.0673310561643, battle_of_bosworth_field:0.0133433642572
+
+None
+third_crusade:0.768209239481, teutonic_knights:0.0224227822888, battle_of_bosworth_field:0.00666806806018, crimean_war:0.00635575433836, council_of_constance:0.00309253849799, battle_of_plassey:0.00272285836748, second_boer_war:0.00251960845139, battle_of_hastings:0.00221117189386, peasants'_revolt:0.00212710643393
+
+None
+third_crusade:0.85189424011, teutonic_knights:0.0119293189913, crimean_war:0.00563861118411, war_of_the_spanish_succession:0.00477166373324, magna_carta:0.003452217966, martin_luther:0.00275210250867, peasants'_revolt:0.00223886456451, battle_of_bosworth_field:0.00211285469506, battle_of_hastings:0.00206128449433, council_of_constance:0.00158455077179, battle_of_plassey:0.00152288364937, first_crusade:0.00145362713484, fourth_crusade:0.0013976235094
+
+it
+carthage:0.748340402288, vandals:0.0431732965885, ming_dynasty:0.0181374810905, sparta:0.0115792505559, fort_ticonderoga:0.00704617116362, hittites:0.00696676999628, battle_of_puebla:0.00567146011966, ghana:0.004082305163, byzantine_empire:0.00211856484163, battle_of_marathon:0.00200768445285, fashoda_incident:0.00199867570717, thebes,_greece:0.00184753240636, whiskey_rebellion:0.00179727392466
+
+it
+carthage:0.33635245646, vandals:0.0512396726678, ming_dynasty:0.0202571448401, sparta:0.0188381747138, hittites:0.01860954498, byzantine_empire:0.0175067328932, fort_ticonderoga:0.0148554387021, ghana:0.0119600817893, fashoda_incident:0.010645462986, ancient_corinth:0.00735333551237, battle_of_puebla:0.00599453740182, ostend_manifesto:0.00591704011007, thebes,_greece:0.00552835093286, taiping_rebellion:0.00524153461997, first_crusade:0.00493144849172, battle_of_ayacucho:0.00471316945796
+
+it
+carthage:0.40480330117, hittites:0.0221068381619, vandals:0.0190361817537, sparta:0.0181488618149, ming_dynasty:0.0152389908907, byzantine_empire:0.0138158654193, fort_ticonderoga:0.0111914768705, fashoda_incident:0.00942321013984, ancient_corinth:0.00775925265072, ostend_manifesto:0.00740299341424, ghana:0.00679978238934, golden_horde:0.00642464645141, thebes,_greece:0.00607234231959, finland:0.0047445151898
+
+it
+carthage:0.147018845336, vandals:0.0242696206313, hittites:0.0242119032766, byzantine_empire:0.0208518026468, sparta:0.0148788219448, thebes,_greece:0.0112254026628, ancient_corinth:0.0108838444237, fashoda_incident:0.0101929969132, ming_dynasty:0.00987847899008, fort_ticonderoga:0.00947193707783, battle_of_zama:0.00818982646679, peloponnesian_war:0.00795415312223, portugal:0.00791869718915, battle_of_puebla:0.00769978907517, battle_of_ayacucho:0.00701842668769, ostend_manifesto:0.00695169135886
+
+it
+carthage:0.282040686321, vandals:0.0292116187255, hittites:0.0224004239964, battle_of_zama:0.0196721643676, sparta:0.0162607020015, byzantine_empire:0.0130096209212, ancient_corinth:0.0117225453423, thebes,_greece:0.0108959506228, battle_of_puebla:0.0103619813473, fort_ticonderoga:0.0101569806596, portugal:0.00781716446014, ming_dynasty:0.00780316640687, fashoda_incident:0.00760667403625, parthian_empire:0.00595265323402
+
+he
+john_c._calhoun:0.0506454586533, fidel_castro:0.0481198654796, john_brown_(abolitionist):0.045721069933, july_revolution:0.0344558579511, treaty_of_brest-litovsk:0.02972126261, francisco_franco:0.0281904958824, gamal_abdel_nasser:0.0280876880958, georges_clemenceau:0.0236519170546, william_jennings_bryan:0.0200888727259, pierre_trudeau:0.0185649857682, clarence_darrow:0.0176060363356, francisco_i._madero:0.0168592164829, huldrych_zwingli:0.012437565293, eleanor_roosevelt:0.0118815477831, manifest_destiny:0.0117224574727, emiliano_zapata:0.0111363919005, emilio_aguinaldo:0.00985387214873, charles_evans_hughes:0.00977183042525, booker_t._washington:0.00910194851549, adlai_stevenson_ii:0.00884849218318
+
+he
+clarence_darrow:0.0216855703664, georges_clemenceau:0.0189704977191, peasants'_revolt:0.0153866372903, john_brown_(abolitionist):0.0151079450072, john_hancock:0.0148682471143, july_revolution:0.0138458798028, fidel_castro:0.0132033581674, john_c._calhoun:0.0120457946221, knights_of_labor:0.0117358542883, salmon_p._chase:0.011471955456, jamaica:0.0107293072252, alexander_h._stephens:0.0100070526176, tammany_hall:0.00981926638475, francisco_franco:0.0097531227398, francisco_i._madero:0.00953665225386, eleanor_roosevelt:0.00939047348464, huldrych_zwingli:0.00938174632297, emiliano_zapata:0.00931517611219, cecil_rhodes:0.00871645009619, paris_commune:0.00871022369238
+
