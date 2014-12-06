@@ -33,18 +33,38 @@ def is_person(possible_name):
     """
     freebase_server = "https://www.googleapis.com/freebase/v1/search"
     params = {
-            "key": FREEBASE_KEY,
+            #"key": FREEBASE_KEY,
             "query": possible_name,
             "filter": "(any type:/people/person)"
         }
     url = freebase_server + '?' + urllib.urlencode(params)
     response = json.loads(urllib.urlopen(url).read())
-    for result in response['result']:
-        if re.sub(r' \(\w+\)',"",possible_name) == result['name'].lower():
-                #print possible_name, result['name'] + ' (' + str(result['score']) + ')'
-            return True
-        else:
-            return False
+    try:
+        for result in response['result']:
+            if re.sub(r' \(\w+\)',"",possible_name) == result['name'].lower():
+                    #print possible_name, result['name'] + ' (' + str(result['score']) + ')'
+                return True
+            else:
+                return False
+    except KeyError:
+        print "KeyError, wait for 15 minutes and try again"
+        time.sleep(900)
+        try:
+            for result in response['result']:
+                if re.sub(r' \(\w+\)',"",possible_name) == result['name'].lower():
+                    #print possible_name, result['name'] + ' (' + str(result['score']) + ')'
+                    return True
+                else:
+                    return False
+        except KeyError:
+            print "KeyError, wait for 15 minutes and try again"
+            time.sleep(900)
+            for result in response['result']:
+                if re.sub(r' \(\w+\)',"",possible_name) == result['name'].lower():
+                    #print possible_name, result['name'] + ' (' + str(result['score']) + ')'
+                    return True
+                else:
+                    return False
     
 
 def clean_guesses(guesses):
