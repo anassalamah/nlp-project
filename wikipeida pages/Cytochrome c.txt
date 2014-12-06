@@ -1,0 +1,81 @@
+[[Cytochrome c]]
+
+The cytochrome complex, or cyt c is a small heme protein found loosely associated with the inner membrane of the mitochondrion. It belongs to the cytochrome c family of proteins. Cytochrome c is a highly water soluble protein, unlike other cytochromes, with a solubility of about 100 g/L and is an essential component of the electron transport chain, where it carries one electron. It is capable of undergoing oxidation and reduction, but does not bind oxygen. It transfers electrons between Complexes III (Coenzyme Q - Cyt C reductase) and IV (Cyt C oxidase). In humans, cytochrome c is encoded by the CYCS gene. 
+
+== Function ==
+Cytochrome c is a component of the electron transport chain in mitochondria. The heme group of cytochrome c accepts electrons from the bc1 complex and transfers electrons to the cytochrome oxidase complex. Cytochrome c is also involved in initiation of apoptosis. Upon release of cytochrome c to the cytoplasm, the protein binds apoptotic protease activating factor-1 (Apaf-1). 
+
+Cytochrome c can catalyze several reactions such as hydroxylation and aromatic oxidation, and shows peroxidase activity by oxidation of various electron donors such as 2,2-azino-bis(3-ethylbenzthiazoline-6-sulphonic acid) (ABTS), 2-keto-4-thiomethyl butyric acid and 4-aminoantipyrine.
+
+== Species distribution ==
+
+Cytochrome c is a highly conserved protein across the spectrum of species, found in plants, animals, and many unicellular organisms. This, along with its small size (molecular weight about 12,000 daltons), makes it useful in studies of cladistics. Its primary structure consists of a chain of about 100 amino acids. Many higher order organisms possess a chain of 104 amino acids. Amino acid sequences in cytochrome c proteins from different species, adapted from Strahler, Arthur; Science and Earth History, 1997. page 348. The cytochrome c molecule has been studied for the glimpse it gives into evolutionary biology. Its amino acid sequence is highly conserved in mammals differing by only a few residues. For example, the sequences of cytochrome c in humans is identical to that of a chimpanzees (our closest relatives), but differs more from that of horses. 
+
+== Classes ==
+
+In 1991 R. P. Ambler recognized four classes of cytochrome c: 
+
+*Class I includes the lowspin soluble cytochrome c of mitochondria and bacteria. It has the heme-attachment site towards the N terminus of histidine and the sixth ligand provided by a methionine residue towards the C terminus.
+*Class II includes the highspin cytochrome c'. It has the heme-attachment site closed to the N terminus of histidine.
+*Class III comprises the low redox potential multiple heme cytochromes. The heme c groups are structurally and functionally nonequivalent and present different redox potentials in the range 0 to -400 mV.
+*Class IV was originally created to hold the complex proteins that have other prosthetic groups as well as heme c.
+
+== Applications ==
+
+Cytochrome c is suspected to be the functional complex in so called LLLT: Low-level laser therapy. In LLLT, red light and some near infra-red wavelengths penetrate tissue in order to increase cellular regeneration. Light of this wavelength appears capable of increasing activity of cytochrome c, thus increasing metabolic activity and freeing up more energy for the cells to repair the tissue. 
+
+== Role in apoptosis ==
+Overview of signal transduction pathways involved in apoptosis.
+
+Cytochrome c is also an intermediate in apoptosis, a controlled form of cell death used to kill cells in the process of development or in response to infection or DNA damage. 
+
+Cytochrome c binds to cardiolipin in the inner mitochondrial membrane, thus anchoring its presence and keeping it from releasing out of the mitochondria and initiating apoptosis. While the initial attraction between cardiolipin and cytochrome c is electrostatic due to the extreme positive charge on cytochrome c, the final interaction is hydrophobic, where a hydrophobic tail from cardiolipin inserts itself into the hydrophobic portion of cytochrome c.
+
+During the early phase of apoptosis, mitochondrial ROS production is stimulated, and cardiolipin is oxidized by a peroxidase function of the cardiolipin–cytochrome c complex. The hemoprotein is then detached from the mitochondrial inner membrane and can be extruded into the soluble cytoplasm through pores in the outer membrane. 
+
+The sustained elevation in calcium levels precedes cyt c release from the mitochondria. The release of small amounts of cyt c leads to an interaction with the IP3 receptor (IP3R) on the endoplasmic reticulum (ER), causing ER calcium release. The overall increase in calcium triggers a massive release of cyt c, which then acts in the positive feedback loop to maintain ER calcium release through the IP3Rs. This explains how the ER calcium release can reach cytotoxic levels. This release of cytochrome c in turn activates caspase 9, a cysteine protease. Caspase 9 can then go on to activate caspase 3 and caspase 7, which are responsible for destroying the cell from within.
+
+== Extramitochondrial localization ==
+
+Cytochrome c is widely believed to be localized solely in the mitochondrial intermembrane space under normal physiological conditions. The release of cytochrome-c from mitochondria to the cytosol, where it activates the caspase family of proteases is believed to be primary trigger leading to the onset of apoptosis. However, detailed immunoelectron microscopic studies with rat tissues sections employing cytochrome c-specific antibodies provide compelling evidence that cytochrome-c under normal cellular conditions is also present at extramitochondrial locations. In pancreatic acinar cells and the anterior pituitary, strong and specific presence of cytochrome-c was detected in zymogen granules and in growth hormone granules respectively. In the pancreas, cytochrome-c was also found in condensing vacuoles and in the acinar lumen. The extramitochondrial localization of cytochrome c was shown to be specific as it was completed abolished upon adsorption of the primary antibody with the purified cytochrome c. The presence of cytochrome-c outside of mitochondria at specific location under normal physiological conditions raises important questions concerning its cellular function and translocation mechanism. Besides cytochrome c, extramitochondrial localization has also been observed for large numbers of other proteins including those encoded by mitochondrial DNA. This raises the possibility about existence of yet unidentified specific mechanisms for protein translocation from mitochondria to other cellular destinations. 
+
+== See also ==
+* PEGylation
+
+== References ==
+
+== Further reading ==
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+== Additional images ==
+
+ Image:Etc2.svg|ETC
+
+== External links ==
+* The Cytochrome c Protein
+* Apoptosis & Caspase 3 - PMAP The Proteolysis Map-animation
+* - Calculated orientations of cytochromes c in the lipid bilayer
+* 
+
+

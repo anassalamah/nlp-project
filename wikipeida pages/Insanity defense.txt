@@ -1,0 +1,157 @@
+[[Insanity defense]]
+
+In criminal trials, the insanity defense is the claim that the defendant is not responsible for his or her actions due to mental health problems (psychiatric illness or mental handicap). Exemption of the insane from full criminal punishment dates back to at least the Code of Hammurabi. Fletcher, G. (1998) Basic Concepts of Criminal Law. NY: Oxford Univ. Press. There are different definitions of legal insanity, such as the M'Naghten Rules, the Durham Rule, the American Legal Institute definition, and various miscellaneous provisions (e.g., relating to lack of mens rea). 
+
+In the United Kingdom, Ireland, and the United States, use of the defense is rare; however, since the Criminal Procedure (Insanity and Unfitness to Plead) Act 1991, insanity pleas have steadily increased in the UK. RD Mackay, BJ Mitchell, L Howe (2006) 'Yet more facts about the insanity defence' Criminal Law Review 399-411 Mitigating factors, including things not eligible for the insanity defense like intoxication American Psychiatric Association: The Insanity Defense: Position Statement. Washington, DC: APA Document Reference No. 820002, 1982 (or, more frequently, diminished capacity), may lead to reduced charges or reduced sentences. 
+
+The insanity defense is based on evaluations by forensic mental health professionals with the appropriate test according to the jurisdiction. Their testimony guides the jury, but they are not allowed to testify to the accused's criminal responsibility, as this is a matter for the jury to decide. Similarly, mental health practitioners are restrained from making a judgment on the issue of whether the defendant is or is not insane or what is known as the "ultimate issue". 
+
+Some jurisdictions require the evaluation to address the defendant's ability to control their behavior at the time of the offense (the volitional limb). A defendant claiming insanity is pleading "not guilty by reason of insanity" (NGRI) or "guilty but insane/mentally ill" in some jurisdictions which, if successful, may result in the defendant being committed to a psychiatric facility for an indeterminate period.
+
+==Mitigating factors and diminished capacity==
+The United States Supreme Court (in Penry v. Lynaugh) and the United States Court of Appeals for the Fifth Circuit (in Bigby v. Dretke) have been clear in their decisions that jury instructions in death penalty cases that do not ask about mitigating factors regarding the defendant's mental health violate the defendant's Eighth Amendment rights, saying that the jury is to be instructed to consider mitigating factors when answering unrelated questions. This ruling suggests specific explanations to the jury are necessary to weigh mitigating factors.
+
+Diminished responsibility or diminished capacity can be employed as a mitigating factor or partial defense to crimes and, in the United States, is applicable to more circumstances than the insanity defense. Where it is a partial defense, it has the effect of reducing the charge to manslaughter. The Homicide Act 1957 is the statutory basis for the defense of diminished responsibility in England & Wales, whereas in Scotland it is a product of case law. The number of findings of diminished responsibility has been matched by a fall in unfitness to plead and insanity findings (Walker, 1968). A plea of diminished capacity is different from a plea of insanity in that "reason of insanity" is a full defense while "diminished capacity" is merely a plea to a lesser crime. 
+
+==Withdrawal of successful insanity defense==
+Several cases have ruled that persons found not guilty by reason of insanity may not withdraw the defense in a habeas petition to pursue an alternative, although there have been exceptions in other rulings. In State v. Connelly, 700 A.2d 694 (Conn. App. Ct. 1997), the petitioner who had originally been found not guilty by reason of insanity and committed for ten years to the jurisdiction of a Psychiatric Security Review Board, filed a pro se writ of habeas corpus and the court vacated his insanity acquittal. He was granted a new trial and found guilty of the original charges, receiving a prison sentence of 40 years. 
+
+==Refusal of insanity defense==
+In the landmark case of Frendak v. United States, the court ruled that the insanity defense cannot be imposed upon an unwilling defendant if an intelligent defendant voluntarily wishes to forego the defense. 
+ 
+
+==Psychiatric treatments==
+
+Those found to have been not guilty by reason of insanity are generally then required to undergo psychiatric treatment, except in the case of temporary insanity (see below). Defendants found not guilty by reason of insanity are generally placed in a mental institution. This is not the case in England and Wales, where under the Criminal Procedure (Insanity and Unfitness to Plead) Act of 1991 (amended by the Domestic Violence, Crime and Victims Act, 2004 to remove the option of a guardianship order), the court can mandate a hospital order, a restriction order (where release from hospital requires the permission of the Home Secretary), a "supervision and treatment" order, or an absolute discharge. Unlike defendants who are found guilty of a crime, they are not institutionalized for a fixed period, but rather held in the institution until they are determined not to be a threat. Authorities making this decision tend to be cautious, and as a result, defendants can often be institutionalized for longer than they would have been incarcerated in prison. 
+
+In Foucha v. Louisiana (1992) the Supreme Court of the United States ruled that a person could not be held "indefinitely".
+
+So far, in the United States, those acquitted of a federal offense by reason of insanity have not been able to challenge their psychiatric confinement through a writ of habeas corpus or other remedies. In Archuleta v. Hedrick, 365 F.3d 644 (8th Cir. 2004), the U.S. Court of Appeals for the Eighth Circuit the court ruled persons found not guilty by reason of insanity and later want to challenge their confinement may not attack their initial successful insanity defense:
+
+===Incompetency and mental illness===
+An important distinction to be made is the difference between competency and criminal responsibility.
+*The issue of competency is whether a defendant is able to adequately assist his attorney in preparing a defense, make informed decisions about trial strategy and whether or not to plead guilty or accept a plea agreement. This issue is dealt with in UK law as "fitness to plead".
+
+Competency largely deals with the defendant's present condition, while criminal responsibility addresses the condition at the time the crime was committed.
+
+In the United States, a trial in which the insanity defense is invoked typically involves the testimony of psychiatrists or psychologists who will, as expert witnesses, present opinions on the defendant's state of mind at the time of the offense. 
+
+Therefore, a person whose mental disorder is not in dispute is determined to be sane if the court decides that despite a "mental illness" the defendant was responsible for the acts committed and will be treated in court as a normal defendant. If the person has a mental illness and it is determined that the mental illness interfered with the person's ability to determine right from wrong (and other associated criteria a jurisdiction may have) and if the person is willing to plead guilty or is proven guilty in a court of law, some jurisdictions have an alternative option known as either a Guilty but Mentally Ill (GBMI) or a Guilty but Insane verdict. The GBMI verdict is available as an alternative to, rather than in lieu of, a "not guilty by reason of insanity" verdict. Michigan (1975) was the first state to create a GBMI verdict, after two prisoners released after being found NGRI committed violent crimes within a year of release, one raping two women and the other killing his wife. 
+
+==History of the insanity defense==
+The concept of defense by insanity has existed since ancient Greece and Rome. However, in colonial America a delusional Dorothy Talbye was hanged in 1638 for murdering her daughter, as at the time Massachusetts's common law made no distinction between insanity (or mental illness) and criminal behavior. Edward II, under English Common law, declared that a person was insane if their mental capacity was no more than that of a "wild beast" (in the sense of a dumb animal, rather than being frenzied). The first complete transcript of an insanity trial dates to 1724. It is likely that the insane, like those under 14, were spared trial by ordeal. When trial by jury replaced this, the jury members were expected to find the insane guilty but then refer the case to the King for a Royal Pardon. From 1500 onwards, juries could acquit the insane, and detention required a separate civil procedure (Walker, 1985). The Criminal Lunatics Act 1800, passed with retrospective effect following the acquittal of James Hadfield, mandated detention at the regent's pleasure (indefinitely) even for those who, although insane at the time of the offence, were now sane.
+ 
+The M'Naghten Rules of 1843 were not a codification or definition of insanity but rather the responses of a panel of judges to hypothetical questions posed by Parliament in the wake of Daniel M'Naghten's acquittal for the homicide of Edward Drummond, whom he mistook for British Prime Minister Robert Peel. The rules define the defense as "at the time of commiting the act the party accused was labouring under such a defect of reason, from disease of the mind, as not to know the nature and quality of the act he was doing, or as not to know that what he was doing was wrong." The key is that the defendant could not appreciate the nature of his actions during the commission of the crime. M'Naghten's Case, 8 Eng. Rep. 718 (1843).
+
+In Ford v. Wainwright 477 U.S. 399 (1986), the US Supreme Court upheld the common law rule that the insane cannot be executed. It further stated that a person under the death penalty is entitled to a competency evaluation and to an evidentiary hearing in court on the question of his competency to be executed. 
+In Wainwright v. Greenfield, the Court ruled that it was fundamentally unfair for the prosecutor to comment during the court proceedings on the petitioner's silence invoked as a result of a Miranda warning. The prosecutor had argued that the respondent's silence after receiving Miranda warnings was evidence of his sanity. 
+ 
+
+==Controversy over the insanity defense==
+
+The insanity plea is used in the U.S Criminal Justice System in less than 1% of all criminal cases. Little is known about the criminal justice system and the mentally ill:
+
+Some U.S. states have begun to ban the use of the insanity defense, and in 1994 the Supreme Court denied a petition of certiorari seeking review of a Montana Supreme Court case that upheld Montana's abolition of the defense. Court: Insanity Defense Not a Right Washington Post, March 29, 1994 Idaho, Kansas, and Utah have also banned the defense. However, a mentally ill defendant/patient can be found unfit to stand trial in these states. In 2001, the Nevada Supreme Court found that their state's abolition of the defense was unconstitutional as a violation of Federal due process. In 2006, the Supreme Court decided Clark v. Arizona upheld Arizona's limitations on the insanity defense. In that same ruling, the Court noted "We have never held that the Constitution mandates an insanity defense, nor have we held that the Constitution does not so require."
+
+The insanity defense is also complicated because of the underlying differences in philosophy between psychiatrists/psychologists and legal professionals. In the United States, a psychiatrist, psychologist or other mental health professional is often consulted as an expert witness in insanity cases, but the ultimate legal judgment of the defendant's sanity is determined by a jury, not by a psychologist. In other words, psychologists provide testimony and professional opinion but are not ultimately responsible for answering legal questions. 
+
+==United States law==
+In the United States, variances in the insanity defense between states, and in the federal court system, are attributable to differences with respect to three key issues: (1) Whether to provide the insanity defense, (2) how to define "insanity," and (3) the burden of proof.
+
+==Availability==
+In the United States, a criminal defendant may plead insanity in federal court, and in the state courts of every state except for Idaho, Kansas, Montana, and Utah. 
+
+===Definition===
+
+Each state and the federal court system currently uses one of the following "tests" to define insanity for purposes of the insanity defense:
+
+====M'Naghten test====
+The guidelines for the M'Naghten Rules (1843) 10 C & F 200, state, inter alia, and evaluating the criminal responsibility for defendants claiming to be insane were settled in the British courts in the case of Daniel M'Naghten in 1843. M'Naghten was a Scottish woodcutter who killed the secretary to the prime minister, Edward Drummond, in a botched attempt to assassinate the prime minister himself. M'Naghten apparently believed that the prime minister was the architect of the myriad of personal and financial misfortunes that had befallen him. During his trial, nine witnesses testified to the fact that he was insane, and the jury acquitted him, finding him "not guilty by reason of insanity."
+
+The House of Lords asked the judges of the common law courts to answer five questions on insanity as a criminal defence, Carl Elliott, The rules of insanity: moral responsibility and the mentally ill offender, SUNY Press, 1996, ISBN 0-7914-2951-2, p.10 Michael T. Molan, Mike Molan, Duncan Bloy, Denis Lanser, Modern criminal law (5 ed), Routledge Cavendish, 2003, ISBN 1-85941-807-4, p.352 and the formulation that emerged from their review—that a defendant should not be held responsible for his actions only if, as a result of his mental disease or defect, he (i) did not know that his act would be wrong; or (ii) did not understand the nature and quality of his actions—became the basis of the law governing legal responsibility in cases of insanity in England. Under the rules, loss of control because of mental illness was no defense. The M'Naghten rule was embraced with almost no modification by American courts and legislatures for more than 100 years, until the mid-20th century. M'Naghten's Case, 8 Eng. Rep. 718 (1843).
+
+====Durham/New Hampshire test====
+The strict M'Naghten standard for the insanity defense was used until the 1950s and the Durham v. United States case. In the Durham case, the court ruled that a defendant is entitled to acquittal if the crime was the product of his mental illness (i.e., crime would not have been committed but for the disease). The test, also called the Product Test, is broader than either the M'Naghten test or the irresistible impulse test. The test has much more lenient guideline for the insanity defense, but it addressed the issue of convicting mentally ill defendants, which was allowed under the M'Naghten Rule. M'Naghten's Case, 8 Eng.Rep. 718 (1843). However, the Durham standard drew much criticism because of its expansive definition of legal insanity.
+
+====Model Penal Code test====
+The Model Penal Code, published by the American Law Institute, provides a standard for legal insanity that serves as a compromise between the strict M'Naghten Rule, the lenient Durham ruling, and the irresistible impulse test. Under the MPC standard, which represents the modern trend, a defendant is not responsible for criminal conduct "if at the time of such conduct as a result of mental disease or defect he lacks substantial capacity either to appreciate the criminality of his conduct or to conform his conduct to the requirements of the law." The test thus takes into account both the cognitive and volitional capacity of insanity.
+
+====Insanity Defense Reform Act of 1984====
+After the perpetrator of President Reagan's assassination attempt was found not guilty by reason of insanity, Congress passed the Insanity Defense Reform Act of 1984. Under this act, the burden of proof was shifted from the prosecution to the defense and the standard of evidence in federal trials was increased from a preponderance of evidence to clear and convincing evidence. The ALI test was discarded in favor of a new test that more closely resembled M'Naghten's. Under this new test only perpetrators suffering from severe mental illnesses at the time of the crime could successfully employ the insanity defense. The defendant's ability to control himself or herself was no longer a consideration.
+
+The Act also curbed the scope of expert psychiatric testimony and adopted stricter procedures regarding the hospitalization and release of those who found not guilty by reason of insanity.
+
+Additional reforms have taken place besides the major Insanity Defense Reform Act, including the addition of the GBMI (Guilty but Mentally Ill) option to trial, changes in the burden and/or standard of proof in a trial, changes in the test of insanity or in the entering of the plea all together, various alterations in the trial procedures, and changes in commitment and release procedures after the trial has been complete. 
+
+===Burden of proof===
+In a majority of states, the burden is placed on the defendant, who must prove insanity by a preponderance of the evidence.
+
+In a minority of states, the burden is placed on the prosecution, who must prove sanity beyond a reasonable doubt.
+
+In federal court, and in Arizona, the burden is placed on the defendant, who must prove insanity by clear and convincing evidence. See 18 U.S.C.S. Sec. 17(b); see also A.R.S. Sec. 13-502(C).
+
+==Temporary insanity==
+The notion of temporary insanity argues that a defendant was insane, but is now sane. This defense was first used by U.S. Congressman Daniel Sickles of New York in 1859 after he had killed his wife's lover, Philip Barton Key, but was most used during the 1940s and 1950s. Another case around that time was that of Charles J. Guiteau, who assassinated President James Garfield in 1881. Guiteau's Case, 10 F.161 (1882).
+
+==Scottish law==
+The Scottish Law Commission, in its Discussion Paper No 122 on Insanity and Diminished Responsibility (2003), pp. 16/18 confirms that the law has not substantially changed from the position stated in Hume's Commentaries:
+:We may next attend to the case of those unfortunate persons, who have plead the miserable defense of idiocy or insanity. Which condition, if it is not an assumed or imperfect, but a genuine and thorough insanity, and is proved by the testimony of intelligent witnesses, makes the act like that of an infant, and equally bestows the privilege of an entire exemption from any manner of pain; Cum alterum innocentia concilii tuetur, alterum fati infelicitas excusat. I say, where the insanity is absolute, and is duly proved: For if reason and humanity enforce the plea in these circumstances, it is no less necessary to observe a caution and reserve in applying the law, as shall hinder it from being understood, that there is any privilege in a case of mere weakness of intellect, or a strange and moody humor, or a crazy and capricious or irritable temper. In none of these situations does or can the law excuse the offender. Because such constitutions are not exclusive of a competent understanding of the true state of the circumstances in which the deed is done, nor of the subsistence of some steady and evil passion, grounded in those circumstances, and directed to a certain object. To serve the purpose of a defense in law, the disorder must therefore amount to an absolute alienation of reason, ut continua mentis alienatione, omni intellectu careat - such a disease as deprives the patient of the knowledge of the true aspect and position of things about him - hinders him from distinguishing friend from foe - and gives him up to the impulse of his own distempered fancy.
+The phrase "absolute alienation of reason" is still regarded as at the core of the defense in the modern law (see HM Advocate v Kidd (1960) JC 61 and Brennan v HM Advocate (1977)
+
+==Scandinavia==
+In Scandinavia, insanity is not a defense; instead, it is the responsibility of the court system as such to consider whether the accused may have been psychotic or suffering from other severe mental defects when perpetrating the criminal act. This explains why, in Norway, the court considered the sanity of Anders Behring Breivik, even if he himself declared to be sane. 
+
+Rules differ between Scandinavian countries. 
+
+In Sweden, psychotic perpetrators are seen as accountable, but the sanction is to forensic mental care. 
+
+In Denmark and Norway, psychotic perpetrators are declared guilty, but not punished. Instead of prison, they are sentenced to mandatory treatment. Still, important differences exist between Norway and Denmark. 
+
+In Norway, §44 of the penal code states specifically that "a person who at the time of the crime was insane or unconscious is not punished". 
+
+In Denmark, §16 of the penal code states that "Persons, who, at the time of the act, were irresponsible owing to mental illness or similar conditions or
+to a pronounced mental deficiency, are not punishable". This means that in Denmark, 'insanity' is a legal term rather than a medical term and that the court retains the authority to decide whether an accused person is irresponsible or not. 
+
+In Finland, punishments can only be administered if the accused is compos mentis, of sound mind; not if the accused is insane (syyntakeeton, literally "unable to guarantee the responsibility of guilt"). The definition of insanity is similar to the M'Naught criterion above: "the accused is insane, if during the act, due to a mental illness, profound mental retardation or a severe disruption of mental health or consciousness, he cannot understand the actual nature of his act or its illegality, or that his ability to control his behavior is critically weakened". If an accused is suspected to be insane, the court must consult the National Institute for Health and Welfare (THL), which is obliged to place the accused in involuntary commitment if he is found insane. The offender receives no judicial punishment; he becomes a patient under the jurisdiction of THL, and must be released immediately once the conditions of involuntary commitment are no longer fulfilled.
+
+==Usage and success rate==
+This increased coverage gives the impression that the defense is widely used, but this is not the case. According to an eight-state study, the insanity defense is used in less than 1% of all court cases and, when used, has only a 26% success rate. Of those cases that were successful, 90% of the defendants had been previously diagnosed with mental illness. 
+
+==See also==
+*Settled insanity
+*Frendak v. United States
+*Archuleta v. Hedrick
+*Diminished responsibility
+*Mental disorder defence
+*Intoxication defence
+*Non compos mentis
+*Sanity
+*Twinkie defense
+*United States federal laws governing offenders with mental diseases or defects
+
+==Footnotes==
+
+==References==
+* .
+*Mackay, RD (1995) Mental Condition Defences in the Criminal Law, Oxford: Clarendon Press.
+*, pp15–16.
+* at p. 30
+*
+
+==Further reading==
+*Boland, F. (1996). "Insanity, the Irish Constitution and the European Convention on Human Rights". 47 Northern Ireland Legal Quarterly 260.
+*Brown, M. (2007). "The John Hinckley Trial & Its Effect on the Insanity Defense".
+*
+*Butler Committee. (1975). The Butler Committee on Mentally Abnormal Offenders, London: HMSO, Cmnd 6244
+*Ellis, J. W. (1986). "The Consequences of the Insanity Defense: Proposals to reform post-acquittal commitment laws". 35 Catholic University Law Review 961.
+*Gostin, L. (1982). "Human Rights, Judicial Review and the Mentally Disordered Offender". (1982) Crim. LR 779.
+*Vatz, R. (December 19, 2013). “Affluenza: just the latest way to shirk legal responsibility”. The Baltimore Sun op-ed page.
+*The Law Reform Commission of Western Australia. The Criminal Process and Persons Suffering from Mental Disorder, Project No. 69, August 1991. 
+
+==External links==
+*Frontline&mdash;From Daniel M'Naughten to John Hinckley: A Brief History of the Insanity Defense
+*Evolution of the Insanity Plea
+
+Defense
+
+

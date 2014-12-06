@@ -1,0 +1,37 @@
+[[Liquidity trap]]
+
+Liquidity trap visualized in an IS–LM diagram. A monetary expansion (the shift from LM to LM') has no effect on equilibrium interest rates or output. However, fiscal expansion (the shift from IS to IS") leads to a higher level of output with no change in interest rates: Since interest rates are unchanged, there is no crowding out.
+A liquidity trap is a situation, described in Keynesian economics, in which injections of cash into the private banking system by a central bank fail to lower interest rates and hence make monetary policy ineffective. A liquidity trap is caused when people hoard cash because they expect an adverse event such as deflation, insufficient aggregate demand, or war. Common characteristics of a liquidity trap are interest rates that are close to zero and fluctuations in the money supply that fail to translate into fluctuations in price levels. Paul R. Krugman, "It's baack: Japan's Slump and the Return of the Liquidity Trap," Brookings (2008). 
+
+==Conceptual evolution==
+In its original conception, a liquidity trap refers to the phenomenon when increased money supply fails to lower interest rates. Usually central banks try to lower interest rates by buying bonds with newly created cash. In a liquidity trap, bonds pay little or no interest, which makes them nearly equivalent to cash. Under the narrow version of Keynesian theory in which this arises, it is specified that monetary policy affects the economy only through its effect on interest rates. Thus, if an economy enters a liquidity trap, further increases in the money stock will fail to further lower interest rates and, therefore, fail to stimulate.
+
+In the wake of the Keynesian revolution in the 1930s and 1940s, various neoclassical economists sought to minimize the concept of a liquidity trap by specifying conditions in which expansive monetary policy would affect the economy even if interest rates failed to decline. Don Patinkin and Lloyd Metzler specified the existence of a "Pigou effect," named after English economist Arthur Cecil Pigou, in which the stock of real money balances is an element of the aggregate demand function for goods, so that the money stock would directly affect the "investment saving" curve in an IS/LM analysis, and monetary policy would thus be able to stimulate the economy even during the existence of a liquidity trap. While many economists had serious doubts about the existence or significance of this Pigou Effect, by the 1960s academic economists gave little credence to the concept of a liquidity trap.
+
+The neoclassical economists asserted that, even in a liquidity trap, expansive monetary policy could still stimulate the economy via the direct effects of increased money stocks on aggregate demand. This was essentially the hope of the Bank of Japan in 2001, when it embarked upon quantitative easing. Similarly it was the hope of the central banks of the United States and Europe in 2008–2009, with their foray into quantitative easing. These policy initiatives tried to stimulate the economy through methods other than the reduction of short-term interest rates.
+
+When the Japanese economy fell into a period of prolonged stagnation despite near-zero interest rates, the concept of a liquidity trap returned to prominence. Sophia N. Antonopoulou, "The Global Financial Crisis," The International Journal of Inclusive Democracy, Vol. 5, No. 4 / Vol. 6, No. 1 (Autumn 2009 / Winter 2010). However, while Keynes's formulation of a liquidity trap refers to the existence of a horizontal demand curve for money at some positive level of interest rates, the liquidity trap invoked in the 1990s referred merely to the presence of zero interest rates (ZIRP), the assertion being that since interest rates could not fall below zero because no one will lend 100 dollars unless she gets at least 100 dollars back, monetary policy would prove impotent in those conditions, just as it was asserted to be in a proper exposition of a liquidity trap. Given that there is no evidence of the existence of a liquidity trap for an interest rate greater than zero, in modern macroeconomics liquidity trap refers to a situation in which the nominal interest rate is zero. As a consequence of this, a liquidity trap is also known as the Zero Lower Bound Problem.
+
+While this later conception differed from that asserted by Keynes, both views have in common, firstly, the assertion that monetary policy affects the economy only via interest rates, secondly, the conclusion that monetary policy cannot stimulate an economy in a liquidity trap, and thirdly, the inference that interest rate cannot fall below some value. Declines in monetary velocity offset injections of short-term liquidity.
+
+Similar controversy emerged in the United States and Europe in 2008–2010, as short-term policy rates for the various central banks moved close to zero. Paul Krugman argued repeatedly in 2008–11 that much of the developed world, including the United States, Europe, and Japan, was in a liquidity trap. Krugman, Paul (17 March 2010). "How much of the world is in a liquidity trap?". The New York Times. He noted that tripling of the U.S. monetary base between 2008 and 2011 failed to produce any significant effect on U.S. domestic price indices or dollar-denominated commodity prices. 
+
+==Criticisms==
+Some Austrian School economists, such as the Ludwig von Mises Institute reject Keynes' theory of liquidity preference altogether. They argue that a lack of domestic investment during periods of low interest rates is the result of previous malinvestment and time preference rather than liquidity preference. Keynesian Criticisms of the Theory Ludwig von Mises Institute. 
+
+Many Post-Keynesian economists claim that Keynes' idea had nothing to do with the zero-lower bound or the central bank's inability to stimulate investment. Rather they highlight that Keynes and other Post-Keynesians thought of a liquidity trap as a situation in which asset prices fell so much that interest rates become 'stuck' and conventional intervention in the markets fails to bring them down. What is a Liquidity Trap?, July 4, 2013, Philip Pilkington 
+
+Economist Scott Sumner has criticized the idea that Japan unsuccessfully attempted expansionary monetary policy during the Lost Decade. He claims Japan's monetary policy was far too tight. He is also a critic in general of the idea of liquidity traps. http://www.themoneyillusion.com/?p=9404 http://www.themoneyillusion.com/?p=8091 http://www.themoneyillusion.com/?p=3587 http://www.themoneyillusion.com/?p=6937 
+
+==See also==
+* Lost Decade (Japan)
+* Subprime mortgage crisis
+* Zero interest rate policy
+
+==References==
+
+==Further reading==
+* Gauti H. Eggertsson, 2008. "liquidity trap" The New Palgrave Dictionary of Economics Online, 2nd Edition.
+* John Maynard Keynes, 1936. The General Theory of Employment, Interest and Money. Macmillan.
+
+

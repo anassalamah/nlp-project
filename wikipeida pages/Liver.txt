@@ -1,0 +1,167 @@
+[[Liver]]
+
+The liver is a vital organ of the digestive system present in vertebrates and some other animals. It has a wide range of functions, including detoxification, protein synthesis, and production of biochemicals necessary for digestion. The liver is necessary for survival; there is currently no way to compensate for the absence of liver function in the long term, although new liver dialysis techniques can be used in the short term.
+
+This gland plays a major role in metabolism and has a number of functions in the body, including glycogen storage, decomposition of red blood cells, plasma protein synthesis, hormone production, and detoxification. It lies below the diaphragm in the abdominal-pelvic region of the abdomen. It produces bile, an alkaline compound which aids in digestion via the emulsification of lipids. The liver's highly specialized tissues regulate a wide variety of high-volume biochemical reactions, including the synthesis and breakdown of small and complex molecules, many of which are necessary for normal vital functions. Estimates regarding the organ's total number of functions vary, but textbooks generally cite it at around 500 or so.needed
+
+Terminology related to the liver often starts in hepar- or hepat- from the Greek word for liver, hēpar (ἧπαρ, root hepat-, ἡπατ-).
+
+==Anatomy==
+The liver is a reddish brown organ with four lobes of unequal size and shape. A human liver normally weighs 1.44 -, and is a soft, pinkish-brown, triangular organ. It is both the largest internal organ (the skin being the largest organ overall) and the largest gland in the human body.
+It is located in the right upper quadrant of the abdominal cavity, resting just below the diaphragm. The liver lies to the right of the stomach and overlies the gallbladder. It is connected to two large blood vessels, one called the hepatic artery and one called the portal vein. The hepatic artery carries blood from the aorta, whereas the portal vein carries blood containing digested nutrients from the entire gastrointestinal tract and also from the spleen and pancreas. These blood vessels subdivide into capillaries, which then lead to a lobule. Each lobule is made up of millions of hepatic cells which are the basic metabolic cells. Lobules are the functional units of the liver.
+
+===Cell types===
+Two major types of cells populate the liver lobes: karat parenchymal and non-parenchymal cells. 80% of the liver volume is occupied by parenchymal cells commonly referred to as hepatocytes. Non-parenchymal cells constitute 40% of the total number of liver cells but only 6.5% of its volume. Sinusoidal hepatic endothelial cells, Kupffer cells and hepatic stellate cells are some of the non-parenchymal cells that line the liver sinusoid. 
+
+===Blood flow===
+The liver gets a dual blood supply from the hepatic portal vein and hepatic arteries. Supplying approximately 75% of the liver's blood supply, the hepatic portal vein carries venous blood drained from the spleen, gastrointestinal tract, and its associated organs. The hepatic arteries supply arterial blood to the liver, accounting for the remainder of its blood flow. Oxygen is provided from both sources; approximately half of the liver's oxygen demand is met by the hepatic portal vein, and half is met by the hepatic arteries. Blood flows through the liver sinusoids and empties into the central vein of each lobule. The central veins coalesce into hepatic veins, which leave the liver.
+
+===Biliary flow===
+The biliary tree
+
+The term biliary tree is derived from the arboreal branches of the bile ducts. The bile produced in the liver is collected in bile canaliculi, which merge to form bile ducts. Within the liver, these ducts are called intrahepatic (within the liver) bile ducts, and once they exit the liver they are considered extrahepatic (outside the liver). The intrahepatic ducts eventually drain into the right and left hepatic ducts, which merge to form the common hepatic duct. The cystic duct from the gallbladder joins with the common hepatic duct to form the common bile duct.
+
+Bile either drains directly into the duodenum via the common bile duct, or is temporarily stored in the gallbladder via the cystic duct. The common bile duct and the pancreatic duct enter the second part of the duodenum together at the ampulla of Vater.
+
+===Human liver===
+
+The human liver is normally divided into two lobes (left and right), if viewed from the parietal surface; but if observed on the visceral surface it is divided into four lobes with the addition of the caudate and quadrate lobe.
+Other anatomical landmarks exist, such as the ligamentum venosum (ligamentum of Arancio) and the round ligament (ligamentum Teres) that further divide the left side of the liver in two sections.
+The falciform ligament is visible on the front (anterior side) of the liver. This divides the liver into a left anatomical lobe, and a right anatomical lobe.
+
+===Anatomical segments===
+
+The liver is divided into eight functionally independent segments as per Couinaud classification of liver anatomy. 
+
+===In other animals===
+The liver is found in all vertebrates, and is typically the largest visceral organ. Its form varies considerably in different species, and is largely determined by the shape and arrangement of the surrounding organs. Nonetheless, in most species it is divided into right and left lobes; exceptions to this general rule include snakes, where the shape of the body necessitates a simple cigar-like form. The internal structure of the liver is broadly similar in all vertebrates. 
+
+An organ sometimes referred to as a liver is found associated with the digestive tract of the primitive chordate Amphioxus. However, this is an enzyme secreting gland, not a metabolic organ, and it is unclear how truly homologous it is to the vertebrate liver. 
+
+==Physiology==
+The various functions of the liver are carried out by the liver cells or hepatocytes. Currently, there is no artificial organ or device capable of emulating all the functions of the liver. Some functions can be emulated by liver dialysis, an experimental treatment for liver failure. The liver is thought to be responsible for up to 500 separate functions, usually in combination with other systems and organs.
+
+===Synthesis===
+
+* A large part of amino acid synthesis
+* The liver performs several roles in carbohydrate metabolism:
+** Gluconeogenesis (the synthesis of glucose from certain amino acids, lactate or glycerol)
+** Glycogenolysis (the breakdown of glycogen into glucose)
+** Glycogenesis (the formation of glycogen from glucose)(muscle tissues can also do this)
+* The liver is responsible for the mainstay of protein metabolism, synthesis as well as degradation.
+* The liver also performs several roles in lipid metabolism:
+** Cholesterol synthesis
+** Lipogenesis, the production of triglycerides (fats).
+** A bulk of the lipoproteins are synthesized in the liver.
+* The liver produces coagulation factors I (fibrinogen), II (prothrombin), V, VII, IX, X and XI, as well as protein C, protein S and antithrombin.
+* In the first trimester fetus, the liver is the main site of red blood cell production. By the 32nd week of gestation, the bone marrow has almost completely taken over that task.
+* The liver produces and excretes bile (a yellowish liquid) required for emulsifying fats and help the absorption of vitamin K from the diet. Some of the bile drains directly into the duodenum, and some is stored in the gallbladder.
+* The liver also produces insulin-like growth factor 1 (IGF-1), a polypeptide protein hormone that plays an important role in childhood growth and continues to have anabolic effects in adults.
+* The liver is a major site of thrombopoietin production. Thrombopoietin is a glycoprotein hormone that regulates the production of platelets by the bone marrow.
+
+===Breakdown===
+* The breakdown of insulin and other hormones
+* The liver glucoronidates bilirubin, facilitating its excretion into bile.
+* The liver breaks down or modifies toxic substances (e.g., methylation) and most medicinal products in a process called drug metabolism. This sometimes results in toxication, when the metabolite is more toxic than its precursor. Preferably, the toxins are conjugated to avail excretion in bile or urine.
+* The liver converts ammonia to urea (urea cycle).
+
+===Other functions===
+* The liver stores a multitude of substances, including glucose (in the form of glycogen), vitamin A (1–2 years' supply), vitamin D (1–4 months' supply), vitamin B12 (1–3 years' supply), vitamin K, iron, and copper.
+* The liver is responsible for immunological effects—the mononuclear phagocyte system (MPS) of the liver contains many immunologically active cells, acting as a 'sieve' for antigens carried to it via the portal system.
+* The liver produces albumin, the major osmolar component of blood serum.
+* The liver synthesizes angiotensinogen, a hormone that is responsible for raising the blood pressure when activated by renin, an enzyme that is released when the kidney senses low blood pressure.
+* The liver also functions as a blood reservoir, being an expandable organ. Large quantities of blood can be stored in its blood vessels, its normal blood volume in the hepatic veins and that in the hepatic sinuses is about 450ml. During cardiac failure with peripheral congestion, the liver expands, and 0.5 to 1 liter of extra blood is occasionally stored in the hepatic veins and sinuses, due to high pressure in right atrium which causes back pressure in the liver.
+
+===Relation to medicine and pharmacology===
+The oxidative capacity of the liver decreases with aging and therefore any medications that require oxidation (for instance, benzodiazepines) are more likely to accumulate to toxic levels. However, medications with shorter half-lives, such as lorazepam and oxazepam, are preferred in most cases when benzodiazepines are required in regards to geriatric medicine.
+
+==Diseases of the liver==
+
+ Left lobe liver tumor
+
+The liver supports almost every organ in the body and is vital for survival. Because of its strategic location and multidimensional functions, the liver is also prone to many diseases. Cirrhosis Overview National Digestive Diseases Information Clearinghouse. Retrieved on 2010-01-22 
+
+The most common include: Infections such as hepatitis A, B, C, D, E, alcohol damage, fatty liver, cirrhosis, cancer, drug damage (particularly by acetaminophen (paracetamol) and cancer drugs).
+
+Many diseases of the liver are accompanied by jaundice caused by increased levels of bilirubin in the system. The bilirubin results from the breakup of the hemoglobin of dead red blood cells; normally, the liver removes bilirubin from the blood and excretes it through bile.
+
+There are also many pediatric liver diseases including biliary atresia, alpha-1 antitrypsin deficiency, alagille syndrome, progressive familial intrahepatic cholestasis, and Langerhans cell histiocytosis, to name but a few.
+
+Diseases that interfere with liver function will lead to derangement of these processes. However, the liver has a great capacity to regenerate and has a large reserve capacity. In most cases, the liver only produces symptoms after extensive damage.
+
+Liver diseases may be diagnosed by liver function tests, for example, by production of acute phase proteins.
+
+==Regeneration and transplantation==
+
+The liver is the only human internal organ capable of natural regeneration of lost tissue; as little as 25% of a liver can regenerate into a whole liver. Regeneration is very rapid. The liver will return to a normal size in 1 to 2 weeks following the removal of greater than 50% of the liver by mass. 
+
+This is predominantly due to the hepatocytes re-entering the cell cycle. That is, the hepatocytes go from the quiescent G0 phase to the G1 phase and undergo mitosis. This process is activated by the p75 receptors. 
+
+The three earliest human liver transplants were performed by Thomas Starzl in the United States in 1963. Starzl, T.E., T.L. Marchioro, K.N. Von Kaulla, G. Hermann, R.S. Brittain, W.R. Waddell, "Homotransplantation of the liver in humans." Surg Gynecol Obstet 117: 659-676, 1963. In 1968, Roy Calne in Cambridge, England performed the first liver transplants in Great Britain. R.Y. Calne, R. Williams, "Liver transplantation in man. I. Observations on technique and organization in five cases." Br Med 4: 535-540, 1968. 
+After resection of left lobe liver tumor
+Liver transplantation is the only option for those with irreversible liver failure. Most transplants are done for chronic liver diseases leading to cirrhosis, such as chronic hepatitis C, alcoholism, autoimmune hepatitis, and many others. Less commonly, liver transplantation is done for fulminant hepatic failure, in which liver failure occurs over days to weeks.
+
+==Development==
+
+===Organogenesis===
+The origins of the liver lie in both the ventral portion of the foregut endoderm (endoderm being one of the 3 embryonic germ cell layers) and the constituents of the adjacent septum transversum mesenchyme. In the human embryo, the hepatic diverticulum is the tube of endoderm that extends out from the foregut into the surrounding mesenchyme. The mesenchyme of septum transversum induces this endoderm to proliferate, to branch, and to form the glandular epithelium of the liver. A portion of the hepatic diverticulum (that region closest to the digestive tube) continues to function as the drainage duct of the liver, and a branch from this duct produces the gallbladder. Besides of signals from the septum transversum mesenchyme, fibroblast growth factor from the developing heart also contribute to hepatic competence, along with retinoic acid emanating from the lateral plate mesoderm. The hepatic endodermal cells undergo a morphological transition from columnar to pseudostratified resulting in thickening into the early liver bud. Their expansion forms a population of the bipotential hepatoblasts. Hepatic stellate cells are derived from mesenchyme. 
+
+After migration of hepatoblasts into the septum transversum mesenchyme, the hepatic architecture begins to be established, with liver sinusoids and bile canaliculi appearing. The liver bud separates into the lobes. The left umbilical vein becomes the ductus venosus and the right vitelline vein becomes the portal vein. The expanding liver bud is colonized by hematopoietic cells. The bipotential hepatoblasts begin differentiating into biliary epithelial cells and hepatocytes. The biliary epithelial cells differentiate from hepatoblasts around portal veins, first producing a monolayer, and then a bilayer of cuboidal cells. In ductal plate, focal dilations emerge at points in the bilayer, become surrounded by portal mesenchyme, and undergo tubulogenesis into intrahepatic bile ducts. Hepatoblasts not adjacent to portal veins instead differentiate into hepatocytes and arrange into cords lined by sinudoidal epithelial cells and bile canaliculi. Once hepatoblasts are specified into hepatocytes and undergo further expansion, they begin acquiring the functions of a mature hepatocyte, and eventually mature hepatocytes appear as highly polarized epithelial cells with abundant glycogen accumulation. In the adult liver, hepatocytes are not equivalent, with position along the portocentrovenular axis within a liver lobule dictating expression of metabolic genes involved in drug metabolism, carbohydrate metabolism, ammonia detoxification, and bile production and secretion. WNT/β-catenin has now been identified to be playing a key role in this phenomenon. 
+
+===Fetal blood supply===
+In the growing fetus, a major source of blood to the liver is the umbilical vein which supplies nutrients to the growing fetus. The umbilical vein enters the abdomen at the umbilicus, and passes upward along the free margin of the falciform ligament of the liver to the inferior surface of the liver. There it joins with the left branch of the portal vein. The ductus venosus carries blood from the left portal vein to the left hepatic vein and then to the inferior vena cava, allowing placental blood to bypass the liver.
+
+In the fetus, the liver develops throughout normal gestation, and does not perform the normal filtration of the infant liver. The liver does not perform digestive processes because the fetus does not consume meals directly, but receives nourishment from the mother via the placenta. The fetal liver releases some blood stem cells that migrate to the fetal thymus, so initially the lymphocytes, called T-cells, are created from fetal liver stem cells. Once the fetus is delivered, the formation of blood stem cells in infants shifts to the red bone marrow.
+
+After birth, the umbilical vein and ductus venosus are completely obliterated in two to five days; the former becomes the ligamentum teres and the latter becomes the ligamentum venosum. In the disease state of cirrhosis and portal hypertension, the umbilical vein can open up again.
+
+==As food==
+
+The liver of mammals, fowl, and fish are commonly eaten as food by humans. Domestic pig, ox, lamb, calf, chicken, and goose livers are widely available from butchers and supermarkets.
+
+Liver can be baked, boiled, broiled, fried, stir-fried, or eaten raw (asbeh nayeh or sawda naye in Lebanese cuisine, liver sashimi). In many preparations, pieces of liver are combined with pieces of meat or kidneys, like in the various forms of Middle Eastern mixed grill (e.g. meurav Yerushalmi). Liver is often made into spreads. Well-known examples include liver pâté, foie gras, chopped liver, and leverpastej. Liver sausages such as Braunschweiger and liverwurst are also a valued meal. Liver sausages may also be used as spreads. A traditional South African delicacy, namely Skilpadjies, is made of minced lamb's liver wrapped in netvet (caul fat), and grilled over an open fire.
+
+Animal livers are rich in iron and vitamin A, and cod liver oil is commonly used as a dietary supplement. Traditionally, some fish livers were valued as food, especially the stingray liver. It was used to prepare delicacies, such as poached skate liver on toast in England, as well as the beignets de foie de raie and foie de raie en croute in French cuisine. Calvin W. Schwabe Unmentionable Cuisine 
+
+==Cultural allusions==
+In Greek mythology, Prometheus was punished by the gods for revealing fire to humans, by being chained to a rock where a vulture (or an eagle) would peck out his liver, which would regenerate overnight. (The liver is the only human internal organ that actually can regenerate itself to a significant extent.) Many ancient peoples of the Near East and Mediterranean areas practiced a type of divination called haruspicy, where they tried to obtain information by examining the livers of sheep and other animals.
+
+In Plato, and in later physiology, the liver was thought to be the seat of the darkest emotions (specifically wrath, jealousy and greed) which drive men to action. The Talmud (tractate Berakhot 61b) refers to the liver as the seat of anger, with the gallbladder counteracting this.
+
+The Persian, Urdu, and Hindi languages (جگر or जिगर or jigar) refer to the liver in figurative speech to indicate courage and strong feelings, or "their best"; e.g., "This Mecca has thrown to you the pieces of its liver!". The Great Battle Of Badar (Yaum-E-Furqan). Shawuniversitymosque.org (2006-07-08). Retrieved on 2013-03-19. The term jan e jigar, literally "the strength (power) of my liver", is a term of endearment in Urdu. In Persian slang, jigar is used as an adjective for any object which is desirable, especially women. In the Zulu language, the word for liver (isibindi) is the same as the word for courage.
+
+The legend of Liver-Eating Johnson says that he would cut out and eat the liver of each man killed after dinner.
+
+In the motion picture The Message, Hind bint Utbah is implied or portrayed eating the liver of Hamza ibn ‘Abd al-Muttalib during the Battle of Uhud. Although there are narrations that suggest that Hind did "taste", rather than eat, the liver of Hamza, the authenticity of these narrations have to be questioned.
+
+==Additional Images==
+
+Image:Sobo 1906 387.png|Anterior view of the human liver.
+File:Blausen 0616 Liver Location.png|Illustration of the placement of the liver (anterior view).
+
+== See also ==
+* Artificial liver
+* Bile
+* Bile canaliculus
+* Polycystic liver disease (liver cyst)
+* Hepatocyte
+* Liver function tests
+* Liver shot (martial arts strike)
+* Polycystic liver disease
+* Porto-Systemic anastomosis
+
+==References==
+
+==External links==
+
+*Liver at the Open Directory Project.
+*VIRTUAL Liver – online learning resource
+*Liver enzymes
+*
+*Segmental Liver Anatomy
+*
+*Secondary liver cancer
+
+ 
+
+

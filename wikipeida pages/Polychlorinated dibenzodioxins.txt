@@ -1,0 +1,197 @@
+[[Polychlorinated dibenzodioxins]]
+
+General structure of PCDDs where n and m can range from 0 to 4
+Polychlorinated dibenzodioxins (PCDDs), or simply dioxins, are a group of polyhalogenated organic compounds that are significant environmental pollutants.
+
+They are commonly but inaccurately referred to as dioxins for simplicity, because every PCDD molecule contains a dibenzo-1,4-dioxin skeletal structure, with 1,4-dioxin as the central ring. Members of the PCDD family bioaccumulate in humans and wildlife because of their lipophilic properties, and may cause developmental disturbances and cancer.
+
+Dioxins occur as by-products in the manufacture of some organochlorides, in the incineration of chlorine-containing substances such as polyvinyl chloride (PVC), in the chlorine bleaching of paper, and from natural sources such as volcanoes and forest fires. There have been many incidents of dioxin pollution resulting from industrial emissions and accidents; the earliest such incidents were in the mid 19th century during the Industrial Revolution. 
+
+The word "dioxins" may also refer to other similarly acting chlorinated compounds (see Dioxins and dioxin-like compounds).
+
+==Chemical structure of dibenzo-1,4-dioxins==
+The skeletal formula and substituent numbering scheme of the parent compound dibenzo-1,4-dioxin
+
+The structure of dibenzo-1,4-dioxin consists of two benzene rings joined by two oxygen bridges. This makes the compound an aromatic diether. The name dioxin formally refers to the central dioxygenated ring, which is stabilized by the two flanking benzene rings.
+
+In PCDDs, chlorine atoms are attached to this structure at any of 8 different places on the molecule, at positions 1–4 and 6–9. There are 75 different PCDD congeners (that is, related dioxin compounds). Nomenclature and physico-chemical properties of PCDDs and PCDFs. In: Dioxins in the Environment: What are the health risks? INSERM Collective Expert Evaluation Reports (2000). Ncbi.nlm.nih.gov (2011-03-18). Retrieved on 2011-06-09. 
+
+The toxicity of PCDDs depends on the number and positions of the chlorine atoms. Congeners that have chlorine in the 2, 3, 7, and 8 positions have been found to be significantly toxic. In fact, 7 congeners have chlorine atoms in the relevant positions which were considered toxic by the World Health Organization toxic equivalent (WHO-TEQ) scheme. 
+
+==Historical perspective==
+Structure of 2,3,7,8-tetrachlorodibenzodioxin (TCDD)
+
+Low concentrations of dioxins existed in nature prior to industrialization as a result of natural combustion and geological processes. Dioxins were first unintentionally produced as by-products from 1848 onwards as Leblanc process plants started operating in Germany. The first intentional synthesis of chlorinated dibenzodioxin was in 1872. Today, concentrations of dioxins are found in all humans, with higher levels commonly found in persons living in more industrialized countries. The most toxic dioxin, 2,3,7,8-tetrachlorodibenzodioxin (TCDD), became well known as a contaminant of Agent Orange, a herbicide used in the Malayan Emergency and the Vietnam War. Later, dioxins were found in Times Beach, Missouri and Love Canal, New York and Seveso, Italy. More recently, dioxins have been in the news with the poisoning of President Viktor Yushchenko of Ukraine in 2004, the Naples Mozzarella Crisis the 2008 Irish pork crisis, and the German feed incident of 2010. http://ec.europa.eu/food/committees/regulatory/scfcah/animal_health/presentations/1112012011_dioxin_germany.pdf 
+
+==Sources of dioxins==
+The United States Environmental Protection Agency inventory of sources of dioxin-like compounds is possibly the most comprehensive review of the sources and releases of dioxins, EPA/600/P-03/002f, Final Report but other countries now have substantial research as well.
+
+Concentration profile of PCDD in a dated sediment core from Esthwaite Water, Cumbria, UK.
+
+Occupational exposure is an issue for some in the chemical industries, historically for those making chlorophenols or chlorophenoxy acid herbicides or in the application of chemicals, notably herbicides. In many developed nations there are now emissions regulations which have dramatically decreased the emissions and thus alleviated some concerns, although the lack of continuous sampling of dioxin emissions causes concern about the understatement of emissions. In Belgium, through the introduction of a process called AMESA, continuous sampling showed that periodic sampling understated emissions by a factor of 30 to 50 times. Few facilities have continuous sampling.
+
+Dioxins are produced in small concentrations when organic material is burned in the presence of chlorine, whether the chlorine is present as chloride ions or as organochlorine compounds, so they are widely produced in many contexts. According to the most recent US EPA data, the major sources of dioxins are broadly in the following types: 
+
+*Combustion sources, e.g. municipal waste or medical waste incinerators and private backyard barrel burning
+*Metal smelting
+*Refining and process sources
+*Chemical manufacturing sources
+*Natural sources
+*Environmental reservoirs
+
+When first carried out in 1987, the original US EPA inventory of dioxin sources revealed that incineration represented more than 80% of known dioxin sources. As a result, US EPA implemented new emissions requirements. These regulations succeeded in reducing dioxin stack emissions from incinerators. Incineration of municipal solid waste, medical waste, sewage sludge, and hazardous waste together now produce less than 3% of all dioxin emissions. Since 1987, however, backyard barrel burning has showed almost no decrease, and is now the largest source of dioxin emissions, producing about one third of the total output. 
+
+In incineration, dioxins can also reform or form de novo in the atmosphere above the stack as the exhaust gases cool through a temperature window of 600 to 200 °C. The most common method of reducing the quantity of dioxins reforming or forming de novo is through rapid (30 millisecond) quenching of the exhaust gases through that 400 °C window. Incinerator emissions of dioxins have been reduced by over 90% as a result of new emissions control requirements. Incineration in developed countries is now a very minor contributor to dioxin emissions.
+
+Dioxins are also generated in reactions that do not involve burning — such as chlorine bleaching fibers for paper or textiles, and in the manufacture of chlorinated phenols, particularly when reaction temperature is not well controlled. P.S. Kulkami, J.G. Crespo, C.A.M. Afonso: Dioxins sources and current remediation technologies - a review. Environment International 2008:34:139-153. Compounds involved include the wood preservative pentachlorophenol, and also herbicides such as 2,4-dichlorophenoxyacetic acid (or 2,4-D) and 2,4,5-trichlorophenoxyacetic acid (2,4,5-T). Higher levels of chlorination require higher reaction temperatures and greater dioxin production. Dioxins may also be formed during the photochemical breakdown of the common antimicrobial compound triclosan. 
+
+==Sources of human intake==
+A chart illustrating how much dioxin the average American consumes per day. (Note: pg = picogram, or one trillionth of a gram, or 10−12 g) . 
+
+Tolerable daily, monthly or annual intakes have been set by the World Health Organization and a number of governments. Dioxins enter the general population almost exclusively from ingestion of food, specifically through the consumption of fish, meat, and dairy products since dioxins are fat-soluble and readily climb the food chain. A.K. Liem, P. Furst, C. Rappe: Exposure of populations to dioxins and related compounds. Food Additives and Contaminants 2000:17:241-259. 
+
+Most controversial is the United States Environmental Protection Agency (US EPA) assessment's (draft) finding that any reference dose that were to be set would be far below current average intakes. This is based on linear extrapolation model of cancer risk, which is not generally accepted for chemicals promoting cancer caused by other factors rather than initiating the cancer by itself. Y.P. Dragan, D. Schrenk, Animal studies addressing the carcinogenicity of TCDD (or related compounds) with an emphasis on tumour promotion, Food Additives and Contaminants 2000: 17: 289–302. 
+
+Children are passed substantial body burdens by their mothers, and breastfeeding increases the child's body burden. Children's daily intakes during breast feeding are often many times above the intakes of adults based on body weight. This is why the WHO consultation group assessed the tolerable intake so as to prevent a woman from accumulating harmful body burdens before her first pregnancy. WHO Consultation Group. Consultation on assessment of the health risks of dioxins; re-evaluation of the tolerable daily intake (TDI): Executive summary. Food Additives and Contaminants 2000:17:223-240. Breast fed children usually still have higher dioxin body burdens than non breast fed children. The WHO still recommends breast feeding for its other benefits. Healthy Milk, Healthy Baby – Chemical Pollution and Mother's Milk – Chemicals: Dioxins and Furans. Nrdc.org. Retrieved on 2011-06-09. In many countries dioxins in breast milk have decreased by even 90% during the two last decades. WHO ENHIS factsheet "Persistent organic pollutants in human milk", 2009 | http://www.euro.who.int/__data/assets/pdf_file/0003/97032/4.3.-Persistant-Organic-Pollutantsm-EDITED_layouted_V2.pdf 
+
+Dioxins are present in cigarette smoke. Dioxin in cigarette smoke was noted as "understudied" by the US EPA in its "Re-Evaluating Dioxin" (1995). In that same document, the US EPA acknowledged that dioxin in cigarettes is "anthropogenic" (man-made, "not likely in nature").
+
+==Metabolism==
+Dioxins are absorbed primarily through dietary intake of fat, as this is where they accumulate in animals and humans. In humans, the highly chlorinated dioxins are stored in fatty tissues and are neither readily metabolized nor excreted. The estimated elimination half-life for highly chlorinated dioxins (4–8 chlorine atoms) in humans ranges from 4.9 to 13.1 years. Milbrath MO, Wenger Y, Chang C, Emond C, Garabrant D, Gillespie BW, Jolliet O. Apparent half-lives of dioxins, furans, and polychlorinated biphenyls as a function of age, body fat, smoking status, and breast-feeding. Environmental Health Perspectives, 2009:117: 417-425 
+
+The persistence of a particular dioxin congener in an animal is thought to be a consequence of its structure. Dioxins with no lateral (2, 3, 7, and 8) chlorines, which thus contain hydrogen atoms on adjacent pairs of carbons, can more readily be oxidized by cytochromes P450. The oxidized dioxins can then be more readily excreted rather than stored for a long time.
+
+==Toxicity==
+Space-filling model of 2,3,7,8-tetrachlorodibenzodioxin.
+
+2,3,7,8-Tetrachlorodibenzodioxin (TCDD) is considered the most toxic of the congeners (for the mechanism of action, see 2,3,7,8-Tetrachlorodibenzodioxin and Aryl hydrocarbon receptor). Other dioxin congeners including PCDFs and PCBs with dioxin-like toxicity, are given a toxicity rating from 0 to 1, where TCDD = 1 (see Dioxins and dioxin-like compounds). This toxicity rating is called the Toxic Equivalence Factor concept, or TEF. TEFs are consensus values and, because of the strong species dependence for toxicity, are listed separately for mammals, fish, and birds. TEFs for mammalian species are generally applicable to human risk calculations. The TEFs have been developed from detailed assessment of literature data to facilitate both risk assessment and regulatory control. Many other compounds may also have dioxin-like properties, particularly non-ortho PCBs, one of which has a TEF as high as 0.1.
+
+The total dioxin toxic equivalence (TEQ) value expresses the toxicity as if the mixture were pure TCDD. The TEQ approach and current TEFs have been adopted internationally as the most appropriate way to estimate the potential health risks of mixture of dioxins. Recent data suggest that this type of simple scaling factor may not be the most appropriate treatment for complex mixtures of dioxins; both transfer from the source and absorption and elimination vary among different congeners, and the TEF value is not able to accurately reflect this. Tuomisto, J. The toxic equivalency principle and its application in dioxin risk assessment. In: R. Pohjanvirta (editor): The AH Receptor in Biology and Toxicology. Wiley, 2011. ISBN 978-0-470-60182-2. 
+
+Dioxins and other persistent organic pollutants (POPs) are subject to the Stockholm Convention. The treaty obliges signatories to take measures to eliminate where possible, and minimize where not possible to eliminate, all sources of dioxin.
+
+==Health effects in humans==
+Chloracne on the ear and neck of a herbicide production worker.
+Dioxins build up primarily in fatty tissues over time (bioaccumulate), so even small exposures may eventually reach dangerous levels. In 1994, the US EPA reported that dioxins are a probable carcinogen, but noted that non-cancer effects (reproduction and sexual development, immune system) may pose a greater threat to human health. TCDD, the most toxic of the dibenzodioxins, is classified as a Group 1 carcinogen by the International Agency for Research on Cancer (IARC). TCDD has a half-life of approximately 8 years in humans, although at high concentrations, the elimination rate is enhanced by metabolism. The health effects of dioxins are mediated by their action on a cellular receptor, the aryl hydrocarbon receptor (AhR). 
+
+Exposure to high levels of dioxins in humans causes a severe form of persistent acne, known as chloracne. High occupational or accidental levels of exposures to dioxins have been shown by epidemiological studies to lead to an increased risk of tumors at all sites. IARC monograph: "Polychlorinated Dibenzo-para-dioxins" Other effects in humans (at high dose levels) may include:
+
+*Developmental abnormalities in the enamel of children's teeth. 
+
+*Central and peripheral nervous system pathology 
+
+*Thyroid disorders 
+
+*Damage to the immune systems 
+
+*Endometriosis 
+
+*Diabetes 
+
+Recent studies have shown that high exposure to dioxins changes the ratio of male to female births among a population such that more females are born than males. 
+
+Dioxins accumulate in food chains in a fashion similar to other chlorinated compounds (bioaccumulation). This means that even small concentrations in contaminated water can be concentrated up a food chain to dangerous levels because of the long biological half life and low water solubility of dioxins.
+
+==Toxic effects in animals==
+While it has been difficult to establish specific health effects in humans due to the lack of controlled dose experiments, studies in animals have shown that dioxin causes a wide variety of toxic effects. R. Pohjanvirta, J. Tuomisto, Short-term toxicity of 2,3,7,8-tetrachlorodibenzop- dioxin in laboratory animals: effects, mechanisms, and animal models, Pharmacological Reviews 1994: 46: 483–549. In particular, TCDD (see this) has been shown to be teratogenic, mutagenic, carcinogenic, immunotoxic, and hepatotoxic. Furthermore, alterations in multiple endocrine and growth factor systems have been reported. The most sensitive effects, observed in multiple species, appear to be developmental, including effects on the developing immune, nervous, and reproductive systems. The most sensitive effects are caused at body burdens relatively close to those reported in humans.
+
+Among the animals for which TCDD toxicity has been studied, there is strong evidence for the following effects:
+
+*Birth defects (teratogenicity)
+
+:In rodents, including rats, mice, hamsters and guinea pigs, birds, and fish. 
+
+*Cancer (including neoplasms in the mammalian lung, oral/nasal cavities, thyroid and adrenal glands, and liver, squamous cell carcinoma, and various animal hepatocarcinomas)
+
+:In rodents and fish 
+
+*Hepatotoxicity (liver toxicity)
+
+:In rodents, chickens, and fish 
+
+*Endocrine disruption
+
+:In rodents and fish 
+
+*Immunosuppression
+
+:In rodents and fish. 
+
+The LD50 of dioxin also varies wildly between species with the most notable disparity being between the ostensibly similar species of hamster and guinea pig. The oral LD50 for guinea pigs is as low as 0.5 to 2 μg/Kg body weight, whereas the oral LD50 for hamsters can be as high as 1 to 5 mg/Kg body weight, a difference of as much as thousandfold or more, and even among rat strains there may be thousandfold differences. 
+
+==Agent Orange==
+U.S. Army Huey helicopter spraying Agent Orange over Vietnamese agricultural land
+
+Agent Orange was the code name for one of the herbicides and defoliants used by the British military during the Malayan Emergency and the U.S. military as part of its herbicidal warfare program, Operation Ranch Hand, during the Vietnam War from 1961 to 1971.
+
+During the early 1950s, the British were the first to employ herbicides and defoliants to destroy the crops of communist insurgents in Malaya during the Malayan Emergency. In early 1951, the Malayan administration bought over 15,000 gallons of Trioxone from the Imperial Chemical Industries (ICI) and asked the British for advice on the use of defoliants in its increasingly bitter war against communist guerrillas. The 2,4,5-T and 2,4-D (Agent Orange) were primarily manufactured by the ICI and its product was widely used by the British military against communist insurgents in the Malayan conflict in the 1950s. The ICI provided technical assistance to the British military in that conflict and encouraged them to use Agent Orange widely as they thought it would help destroy communist insurgents. 
+
+During the Vietnam war, between 1962 and 1971, the United States military sprayed 20000000 U.S.gal of chemical herbicides and defoliants in Vietnam, eastern Laos and parts of Cambodia, as part of Operation Ranch Hand. Pellow, David N. Resisting Global Toxics: Transnational Movements for Environmental Justice, MIT Press, 2007, p. 159, (ISBN 0-262-16244-X). Like the British did in Malaya, the program's goal was to defoliate forested and rural land, depriving guerrillas of cover; another goal was to induce forced draft urbanization, destroying the ability of peasants to support themselves in the countryside, and forcing them to flee to the U.S. dominated cities, thus depriving the guerrillas of their rural support base and food supply. Stellman et al. 2003: pp 681–687 A 50:50 mixture of 2,4,5-T and 2,4-D which was the same ingredient that the British used in Malaya, it was manufactured for the U.S. Department of Defense primarily by Monsanto Corporation and Dow Chemical. It was given its name from the color of the orange-striped 55 U.S. gallon (200 L) barrels in which it was shipped, and was by far the most widely used of the so-called "Rainbow Herbicides". Hay, 1982: 
+
+U.S. Air Force records show that at least 6,542 spraying missions took place over the course of Operation Ranch Hand. By 1971, 12% of the total area of South Vietnam had been sprayed with defoliating chemicals, which were often applied at rates that were 13 times as high as the legal USDA limit. SBSG, 1971: p. 36 In South Vietnam alone, an estimated 10 million hectares of agricultural land were ultimately destroyed. Luong, 2003: p. 3 In some areas TCDD concentrations in soil and water were hundreds of times greater than the levels considered "safe" by the U.S. Environmental Protection Agency. Fawthrop, Tom; "Vietnam's war against Agent Orange", BBC News, June 14, 2004 Fawthrop, Tom; "Agent of Suffering", Guardian, 10 February 2008 Overall, more than 20% of South Vietnam's forests were sprayed at least once over a nine-year period. 
+
+According to Vietnamese Ministry of Foreign Affairs, 4.8 million Vietnamese people were exposed to Agent Orange, resulting in 400,000 people being killed or maimed, and 500,000 children born with birth defects. York,Geoffrey; Mick, Hayley; "Last Ghost of the Vietnam War", The Globe and Mail, July 12, 2008 The Red Cross of Vietnam estimates that up to 1 million people are disabled or have health problems due to contaminated Agent Orange. The United States government has challenged these figures as being unreliable and unrealistically high. "Defoliation" entry in BEN STOCKING (May 22, 2010) Vietnam, US still in conflict over Agent Orange Associated Press Writer seattletimes.com/html/health/2011928849_apasvietnamusagentorange.html 
+
+==Dioxin exposure incidents==
+
+*In 1949, in a Monsanto herbicide production plant for 2,4,5-T in Nitro, West Virginia, 240 people were affected when a relief valve opened. 
+
+*In 1963, a dioxin cloud escaped after an explosion in a Philips-Duphar plant (now Solvay Group) near Amsterdam. The plant was so polluted with dioxin after the accident that it had to be dismantled, embedded in concrete, and dumped into the ocean. 
+
+Spolana Neratovice chloralkali plant, air view
+*Between 1965 and 1968 production of 2,4,5-trichlorophenol in Spolana Neratovice plant in Czechoslovakia seriously poisoned about 60 workers with dioxins; after 3 years of investigations of the health problems of workers, Spolana stopped manufacture of 2,4,5-T (most of which was supplied to the US military in Vietnam). Several buildings of the Spolana chemical plant were heavily contaminated by dioxins. Miroslav Šuta: Spolana — časovaná bomba na břehu Labe, Sedmá generace, 10/2002 Unknown amounts of dioxins were flushed into the Elbe and Mulde rivers during the 2002 European flood, contaminating the soils. Analysis of eggs and ducks found levels of dioxins 15-time higher than EU limit and high concentrations of dioxin-like PCBs in the village of Libiš. Miroslav Šuta: Dioxinové kachny "made in Spolana", Sedmá generace, 3/2003 In 2004, the state health authority published a study which analysed the level of toxic substances in human blood near Spolana. According to the study, blood dioxin levels in Neratovice, Libiš and Tišice were about twice the level of the control group in Benešov. The quantity of dioxin chemicals near Spolana is significantly higher than the background level in other countries, e.g., USA, Japan or Spain. According to the US EPA, even the background level can pose a risk of cancer from 1:10000 up to 1:1000, about 100 times higher than normal. Greenpeace: Carcinogens in human blood near Spolana can cause serious health problems The consumption of local fish, eggs, poultry and some produce was prohibited because of the post-flood contamination. Contamination of chicken eggs near the Spolchemie Ústí nad Labem chemical plant in the Czech Republic by dioxins, PCBs and hexachlorobenzene International POP Elimination Network (IPEN) 
+
+*Also during 1965 through 1968, Dr. Albert M. Kligman was contracted by the Dow Chemical Company to perform threshold tests for TCDD on inmates at Holmesburg Prison in Philadelphia after Dow studies revealed adverse effects on workers at Dow's Midland, Michigan plant were likely due to TCDD. A subsequent test by Dow in rabbit ear models when exposed to 4–8μg usually caused a severe response. The human studies carried out in Holmesburg failed to follow Dow's original protocol and lacked proper informed consent by the participants. As a result of poor study design and subsequent destruction of records, the tests were virtually worthless even though ten inmates were exposed to 7,500μg of TCDD. 
+
+*In 1976, large amounts of dioxins were released in an industrial accident at Seveso, Italy, although no immediate human fatalities or birth defects occurred. 
+
+*In 1978, dioxins were some of the contaminants that forced the evacuation of the Love Canal neighborhood of Niagara Falls, New York.
+
+*From 1982 through to 1985, Times Beach, Missouri, was bought out and evacuated under order of the United States Environmental Protection Agency due to high levels of dioxins in the soil caused by applications of contaminated oil meant to control dust on the town's dirt roads. The town eventually disincorporated. 
+
+*In December 1991, an electrical explosion caused dioxins (created from the oxidation of polychlorinated biphenyl) to spread through four residence halls and two other buildings on the college campus of SUNY New Paltz.
+
+*In May 1999, there was a dioxin crisis in Belgium: quantities of polychlorinated biphenyls with dioxin-like toxicity had entered the food chain through contaminated animal feed. 7,000,000 chickens and 60,000 pigs had to be slaughtered. This scandal was followed by a landslide change in government in the elections one month later. Belgian PCB and Dioxin Incident of January–June 1999: Exposure Data and Potential Impact on Health, Environ Health Perspect 109:265–273 (2001). Ehpnet1.niehs.nih.gov. Retrieved on 2011-06-09. 
+
+*Explosions resulting from the terrorist attacks on the US on September 11, 2001, released massive amounts of dust into the air. The air was measured for dioxins from September 23, 2001, to November 21, 2001, and reported to be "likely the highest ambient concentration that have ever been reported history." The United States Environmental Protection Agency report dated October 2002 and released in December 2002 titled "Exposure and Human Health Evaluation of Airborne Pollution from the World Trade Center Disaster" authored by the EPA Office of Research and Development in Washington states that dioxin levels recorded at a monitoring station on Park Row near City Hall Park in New York between October 12 and 29, 2001, averaged 5.6 parts per trillion, or nearly six times the highest dioxin level ever recorded in the U.S. Dioxin levels in the rubble of the World Trade Centers were much higher with concentrations ranging from 10 to 170 parts per trillion. The report did no measuring of the toxicity of indoor air.
+
+*In a 2001 case study, physicians reported clinical changes in a 30-year-old woman who had been exposed to a massive dosage (144,000 pg/g blood fat) of dioxin equal to 16,000 times the normal body level; the highest dose of dioxin ever recorded in a human. She suffered from chloracne, nausea, vomiting, epigastric pain, loss of appetite, leukocytosis, anemia, amenorrhoea and thrombocytopenia. However, other notable laboratory tests, such as immune function tests, were relatively normal. The same study also covered a second subject who had received a dosage equivalent to 2,900 times the normal level, who apparently suffered no notable negative effects other than chloracne. These patients were provided with olestra to accelerate dioxin elimination. 
+
+Viktor Yushchenko with chloracne after his TCDD poisoning incident
+*In 2004, in a notable individual case of dioxin poisoning, Ukrainian politician Viktor Yushchenko was exposed to the second-largest measured dose of dioxins, according to the reports of the physicians responsible for diagnosing him. This is the first known case of a single high dose of TCDD dioxin poisoning, and was diagnosed only after a toxicologist recognized the symptoms of chloracne while viewing television news coverage of his condition. 
+
+*In the early 2000s, residents of the city of New Plymouth, New Zealand, reported many illnesses of people living around and working at the Dow Chemical plant. This plant ceased production of 2,4,5-T in 1987.
+
+*DuPont has been sued by 1,995 people who claim dioxin emissions from DuPont's plant in DeLisle, Mississippi, caused their cancers, illnesses or loved ones' deaths; of these only 850 were pending as of June 2008. In August 2005, Glen Strong, an oyster fisherman with the rare blood cancer multiple myeloma, was awarded $14 million from DuPont, but the ruling was overturned June 5, 2008, by a Mississippi jury who found DuPont's plant had no connection to Mr. Strong's disease. In another case, parents claimed dioxin from pollution caused the death of their 8-year-old daughter; the trial took place in the summer of 2007, and a jury wholly rejected the family's claims, as no scientific connection could be proven between DuPont and the family's tragic loss. DuPont's DeLisle plant is one of three titanium dioxide facilities (including Edgemoor, Delaware, and New Johnsonville, Tennessee) that are the largest producers of dioxin in the country, according to the US EPA's Toxic Release Inventory. DuPont maintains its operations are safe and environmentally responsible.
+
+*In 2007, thousands of tonnes of foul-smelling refuse were piled up in Naples, Italy and its surrounding villages, defacing entire neighbourhoods. Authorities discovered that polychlorinated dibenzodioxins levels in buffalo milk used by 29 mozzarella makers exceeded permitted limits; after further investigation they impounded milk from 66 farms. Authorities suspected the source of the contamination was from waste illegally disposed of on land grazed by buffalo. Prosecutors in Naples placed 109 people under investigation on suspicion of fraud and food poisoning. Sales of Mozzarella cheese fell by 50% in Italy. 
+
+*In December 2008 in Ireland dioxin levels in pork were disclosed to have been between 80 and 200 times the legal limit. All Irish pork products were withdrawn from sale both nationally and internationally. In this case the dioxin toxicity was found to be mostly due to dioxin-like polychlorinated dibenzofurans and polychlorinated biphenyls, and the contribution from actual polychlorinated dibenzodioxins was relatively low. It is thought that the incident resulted from the contamination of fuel oil used in a drying burner at a single feed processor, with PCBs. The resulting combustion produced a highly toxic mixture of PCBs, dioxins and furans, which was included in the feed produced and subsequently fed to a large number of pigs. Report Inter-Agency Review Group Dioxin (Dec 2008). (PDF). Retrieved on 2011-06-09. 
+
+*According to the last available data, in 2005 the production of dioxin by the steel industry ILVA in Taranto (Italy) accounted for 90.3 per cent of the overall Italian emissions, and 8.8 per cent of the European emissions.
+
+*German dioxin incident: In January 2011 about 4700 German farms were banned from making deliveries after self-checking of an animal feed producer had showed levels of dioxin above maximum levels. This incident appeared to involve PCDDs and not PCBs. Dioxins were found in animal feed and eggs in many farms. The maximum values were exceeded twofold in feed and maximally fourfold in some individual eggs. Thus the incident was minor as compared with the Belgian crisis in 1999, and delivery bans were rapidly cleared. http://ec.europa.eu/food/food/chemicalsafety/contaminants/dioxin_germany_information_note_en.pdf 
+
+==Dioxin testing==
+The analyses used to determine these compounds' relative toxicity share common elements that differ from methods used for more traditional analytical determinations. The preferred methods for dioxins and related analyses use high resolution gas chromatography/mass spectrometry (HRGC/HRMS). Concentrations are determined by measuring the ratio of the analyte to the appropriate isotopically labeled internal standard. Method Collections | Measurement Science | Office of the Science Advisor | US EPA. Epa.gov (2006-06-28). Retrieved on 2011-06-09. 
+
+Also novel bio-assays like DR CALUX are nowadays used in identification of dioxins and dioxin-like compounds. The advantage in respect to HRGC/HRMS is that it is able to scan many samples at lower costs. Also it is able to detect all compounds that interact with the Ah-receptor which is responsible for carcinogenic effects. 
+
+==See also==
+*Dioxins and dioxin-like compounds
+*Polychlorinated dibenzofurans (PCDFs) – A group of compounds, produced by the same conditions as dioxins and commonly co-present with dioxins in contamination incidents. They have the same toxic mode of action and are included in the toxic equivalent scheme for the purposes of assessing dioxin levels.
+*Chemetco – this former copper smelter is cited in an academic study as one of the 10 highest ranking sources of dioxin pollution reaching Nunavut in the Canadian Arctic
+*Polychlorinated biphenyls – A group of compounds historically used in the manufacture of electrical transformers certain members of which can also contribute to dioxin-like toxicity. These dioxin like compounds are also included in the toxic equivalent scheme when measuring dioxin levels.
+
+==References==
+
+==External links==
+
+*NIEHS dioxin fact sheet
+*"Dioxins and Dioxin-like Compounds in the Food Supply: Strategies to Decrease Exposure", a 2003 report by the National Academy of Sciences
+*National Pollutant Inventory – Dioxin and Furan Fact Sheet
+*"Health Risks from Dioxin and Related Compounds: Evaluation of the EPA Reassessment" Includes discussion of methods of evaluating risk of low concentrations, and Toxic Equivalency
+*"Assessment of the Health Risks of Dioxins", a 1998 report by the World Health Organisation.
+*New Zealand Ministry of Health page on dioxins
+
+

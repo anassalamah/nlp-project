@@ -1,0 +1,118 @@
+[[Autophagy]]
+
+(A) Diagram of autophagy; (B) Electron micrograph of autophagic structures in the fatbody of a fruit fly larva; (C) Fluorescently labeled autophagosomes in liver cells of starved mice.
+
+Autophagy (or autophagocytosis) (from the Greek auto-, "self" and phagein, "to eat"), is the basic catabolic mechanism that involves cell degradation of unnecessary or dysfunctional cellular components through the actions of lysosomes. The breakdown of cellular components can ensure cellular survival during starvation by maintaining cellular energy levels. 
+Autophagy, if regulated, ensures the synthesis, degradation and recycling of cellular components. During this process, targeted cytoplasmic constituents are isolated from the rest of the cell within the autophagosome, which are then fused with lysosomes and degraded or recycled. 
+There are three different forms of autophagy that are commonly described; macroautophagy, microautophagy and chaperone-mediated autophagy. In the context of disease, autophagy has been seen as an adaptive response to survival, whereas in other cases it appears to promote cell death and morbidity. 
+
+The name "autophagy" was coined by Belgian biochemist Christian de Duve in 1963. 
+
+==Discovery and origin of the name==
+
+The process of autophagy was observed by Keith R. Porter and his postdoctoral student Thomas Ashford at the Rockefeller Institute. In January 1962 they reported that there were an increased number of lysosomes in the liver cells of rat after addition of glucagon, and that some displaced lysosomes towards the centre of the cell contained other cell organelles such as mitochondria. This was the first reported evidence in the English literature of intracellular digestion of cell organelles (which they called autolysis after Christian de Duve). However Porter and Ashford wrongly interpreted their data that the structures were lysosomes being formed (ignoring the pre-existing organelles), lysosomes could not be cell organelles but part of cytoplasm such as mitochondria, and that hydrolytic enzymes were produced by microbodies (now called peroxisomes, which do not have any digestive function). In early 1963, the American Journal of Pathology published a detailed ultrastructural description of "focal cytoplasmic degradation," which referenced a 1955 German study of injury-induced sequestration. Z. Hruban and colleagues recognized three continuous stages of maturation of the sequestered cytoplasm to lysosomes, and that the process was not limited to injury states, but also functioned under physiological conditions for "reutilization of cellular materials," and the "disposal of organelles" during differentiation. Inspired by this discovery, the term "autophagy" was invented by de Duve, the Nobel Prize-winning discoverer of lysosomes and peroxisomes. Unlike Porter and Ashford, de Duve conceived the term as a part of lysosomal function while describing the role of glucagon as a major inducer of cell degradation in the liver. With his postdoctoral student Russell L. Peter, he subsequently established that lysosomes are indeed responsible for glucagon-induced autophagy. This was the first time the fact that lysosomes are the sites of intracellular autophagy was established. He first publicly used the word at the first international symposium on lysosomes, the Ciba Foundation Symposium on Lysosomes held in London during 12–14 February 1963. He specifically introduced it while making a speech on "The Lysosome Concept" to explain the term "cytolysomes" introduced by Alex B. Novikoff. 
+
+== Process and Pathways ==
+
+There are three main pathways involved in autophagy and these are mediated by the autophagy-related genes and their associated enzymes. 
+
+Macroautophagy is the main pathway, occurring mainly to eradicate damaged cell organelles or unused proteins. This involves the formation of a double membrane around cytoplasmic substrates resulting in the organelle known as an autophagosome. In the canonical starvation-induced pathway, autophagosome formation is induced by class 3 phosphoinositide-3-kinase, the autophagy-related gene (Atg) 6 (also known as Beclin-1) and ubiquitin-like conjugation reactions. Non-canonical PI3K/beclin 1-independent induction pathways have been described for injury-induced autophagy and mitophagy. Both canonical and non-canonical pathways converge on the covalent conjugation of Atg8 homologues to phosphatidylethanolamine at the phagophore expanding autophagic membranes. Other autophagy-related proteins such as Atg4, Atg12, Atg5, and Atg16 are also involved in the regulation of these pathways. 
+The autophagosome travels through the cytoplasm of the cell to a lysosome, and the two organelles fuse; intersection with endosomal pathways also occurs. Within the lysosome, the contents of the autophagosome are degraded via acidic lysosomal hydrolases. 
+
+Microautophagy, on the other hand, involves the direct engulfment of cytoplasmic material into the lysosome. This occurs by invagination, meaning the inward folding of the lysosomal membrane, or cellular protrusion. 
+
+Chaperone-mediated autophagy, or CMA, is a very complex and specific pathway, which involves the recognition by the hsc70-containing complex. 
+This means that a protein must contain the recognition site for this hsc70 complex which will allow it to bind to this chaperone, forming the CMA- substrate/chaperone complex. This complex then moves to the lysosomal membrane-bound protein that will recognise and bind with the CMA receptor, allowing it to enter the cell. 
+Upon recognition, the substrate protein gets unfolded and it is translocated across the lysosome membrane with the assistance of the lysosomal hsc70 chaperone. 
+CMA is significantly different from other types of autophagy because it translocates protein material in a one by one manner, and it is extremely selective about what material crosses the lysosomal barrier. 
+
+==Molecular biology==
+
+Autophagy is initiated by the ULK1 kinase complex which consists of ULK1, Atg13, Atg17 and receives stress signals from mTOR complex 1. Once the mTORC1 kinase activity is inhibited, autophagosome formation occurs. This involves Vps34 which forms a complex with Beclin1 after interacting with Ambra, Bif1 and Bcl-2 which modulate its binding properties. Binding to Vps34 is essential because of its lipid kinase activity. Autophagosome formation also requires Atg12 and LC3, protein conjugation systems that resemble ubiquitin. The LC3 system is important for transport and maturation of the autophagosome. Once an autophagosome has matured, it fuses its external membrane with lysosomes to degrade its cargo. 
+
+Depending on the location of the p53 tumor suppressor protein, it plays a different role in regulating autophagy as well. When in the nuclear region, p53 acts as a transcription factor in order to activate DRAM1 and Sestrin2 which activates autophagy. In the cytoplasm, p53 inhibits autophagy. Thus, to induce autophagy, p53 is degraded through proteasomes. 
+
+== Functions ==
+
+=== Nutrient starvation ===
+Autophagy has roles in various cellular functions. One particular example is in yeasts, where the nutrient starvation induces a high level of autophagy. This allows unneeded proteins to be degraded and the amino acids recycled for the synthesis of proteins that are essential for survival. 
+In higher eukaryotes, autophagy is induced in response to the nutrient depletion that occurs in animals at birth after severing of the trans-placental food supply, as well as that of nutrient starved cultured cells and tissues. Mutant yeast cells that have a reduced autophagic capability rapidly perish in nutrition-deficient conditions. 
+Studies on the apg mutants suggest that autophagy via autophagic bodies is indispensable for protein degradation in the vacuoles under starvation conditions, and that at least 15 APG genes are involved in autophagy in yeast. 
+A gene known as Atg7 has been implicated in nutrient-mediated autophagy, as mice studies have shown that starvation-induced autophagy was impaired in Atg7-deficient mice. 
+
+=== Infection ===
+Autophagy has been recognized as an immune mechanism. It plays a role in the destruction of intracellular pathogens, in a process of degradation of dysfunctional intracellular organelles. Intracellular pathogens such as Mycobacterium tuberculosis, the bacterium which is responsible for tuberculosis, can survive within the cells by blocking the maturation of their phagosomes into degradative organelles called phagolysosomes. Stimulation of autophagy in infected cells helps overcome the block and aids the cell to eliminate the pathogens. 
+Vesicular stomatitis virus is believed to be taken up by the autophagosome from the cytosol and translocated to the endosomes where detection takes place by a member of the PRRs called toll-like receptor 7, detecting single stranded RNA. Following activation of the toll-like receptor, intracellular signaling cascades are initiated, leading to induction of interferon and other antiviral cytokines. A subset of viruses and bacteria subvert the autophagic pathway to promote their own replication. 
+Galectin-8 has recently been identified as an intracellular "danger receptor", able to initiate autophagy against intracellular pathogens. When galectin-8 binds to a damaged vacuole, it recruits autophagy adaptor such as NDP52 leading to the formation of an autophagosome and bacterial degradation. 
+
+=== Repair mechanism ===
+Autophagy degrades damaged organelles, cell membranes and proteins, and the failure of autophagy is thought to be one of the main reasons for the accumulation of cell damage and aging. 
+
+=== Programmed cell death ===
+One of the mechanisms of programmed cell death (PCD) is associated with the appearance of autophagosomes and depends on autophagy proteins. This form of cell death most likely corresponds to a process that has been morphologically defined as autophagic PCD. 
+One question that constantly arises, however, is whether autophagic activity in dying cells is the cause of death or is actually an attempt to prevent it. Morphological and histochemical studies so far did not prove a causative relationship between the autophagic process and cell death. In fact, there have recently been strong arguments that autophagic activity in dying cells might actually be a survival mechanism. 
+Studies of the metamorphosis of insects have shown cells undergoing a form of PCD that appears distinct from other forms; these have been proposed as examples of autophagic cell death. 
+
+== Autophagy and caloric restriction ==
+Research suggests that autophagy is required for the lifespan-prolonging effects of caloric restriction. A 2010 French study of nematodes, mice and flies showed that inhibition of autophagy exposed cells to metabolic stress. Resveratrol and the dietary restriction prolonged the lifespan of normal, autophagy-proficient nematodes, but not of nematodes in which autophagy had been inhibited by knocking out Beclin 1 (a known autophagic modulator). Research is ongoing in this field.
+
+==Autophagy and exercise==
+Autophagy is essential for basal homeostasis; it is also extremely important in maintaining muscle homeostasis during physical exercise. Although the molecular level of this research is only partially understood, it is understood in the study of mice that autophagy is important for the ever changing demands in nutritional and energy needs of exercise, particularly through the metabolic pathways of protein catabolism. In a 2012 study conducted by the University of Texas Southwestern Medical Center in Dallas, mutant mice with a knock-in mutation of BCL2 phosphorylation sites to produce progeny that showed normal levels of basal autophagy yet were deficient in stress-induced autophagy were tested to challenge this theory. Results showed that when compared to a control group (physiologically normal/unchanged), these mice illustrated a decrease in endurance and altered glucose metabolism during acute exercise. 
+ 
+Another study demonstrated that skeletal muscle fibres of collagen VI knockout mice showed signs of degeneration due to an insufficiency of autophagy and this led to an accumulation of damaged mitochondria and excessive apoptosis. Exercise induced autophagy is unsuccessful however; when autophagy was induced post-exercise artificially, the accumulation of damaged organelles in collagen VI deficient muscle fibres was prevented and cellular homeostasis was maintained. Both studies demonstrate that autophagy induction may contribute to the beneficial metabolic effects of exercise and that it is essential in the maintaining muscle homeostasis during exercise, particularly in collagen VI fibres. 
+
+Work at the Institute for Cell Biology, University of Bonn, showed that a certain type of autophagy, i.e., chaperone-assisted selective autophagy (CASA), is induced in contracting muscles and is required for maintaining the muscle sarcomere under mechanical tension. The CASA chaperone complex recognizes mechanically damaged cytoskeleton components and directs these components through a ubiquitin-dependent autophagic sorting pathway to lysosomes for disposal. This is necessary for maintaining muscle activity. 
+
+==Autophagy and cancer==
+Oftentimes, cancer occurs when several different pathways that regulate cell differentiation are disturbed. Autophagy plays an important role in cancer – both in protecting against cancer as well as potentially contributing to the growth of cancer. Furuya, N., Liang, X.H., and Levin, B. 2004. Autophagy and cancer. In Autophagy. D.J. Klionsky editor. Landes Bioscience. Georgetown, Texas, USA. 244-253. Autophagy may protect against cancer by isolating damaged organelles, allowing cell differentiation, increasing protein catabolism, and even promoting cell death of cancerous cells. However, autophagy can also contribute to cancer by promoting survival of tumor cells that have been starved .
+
+The role of autophagy in cancer is one that has been highly researched and reviewed. There is evidence that emphasizes the role of autophagy both as a tumor suppressor as well as a factor in tumor cell survival. However, recent research has been able to show that autophagy is more likely to be used as a tumor suppressor according to several models. 
+
+===Tumor Suppressor===
+In order to maintain homeostasis conditions, autophagy must not be disrupted. If this important mechanism is interrupted, tumor growth can likely occur. The main function of autophagy in tumor suppression is its ability to remove damaged proteins and organelles thus limiting any cell growth instability. Several experiments have been done with mice and varying Beclin1, a protein that regulates autophagy. When the Beclin1 gene was altered to be heterozygous (Beclin 1+/-), the mice were found to be tumor prone. However, when Beclin1 was overexpressed, tumor development was inhibited. 
+
+Another study done on p62 further emphasizes autophagy’s role in tumor suppression. The increase of p62/SQSTM 1 protein groups due to lack of autophagy, damaged mitochondria, and defected misfolded proteins lead to reactive oxygen species (ROS) production. ROS leads to damaged DNA and thus the formation of unwanted tumor cells. 
+
+Necrosis and chronic inflammation also has been shown to be limited through autophagy which helps protect against the formation of tumor cells. Thus these experiments show autophagy’s role as a tumor suppressor. 
+
+===Tumor Cell Survival===
+Alternatively, autophagy has also been shown to play a huge role in tumor cell survival. In cancerous cells, autophagy is used as a way to deal with stress on the cell. Paglin S, Hollister T, Delohery T, Hackett N, McMahill M, Sphicas E, Domingo D, Yahalom J. A novel response of cancer cells to radiation involves autophagy and formation of acidic vesicles" Cancer Res 2001; 61:439-44. Once these autophagy related genes were inhibited, cell death was potentiated. Jin S, White E. Role of autophagy in cancer: management of metabolic stress" Autophagy2007;3:28–31. Tumor cells have high metabolic demands due to the increase in cell proliferation. The increase in metabolic energy is offset by autophagy functions. These metabolic stresses include hypoxia, nutrient deprivation, and an increase in proliferation. These stresses activate autophagy in order to recycle ATP and maintain survival of the cancerous cells. Yang ZJ, Chee CE, Huang S, Sinicrope FA. The role of autophagy in cancer: therapeutic implications. Mol Cancer Ther. 2011;10:1533–1541. Autophagy has been shown to enable continued growth of tumor cells by maintaining cellular energy production. By inhibiting autophagy genes in these tumors cells, regression of the tumor and extended survival of the organs affected by the tumors were found. Furthermore, inhibition of autophagy has also been shown to enhance the effectiveness of anticancer therapies. 
+
+===Mechanism of Cell Death===
+Cells that undergo an extreme amount of stress experience cell death either through apoptosis or other mechanisms. Prolonged autophagy activation leads to a high turnover rate of proteins and different organelles. This high rate above the survival threshold may kill cancer cells with a high apoptotic threshold. This technique can be utilized as a therapeutic cancer treatment.
+
+===Therapeutic Target===
+New developments in research have found that targeting autophagy may be a viable new therapeutic solution in fighting cancer. As discussed above, autophagy plays both a role in tumor suppression and tumor cell survival. Thus, these qualities about autophagy can be used and manipulated as a strategy for cancer prevention. The first strategy is to induce autophagy and enhance its tumor suppression attributes. The second strategy is to inhibit autophagy and thus induce apoptosis. 
+
+The first strategy has been viewed and tested by looking at dose-response antitumor effects in autophagy-inducing therapies. These therapies have shown that autophagy extent increases in a dose-dependent manner. This is directly related to the growth of cancer cells in a dose-dependent manner as well. Therefore, this data supports the development of therapies that will encourage autophagy. Inhibiting the protein pathways directly known to induce autophagy may serve as another anticancer therapy. Lastly, overexpression of autophagy genes can be used. 
+
+The second strategy is based on the idea that autophagy is a protein degradation system used to maintain homeostasis and the findings that inhibition of autophagy often leads to apoptosis. Inhibition of autophagy is riskier because it may lead to cell survival instead of the desired cell death. This method requires much more testing.
+
+==See also ==
+*Autophagy database
+*Autophagin
+*Apoptosis
+*Residual body
+*Sub-lethal damage
+*Ubiquitin
+*Xenophagy
+
+== References ==
+
+==External links==
+* Autophagy journal homepage
+
+==Further reading==
+* 
+* Starokadomskyy P., Dmytruk K. "A bird’s-eye view of autophagy." Autophagy 9.7 (2013) 41-46.
+
+== External links ==
+*Autophagy, a journal produced by Landes Bioscience and edited by DJ Klionsky
+*LongevityMeme entry describing PubMed article on the effects of autophagy and lifespan
+*Autophagolysosome on Drugs.com
+*HADb, a Human Autophagy dedicated Database
+*Autophagy DB, an autophagy database that covers all eukaryotes
+*Self-Destructive Behavior in Cells May Hold Key to a Longer Life
+*Exercise as Housecleaning for the Body
+
+

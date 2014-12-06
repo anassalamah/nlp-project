@@ -1,0 +1,81 @@
+[[Kurt Lewin]]
+
+Kurt Zadek Lewin (September 9, 1890 – February 12, 1947) was a German-American psychologist, known as one of the modern pioneers of social, organizational, and applied psychology in the United States. In an empirical study by Haggbloom et al. using six criteria such as citations and recognition, Lewin was found to be the 18th most eminent psychologist of the 20th Century. Haggbloom, S.J. et al. (2002). The 100 Most Eminent Psychologists of the 20th Century. Review of General Psychology. Vol. 6, No. 2, 139–15. Haggbloom et al. combined 3 quantitative variables: citations in professional journals, citations in textbooks, and nominations in a survey given to members of the Association for Psychological Science, with 3 qualitative variables (converted to quantitative scores): National Academy of Science (NAS) membership, American Psychological Association (APA) President and/or recipient of the APA Distinguished Scientific Contributions Award, and surname used as an eponym. Then the list was rank ordered. 
+
+Lewin ( ) is often recognized as the "founder of social psychology" and was one of the first to study group dynamics and organizational development.
+
+== Biography ==
+In 1890, he was born into a Jewish family in Mogilno, County of Mogilno, Province of Posen, Prussia (modern Poland). He was one of four children born into a middle-class family. His father owned a small general store and a farm. The family moved to Berlin in 1905. In 1909, he entered the University of Freiburg to study medicine, but transferred to University of Munich to study biology. He became involved with the socialist movement and women's rights around this time. He served in the German army when World War I began. Due to a war wound, he returned to the University of Berlin to complete his Ph.D., with Carl Stumpf (1848–1936) the supervisor of his doctoral thesis.
+
+Lewin had originally been involved with schools of behavioral psychology before changing directions in research and undertaking work with psychologists of the Gestalt school of psychology, including Max Wertheimer and Wolfgang Kohler. He also joined the Psychological Institute of the University of Berlin where he lectured and gave seminars on both philosophy and psychology. Lewin often associated with the early Frankfurt School, originated by an influential group of largely Jewish Marxists at the Institute for Social Research in Germany. But when Hitler came to power in Germany in 1933 the Institute members had to disband, moving to England and then to America. In that year, he met with Eric Trist, of the London Tavistock Clinic. Trist was impressed with his theories and went on to use them in his studies on soldiers during the Second World War.
+
+Lewin emigrated to the United States in August 1933 and became a naturalized citizen in 1940. Earlier, he had spent six months as a visiting professor at Stanford in 1930, but on his immigration to the United States, Lewin worked at Cornell University and for the Iowa Child Welfare Research Station at the University of Iowa. Later, he went on to become director of the Center for Group Dynamics at MIT. While working at MIT in 1946, Lewin received a phone call from the Director of the Connecticut State Inter Racial Commission requesting help to find an effective way to combat religious and racial prejudices. He set up a workshop to conduct a 'change' experiment, which laid the foundations for what is now known as sensitivity training. Lasch-Quinn, E. (2001) Race Experts: How Racial Etiquette, Sensitivity Training, and New Age Therapy Hijacked the Civil Rights Revolution, New York, W. W. Norton. In 1947, this led to the establishment of the National Training Laboratories, at Bethel, Maine. Carl Rogers believed that sensitivity training is "perhaps the most significant social invention of this century." 
+
+Following WWII Lewin was involved in the psychological rehabilitation of former occupants of displaced persons camps with Dr. Jacob Fine at Harvard Medical School. When Eric Trist and A T M Wilson wrote to Lewin proposing a journal in partnership with their newly founded Tavistock Institute and his group at MIT, Lewin agreed. The Tavistock journal, Human Relations, was founded with two early papers by Lewin entitled "Frontiers in Group Dynamics". Lewin taught for a time at Duke University. King , W."Refugee Scholars At Duke University". Retrieved on 26 August 2012 
+
+Lewin died in Newtonville, Massachusetts of a heart-attack in 1947. He was buried in his home town. His wife died in 1987.
+
+== Work ==
+Lewin coined the notion of genidentity, Lewin, K. (1922). Der Begriff der Genese in Physik, Biologie und Entwicklungsgeschichte. (Lewin's Habilitationsschrift) which has gained some importance in various theories of space-time and related fields. He also proposed Herbert Blumer's interactionist perspective of 1937 as an alternative to the nature versus nurture debate. Lewin suggested that neither nature (inborn tendencies) nor nurture (how experiences in life shape individuals) alone can account for individuals' behavior and personalities, but rather that both nature and nurture interact to shape each person. This idea was presented in the form of Lewin's equation for behavior B = ƒ(P, E).
+
+Prominent psychologists mentored by Kurt Lewin included Leon Festinger (1919–1989), who became known for his cognitive dissonance theory (1956), environmental psychologist Roger Barker, Bluma Zeigarnik, and Morton Deutsch, the founder of modern conflict resolution theory and practice.
+
+=== Force field analysis ===
+Force field analysis provides a framework for looking at the factors (forces) that influence a situation, originally social situations. It looks at forces that are either driving movement toward a goal (helping forces) or blocking movement toward a goal (hindering forces). The principle, developed by Kurt Lewin, is a significant contribution to the fields of social science, psychology, social psychology, organizational development, process management, and change management. Lewin K. (1943). Defining the "Field at a Given Time." Psychological Review. 50: 292-310. Republished in Resolving Social Conflicts & Field Theory in Social Science, Washington, D.C.: American Psychological Association, 1997. His theory was expanded by John R. P. French who related it to organizational and industrial settings.
+
+=== Action research ===
+Lewin, then a professor at MIT, first coined the term “action research” in about 1944, and it appears in his 1946 paper “Action Research and Minority Problems”. Lewin, K. (1946) Action research and minority problems. J Soc. Issues 2(4): 34-46 In that paper, he described action research as “a comparative research on the conditions and effects of various forms of social action and research leading to social action” that uses “a spiral of steps, each of which is composed of a circle of planning, action, and fact-finding about the result of the action”.
+
+=== Leadership climates ===
+Lewin often characterized organizational management styles and cultures in terms of leadership climates defined by 
+ (1) authoritarian, (2) democratic and (3) laissez-faire work environments. He is often mixed up with McGregor with his work environments, but McGregor adapted them directly to leadership-theory. Authoritarian environments are characterized where the leader determines policy with techniques and steps for work tasks dictated by the leader in the division of labor. The leader is not necessarily hostile but is aloof from participation in work and commonly offers personal praise and criticism for the work done. 
+Democratic climates are characterized where policy is determined through collective processes with decisions assisted by the leader. Before accomplishing tasks, perspectives are gained from group discussion and technical advice from a leader. Members are given choices and collectively decide the division of labor. Praise and criticism in such an environment are objective, fact minded and given by a group member without necessarily having participated extensively in the actual work.
+Laissez-faire Environments give freedom to the group for policy determination without any participation from the leader. The leader remains uninvolved in work decisions unless asked, does not participate in the division of labor, and very infrequently gives praise. (Miner 2005: 39-40) 
+
+=== Change process ===
+An early model of change developed by Lewin described change as a three-stage process. The first stage he called "unfreezing". It involved overcoming inertia and dismantling the existing "mind set". It must be part of surviving. Defense mechanisms have to be bypassed. In the second stage the change occurs. This is typically a period of confusion and transition. We are aware that the old ways are being challenged but we do not have a clear picture as to what we are replacing them with yet. The third and final stage he called "freezing". The new mindset is crystallizing and one's comfort level is returning to previous levels. This is often misquoted as "refreezing" (see Lewin,1947).
+
+=== Lewin's equation ===
+The Lewin's equation, B = ƒ(P, E), is a psychological equation of behavior developed by Kurt Lewin. It states that behavior is a function of the person in their environment. 
+
+The equation is the psychologist's most well known formula in social psychology, of which Lewin was a modern pioneer. When first presented in Lewin's book Principles of Topological Psychology, published in 1936, it contradicted most popular theories in that it gave importance to a person's momentary situation in understanding his or her behavior, rather than relying entirely on the past. 
+
+=== Group dynamics ===
+In a 1947 article, Lewin coined the term 'group dynamics'. He described this notion as the way that groups and individuals act and react to changing circumstances. This field emerged as a concept dedicated to the advancement of knowledge regarding the nature of groups, their laws, establishment, development, and interactions with other groups, individuals and institutions. During the early years of research on group processes, many psychologists rejected the reality of group phenomena. Critics shared the opinion that groups did not exist as scientifically valid entities. It had been said by skeptics that the actions of groups were nothing more than those of its members considered separately. Lewin applied his interactionism formula B = ƒ(P, E), to explain group phenomena, where a member's personal characteristics (P) interact with the environmental factors of the group, (E) its members, and the situation to elicit behaviour (B). Given his background in Gestalt Psychology, Lewin justified group existence using the dictum "The whole is greater than the sum of its parts". He theorized that when a group is established it becomes a unified system with supervening qualities that cannot be understood by evaluating members individually. This notion - that a group is composed of more than the sum of its individual members - quickly gained support from sociologists and psychologists who understood the significance of this emerging field. Many pioneers noted that the majority of group phenomena could be explained according to Lewin's equation and insight and opposing views were hushed. The study of group dynamics remains relevant in today's society where a vast number of professions (e.g., business and industry, clinical/counseling psychology, sports and recreation) rely on its mechanisms to thrive. Forsyth, D.R. (2010) Group Dynamics 
+
+== See also ==
+* Lewin's equation
+* Berlin School of experimental psychology
+* Action research
+* Approach-avoidance conflict
+* Force field analysis
+* Ecological systems theory
+* Field theory
+* Macy conferences
+* Social psychology
+* Group dynamics
+* Leadership
+* Maintenance actions
+* Decision field theory
+
+==References==
+
+== Further reading ==
+* Burnes B., "Kurt Lewin and the Planned Approach to Change: A Re-appraisal", Journal of Management Studies (41:6 September 2004), Manchester, 2004.
+* Foschi R., Lombardo G.P. (2006), Lewinian contribution to the study of personality as the alternative to the mainstream of personality psychology in the 20th century. In: Trempala, J., Pepitone, A. Raven, B. Lewinian Psychology. (vol. 1, pp. 86–98). Bydgoszcz: Kazimierz Wielki University Press. ISBN 83-7096-592-X
+* Kaufmann, Pierre, Kurt Lewin. Une théorie du champ dans les sciences de l’homme, Paris, Vrin, 1968.
+* Marrow, Alfred J.The Practical Theorist: The Life and Work of Kurt Lewin(1969, 1984) ISBN 0-934698-22-8 (Alfred J. Marrow studied as one of Lewin's students)
+* Trempala, J., Pepitone, A. Raven, B. Lewinian Psychology. Bydgoszcz: Kazimierz Wielki University Press. ISBN 83-7096-592-X
+* White, Ralph K., and Ronald O. Lippitt, Autocracy and Democracy (1960, 1972) ISBN 0-8371-5710-2 (White and Lippitt carried out the research described here under Lewin as their thesis-advisor; Marrow's book also briefly describes the same work in chapter 12.)
+* Weisbord, Marvin R., Productive Workplaces Revisited (2004) ISBN 0-7879-7117-0 (Chapters 4: Lewin: the Practical Theorist, Chapter 5: The pig Organization: Lewin's Legacy to Management.)
+* Lewin,K. (1947).Frontiers of Group Dynamics: Concept, method and reality in social science, social equilibria, and social change. Human Relations, 1,5-41.
+
+== External links ==
+
+* The Kurt Lewin Center for Psychological Research at Kazimierz Wielki University
+* International Conference on "Kurt Lewin: Contribution to Contemporary Psychology"
+* Kurt Lewin: groups, experiential learning and action research
+* Kurt Lewin Foundation (an NGO - promoting tolerance)
+* Kurt Lewin Institute (A graduate student training institute in Social Psychology in the Netherlands)
+
+

@@ -1,0 +1,66 @@
+[[Germ layer]]
+
+A germ layer, is a primary layer of cells that form during embryogenesis. The three germ layers in vertebrates are particularly pronounced; however, all eumetazoans, (animals more complex than the sponge) produce two or three primary germ layers. Animals with radial symmetry, like cnidarians, produce two germ layers (the ectoderm and endoderm) making them diploblastic. Animals with bilateral symmetry produce a third layer (the mesoderm), between these two layers. making them triploblastic. Germ layers eventually give rise to all of an animal’s tissues and organs through the process of organogenesis.
+
+==Germ layers==
+Gastrulation of a diploblast: The formation of germ layers from a (1) blastula to a (2) gastrula. Some of the ectoderm cells (orange) move inward forming the endoderm (red).
+Micrograph of a teratoma, a tumour that characteristically has tissue from all three germ layers. The image shows tissue derived from the mesoderm (immature cartilage - left-upper corner of image), endoderm (gastrointestinal glands - center-bottom of image) and ectoderm (epidermis - right of image). H&E stain.
+
+Caspar Friedrich Wolff observed organization of the early embryo in leaf-like layers. In 1817, Heinz Christian Pander discovered three primordial germ layers while studying chick embryos. Between 1850 and 1855, Robert Remak had further refined the germ cell layer concept, and introduced into English were the terms "mesoderm" by Huxley in 1871 and "ectoderm" and "endoderm" by Lankester in 1873.
+
+Among animals, sponges show the simplest organization, having a single germ layer. Although they have differentiated cells (e.g. collar cells), they lack true tissue coordination. Diploblastic animals, Cnidaria and Ctenophora, show an increase in complexity, having two germ layers, the endoderm and ectoderm. Diploblastic animals are organized into recognisable tissues. All higher animals (from flatworms to humans) are triploblastic, possessing a mesoderm in addition to the germ layers found in Diploblasts. Triploblastic animals develop recognisable organs.
+
+===Development===
+Fertilization leads to the formation of a zygote. During the next stage, cleavage, mitotic cell divisions transform the zygote into a hollow ball of cells, a blastula. This early embryonic form undergoes gastrulation, forming a gastrula with either two or three layers (the germ layers). In all vertebrates, these progenitor cells differentiate into all adult tissues and organs. 
+
+In humans, after about three days, the zygote forms a solid mass of cells by mitotic division, called a morula. This then changes to a blastocyst, consisting of an outer layer called a trophoblast, and an inner cell mass called the embryoblast. Filled with uterine fluid, the blastocyst breaks out of the zona pellucida and undergoes implantation. The inner cell mass initially has two layers: the hypoblast and epiblast. At the end of the second week, a primitive streak appears. The epiblast in this region moves towards the primitive streak, dives down into it, and forms a new layer, called the endoderm, pushing the hypoblast out of the way (this goes on to form the amnion.) The epiblast keeps moving and forms a second layer, the mesoderm. The top layer is now called the ectoderm. 
+
+===Endoderm===
+The endoderm produces tissue within the lungs, thyroid, and pancreas.
+
+The endoderm is one of the germ layers formed during animal embryogenesis. Cells migrating inward along the archenteron form the inner layer of the gastrula, which develops into the endoderm.
+
+The endoderm consists at first of flattened cells, which subsequently become columnar. It forms the epithelial lining of the whole of the digestive tube except part of the mouth and pharynx and the terminal part of the rectum (which are lined by involutions of the ectoderm). It also forms the lining cells of all the glands which open into the digestive tube, including those of the liver and pancreas; the epithelium of the auditory tube and tympanic cavity; the trachea, bronchi, and air cells of the lungs; the urinary bladder and part of the urethra; and the follicle lining of the thyroid gland and thymus.
+
+The endoderm forms: the stomach, the colon, the liver, the pancreas, the urinary bladder, the epithelial parts of trachea, the lungs, the pharynx, the thyroid, the parathyroid, and the intestines.
+
+===Mesoderm===
+The mesoderm aids in the production of cardiac muscle, skeletal muscle, smooth muscle, tissues within the kidneys, and red blood cells.
+
+The mesoderm germ layer forms in the embryos of triploblastic animals. During gastrulation, some of the cells migrating inward contribute to the mesoderm, an additional layer between the endoderm and the ectoderm . The formation of a mesoderm led to the development of a coelom. Organs formed inside a coelom can freely move, grow, and develop independently of the body wall while fluid cushions and protects them from shocks .
+
+The mesoderm has several components which develop into tissues: intermediate mesoderm, paraxial mesoderm, lateral plate mesoderm, and chorda-mesoderm. The chorda-mesoderm develops into the notochord. The intermediate mesoderm develops into kidneys and gonads. The paraxial mesoderm develops into cartilage, skeletal muscle, and dermis. The lateral plate mesoderm develops into the circulatory system (including the heart and spleen), the wall of the gut, and wall of the human body
+. 
+
+Through cell signaling cascades and interactions with the ectodermal and endodermal cells, the mesodermal cells begin the process of differentiation. 
+
+The mesoderm forms: muscle (smooth and striated), bone, cartilage, connective tissue, adipose tissue, circulatory system, lymphatic system, dermis, genitourinary system, serous membranes, and notochord.
+
+===Ectoderm===
+The ectoderm produces tissues within the epidermis, aids in the formation of neurons within the brain, and constructs melanocytes.
+
+The ectoderm generates the outer layer of the embryo, and it forms from the embryo's epiblast. The ectoderm develops into the surface ectoderm, neural crest, and the neural tube. 
+
+The surface ectoderm develops into: epidermis, hair, nails, lens of the eye, sebaceous glands, cornea, tooth enamel, the epithelium of the mouth and nose.
+
+The neural crest of the ectoderm develops into: peripheral nervous system, adrenal medulla, melanocytes, facial cartilage, dentin of teeth.
+
+The neural tube of the ectoderm develops into: brain, spinal cord, posterior pituitary, motor neurons, retina.
+
+Note: The anterior pituitary develops from the ectodermal tissue of Rathke's pouch.
+
+===Neural crest===
+Because of its great importance, the neural crest is sometimes considered a fourth germ layer. Hall BK (2000) The neural crest as a fourth germ layer and vertebrates as quadroblastic not triploblastic. Evolution & Development 2, 3-5 pmid=11256415 url=http://onlinelibrary.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=1520-541X&date=2000&volume=2&issue=1&spage=3 It is, however, derived from the ectoderm.
+
+==See also==
+*Cellular differentiation
+*Embryogenesis
+*Histogenesis
+*Neurulation
+*Organogenesis
+*Blastula
+*Gastrula
+
+==References==
+
+

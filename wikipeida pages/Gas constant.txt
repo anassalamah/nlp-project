@@ -1,0 +1,123 @@
+[[Gas constant]]
+
+ Values of R Units(V P T −1 n−1) 
+ 2010 CODATA recommended value of R J K−1 mol−1 
+ VC K−1 mol−1 
+ eV K−1 mol−1 
+ L atm K−1 mol−1 
+ calorie 4.184 J should be used (IUPAC Gold Book) cal K−1 mol−1 
+ kcal K−1 mol−1 
+ erg K−1 mol−1 
+ amu (km/s)2 K−1 
+ L kPa K−1 mol−1 
+ cm3 kPa K−1 mol−1 
+ m3 Pa K−1 mol−1 
+ cm3 MPa K−1 mol−1 
+ m3 bar K−1 kg-mol−1 
+ m3 atm K−1 mol−1 
+ L atm K−1 kg-mol−1 
+ cm3 atm K−1 mol−1 
+ m3 kgf/cm2 K−1 mol−1 
+ L bar K−1 mol−1 
+ m3 mmHg K−1   mol−1 
+ L mmHg K−1   mol−1 
+ L Torr K−1   mol−1 
+ ft lbf K−1 g-mol−1 
+ ft lbf R−1 lb-mol−1 
+ ft3 psi R−1 lb-mol−1 
+ ft3 atm R−1 lb-mol−1 
+ ft3 atm K−1 lb-mol−1 
+ ft3  mmHg K−1 lb-mol−1 
+ Btu lb-mol−1 R−1 
+ 
+
+The gas constant (also known as the molar, universal, or ideal gas constant, denoted by the symbol R or ) is a physical constant which is featured in many fundamental equations in the physical sciences, such as the ideal gas law and the Nernst equation.
+
+It is equivalent to the Boltzmann constant, but expressed in units of energy (i.e. the pressure-volume product) per temperature increment per mole (rather than energy per temperature increment per particle). The constant is also a combination of the constants from Boyle's law, Charles's law, Avogadro's law, and Gay-Lussac's law.
+
+Physically, the gas constant is the constant of proportionality that happens to relate the energy scale in physics to the temperature scale, when a mole of particles at the stated temperature is being considered. Thus, the value of the gas constant ultimately derives from historical decisions and accidents in the setting of the energy and temperature scales, plus similar historical setting of the value of the molar scale used for the counting of particles. The last factor is not a consideration in the value of the Boltzmann constant, which does a similar job of equating linear energy and temperature scales.
+
+The gas constant value is
+: 
+The two digits in parentheses are the uncertainty (standard deviation) in the last two digits of the value. The relative uncertainty is 9.1.
+Some have suggested that it might be appropriate to name the symbol R the Regnault constant in honor of the French chemist Henri Victor Regnault, whose accurate experimental data was used to calculate the early value of the constant; however, the exact reason for the original representation of the constant by the letter R is elusive. 
+ 
+
+The gas constant occurs in the ideal gas law, as follows:
+:
+where P is the absolute pressure (SI unit pascals), V is the volume of gas (SI unit cubic metres), n is the chemical amount of gas (SI unit moles), m is the mass (SI unit kilograms) contained in V, and T is the thermodynamic temperature (SI unit kelvins). The gas constant is expressed in the same physical units as molar entropy and molar heat capacity.
+
+==Dimensions of R==
+From the general equation PV = nRT we get:
+:
+where P is pressure, V is volume, n is amount, and T is temperature.
+
+As pressure is defined as force per unit area, the gas equation can also be written as:
+:
+
+Area and volume are (length)2 and (length)3 respectively. Therefore:
+:
+
+Since force × length = work:
+:
+
+The physical significance of R is work per degree per mole. It may be expressed in any set of units representing work or energy (such as joules), other units representing degrees of temperature (such as degrees Celsius or Fahrenheit), and any system of units designating a mole or a similar pure number that allows an equation of macroscopic mass and fundamental particle numbers in a system, such as an ideal gas (see Avogadro's number).
+
+Instead of a mole the constant can be expressed by considering the normal cubic meter.
+
+==Relationship with the Boltzmann constant==
+The Boltzmann constant kB (often abbreviated k) may be used in place of the gas constant by working in pure particle count, N, rather than amount of substance, n, since
+:
+where NA is the Avogadro constant.
+For example, the ideal gas law in terms of Boltzmann's constant is
+:
+where N is the number of particles (molecules in this case).
+
+==Measurement==
+As of 2006, the most precise measurement of R is obtained by measuring the speed of sound ca(p, T) in argon at the temperature T of the triple point of water (used to define the kelvin) at different pressures p, and extrapolating to the zero-pressure limit ca(0, T). The value of R is then obtained from the relation
+:
+where:
+*γ0 is the heat capacity ratio (5/3 for monatomic gases such as argon);
+*T is the temperature, TTPW = 273.16 K by definition of the kelvin;
+*Ar(Ar) is the relative atomic mass of argon and Mu = 10−3 kg mol−1. 
+
+==Specific gas constant==
+
+ Rspecificfor dry air Units 
+ 287.058 J&thinsp;kg−1&thinsp;K−1 
+ 53.3533 ft&thinsp;lbf&thinsp;lb−1&thinsp;°R−1 
+ 1716.49 ft&thinsp;lbf&thinsp;slug−1&thinsp;°R−1 
+ Based on a mean molar massfor dry air of 28.9645 g/mol. 
+ 
+
+The specific gas constant of a gas or a mixture of gases (Rspecific) is given by the molar gas constant, divided by the molar mass (M) of the gas/mixture.
+:
+
+Just as the ideal gas constant can be related to the Boltzmann constant, so can the specific gas constant by dividing the Boltzmann constant by the molecular mass of the gas.
+:
+
+Another important relationship comes from thermodynamics. Mayer's relation relates the specific gas constant to the specific heats for a calorically perfect gas and a thermally perfect gas.
+:
+where cp is the specific heat for a constant pressure and cv is the specific heat for a constant volume. Anderson, Hypersonic and High-Temperature Gas Dynamics, AIAA Education Series, 2nd Ed, 2006 
+
+It is common, especially in engineering applications, to represent the specific gas constant by the symbol R. In such cases, the universal gas constant is usually given a different symbol such as R to distinguish it. In any case, the context and/or units of the gas constant should make it clear as to whether the universal or specific gas constant is being referred to. Moran and Shapiro, Fundamentals of Engineering Thermodynamics, Wiley, 4th Ed, 2000 
+
+==U.S. Standard Atmosphere==
+The U.S. Standard Atmosphere, 1976 (USSA1976) defines the gas constant R* as: U.S. Standard Atmosphere, 1976, U.S. Government Printing Office, Washington, D.C., 1976 (Linked file is 17 MB). 
+
+:
+
+The USSA1976 does recognize, however, that this value is not consistent with the cited values for the Avogadro constant and the Boltzmann constant. This disparity is not a significant departure from accuracy, and USSA1976 uses this value of R* for all the calculations of the standard atmosphere. When using the ISO value of R, the calculated pressure increases by only 0.62 pascal at 11 kilometers (the equivalent of a difference of only 17.4 centimeters or 6.8 inches) and an increase of 0.292 Pa at 20 km (the equivalent of a difference of only 0.338 m or 13.2 in).
+
+==Individual gas constants==
+Individual gas constants in base SI units of J/(kg K) can also be derived for any gas species, by making use of their molar mass. Individual Individual Gas Constants and the Universal Gas Constant — Engineering Toolbox An average value could also be derived for gas mixtures. Use of individual gas constants may make it more difficult to follow the workings of a calculation, as the relevant values tend to be less well known, and less intuitive, than the fixed value of the universal gas constants, and the well-known values of gas molecular masses.
+
+==References==
+
+ 
+
+==External links==
+* Ideal gas calculator - Ideal gas calculator provides the correct information for the moles of gas involved.
+* Individual Gas Constants and the Universal Gas Constant — Engineering Toolbox
+
+

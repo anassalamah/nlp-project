@@ -1,0 +1,106 @@
+[[Mitochondrial DNA]]
+
+Human mitochondrial DNA.
+Electron microscopy reveals mitochondrial DNA in discrete foci. Bars: 200 nm. (A) Cytoplasmic section after immunogold labelling with anti-DNA; gold particles marking mtDNA are found near the mitochondrial membrane. (B) Whole mount view of cytoplasm after extraction with CSK buffer and immunogold labelling with anti-DNA; mtDNA (marked by gold particles) resists extraction. From Iborra et al., 2004. 
+
+Mitochondrial DNA (mtDNA or mDNA) is the DNA located in organelles called mitochondria, structures within eukaryotic cells that convert chemical energy from food into a form that cells can use, adenosine triphosphate (ATP). Mitochondrial DNA is only a small portion of the DNA in a eukaryotic cell; most of the DNA can be found in the cell nucleus, and in plants, the chloroplast as well.
+
+In humans, mitochondrial DNA can be assessed as the smallest chromosome coding for 37 genes and containing approximately 16,600 base pairs. Human mitochondrial DNA was the first significant part of the human genome to be sequenced. In most species, including humans, mtDNA is inherited solely from the mother. 
+
+The DNA sequence of mtDNA has been determined from a large number of organisms and individuals (including some organisms that are extinct), and the comparison of those DNA sequences represents a mainstay of phylogenetics, in that it allows biologists to elucidate the evolutionary relationships among species. It also permits an examination of the relatedness of populations, and so has become important in anthropology and field biology.
+
+==Origin==
+Nuclear and mitochondrial DNA are thought to be of separate evolutionary origin, with the mtDNA being derived from the circular genomes of the bacteria that were engulfed by the early ancestors of today's eukaryotic cells. This theory is called the endosymbiotic theory. Each mitochondrion is estimated to contain 2-10 mtDNA copies. In the cells of extant organisms, the vast majority of the proteins present in the mitochondria (numbering approximately 1500 different types in mammals) are coded for by nuclear DNA, but the genes for some of them, if not most, are thought to have originally been of bacterial origin, having since been transferred to the eukaryotic nucleus during evolution.
+
+== Mitochondrial inheritance ==
+In most multicellular organisms, mtDNA is inherited from the mother (maternally inherited). Mechanisms for this include simple dilution (an egg contains 100,000 to 1,000,000 mtDNA molecules, whereas a sperm contains only 100 to 1000), degradation of sperm mtDNA in the fertilized egg, and, at least in a few organisms, failure of sperm mtDNA to enter the egg. Whatever the mechanism, this single parent (uniparental) pattern of mtDNA inheritance is found in most animals, most plants and in fungi as well.
+
+=== Female inheritance ===
+In sexual reproduction, mitochondria are normally inherited exclusively from the mother; the mitochondria in mammalian sperm are usually destroyed by the egg cell after fertilization. Also, most mitochondria are present at the base of the sperm's tail, which is used for propelling the sperm cells; sometimes the tail is lost during fertilization. In 1999 it was reported that paternal sperm mitochondria (containing mtDNA) are marked with ubiquitin to select them for later destruction inside the embryo. Discussed in . Some in vitro fertilization techniques, particularly injecting a sperm into an oocyte, may interfere with this.
+
+The fact that mitochondrial DNA is maternally inherited enables genealogical researchers to trace maternal lineage far back in time. (Y-chromosomal DNA, paternally inherited, is used in an analogous way to trace the agnate lineage.) This is accomplished on human mitochondrial DNA by sequencing one or more of the hypervariable control regions (HVR1 or HVR2) of the mitochondrial DNA, as with a genealogical DNA test. HVR1 consists of about 440 base pairs. These 440 base pairs are then compared to the control regions of other individuals (either specific people or subjects in a database) to determine maternal lineage. Most often, the comparison is made to the revised Cambridge Reference Sequence. Vilà et al. have published studies tracing the matrilineal descent of domestic dogs to wolves. 
+The concept of the Mitochondrial Eve is based on the same type of analysis, attempting to discover the origin of humanity by tracking the lineage back in time.
+
+As mtDNA is not highly conserved and has a rapid mutation rate, it is useful for studying the evolutionary relationships—phylogeny—of organisms. Biologists can determine and then compare mtDNA sequences among different species and use the comparisons to build an evolutionary tree for the species examined.
+
+=== Male inheritance ===
+
+It has been reported that mitochondria can occasionally be inherited from the father in some species such as mussels. 
+Paternally inherited mitochondria have additionally been reported in some insects such as fruit flies, honeybees, and periodical cicadas. 
+
+Evidence supports rare instances of male mitochondrial inheritance in some mammals as well. Specifically, documented occurrences exist for mice, where the male-inherited mitochondria was subsequently rejected. It has also been found in sheep, and in cloned cattle. It has been found in a single case in a human male. 
+
+While many of these cases involve cloned embryos or subsequent rejection of the paternal mitochondria, others document in vivo inheritance and persistence under lab conditions.
+
+==Structure==
+In most multicellular organisms, the mtDNA is organized as a circular, covalently closed, double-stranded DNA. But in many unicellular (e.g. the ciliate Tetrahymena or the green alga Chlamydomonas reinhardtii) and in rare cases also in multicellular organisms (e.g. in some species of Cnidaria) the mtDNA is found as linearly organized DNA. Most of these linear mtDNAs possess telomerase independent telomeres (i.e. the ends of the linear DNA) with different modes of replication, which have made them interesting objects of research, as many of these unicellular organisms with linear mtDNA are known pathogens. 
+
+For human mitochondrial DNA (and probably for that of metazoans in general), 100-10,000 separate copies of mtDNA are usually present per cell (egg and sperm cells are exceptions). In mammals, each double-stranded circular mtDNA molecule consists of 15,000-17,000 base pairs. The two strands of mtDNA are differentiated by their nucleotide content with the guanine-rich strand referred to as the heavy strand (or H-strand), and the cytosine-rich strand referred to as the light strand (or L-strand). The heavy strand encodes 28 genes, and the light strand encodes 9 genes for a total of 37 genes. Of the 37 genes, 13 are for proteins (polypeptides), 22 are for transfer RNA (tRNA) and two are for the small and large subunits of ribosomal RNA (rRNA). This pattern is also seen among most metazoans, although in some cases one or more of the 37 genes is absent and the mtDNA size range is greater. Even greater variation in mtDNA gene content and size exists among fungi and plants, although there appears to be a core subset of genes that are present in all eukaryotes (except for the few that have no mitochondria at all). Some plant species have enormous mtDNAs (as many as 2,500,000 base pairs per mtDNA molecule) but, surprisingly, even those huge mtDNAs contain the same number and kinds of genes as related plants with much smaller mtDNAs. 
+
+The genome of the mitochondrion of the cucumber (Cucumis sativus) consists of three circular chromosomes (lengths 1556, 84 and 45 kilobases), which are entirely or largely autonomous with regard to their replication. Alverson AJ, Rice DW, Dickinson S, Barry K, Palmer JD (2011) Origins and Recombination of the Bacterial-Sized Multichromosomal Mitochondrial Genome of Cucumber. Plant Cell 
+
+==Replication==
+Mitochondrial DNA is replicated by the DNA polymerase gamma complex which is composed of a 140 kDa catalytic DNA polymerase encoded by the POLG gene and a 55 kDa accessory subunit encoded by the POLG2 gene. The replisome machinery is formed by DNA polymerase, TWINKLE and mitochondrial SSB proteins. TWINKLE is a helicase, which unwinds short stretches of dsDNA in the 5′ to 3′ direction. 
+
+During embryogenesis, replication of mtDNA is strictly down-regulated from the fertilized oocyte through the preimplantation embryo. At the blastocyst stage, the onset of mtDNA replication is specific to the cells of the trophectoderm. In contrast, the cells of the inner cell mass restrict mtDNA replication until they receive the signals to differentiate to specific cell types. 
+
+== Mutations ==
+The involvement of mitochondrial DNA in several human diseases.
+
+===Susceptibility===
+mtDNA is particularly susceptible to reactive oxygen species generated by the respiratory chain due to its proximity. Though mtDNA is packaged by proteins and harbors significant DNA repair capacity, these protective functions are less robust than those operating on nuclear DNA and are therefore thought to contribute to enhanced susceptibility of mtDNA to oxidative damage. The outcome of mutation in mtDNA may be alteration in the coding instructions for some proteins, C.Michael Hogan. 2010. Mutation. ed. E.Monosson and C.J.Cleveland. Encyclopedia of Earth. National Council for Science and the Environment. Washington DC which may have an effect on organism metabolism and/or fitness.
+
+=== Genetic illness ===
+
+Mutations of mitochondrial DNA can lead to a number of illnesses including exercise intolerance and Kearns-Sayre syndrome (KSS), which causes a person to lose full function of heart, eye, and muscle movements. Some evidence suggests that they might be major contributors to the aging process and age-associated pathologies. 
+
+=== Use in disease diagnosis ===
+
+Recently a mutation in mtDNA has been used to help diagnose prostate cancer in patients with negative prostate biopsy. 
+
+===Relationship with aging===
+Though the idea is controversial, some evidence suggests a link between aging and mitochondrial genome dysfunction. In essence, mutations in mtDNA upset a careful balance of reactive oxygen species (ROS) production and enzymatic ROS scavenging (by enzymes like superoxide dismutase, catalase, glutathione peroxidase and others). There is thought to be a positive feedback loop at work; as mitochondrial DNA accumulates genetic damage caused by free radicals, the mitochondria lose function and leak free radicals into the cytosol. A decrease in mitochondrial function reduces overall metabolic efficiency. Supporting such a link between longevity and mitochondrial DNA, some studies have found correlations between biochemical properties of the mitochondrial DNA and the longevity of species. Extensive research is being conducted to further investigate this link and methods to combat aging. Presently, gene therapy and nutraceutical supplementation are popular areas of ongoing research. Gene therapy for the treatment of mitochondrial DNA disorders. Robert W Taylor. Expert Opinion on Biological Therapy, February 2005, Vol. 5, No. 2 : Pages 183-194 
+
+== Use in identification ==
+
+Unlike nuclear DNA, which is inherited from both parents and in which genes are rearranged in the process of recombination, there is usually no change in mtDNA from parent to offspring. Although mtDNA also recombines, it does so with copies of itself within the same mitochondrion. Because of this and because the mutation rate of animal mtDNA is higher than that of nuclear DNA, mtDNA is a powerful tool for tracking ancestry through females (matrilineage) and has been used in this role to track the ancestry of many species back hundreds of generations.
+
+The low effective population size and rapid mutation rate (in animals) makes mtDNA useful for assessing genetic relationships of individuals or groups within a species and also for identifying and quantifying the phylogeny (evolutionary relationships; see phylogenetics) among different species, provided they are not too distantly related. To do this, biologists determine and then compare the mtDNA sequences from different individuals or species. Data from the comparisons is used to construct a network of relationships among the sequences, which provides an estimate of the relationships among the individuals or species from which the mtDNAs were taken. This approach has limits that are imposed by the rate of mtDNA sequence change. In animals, the high mutation rate makes mtDNA most useful for comparisons of individuals within species and for comparisons of species that are closely or moderately-closely related, among which the number of sequence differences can be easily counted. As the species become more distantly related, the number of sequence differences becomes very large; changes begin to accumulate on changes until an accurate count becomes impossible.
+
+Mitochondrial DNA was admitted into evidence for the first time ever in 1996 during State of Tennessee v. Paul Ware. http://www.promega.ca/~/media/files/resources/profiles%20in%20dna/103/mitochondrial%20dna%20state%20of%20tennessee%20v%20paul%20ware.pdf?la=en 
+
+Mitochondrial DNA was first admitted into evidence in California in the successful prosecution of David Westerfield for the 2002 murder of 7-year-old Danielle van Dam in San Diego: it was used for both human and dog identification. "Judge allows DNA in Samantha Runnion case," Associated Press, 18 February 2005. Retrieved 4 April 2007. Stevenson, C. "Rush to Judgement", CreateSpace, 22 June 2011, pages 281-282 and 287-288, also Appendices 1 and 2. In fact, this was the first trial in the U.S. to admit canine DNA. “Canine DNA Admitted In California Murder Case," Pit Bulletin Legal News, 5 December 2013. Retrieved 21 January, 2014. 
+
+==History==
+
+Mitochondrial DNA was discovered in the 1960s by Margit M. K. Nass and Sylvan Nass by electron microscopy as DNase-sensitive thread inside mitochondria, and by Ellen Haslbrunner, Hans Tuppy and Gottfried Schatz by biochemical assays on highly purified mitochondrial fractions. Ellen Haslbrunner, Hans Tuppy and Gottfried Schatz (1964 at the Institut for Biochemistry at the Medical Faculty of the University of Vienna in Vienna, Austria): "Deoxyribonucleic Acid Associated with Yeast Mitochondria" (PDF) Biochem. Biophys. Res. Commun. 15, 127 - 132. 
+
+== See also ==
+
+* Archaeogenetics of the Near East
+* CORR Hypothesis
+* Haplogroup
+* Heteroplasmy
+* Human mitochondrial DNA haplogroup
+* Human mitochondrial genetics
+* Mitochondrial disease
+* Mitochondrial DNA (journal)
+* Mitochondrial Eve
+* Mitochondrial rCRS
+* Paternal mtDNA transmission
+* Single origin theory
+* Supercluster (genetic)
+* TIM/TOM Complex
+
+* Genetic history of Africa
+* Genetic history of Europe
+* Genetic history of the British Isles
+* Genetic history of the Iberian Peninsula
+* Genetic history of indigenous peoples of the Americas
+* Genetic history of Italy
+* Genetic history of North Africa
+* Genetics and archaeogenetics of South Asia
+
+==References==
+
+

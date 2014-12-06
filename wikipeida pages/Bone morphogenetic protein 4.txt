@@ -1,0 +1,135 @@
+[[Bone morphogenetic protein 4]]
+
+Bone morphogenetic protein 4 is a protein that in humans is encoded by BMP4 gene. BMP4 is found on chromosome 14q22-q23
+
+BMP4 is a member of the bone morphogenetic protein family which is part of the transforming growth factor-beta superfamily. The superfamily includes large families of growth and differentiation factors. BMP4 is highly conserved evolutionarily. BMP4 is found in early embryonic development in the ventral marginal zone and in the eye, heart blood and otic vesicle. 
+
+== Discovery ==
+
+Bone morphogenetic proteins were originally identified by an ability of demineralized bone extract to induce endochondral osteogenesis in vivo in an extraskeletal site.
+
+== Function ==
+
+BMP4 is a polypeptide belonging to the TGF-β superfamily of proteins. It, like other bone morphogenetic proteins, is involved in bone and cartilage development, specifically tooth and limb development and fracture repair. This particular family member plays an important role in the onset of endochondral bone formation in humans. It has been shown to be involved in muscle development, bone mineralization, and ureteric bud development.
+
+In human embryonic development, BMP4 is a critical signaling molecule required for the early differentiation of the embryo and establishing of a dorsal-ventral axis. BMP4 is secreted from the dorsal portion of the notochord, and it acts in concert with sonic hedgehog (released from the ventral portion of the notochord) to establish a dorsal-ventral axis for the differentiation of later structures.
+
+BMP4 stimulates differentiation of overlying ectodermal tissue.
+
+Bone morphogenetic proteins are known to stimulate bone formation in adult animals. This is thought that inducing osteoblastic commitment and differentiation of stem cells such as mesenchymal stem cells.BMPs are known to play a large role in embryonic development. In the embryo BMP4 helps establish dorsal-ventral axis formation in xenopus through inducing ventral mesoderm. In mice targets inactivation of BMP4 disrupts mesoderm from forming. As well establishes dorsal-ventral patterning of the developing neural tube with the help of BMP7, and inducing dorsal characters.
+
+BMP4 also limits the extent to which neural differentiation in xenopus embryos occurs by inducing epidermis. They can aid in inducing the lateral characteristics in somites. Somites are required for the development of things such as muscles within limbs. BMP4 helps in the patterning of the developing head though inducing apoptosis of the neural crest cells; this is done in the hindbrain.
+
+BMP4 is important for bone and cartilage metabolism. The BMP4 signaling has been found in formation of early mesoderm and germ cells. Limb bud regulation and development of the lungs, liver, teeth and facial mesenchyme cells are other important functions attributed to BMP4 signaling. Digit formation is influenced by BMP4, along with other BMP signals. The interdigital mesenchyme exhibits BMP4, which prevents apoptosis of the region. Tooth formation relies on BMP4 expression, which induces Msx 1 and 2. These transcription factors turn the forming tooth to become and incisor. 
+
+BMP4 secretion helps cause differentiation of the ureteric bud into the ureter. 
+
+BMP4 antagonizes organizer tissue and is expressed in early development in ectoderm and mesoderm tissue. Upon gastrulation, the transcription of BMP4 is limited to the ventrolateral marginal zone due to inhibition from the doralizing side of the developing embryo. BMP4 aids in ventralizing mesoderm, which guides the dorsal-ventral axis formation. In Xenopus BMP4 has been found to aid in formation of blood and blood islands. 
+
+BMP4, initially expressed in the epidermis, is found in the roof plate during formation of the neural tube. A gradient of BMP signaling is found in opposition to a Sonic hedgehog, Shh, gradient. This expression of BMP4 patterns the dorsal neurons. 
+
+BMP4, in conjunction with FGF2, promote differentiation of stem cells to mesodermal lineages. After differentiation, BMP4 and FGF2 treated cells generally produces higher amounts of osteogenic and chondorgenic differentiation than untreated stem cells. In addition, BMP4 has been shown to induce the expression of the Msx gene family, which is believed to be part of cartilage formation from somitic mesoderm. 
+
+BMP4, a paracrine growth factor, has been found in rat ovaries. BMP4, in conjunction with BMP7, regulate early ovarian follicle development and primordial-to-primary follicle transition. In addition, inhibition of BMP4 with antibodies has been shown to decrease overall ovary size. These results indicate that BMP4 may aid in survival and prevention of apoptosis in oocytes. 
+
+In birds, BMP4 has been shown to influence the beak size of Darwin's finches. Low amounts of BMP4 are correlated with low beak depths and widths. Conversely, high BMP4 expression makes high beak depths and widths. The genetic regulation of BMP4 provides the foundation for natural selection in bird beaks. 
+
+== Protein structure ==
+
+Yielding an active carboxy-terminal peptide of 116 residues, human bmp4 is initially synthesized as a forty percent residue preproprotein which is cleaved post translationally. BMP4 has seven residues which are conserved and glycosylated. The monomers are held with disulphide bridges and 3 pairs of cysteine amino acids. This conformation is called a “cystine knot”. BMP4 can form homodimers or heterodimers with similar BMPS. One example of this is BMP7. This ability to form homodimers or heterodimers gives the ability to have greater osteoinductive activity than just bmp4 alone. Not much is known yet about how BMPS interact with the extracellular matrix. As well little is known about the pathways which then degrade BMP4.
+
+BMP4 signal transduction pathway. The Smad and the MAPK signal transduction pathways are used by BMP4 in order to alter transcription of its target genes.
+
+=== Inhibition ===
+
+Inhibition of the BMP4 signal (by chordin, noggin, or follistatin) causes the ectoderm to differentiate into the neural plate. If these cells also receive signals from FGF, they will differentiate into the spinal cord; in the absence of FGF the cells become brain tissue.
+
+While overexpression of BMP4 expression can lead to ventralization, inhibition with a dominant negative may result in complete dorsalization of the embryo or the formation of two axises. 
+
+It is important to note that mice in which BMP4 was inactivated usually died during gastrulation. It is thought that inactivation of human BMP4 would likely have the same effect. However, mutations which are subtle in humans could also have subtle effects phenotypically.
+
+== Isoforms ==
+
+Alternative splicing in the 5' untranslated region of this gene has been described and three variants are described, all encoding an identical protein. 
+
+== Molecular mechanisms ==
+
+BMP4, as a member of the transforming growth factor-β (TGF-β) family binds to a 2 different types of serine-threonine kinase receptors known as BMPR1 and BMPR2. Signal transduction via these receptors occurs via Smad and map kinase pathways to effect transcription of its target genes. In order for signal transduction to occur, both receptors must be functional. BMP is able to bind to BMPR2 without BMPR1 however, the affinity significantly increases in the presence of both receptors. BMPR1 is transphosphorylated via BMPR2 which induces downstream signalling within the cell, affecting transcription. 
+
+=== Smad signalling pathway ===
+
+TGF-β family receptors most commonly use the Smad signalling pathway to tranduce signals. Type 2 receptors are responsible for activating type 1 receptors where their function involoves the phosphorylation of R-Smads (Smad-1, Smad-5, Smad-8). Upon phosphorylation, formation of an R-SMAD complex in conjunction with common-partner Smad (co-Smad) occurs where it migrates to the nucleus. This signalling pathway is regulated by the small molecule inhibitor known as dorsomorphin which prevents the downstream effects of R-smads. 
+
+=== Map kinase (MAPK) signalling pathways ===
+
+Mitogen activated protein kinases (MAPK) undergo phosphorylation via a signalling cascade where MAPKKK phosphorylates and activates MAPKK and MAPKK phosphorylates and activates MAPK which then induces an intracellular response. Activation of MAPKKK is through the interaction of mainly GTPases or another group of protein kinases. TGF-β receptors induce the MAPK signalling pathways of ERK, JNK and p38. BMP4 is also known to activate the ERK, JNK and p38 MAPK signalling pathways whilst have been found to act independently of Smad signalling pathways, are mostly active in conjunction with Smad. The activation of the ERK and JNK pathways acts to phosphorylate Smad and therefore regulate its activation. In addition to this, MAPK pathways may be able to directly affect Smad-interacting transcription factors via a JNK or p38 substrate that induces convergence of the two signalling pathways. This convergence is noted to consist mainly of cooperative behaviour however, there is evidence to suggest that they may at times counteract each other. Furthermore, the balance that exists between the direct activation of these signalling pathways has a significant effect on TGF-β induced cellular responses. 
+
+Generation-of-Trophoblast-Stem-Cells-from-Rabbit-Embryonic-Stem-Cells-with-BMP4-pone.0017124.s005
+
+== Clinical significance ==
+
+Increase in expression of BMP4 has been associated with a variety of bone diseases, including the heritable disorder Fibrodysplasia Ossificans Progressiva. 
+
+There is strong evidence from sequencing studies of candidate genes involved in clefting that mutations in the bone morphogenetic protein 4 (BMP4) gene may be associated in the pathogenesis of cleft lip and palate. 
+
+=== Eye development ===
+
+Eyes are essential for organisms, especially terrestrial vertebrates, to observe prey and obstacle; this is critical for their survivals. The formation of the eyes starts as optic vesicles and lens derived from the neuroectoderm. Bone morphogenic proteins are known to stimulate the lens formation of the Eyes.
+During early development of eyes, the formation of the optic vesicle is essential in Mice and BMP4 expressed strongly in the optic vesicle and weakly in the surrounding mesenchyme and surface ectoderm. This concentration gradient of BMP4 in optic vesicle is critical for lens induction. Researcher, Dr. Furuta and Dr. Hogan found out that if they did a laser mutation on mice embryos and causing a BMP4 homozygous null mutation, this embryo will not develop the lens. They also did an in situ hybridization of the BMP4 gene showing green color and Sox2 gene in red which they thought it was involved in the lens formation as well. After they did these two in situ hybridizations in the mice embryos, they found that both green and red colors are found in the optic vesicle of the mice embryos. This indicated that BMP4 and Sox2 are expressed in the right place at the right time of the optic vesicle and prove that they have some essential functions for the lens induction. Furthermore, they did a follow-up experiment that by injecting BMP4 into the BMP4 homozygous mutant embryos rescued the lens formation (12). This indicated that BMP4 is definitely required for lens formation. However, researchers also found that some of the mutated mice cannot be rescued. They later found that those mutants lacked of Msx 2 which is activated by BMP4. The mechanism they predicted was that BMP4 will active Msx 2 in the optic vesicle and concentration combination of BMP4 and Msx2 together active Sox2 and the Sox2 is essential for lens differentiation. 
+
+Injection of Noggin into lens fiber cells in mice significantly reduces the BMP4 proteins in the cells. This indicates that Noggin is sufficient to inhibit the production of BMP4. Moreover, another inhibitor protein, Alk6 was found that blocked the BMP4 from activating the Msx2 which stopped lens differentiation . However, there are still a lot of unknown about the mechanism of inhibition on BMP4 and downstream regulation of Sox2. In the future, researchers is aiming to find out a more complete pathway of whole eye development and hoping one day, they can find a way to cure some genetic caused eye diseases.
+
+=== Hair loss ===
+
+Hair loss or known as alopecia is caused from the changing of hair follicle morphology and hair follicle cycling in an abnormal fashion. The cycles of hair follicles are that of growth, or anagen, regression or catagen, and rest or telogen. In mammals reciprocal epithelial and mesynchymal interactions control the development of hair. Genes such as BMP4 and BMP2 are both active within the precursors of the hair shaft. Specifically BMP4 is found in the dermal papilla. BMP4 is part of the signaling network which controls the development of hair. It is needed for the induction of biochemical pathways and signaling for regulating the differentiation of the hair shaft in the anagen hair follicle. This is done through controlling the expression of the transcription factors which regulate hair differentiation. It is still unclear however where BMPs act within the genetic network. The signaling of bmp4 may potentially control expression of terminal differentiation molecules such as keratins. Other regulators have been shown to control hair follicle development as well. HOXC13 and FOXN1 are considered important regulators because loss-of-function experiments show impaired hair shaft differentiation that doesn’t interfere in the hair follicle formation. 
+
+When BMP4 is expressed ectopically, within transgenic mice the hair follicle outer root sheath (ORS) the proliferation of the cell matrix is inhibited. BMP4 also activates hair keratin gene expression noting that BMP4 is important in the differentiation of the hair shaft. Noggin, a known inhibitor of BMP4, is found within the matrix cells of the hair bulb. Other important factors to consider in the development of hair is the expression of Shh (sonic hedgehog), BMP7, BMP2, WNT, and β-catenin as these are required in early stage morphogenesis. 
+
+Other genes which can inhibit or interact with BMP4 are noggin, follistatin, gremlin, which is all expressed in the developing hair follicles. In mice in which noggin is lacking, there are fewer hair follicles than on a normal mouse and the development of the follicle is inhibited. In chick embryos it is shown that ectopically expressed noggin produces enlarged follicles, and BMP4 signaling shows repressed placode fate in nearby cells. Noggin has also been shown in in vivo experiments to induce hair growth in post natal skin. 
+
+BMP4 is an important component of the biological pathways that involved regulating hair shaft differentiation within the anagen hair follicle. The strongest levels of expressed BMP4 are found within the medulla, hair shaft cells, distal hair matrix, and potential precursors of the cuticle. The two main methods which BMP4 inhibit expression of hair is though restricting growth factor expression in the hair matrix and antagonism between growth and differentiation signaling. 
+
+Pathways that regulate hair follicle formation and hair growth are key in developing therapeutic methods for hair loss conditions. Such conditions include the development of new follicles, changing the shape of characteristics of existing follicles, and the altering of hair growth in existing hair follicles. Furthermore BMP4 and the pathway through which it works may provide therapeutic targets for the prevention of hair loss. 
+
+== References ==
+
+== Further reading ==
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+*
+* 
+* 
+* 
+
+==External links==
+*BMPedia - the Bone Morphogenetic Protein Wiki
+* Online Mendelian Inheritance in Man link: 
+* 
+* 
+
+

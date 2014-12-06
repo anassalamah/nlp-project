@@ -1,0 +1,55 @@
+[[Zeno of Elea]]
+
+Zeno of Elea (; ; c. 490 – c. 430 BC) was a pre-Socratic Greek philosopher of southern Italy and a member of the Eleatic School founded by Parmenides. Aristotle called him the inventor of the dialectic. Diogenes Laërtius, 8.57, 9.25 He is best known for his paradoxes, which Bertrand Russell has described as "immeasurably subtle and profound". Russell, p. 347: "In this capricious world nothing is more capricious than posthumous fame. One of the most notable victims of posterity's lack of judgement is the Eleatic Zeno. Having invented four arguments all immeasurably subtle and profound, the grossness of subsequent philosophers pronounced him to be a mere ingenious juggler, and his arguments to be one and all sophisms. After two thousand years of continual refutation, these sophisms were reinstated, and made the foundation of a mathematical renaissance..." 
+
+== Life ==
+Little is known for certain about Zeno's life. Although written nearly a century after Zeno's death, the primary source of biographical information about Zeno is Plato's Parmenides Plato (370 BC). Parmenides, translated by Benjamin Jowett. Internet Classics Archive. and he is also mentioned in Aristotle's Physics. In the dialogue of Parmenides, Plato describes a visit to Athens by Zeno and Parmenides, at a time when Parmenides is "about 65," Zeno is "nearly 40" and Socrates is "a very young man". Plato, Parmenides 127b-e Assuming an age for Socrates of around 20, and taking the date of Socrates' birth as 469 BC gives an approximate date of birth for Zeno of 490 BC. Plato says that Zeno was "tall and fair to look upon" and was "in the days of his youth … reported to have been beloved by Parmenides." 
+
+Other perhaps less reliable details of Zeno's life are given by Diogenes Laërtius in his Lives and Opinions of Eminent Philosophers, Diogenes Laërtius. The Lives and Opinions of Eminent Philosophers, translated by C.D. Yonge. London: Henry G. Bohn, 1853. Scanned and edited for Peithô's Web. where it is reported that he was the son of Teleutagoras, but the adopted son of Parmenides, was "skilled to argue both sides of any question, the universal critic," and that he was arrested and perhaps killed at the hands of a tyrant of Elea.
+
+According to Plutarch, Zeno attempted to kill the tyrant Demylus, and failing to do so, "with his own teeth bit off his tongue, he spit it in the tyrant’s face." Plutarch, Against Colotes 
+
+==Works==
+Although many ancient writers refer to the writings of Zeno, none of his writings survive intact.
+
+Plato says that Zeno's writings were "brought to Athens for the first time on the occasion of" the visit of Zeno and Parmenides. Plato also has Zeno say that this work, "meant to protect the arguments of Parmenides", was written in Zeno's youth, stolen, and published without his consent. Plato has Socrates paraphrase the "first thesis of the first argument" of Zeno's work as follows: "if being is many, it must be both like and unlike, and this is impossible, for neither can the like be unlike, nor the unlike like." 
+
+According to Proclus in his Commentary on Plato's Parmenides, Zeno produced "not less than forty arguments revealing contradictions", Proclus, Commentary on Plato's Parmenides, p. 29 but only nine are now known.
+
+Zeno's arguments are perhaps the first examples of a method of proof called reductio ad absurdum, literally meaning to reduce to the absurd. Parmenides is said to be the first individual to implement this style of argument. This form of argument soon became known as the epicheirema (ἐπιχείρημα). In Book VII of his Topics, Aristotle says that an epicheirema is "a dialectical syllogism." It is a connected piece of reasoning which an opponent has put forward as true. The disputant sets out to break down the dialectical syllogism. This destructive method of argument was maintained by him to such a degree that Seneca the Younger commented a few centuries later, "If I accede to Parmenides there is nothing left but the One; if I accede to Zeno, not even the One is left." Zeno in The Presocratics, Philip Wheelwright ed., The Odyssey Press, 1966, Pages 106-107. 
+
+Zeno is also regarded as the first philosopher who dealt with the earliest attestable accounts of mathematical infinity.
+
+== Zeno's paradoxes ==
+
+Zeno's paradoxes have puzzled, challenged, influenced, inspired, infuriated, and amused philosophers, mathematicians, and physicists for over two millennia. The most famous are the so-called "arguments against motion" described by Aristotle in his Physics. Aristotle (350 BC). Physics, translated by R.P. Hardie and R.K. Gaye. Internet Classics Archive. 
+
+==See also==
+* Incommensurable magnitudes
+* List of speakers in Plato's dialogues
+
+==Notes==
+
+== References ==
+* 
+* 
+* 
+*
+
+== Further reading ==
+* Jonathan Barnes The Presocratic Philosophers, 2nd edition, London: Routledge and Kegan Paul, 1982.
+* G. E. L. Owen. Zeno and the Mathematicians,Proceedings of the Aristotelian Society (1957-8).
+* Mark Sainsbury, Paradoxes. (Cambridge, 1988).
+* Wesley C. Salmon, ed. Zeno's Paradoxes,(Indianapolis, 1970).
+* Gregory Vlastos, Zeno of Elea, in The Encyclopedia of Philosophy (Paul Edwards, ed.), (New York, 1967).
+
+== External links ==
+
+*
+*Zeno of Elea – MacTutor History of Mathematics
+*Plato's Parmenides.
+*Aristotle's Physics.
+*
+*Fragments of Zeno
+
+

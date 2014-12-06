@@ -1,0 +1,82 @@
+[[Symphony]]
+
+A symphony is an extended musical composition in Western classical music, generally scored for orchestra or concert band. A symphony usually contains at least one movement or episode composed according to the sonata principle. Many symphonies are tonal works in four movements with the first in sonata form, which is often described by music theorists as the structure of a "classical" symphony, although many symphonies by the acknowledged classical masters of the form, Joseph Haydn, Wolfgang Amadeus Mozart, and Ludwig van Beethoven do not conform to this model.
+
+==Origins==
+The word symphony is derived from Greek (symphonia), meaning "agreement or concord of sound", "concert of vocal or instrumental music", from (symphōnos), "harmonious" (Oxford English Dictionary). This Greek word was used to describe an instrument mentioned in the Book of Daniel, once believed by scholars to have been a bagpipe—the word was identified, for example, as the root of the name of the Italian zampogna (Stainer and Galpin 1914, 145–46). However, more recent scholarly opinion points out that the word in the Book of Daniel is siphonia (from Greek σίφων siphōn, "tube", "pipe"), and concludes that the bagpipe did not exist at so early a time, though the name of the "zampogna" could still have been derived from this word (Marcuse 1975, 501 & 597). In late Greek and medieval theory, the word was used for consonance, as opposed to διαφωνία (diaphōnia), which was the word for dissonance (Brown 2001). In the Middle Ages and later, the Latin form symphonia was used to describe various instruments, especially those capable of producing more than one sound simultaneously (Brown 2001). Isidore of Seville was the first to use the word symphonia as the name of a two-headed drum, and from c. 1155 to 1377 the French form symphonie was the name of the organistrum or hurdy-gurdy. In late medieval England, symphony was used in both of these senses, whereas by the 16th century it was equated with the dulcimer. In German, Symphonie was a generic term for spinets and virginals from the late 16th century to the 18th century (Marcuse 1975, 501). In the sense of "sounding together," the word begins to appear in the titles of some works by 16th- and 17th-century composers including Giovanni Gabrieli's Sacrae symphoniae, and Symphoniae sacrae, liber secundus, published in 1597 and 1615, respectively; Adriano Banchieri's Eclesiastiche sinfonie, dette canzoni in aria francese, per sonare, et cantare, op. 16, published in 1607; Lodovico Grossi da Viadana's Sinfonie musicali, op. 18, published in 1610; and Heinrich Schütz's Symphoniae sacrae, op. 6, and Symphoniarum sacrarum secunda pars, op. 10, published in 1629 and 1647, respectively. Except for Viadana's collection, which contained purely instrumental and secular music, these were all collections of sacred vocal works, some with instrumental accompaniment.
+
+In the 17th century, for most of the Baroque period, the terms symphony and sinfonia were used for a range of different compositions, including instrumental pieces used in operas, sonatas and concertos&mdash;usually part of a larger work. The opera sinfonia, or Italian overture had, by the 18th century, a standard structure of three contrasting movements: fast, slow, fast and dance-like. It is this form that is often considered as the direct forerunner of the orchestral symphony. The terms "overture", "symphony" and "sinfonia" were widely regarded as interchangeable for much of the 18th century (Larue, Bonds, Walsh, and Wilson 2001).
+
+==18th century==
+
+The "Italian" style of symphony, often used as overture and entr'acte in opera houses, became a standard three-movement form: a fast movement, a slow movement, and another fast movement. Haydn and Mozart, whose early symphonies were in this form, eventually replaced it with a four-movement form through the addition of a second middle movement (Prout 1895, 249). The four-movement symphony became dominant in the latter part of the 18th century and most of the 19th century. This symphonic form was influenced by Germanic practice, and would come to be associated with the classical style of Haydn and Mozart. "Normative macro-symphonic form may be defined as the four-movement form, in general, employed in the later symphonies of Haydn and Mozart, and in those of Beethoven" (Jackson 1999, 26).
+
+The normal four-movement form became (Jackson 1999, 26; Stein 1979, 106):
+# an opening sonata or allegro
+# a slow movement, such as adagio
+# a minuet or scherzo with trio 
+# an allegro, rondo, or sonata
+
+Variations on this layout, like changing the order of the middle movements or adding a slow introduction to the first movement, were common. Haydn, Mozart and their contemporaries restricted their use of the four-movement form to orchestral or multi-instrument chamber music such as quartets, though since Beethoven solo sonatas are as often written in four as in three movements (Prout 1895, 249).
+
+The composition of early symphonies was centred on Milan, Vienna and Mannheim. The Milanese school centred around Giovanni Battista Sammartini and included Antonio Brioschi, Ferdinando Galimberti and Giovanni Battista Lampugnani. Early exponents of the form in Vienna included Georg Christoph Wagenseil, Wenzel Raimund Birck and Georg Matthias Monn, while later significant Viennese composers of symphonies included Johann Baptist Wanhal, Karl Ditters von Dittersdorf and Leopold Hoffmann. The Mannheim school included Johann Stamitz.
+
+The most important symphonists of the latter part of the 18th century are Haydn, who wrote at least 107 symphonies over the course of 36 years (Webster and Feder 2001), and Mozart, with at least 47 symphonies in 24 years (Eisen and Sadie 2001).
+
+==19th century==
+With the rise of established professional orchestras, the symphony assumed a more prominent place in concert life between approximately 1790 and 1820.
+
+Beethoven dramatically expanded the symphony. His Symphony No. 3 (the Eroica), has a scale and emotional range that sets it apart from earlier works. His Symphony No. 5 is arguably the most famous symphony ever written. His Symphony No. 6 is a programmatic work, featuring instrumental imitations of bird calls and a storm, and a convention-defying fifth movement. His Symphony No. 9 takes the unprecedented step for a symphony of including parts for vocal soloists and choir in the last movement, making it a choral symphony (however, Daniel Steibelt had written a piano concerto with a choral finale four years earlier in 1820). Hector Berlioz, who coined the term "choral symphony", built on this concept in his "dramatic symphony" Roméo et Juliette while explaining his intent in the five-paragraph introduction in that work's score (Berlioz 1857, 1). Berlioz's Symphonie fantastique, a work famous for its innovative orchestration (Berlioz 2002, xv) is also a programme work and has both a march and a waltz and five movements instead of the customary four.
+
+By the end of the 19th century, some French organists (e.g., Charles-Marie Widor and his students Charles Tournemire and Louis Vierne) named some of their organ compositions symphony: Their instruments (many built by Aristide Cavaillé-Coll) allowed an orchestral approach (Kaye 2001; Smith 2001; Thomson 2001).
+
+==20th and 21st centuries==
+At the beginning of the 20th century, Gustav Mahler wrote long, large-scale symphonies. His Eighth Symphony, for example, was composed in 1906 and is nicknamed the "Symphony of a Thousand" because of the forces required to perform it. The 20th century also saw further diversification in the style and content of works that composers labeled symphonies (Anon. 2008). Some composers, including Dmitri Shostakovich, Sergei Rachmaninoff, and Carl Nielsen, continued to write in the traditional four-movement form, while other composers took different approaches: Jean Sibelius' Symphony No. 7, his last, is in one movement, whereas Alan Hovhaness's Symphony No. 9, Saint Vartan—originally op. 80, changed to op. 180—composed in 1949–50, is in twenty-four.
+
+There remained, however, certain tendencies: symphonies were still almost always orchestral works. Designating a work a "symphony" still implied a degree of sophistication and seriousness of purpose. The word sinfonietta came into use to designate a work that is shorter, of more modest aims, or "lighter" than a symphony, such as Sergei Prokofiev's Sinfonietta (Kennedy 2006; Temperley 2001).
+
+There has also been diversification in the size of orchestra required. While Mahler's symphonies call for extravagant resources, Arnold Schoenberg's two Chamber Symphonies, op. 9 (1906) and op. 38a (1906-39), and the Chamber Symphonies by Franz Schreker (1916), George Enescu (1954), Edison Denisov (1982, 1994) and John Adams (1992) are scored for chamber groups.
+
+Beginning in the 20th century, more symphonies have been written for concert band than in past centuries. Some examples are Paul Hindemith's Symphony in B-flat for Band, composed in 1951; Morton Gould's Symphony No. 4 "West Point", composed in 1952; Alan Hovhaness's Symphonies No. 4, op. 165, No. 7, "Nanga Parvat", op. 175, No. 14, "Ararat", op. 194, and No. 23, "Ani", op. 249, composed in 1958, 1959, 1961, and 1972 respectively; Vincent Persichetti's Symphony No. 6, Op. 69, composed in 1956; Vittorio Giannini's Symphony No.3, composed in 1959; Alfred Reed's 2nd, 3rd, 4th, and 5th symphonies, composed in 1979, 1988, 1992, and 1994 respectively; and Johan de Meij's Symphony No. 1 "The Lord of the Rings", composed in 1988, and his Symphony No. 2 "The Big Apple", composed in 1993.
+
+In the 21st century, symphonies for concert band have been written by such composers as Frank Ticheli, Johan de Meij, David Maslanka, Steven Reineke, John Corigliano, John Mackey, and others.
+
+==Media==
+
+==See also==
+* Choral symphony
+* Organ symphony
+* Piano symphony
+
+==Sources==
+* Anon. 2008. "Symphony." The Oxford Dictionary of Music, 2nd ed. rev., edited by Michael Kennedy, associate editor Joyce Bourne. Oxford Music Online (Accessed 24 July 2008) (Subscription access)
+* Berlioz, Hector. 1857. Roméo et Juliette: Sinfonie dramatique: avec choeurs, solos de chant et prologue en récitatif choral, op. 17. Partition de piano par Th. Ritter. Winterthur: J. Rieter-Biedermann.
+* Berlioz, Hector. 2002. Berlioz's Orchestration Treatise: A Translation and Commentary, translated by Hugh Macdonald. Cambridge University Press, 2002. ISBN 0-521-23953-2.
+* Brown, Howard Mayer. 2001. "Symphonia". The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell. London: Macmillan Publishers.
+* Eisen, Cliff, and Stanley Sadie. 2001. "Mozart (3): (Johann Chrysostum) Wolfgang Amadeus Mozart". The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell. London: Macmillan.
+* Hansen, Richard K. 2005. The American Wind Band: A Cultural History. Chicago, Ill: GIA Publications. ISBN 1-57999-467-9.
+* Jackson, Timothy L. 1999. Tchaikovsky, Symphony no. 6 (Pathétique). Cambridge Music Handbooks. Cambridge and New York: Cambridge University Press. ISBN 0-521-64111-X (cloth); ISBN 0-521-64676-6 (pbk).
+* Kaye, Nicholas. 2001. "Tournemire, Charles (Arnould)". The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell. London: Macmillan Publishers.
+* Kennedy, Michael. 2006. "Sinfonietta". The Oxford Dictionary of Music, second edition, revised, Joyce Bourne, associate editor. Oxford and New York: Oxford University Press.
+* Larue, Jan, Mark Evan Bonds, Stephen Walsh, and Charles Wilson. 2001. "Symphony". The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell. London: Macmillan Publishers.
+* Marcuse, Sybil. 1975. Musical Instruments: A Comprehensive Dictionary. Revised edition. The Norton Library. New York: W. W. Norton. ISBN 0-393-00758-8.
+* Prout, Ebenezer. 1895. Applied Forms: A Sequel to 'Musical Form, third edition. Augener's Edition, no. 9183. London: Augener. Facsimile reprint, New York: AMS Press, 1971. ISBN 0-404-05138-3
+* Smith, Rollin. 2001. "Vierne, Louis(-Victor-Jules)". The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell. London: Macmillan.
+* Stainer, John, and Francis W Galpin. 1914. "Wind Instruments - Sumponyah; Sampunia; Sumphonia; Symphonia". In The Music of the Bible, with Some Account of the Development of Modern Musical Instruments from Ancient Types, new edition. London: Novello and Co.; New York: H.W. Gray Co.
+* Stein, Leon. 1979. Structure & Style: The Study and Analysis of Musical Forms, expanded edition. Princeton, N.J.: Summy-Birchard Music. ISBN 0-87487-164-6.
+*Temperley, Nicholas. 2001. "Sinfonietta." The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell. London: Macmillan Publishers.
+* Thomson, Andrew. 2001. "Widor, Charles-Marie(-Jean-Albert)", 2. Works. The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell. London: Macmillan.
+* Webster, James, and Georg Feder. 2001. "Haydn, (Franz) Joseph". The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell. London: Macmillan.
+
+==External links==
+
+* 
+* A Chronology of the Symphony 1730-2005 A list of selected major symphonies composed 1800-2005, with composers of 18th century symphonies
+* The Symphony - Interactive Guide
+* A fairly detailed list of symphonists, mostly active after 1800 - Part 1
+* A fairly detailed list of symphonists, mostly active after 1800 - Part 2
+* A fairly detailed list of symphonists, mostly active after 1800 - Part 3
+* A fairly detailed list of symphonists, mostly active after 1800 - Part 4
+
+ 
+

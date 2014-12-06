@@ -1,0 +1,168 @@
+[[Lawrencium]]
+
+Lawrencium is a radioactive synthetic chemical element with the symbol Lr (formerly Lw) and atomic number 103. In the periodic table of the elements, it is a period 7 d-block element and the last element of the actinide series. Chemistry experiments have confirmed that lawrencium behaves as the heavier homologue to lutetium and is chemically similar to other actinides.
+
+Lawrencium was first synthesized by the nuclear-physics team led by Albert Ghiorso on February 14, 1961, at the Lawrence Berkeley National Laboratory of the University of California. The first atoms of lawrencium were produced by bombarding a three-milligram target consisting of three isotopes of the element californium with boron-10 and boron-11 nuclei from the Heavy Ion Linear Accelerator. The team suggested the name lawrencium (after Ernest Lawrence), and the symbol "Lw", but IUPAC changed the symbol to "Lr" in 1963. Silva, p. 1641. It was the final and the heaviest element of the actinide series to be synthesized.
+
+All isotopes of lawrencium are radioactive; its most stable known isotope is lawrencium-266, with a half-life of approximately 11 hours. All its isotopes except for lawrencium-260, -261, -262, and -266 decay with a half-life of less than a minute.
+
+==History==
+
+===Discovery===
+An attempt to synthesize lawrencium was performed in 1958 by the Lawrence Berkeley Laboratory. This attempt involved bombarding 244Cm with 14N. A follow-up on this experiment was not performed, as the target was destroyed. Later, in 1960, the Lawrence Berkeley Laboratory attempted to synthesize the element by bombarding 252Cf with 10B and 11B. The results of this experiment were not conclusive. 
+
+Lawrencium was first synthesized by the nuclear-physics team of Albert Ghiorso, Torbjørn Sikkeland, Almon Larsh, Robert M. Latimer, and their co-workers on February 14, 1961, at the Lawrence Radiation Laboratory (now called the Lawrence Berkeley National Laboratory) at the University of California. The first atoms of lawrencium were produced by bombarding a three-milligram target consisting of three isotopes of the element californium with boron-10 and boron-11 nuclei from the Heavy Ion Linear Accelerator (HILAC). The Berkeley team reported that the isotope 257Lr was detected in this manner, and that it decayed by emitting an 8.6 MeV alpha particle with a half-life of about eight seconds. This identification was later corrected to be 258Lr. 
+
+: + → → + 5 
+
+In 1967, nuclear-physics researchers in Dubna, Russia, reported that they were not able to confirm assignment of an alpha emitter with a half-life of eight seconds to 257Lr. This isotope was later deduced to be 258Lr. Instead, the Dubna team reported an isotope with a half-life of about 45 seconds as 256Lr. 
+
+: + → → + 5 
+
+The Russian Joint Institute for Nuclear Research created lawrencium-256 in 1965 by bombarding 243Am with 18O to form lawrencium-256. The scientists at the Joint Institute for Nuclear Research also discovered that the Lawrence Berkeley Laboratory's claims for the isotope they synthesized, its energy, and its half-life were mistaken. The Russians proposed the name "rutherfordium" for the new element in 1967. They also changed their data to fit the claims made by the Joint Institute for Nuclear Research. 
+
+Further experiments have demonstrated an actinide chemistry for the new element, so by 1970 it was known that lawrencium is the last actinide. In 1971, the nuclear physics team at the University of California at Berkeley successfully performed a whole series of experiments aimed at measuring the nuclear decay properties of the lawrencium isotopes with mass numbers from 255 through 260. 
+
+In 1971, the IUPAC granted the discovery of lawrencium to the Lawrence Berkeley Laboratory, even though they did not have ideal data for the element's existence. However, in 1992, the IUPAC Trans-fermium Working Group (TWG) officially recognized the nuclear physics teams at Dubna and Berkeley as the co-discoverers of lawrencium. Because the name "lawrencium" had been in use for a long time by this point, it was made official by the Transfermium Working Group. 
+
+===Naming===
+The origin of the name, ratified by the American Chemical Society, is in reference to the nuclear-physicist Ernest O. Lawrence, of the University of California, who invented the cyclotron particle accelerator. The symbol Lw was used originally, but the element was assigned the Lr symbol. In August 1997, the International Union of Pure and Applied Chemistry (IUPAC) ratified the name lawrencium and the symbol Lr during a meeting in Geneva. 
+
+==Characteristics==
+
+===Electronic structure===
+Lawrencium is element 103 in the periodic table. It is the first member of the 6d-block; in accordance with the Madelung rule, its electronic configuration should be 7s25f146d1. However, results from quantum mechanical research have suggested that this configuration is incorrect, and is in fact 7s25f147p1. A direct measurement of this is not possible. Though early calculations gave conflicting results, more recent studies and calculations confirm the suggestion. 
+
+A strict correlation between the periodic table blocks and the orbital-shell configurations for neutral atoms would classify lawrencium as a transition metal because it could be classed as a d-block element. However, lawrencium is classified as an actinide element according to the IUPAC recommendations. Provisional Recommendations for the Nomenclature of Inorganic Chemistry (2004). IUPAC.org (Broken link: please see this archived version instead). 
+
+Lawrencium is expected to be a solid under normal conditions and assume a hexagonal close-packed crystal structure (c/a = 1.58), similar to its lighter congener lutetium, though this is not yet known experimentally. 
+
+===Experimental chemical properties===
+
++Summary of all lawrencium compounds known Formula Names(s) 
+ LrCl3 lawrencium trichloride ; lawrencium(III) chloride 
+
+====Gaseous phase====
+The first gaseous-phase studies of lawrencium were reported in 1969 by a nuclear physics team at the Flerov Laboratory of Nuclear Reactions (FLNR) in the Soviet Union. They used the nuclear reaction 243Am+18O to produce lawrencium nuclei, which they then exposed to a stream of chlorine gas, and a volatile chloride product was formed. This product was deduced to be 256LrCl3, and this confirmed that lawrencium is a typical actinide element. 
+
+====Aqueous phase====
+The first aqueous-phase studies of lawrencium were reported in 1970 by a nuclear physics team at the Lawrence Berkeley National Laboratory in California. This team used the nuclear reaction 249Cf+11B to produce lawrencium nuclei. They were able to show that lawrencium forms a trivalent ion, similar to those of the other actinide elements, but in contrast with that of nobelium.
+Further experiments in 1988 confirmed the formation of a trivalent lawrencium(III) ion using anion-exchange chromatography using α-hydroxyisobutyrate (α-HIB) complex. Comparison of the elution time with other actinides allowed a determination of 88.6 ± 0.3 picometers for the ionic radius for Lr3+. Silva, p. 1645. 
+Attempts to reduce lawrencium in the lawrencium(III) ionization state to lawrencium(I) using the potent reducing agent hydroxylamine hydrochloride were unsuccessful. Silva, p. 1646. 
+
+==Nucleosynthesis==
+
+===Fusion===
+;205Tl(50Ti,xn)255-xLr (x=2?)
+This reaction was studied in a series of experiments in 1976 by Yuri Oganessian and his team at the FLNR. Evidence was provided for the formation of 253Lr in the 2n exit channel.
+
+;203Tl(50Ti,xn)253-xLr
+This reaction was studied in a series of experiments in 1976 by Yuri Oganessian and his team at the FLNR.
+
+;208Pb(48Ti,pxn)255-xLr (x=1?)
+This reaction was reported in 1984 by Yuri Oganessian at the FLNR. The team was able to detect decays of 246Cf, a descendant of 254Lr.
+
+;208Pb(45Sc,xn)253-xLr
+This reaction was studied in a series of experiments in 1976 by Yuri Oganessian and his team at the FLNR. Results are not readily available.
+
+;209Bi(48Ca,xn)257-xLr (x=2)
+This reaction has been used to study the spectroscopic properties of 255Lr. The team at GANIL used the reaction in 2003 and the team at the FLNR used it between 2004 and 2006 to provide further information for the decay scheme of 255Lr. The work provided evidence for an isomeric level in 255Lr.
+
+===Hot fusion===
+;243Am(18O,xn)261-xLr (x=5)
+This reaction was first studied in 1965 by the team at the FLNR. They were able to detect activity with a characteristic decay of 45 seconds, which was assigned to 256Lr or 257Lr. Later work suggests an assignment to 256Lr. Further studies in 1968 produced an 8.35–8.60 MeV alpha activity with a half-life of 35 seconds. This activity was also initially assigned to 256Lr or 257Lr and later to solely 256Lr.
+
+;243Am(16O,xn)259-xLr (x=4)
+This reaction was studied in 1970 by the team at the FLNR. They were able to detect an 8.37 MeV alpha activity with a half-life of 22s. This was assigned to 255Lr. 
+
+;248Cm(15N,xn)263-xLr (x=3,4,5)
+This reaction was studied in 1971 by the team at the LBNL in their large study of lawrencium isotopes. They were able to assign alpha activities to 260Lr,259Lr and 258Lr from the 3-5n exit channels.
+
+;248Cm(18O,pxn)265-xLr (x=3,4)
+This reaction was studied in 1988 at the LBNL in order to assess the possibility of producing 262Lr and 261Lr without using the exotic 254Es target. It was also used to attempt to measure an electron capture (EC) branch in 261mRf from the 5n exit channel.
+After extraction of the Lr(III) component, they were able to measure the spontaneous fission of 261Lr with an improved half-life of 44 minutes. The production cross-section was 700 pb. On this basis, a 14% electron capture branch was calculated if this isotope was produced via the 5n channel rather than the p4n channel.
+A lower bombarding energy (93 MeV c.f. 97 MeV) was then used to measure the production of 262Lr in the p3n channel. The isotope was successfully detected and a yield of 240 pb was measured. The yield was lower than expected compared to the p4n channel. However, the results were judged to indicate that the 261Lr was most likely produced by a p3n channel and an upper limit of 14% for the electron capture branch of 261mRf was therefore suggested.
+
+;246Cm(14N,xn)260-xLr (x=3?)
+This reaction was studied briefly in 1958 at the LBNL using an enriched 244Cm target (5% 246Cm). They observed a ~9 MeV alpha activity with a half-life of ~0.25 seconds. Later results suggest a tentative assignment to 257Lr from the 3n channel
+
+;244Cm(14N,xn)258-xLr
+This reaction was studied briefly in 1958 at the LBNL using an enriched 244Cm target (5% 246Cm). They observed a ~9 MeV alpha activity with a half-life of ~0.25s. Later results suggest a tentative assignment to 257Lr from the 3n channel with the 246Cm component. No activities assigned to reaction with the 244Cm component have been reported.
+
+;249Bk(18O,αxn)263-xLr (x=3)
+This reaction was studied in 1971 by the team at the LBNL in their large study of lawrencium isotopes. They were able to detect an activity assigned to 260Lr. The reaction was repeated in 1988 to study the aqueous chemistry of lawrencium. A total of 23 alpha decays were measured for 260Lr, with a mean energy of 8.03 MeV and an improved half-life of 2.7 minutes. The calculated cross-section was 8.7 nb.
+
+;252Cf(11B,xn)263-xLr (x=5,7??)
+This reaction was first studied in 1961 at the University of California by Albert Ghiorso by using a californium target (52% 252Cf). They observed three alpha activities of 8.6, 8.4 and 8.2 MeV, with half-lives of about 8 and 15 seconds, respectively. The 8.6 MeV activity was tentatively assigned to 257Lr. Later results suggest a reassignment to 258Lr, resulting from the 5n exit channel. The 8.4 MeV activity was also assigned to 257Lr. Later results suggest a reassignment to 256Lr. This is most likely from the 33% 250Cf component in the target rather than from the 7n channel. The 8.2 MeV was subsequently associated with nobelium.
+
+;252Cf(10B,xn)262-xLr (x=4,6)
+This reaction was first studied in 1961 at the University of California by Albert Ghiorso by using a californium target (52% 252Cf). They observed three alpha activities of 8.6, 8.4 and 8.2 MeV, with half-lives of about 8 and 15 seconds, respectively. The 8.6 MeV activity was tentatively assigned to 257Lr. Later results suggest a reassignment to 258Lr. The 8.4 MeV activity was also assigned to 257Lr. Later results suggest a reassignment to 256Lr. The 8.2 MeV was subsequently associated with nobelium.
+
+;250Cf(15N,αxn)260-xLr (x=3)
+This reaction was studied in 1971 at the LBNL. They were able to identify a 0.7 s alpha activity with two alpha lines at 8.87 and 8.82 MeV. This was assigned to 257Lr. 
+
+;249Cf(11B,xn)260-xLr (x=4)
+This reaction was first studied in 1970 at the LBNL in an attempt to study the aqueous chemistry of lawrencium. They were able to measure a Lr3+ activity. The reaction was repeated in 1976 at Oak Ridge and the 26s lifetime of 256Lr was confirmed by measurement of coincident X-rays.
+
+;249Cf(12C,pxn)260-xLr (x=2)
+This reaction was studied in 1971 by the team at the LBNL. They were able to detect an activity assigned to 258Lr from the p2n channel. 
+
+;249Cf(15N,αxn)260-xLr (x=2,3)
+This reaction was studied in 1971 by the team at the LBNL. They were able to detect an activities assigned to 258Lr and 257Lr from the α2n and α3n and channels. The reaction was repeated in 1976 at Oak Ridge and the synthesis of 258Lr was confirmed.
+
+;254Es + 22Ne – transfer
+This reaction was studied in 1987 at the LLNL. They were able to detect new spontaneous fission (SF) activities assigned to 261Lr and 262Lr, resulting from transfer from the 22Ne nuclei to the 254Es target. In addition, a 5 ms SF activity was detected in delayed coincidence with nobelium K-shell X-rays and was assigned to 262No, resulting from the electron capture of 262Lr.
+
+===Decay products===
+Isotopes of lawrencium have also been identified in the decay of heavier elements. Observations to date are summarised in the table below:
+
++List of lawrencium isotopes produced as other nuclei decay products Parent nuclide Observed lawrencium isotope 
+ 294Uus, 290Uup, 286Uut, 282Rg, 278Mt, 274Bh, 270Db 266Lr 
+ 267Bh, 263Db 259Lr 
+ 278Uut, 274Rg, 270Mt, 266Bh, 262Db 258Lr 
+ 261Db 257Lr 
+ 272Rg, 268Mt, 264Bh, 260Db 256Lr 
+ 259Db 255Lr 
+ 266Mt, 262Bh, 258Db 254Lr 
+ 261Bh, 257Dbg,m 253Lrg,m 
+ 260Bh, 256Db 252Lr 
+
+On 2 May 2014, scientists from the GSI Helmholtz Center for Heavy Ion Research in Darmstadt, Germany claimed to have confirmed the element's discovery. This also led to the discovery of the new isotope lawrencium-266, obtained from the alpha decay of dubnium-270 (which underwent spontaneous fission in the Dubna experiments). This isotope has a half-life of 11 hours and is one of the longest lived superheavy isotopes known to date, suggesting that it is perhaps on the shore of the island of stability. 
+
+==Isotopes==
+
++Summary of all lawrencium isotopes known Isotope Year discovered discovery reaction 
+ 252Lr 2001 209Bi(50Ti,3n) 
+ 253Lrg 1985 209Bi(50Ti,2n) 
+ 253Lrm 2001 209Bi(50Ti,2n) 
+ 254Lr 1985 209Bi(50Ti,n) 
+ 255Lr 1970 243Am(16O,4n) 
+ 256Lr 1961? 1965? 1968? 1971 252Cf(10B,6n) 
+ 257Lr 1958? 1971 249Cf(15N,α3n) 
+ 258Lr 1961? 1971 249Cf(15N,α2n) 
+ 259Lr 1971 248Cm(15N,4n) 
+ 260Lr 1971 248Cm(15N,3n) 
+ 261Lr 1987 254Es + 22Ne 
+ 262Lr 1987 254Es + 22Ne 
+ 266Lr 2014 249Bk(48Ca,7α3n) 
+
+Twelve isotopes of lawrencium plus one isomer have been synthesized with 266Lr being the longest-lived and the heaviest, with a half-life of 11 hours. 252Lr is the lightest isotope of lawrencium to be produced to date. Silva, p. 1642. 
+
+===Nuclear isomerism===
+A study of the decay properties of 257Db (see dubnium) in 2001 by Hessberger et al. at the GSI provided some data for the decay of 253Lr. Analysis of the data indicated the population of two isomeric levels in 253Lr from the decay of the corresponding isomers in 257Db. The ground state was assigned spin and parity of 7/2−, decaying by emission of an 8794 keV alpha particle with a half-life of 0.57s. The isomeric level was assigned spin and parity of 1/2−, decaying by emission of an 8722 keV alpha particle with a half-life of 1.49 s. 
+
+Recent work on the spectroscopy of 255Lr formed in the reaction 209Bi(48Ca,2n)255Lr has provided evidence for an isomeric level.
+
+==See also==
+
+==References==
+
+==Bibliography==
+*
+
+==External links==
+*Chart of Nuclides. nndc.bnl.gov
+* Los Alamos National Laboratory's Chemistry Division: Periodic Table – Lawrencium
+* Lawrencium at The Periodic Table of Videos (University of Nottingham)
+
+

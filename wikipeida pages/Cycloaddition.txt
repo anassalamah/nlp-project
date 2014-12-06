@@ -1,0 +1,53 @@
+[[Cycloaddition]]
+
+A cycloaddition is a pericyclic chemical reaction, in which "two or more unsaturated molecules (or parts of the same molecule) combine with the formation of a cyclic adduct in which there is a net reduction of the bond multiplicity." The resulting reaction is a cyclization reaction. Many but not all cycloadditions are concerted. As a class of addition reaction, cycloadditions permit carbon–carbon bond formation without the use a nucleophile or electrophile.
+
+Cycloadditions can be described using two systems of notation. An older, but still common, notation is based on the size of linear arrangements of atoms in the reactants. It uses parentheses: (i + j + …) where the variables are the numbers of linear atoms in each reactant. The product is a cycle of size (i + j + …). In this system, the standard Diels-Alder reaction a (4 + 2)cycloaddition, the 1,3-dipolar cycloaddition is a (3 + 2)cycloaddition and cyclopropanation of a carbene with an alkene a (2 + 1)cycloaddition. 
+
+A more recent, IUPAC-preferred notation uses square brackets to indicate the number of electrons, rather than carbon atoms, involved in the formation of the product. In the + j + … notation, the standard Diels-Alder reaction is a + 2cycloaddition, the 1,3-dipolar cycloaddition is + 2. 
+
+==Thermal cycloadditions and their stereochemistry==
+Thermal cycloadditions are those cycloadditions where the reactants are in the ground electronic state. They usually have (4n + 2) π electrons participating in the starting material, for some integer n. These reactions occur, for reasons of orbital symmetry, in a suprafacial-suprafacial or antarafacial-antarafacial manner (rare). There are a few examples of thermal cycloadditions which have 4n π electrons (for example the + 2 cycloaddition); these proceed in a suprafacial-antarafacial sense, such as the dimerisation of ketene, in which the orthogonal set of p orbitals allows the reaction to proceed via a crossed transition state.
+
+==Photochemical cycloadditions and their stereochemistry==
+Cycloadditions in which 4n π electrons participate can also occur via photochemical activation. Here, one component has an electron promoted from the HOMO (π bonding) to the LUMO (π* antibonding). Orbital symmetry is then such that the reaction can proceed in a suprafacial-suprafacial manner. An example is the DeMayo reaction. Another example is shown below, the photochemical dimerization of cinnamic acid. The two trans alkenes react head-to-tail, and the isolated isomers are called truxillic acids.
+
+:Cinnamic Acid CycloAddition
+
+Cycloaddition of trans-1,2-bis(4-pyridyl)ethene
+Supramolecular effects can influence these cycloadditions. The cycloaddition of trans-1,2-bis(4-pyridyl)ethene is directed by resorcinol in the solid-state in 100% yield. 
+
+Some cycloadditions instead of π bonds operate through strained cyclopropane rings; as these have significant π character. For example, an analog for the Diels-Alder reaction is the quadricyclane-DMAD reaction: 
+
+center
+
+In the (i+j+...) cycloaddition notation i and j refer to the number of atoms involved in the cycloaddition. In this notation a Diels-Alder reaction is a (4+2)cycloaddition and a 1,3-dipolar addition such as the first step in ozonolysis is a (3+2)cycloaddition. The IUPAC preferred notation however, with takes electrons into account and not atoms. In this notation the DA reaction and the dipolar reaction both become a cycloaddition. The reaction between norbornadiene and an activated alkyne is a cycloaddition.
+
+==Types of cycloaddition==
+===Diels-Alder reactions===
+The Diels-Alder reaction is a cycloaddition reaction.
+:Diels-Alder reaction
+
+===Huisgen cycloadditions===
+The Huisgen cycloaddition reaction is a cycloaddition.
+:1,3-cycloaddition
+
+===Nitrone-olefin cycloaddition===
+The Nitrone-olefin cycloaddition is a cycloaddition.
+:Nitrone olefin cycloaddition
+
+==Formal cycloadditions==
+Cycloadditions often have metal-catalyzed and stepwise radical analogs, however these are not strictly speaking pericyclic reactions. When in a cycloaddition charged or radical intermediates are involved or when the cycloaddition result is obtained in a series of reaction steps they are sometimes called formal cycloadditions to make the distinction with true pericyclic cycloadditions. 
+
+One example of a formal cycloaddition between a cyclic enone and an enamine catalyzed by n-butyllithium is a Stork enamine / 1,2-addition cascade reaction: 
+
+Intermolecular Formal Cycloaddition Reaction
+
+==See also==
+*cycloaddition|cycloaddition]
+*cycloaddition|cycloaddition]
+
+==References==
+
+ 
+

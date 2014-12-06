@@ -1,0 +1,113 @@
+[[Avogadro constant]]
+
+Amedeo Avogadro
+In chemistry and physics, the Avogadro constant (symbols: L, NA) is defined as the number of constituent particles (usually atoms or molecules) per mole of a given substance, where the mole (abbreviation: mol) is one of the seven base units in the International System of Units (SI). The Avogadro constant has dimensions of reciprocal mol and its value is equal to . 
+ 
+ 
+The constant happens to be quite close to an integer power of two, specifically only about 0.37% less than 279 mol−1, making the latter a useful approximation in nuclear physics when considering chain reaction growth rates.
+
+Previous definitions of chemical quantity involved Avogadro's number, a historical term closely related to the Avogadro constant but defined differently: Avogadro's number was initially defined by Jean Baptiste Perrin as the number of atoms in one gram-molecule of hydrogen. It was later redefined as the number of atoms in 12 grams of the isotope carbon-12 and still later generalized to relate amounts of a substance to their molecular weight. For instance, to a first approximation, 1 gram of hydrogen, which has a mass number of 1 (atomic number 1), has hydrogen atoms. Similarly, 12 grams of carbon 12, with the mass number of 12 (atomic number 6), has the same number of carbon atoms, . Avogadro's number is a dimensionless quantity and has the numerical value of the Avogadro constant given in base units.
+
+The Avogadro constant is fundamental to understanding both the makeup of molecules and their interactions and combinations. For instance, since one atom of oxygen will combine with two atoms of hydrogen to create one molecule of water (H2O), one can similarly see that one mol of oxygen ( of O atoms) will combine with two mol of hydrogen (2 × of H atoms) to make one mol of H2O.
+
+Revisions in the base set of SI units necessitated redefinitions of the concepts of chemical quantity and so Avogadro's number, and its definition, was deprecated in favor of the Avogadro constant and its definition. Changes in the SI units are proposed that will precisely fix the value of the constant to exactly when it is expressed in the unit mol−1 (see New SI definitions, in which an "X" at the end of a number means one or more final digits yet to be agreed upon).
+
+ Value of NA Avogadro constant. 2010 CODATA recommended values. NIST in various units 
+ mol−1 
+ (lb-mol)−1 
+ (oz-mol)−1 
+ 
+
+==History==
+The Avogadro constant is named after the early 19th century Italian scientist Amedeo Avogadro, who in 1811 first proposed that the volume of a gas (at a given pressure and temperature) is proportional to the number of atoms or molecules regardless of the nature of the gas. English translation. The French physicist Jean Perrin in 1909 proposed naming the constant in honor of Avogadro. Extract in English, translation by Frederick Soddy. Perrin won the 1926 Nobel Prize in Physics, largely for his work in determining the Avogadro constant by several different methods. Oseen, C.W. (December 10, 1926). Presentation Speech for the 1926 Nobel Prize in Physics. 
+
+The value of the Avogadro constant was first indicated by Johann Josef Loschmidt who in 1865 estimated the average diameter of the molecules in air by a method that is equivalent to calculating the number of particles in a given volume of gas. English translation. This latter value, the number density of particles in an ideal gas, is now called the Loschmidt constant in his honor, and is related to the Avogadro constant, NA, by
+:
+where p0 is the pressure, R is the gas constant and T0 is the absolute temperature. The connection with Loschmidt is the root of the symbol L sometimes used for the Avogadro constant, and German language literature may refer to both constants by the same name, distinguished only by the units of measurement. 
+
+Accurate determinations of Avogadro's number require the measurement of a single quantity on both the atomic and macroscopic scales using the same unit of measurement. This became possible for the first time when American physicist Robert Millikan measured the charge on an electron in 1910. The electric charge per mole of electrons is a constant called the Faraday constant and had been known since 1834 when Michael Faraday published his works on electrolysis. By dividing the charge on a mole of electrons by the charge on a single electron the value of Avogadro's number is obtained. NIST Introduction to physical constants Since 1910, newer calculations have more accurately determined the values for the Faraday constant and the elementary charge. (See below)
+
+Perrin originally proposed the name Avogadro's number (N) to refer to the number of molecules in one gram-molecule of oxygen (exactly of oxygen, according to the definitions of the period), and this term is still widely used, especially in introductory works. The change in name to Avogadro constant (NA) came with the introduction of the mole as a base unit in the International System of Units (SI) in 1971, Resolution 3, 14th General Conference on Weights and Measures (CGPM), 1971. which recognized amount of substance as an independent dimension of measurement. With this recognition, the Avogadro constant was no longer a pure number, but had a unit of measurement, the reciprocal mole (mol−1). 
+
+While it is rare to use units of amount of substance other than the mole, the Avogadro constant can also be expressed in units such as the pound mole (lb-mol) and the ounce mole (oz-mol).
+:N = = 
+
+==General role in science==
+Avogadro's constant is a scaling factor between macroscopic and microscopic (atomic scale) observations of nature. As such, it provides the relation between other physical constants and properties. For example, it establishes a relationship between the gas constant R and the Boltzmann constant kB,
+
+:
+
+and the Faraday constant F and the elementary charge e,
+
+:
+
+The Avogadro constant also enters into the definition of the unified atomic mass unit, u,
+
+:
+where Mu is the molar mass constant.
+
+==Measurement==
+
+===Coulometry===
+The earliest accurate method to measure the value of the Avogadro constant was based on coulometry. The principle is to measure the Faraday constant, F, which is the electric charge carried by one mole of electrons, and to divide by the elementary charge, e, to obtain the Avogadro constant.
+:
+The classic experiment is that of Bower and Davis at NIST, This account is based on the review in and relies on dissolving silver metal away from the anode of an electrolysis cell, while passing a constant electric current I for a known time t. If m is the mass of silver lost from the anode and A the atomic weight of silver, then the Faraday constant is given by:
+:
+The NIST scientists devised a method to compensate for silver lost from the anode by mechanical causes, and conducted an isotope analysis of the silver used to determine its atomic weight. Their value for the conventional Faraday constant is F = , which corresponds to a value for the Avogadro constant of : both values have a relative standard uncertainty of .
+
+===Electron mass measurement===
+The Committee on Data for Science and Technology (CODATA) publishes values for physical constants for international use. It determines the Avogadro constant from the ratio of the molar mass of the electron A(e)M to the rest mass of the electron m:
+:
+The relative atomic mass of the electron, A(e), is a directly-measured quantity, and the molar mass constant, M, is a defined constant in the SI. The electron rest mass, however, is calculated from other measured constants: 
+:
+As may be observed in the table of 2006 CODATA values below, the main limiting factor in the precision of the Avogadro constant is the uncertainty in the value of the Planck constant, as all the other constants that contribute to the calculation are known more precisely.
+
+ Constant Symbol 2006 CODATA value Relative standard uncertainty Correlation coefficientwith N 
+ Electron relative atomic mass A(e) 5.485 799 0943(23) 4.2 0.0082 
+ Molar mass constant M 0.001 kg/mol = 1 g/mol defined — 
+ Rydberg constant R 10 973 731.568 527(73) m−1 6.6 0.0000 
+ Planck constant h 6.626 068 96(33) J s 5.0 −0.9996 
+ Speed of light c 299 792 458 m/s defined — 
+ Fine structure constant α 7.297 352 5376(50) 6.8 0.0269 
+ Avogadro constant N 6.022 141 79(30) mol−1 5.0 1 
+ 
+
+===X-ray crystal density (XRCD) methods===
+Ball-and-stick model of the unit cell of silicon. X-ray diffraction measures the cell parameter, a, which is used to calculate a value for Avogadro's constant.
+A modern method to determine the Avogadro constant is the use of X-ray crystallography. Silicon single crystals may be produced today in commercial facilities with extremely high purity and with few lattice defects. This method defines the Avogadro constant as the ratio of the molar volume, V, to the atomic volume Vatom:
+:, where and n is the number of atoms per unit cell of volume Vcell.
+
+The unit cell of silicon has a cubic packing arrangement of 8 atoms, and the unit cell volume may be measured by determining a single unit cell parameter, the length of one of the sides of the cube, a. 
+
+In practice, measurements are carried out on a distance known as d(Si), which is the distance between the planes denoted by the Miller indices {220}, and is equal to a/√8. The 2006 CODATA value for d(Si) is , a relative uncertainty of , corresponding to a unit cell volume of .
+
+The isotope proportional composition of the sample used must be measured and taken into account. Silicon occurs in three stable isotopes (28Si, 29Si, 30Si), and the natural variation in their proportions is greater than other uncertainties in the measurements. The atomic weight A for the sample crystal can be calculated, as the relative atomic masses of the three nuclides are known with great accuracy. This, together with the measured density ρ of the sample, allows the molar volume V to be determined:
+:
+where M is the molar mass constant. The 2006 CODATA value for the molar volume of silicon is 12.058 8349(11) cm3mol−1, with a relative standard uncertainty of . 
+
+As of the 2006 CODATA recommended values, the relative uncertainty in determinations of the Avogadro constant by the X-ray crystal density method is , about two and a half times higher than that of the electron mass method.
+
+====International Avogadro Coordination====
+sphere for Avogadro project.jpg|thumb|right|One of the master opticians at the [http://www.acpo.csiro.au/ Australian Centre for Precision Optics (ACPO) holding a one-kilogram single-crystal silicon sphere for the International Avogadro Coordination.]]
+The International Avogadro Coordination (IAC), often simply called the "Avogadro project", is a collaboration begun in the early 1990s between various national metrology institutes to measure the Avogadro constant by the X-ray crystal density method to a relative uncertainty of 2 or less. The project is part of the efforts to redefine the kilogram in terms of a universal physical constant, rather than the International Prototype Kilogram, and complements the measurements of the Planck constant using watt balances. Under the current definitions of the International System of Units (SI), a measurement of the Avogadro constant is an indirect measurement of the Planck constant:
+:
+
+The measurements use highly polished spheres of silicon with a mass of one kilogram. Spheres are used to simplify the measurement of the size (and hence the density) and to minimize the effect of the oxide coating that inevitably forms on the surface. The first measurements used spheres of silicon with natural isotopic composition, and had a relative uncertainty of 3.1. These first results were also inconsistent with values of the Planck constant derived from watt balance measurements, although the source of the discrepancy is now believed to be known. 
+
+The main residual uncertainty in the early measurements was in the measurement of the isotopic composition of the silicon to calculate the atomic weight so, in 2007, a 4.8-kg single crystal of isotopically-enriched silicon (99.94% 28Si) was grown, ; and two one-kilogram spheres cut from it. Diameter measurements on the spheres are repeatable to within 0.3 nm, and the uncertainty in the mass is 3 µg. Full results from these determinations were expected in late 2010. 
+Their paper, published in January 2011, summarized the result of the International Avogadro Coordination and presented a measurement of the Avogadro constant to be mol−1. 
+
+==See also==
+* Mole Day
+
+==References==
+
+==External links==
+* 1996 definition of the Avogadro constant from the IUPAC Compendium of Chemical Terminology ("Gold Book")
+* Some Notes on Avogadro's Number, 6.022 (historical notes)
+* An Exact Value for Avogadro's Number – American Scientist
+* Avogadro and molar Planck constants for the redefinition of the kilogram
+* 
+* Murrell, J. 2001 Avogadro and his Constant, Helvitica Chemica Acta, 84, 6, p.1314-1327
+
+

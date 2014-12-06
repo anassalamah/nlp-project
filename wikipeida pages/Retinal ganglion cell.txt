@@ -1,0 +1,55 @@
+[[Retinal ganglion cell]]
+
+Diagram showing cross-section of retinal layers. The area labeled "Ganglionic layer" contains retinal ganglion cells.
+A retinal ganglion cell (RGC) is a type of neuron located near the inner surface (the ganglion cell layer) of the retina of the eye. It receives visual information from photoreceptors via two intermediate neuron types: horizontal cells and amacrine cells. Retinal ganglion cells collectively transmit image-forming and non-image forming visual information from the retina to several regions in the thalamus, hypothalamus, and mesencephalon, or midbrain. 
+
+Retinal ganglion cells vary significantly in terms of their size, connections, and responses to visual stimulation but they all share the defining property of having a long axon that extends into the brain. These axons form the optic nerve, optic chiasm, and optic tract. A small percentage of retinal ganglion cells contribute little or nothing to vision, but are themselves photosensitive; their axons form the retinohypothalamic tract and contribute to circadian rhythms and pupillary light reflex, the resizing of the pupil.
+
+==Function==
+There are about 1.2 to 1.5 million retinal ganglion cells in the human retina. With about 125 million "Hecht, Eugene, Optics, 2nd Ed, Addison Wesley, 1987 photoreceptors per retina, on average each retinal ganglion cell receives inputs from about 100 rods and cones. However, these numbers vary greatly among individuals and as a function of retinal location. In the fovea (center of the retina), a single ganglion cell will communicate with as few as five photoreceptors. In the extreme periphery (ends of the retina), a single ganglion cell will receive information from many thousands of photoreceptors.
+
+Retinal ganglion cells spontaneously fire action potentials at a base rate while at rest. Excitation of retinal ganglion cells results in an increased firing rate while inhibition results in a depressed rate of firing.
+
+A false-color image of a flat-mounted rat retina viewed through a fluorescence microscope at 50x magnification. The optic nerve was injected with a fluorophore, causing retinal ganglion cells to fluoresce.
+
+==Types==
+Based on their projections and functions, there are at least five main classes of retinal ganglion cells:
+*Midget cell (Parvocellular, or P pathway; P cells)
+*Parasol cell (Magnocellular, or M pathway; M cells)
+*Bistratified cell (Koniocellular, or K pathway)
+*Photosensitive ganglion cells
+*Other ganglion cells projecting to the superior colliculus for eye movements (saccades) Principles of Neural Science 4th Ed. Kandel et al. 
+
+===Midget===
+Midget retinal ganglion cells project to the parvocellular layers of the lateral geniculate nucleus. These cells are known as midget retinal ganglion cells, based on the small sizes of their dendritic trees and cell bodies. About 80% of all retinal ganglion cells are midget cells in the parvocellular pathway. They receive inputs from relatively few rods and cones. In many cases, they are connected to midget bipolars, which are linked to one cone each. "eye, human."Encyclopædia Britannica. 2008. Encyclopædia Britannica 2006 Ultimate Reference Suite DVD They have slow conduction velocity, and respond to changes in color but respond only weakly to changes in contrast unless the change is great (Kandel et al., 2000). They have simple center-surround receptive fields, where the center may be either ON or OFF while the surround is the opposite.
+
+===Parasol===
+Parasol retinal ganglion cells project to the magnocellular layers of the lateral geniculate nucleus. These cells are known as parasol retinal ganglion cells, based on the large sizes of their dendritic trees and cell bodies. About 10% of all retinal ganglion cells are parasol cells, and these cells are part of the magnocellular pathway. They receive inputs from relatively many rods and cones. They have fast conduction velocity, and can respond to low-contrast stimuli, but are not very sensitive to changes in color (Kandel et al., 2000). They have much larger receptive fields which are nonetheless also center-surround.
+
+===Bistratified===
+Bistratified retinal ganglion cells project to the koniocellular layers of the lateral geniculate nucleus. Bistratified retinal ganglion cells have been identified only relatively recently. Koniocellular means “cells as small as dust”; their small size made them hard to find. About 10% of all retinal ganglion cells are bistratified cells, and these cells go through the koniocellular pathway. They receive inputs from intermediate numbers of rods and cones. They have moderate spatial resolution, moderate conduction velocity, and can respond to moderate-contrast stimuli. They may be involved in color vision. They have very large receptive fields that only have centers (no surrounds) and are always ON to the blue cone and OFF to both the red and green cone.
+
+=== Photosensitive ganglion cell ===
+Photosensitive ganglion cells, including but not limited to the giant retinal ganglion cells, contain their own photopigment, melanopsin, which makes them respond directly to light even in the absence of rods and cones. They project to, among other areas, the suprachiasmatic nucleus (SCN) via the retinohypothalamic tract for setting and maintaining circadian rhythms. Other retinal ganglion cells projecting to the lateral geniculate nucleus (LGN) include cells making connections with the Edinger-Westphal nucleus (EW), for control of the pupillary light reflex, and giant retinal ganglion cells.
+
+==Retinal ganglion cell physiology==
+Most mature ganglion cells are able to fire action potentials at a high frequency because of their expression of Kv3 potassium channels. http://ykolodin.50webs.com/ 
+
+==Myelination==
+In most mammals, the axons of retinal ganglion cells are not myelinated where they pass through the retina. However, the parts of axons that are beyond the retina, are myelinated. This myelination pattern is functionally explained by the relatively high opacity of myelin — myelinated axons passing over the retina would absorb some of the light before it reaches the photoreceptor layer, reducing the quality of vision. There are human eye diseases where this does, in fact, happen. In some vertebrates, for example the chicken, the ganglion cell axons are myelinated inside the retina. 
+
+==See also==
+* Photoreceptor cell
+* Horizontal cell
+* Ganglion cell
+* Receptive field
+
+==References==
+
+==External links==
+* Diagram at mit.edu
+* Overview and diagrams at webexhibits.org
+* Neuronbank Wiki page on RGCs
+* NIF Search - Retinal Ganglion Cell via the Neuroscience Information Framework
+
+

@@ -1,0 +1,148 @@
+[[Aneurysm]]
+
+An aneurysm or aneurism (from , aneurysma, "dilation", from ἀνευρύνειν, aneurynein, "to dilate") is a localized, blood-filled balloon-like bulge in the wall of a blood vessel. 
+
+Aneurysms can occur in any blood vessel, with examples including aneurysms of the circle of Willis in the brain, aortic aneurysms affecting the thoracic aorta, and abdominal aortic aneurysms. Aneurysms can also occur within the heart itself.
+
+As an aneurysm increases in size, the risk of rupture increases. A ruptured aneurysm can lead to bleeding and subsequent hypovolemic shock, leading to death. Aneurysms are a result of a weakened blood vessel wall, and can be a result of a hereditary condition or an acquired disease. Aneurysms can also be a nidus for clot formation (thrombosis) and embolization.
+
+==Classification==
+Aneurysms may be classified by type, morphology, or location.
+
+===True and false aneurysms===
+A true aneurysm is one that involves all three layers of the wall of an artery (intima, media and adventitia). True aneurysms include atherosclerotic, syphilitic, and congenital aneurysms, as well as ventricular aneurysms that follow transmural myocardial infarctions (aneurysms that involve all layers of the attenuated wall of the heart are also considered true aneurysms). 
+
+A false aneurysm, or pseudo-aneurysm, is a collection of blood leaking completely out of an artery or vein, but confined next to the vessel by the surrounding tissue. This blood-filled cavity will eventually either thrombose (clot) enough to seal the leak, or rupture out of the surrounding tissue. 
+
+Pseudoaneurysms can be caused by trauma that punctures the artery, such as knife and bullet wounds, as a result of percutaneous surgical procedures such as coronary angiography or arterial grafting, or use of an artery for injection. .
+
+===Morphology===
+Aneurysms can also be classified by their macroscopic shape and size, and are described as either saccular or fusiform. The shape of an aneurysm is not specific for a specific disease. 
+
+Saccular aneurysms are spherical in shape and involve only a portion of the vessel wall; they vary in size from 5 to 20 cm in diameter, and are often filled, either partially or fully, by a thrombus. 
+
+Fusiform aneurysms ("spindle-shaped" aneurysms) are variable in both their diameter and length; their diameters can extend up to 20 cm. They often involve large portions of the ascending and transverse aortic arch, the abdominal aorta, or less frequently the iliac arteries. 
+
+===Location===
+Aneurysms can also be classified by their location:
+* Arterial and venous, with arterial being more common. 
+* The heart, including coronary artery aneurysms, ventricular aneurysms, aneurysm of sinus of Valsalva, and aneurysms following cardiac surgery.
+* The aorta, namely aortic aneurysms including thoracic aortic aneurysms and abdominal aortic aneurysms.
+* The brain, including cerebral aneurysms, berry aneurysms, and Charcot–Bouchard aneurysms.
+* The legs, including the popliteal arteries. 
+* The kidney, including renal artery aneurysm and intraparechymal aneurysms. Case Rep Vasc Med. 2013;2013:452317 http://dx.doi.org/10.1155/2013/452317 
+* Capillaries, specifically capillary aneurysms.
+
+Cerebral aneurysms, also known as intracranial or brain aneurysms, occur most commonly in the anterior cerebral artery, which is part of the circle of Willis. This can cause severe strokes leading to death. The next most common sites of cerebral aneurysm occurrence are in the internal carotid artery. 
+
+==Signs and symptoms==
+Aneurysm presentation may range from life-threatening complications of hypovolemic shock to being found incidentally on X-ray. Symptoms will differ by the site of the aneurysm and can include:
+
+===Cerebral aneurysm===
+
+Symptoms can occur when the aneurysm pushes on a structure in the brain. Symptoms will differ if an aneurysm has ruptured or not. For an aneurysm that has not ruptured:
+* Fatigue
+* Loss of perception
+* Loss of balance
+* Speech problems
+* Double vision
+For a ruptured aneurysm, symptoms of a subarachnoid hemorrhage may present:
+* Severe headaches
+* Loss of vision
+* Double vision
+* Neck pain and/or stiffness
+* Pain above and/or behind the eyes
+
+===Abdominal aneurysm===
+
+Illustration depicting location of abdominal aneurysm
+
+Abdominal aneurysms can cause central back pain, oedema and deep vein thrombosis, vomiting, and lower limb ischaemia 
+
+===Renal (kidney) aneurysm===
+*Flank pain and tenderness
+*Hypertension
+*Haematuria
+*Signs of hypovolemic shock
+
+==Risk factors==
+Risk factors for an aneurysm include diabetes, obesity, hypertension, tobacco use, alcoholism, high cholesterol, copper deficiency, increasing age, and tertiary syphilis infection. 
+
+Specific infective causes associated with aneurysm include:
+* Advanced Syphilis infection resulting in syphilitic aortitis and an aortic aneurysm
+* Tuberculosis, causing Rasmussen's aneurysms
+* Brain infections, causing infectious intracranial aneurysms
+
+A minority of aneurysms are associated with genetic factors. Examples include:
+* Berry aneurysms of the anterior communicating artery of the circle of Willis, associated with autosomal dominant polycystic kidney disease. Author: Stephen J. Schueler, MD; Coauthors: John H. Beckett, MD; D. Scott Gettings, MD. Updated November 13, 2011 
+*Familial thoracic aortic aneurysms
+*Cirsoid aneurysms, secondary to congenital arteriovenous malformations.
+
+==Pathophysiology==
+
+Aneurysms form for a variety of interacting reasons. Multiple factors, including factors affecting a blood vessel wall and the blood through the vessel, contribute.
+
+Atherosclerosis. A variety of different factors, including atherosclerosis, may contribute to weakening of a blood vessel wall. The repeated trauma of blood flowing through the vessel may contribute to degeneration of the vessel wall. Hypertensive injury may compound this degeneration and accelerate the expansion of the aneurysm. As the aneurysm expands, the wall tension increases. as described by the Law of Laplace 
+
+The pressure of blood within the expanding aneurysm may also injure the blood vessels supplying the artery itself, further weakening the vessel wall. Without treatment, these aneurysms will ultimately progress and rupture. 
+
+Infection. A mycotic aneurysm is an aneurysm that results from an infectious process that involves the arterial wall. emedicine – Cerebral Aneurysm Author: Jonathan L Brisman. Coauthors: Emad Soliman, Abraham Kader, Norvin Perez. Updated: Sep 23, 2010 A person with a mycotic aneurysm has a bacterial infection in the wall of an artery, resulting in the formation of an aneurysm. The most common locations include arteries in the abdomen, thigh, neck, and arm. A mycotic aneurysm can result in sepsis, or life-threatening bleeding if the aneurysm ruptures. Less than 3% of abdominal aortic aneurysms are mycotic aneurysms. Author: Stephen J. Schueler, MD; Coauthors: John H. Beckett, MD; D. Scott Gettings, MD. Updated November 13, 2011 
+
+Syphilis. The third stage of syphilis also manifests as aneurysm of the aorta, which is due to loss of the vasa vasorum in the tunica adventitia. 
+
+Copper Deficiency. A minority of aneurysms are caused by copper deficiency, which results in a decreased activity of the lysyl oxidase enzyme, affecting elastin, a key component in vessel walls Copper deficiency results in vessel wall thinning, and thus has been noted as a cause of death in copper-deficient humans, chickens and turkeys 
+
+==Diagnosis==
+Diagnosis of a ruptured cerebral aneurysm is commonly made by finding signs of subarachnoid hemorrhage on a computed tomography (CT) scan. If the CT scan is negative but a ruptured aneurysm is still suspected based on clinical findings, a lumbar puncture can be performed to detect blood in the cerebrospinal fluid. Computed tomography angiography (CTA) is an alternative to traditional angiography and can be performed without the need for arterial catheterization. This test combines a regular CT scan with a contrast dye injected into a vein. Once the dye is injected into a vein, it travels to the cerebral arteries, and images are created using a CT scan. These images show exactly how blood flows into the brain arteries. 
+
+==Treatment==
+Historically, the treatment of arterial aneurysms has been limited to either surgical intervention, or watchful waiting in combination with control of blood pressure. In recent years, endovascular or minimally invasive techniques have been developed for many types of aneurysms. 
+
+=== Intracranial aneurysms ===
+
+There are currently two treatment options for brain aneurysms: surgical clipping or endovascular coiling. There is currently debate in the medical literature about which treatment is most appropriate given particular situations. 
+
+Surgical clipping was introduced by Walter Dandy of the Johns Hopkins Hospital in 1937. It consists of a craniotomy to expose the aneurysm and closing the base or neck of the aneurysm with a clip. The surgical technique has been modified and improved over the years.
+
+Endovascular coiling was introduced by Guido Guglielmi at UCLA in 1991. It consists of passing a catheter into the femoral artery in the groin, through the aorta, into the brain arteries, and finally into the aneurysm itself. Platinum coils initiate a clotting reaction within the aneurysm that, if successful fill the aneurysm dome and prevent its rupture. 
+
+===Aortic and peripheral aneurysms===
+For aneurysms in the aorta, arms, legs, or head, the weakened section of the vessel may be replaced by a bypass graft that is sutured at the vascular stumps. Instead of sewing, the graft tube ends, made rigid and expandable by nitinol wireframe, can be easily inserted in its reduced diameter into the vascular stumps and then expanded up to the most appropriate diameter and permanently fixed there by external ligature. Tex Heart Inst J. 2002;29(1):56-9 New devices were recently developed to substitute the external ligature by expandable ring allowing use in acute ascending aorta dissection, providing airtight (i.e. not dependent on the coagulation integrity), easy and quick anastomosis extended to the arch concavity Stefano Nazari: Expandable device type III for easy and reliable approximation of dissection layers in sutureless aortic anastomosis. Ex vivo experimental study. Interact CardioVasc Thorac Surg 2010;10:161–164. Less invasive endovascular techniques allow covered metallic stent grafts to be inserted through the arteries of the leg and deployed across the aneurysm.
+
+===Renal aneurysms===
+Renal aneurysms are very rare consisting of only 0.1–0.09% Schorn B, Falk V, Dalichau H, et al. Kidney salvage in a case of ruptured renal artery aneurysm: case report and literature review. Cardiovasc Surg. 1997;5(1):134–136. while rupture is even more rare. Tham G, Ekelund L, Herrlin K, et al. Renal artery aneurysms. Natural history and prognosis. Ann Surg. 1983;197(3): 348–352. Conservative treatment with control of concomittant hypertension being the primary option with aneurysms smaller than 3 cm. If symptoms occur, or enlargement of the aneurysm, then endovascular or open repair should be consider. Uflacker R. Interventional management of visceral artery aneurysms. In: Strandness DE, ed. Vascular Diseases: Surgical & Interventional Therapy. New York, NY: Churchill Livingstone; 1994:823–844. Pregnant women due to high rupture risk of up to 80% should be treated surgically. Lumsden AB, Salam TA, Walton KG. Renal artery an?eurysm: a report of 28 cases. Cardiovasc Surg. 1996;4(2): 185–189. 
+
+==Epidemiology==
+Incidence rates of cranial aneurysms are estimated at between 0.4% and 3.6%. Those without risk factors have expected prevalence of 2–3%. In adults, females are more likely to have aneurysms, are most prevalent in people ages 35 – 60, but can occur in children as well. Aneurysms are rare in children with a reported prevalence of .5% to 4.6%. The most common incidence are among 50-year-olds, and there are typically no warning signs. Most aneurysms develop after the age of 40. 
+
+===Pediatric aneurysms===
+Pediatric aneurysms have different incidences and features than adult aneurysms. Intracranial aneurysms are rare in childhood, with over 95% of all aneurysms occurring in adults. 
+
+===Risk factors===
+Incidence rates are two to three times higher in males, while there are more large and giant aneurysms and fewer multiple aneurysms. Intracranial hemorrhages are 1.6 times more likely to be due to aneurysms than cerebral arteriovenous malformations in whites, but four times less in certain Asian populations. 
+
+Most patients, particularly infants, present with subarachnoid hemorrhage and corresponding headaches or neurological deficits. The mortality rate for pediatric aneurysms is lower than in adults. 
+
+==Notable cases==
+
+* Albert Einstein, who died from a repaired aortic aneurysm
+* Richard Holbrooke, who died from a thoracic aortic aneurysm
+* John Olerud, a baseball player who had an aneurysm while in college at Washington State University, and went on to have a seventeen year career in Major League Baseball Hersch, Hank. "A Gentleman and a Slugger." Sports Illustrated, April 15, 1991. www.cnnsi.com. Retrieved October 8, 2013. 
+
+==See also==
+* Abdominal aortic aneurysm
+* Aortic dissection
+* Charcot–Bouchard aneurysm
+* Coronary aneurysm
+* Aneurysm of sinus of Valsalva
+* Stroke
+
+==References==
+
+==External links==
+
+* Berry Aneurysm overview
+* @neurIST – Integrated Biomedical Informatics for the Management of Cerebral Aneurysms
+* Brain aneurysm and percent packing calculator
+
+

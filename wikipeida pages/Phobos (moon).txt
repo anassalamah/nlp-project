@@ -1,0 +1,128 @@
+[[Phobos (moon)]]
+
+Phobos (systematic designation: Mars I) is the larger and closer of the two natural satellites of Mars. Both moons were discovered in 1877. 
+
+A small, irregularly shaped object with a mean radius of 11 km, Phobos is seven times more massive than Mars's outer moon, Deimos. Phobos is named after the Greek god Phobos, a son of Ares (Mars) and Aphrodite (Venus) which was the personification of Horror. The name "Phobos" is pronounced , or like the Greek . 
+
+Phobos orbits 6000 km from the Martian surface, closer to its primary than any other known planetary moon. It is so close that it orbits Mars faster than Mars rotates. As a result, from the surface of Mars it appears to rise in the west, move across the sky in 4 hours 15 min or less, and set in the east, twice each Martian day. Due to tidal interactions, Phobos is drawing closer to Mars by one meter every century, and it is predicted that in 50 million years it will collide with the planet or break up into a planetary ring. NASA - Phobos 
+
+Phobos is one of the least reflective bodies in the Solar System, and features a large impact crater, Stickney. The temperatures range from about −4°C (25°F) to −112°C (−170°F), on the sunlit and shadowed sides respectively. 
+
+==Discovery==
+
+Phobos was discovered by astronomer Asaph Hall on 18 August 1877, at the United States Naval Observatory in Washington, D.C., at about 09:14 Greenwich Mean Time (contemporary sources, using the pre-1925 astronomical convention that began the day at noon, give the time of discovery as 17 August at 16:06 Washington mean time). (Table II, p. 220: first observation of Phobos on 18 August 1877.38498) Hall also discovered Deimos, Mars's other moon, on 12 August 1877 at about 07:48 UTC. The names, originally spelled Phobus and Deimus respectively, were suggested by Henry Madan (1838–1901), Science Master of Eton, based on Book XV of the Iliad, in which the god Ares summons Dread (Deimos) and Fear (Phobos). 
+
+==Physical characteristics==
+
+Phobos has dimensions of 27 × 22 × 18 km, and is too small to be rounded under its own gravity. Its surface area is slightly less than the land area of the U.S. state of Delaware. Phobos does not have an atmosphere due to low mass and low gravity. It is one of the least reflective bodies in the Solar System. Spectroscopically it appears to be similar to the D-type asteroids, and is apparently of composition similar to carbonaceous chondrite material. Phobos's density is too low to be solid rock, and it is known to have significant porosity. These results led to the suggestion that Phobos might contain a substantial reservoir of ice. Spectral observations indicate that the surface regolith layer lacks hydration, but ice below the regolith is not ruled out. 
+ 
+Phobos is heavily cratered. The most prominent surface feature is the crater Stickney, named after Asaph Hall's wife, Angeline Stickney Hall, Stickney being her maiden name. As with Mimas's crater Herschel, the impact that created Stickney must have nearly shattered Phobos. Many grooves and streaks also cover the oddly shaped surface. The grooves are typically less than deep, wide, and up to in length, and were originally assumed to have been the result of the same impact that created Stickney. Analysis of results from the Mars Express spacecraft, however, revealed that the grooves are not in fact radial to Stickney, but are centered on the leading apex of Phobos in its orbit (which is not far from Stickney). Researchers suspect that they have been excavated by material ejected into space by impacts on the surface of Mars. The grooves thus formed as crater chains, and all of them fade away as the trailing apex of Phobos is approached. They have been grouped into 12 or more families of varying age, presumably representing at least 12 Martian impact events. 
+
+Faint dust rings produced by Phobos and Deimos have long been predicted but attempts to observe these rings have, to date, failed. Recent images from Mars Global Surveyor indicate that Phobos is covered with a layer of fine-grained regolith at least 100 meters thick; it is hypothesized to have been created by impacts from other bodies, but it is not known how the material stuck to an object with almost no gravity. 
+
+The unique Kaidun meteorite is thought to be a piece of Phobos, but this has been difficult to verify since little is known about the detailed composition of the moon. 
+
+===Named geological features ===
+Geological features on Phobos are named after astronomers who studied Phobos and people and places from Jonathan Swift's Gulliver's Travels. Gazetteer of Planetary Nomenclature USGS Astrogeology Research Program, Categories There is one named regio, Laputa Regio, and one named planitia, Lagado Planitia; both are named after places in Gulliver's Travels (the fictional Laputa, a flying island, and Lagado, imaginary capital of the fictional nation Balnibarbi). Gazetteer of Planetary Nomenclature USGS Astrogeology Research Program, Phobos The only named ridge on Phobos is Kepler Dorsum, named after the astronomer Johannes Kepler. Several craters have been named. Gazetteer of Planetary Nomenclature USGS Astrogeology Research Program, Craters 
+
+PHOBOS 
+
+ Crater Named after Coordinates 
+ Clustril Character in Gulliver's Travels 
+ D'Arrest Heinrich Louis d'Arrest, astronomer 
+ Drunlo Character in Gulliver's Travels 
+ Flimnap Character in Gulliver's Travels 
+ Grildrig Character in Gulliver's Travels 
+ Gulliver Main character of Gulliver's Travels 
+ Hall Asaph Hall, discoverer of Phobos 
+ Limtoc Character in Gulliver's Travels 
+ Öpik Ernst J. Öpik, astronomer 
+ Reldresal Character in Gulliver's Travels 
+ Roche Édouard Roche, astronomer 
+ Sharpless Bevan Sharpless, astronomer 
+ Shklovsky Iosif Shklovsky, astronomer 
+ Skyresh Character in Gulliver's Travels 
+ Stickney Angeline Stickney, wife of Asaph Hall 
+ Todd David Peck Todd, astronomer 
+ Wendell Oliver Wendell, astronomer 
+
+==Orbital characteristics==
+Orbits of Phobos and Deimos. Phobos is orbiting Mars 4 times faster than Deimos.
+Phobos has been described as "the best studied natural satellite in the Solar System", and its close orbit around its parent planet produces some unusual effects. With an altitude of 5,989 kilometers (3,721 mi), Phobos orbits Mars below the synchronous orbit radius, meaning that it moves around Mars faster than Mars itself rotates. Therefore from the point of view of an observer on the surface it rises in the west, moves comparatively rapidly across the sky (in 4 h 15 min or less) and sets in the east, approximately twice each Martian day (every 11 h 6 min). Since it is close to the surface and in an equatorial orbit, it cannot be seen above the horizon from latitudes greater than 70.4°. Its orbit is so low that its angular diameter, as seen by an observer on Mars, varies visibly with its position in the sky. Seen at the horizon, Phobos is about 0.14° wide; at zenith it is 0.20°, one-third as wide as the full Moon as seen from Earth. By comparison, the Sun has an apparent size of about 0.35° in the Martian sky. Phobos's phases, inasmuch as they can be observed from Mars, take 0.3191 days (Phobos's synodic period) to run their course, a mere 13 seconds longer than Phobos's sidereal period.
+As seen from Phobos, Mars would appear 6,400 times larger and 2,500 times brighter than the full Moon appears from Earth, taking up a quarter of the width of a celestial hemisphere. The Mars–Phobos Lagrangian L1 is above Stickney, which is unusually close to the surface.
+
+===Solar transits===
+Annular eclipse of the sun by Phobos as viewed by the Mars Curiosity rover (20 August 2013).
+
+An observer situated on the Martian surface, in a position to observe Phobos, would see regular transits of the moon across the Sun. Several of these transits have been photographed by the Mars Rover Opportunity. During the transits, Phobos's shadow is cast on the surface of Mars; an event which has been photographed by several spacecraft. Phobos is not large enough to cover the Sun's disk, and so cannot cause a total eclipse.
+
+===Predicted destruction===
+Tidal deceleration is gradually decreasing the orbital radius of Phobos. Bills and colleagues surveyed the literature and observations of Phobos's orbit and concluded that Phobos will be destroyed in less than 30–50 million years, 
+with one study's estimate being about 43 million years. 
+ 
+Given Phobos's irregular shape and assuming that it is a pile of rubble (specifically a Mohr–Coulomb body), it will eventually break up when it reaches approximately 2.1 Mars radii. 
+ 
+
+==Origin==
+Video (01:30/real-time): Eclipse of the Sun by Phobos, largest of the two Moons of Mars (Curiosity rover, 20 August 2013).
+The origin of the Martian moons is still controversial. Burns, J. A. "Contradictory Clues as to the Origin of the Martian Moons," in Mars, H. H. Kieffer et al., eds., U. Arizona Press, Tucson, 1992 Phobos and Deimos both have much in common with carbonaceous C-type asteroids, with spectra, albedo, and density very similar to those of C- or D-type asteroids. Based on their similarity, one hypothesis is that both moons may be captured main-belt asteroids. Landis, G. A. "Origin of Martian Moons from Binary Asteroid Dissociation," American Association for the Advancement of Science Annual Meeting; Boston, MA, 2001; abstract. Both moons have very circular orbits which lie almost exactly in Mars's equatorial plane, and hence a capture origin requires a mechanism for circularizing the initially highly eccentric orbit, and adjusting its inclination into the equatorial plane, most probably by a combination of atmospheric drag and tidal forces, although it is not clear that sufficient time is available for this to occur for Deimos. Capture also requires dissipation of energy. The current Martian atmosphere is too thin to capture a Phobos-sized object by atmospheric braking. Geoffrey Landis has pointed out that the capture could have occurred if the original body was a binary asteroid that separated under tidal forces. 
+Curiosity's view of the Mars moons: Phobos passing in front of Deimos - in real-time (video-gif, 1 August 2013).
+Phobos could be a second-generation Solar System object that coalesced in orbit after Mars formed, rather than forming concurrently out of the same birth cloud as Mars. 
+
+Another hypothesis is that Mars was once surrounded by many Phobos- and Deimos-sized bodies, perhaps ejected into orbit around it by a collision with a large planetesimal. Craddock, R. A.; (1994); The Origin of Phobos and Deimos, Abstracts of the 25th Annual Lunar and Planetary Science Conference, held in Houston, TX, 14–18 March 1994, p. 293 The high porosity of the interior of Phobos (based on the density of 1.88 g/cm3, voids are estimated to comprise 25 to 35 percent of Phobos's volume) is inconsistent with an asteroidal origin. Observations of Phobos in the thermal infrared suggest a composition containing mainly phyllosilicates, which are well known from the surface of Mars. The spectra are distinct from those of all classes of chondrite meteorites, again pointing away from an asteroidal origin. Both sets of findings support an origin of Phobos from material ejected by an impact on Mars that reaccreted in Martian orbit, similar to the prevailing theory for the origin of Earth's moon.
+
+==Shklovsky's "Hollow Phobos" hypothesis==
+In the late 1950s and 1960s, the unusual orbital characteristics of Phobos led to speculations that it might be hollow.
+
+Around 1958, Russian astrophysicist Iosif Samuilovich Shklovsky, studying the secular acceleration of Phobos's orbital motion, suggested a "thin sheet metal" structure for Phobos, a suggestion which led to speculations that Phobos was of artificial origin. Shklovsky, I. S.; The Universe, Life, and Mind, Academy of Sciences USSR, Moscow, 1962 Shklovsky based his analysis on estimates of the upper Martian atmosphere's density, and deduced that for the weak braking effect to be able to account for the secular acceleration, Phobos had to be very light — one calculation yielded a hollow iron sphere across but less than 6 cm thick. In a February 1960 letter to the journal Astronautics, Singer, S. F.; Astronautics, February 1960 Fred Singer, then science advisor to U.S. President Dwight D. Eisenhower, said of Shklovsky's theory:
+Globe of Phobos at the Memorial Museum of Astronautics in Moscow (19 May 2012).
+If the satellite is indeed spiraling inward as deduced from astronomical observation, then there is little alternative to the hypothesis that it is hollow and therefore Martian made. The big 'if' lies in the astronomical observations; they may well be in error. Since they are based on several independent sets of measurements taken decades apart by different observers with different instruments, systematic errors may have influenced them. 
+
+Subsequently, the systemic data errors that Singer predicted were found to exist, and the claim was called into doubt, and accurate measurements of the orbit available by 1969 showed that the discrepancy did not exist. Singer's critique was justified when earlier studies were discovered to have used an overestimated value of 5 cm/yr for the rate of altitude loss, which was later revised to 1.8 cm/yr. "More on the Moons of Mars". Singer, S. F., Astronautics, February 1960. American Astronautical Society. Page 16 The secular acceleration is now attributed to tidal effects, which had not been considered in the earlier studies.
+
+The density of Phobos has now been directly measured by spacecraft to be 1.887 g/cm3. Current observations are consistent with Phobos being a rubble pile. In addition, images obtained by the Viking probes in the 1970s clearly showed a natural object, not an artificial one. Nevertheless, mapping by the Mars Express probe and subsequent volume calculations do suggest the presence of voids within the moon and indicate that it is not a solid chunk of rock but a porous body instead. "Cheap Flights to Phobos" by Stuart Clark, in New Scientist magazine, 30th January 2010. The porosity of Phobos was calculated to be 30% ± 5%, or a quarter to a third of the moon being hollow. This void space is mostly on small scales (millimeters to ~1-m), between individual grains and boulders. 
+
+==Exploration==
+Phobos slowly came into view over the decades as it was imaged at progressively higher resolutions. This image compares images from the Mars Spirit rover and an orbiter (2005).
+Phobos has been photographed in close-up by several spacecraft whose primary mission has been to photograph Mars. The first was Mariner 9 in 1971, followed by Viking 1 in 1977, Mars Global Surveyor in 1998 and 2003, Mars Express in 2004, 2008, and 2010, and Mars Reconnaissance Orbiter in 2007 and 2008. On August 25, 2005, the Spirit Rover, with an excess of energy due to wind blowing dust off of its solar panels, took several short-exposure photographs of the night sky from the surface of Mars. Phobos and Deimos are both clearly visible in the photograph. Dedicated Phobos probes were the Soviet Phobos 1 and Phobos 2, both launched in July 1988. The first was lost en route to Mars, while the second returned some data and images but failed shortly before beginning its detailed examination of the moon's surface, including a lander. Other Mars missions collected more data, but the next dedicated mission attempt would be a sample return mission launched in 2011.
+
+The Russian Space Agency launched a sample return mission to Phobos in November 2011, called Fobos-Grunt. The return capsule also included a life science experiment of The Planetary Society, called Living Interplanetary Flight Experiment, or LIFE. A second contributor to this mission was the China National Space Administration, which supplied a surveying satellite called "Yinghuo-1", which would have been released in the orbit of Mars, and a soil-grinding and sieving system for the scientific payload of the Phobos lander. However, after achieving Earth orbit, the Fobos-Grunt probe failed to initiate subsequent burns that would have sent it off to Mars. Attempts to recover the probe were unsuccessful and it crashed back to Earth in January 2012.
+
+===Proposed missions===
+25375patraw.jpg|thumb|right|Fuel is mined from Phobos with the help of a nuclear reactor. (P. Rawlings, 1986) [http://spaceflight.nasa.gov/gallery/images/exploration/marsexploration/html/s86_25375.html S86-25375 (1986) ]]
+In 1997 and 1998, the Aladdin mission was selected as a finalist in the NASA Discovery Program. The plan was to visit both Phobos and Deimos, and launch projectiles at the satellites. The probe would collect the ejecta as it performed a slow flyby (~1 km/s). These samples would be returned to Earth for study three years later. The Principal Investigator was Dr. Carle Pieters of Brown University. The total mission cost, including launch vehicle and operations was $247.7 million. Ultimately, the mission chosen to fly was MESSENGER, a probe to Mercury. 
+
+In 2007, the European aerospace subsidiary EADS Astrium was reported to have been developing a mission to Phobos as a technology demonstrator. Astrium is involved in developing a European Space Agency plan for a sample return mission to Mars, as part of the ESA's Aurora programme, and sending a mission to the low gravity Phobos is seen as a good opportunity for testing and proving the technologies required for an eventual sample return mission to Mars. The mission is envisioned to start in 2016, and last for three years. The company plans to use a "mothership", which would be propelled by an ion engine, releasing a lander to the surface of Phobos. The lander would perform some tests and experiments, gather samples in a capsule, then return to the mothership and head back to Earth where the samples would be jettisoned for recovery on the surface. Amos, J.; Martian Moon ’Could be Key Test’, BBC News (9 February 2007) 
+The Phobos monolith (right of center) as taken by the Mars Global Surveyor (MOC Image 55103, 1998).
+In 2007, the Canadian Space Agency funded a study by Optech and the Mars Institute for an unmanned mission to Phobos known as PRIME (Phobos Reconnaissance and International Mars Exploration). A proposed landing site for the PRIME spacecraft is at the "Phobos monolith", a bright object near Stickney which casts a prominent shadow. Optech press release, "Canadian Mission Concept to Mysterious Mars moon Phobos to Feature Unique Rock-Dock Maneuver," 3 May 2007. PRIME: Phobos Reconnaissance & International Mars Exploration, Mars Institute website, accessed 27 July 2009. Lee, P., R. Richards, A. Hildebrand, and the PRIME Mission Team 2008. The PRIME (Phobos Reconnaissance and International Mars Exploration) Mission and Mars sample Return. 39th Lunar Planet. Sci. Conf., Houston, TX, March 2008. |http://www.lpi.usra.edu/meetings/lpsc2008/pdf/2268.pdf Astronaut Buzz Aldrin referred to this "monolith" in a July 22, 2009 interview with C-SPAN: "We should go boldly where man has not gone before. Fly by the comets, visit asteroids, visit the moon of Mars. There’s a monolith there. A very unusual structure on this potato shaped object that goes around Mars once in seven hours. When people find out about that they’re going to say ‘Who put that there? Who put that there?’ The universe put it there. If you choose, God put it there...” The PRIME mission would be composed of an orbiter and lander, and each would carry 4 instruments designed to study various aspects of Phobos's geology. , PRIME does not have a projected launch date.
+
+In 2008, NASA Glenn Research Center began studying a Phobos and Deimos sample return mission that would use solar electric propulsion. The study gave rise to the "Hall" mission concept, a New Frontiers-class mission currently under further study. Lee, P. et al. 2010. Hall: A Phobos and Deimos Sample Return Mission. 44th Lunar Planet. Sci. Conf., The Woodlands, TX. 1-5 Mar 2010. . 
+
+As of January 2013, a new Phobos Surveyor mission is currently under development by a collaboration of Stanford University, NASA's Jet Propulsion Laboratory, and the Massachusetts Institute of Technology. The mission is currently in the testing phases, and the team at Stanford hopes to launch the mission between 2023 and 2033. 
+
+in 1998 [http://www.jpl.nasa.gov/releases/98/mgsphobos.html ]]
+Phobos has been proposed as an early target for a manned mission to Mars. The tele-operation of robotic scouts on Mars by humans on Phobos could be conducted without significant time delay, and planetary protection concerns in early Mars exploration might be addressed by such an approach. Landis, Geoffrey A. "Footsteps to Mars: an Incremental Approach to Mars Exploration," Journal of the British Interplanetary Society, Vol. 48, pp. 367-342 (1995); presented at Case for Mars V, Boulder CO, 26–29 May 1993; appears in From Imagination to Reality: Mars Exploration Studies, R. Zubrin, ed., AAS Science and Technology Series Volume 91 pp. 339-350 (1997). (text available as Footsteps to Mars (PDF) Phobos has also been proposed as an early target for a manned mission to Mars because a landing on Phobos would be considerably less difficult and expensive than a landing on the surface of Mars itself. A lander bound for Mars would need to be capable of atmospheric entry and subsequent return to orbit, without any support facilities (a capacity which has never been attempted in a manned spacecraft), or would require the creation of support facilities in-situ (a "colony or bust" mission); a lander intended for Phobos could be based on equipment designed for lunar and asteroid landings. Lee, P., S. Braham, G. Mungas, M. Silver, P. Thomas, and M. West (2005). Phobos: A Critical Link Between Moon and Mars Exploration. Report of the Space Resources Rountable VII: LEAG Conference on Lunar Exploration, League City, TX 25-28 Oct 2005. LPI Contrib. 1318, p. 72. The human exploration of Phobos could serve as a catalyst for the human exploration of Mars and be exciting and scientifically valuable in its own right. Lee, P. (2007). Phobos-Deimos ASAP: A Case for the Human Exploration of the Moons of Mars. First Int’l Conf. Explor. Phobos & Deimos. NASA Research Park, Moffett Field, CA, 5-7 Nov 2007. LPI Contrib. 1377, p. 25 |http://www.lpi.usra.edu/meetings/phobosdeimos2007/pdf/7044.pdf 
+
+==See also==
+* List of missions to the moons of Mars
+* Moons of Mars
+* Phobos and Deimos in fiction
+* Transit of Phobos from Mars
+
+==References==
+
+==External links==
+
+* Phobos Profile at NASA's Solar System Exploration site
+* HiRISE Phobos
+* USGS Phobos nomenclature
+* Asaph Hall and the Moons of Mars
+* Flight around Phobos (movie)
+* Animation of Phobos
+* Scale of Phobos [http://www.phobos.cn/thread/?159.html ] [http://davinci-marsdesign.blogspot.com/2012/05/scale-of-phobos.html ]
+* Mars Express view of Phobos 
+* Phobos cartography (MIIGAiK Extraterrestrial Laboratory)
+
+ 
+
+

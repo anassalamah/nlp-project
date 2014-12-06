@@ -1,0 +1,89 @@
+[[Salmonella]]
+
+ 
+Salmonella is a genus of rod-shaped, Gram-negative bacteria. There are only two species of Salmonella, Salmonella bongori and Salmonella enterica, of which there are around six subspecies and innumerable serovars. The genus belongs to the same family as Escherichia, which includes the species E.coli.
+
+Salmonellae are found worldwide in both cold-blooded and warm-blooded animals, and in the environment. They cause illnesses such as typhoid fever, paratyphoid fever, and food poisoning. 
+
+==Features==
+Salmonella are non-spore-forming, predominantly motile enterobacteria with diameters around 0.7 to 1.5 µm, lengths from 2 to 5 µm, and peritrichous flagella (flagella that are all around the cell body). They are chemoorganotrophs, obtaining their energy from oxidation and reduction reactions using organic sources, and are facultative anaerobes.
+
+== History ==
+The story of the term Salmonella starts in 1885 with the discovery of the bacterium Salmonella enterica (var. Choleraesuis) by medical research scientist Theobald Smith. At the time Theobald was working as a research lab assistant in the Veterinary Division of the US Department of Agriculture. The USDA was under the administration of Daniel Elmer Salmon, a veterinary pathologist, and that is for whom the Salmonella was named. 
+
+During the search for the cause of hog cholera it was proposed that the causal agent be named Salmonella. While it happened eventually that Salmonella did not cause that cholera (its enteric pathogen was actually a virus), http://www.cgmh.org.tw/chldhos/intr/c4a00/academy/bugs/salchole.html S. Cholerasuis pathology. Accessed April 3, 2009 all species of the bacterial genus Salmonella, it turned out, cause infectious diseases. In 1900 J. Lignières re-adopted the name for the many subspecies of Salmonella, after Smith's first type-strain Salmonella cholera.
+
+==Detection, culture and growth conditions==
+Most subspecies of Salmonella produce hydrogen sulfide, which can readily be detected by growing them on media containing ferrous sulfate, such as is used in the triple sugar iron test (TSI). Most isolates exist in two phases: a motile phase I and a nonmotile phase II. Cultures that are nonmotile upon primary culture may be switched to the motile phase using a Cragie tube.
+
+Mathematical models of salmonella growth kinetics have been developed for chicken, pork, tomatoes, and melons. Salmonella reproduce asexually with a cell division rate of 20 to 40 minutes under optimal conditions.
+
+Salmonella lead predominantly host-associated lifestyles, however the bacteria were found to be able to persist in a bathroom setting for weeks following contamination, and are frequently isolated from water sources, which act as bacterial reservoirs and may help to facilitate transmission between hosts. The bacteria are not destroyed by freezing, but UV light and heat accelerate their demise—they perish after being heated to for 90 min, or to for 12 min. To protect against Salmonella infection, heating food for at least ten minutes at is recommended, so the centre of the food reaches this temperature. Partnership for Food Safety Education (PFSE) Fight BAC! Basic Brochure. USDA Internal Cooking Temperatures Chart. The USDA has other resources available at their Safe Food Handling fact-sheet page. See also the National Center for Home Food Preservation. 
+
+== Salmonella nomenclature ==
+Initially, each Salmonella "species" was named according to clinical considerations, F. Kauffmann: Die Bakteriologie der Salmonella-Gruppe. Munksgaard, Kopenhagen, 1941 e.g., Salmonella typhi-murium (mouse typhoid fever), S. cholerae-suis. After it was recognized that host specificity did not exist for many species, new strains (or serovars, short for serological variants) received species names according to the location at which the new strain was isolated. Later, molecular findings led to the hypothesis that Salmonella consisted of only one species, L. Le Minor, M. Y. Popoff: Request for an Opinion. Designation of Salmonella enterica. sp. nov., nom. rev., as the type and only species of the genus Salmonella. In: Int. J. Syst. Bacteriol., Bd. 37, 1987, S. 465–468 S. enterica, and the serovars were classified into six groups, two of which are medically relevant. But as this now formalized nomenclature is not in harmony with the traditional usage familiar to specialists in microbiology and infectologists, the traditional nomenclature is common. Currently, there are two recognized species: S. enterica, and S. bongori. In 2005 a third species, Salmonella subterranean, was thought to be added but this has since been ruled out and is seen as another serovar. Agbaje M, Begum RH, et al. Evolution of Salmonella nomenclature: a critical note. Folia Microbiol (Praha). 2011 Nov;56(6):497–503. doi: 10.1007/s12223-011-0075-4. Epub 2011 Nov 4. PMID 22052214 There are six main subspecies recognised: enterica (I), salamae (II), arizonae (IIIa), diarizonae (IIIb), houtenae (IV), and indica (VI). Janda JM, Abbott SL (2006). "The Enterobacteria", ASM Press. Historically, serotype (V) was bongori, which is now considered its own species.
+
+The serovar (i.e. serotype) is a classification of Salmonella into subspecies based on antigens that the organism presents. It is based on the Kauffman-White classification scheme that differentiates serological varieties from each other. Serotypes are usually put into subspecies groups after the genus and species, with the serovars/serotypes capitalized but not italicized: an example is Salmonella enterica serovar Typhimurium. More modern approaches for typing and subtyping Salmonella include DNA-based methods such as pulsed field gel electrophoresis (PFGE), Multiple Loci VNTR Analysis (MLVA), Multilocus sequence typing (MLST) and multiplex-PCR-based methods. 
+
+== Salmonella as pathogens ==
+Salmonella species are facultative intracellular pathogens. Many infections are due to ingestion of contaminated food. They can be divided into two groups—typhoidal and nontyphoidal Salmonella serovars. Nontyphoidal serovars are more common, and usually cause self-limiting gastrointestinal disease. They can infect a range of animals, and are zoonotic, meaning they can be transferred between humans and other animals. Typhoidal serovars include Salmonella Typhi and Salmonella Paratyphi A, which are adapted to humans and do not occur in other animals.
+
+== Nontyphoidal Salmonella==
+
+Infection with nontyphoidal serovars of Salmonella will generally result in food poisoning. Infection usually occurs when a person ingests foods that contain a high concentration of the bacteria. Infants and young children are much more susceptible to infection, easily achieved by ingesting a small number of bacteria. In infants, infection through inhalation of bacteria-laden dust is possible.
+
+The organism enters through the digestive tract and must be ingested in large numbers to cause disease in healthy adults. An infectious process can only begin after living salmonellae (not only their toxins) reach the gastrointestinal tract. Some of the microorganisms are killed in the stomach, while the surviving salmonellae enter the small intestine and multiply in tissues (localized form). Gastric acidity is responsible for the destruction of the majority of ingested bacteria, however Salmonella has evolved a degree of tolerance to acidic environments that allows a subset of ingested bacteria to survive. Bacterial colonies may also become trapped in mucus produced in the oesophagus. By the end of the incubation period, the nearby cells are poisoned by endotoxins released from the dead salmonellae. The local response to the endotoxins is enteritis and gastrointestinal disorder.
+
+=== Invasive non-typhoidal salmonella disease ===
+While in developed countries, nontyphoidal serovars present mostly as gastrointestinal disease, in sub-Saharan Africa these serovars create a major problem in bloodstream infections, and are the most commonly isolated bacteria from the blood of those presenting with fever. Bloodstream infections caused by nontyphoidal salmonellae in Africa were reported in 2012 to have a case fatality rate of 20–25%. Most cases of invasive nontyphoidal salmonella infection (iNTS) are caused by S Typhimurium or S Enteritidis. A new form of Salmonella Typhimurium (ST313) emerged in the southeast of the continent 75 years ago, followed by a second wave, which came out of central Africa 18 years later. The second wave of iNTS possibly originated in the Congo Basin, and early in the event picked up a gene making it resistant to the antibiotic chloramphenicol. This created the need to use expensive antimicrobial drugs in areas of Africa that were very poor, thus making treatment difficult. The variant is the cause of an enigmatic disease in sub-Saharan Africa called invasive non-typhoidal salmonella (iNTS), which affects Africa far more than other continents. This is thought to be due to the large proportion of the population with some degree of immune suppression or impairment due to the burden of HIV, malaria and malnutrition, especially in children. Its genetic makeup is evolving into a more typhoid-like bacteria, able to efficiently spread around the human body. Symptoms are reported to be diverse, including fever, hepatosplenomegaly, and respiratory symptoms, often with an absence of gastrointestinal symptoms. 
+
+==Typhoidal Salmonella==
+
+Typhoid fever is caused by Salmonella serotypes which are strictly adapted to humans or higher primates - these include Salmonella Typhi, Paratyphi A, Paratyphi B and Paratyphi C. In the systemic form of the disease, salmonellae pass through the lymphatic system of the intestine into the blood of the patients (typhoid form) and are carried to various organs (liver, spleen, kidneys) to form secondary foci (septic form). Endotoxins first act on the vascular and nervous apparatus, resulting in increased permeability and decreased tone of the vessels, upset thermal regulation, vomiting and diarrhea. In severe forms of the disease, enough liquid and electrolytes are lost to upset the water-salt metabolism, decrease the circulating blood volume and arterial pressure, and cause hypovolemic shock. Septic shock may also develop. Shock of mixed character (with signs of both hypovolemic and septic shock) are more common in severe salmonellosis. Oliguria and azotemia develop in severe cases as a result of renal involvement due to hypoxia and toxemia.
+
+==Global monitoring==
+
+In Germany, food poisoning infections must be reported. § 6 and § 7 of the German law on infectious disease prevention, Infektionsschutzgesetz Between 1990 and 2005, the number of officially recorded cases decreased from approximately 200,000 to approximately 50,000 cases. In the USA, about 50,000 cases of Salmonella infection are reported each year. Centers for Disease Control and Prevention According to the World Health Organization, over 16 million people worldwide are infected with typhoid fever each year, with 500,000 to 600,000 fatal cases.
+
+==Molecular mechanisms of infection==
+Mechanisms of infection differ between typhoidal and nontyphoidal serovars, owing to their different targets in the body and the different symptoms that they cause. Both groups must enter by crossing the barrier created by the intestinal cell wall, but once they have passed this barrier they use different strategies to cause infection.
+
+Nontyphoidal serovars preferentially enter M cells on the intestinal wall by bacterial-mediated endocytosis, a process associated with intestinal inflammation and diarrhoea. They are also able to disrupt tight junctions between the cells of the intestinal wall, impairing their ability to stop the flow of ions, water and immune cells into and out of the intestine. The combination of the inflammation caused by bacterial-mediated endocytosis and the disruption of tight junctions is thought to contribute significantly to the induction of diarrhoea. 
+
+Salmonellae are also able to breach the intestinal barrier via phagocytosis and trafficking by CD18-positive immune cells, which may be a mechanism key to typhoidal Salmonella infection. This is thought to be a more stealthy way of passing the intestinal barrier, and may therefore contribute to the fact that lower numbers of typhoidal Salmonella are required for infection than nontyphoidal Salmonella. Salmonella are able to enter macrophages via macropinocytosis. Typhoidal serovars can use this to achieve dissemination throughout the body via the mononuclear phagocyte system, a network of connective tissue that contains immune cells, and surrounds tissue associated with the immune system throughout the body. 
+
+Much of the success of Salmonella in causing infection is attributed to two type three secretion systems which function at different times during infection. One is required for the invasion of non-phagocytic cells, colonization of the intestine and induction of intestinal inflammatory responses and diarrhoea. The other is important for survival in macrophages and establishment of systemic disease. These systems contain many genes which must work co-operatively to achieve infection.
+
+The AvrA toxin injected by the SPI1 type three secretion system of Salmonella Typhimurium works to inhibit the innate immune system by virtue of its serine/threonine acetyltransferase activity, and requires binding to eukaryotic target cell phytic acid (IP6). This leaves the host more susceptible to infection. In a 2011 paper, Yale University School of Medicine researchers described in detail how Salmonella is able to make these proteins line up in just the right sequence to invade host cells. "These mechanisms present us with novel targets that might form the basis for the development of an entirely new class of antimicrobials," said Professor Dr. Jorge Galan, senior author of the paper and the Lucille P. Markey Professor of Microbial Pathogenesis and chair of the Section of Microbial Pathogenesis at Yale. In the new National Institutes of Health-funded study, Galan and colleagues identify what they call a bacterial sorting platform, which attracts needed proteins and lines them up in a specific order. If the proteins do not line up properly, Salmonella, as well as many other bacterial pathogens, cannot "inject" them into host cells to commandeer host cell functions, the lab has found. Understanding how this machine works raises the possibility of new therapies that disable this protein delivery machine, thwarting the ability of the bacterium to become pathogenic. The process would not kill the bacteria as most antibiotics do, but would cripple its ability to do harm. In theory, this means bacteria such as Salmonella might not develop resistance to new therapies as quickly as they usually do to conventional antibiotics.
+
+== Vaccine status ==
+There is an urgency to develop an effective salmonella vaccine because of the recent outbreaks in Africa of antibiotic-resistant strains of the food-borne bacteria that are killing hundreds of thousands of people there, as well as the heavy annual worldwide death toll each year. Researchers say they have paved the way toward an effective Salmonella vaccine by identifying eight antigenic molecules from human and mouse infections. These antigens provide the research community with a foundation for developing a protective salmonella vaccine. A recent study has tested a vaccine on chickens which offered efficient protection against salmonellosis. 
+
+== See also ==
+* Host-pathogen interface
+* 1984 Rajneeshee bioterror attack
+* 2008 United States salmonellosis outbreak
+* 2008–2009 peanut-borne salmonella outbreak
+* Bismuth sulfite agar
+* Food Testing Strips
+* List of foodborne illness outbreaks
+* Salmonellosis
+* Wright County Egg
+* XLD agar
+
+== References ==
+
+== External links ==
+
+* Background on Salmonella from the Food Safety and Inspection Service of the United States Department of Agriculture
+* Salmonella genomes and related information at PATRIC, a Bioinformatics Resource Center funded by NIAID
+* Questions and Answers about commercial and institutional sanitizing methods
+* Symptoms of Salmonella Poisoning
+* Salmonella as an emerging pathogen from IFAS
+* Notes on Salmonella nomenclature
+* Salmonella motility video
+* Avian Salmonella
+
+ 
+
+

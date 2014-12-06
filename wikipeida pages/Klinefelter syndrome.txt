@@ -1,0 +1,104 @@
+[[Klinefelter syndrome]]
+
+Klinefelter syndrome () or Klinefelter's syndrome is the set of symptoms resulting from additional X genetic material in males. Also known as 47,XXY or XXY, Klinefelter syndrome is a genetic disorder in which there is at least one extra X chromosome to a standard human male karyotype, for a total of 47 chromosomes rather than the 46 found in genetically typical humans. While females have an XX chromosomal makeup, and males an XY, individuals with Klinefelter syndrome have at least two X chromosomes and at least one Y chromosome. Because of the extra chromosome, individuals with the condition are usually referred to as "XXY males", or "47,XXY males". 
+
+This chromosome constitution (karyotype) exists in roughly between 1:500 to 1:1000 live male births but many of these people may not show symptoms. If the physical traits associated with the syndrome become apparent, they normally appear after the onset of puberty. 
+
+In humans, 47,XXY is the most common sex chromosome aneuploidy in males and the second most common condition caused by the presence of extra chromosomes, only to Down syndrome. Other mammals also have the XXY syndrome, including mice. 
+
+Principal effects include hypogonadism and sterility. A variety of other physical and behavioural differences and problems are common, though severity varies and many XXY boys have few detectable symptoms.
+
+==Signs and symptoms==
+ 
+While it is possible to characterise XXY males based on physical characteristics, substantial variation in physical and developmental traits mean the only reliable method of positive or negative identification is karyotype testing.
+
+===Physical===
+As babies and children, XXY males may have weaker muscles and reduced strength. As they grow older, they tend to become taller than average. They may have less muscle control and coordination than other boys their age. 
+
+During puberty, the physical traits of the syndrome become more evident; because these boys do not produce as much testosterone as other boys, they have a less muscular body, less facial and body hair, and broader hips. As teens, XXY males may have larger breasts, weaker bones, and a lower energy level than other boys. 
+
+By adulthood, XXY males look similar to males without the condition, although they are often taller. In adults, possible characteristics vary widely and include little to no signs of affectedness, a lanky, youthful build and facial appearance, or a rounded body type with some degree of gynecomastia (increased breast tissue). Gynecomastia is present to some extent in about a third of affected individuals, a slightly higher percentage than in the XY population. About 10% of XXY males have gynecomastia noticeable enough that they may choose to have cosmetic surgery. 
+
+Affected males are often infertile, or may have reduced fertility. Advanced reproductive assistance is sometimes possible. 
+
+The term hypogonadism in XXY symptoms is often misinterpreted to mean "small testicles" or "small penis". In fact, it means decreased testicular hormone/endocrine function. Because of this (primary) hypogonadism, individuals will often have a low serum testosterone level but high serum follicle-stimulating hormone (FSH) and luteinizing hormone (LH) levels. Despite this misunderstanding of the term, however, it is true that XXY men may also have microorchidism (i.e., small testicles). 
+
+XXY males are also more likely than other men to have certain health problems, which typically affect females, such as autoimmune disorders, breast cancer, venous thromboembolic disease, and osteoporosis. In contrast to these potentially increased risks, it is currently thought that rare X-linked recessive conditions occur less frequently in XXY males than in normal XY males, since these conditions are transmitted by genes on the X chromosome, and people with two X chromosomes are typically only carriers rather than affected by these X-linked recessive conditions.
+
+===Cognitive and developmental===
+Some degree of language learning or reading impairment may be present, and neuropsychological testing often reveals deficits in executive functions, although these deficits can often be overcome through early intervention. There may also be delays in motor development which can be addressed through occupational therapy and physical therapy. XXY males may sit up, crawl, and walk later than other infants; they may also struggle in school, both academically and with sports. 
+
+==Cause==
+Birth of a cell with karyotype XXY due to a non-disjunction event of one X chromosome from a Y chromosome during meiosis I in the male.
+Birth of a cell with karyotype XXY due to a non-disjunction event of one X chromosome during meiosis II in the female.
+
+The extra X chromosome is retained because of a nondisjunction event during meiosis I (gametogenesis). Nondisjunction occurs when homologous chromosomes, in this case the X and Y sex chromosomes, fail to separate, producing a sperm with an X and a Y chromosome. Fertilizing a normal (X) egg produces an XXY offspring.
+The XXY chromosome arrangement is one of the most common genetic variations from the XY karyotype, occurring in about 1 in 500 live male births. 
+
+Another mechanism for retaining the extra X chromosome is through a nondisjunction event during meiosis II in the female. Nondisjunction will occur when sister chromatids on the sex chromosome, in this case an X and an X, fail to separate. (meiosis) An XX egg is produced which, when fertilized with a Y sperm, yields XXY offspring.
+
+In mammals with more than one X chromosome, the genes on all but one X chromosome are not expressed; this is known as X inactivation. This happens in XXY males as well as normal XX females. However, in XXY males, a few genes located in the pseudoautosomal regions of their X chromosomes, have corresponding genes on their Y chromosome and are capable of being expressed. 
+
+The first published report of a man with a 47,XXY karyotype was by Patricia Jacobs and John Strong at Western General Hospital in Edinburgh, Scotland in 1959. This karyotype was found in a 24-year-old man who had signs of Klinefelter syndrome. Jacobs described her discovery of this first reported human or mammalian chromosome aneuploidy in her 1981 William Allan Memorial Award address. 
+
+===Variations===
+48,XXYY and 48,XXXY occur in 1 in 18,000–50,000 male births. The incidence of 49,XXXXY is 1 in 85,000 to 100,000 male births. These variations are extremely rare. Additional chromosomal material can contribute to cardiac, neurological, orthopedic and other anomalies.
+
+Males with Klinefelter syndrome may have a mosaic 47,XXY/46,XY constitutional karyotype and varying degrees of spermatogenic failure. Mosaicism 47,XXY/46,XX with clinical features suggestive of Klinefelter syndrome is very rare. Thus far, only about 10 cases have been described in literature. 
+
+Analogous XXY syndromes are known to occur in cats—specifically, the presence of calico or tortoiseshell markings in male cats is an indicator of the relevant abnormal karyotype. As such, male cats with calico or tortoiseshell markings are a model organism for Klinefelter syndrome. 
+
+==Diagnosis ==
+Percentages of Klinefelter's diagnosis divided by age groups, with most diagnoses occurring in adulthood. 
+
+About 10% of Klinefelter cases are found by prenatal diagnosis. The first clinical features may appear in early childhood or, more frequently, during puberty, such as lack of secondary sexual characters and aspermatogenesis, while tall stature as a symptom can be hard to diagnose during puberty. Despite the presence of small testes, only a quarter of the affected males are recognized as having Klinefelter syndrome at puberty and 25% received their diagnosis in late adulthood: about 64% affected individuals are not recognized as such. Often the diagnosis is made accidentally as a result of examinations and medical visits for reasons not linked to the condition. 
+
+The standard diagnostic method is the analysis of the chromosomes' karyotype on lymphocytes. In the past, the observation of the Barr body was common practice as well. To confirm mosaicism, it is also possible to analyze the karyotype using dermal fibroblasts or testicular tissue. 
+
+Other methods may be: research of high serum levels of gonadotropins (follicle-stimulating hormone and luteinizing hormone), presence of azoospermia, determination of the sex chromatin, and prenatally via chorionic villus sampling or amniocentesis. A 2002 literature review of elective abortion rates found that approximately 58% of pregnancies in the United States with a diagnosis of Klinefelter syndrome were terminated. 
+
+===Differential diagnosis===
+The symptoms of Klinefelter syndrome are often variable; therefore, a karyotype analysis should be ordered when small testes, infertility, gynecomastia, long legs/arms, developmental delay, speech/language deficits, learning disabilities/academic issues and/or behavioral issues are present in an individual. The differential diagnosis for the Klinefelter syndrome can include the following conditions: fragile X syndrome, Kallmann syndrome and Marfan syndrome. The cause of hypogonadism can be attributed to many other different medical conditions.
+
+There have been some reports of individuals with Klinefelter syndrome who also have other chromosome abnormalities, such as Down syndrome. 
+
+==Treatment==
+The genetic variation is irreversible. Often individuals that have noticeable breast tissue or hypogonadism experience depression and/or social anxiety because they are outside of social norms. This is academically referred to as psychosocial morbidity. At least one study indicates that planned and timed support should be provided for young men with Klinefelter syndrome to ameliorate current poor psychosocial outcomes. 
+
+By 2010 over 100 successful pregnancies have been reported using IVF technology with surgically removed sperm material from males with Klinefelter syndrome. 
+
+== Prognosis ==
+Children with XXY differ little from other children. Although they can face problems during adolescence, often emotional and behavioral, and difficulties at school, most of them can achieve full independence from their families in adulthood. Most can lead a normal, healthy life.
+
+The results of a study carried out on 87 Australian adults with the syndrome shows that those who have had a diagnosis and appropriate treatment from a very young age had a significant benefit with respect to those who had been diagnosed in adulthood. 
+
+There is research suggesting Klinefelter syndrome substantially decreases life expectancy among affected individuals, though the evidence is not definitive. A 1985 publication identified a greater mortality mainly due to diseases of the aortic valve, development of tumors and possible subarachnoid hemorrhages, reducing life expectancy by about 5 years. Later studies have reduced this estimated reduction to an average of 2.1 years. These results are still questioned data, are not absolute, and will need further testing. 
+
+== Epidemiology==
+This syndrome, evenly spread in all ethnic groups, has a prevalence of 1-2 subjects every 1000 males in the general population. 3.1% of infertile males have Klinefelter syndrome. The syndrome is also the main cause of male hypogonadism. 
+
+According to a meta-analysis, the prevalence of the syndrome has increased over the past decades; however, this does not appear to be correlated with the increase of the age of the mother at conception, as no increase was observed in the prevalence of other trisomies of sex chromosomes (XXX and XYY). 
+
+==History==
+The syndrome was named after Harry Klinefelter, who, in 1942, worked with Fuller Albright at Massachusetts General Hospital in Boston, Massachusetts and first described it in the same year. The account given by Klinefelter came to be known as Klinefelter syndrome as his name appeared first on the published paper, and seminiferous tubule dysgenesis was no longer used.
+
+==See also==
+* Aneuploidy
+* Intersex
+* Mosaic (genetics)
+* True hermaphroditism
+* Turner Syndrome
+* XXYY syndrome
+*Non-Klinefelter XXY
+
+==Notes==
+
+==References==
+
+==Further reading==
+* 
+
+==External links==
+* 
+
+

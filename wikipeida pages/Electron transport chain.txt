@@ -1,0 +1,175 @@
+[[Electron transport chain]]
+
+The electron transport chain in the mitochondrion is the site of oxidative phosphorylation in eukaryotes. The NADH and succinate generated in the citric acid cycle are oxidized, providing energy to power ATP synthase.
+ Photosynthetic electron transport chain of the thylakoid membrane.
+An electron transport chain (ETC) is a series of compounds that transfer electrons from electron donors to electron acceptors via redox reactions, and couples this electron transfer with the transfer of protons (H+ ions) across a membrane. This creates an electrochemical proton gradient that drives ATP synthesis, or the generation of chemical energy in the form of adenosine triphosphate (ATP).
+
+Electron transport chains are used for extracting energy via redox reactions from sunlight in photosynthesis or, such as in the case of the oxidation of sugars, cellular respiration. In eukaryotes, an important electron transport chain is found in the inner mitochondrial membrane where it serves as the site of oxidative phosphorylation through the use of ATP synthase. It is also found in the thylakoid membrane of the chloroplast in photosynthetic eukaryotes. In bacteria, the electron transport chain is located in their cell membrane.
+
+In chloroplasts, light drives the conversion of water to oxygen and NADP+ to NADPH with transfer of H+ ions across chloroplast membranes. In mitochondria, it is the conversion of oxygen to water, NADH to NAD+ and succinate to fumarate that are required to generate the proton gradient. Electron transport chains are major sites of premature electron leakage to oxygen, generating superoxide and potentially resulting in increased oxidative stress.
+
+==Background==
+
+The electron transport chain consists of a spatially separated series of redox reactions in which electrons are transferred from a donor molecule to an acceptor molecule. The underlying force driving these reactions is the Gibbs free energy of the reactants and products. The Gibbs free energy is the energy available ("free") to do work. Any reaction that decreases the overall Gibbs free energy of a system is thermodynamically spontaneous.
+
+The function of the electron transport chain is to produce a transmembrane proton electrochemical gradient as a result of the redox reactions. If protons flow back through the membrane, they enable mechanical work, such as rotating bacterial flagella. ATP synthase, an enzyme highly conserved among all domains of life, converts this mechanical work into chemical energy by producing ATP, which powers most cellular reactions.
+A small amount of ATP is available from substrate-level phosphorylation, for example, in glycolysis. In most organisms the majority of ATP is generated in electron transport chains, while only some obtain ATP by fermentation.
+
+==Electron transport chains in mitochondria==
+Most eukaryotic cells have mitochondria, which produce ATP from products of the citric acid cycle, fatty acid oxidation, and amino acid oxidation. At the mitochondrial inner membrane, electrons from NADH and succinate pass through the electron transport chain to oxygen, which is reduced to water. The electron transport chain comprises an enzymatic series of electron donors and acceptors. Each electron donor passes electrons to a more electronegative acceptor, which in turn donates these electrons to another acceptor, a process that continues down the series until electrons are passed to oxygen, the most electronegative and terminal electron acceptor in the chain. Passage of electrons between donor and acceptor releases energy, which is used to generate a proton gradient across the mitochondrial membrane by actively “pumping” protons into the intermembrane space, producing a thermodynamic state that has the potential to do work. The entire process is called oxidative phosphorylation, since ADP is phosphorylated to ATP using the energy of hydrogen oxidation in many steps.
+
+A small percentage of electrons do not complete the whole series and instead directly leak to oxygen, resulting in the formation of the free-radical superoxide, a highly reactive molecule that contributes to oxidative stress and has been implicated in a number of diseases and aging.
+
+===Mitochondrial redox carriers===
+Energy obtained through the transfer of electrons (blue arrows) down the ETC is used to pump protons (red arrows) from the mitochondrial matrix into the intermembrane space, creating an electrochemical proton gradient across the mitochondrial inner membrane (IMM) called ΔΨ. This electrochemical proton gradient allows ATP synthase (ATP-ase) to use the flow of H+ through the enzyme back into the matrix to generate ATP from adenosine diphosphate (ADP) and inorganic phosphate. Complex I (NADH coenzyme Q reductase; labeled I) accepts electrons from the Krebs cycle electron carrier nicotinamide adenine dinucleotide (NADH), and passes them to coenzyme Q (ubiquinone; labeled Q), which also receives electrons from complex II (succinate dehydrogenase; labeled II). UQ passes electrons to complex III (cytochrome bc1 complex; labeled III), which passes them to cytochrome c (cyt c). Cyt c passes electrons to Complex IV (cytochrome c oxidase; labeled IV), which uses the electrons and hydrogen ions to reduce molecular oxygen to water.
+
+Four membrane-bound complexes have been identified in mitochondria. Each is an extremely complex transmembrane structure that is embedded in the inner membrane. Three of them are proton pumps. The structures are electrically connected by lipid-soluble electron carriers and water-soluble electron carriers. The overall electron transport chain:
+
+ NADH → Complex I → Q → Complex III → cytochrome c → Complex IV → O2
+ ↑
+ Complex II 
+ ↑
+ FADH2 
+
+====Complex I====
+In Complex I (NADH dehydrogenase, also called NADH:ubiquinone oxidoreductase; ) two electrons are removed from NADH and transferred to a lipid-soluble carrier, ubiquinone (Q). The reduced product, ubiquinol (QH2), freely diffuses within the membrane, and Complex I translocates four protons (H+) across the membrane, thus producing a proton gradient. Complex I is one of the main sites at which premature electron leakage to oxygen occurs, thus being one of the main sites of production of superoxide. Garrett & Grisham, Biochemistry, Brooks/Cole, 2010, pp 598-611 
+
+The pathway of electrons occurs as follows:
+
+NADH is oxidized to NAD+, by reducing Flavin mononucleotide to FMNH2 in one two-electron step. FMNH2 is then oxidized in two one-electron steps, through a semiquinone intermediate. Each electron thus transfers from the FMNH2 to an Fe-S cluster, from the Fe-S cluster to ubiquinone (Q). Transfer of the first electron results in the free-radical (semiquinone) form of Q, and transfer of the second electron reduces the semiquinone form to the ubiquinol form, QH2. During this process, four protons are translocated from the mitochondrial matrix to the intermembrane space.
+ 
+
+====Complex II====
+In Complex II (succinate dehydrogenase; ) additional electrons are delivered into the quinone pool (Q) originating from succinate and transferred (via FAD) to Q. Complex II consists of four protein subunits: SDHA, SDHB, SDHC, and SDHD. Other electron donors (e.g., fatty acids and glycerol 3-phosphate) also direct electrons into Q (via FAD). Complex 2 is a parallel electron transport pathway to complex 1, but unlike complex 1, no protons are transported to the intermembrane space in this pathway. Therefore, the pathway through complex 2 contributes less energy to the overall electron transport chain process.
+
+====Complex III====
+In Complex III (cytochrome bc1 complex; ), the Q-cycle contributes to the proton gradient by an asymmetric absorption/release of protons. Two electrons are removed from QH2 at the QO site and sequentially transferred to two molecules of cytochrome c, a water-soluble electron carrier located within the intermembrane space. The two other electrons sequentially pass across the protein to the Qi site where the quinone part of ubiquinone is reduced to quinol. A proton gradient is formed by one quinol (2H+2e-) oxidations at the Qo site to form one quinol (2H+2e-) at the Qi site. (in total six protons are translocated: two protons reduce quinone to quinol and two protons are released from two ubiquinol molecules).
+ QH2 + 2 cytochrome c (FeIII) + 2 H+in → Q + 2 cytochrome c (FeII) + 4 H+out
+
+When electron transfer is reduced (by a high membrane potential or respiratory inhibitors such as antimycin A), Complex III may leak electrons to molecular oxygen, resulting in superoxide formation.
+
+====Complex IV====
+In Complex IV (cytochrome c oxidase; ), sometimes called cytochrome A3, four electrons are removed from four molecules of cytochrome c and transferred to molecular oxygen (O2), producing two molecules of water. At the same time, four protons are removed from the mitochondrial matrix (although only two are translocated across the membrane), contributing to the proton gradient. The activity of cytochrome c oxidase is inhibited by cyanide.
+
+===Coupling with oxidative phosphorylation===
+Depiction of ATP synthase, the site of oxidative phosphorylation to generate ATP.
+According to the chemiosmotic coupling hypothesis, proposed by Nobel Prize in Chemistry winner Peter D. Mitchell, the electron transport chain and oxidative phosphorylation are coupled by a proton gradient across the inner mitochondrial membrane. The efflux of protons from the mitochondrial matrix creates an electrochemical gradient (proton gradient). This gradient is used by the FOF1 ATP synthase complex to make ATP via oxidative phosphorylation. ATP synthase is sometimes described as Complex V of the electron transport chain. The FO component of ATP synthase acts as an ion channel that provides for a proton flux back into the mitochondrial matrix. This reflux releases free energy produced during the generation of the oxidized forms of the electron carriers (NAD+ and Q). The free energy is used to drive ATP synthesis, catalyzed by the F1 component of the complex.
+
+Coupling with oxidative phosphorylation is a key step for ATP production. However, in specific cases, uncoupling the two processes may be biologically useful. The uncoupling protein, thermogenin—present in the inner mitochondrial membrane of brown adipose tissue—provides for an alternative flow of protons back to the inner mitochondrial matrix. This alternative flow results in thermogenesis rather than ATP production. Synthetic uncouplers (e.g., 2,4-dinitrophenol) also exist, and, at high doses, are lethal.
+
+===Summary===
+In the mitochondrial electron transport chain electrons move from an electron donor (NADH or QH2) to a terminal electron acceptor (O2) via a series of redox reactions. These reactions are coupled to the creation of a proton gradient across the mitochondrial inner membrane. There are three proton pumps: I, III, and IV. The resulting transmembrane proton gradient is used to make ATP via ATP synthase.
+
+The reactions catalyzed by Complex I and Complex III work roughly at equilibrium. This means that these reactions are readily reversible, by increasing the concentration of the products relative to the concentration of the reactants (for example, by increasing the proton gradient). ATP synthase is also readily reversible. Thus ATP can be used to build a proton gradient, which in turn can be used to make NADH. This process of reverse electron transport is important in many prokaryotic electron transport chains.
+
+==Electron transport chains in bacteria==
+In eukaryotes, NADH is the most important electron donor. The associated electron transport chain is
+
+NADH → Complex I → Q → Complex III → cytochrome c → Complex IV → O2
+where Complexes I, III and IV are proton pumps, while Q and cytochrome c are mobile electron carriers. The electron acceptor is molecular oxygen.
+
+In prokaryotes (bacteria and archaea) the situation is more complicated, because there are several different electron donors and several different electron acceptors. The generalized electron transport chain in bacteria is:
+
+ Donor Donor Donor
+ ↓ ↓ ↓
+ dehydrogenase → quinone → bc1 → cytochrome
+ ↓ ↓
+ oxidase(reductase) oxidase(reductase)
+ ↓ ↓
+ Acceptor Acceptor
+
+Note that electrons can enter the chain at three levels: at the level of a dehydrogenase, at the level of the quinone pool, or at the level of a mobile cytochrome electron carrier. These levels correspond to successively more positive redox potentials, or to successively decreased potential differences relative to the terminal electron acceptor. In other words, they correspond to successively smaller Gibbs free energy changes for the overall redox reaction Donor → Acceptor.
+
+Individual bacteria use multiple electron transport chains, often simultaneously. Bacteria can use a number of different electron donors, a number of different dehydrogenases, a number of different oxidases and reductases, and a number of different electron acceptors. For example, E. coli (when growing aerobically using glucose as an energy source) uses two different NADH dehydrogenases and two different quinol oxidases, for a total of four different electron transport chains operating simultaneously.
+
+A common feature of all electron transport chains is the presence of a proton pump to create a transmembrane proton gradient. Bacterial electron transport chains may contain as many as three proton pumps, like mitochondria, or they may contain only one or two. They always contain at least one proton pump.
+
+===Electron donors===
+In the present day biosphere, the most common electron donors are organic molecules. Organisms that use organic molecules as an energy source are called organotrophs. Organotrophs (animals, fungi, protists) and phototrophs (plants and algae) constitute the vast majority of all familiar life forms.
+
+Some prokaryotes can use inorganic matter as an energy source. Such organisms are called lithotrophs ("rock-eaters"). Inorganic electron donors include hydrogen, carbon monoxide, ammonia, nitrite, sulfur, sulfide, and ferrous iron. Lithotrophs have been found growing in rock formations thousands of meters below the surface of Earth. Because of their volume of distribution, lithotrophs may actually outnumber organotrophs and phototrophs in our biosphere.
+
+The use of inorganic electron donors as an energy source is of particular interest in the study of evolution. This type of metabolism must logically have preceded the use of organic molecules as an energy source.
+
+===Dehydrogenases===
+Bacteria can use a number of different electron donors. When organic matter is the energy source, the donor may be NADH or succinate, in which case electrons enter the electron transport chain via NADH dehydrogenase (similar to Complex I in mitochondria) or succinate dehydrogenase (similar to Complex II). Other dehydrogenases may be used to process different energy sources: formate dehydrogenase, lactate dehydrogenase, glyceraldehyde-3-phosphate dehydrogenase, H2 dehydrogenase (hydrogenase), etc. Some dehydrogenases are also proton pumps; others funnel electrons into the quinone pool. Most dehydrogenases show induced expression in the bacterial cell in response to metabolic needs triggered by the environment in which the cells grow.
+
+===Quinone carriers===
+Quinones are mobile, lipid-soluble carriers that shuttle electrons (and protons) between large, relatively immobile macromolecular complexes embedded in the membrane. Bacteria use ubiquinone (the same quinone that mitochondria use) and related quinones such as menaquinone. Another name for ubiquinone is Coenzyme Q10.
+
+===Proton pumps===
+A proton pump is any process that creates a proton gradient across a membrane. Protons can be physically moved across a membrane; this is seen in mitochondrial Complexes I and IV. The same effect can be produced by moving electrons in the opposite direction. The result is the disappearance of a proton from the cytoplasm and the appearance of a proton in the periplasm. Mitochondrial Complex III uses this second type of proton pump, which is mediated by a quinone (the Q cycle).
+
+Some dehydrogenases are proton pumps; others are not. Most oxidases and reductases are proton pumps, but some are not. Cytochrome bc1 is a proton pump found in many, but not all, bacteria (it is not found in E. coli). As the name implies, bacterial bc1 is similar to mitochondrial bc1 (Complex III).
+
+Proton pumps are the heart of the electron transport process. They produce the transmembrane electrochemical gradient that enables ATP Synthase to synthesize ATP.
+
+===Cytochrome electron carriers===
+Cytochromes are pigments that contain iron. They are found in two very different environments.
+
+Some cytochromes are water-soluble carriers that shuttle electrons to and from large, immobile macromolecular structures imbedded in the membrane. The mobile cytochrome electron carrier in mitochondria is cytochrome c. Bacteria use a number of different mobile cytochrome electron carriers.
+
+Other cytochromes are found within macromolecules such as Complex III and Complex IV. They also function as electron carriers, but in a very different, intramolecular, solid-state environment.
+
+Electrons may enter an electron transport chain at the level of a mobile cytochrome or quinone carrier. For example, electrons from inorganic electron donors (nitrite, ferrous iron, etc.) enter the electron transport chain at the cytochrome level. When electrons enter at a redox level greater than NADH, the electron transport chain must operate in reverse to produce this necessary, higher-energy molecule.
+
+===Terminal oxidases and reductases===
+When bacteria grow in aerobic environments, the terminal electron acceptor (O2) is reduced to water by an enzyme called an oxidase. When bacteria grow in anaerobic environments, the terminal electron acceptor is reduced by an enzyme called a reductase.
+
+In mitochondria the terminal membrane complex (Complex IV) is cytochrome oxidase. Aerobic bacteria use a number of different terminal oxidases. For example, E. coli does not have a cytochrome oxidase or a bc1 complex. Under aerobic conditions, it uses two different terminal quinol oxidases (both proton pumps) to reduce oxygen to water.
+
+Anaerobic bacteria, which do not use oxygen as a terminal electron acceptor, have terminal reductases individualized to their terminal acceptor. For example, E. coli can use fumarate reductase, nitrate reductase, nitrite reductase, DMSO reductase, or trimethylamine-N-oxide reductase, depending on the availability of these acceptors in the environment.
+
+Most terminal oxidases and reductases are inducible. They are synthesized by the organism as needed, in response to specific environmental conditions.
+
+===Electron acceptors===
+Just as there are a number of different electron donors (organic matter in organotrophs, inorganic matter in lithotrophs), there are a number of different electron acceptors, both organic and inorganic. If oxygen is available, it is invariably used as the terminal electron acceptor, because it generates the greatest Gibbs free energy change and produces the most energy.
+
+In anaerobic environments, different electron acceptors are used, including nitrate, nitrite, ferric iron, sulfate, carbon dioxide, and small organic molecules such as fumarate.
+
+Since electron transport chains are redox processes, they can be described as the sum of two redox pairs. For example, the mitochondrial electron transport chain can be described as the sum of the NAD+/NADH redox pair and the O2/H2O redox pair. NADH is the electron donor and O2 is the electron acceptor.
+
+Not every donor-acceptor combination is thermodynamically possible. The redox potential of the acceptor must be more positive than the redox potential of the donor. Furthermore, actual environmental conditions may be far different from standard conditions (1 molar concentrations, 1 atm partial pressures, pH = 7), which apply to standard redox potentials. For example, hydrogen-evolving bacteria grow at an ambient partial pressure of hydrogen gas of 10-4 atm. The associated redox reaction, which is thermodynamically favorable in nature, is thermodynamically impossible under “standard” conditions.
+
+===Summary===
+Bacterial electron transport pathways are, in general, inducible. Depending on their environment, bacteria can synthesize different transmembrane complexes and produce different electron transport chains in their cell membranes. Bacteria select their electron transport chains from a DNA library containing multiple possible dehydrogenases, terminal oxidases and terminal reductases. The situation is often summarized by saying that electron transport chains in bacteria are branched, modular, and inducible.
+
+==Photosynthetic electron transport chains==
+In oxidative phosphorylation, electrons are transferred from a low-energy electron donor (e.g., NADH) to an acceptor (e.g., O2) through an electron transport chain. In photophosphorylation, the energy of sunlight is used to create a high-energy electron donor and an electron acceptor. Electrons are then transferred from the donor to the acceptor through another electron transport chain.
+
+Photosynthetic electron transport chains have many similarities to the oxidative chains discussed above. They use mobile, lipid-soluble carriers (quinones) and mobile, water-soluble carriers (cytochromes, etc.). They also contain a proton pump. It is remarkable that the proton pump in all photosynthetic chains resembles mitochondrial Complex III.
+
+Photosynthetic electron transport chains are discussed in greater detail in the articles Photophosphorylation, Photosynthesis, Photosynthetic reaction center and Light-dependent reaction.
+
+==Summary==
+Electron transport chains are redox reactions that transfer electrons from an electron donor to an electron acceptor. The transfer of electrons is coupled to the translocation of protons across a membrane, producing a proton gradient. The proton gradient is used to produce useful work.
+About 30 work units are produced per electron transport.
+
+==See also==
+*CoRR hypothesis
+*Electron equivalent
+*Hydrogen hypothesis
+*Respirasome
+
+==References==
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+==External links==
+* 
+* Khan Academy, video lecture
+* - Complexes with cytochrome b-like domains
+* - Bacterial and mitochondrial cytochrome c oxidases
+* - Photosynthetic reaction centers and photosystems
+* - Cytochrome PORN renodoxin reductase
+* - Electron transfer flavoproteins
+
+

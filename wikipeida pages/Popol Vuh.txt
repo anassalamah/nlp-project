@@ -1,0 +1,170 @@
+[[Popol Vuh]]
+
+ The oldest surviving written account of Popol Vuh (ms c.1701 by Francisco Ximénez, O.P.)
+
+Popol Vuh ( in modern K'iche') is a corpus of mytho-historical narratives of the Post Classic K'iche' kingdom in Guatemala's western highlands. The title translates as "Book of the Community", "Book of Counsel", or more literally as "Book of the People". According to Allen Christenson, the mat was a common Maya metaphor for kingship (like "throne" in English) and national unity. 
+Popol Vuh's prominent features are its creation myth, its diluvian suggestion, its epic tales of the Hero Twins Hunahpú and Xbalanqué, Junajpu and Xb’alanke in Modern K'iche' spelling and its genealogies. The myth begins with the exploits of anthropomorphic ancestors and concludes with a regnal genealogy, perhaps as an assertion of rule by divine right.
+
+As with other texts (e.g., the Chilam Balam), a great deal of Popol Vuh's significance lies in the scarcity of early accounts dealing with Mesoamerican mythologies. Popol Vuh's fortuitous survival is attributable to the Spanish 18th century Dominican friar Francisco Ximénez.
+
+==Structure==
+Popol Vuh encompasses a range of subjects that includes creation, ancestry, history, and cosmology. There are no content divisions in the Newberry Library's holograph, but popular editions have adopted the organization imposed by Brasseur de Bourbourg in 1861 in order to facilitate comparative studies. Recinos explains: "The original manuscript is not divided into parts or chapters; the text runs without interruption from the beginning until the end. In this translation I have followed the Brasseur de Bourbourg division into four parts, and each part into chapters, because the arrangement seems logical and conforms to the meaning and subject matter of the work. Since the version of the French Abbe is the best known, this will facilitate the work of those readers who may wish to make a comparative study of the various translations of the Popol Vuh" (Goetz xiv; Recinos 11-12; Brasseur, Popol Vuh, xv) Though some variation has been tested by Tedlock and Christenson, editions typically take the following form:
+
+Preamble
+* A brief statement attesting to the antiquity of the mythistory, its perpetuation in oral form, and its post-conquest writing.
+
+Part 1
+* Account of the creation of living beings. Animals are created first followed by humans. The first humans of earth and mud soak up water and dissolve. The second humans are created from wood, "but they did not have souls, nor minds." Goetz 89 They lose favor with the gods who cause them to be beaten and disfigured before receiving a deluge of heavy resin.
+* Hero twins. Exploits of hero twins Hunahpú and Xbalanqué also known as Hunter and Jaguar deer.
+* Their defeat of Vucub-Caquix and his sons Zipacná and Cabracán, presentation of ball-game motif.
+
+Part 2
+* Lineage of principal figures. Xpiyacoc and Xmucané beget Hun Hunahpú and Vucub Hunahpú; Hun Hunahpú and Xbaquiyalo beget Hunbatz and Hunchouén.
+* Demise of Hun Hunahpú and Vucub Hunahpú and origin of hero twins Hunahpú and Xbalanqué. They are summoned to the underworld of Xibalbá for playing their ball game too noisily. They are killed; Hun Hunahpú's head is placed in a calabash tree. This skull later impregnates Xquic, daughter of a Xibalbé lord, by spitting into her hand. She flees the lords and lives with Xmucané where she gives birth to "Hero Twins" Hunahpú and Xbalanqué. Mistreated by their half-brothers Hunbatz and Huchouén, Hunahpú and Xbalanqué trick them into climbing a tree. Hunbatz and Huchouén transform into monkeys.
+* Rediscovery of ball game and defeat of the lords of Xibalbá. Upon finding the father's equipment suspended from the ceiling, Hunahpú and Xbalanqué are also summoned to Xibalbá for playing too boisterously. They outwit the lords and ascend to the night sky as constellations.
+
+Part 3
+* Creation of humans, migration, and first dawn. Animals gather white and yellow corn from which the gods create Balam-Quitze, Jaguar Night, Naught, and Wind Jaguar. Their four wives are later created while they sleep. Their descendants travel to Tulán Zuiva to await the first dawn. The god Tohil gives fire, but it is extinguished by hail. Tohil requires concessions to restore their fire, but the K'iche' hide themselves in smoke and obtain their fire without conditions. The K'iche' rise to prominence over the other tribes. The first dawn appears, dries out the land, and turns original animals to stone. Distinct languages evolve.
+
+Part 4
+* Migration and division. The K'iche' travel into the mountains, find Q'umarkaj where Q'uq'umatz (the feathered serpent lord) raises them to dominance. Gucumatz institutes elaborate rituals. Cities are founded, significant architectural structures emerge to which fortifications are later added. Inter-tribal strife ensues. Anthropological correlation to terminal classic period (roughly 790 - 1000 CE).
+* Genealogy. States the lineages of several tribal rulers leading up to the Spanish conquest.
+
+==Excerpts==
+All editions of Popol Vuh come from the records of the Dominican priest Francisco Ximénez who lived around the turn of the 18th century. His manuscript, presently housed at The Newberry library, Tedlock 1986:30; Quiroa 2001; López 2007:126; Woodruff 2009; Chinchilla Mazariegos (Rosa Helena) 1993; Newberry Library . Specifically, Tedlock states that Father Ximénez "made the only surviving copy of the Quiche text of the Popol Vuh and added a Spanish translation" (qtd. in López 2007:126). is faded or stained in places, has no organizational divisions, and does not exhibit consistent punctuation or capitalization. For all of these reasons, editing the manuscript has been a challenge and even successful editors are forced to exercise a great deal of judgment in preparing print editions. Recently some editors (Tedlock, Colop, and Christenson) have endeavored to versify Ximénez's text. The preamble below is presented, with minor modifications, in Father Ximénez's prose and is followed by a sample of the versified renderings.
+
+==="Preamble"===
+K'iche'
+ARE V XE OHER Tzih varal Quiche vbi. Varal xchicatzibah vi xchicatiquiba vi oher tzih, vticaribal, vxenabal puch ronohel xban, pa tinamit quiche, ramac quiche vinac; arecut xchicacam vi vcutunizaxic, vcalahobizaxic, vtzihoxic puch euaxibal zaquiribal rumal tzacol bitol alom, qaholom quibi hunahpu vuch, hunahpu vtiu, zaqui nim ac tzÿz, tepeu, qucumatz, v qux cho, vqux palo, ah raxa lac, ah raxat zel chuqhaxic. Ohio State University modified to reflect Christenson's word divisions 
+Spanish
+ESTE ES EL PRINCIPIO DE LAS Antiguas historias aqui en el quiche. Aquí escribiremos y empezaremos las Antiguas historias, su principio, y comienzo de todo lo que fue hecho en el pueblo de el quiche, su pueblo de los indios quiches; y de aqui tomaremos su ser declarado y manifestado, y su ser relatado, la escondedura y aclaradura, por el formador, criador madre, y Padre q’ así se llaman, hunahpu vuch. hun ahpu vtiu. Zaquinima tzÿz tepeu. gucumatz. vguxcho. vguxpalo. el de el verde cagete, el de la verde hícara son llamados. Ohio State University word divisions modernized for readability. 
+
+THIS IS THE BEGINNING of the old traditions of this place called Quiché. Here we shall write and we shall begin the old stories, the beginning and the origin of all that was done in the town of the Quiché, by the tribes of the Quiché nation. And here we shall set forth the revelation, the declaration, and the narration of all that was hidden, the revelation by Tzacol, Bitol, Alom, Qaholom, who are called Hunahpú-Vuch, Hunahpú-Utiú, Zaqui-Nimá-Tziís, Tepeu, Gucumatz, u Qux cho, u Qux Paló, Ali Raxá Lac, Ah Raxá Tzel, as they were called. Delia Goetz edition 
+
+==="Part One"===
+K'iche'
+Are utzijoxik wa‘e
+k‘a katz‘ininoq,
+k‘a kachamamoq,
+ katz‘inonik,
+k‘a kasilanik,
+k‘a kalolinik,
+ katolona puch upa kaj. from Colop's 1999 edition 
+Spanish
+Esta es la relación de cómo
+todo estaba en suspenso,
+todo en calma,
+ en silencio;
+todo inmóvil,
+callado,
+ y vacía la extensión del cielo. From Recinos's 1947 edition, which is not "poetic" but line breaks have been inserted to represent "poetic" editions. 
+
+This is the account of how
+all was in suspense,
+all calm,
+ in silence;
+all motionless,
+quiet,
+ and empty was the expanse of the sky. 
+
+===Creation myth===
+Chapters 1-3 contain Popol Vuh's creation myth. There are four deities, three in a celestial realm collectively called Tepeu and Heart of Heaven and another on the terrestrial plane called Gucumatz.
+:"This is the first account, the first narrative. There was neither man, nor animal, birds, fishes, crabs, trees, stones, caves, ravines, grasses, nor forests; there was only the sky. The surface of the earth had not appeared. There was only the calm sea and the great expanse of the sky. There was nothing brought together, nothing which could make a noise, nor anything which might move, or tremble, or could make noise in the sky. There was nothing standing; only the calm water, the placid sea, alone and tranquil. Nothing existed. There was only immobility and silence in the darkness, in the night. Only the creator, the Maker, Tepeu, Gucumatz, the Forefathers, were in the water surrounded with light. Then Tepeu and Gucumatz came together; then they conferred about life and light, what they would do so that there would be light and dawn, who it would be who would provide food and sustenance. Thus let it be done! Let the emptiness be filled! Let the water recede and make a void, let the earth appear and become solid; let it be done. Thus they spoke. Let there be light, let there be dawn in the sky and on the earth! There shall be neither glory nor grandeur in our creation and formation until the human being is made, man is formed. First the earth was formed, the mountains and the valleys; the currents of water were divided, the rivulets were running freely between the hills, and the water was separated when the high mountains appeared. Thus was the earth created, when it was formed by the Heart of Heaven, the Heart of Earth, as they are called who first made it fruitful, when the sky was in suspense, and the earth was submerged in the water." Goetz 81-84 
+
+Together, gods attempted to create living beings so that they may be praised and venerated by their creation. Their first attempts (animals, mud man, and wooden man) proved unsuccessful because they lacked speech, souls, and intellect.
+
+:"This the Forefathers did, Tepeu and Gucumatz, as they were called. After that they began to talk about the creation and the making of our first mother and father; of yellow corn and of white corn they made their flesh; of cornmeal dough they made the arms and the legs of man. Only dough of corn meal went into the flesh of our first fathers, the four men, who were created. And as they had the appearance of men, they were men; they talked, conversed, saw and heard, walked, grasped things; they were good and handsome men, and their figure was the figure of a man." Goetz 167-68 
+
+Women were created later while the first four men slept. Geotz 170 
+
+==History of Popol Vuh==
+
+===Father Ximénez's manuscript===
+In 1701, Father Ximénez came to Santo Tomás Chichicastenango (also known as Santo Tomás Chuilá). This town was in the Quiché territory and therefore is probably where Fr. Ximénez first redacted the mythistory. See Tedlock's definition and usage of this term. Ximénez's title page reads in part, "cvra doctrinero por el real patronato del pveblo de Sto. Tomas Chvila" ('doctrinal priest of the district of Santo Tomás Chuilá'). Ximénez transcribed and translated the manuscript in parallel K'iche' and Spanish columns (the K'iche' having been represented phonetically with Latin and Parra characters). In or around 1714, Ximénez incorporated the Spanish content in book one, chapters 2-21 of his Historia de la provincia de San Vicente de Chiapa y Guatemala de la orden de predicadores. Ximénez's manuscripts remained posthumously in the possession of the Dominican Order until General Francisco Morazán expelled the clerics from Guatemala in 1829–30 whereupon the Order's documents passed largely to the Universidad de San Carlos.
+
+From 1852 to 1855, Moritz Wagner and Carl Scherzer traveled to Central America, arriving in Guatemala City in early May 1854. Woodruff 2009 Scherzer found Ximénez's writings in the university library, noting that there was one particular item "del mayor interes" ('of the greatest interest'). With assistance from the Guatemalan historian and archivist Juan Gavarrete, Scherzer copied (or had a copy made) of the Spanish content from the last half of the manuscript, which he published upon his return to Europe. Scherzer also published a detailed inventory of the contents in 1857 edition that coincides with the Ayer ms. Scherzer's copyscript and edition began at the third internal title: 1) Arte de las tres lengvas Kakchiqvel, Qvíche y Zvtvhil, 2) Tratado segvndo de todo lo qve deve saber vn mínístro para la buena admínístraçíon de estos natvrales, 3) Empiezan las historias del origen de los indíos de esta provinçia de Gvatemala, 4) Escolíos a las hístorías de el orígen de los indios spelling is that of Ximénez, but capitalization is modified here for stylistic reasons. In 1855, French Abbot Charles Étienne Brasseur de Bourbourg also found Ximénez's writings in the university library. However, whereas Scherzer copied the manuscript, Brasseur apparently "absconded" with the university's volume and took it back to France. Woodruff 2009 p.46-47. Brasseur mentions Ximénez's Popol Vuh manuscript in three different works from 1857-1871, but never explicitly states the library document as the source of 1861 French edition. See Histoire des nations civilisées du Mexique et de l'Amérique-Centrale (1857), Popol vuh. Le livre sacré (1861), and Bibliothèque Mexico-Guatémalienne (1871). It was not until fifteen years after his return to Europe that Brasseur suggested a specific provenance of his source material and then asserted that it had come from Ignacio Coloche in Rabinal. The inconsistency among his statements led Munro Edmonson (1971) to postulate that there had been multiple manuscripts in Guatemala. After Brasseur's death in 1874, the Mexico-Guatémalienne collection containing Popol Vuh passed to Alphonse Pinart through whom it was sold to Edward E. Ayer. In 1897, Ayer decided to donate his 17,000 pieces to The Newberry Library, a project that tarried until 1911. Father Ximénez's transcription-translation of "Popol Vuh" was among Ayer's donated items.
+
+Father Ximénez's manuscript sank into obscurity until Adrián Recinos (re)discovered it at The Newberry in 1941. Generally speaking, Recinos receives credit for finding the manuscript and publishing the first direct edition since Scherzer. But Munro Edmonson and Carlos López attribute the first (re)discovery to Walter Lehmann in 1928. Edmonson 1971 p.viii; Lopez 2007 Allen Christenson, Néstor Quiroa, Rosa Helena Chinchilla Mazariegos, John Woodruff, and Carlos López all consider the Newberry's volume to be Ximénez's one and only "original."
+
+===Father Ximénez's source===
+It is generally believed that Ximénez borrowed a phonetic manuscript from a parishioner for his source, although Néstor Quiroa points out that "such a manuscript has never been found, and thus Ximenez's work represents the only source for scholarly studies." Quiroa, "Ideology" 282) This document would have been a phonetic rendering of an oral recitation performed in or around Santa Cruz del Quiché shortly following Pedro de Alvarado's 1524 conquest. By comparing the genealogy at the end of Popol Vuh with dated colonial records, Adrián Recinos and Dennis Tedlock suggest a date between 1554 and 1558. Recinos 30-31 (1947); Goetz 22-23(1950); Tedlock 56 (1996) But to the extent that the text speaks of a "written" document, Woodruff cautions that "critics appear to have taken the text of the first folio recto too much at face value in drawing conclusions about Popol Vuh's survival." Woodruff, "Ma(r)king Popol Vuh" 104 If there was an early post-conquest document, one theory (first proposed by Rudolf Schuller) ascribes the phonetic authorship to Diego Reynoso, one of the signatories of the Título de Totonicapán. Recinos 34; Goetz 27; see also Akkeren 2003 and Tedlock 1996. Another possible author could have been Don Cristóbal Velasco, who, also in Titulo de Totonicapán, is listed as "Nim Chokoh Cavec" ('Great Steward of the Kaweq'). Christenson 2004 After the list of rulers, the narrative recounts that the three Great Stewards of the principal ruling K'iche' lineages were "the mothers of the word, and the fathers of the word"; and the "word" has been interpreted by some to mean the Popol Vuh itself. Since a prominent place is given to the Kaweq lineage at the end of Popol Vuh, the author / scribe / narrator / storyteller may have belonged to this lineage as opposed to another K'iche' lineage. In either case, the colonial presence is clear in Popol Vuh's preamble: "This we shall write now under the Law of God and Christianity; we shall bring it to light because now the Popol Vuh, as it is called, cannot be seen any more, in which was clearly seen the coming from the other side of the sea and the narration of our obscurity, and our life was clearly seen." Goetz 79-80 Accordingly, the need to "preserve" the content presupposes an imminent disappearance of the content, and therefore, Edmonson theorized a pre-conquest glyphic codex. No evidence of such a codex has yet been found.
+
+A minority, however, disputes the existence of pre-Ximénez texts on the same basis that is used to argue their existence. Both positions are based on two statements by Ximénez. The first of these comes from Historia de la provincia where Ximénez writes that he found various texts during his curacy of Santo Tomás Chichicastenango that were guarded with such secrecy "that not even a trace of it was revealed among the elder ministers" although "almost all of them have it memorized." "y así determiné el trasuntar de verbo ad verbum todas sus historias como las traduje en nuestra lengua castellana de la lengua quiché, en que las hallé escritas desde el tiempo de la conquista, que entonces (como allí dicen), las redujeron de su modo de escribir al nuestro; pero fue con todo sigilo que conservó entre ellos con tanto secreto, que ni memoria se hacía entre los ministros antiguos de tal cosa, e indagando yo aqueste punto, estando en el curato de Santo Tomás Chichicastenango, hallé que era la doctrina que primero mamaban con la leche y que todos ellos casi lo tienen de memoria y descubrí que de aquestos libros tenían muchos entre sí "(Ximenez 1999 p.73; English translation by WP contributor) The second passage used to argue pre-Ximénez texts comes from Ximénez's addendum to "Popol Vuh." There he states that many of the natives' practices can be "seen in a book that they have, something like a prophecy, from the beginning of their days, where they have all the months and signs corresponding to each day, one of which I have in my possession." "Y esto lo ven en un libro que tienen como pronostico desde el tiempo de su gentilidad, donde tienen todos los meses y signos correspondientes á cada dia, que uno de ellos tengo en mi poder" (Scherzer 1857; English translation by WP contributor). This passage is found in Escolios a las historias as appearing on p. 160 of Scherzer's edition. Scherzer explains in a footnote that what Ximénez is referencing "is only a secret calendar" and that he himself had "found this rustic calendar previously in various indigenous towns in the Guatemalan highlands" during his travels with Wagner. "El libro que el padre Ximenez menciona, no es mas que una formula cabalistica, segun la cual los adivinos engañadores pretendían pronosticar y explicar ciertos eventos. Yo encontré este calendario gentilico ya en diversos pueblos de indios en los altos de Guatemala." This presents a contradiction because the item which Ximénez has in his possession is not Popol Vuh, and a carefully guarded item is not likely to have been easily available to Ximénez. Apart from this, Woodruff surmises that because "Ximenez never discloses his source, instead inviting readers to infer what they wish , it is plausible that there was no such alphabetic redaction among the Indians. The implied alternative is that he or another missionary made the first written text from an oral recitation." Woodruff 104 
+
+==Antecedents in Maya iconography==
+Contemporary archaeologists (first of all Michael D. Coe) have found depictions of characters and episodes from Popol Vuh on Maya ceramics and other art objects (e.g., the Hero Twins, Howler Monkey Gods, the shooting of Vucub-Caquix and, as many believe, the restoration of the Twins' dead father, Hun Hunahpu). Chinchilla Mazariegos 2003 The accompanying sections of hieroglyphical text could thus, theoretically, relate to passages from the Popol Vuh. More recently, Richard D. Hansen has found at the site of El Mirador El Mirador, the Lost City of the Maya, Smithsonian Magazine, May 2011 a stucco frieze showing two floating figures that might represent the Hero Twins. AuthenticMaya.com, . CNN report, October 14, 2009, . CNN report, November 1, 2009, . Full series of CNN reports on recent Mirador discoveries, 
+
+Following the Twin Hero narrative, man is made from white and yellow corn, demonstrating the crop's transcendent importance in Maya culture. To the Maya of the Classic period, Hun Hunahpu may have represented the maize god; his decapitated head became a calabash, or, as some believe, a cacao pod, or an ear of corn. In this line, decapitation and sacrifice correspond to harvesting corn and the sacrifices accompanying planting and harvesting. Heather Irene McKillop, The Ancient Maya: New Perspectives (London: W.W. Norton & Co., 2006), 214. Planting and harvesting also relate to Maya astronomy and calendar, since the cycles of the moon and sun determined the crop seasons. McKillop, 214. 
+
+==Popol Vuh today==
+
+===Modern editions===
+Since Brasseur's and Scherzer's first editions, the Popol Vuh has been translated into many other languages besides its original K'iche'. Schultze Jena 1944 The Spanish edition by Adrián Recinos is still a major reference, as is Recino's English translation by Delia Goetz. Other English translations Low 1992 include those of Munro Edmonson (1985) and Dennis Tedlock (1985, 1996). Tedlock's version is notable because it builds on commentary and interpretation by a modern K'iche' daykeeper, Andrés Xiloj. Augustín Estrada Monroy published a facsimile edition in the 1970s and Ohio State University has a digital version and transcription online. Modern transcriptions of the K'iche' text have been published by, among others, Sam Colop (1999) and Allen J. Christenson (2004). The tale of Hunahpu and Xbalanque has also been rendered as an hour-long animated film by Patricia Amlin.
+
+===Contemporary culture===
+The Popol Vuh continues to be an important part in the belief system of many K'iche'. Although Catholicism is generally seen as the dominant religion, some believe that many natives practice a syncretic blend of Christian and indigenous beliefs. Some stories from the Popol Vuh continued to be told by modern Maya as folk legends; some stories recorded by anthropologists in the 20th century may preserve portions of the ancient tales in greater detail than the Ximénez manuscript. On August 22, 2012, the Popol Vuh was declared intangible cultural heritage of Guatemala by the Guatemalan Ministry of Culture. http://www.publinews.gt/index.php/popol-vuh-es-declarado-patrimonio-cultural-intangible/ 
+
+===Reflections in Western culture===
+Since its rediscovery by Europeans in the 19th century, the Popol Vuh has attracted the attention of many authors. For example, the myths and legends included in Louis L'Amour's novel The Haunted Mesa are largely based on the Popol Vuh. The planet of Camazotz in Madeleine L'Engel's A Wrinkle in Time is named for the bat-god of the hero-twins story. The text was also used by German film director Werner Herzog as extensive narration for the first chapter of his movie Fata Morgana (released 1972).
+In 1934, the Franco-American early avant-garde composer Edgard Varèse wrote his Ecuatorial - a setting of words from the Popol Vuh for bass soloist and various instruments. The Argentinian composer Alberto Ginastera began writing his opus 44 symphonic work 'Popol Vuh' in 1975, but left the work incomplete at his death in 1983.
+
+In Munich, Germany in 1969, keyboardist Florian Fricke — at the time ensconced in Mayan myth—formed a band named Popol Vuh with synth player Frank Fiedler and percussionist Holger Trulzsch. Their 1970 debut album, Affenstunde, reflected this spiritual connection. The band is notable especially for its extremely early experimentation with forms that became popularized through the modern electronic, new age/ambient music that was to follow years later. They also worked together with Werner Herzog for 5 of his movies. Another band by the same name, this one of Norwegian descent, formed around the same time, its name also inspired by the K'iche' writings.
+
+==See also==
+*Recently discovered ancient murals at El Mirador, Guatemala
+*Creation (1931). From the Collections at the Library of Congress
+
+==References==
+
+===Notes===
+
+===Bibliography===
+
+====Editions====
+
+*1857. 
+*1861. 
+*1944. ltze
+*1947. 
+*1950. 
+*1971. 
+*1973. 
+*1985. 
+*1999. 
+*2004. 
+*2007. 
+*2007. 
+*2014. 
+
+====Sources====
+
+*
+*
+* 
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+==External links==
+
+* Popol Wuj Archives, sponsored by the Department of Spanish and Portuguese at The Ohio State University, Columbus, Ohio, and the Center for Latin American Studies at OSU.
+* A facsimile of the earliest preserved manuscript, in Quiché and Spanish, hosted at The Ohio State University Libraries.
+* The original Quiché text with line-by-line English translation Allen J. Christenson edition
+* An English translation by Allen J. Christenson.
+* Text in English Goetz-Morley translation after Recinos
+*A link to sections of the animated depiction by Patricia Amlin.
+
+

@@ -1,0 +1,85 @@
+[[Triphenylphosphine]]
+
+Triphenylphosphine (IUPAC name: triphenylphosphane) is a common organophosphorus compound with the formula P(C6H5)3 - often abbreviated to PPh3 or Ph3P. It is widely used in the synthesis of organic and organometallic compounds. PPh3 exists as relatively air stable, colorless crystals at room temperature. It dissolves in non-polar organic solvents such as benzene and diethyl ether.
+
+==Preparation, structure, handling==
+Triphenylphosphine is a relatively inexpensive substance. It can be prepared in the laboratory by treatment of phosphorus trichloride with phenylmagnesium bromide or phenyllithium. The industrial synthesis involves the reaction between phosphorus trichloride, chlorobenzene, and sodium.: 
+
+::PCl3 + 3PhCl + 6Na → PPh3 + 6NaCl
+
+PPh3 is pyramidal with a chiral propeller-like arrangement of the three phenyl rings. The rigidity of PPh3 contributes to the ease with which its derivatives crystallize.
+
+==Principal reactions with chalcogens, halogens, and acids==
+Triphenylphosphine undergoes slow oxidation by air to give triphenylphosphine oxide, Ph3PO:
+:2 PPh3 + O2 → 2 OPPh3
+This impurity can be removed by recrystallisation of PPh3 from either hot ethanol or hot isopropanol. This method capitalizes on the fact that OPPh3 is more polar and hence more soluble in polar solvents than PPh3. 
+
+Triphenylphosphine abstracts sulfur from polysulfide compounds, episulfides, and elemental sulfur. Simple organosulfur compounds such as thiols and thioethers are unreactive, however. The phosphorus-containing product is triphenylphosphine sulfide, Ph3PS. This reaction can be employed to assay the "labile" S0 content of a sample, say vulcanized rubber. Triphenylphosphine selenide, Ph3PSe, may be easily prepared via treatment of PPh3 with red (alpha-monoclinic) Se. Salts of selenocyanate, SeCN−, are used as the Se0 source. PPh3 can also form an adduct with Te, although this adduct primarily exists as (Ph3P)2Te rather than PPh3Te. 
+
+Aryl azides react with PPh3 to give phosphanimines, analogues of OPPh3, via the Staudinger reaction:
+:PPh3 + PhN3 → PhNPPh3 + N2
+The phosphanimine can be hydrolyzed to the amine. Typically the intermediate phosphanimine is not isolated.
+:PPh3 + RN3 + H2O → OPPh3 + N2 + RNH2
+
+Cl2 adds to PPh3 to give triphenylphosphine dichloride (Cl), which exists as the moisture-sensitive phosphonium halide, This reagent is used to convert alcohols to alkyl chlorides in organic synthesis.
+
+PPh3 is a weak base, but does form stable salts with strong acids such as HBr. The product contains the phosphonium cation +.
+
+==Principal organic reactions==
+PPh3 is widely used in organic synthesis. The properties that guide its usage are its nucleophilicity and its reducing character. The nucleophilicity of PPh3 is indicated by its reactivity toward electrophilic alkenes, such as Michael-acceptors, and alkyl halides. It is also used in the synthesis of biaryl compounds, such as the Suzuki reaction.
+
+===Quaternization===
+PPh3 combines with most alkyl halides to give phosphonium salts. The facility of the reaction follows the usual pattern whereby alkyl iodides and benzylic and allylic halides are particularly efficient reactants:
+:PPh3 + CH3I → +I−
+These salts, which are readily isolated as crystalline solids, react with strong bases to form ylides:
+:440px
+Such ylides are key reagents in the Wittig reactions, used to convert aldehydes and ketones into alkenes. Nickel salts are required to react PPh3 with PhBr to give Br. The tetraphenylphosphonium cation is widely used to prepare crystallizable lipophilic salts.
+
+===Mitsunobu reaction===
+In this reaction, a mixture of PPh3 and diisopropyl azodicarboxylate ("DIAD", or its diethyl analogue, DEAD) converts an alcohol and a carboxylic acid to an ester. The DIAD is reduced as it serves as the hydrogen acceptor, and the PPh3 is oxidized to OPPh3.
+
+===Appel reaction===
+In this reaction, PPh3 and CX4 (X = Cl, Br) are used to convert alcohols to alkyl halides, forming OPPh3 as a byproduct.
+:PPh3 + CBr4 + RCH2OH → OPPh3 + RCH2Br + HCBr3
+This reaction commences with nucleophilic attack of PPh3 on CBr4, an extension of the quaternization reaction listed above.
+
+===Deoxygenation===
+The easy oxygenation of PPh3 is exploited in its use to deoxygenate organic peroxides, which generally occurs with retention of configuration:
+:PPh3 + RO2H → OPPh3 + ROH (R = alkyl)
+
+It is also used for the decomposition of organic ozonides to ketones and aldehydes, although dimethyl sulfide is more popular for the reaction as the side product, dimethyl sulfoxide is more readily separated from the reaction mixture than triphenylphosphine oxide. Aromatic N-oxides are reduced to the corresponding amine in high yield at room temperature with irradiation: 
+
+: of an aromatic amine oxide using triphenylphosphine.png|500px|]
+
+===Sulfonation - access to water-soluble phosphine ligands===
+Sulfonation of PPh3 gives tris(3-sulfophenyl)phosphine, P(C6H4-3-SO3-)3. This anionic phosphine is usually isolated as the trisodium salt and is known as TPPTS. In contrast to PPh3, TPPTS is water soluble as are its metal derivatives. Rhodium complexes of TPPTS are used in certain industrial hydroformylation reactions because the water-soluble catalyst is readily separated from the organic products. 
+
+==Principal transition metal derivatives==
+Triphenylphosphine binds well to most transition metals, especially those in the middle and late transition metals of groups 7–10. In terms of steric bulk, PPh3 has a cone angle of 145°, which is intermediate between those of P(C6H11)3 (170°) and P(CH3)3 (115°). In an early application in homogeneous catalysis, NiBr2(PPh3)2 was used by Walter Reppe for the synthesis of acrylate esters from alkynes, carbon monoxide, and alcohols. * Wilkinson's further popularized the use of PPh3, including the then revolutionary hydroformylation catalyst RhH(PPh3)2(CO)2.
+
+It is telling that the corresponding triphenylamine shows little tendency to bind to metals. The difference between the coordinating power of PPh3 and NPh3 reflects the greater steric crowding around the nitrogen atom, which is smaller and favors a more tetrahedral geometry. Far more similar to PPh3 in terms of its coordinating properties is triphenylarsine, AsPh3.
+
+An important technique for the characterization of metal-PPh3 compounds is 31P NMR spectroscopy. Substantial shifts occur upon complexation and31P-31P spin-spin coupling can provide insight into the structure of complexes containing multiple phosphine ligands.
+
+Illustrative PPh3 complexes:
+*tetrakis(triphenylphosphine)palladium(0) is widely used to catalyse C-C coupling reactions in organic synthesis, see Heck reaction.
+*Wilkinson's catalyst, RhCl(PPh3)3 is a square planar Rh(I) complex of historical significance used to catalyze the hydrogenation of alkenes.
+*Vaska's complex, trans-IrCl(CO)(PPh3)2, is also historically significant; it was used to establish the scope of oxidative addition reactions. This early work provided the insights that led to the flowering of the area of homogeneous catalysis.
+*NiCl2(PPh3)2 is a tetrahedral (spin triplet) complex of Ni(II). In contrast PdCl2(PPh3)2 is square planar.
+*Stryker's reagent, 6, PPh3-stabilized transition metal hydride cluster that used as a reagent for "conjugate reductions."
+
+==Organophosphorus chemistry==
+
+===Conversion to PPh2 derivatives===
+Triphenylphosphine is commonly employed as a precursor to other organophosphines. Lithium in THF and Na or K in NH3 react with PPh3 to give Ph2PM (M = Li, Na, K). These reactions generate equal amounts of phenyllithium (or sodium, potassium analogs thereof) C6H5M, which can be selectively converted to benzene by selective protonation. Treatment of the resulting alkali metal diphenylphosphide with an alkylating agent RX gives PRPh2. This method can be used to prepare such ligands as PMePh2, methyldiphenylphosphine. The corresponding reaction with dihaloalkanes gives bis(diphenylphosphino)alkanes. For example, 1,2-dibromoethane and Ph2PM react to give Ph2PCH2CH2PPh2, known as 1,2-bis(diphenylphosphino)ethane or dppe. Weak acids such ammonium chloride, converts Ph2PM (M = Li, Na, K) into Ph2PH, known as diphenylphosphine.
+
+===Polymer-anchored PPh3 derivatives===
+Polymeric analogues of PPh3 are known whereby polystyrene is modified with PPh2 groups at the para position. Such polymers can be employed in many of the applications used for PPh3 with the advantage that the polymer, being insoluble, can be separated from products by simple filtration of reaction slurries. Such polymers are prepared via treatment of 4-lithiophenyl-substituted polystyrene with chlorodiphenylphosphine (PPh2Cl).
+
+==References==
+ 
+
+==External links==
+*International Chemical Safety Card 0700
+
+

@@ -1,0 +1,64 @@
+[[Michael reaction]]
+
+The Michael reaction or Michael addition is the nucleophilic addition of a carbanion or another nucleophile Mather 2006 reprint to an α,β-unsaturated carbonyl compound. It belongs to the larger class of conjugate additions. This is one of the most useful methods for the mild formation of C–C bonds. Michael Addition | PharmaXChange.info Many asymmetric variants exist. 
+
+:Michael reaction: general mechanism
+
+In this scheme the R and R' substituents on the nucleophile (a Michael donor) are electron-withdrawing groups such as acyl and cyano making the methylene hydrogen acidic forming the carbanion on reaction with base B:. The substituent on the activated alkene, also called a Michael acceptor, is usually a ketone making it an enone, but it can also be a nitro group.
+
+== Definition ==
+As originally defined by Arthur Michael, the reaction is the addition of an enolate of a ketone or aldehyde to an α,β-unsaturated carbonyl compound at the β carbon. A newer definition, proposed by Kohler, Kohler. (J. Am. Chem. Soc., 1907, 37, 385; ibid., 1935, 57, 1316. is the 1,4-addition of a doubly stabilized carbon nucleophile to an α,β-unsaturated carbonyl compound. Some examples of nucleophiles include beta-ketoesters, malonates, and beta-cyanoesters. The resulting product contains a highly useful 1,5-dioxygenated pattern.
+
+Classical examples of the Michael reaction are the reaction between diethyl malonate (Michael donor) and diethyl fumarate (Michael acceptor), that of mesityl oxide and diethyl malonate, that of diethyl malonate and methyl crotonate, that of 2-nitropropane and methyl acrylate, that of ethyl phenylcyanoacetate and acrylonitrile and that of nitropropane and methyl vinyl ketone. 
+
+The Michael addition is an important atom-economical method for diastereoselective and enantioselective C–C bond formation. A classical tandem sequence of Michael and aldol additions is the Robinson annulation.
+
+== Mechanism ==
+The reaction mechanism is 1 (with R an alkoxy group) as the nucleophile: 
+
+:Michael reaction mechanism
+
+Deprotonation of 1 by base leads to carbanion 2 stabilized by its electron-withdrawing groups. Structures 2a to 2c are three resonance structures that can be drawn for this species, two of which have enolate ions. This nucleophile reacts with the electrophilic alkene 3 to form 4 in a conjugate addition reaction. Proton abstraction from protonated base (or solvent) by the enolate 4 to 5 is the final step.
+
+The course of the reaction is dominated by orbital, rather than electrostatic, considerations. The HOMO of stabilized enolates has a large coefficient on the central carbon atom while the LUMO of many alpha, beta unsaturated carbonyl compounds has a large coefficient on the beta carbon. Thus, both reactants can be considered soft. These polarized frontier orbitals are of similar energy, and react efficiently to form a new carbon–carbon bond.
+
+Like the aldol addition, the Michael reaction may proceed via an enol, silyl enol ether in the Mukaiyama-Michael addition, or more usually, enolate nucleophile. In the latter case, the stabilized carbonyl compound is deprotonated with a strong base (hard enolization) or with a Lewis acid and a weak base (soft enolization). The resulting enolate attacks the activated olefin with 1,4-regioselectivity, forming a carbon–carbon bond. This also transfers the enolate to the electrophile. Since the electrophile is much less acidic than the nucleophile, rapid proton transfer usually transfers the enolate back to the nucleophile if the product is enolizable; however, one may take advantage of the new locus of nucleophilicity if a suitable electrophile is pendant. Depending on the relative acidities of the nucleophile and product, the reaction may be catalytic in base. In most cases, the reaction is irreversible at low temperature.
+
+==Asymmetric Michael reaction==
+Recent research has focused on expanding the scope of asymmetric Michael additions. The most common methods involve chiral phase transfer catalysis, such as asymmetric quaternary ammonium salts derived from the Cinchona alkaloids; or organocatalysis, which uses enamine or iminium activation with chiral secondary amines, usually derived from proline.
+
+In the reaction between cyclohexanone and β-nitrostyrene sketched below, the base proline is derivatized and works in conjunction with a protic acid such as p-toluenesulfonic acid: 
+
+:Michael reaction asymmetric
+
+Syn addition is favored with 99% ee. In the transition state believed to be responsible for this selectivity, the enamine (formed between the proline nitrogen and the cycloketone) and β-nitrostyrene are co-facial with the nitro group hydrogen bonded to the protonated amine in the proline side group.
+
+:Asymmetric Michael transition state
+
+A well-known Michael reaction is the synthesis of warfarin from 4-hydroxycoumarin and benzylideneacetone first reported by Link in 1944: 
+
+:Warfarin synthesis
+
+Several asymmetric versions of this reaction exist using chiral catalysts. 
+
+==Mukaiyama-Michael addition==
+In the Mukaiyama-Michael addition the nucleophile is an silyl ether and the catalyst usually titanium tetrachloride: 
+
+Mukaiyama–Michael addition
+
+==History==
+The research done by Arthur Michael in 1887 was prompted by an 1884 publication by Conrad & Kuthzeit on the reaction of ethyl 2,3-dibromopropionate with diethyl sodiomalonate forming a cyclopropane derivative (now recognized as involving two successive substitution reactions).
+
+:
+
+Michael was able to obtain the same product by replacing the propionate by 2-bromacrylic acid ethylester and realized that this reaction could only work by assuming an addition reaction to the double bond of the acrylic acid. He then confirmed this assumption by reacting diethyl malonate and the ethyl ester of cinnamic acid forming the very first Michael adduct: 
+
+:The original 1887 Michael reaction
+
+In the same year Rainer Ludwig Claisen claimed priority for the invention. He and T. Komnenos had observed addition products to double bonds as side-products earlier in 1883 while investigating condensation reactions of malonic acid with aldehydes. However, according to biographer Takashi Tokoroyama, this claim is without merit.
+
+== References ==
+
+== External links ==
+
+

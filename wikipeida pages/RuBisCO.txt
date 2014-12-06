@@ -1,0 +1,90 @@
+[[RuBisCO]]
+
+Ribulose-1,5-bisphosphate carboxylase/oxygenase, commonly known by the abbreviation RuBisCO, is an enzyme involved in the first major step of carbon fixation, a process by which atmospheric carbon dioxide is converted by plants to energy-rich molecules such as glucose. In chemical terms, it catalyzes the carboxylation of ribulose-1,5-bisphosphate (also known as RuBP). It is probably the most abundant protein on Earth. (given that plants make up greater than 99% of the biomass on Earth.) 
+
+==RuBisCO vs alternative carbon fixation pathways==
+RuBisCO is important biologically because it catalyzes the primary chemical reaction by which inorganic carbon enters the biosphere. While many autotrophic bacteria and archaea fix carbon via the reductive acetyl CoA pathway, the 3-hydroxypropionate cycle, or the reverse Krebs cycle, these pathways are relatively smaller contributors to global carbon fixation than that catalyzed by RuBisCO. Phosphoenolpyruvate carboxylase, unlike RuBisCO, only temporarily fixes carbon. Reflecting its importance, RuBisCO is the most abundant protein in leaves, accounting for 50% of soluble leaf protein in plants (20–30% of total leaf nitrogen) and 30% of soluble leaf protein in plants (5–9% of total leaf nitrogen). Given its important role in the biosphere, the genetic engineering of RuBisCO in crops is of continuing interest (see below).
+
+==Structure==
+
+PDB structure 3rub: the ribulose-1,5-bisphosphate carboxylase/oxygenase from tobacco. 
+
+In plants, algae, cyanobacteria, and phototrophic and chemoautotrophic proteobacteria, the enzyme usually consists of two types of protein subunit, called the large chain (L, about 55,000 Da) and the small chain (S, about 13,000 Da). The large-chain gene (rbcL) is part of the chloroplast DNA molecule in plants. (Entrez GeneID: ) There are typically several related small-chain genes in the nucleus of plant cells, and the small chains are imported to the stromal compartment of chloroplasts from the cytosol by crossing the outer chloroplast membrane. Arabidopsis thaliana has four RuBisCO small chain genes. The pattern of how large chains and small chains assemble is illustrated in Figure 3 (right). The enzymatically active substrate (ribulose 1,5-bisphosphate) binding sites are located in the large chains that form dimers as shown in Figure 1 (above, right) in which amino acids from each large chain contribute to the binding sites. A total of eight large-chains (= 4 dimers) and eight small chains assemble into a larger complex of about 540,000 Da. Figure 1 (on this page, near top) shows another view of the structure. In some proteobacteria and dinoflagellates, enzymes consisting of only large subunits have been found. The structure of RuBisCO from the photosynthetic bacterium Rhodospirillum rubrum has been determined by X-ray crystallography, see: . A comparison of the structures of eukaryotic and bacterial RuBisCO is shown in the Protein Data Bank feature article on Rubisco. 
+
+Magnesium ions () are needed for enzymatic activity. Correct positioning of in the active site of the enzyme involves addition of an "activating" carbon dioxide molecule (dioxide|]) to a lysine in the active site (forming a carbamate). Molecular Cell Biology, 4th edition, by Harvey Lodish, Arnold Berk, S. Lawrence Zipursky, Paul Matsudaira, David Baltimore and James E. Darnell. Published by W. H. Freeman & Co. (2000) New York. Online textbook. Figure 16-48 shows a structural model of the active site, including the involvement of magnesium. The Protein Data Bank feature article on RuBisCO also includes a model of magnesium at the active site. Formation of the carbamate is favored by an alkaline pH. The pH and the concentration of magnesium ions in the fluid compartment (in plants, the stroma of the chloroplast The Lodish textbook describes the localization of RuBisCO to the stromal space of chloroplasts. Figure 17-7 illustrates how RuBisCO small subunits move into the chloroplast stroma and assemble with the large subunits. ) increases in the light. The role of changing pH and magnesium ion levels in the regulation of RuBisCO enzyme activity is discussed below.
+
+ 
+
+==Enzymatic activity==
+Figure 2. Overview of the Calvin cycle and carbon fixation
+As shown in Figure 2 (left), RuBisCO is one of many enzymes in the Calvin cycle.
+
+===Substrates===
+During carbon fixation, the substrate molecules for RuBisCO are ribulose-1,5-bisphosphate, carbon dioxide (distinct from the "activating" carbon dioxide). The chemical reactions catalyzed by RuBisCO are described in the online Biochemistry textbook by Stryer et al. RuBisCO also catalyses a reaction between ribulose-1,5-bisphosphate and molecular oxygen () instead of carbon dioxide ().
+
+===Products===
+When carbon dioxide is the substrate, the product of the carboxylase reaction is a highly unstable six-carbon phosphorylated intermediate known as 3-keto-2-carboxyarabinitol-1,5-bisphosphate, which decays virtually instantaneously into two molecules of glycerate-3-phosphate. The extremely unstable molecule created by the initial carboxylation was unknown until 1988, when it was isolated. The 3-phosphoglycerate can be used to produce larger molecules such as glucose. When molecular oxygen is the substrate, the products of the oxygenase reaction are phosphoglycolate and 3-phosphoglycerate. Phosphoglycolate is recycled through a sequence of reactions called photorespiration, which involves enzymes and cytochromes located in the mitochondria and peroxisomes. In this process, two molecules of phosphoglycolate are converted to one molecule of carbon dioxide and one molecule of 3-phosphoglycerate, which can reenter the Calvin cycle. Some of the phosphoglycolate entering this pathway can be retained by plants to produce other molecules such as glycine. At ambient levels of carbon dioxide and oxygen, the ratio of the reactions is about 4 to 1, which results in a net carbon dioxide fixation of only 3.5. Thus, the inability of the enzyme to prevent the reaction with oxygen greatly reduces the photosynthetic capacity of many plants. Some plants, many algae, and photosynthetic bacteria have overcome this limitation by devising means to increase the concentration of carbon dioxide around the enzyme, including carbon fixation, crassulacean acid metabolism, and the use of pyrenoid.
+
+===Rate of enzymatic activity===
+Some enzymes can carry out thousands of chemical reactions each second. However, RuBisCO is slow, being able to fix only 3-10 carbon dioxide molecules each second per molecule of enzyme. The reaction catalyzed by RuBisCO is, thus, the primary rate-limiting factor of the Calvin cycle during the day. Nevertheless, under most conditions, and when light is not otherwise limiting photosynthesis, the speed of RuBisCO responds positively to increasing carbon dioxide concentration.
+However, our descriptive knowledge will become more usable when we can translate them into quantitative models that can enable us to calculate the outcome of the reaction under a given condition. Since RubisCO reacts with RuBP (ribulose 1,5 bisphosphate) first to produces enediol and next with that after some intermediate changes produces PGA (3-phosphoglycerate), a biochemical model is developed to represent the effects of these steps quantitatively. Since carboxylation or fixation of is possible only after the synthesis of enediol, thus it is suggested that the role of RubisCO is to produce enediol that is carboxylase and oxygenase (EnCO). Accordingly, RubisCO is called enolase-phosphglycerase (EPGase) since it is neither carboxylase nor oxygenase.
+
+==Regulation of its enzymatic activity==
+RuBisCO is usually only active during the day as ribulose 1,5-bisphosphate is not regenerated in the dark. This is due to the regulation of several other enzymes in the Calvin cycle. In addition, the activity of RuBisCO is coordinated with that of the other enzymes of the Calvin cycle in several ways.
+
+===Regulation by ions===
+Upon illumination of the chloroplasts, the pH of the stroma rises from 7.0 to 8.0 because of the proton (hydrogen ion, ) gradient created across the thylakoid membrane. Figure 20.14 in the textbook by Stryer et al. illustrates the light-dependent movement of hydrogen and magnesium ions that are important for Light Regulation of the Calvin Cycle. The movement of protons into thylakoids is driven by light and is fundamental to ATP synthesis in chloroplasts. At the same time, magnesium ions () move out of the thylakoids, increasing the concentration of magnesium in the stroma of the chloroplasts. RuBisCO has a high optimal pH (can be >9.0, depending on the magnesium ion concentration) and, thus, becomes "activated" by the addition of carbon dioxide and magnesium to the active sites as described above.
+
+===Regulation by RuBisCO activase===
+In plants and some algae, another enzyme, RuBisCO activase, is required to allow the rapid formation of the critical carbamate in the active site of RuBisCO. RuBisCO activase is required because the ribulose 1,5-bisphosphate (RuBP) substrate binds more strongly to the active sites lacking the carbamate and markedly slows down the "activation" process. In the light, RuBisCO activase promotes the release of the inhibitory, or — in some views — storage RuBP from the catalytic sites. Activase is also required in some plants (e.g., tobacco and many beans) because, in darkness, RuBisCO is inhibited (or protected from hydrolysis) by a competitive inhibitor synthesized by these plants, a substrate analog 2-Carboxy-D-arabitinol 1-phosphate (CA1P). CA1P binds tightly to the active site of carbamylated RuBisCO and inhibits catalytic activity. In the light, RuBisCO activase also promotes the release of CA1P from the catalytic sites. After the CA1P is released from RuBisCO, it is rapidly converted to a non-inhibitory form by a light-activated CA1P-phosphatase. Finally, once every several hundred reactions, the normal reactions with carbon dioxide or oxygen are not completed, and other inhibitory substrate analogs are formed in the active site. Once again, RuBisCO activase can promote the release of these analogs from the catalytic sites and maintain the enzyme in a catalytically active form. The properties of activase limit the photosynthetic potential of plants at high temperatures. CA1P has also been shown to keep RuBisCO in a conformation that is protected from proteolysis. At high temperatures, RuBisCO activase aggregates and can no longer activate RuBisCO. This contributes to the decreased carboxylating capacity observed during heat stress. 
+
+===Regulation by ATP/ADP and stromal reduction/oxidation state through the activase===
+The removal of the inhibitory RuBP, CA1P, and the other inhibitory substrate analogs by activase requires the consumption of ATP. This reaction is inhibited by the presence of ADP, and, thus, activase activity depends on the ratio of these compounds in the chloroplast stroma. Furthermore, in most plants, the sensitivity of activase to the ratio of ATP/ADP is modified by the stromal reduction/oxidation (redox) state through another small regulatory protein, thioredoxin. In this manner, the activity of activase and the activation state of RuBisCO can be modulated in response to light intensity and, thus, the rate of formation of the ribulose 1,5-bisphosphate substrate. 
+
+===Regulation by phosphate===
+In cyanobacteria, inorganic phosphate (Pi) participates in the co-ordinated regulation of photosynthesis. Pi binds to the RuBisCO active site and to another site on the large chain where it can influence transitions between activated and less active conformations of the enzyme. Activation of bacterial RuBisCO might be particularly sensitive to Pi levels, which can act in the same way as RuBisCO activase in higher plants. 
+
+===Regulation by carbon dioxide===
+Since carbon dioxide and oxygen compete at the active site of RuBisCO, carbon fixation by RuBisCO can be enhanced by increasing the carbon dioxide level in the compartment containing RuBisCO (chloroplast stroma). Several times during the evolution of plants, mechanisms have evolved for increasing the level of carbon dioxide in the stroma (see carbon fixation). The use of oxygen as a substrate appears to be a puzzling process, since it seems to throw away captured energy. However, it may be a mechanism for preventing overload during periods of high light flux. This weakness in the enzyme is the cause of photorespiration, such that healthy leaves in bright light may have zero net carbon fixation when the ratio of to reaches a threshold at which oxygen is fixed instead of carbon. This phenomenon is primarily temperature-dependent. High temperature decreases the concentration of dissolved in the moisture in the leaf tissues. This phenomenon is also related to water stress. Since plant leaves are evaporatively cooled, limited water causes high leaf temperatures. plants use the enzyme PEP carboxylase initially, which has a higher affinity for . The process first makes a 4-carbon intermediate compound, which is shuttled into a site of photosynthesis then de-carboxylated, releasing to boost the concentration of , hence the name plants.
+
+Crassulacean acid metabolism (CAM) plants keep their stomata (on the underside of the leaf) closed during the day, which conserves water but prevents the light-independent reactions (a.k.a the Calvin Cycle) from taking place, since these reactions require to pass by gas exchange through these openings. Evaporation through the upper side of a leaf is prevented by a layer of wax.
+
+==Genetic engineering==
+Since RuBisCO is often rate-limiting for photosynthesis in plants, it may be possible to improve photosynthetic efficiency by modifying RuBisCO genes in plants to increase its catalytic activity and/or decrease the rate of the oxygenation activity. This could improve biosequestration of and be an important climate change strategy. Approaches that have begun to be investigated include expressing RuBisCO genes from one organism in another organism, increasing the level of expression of RuBisCO subunits, expressing RuBisCO small chains from the chloroplast DNA, and altering RuBisCO genes so as to try to increase specificity for carbon dioxide or otherwise increase the rate of carbon fixation. 
+
+One avenue is to introduce RuBisCO variants with naturally high specificity values such as the ones from the red alga Galdieria partita into plants. This might be expected to improve the photosynthetic efficiency of crop plants although possible negative impacts have yet to be studied. Advances in this area include the replacement of the tobacco enzyme with that of the purple photosynthetic bacterium Rhodospirillum rubrum. 
+
+A recent theory explores the trade-off between the relative specificity (i.e., ability to favour fixation over incorporation, which leads to the energy-wasteful process of photorespiration) and the rate at which product is formed. The authors conclude that RuBisCO may actually have evolved to reach a point of 'near-perfection' in many plants (with widely varying substrate availabilities and environmental conditions), reaching a compromise between specificity and rate of reaction. 
+
+Since photosynthesis is the single most effective natural regulator of carbon dioxide in the Earth's atmosphere, a biochemical model of RuBisCO reaction is used as the core module of climate change models. Thus, a correct model of this reaction is essential to the basic understanding of the relations and interactions of environmental models. A new theory and model of the biochemical reaction of photosynthesis and the draw-backs of today's most widely used model of photosynthesis is discussed in the new volume of Advances in Photosynthesis and Respiration (chapter 12). 
+
+==History of the term RuBisCO==
+The term "RuBisCO" was coined humorously in 1979, by David Eisenberg at a seminar honouring the retirement of the early, prominent RuBisCO researcher, Sam Wildman, and also alluded to the snack food trade name "Nabisco" in reference to Wildman's attempts to create edible tobacco leaves. Also was a nickname for Eshan Sonpal and David Apgar. 
+
+==See also==
+
+*Carbon cycle
+*Photorespiration
+*Pyrenoid
+
+*C4 carbon fixation
+*Crassulacean acid metabolism/CAM photosynthesis
+*Carboxysome
+
+==References==
+Figure 3. In this figure, each protein chain in the (LS)2 complex is given its own color for easy identification.
+4. Charged domains blue(+) on [http://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?form=6&db=t&Dopt=s&uid=30476 RuBisCO allow it to assemble into tightly packed multi-meric complexes, maximizing the number of copies of this inefficient enzyme inside plant cells.]]
+
+==Further reading==
+
+*
+*
+* 
+* 
+
+==External links==
+*See here for the mechanism of the RuBisCO-catalysed reaction
+*Rubisco: RCSB PDB Molecule of the Month
+*The Plant Kingdom's sloth: Protein Spotlight article on the "slothful" enzyme Rubisco
+
+

@@ -1,0 +1,148 @@
+[[Congenital heart defect]]
+
+Congenital heart defect (CHD) or congenital heart anomaly is a defect in the structure of the heart and great vessels which is present at birth. Many types of heart defects exist, most of which either obstruct blood flow in the heart or vessels near it, or cause blood to flow through the heart in an abnormal pattern. Other defects, such as long QT syndrome, affect the heart's rhythm. Heart defects are among the most common birth defects and are the leading cause of birth defect-related deaths. Approximately 9 people in 1000 are born with a congenital heart defect. Many defects do not need treatment, but some complex congenital heart defects require medication or surgery.
+
+==Signs and symptoms==
+Digital clubbing with cyanotic nail beds in an adult with tetralogy of Fallot
+Signs and symptoms are related to type and severity of the heart defect. Symptoms frequently present early in life, but it is possible for some CHDs to go undetected throughout life. Some children have no signs while others may exhibit shortness of breath, cyanosis, syncope, heart murmur, under-development of limbs and muscles, poor feeding or growth, or respiratory infections. Congenital heart defects cause abnormal heart structure resulting in production of certain sounds called heart murmur. These can sometimes be detected by auscultation; however, not all heart murmurs are caused by congenital heart defects.
+
+===Associated symptoms===
+
+Congenital heart defects are associated with an increased incidence of some other symptoms, together being called the VACTERL association:
+* V — Vertebral anomalies
+* A — Anal atresia
+* C — Cardiovascular anomalies
+* T — Tracheoesophageal fistula
+* E — Esophageal atresia
+* R — Renal (Kidney) and/or radial anomalies
+* L — Limb defects
+
+Ventricular septal defect (VSD), atrial septal defects, and tetralogy of Fallot are the most common congenital heart defects seen in the VACTERL association. Less common defects in the association are truncus arteriosus and transposition of the great arteries.
+
+==Causes==
+The cause of congenital heart disease may be either genetic or environmental, but is usually a combination of both. 
+
+===Genetic===
+Most of the known causes of congenital heart disease are sporadic genetic changes, either focal mutations or deletion or addition of segments of DNA. Large chromosomal abnormalities such as trisomies 21, 13, and 18 cause about 5–8% of cases of CHD, with trisomy 21 being the most common genetic cause. Small chromosomal abnormalities also frequently lead to congenital heart disease, and examples include microdeletion of the long arm of chromosome 22 (22q11, DiGeorge syndrome), the long arm of chromosome 1 (1q21), the short arm of chromosome 8 (8p23) and many other, less recurrent regions of the genome, as shown by high resolution genome-wide screening (Array comparative genomic hybridization). A database of genes involved in congenital heart defects is available as the collaborative knowledge base CDHWiki.
+
+The genes regulating the complex developmental sequence have only been partly elucidated. Some genes are associated with specific defects. A number of genes have been associated with cardiac manifestations. Mutations of a heart muscle protein, α-myosin heavy chain (MYH6) are associated with atrial septal defects. Several proteins that interact with MYH6 are also associated with cardiac defects. The transcription factor GATA4 forms a complex with the TBX5 which interacts with MYH6. Another factor, the homeobox (developmental) gene, NKX2-5 also interacts with MYH6. Mutations of all these proteins are associated with both atrial and ventricular septal defects; In addition, NKX2-5 is associated with defects in the electrical conduction of the heart and TBX5 is related to the Holt-Oram syndrome which includes electrical conduction defects and abnormalities of the upper limb. Another T-box gene, TBX1, is involved in velo-cardio-facial syndrome DiGeorge syndrome, the most common deletion which has extensive symptoms including defects of the cardiac outflow tract including tetralogy of Fallot. 
+
++Examples of gene products and associated features 
+ MYH6 GATA4 NKX2-5 TBX5 TBX1 
+ Locus 14q11.2-q13 8p23.1-p22 5q34 12q24.1 22q11.2 
+ Syndrome Holt-Oram DiGeorge 
+ Atrial septal defects 
+ Ventricular septal defects 
+ Electrical conduction abnormalities 
+ Outflow tract abnormalities 
+ Non-cardiac manifestations Upper limb abnormalities Small or absent thymus Small or absent parathyroids Facial abnormalities 
+
+The notch signaling pathway, a regulatory mechanism for cell growth and differentiation, plays broad roles in several aspects of cardiac development. Notch elements are involved in determination of the right and left sides of the body plan, so the directional folding of the heart tube can be impacted. Notch signaling is involved early in the formation of the endocardial cushions and continues to be active as the develop into the septa and valves. It is also involved in the development of the ventricular wall and the connection of the outflow tract to the great vessels. Mutations in the gene for one of the notch ligands, Jagged1, are identified in the majority of examined cases of arteriohepatic dysplasia (Alagille syndrome), characterized by defects of the great vessels (pulmonary artery stenosis), heart (tetralogy of Fallot in 13% of cases), liver, eyes, face, and bones. Though less than 1% of all cases, where no defects are found in the Jagged1 gene, defects are found in Notch2 gene. In 10% of cases, no mutation is found in either gene. For another member of the gene family, mutations in the Notch1 gene are associated with bicuspid aortic valve, a valve with two leaflets instead of three. Notch1 is also associated with calcification of the aortic valve, the third most common cause of heart disease in adults. 
+
+Mutations of a cell regulatory mechanism, the Ras/MAPK pathway are responsible for a variety of syndromes, including Noonan syndrome, LEOPARD syndrome, Costello syndrome and cardiofaciocutaneous syndrome in which there is cardiac involvement. While the conditions listed are known genetic causes, there are likely many other genes which are more subtle. It is known that the risk for congenital heart defects is higher when there is a close relative with one. 
+
+===Environmental===
+Known antenatal environmental factors include maternal infections (Rubella), drugs (alcohol, hydantoin, lithium and thalidomide) and maternal illness (diabetes mellitus, phenylketonuria, and systemic lupus erythematosus). 
+
+====Maternal obesity====
+As noted in several studies following similar body mass index (BMI) ranges, prepregnant and gestating women, who were obese (BMI ≥ 30), carried a statistically significant risk of birthing children with congenital heart defects (CHD) compared to normal-weight women (BMI= 19–24.9). Although there are minor conflicting reports, there was significant support for the risk of fetal CHD development in overweight mothers (BMI= 25-29.9). Additionally, as maternal obesity increased, the risk of heart defects did too indicating a trend between BMI and CHD odds. Altogether, these results present reasonable concern for women to achieve a normal-weight BMI prior to pregnancy to help decrease risk for fetal heart defects.
+ 
+A distinct physiological mechanism has not been identified to explain the link between maternal obesity and CHD, but both prepregnancy folate deficiency and diabetes have been implicated in some studies. Identification of the mechanism could aid health officials to develop reduction strategies and curb CHD’s prevalence in this preventable situation.
+
+==Embryology==
+
+There is a complex sequence of events that result in a well formed heart at birth and disruption of any portion may result in a defect. The orderly timing of cell growth, cell migration, and programmed cell death ("apoptosis") has been studied extensively and the genes that control the process are being elucidated. 
+Around day 15 of development, the cells that will become the heart exist in two horseshoe shaped bands of the middle tissue layer (mesoderm), and some cells migrate from a portion of the outer layer (ectoderm), the neural crest, which is the source of a variety of cells found throughout the body. On day 19 of development, a pair of vascular elements, the "endocardial tubes", form. The tubes fuse when cells between then undergo programmed death and cells from the first heart field migrate to the tube, and form a ring of heart cells (myocytes) around it by day 21. On day 22, the heart begins to beat and by day 24, blood is circulating. 
+
+At day 22, the circulatory system is bilaterally symmetrical with paired vessels on each side and the heart consisting of a simple tube located in the midline of the body layout. The portions that will become the atria and will be located closest to the head are the most distant from the head. From days 23 through 28, the heart tube folds and twists, with the future ventricles moving left of center (the ultimate location of the heart) and the atria moving towards the head. 
+
+On day 28, areas of tissue in the heart tube begin to expand inwards; after about two weeks, these expansions, the membranous "septum primum" and the muscular "endocardial cushions", fuse to form the four chambers of the heart. A failure to fuse properly will result in a defect that may allow blood to leak between chambers. After this happens, cells which have migrated from the neural crest begin to divide the bulbus cordis, the main outflow tract is divided in two by the growth a spiraling septum, becoming the great vessels—the ascending segment of the aorta and the pulmonary trunk. If the separation is incomplete, the result is a "persistent truncus arteriosis". The vessels may be reversed ("transposition of the great vessels"). The two halves of the split tract must migrate into the correct positions over the appropriate ventricles. A failure may result in some blood flowing into the wrong vessel (e.g.overriding aorta). The four-chambered heart and the great vessels have features required for fetal growth. The lungs are unexpanded and cannot accommodate the full circulatory volume. Two structures exist to shunt blood flow away from the lungs. Cells in part of the septum primum die creating a hole while muscle cells, the "septum secundum", grow along the right atrial side the septum primum, except for one region, leaving a gap through which blood can pass from the right artium to the left atrium, the foramen ovale. A small vessel, the ductus arteriosusallows blood from the pulmonary artery to pass to the aorta. 
+
+===Changes at birth===
+The ductus arteriosus stays open because of circulating factors including prostaglandins. The foramen ovale stays open because of the flow of blood from the right atrium to the left atrium. As the lungs expand, blood flows easily through the lungs and the membranous portion of the foramen ovale (the septum primum) flops over the muscular portion (the septum secundum). If the closure is incomplete, the result is a patent foramen ovale. The two flaps may fuse, but many adults have a foramen ovale that stays closed only because of the pressure difference between the atria. 
+
+===Theories===
+Rokitansky (1875) explained congenital heart defects as breaks in heart development at various ontogenesis stages. Rokitarisky K. E. (1875) Die defecte der Scheidewande des Herzens. Wien. Spitzer (1923) treats them as returns to one of the phylogenesis stages. Spitzer A. (1923) Arch. Pathol. Anat. 243, 81–272. Krimsky (1963), synthesizing two previous points of view, considered congenital heart diseases as a stop of development at the certain stage of ontogenesis, corresponding to this or that stage of the phylogenesis. Krimski L. D. (1963) Pathological anatomy of congenital heart defects and complications after their surgical treatment. M., Medicine. Hence these theories can explain feminine and neutral types of defects only.
+
+==Classification==
+A number of classification systems exist for congenital heart defects. In 2000 the International Congenital Heart Surgery Nomenclature was developed to provide a generic classification system. 
+ 
+
+===Hypoplasia===
+
+Hypoplasia can affect the heart, typically resulting in the underdevelopment of the right ventricle or the left ventricle. This causes only one side of the heart to be capable of pumping blood to the body and lungs effectively. Hypoplasia of the heart is rare but is the most serious form of CHD. It is called hypoplastic left heart syndrome when it affects the left side of the heart and hypoplastic right heart syndrome when it affects the right side of the heart. In both conditions, the presence of a patent ductus arteriosus (and, when hypoplasia affects the right side of the heart, a patent foramen ovale) is vital to the infant's ability to survive until emergency heart surgery can be performed, since without these pathways blood cannot circulate to the body (or lungs, depending on which side of the heart is defective). Hypoplasia of the heart is generally a cyanotic heart defect. 
+
+===Obstruction defects===
+
+Obstruction defects occur when heart valves, arteries, or veins are abnormally narrow or blocked. Common defects include pulmonic stenosis, aortic stenosis, and coarctation of the aorta, with other types such as bicuspid aortic valve stenosis and subaortic stenosis being comparatively rare. Any narrowing or blockage can cause heart enlargement or hypertension. 
+
+===Septal defects===
+The septum is a wall of tissue which separates the left heart from the right heart. Defects in the interatrial septum or the interventricular septum allow blood to flow from the right side of the heart to the left, reducing the heart's efficiency. Ventricular septal defects are collectively the most common type of CHD, although approximately 30% of adults have a type of atrial septal defect called probe patent foramen ovale. 
+
+===Cyanotic defects===
+Cyanotic heart defects are called such because they result in cyanosis, a bluish-grey discoloration of the skin due to a lack of oxygen in the body. Such defects include persistent truncus arteriosus, total anomalous pulmonary venous connection, tetralogy of Fallot, transposition of the great vessels, and tricuspid atresia. 
+
+=== Defects ===
+*Aortic stenosis
+*Atrial septal defect (ASD)
+*Atrioventricular septal defect (AVSD)
+*Bicuspid aortic valve
+*Dextrocardia
+*Double inlet left ventricle (DILV)
+*Double outlet right ventricle (DORV)
+*Ebstein's anomaly
+*Hypoplastic left heart syndrome (HLHS)
+*Hypoplastic right heart syndrome (HRHS)
+*Mitral stenosis
+*Pulmonary atresia
+*Pulmonary stenosis
+*Transposition of the great vessels
+**dextro-Transposition of the great arteries (d-TGA)
+**levo-Transposition of the great arteries (l-TGA)
+*Tricuspid atresia
+*Persistent truncus arteriosus
+*Ventricular septal defect (VSD)
+*Wolff-Parkinson-White syndrome (WPW)
+
+Some conditions affect the great vessels or other vessels in close proximity to the heart, but not the heart itself, but are often classified as congenital heart defects.
+*Coarctation of the aorta (CoA)
+*Interrupted aortic arch (IAA)
+*Patent ductus arteriosus (PDA)
+*Scimitar syndrome (SS)
+**Partial anomalous pulmonary venous connection (PAPVC)
+**Total anomalous pulmonary venous connection (TAPVC)
+
+Some constellations of multiple defects are commonly found together.
+*tetralogy of Fallot (ToF)
+*pentalogy of Cantrell
+*Shone's syndrome/ Shone's complex / Shone's anomaly
+
+==Diagnosis==
+Many congenital heart defects can be diagnosed prenatally by fetal echocardiography. This is a test which can be done during the second trimester of pregnancy, when the woman is about 18–24 weeks pregnant. http://www.nhs.uk/Conditions/Congenital-heart-disease/Pages/Diagnosis.aspx It can be an abdominal ultrasound or transvaginal ultrasound.
+
+If a baby is born with cyanotic heart disease, the diagnosis is usually made shortly after birth due to the blue colour of their skin (called cyanosis). 
+
+If a baby is born with a septal defect or an obstruction defect, often their symptoms are only noticeable after several months or sometimes even after many years. 
+
+==Treatment==
+Sometimes CHD improves without treatment. Other defects are so small that they do not require any treatment. Most of the time CHD is serious and requires surgery and/or medications. Medications include diuretics, which aid the body in eliminating water, salts, and digoxin for strengthening the contraction of the heart. This slows the heartbeat and removes some fluid from tissues. Some defects require surgical procedures to restore circulation back to normal and in some cases, multiple surgeries are needed.
+
+Interventional cardiology now offers patients minimally invasive alternatives to surgery for some patients. The Melody Transcatheter Pulmonary Valve (TPV), approved in Europe in 2006 and in the U.S. in 2010 under a Humanitarian Device Exemption (HDE), is designed to treat congenital heart disease patients with a dysfunctional conduit in their right ventricular outflow tract (RVOT). The RVOT is the connection between the heart and lungs; once blood reaches the lungs, it is enriched with oxygen before being pumped to the rest of the body. Transcatheter pulmonary valve technology provides a less-invasive means to extend the life of a failed RVOT conduit and is designed to allow physicians to deliver a replacement pulmonary valve via a catheter through the patient’s blood vessels.
+
+Most patients require lifelong specialized cardiac care, first with a pediatric cardiologist and later with an adult congenital cardiologist. There are more than 1.8 million adults living with congenital heart defects. 
+
+==Epidemiology==
+Congenital heart defects resulted in about 223,000 deaths globally in 2010 down from 278,000 deaths in 1990. 
+
+==See also==
+* Congenital Heart Surgeons' Society
+
+==References==
+
+==External links==
+* 
+* Cove Point Foundation Congenital Heart Disease website — comprehensive patient education, including animations of surgeries and interventions
+* Congenital Heart Surgeons' Society Data Center — a research organization based at The Hospital for Sick Children, Toronto
+*Congenital heart disease information for parents.
+
+

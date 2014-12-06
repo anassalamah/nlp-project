@@ -1,0 +1,91 @@
+[[Ronald Coase]]
+
+Ronald Harry Coase (; 29 December 1910 – 2 September 2013) was a British economist and author. He was the Clifton R. Musser Professor Emeritus of Economics at the University of Chicago Law School. After studying with the University of London External Programme in 1927–29, Coase entered the London School of Economics, where he took courses with Arnold Plant. Ronald Coase. "Nobel Prize Autobiography," 1991 He received the Nobel Prize in Economics in 1991. 
+
+Coase, who believed economists should study real markets, not theoretical ones, established the case for the corporation as a means to pay the costs of operating a marketplace. Henderson, David R.,The man who resisted blackboard economics, Wall Street Journal, September 4, 2013, p. A15 Coase is best known for two articles in particular: "The Nature of the Firm" (1937), which introduces the concept of transaction costs to explain the nature and limits of firms, and "The Problem of Social Cost" (1960), which suggests that well-defined property rights could overcome the problems of externalities (see Coase theorem). Coase is also often referred to as the "father" of reform in the policy for allocation of the electromagnetic spectrum, based on his article "The Federal Communications Commission" (1959), where he criticises spectrum licensing, suggesting property rights as a more efficient method of allocating spectrum to users. Additionally, Coase's transaction costs approach is currently influential in modern organizational economics, where it was reintroduced by Oliver E. Williamson.
+
+==Biography==
+Ronald Harry Coase was born in Willesden, a suburb of London, on 29 December 1910. His father was a telegraphist for the post office, as was his mother before marriage. As a child, Coase had a weakness in his legs, for which he was required to wear leg-irons. Due to this problem, he attended the school for physical defectives. At the age of 12, he was able to enter the Kilburn Grammar School on scholarship. At Kilburn, Coase completed the first year of his BComm degree and then passed on to the University of London. Breit, William and Barry T. Hirsch. Lives of the Laureates, 4th ed. Cambridge, Mass: The MIT Press, 2004. Coase married Marion Ruth Hartung of Chicago, Illinois in Willesden, England, 7 August 1937.
+
+Coase attended the London School of Economics, where he received a bachelor of commerce degree in 1932. Between 1934–1935 Coase was an assistant lecturer in commerce at the University of Liverpool before returning to London School of Economics as a member of staff until 1951. He then started to work at the University at Buffalo and retained his British citizenship after moving to the United States in the 1950s. In 1958, he moved to the University of Virginia. Coase settled at the University of Chicago in 1964 and became the editor of the Journal of Law and Economics. He was also for a time a trustee of the Philadelphia Society. He received the Nobel Prize in Economics in 1991.
+
+Nearing his 100th birthday, Coase was working on a book concerning the rise of the economies of China and Vietnam. An interview with Coase was conducted by Wang Ning (co-author of the book How China Became Capitalist) 28–29 December 2010, in Chicago. In the interview, Coase explained the mission of the Coase China Society and his vision of economics and the part to be played by Chinese economists. Coase was honoured and received an honorary doctorate from the University at Buffalo Department of Economics in May 2012. http://economics.buffalo.edu/ Robert Coase Honorary Doctorate 
+
+Coase died in Chicago on 2 September 2013. His wife had died on October 17, 2012. He was praised across the political spectrum, with Slate Magazine calling him "one of the most distinguished economists in the world" and Forbes Magazine calling him "the greatest of the many great University of Chicago economists". The Washington Post called his work over eight decades "impossible to summarize" while recommending five of his papers to read. 
+
+==The Nature of the Firm==
+
+In The Nature of the Firm (1937) – a brief but highly influential essay – Coase attempts to explain why the economy features a number of business firms instead of consisting exclusively of a multitude of independent, self-employed people who contract with one another. Given that "production could be carried on without any organization is, firms at all", Coase asks, why and under what conditions should we expect firms to emerge?
+
+Since modern firms can only emerge when an entrepreneur of some sort begins to hire people, Coase's analysis proceeds by considering the conditions under which it makes sense for an entrepreneur to seek hired help instead of contracting out for some particular task.
+
+The traditional economic theory of the time (in the tradition of Adam Smith) suggested that, because the market is "efficient" (that is, those who are best at providing each good or service most cheaply are already doing so), it should always be cheaper to contract out than to hire.
+
+Coase noted, however, a number of transaction costs involved in using the market; the cost of obtaining a good or service via the market actually exceeds the price of the good. Other costs, including search and information costs, bargaining costs, keeping trade secrets, and policing and enforcement costs, can all potentially add to the cost of procuring something from another party. This suggests that firms will arise which can internalise the production of goods and services required to deliver a product, thus avoiding these costs. This argument sets the stage for the later contributions by Oliver Williamson: markets and hierarchies are alternative co-ordination mechanisms for economic transactions. Hein Schreuder, "Coase, Hayek and Hierarchy", In: S. Lindenberg & Hein Schreuder, editors, Interdisciplinary Perspectives on Organization Studies, Pergamon Press 
+
+There is a natural limit to what a firm can produce internally, however. Coase notices "decreasing returns to the entrepreneur function", including increasing overhead costs and increasing propensity for an overwhelmed manager to make mistakes in resource allocation. These factors become countervailing costs to the use of the firm.
+
+Coase argues that the size of a firm (as measured by how many contractual relations are "internal" to the firm and how many "external") is a result of finding an optimal balance between the competing tendencies of the costs outlined above. In general, making the firm larger will initially be advantageous, but the decreasing returns indicated above will eventually kick in, preventing the firm from growing indefinitely.
+
+Other things being equal, therefore, a firm will tend to be larger:
+* the lower the costs of organising and the slower these costs rise with an increase in the number of transactions organised
+* the less likely the entrepreneur is to make mistakes and the smaller the increase in mistakes with an increase in the transactions organised
+* the greater the lowering (or the smaller the rise) in the supply price of factors of production to firms of larger size
+
+The first two costs will increase with the spatial distribution of the transactions organised and the dissimilarity of the transactions. This explains why firms tend to either be in different geographic locations or to perform different functions. Additionally, technology changes that mitigate the cost of organising transactions across space may allow firms to become larger – the advent of the telephone and of cheap air travel, for example, would be expected to increase the size of firms.
+
+==The Problem of Social Cost==
+
+Published in the Journal of Law and Economics in 1960, while Coase was a member of the Economics department at the University of Virginia, "The Problem of Social Cost" provided the key insight that it is unclear where the blame for externalities lies. The example he gave was of a rancher whose cattle stray onto the cropland of his neighbour. If the rancher is made to restrict his cattle, he is harmed just as the farmer is if the cattle remain unrestrained.
+
+Coase argued that without transaction costs the initial assignment of property rights makes no difference to whether or not the farmer and rancher can achieve the economically efficient outcome. If the cost of restraining cattle by, say, building a fence, is less than the cost of crop damage, the fence will be built. The initial assignment of property rights determines who builds the fence. If the farmer is responsible for the crop damage, the farmer will pay for the fence (as long the fence costs less than the crop damage). If the rancher is responsible for the crop damage, the rancher will build the fence. The allocation of property rights is primarily an equity issue, with consequences for the distribution of income and wealth, rather than an efficiency issue.
+
+With sufficient transaction costs, initial property rights matter for both equity and efficiency. From the point of view of economic efficiency, property rights should be assigned such that the owner of the rights wants to take the economically efficient action. To elaborate, if it is efficient not to restrict the cattle, the rancher should be given the rights (so that cattle can move about freely), whereas if it is efficient to restrict the cattle, the farmer should be given the rights over the movement of the cattle (so the cattle are restricted).
+
+This seminal argument forms the basis of the famous Coase theorem as labelled by George Stigler.
+
+==Political views==
+When asked what he considered his politics to be, Coase stated, "I really don't know. I don't reject any policy without considering what its results are. If someone says there's going to be regulation, I don't say that regulation will be bad. Let's see. What we discover is that most regulation does produce, or has produced in recent times, a worse result. But I wouldn't like to say that all regulation would have this effect because one can think of circumstances in which it doesn't." 
+
+==Coase Conjecture==
+Another important contribution of Coase is the Coase Conjecture: an informal argument that durable-goods monopolists do not have market power because they are unable to commit to not lowering their prices in future periods.
+
+==The Ronald Coase Institute==
+Coase was research advisor to the Ronald Coase Institute, an organisation that promotes research on the institutions – the laws, rules, customs, and norms – that govern real economic systems, with particular support for young scholars from developing and transitional countries.
+
+==Publications==
+* 
+* 
+* 
+* 
+* . (Nobel Prize lecture)
+* 
+* 
+* How China Became Capitalist (2012) co-authored with Ning Wang. Palgrave Macmillan. ISBN 1137019360.
+
+==See also==
+* Merger
+* Horizontal integration
+* Vertical integration
+* List of think tanks
+
+==Notes==
+
+==References==
+* 
+
+==External links==
+
+* A video of Prof. Coase talking about law and economics
+* Biography at the Nobel site
+* 
+* Wireless Communications and Computing at a Crossroads, Journal on Telecommunications & High Technology Law, Vol. 3, No. 2, p. 239, 205
+* Coase Institute
+* "Looking for Results", interview in Reason by Thomas W. Hazlett
+* 2003 Coase Centennial Speech delivered by Coase (500MB QuickTime video file)
+* "Why do Firms Exist?", Schumpeter, Economist, 2010.
+* Russ Roberts's "Coase on Externalities, the Firm, and the State of Economics" from the Library of Economics and Liberty
+* No Cheap Victories – Last Interview and Tribute
+* Ronald Coase and the Misuse of Economics by John Cassidy, The New Yorker, 2013
+
+

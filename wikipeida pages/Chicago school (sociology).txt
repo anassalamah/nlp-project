@@ -1,0 +1,93 @@
+[[Chicago school (sociology)]]
+
+In sociology and later criminology, the Chicago School (sometimes described as the Ecological School) was the first major body of works emerging during the 1920s and 1930s specialising in urban sociology, and the research into the urban environment by combining theory and ethnographic fieldwork in Chicago, now applied elsewhere. While involving scholars at several Chicago area universities, the term is often used interchangeably to refer to the University of Chicago's sociology department—one of the oldest and one of the most prestigious. Following World War II, a "Second Chicago School" arose whose members used symbolic interactionism combined with methods of field research, to create a new body of work. Gary Alan Fine. A Second Chicago School? The Development of a Postwar American Sociology (Chicago: University of Chicago Press, 1995) This was one of the first institutions to use quantitative methods in criminology.
+
+The major researchers in the first Chicago School included Nels Anderson, Ernest Burgess, Ruth Shonle Cavan, Edward Franklin Frazier, Everett Hughes, Roderick D. McKenzie, George Herbert Mead, Robert E. Park, Walter C. Reckless, Edwin Sutherland, W. I. Thomas , Frederic Thrasher, Louis Wirth, Florian Znaniecki. Activist, social scientist and Nobel Peace Prize winner Jane Addams also forged and maintained close ties with some of the members of the Chicago School of Sociology.
+
+==Discussion==
+The Chicago School is best known for its urban sociology and for the development of the symbolic interactionist approach. It has focused on human behavior as determined by social structures and physical environmental factors, rather than genetic and personal characteristics. Biologists and anthropologists have accepted the theory of evolution as demonstrating that animals adapt to their environments. As applied to humans who are considered responsible for their own destinies, members of the School believed that the natural environment which the community inhabits is a major factor in shaping human behavior, and that the city functions as a microcosm:
+
+The work of Frederic E. Clements (1916) was particularly influential. He proposed that a community of vegetation is a superorganism and that communities develop in a fixed pattern of successional stages from inception through to some single climax state or to a self-regulating state of equilibrium. By analogy, an individual is born, grows, matures, and dies, but the community which the individual inhabited continues to grow and exhibit properties which are greater than the sum of the properties of the parts.
+
+Members of the School have concentrated on the city of Chicago as the object of their study, seeking evidence whether urbanization (Wirth: 1938) and increasing social mobility have been the causes of the contemporary social problems. Originally, Chicago was a clean slate, an empty physical environment. By 1860, Chicago was a small town with a population of 10,000. There was great growth after the fire of 1871. By 1910, the population exceeded two million. The rapidity of the increase was due to an influx of immigrants and it produced homelessness (Anderson: 1923), poor housing conditions, and bad working conditions based on low wages and long hours. But equally, Thomas and Znaniecki (1918) stress that the sudden freedom of immigrants released from the controls of Europe to the unrestrained competition of the new city was a dynamic for growth. See also the broken windows thesis.
+
+For Thomas, the groups themselves had to reinscribe and reconstruct themselves to prosper. Burgess studied the history of development and concluded that the city had not grown at the edges. Although the presence of Lake Michigan prevented the complete encirclement, he postulated that all major cities would be formed by radial expansion from the center in concentric rings which he described as zones, i.e. the business area in the center, the slum area (called the zone in transition and studied by Wirth: 1928, Zorbaugh: 1929, and Suttles: 1968) around the central area, the zone of workingmen's homes farther out, the residential area beyond this zone, and then the bungalow section and the commuter's zone on the periphery. Under the influence of Albion Small, the research at the School mined the mass of official data including census reports, housing/welfare records and crime figures, and related the data spatially to different geographical areas of the city. Shaw and McKay created maps:
+*spot maps to demonstrate the location of a range of social problems with a primary focus on juvenile delinquency;
+*rate maps which divided the city into block of one square mile and showed the population by age, gender, ethnicity, etc.;
+*zone maps which demonstrated that the major problems were clustered in the city center.
+Thomas also developed techniques of self-reporting life histories to provide subjective balance to the analysis. Park, Burgess, and McKenzie are
+credited with institutionalizing, if not establishing, sociology as a science. They are also criticized for their overly empiricist and idealised approach to the study of society but, in the inter-war years, their attitudes and prejudices were normative. Three broad themes characterized this dynamic period of Chicago studies: 
+#culture contact and conflict. This arises from Thomas and Znaniecki (1918) and studies how ethnic groups interact and compete in a process of community succession and institutional transformation (Hughes and Hughes: 1952). An important part of this work concerned African Americans; works including E. Franklin Frazier (1932) and Drake and Cayton (1945) shaped white America's perception of black communities for decades.
+#succession in community institutions as stakeholders and actors in the ebb and flow of ethnic groups. Cressey (1932) studied the dance hall and commercialized entertainment services, Kincheloe (1938) studied church succession, Janowitz (1952) studied the community press, and Hughes (1979) studied the real-estate board.
+#city politics. Merriam's commitment to practical reform politics was matched by Gosnell who researched voting and other forms of participation. Gosnell (1935), Wilson (1960), Grimshaw (1992) considered African American politics, and Banfield and Wilson (1963) placed Chicago city politics in a broader context.
+
+The School is perhaps best known for the Subculture Theories of Thrasher, Frazier, and Sutherland, and for applying the principles of ecology to develop the Social Disorganization Theory which refers to consequences of the failure of:
+*social institutions or social organizations including the family, schools, church, political institutions, policing, business, etc. in identified communities and/or neighborhoods, or in society at large; and
+*social relationships that traditionally encourage co-operation between people.
+Thomas defined social disorganization as "the inability of a neighborhood to solve its problems together" which suggested a level of social pathology and personal disorganization, so the term, "differential social organization" was preferred by many, and may have been the source of Sutherland's (1947) Differential Association Theory. The researchers have provided a clear analysis that the city is a place where life is superficial, where people are anonymous, where relationships are transitory and friendship and family bonds are weak. They have observed the weakening of primary social relationships and relate this to a process of social disorganization (comparison with the concept of anomie and the Strain Theories is instructive).
+:For a complete discussion, see Social Disorganization Theory and Subcultural Theory.
+
+==Ecology and social theories==
+Vasishth and Sloane (2000) argue that while it is tempting to draw analogies between organisms in nature and the human condition, the problem lies in reductionism, i.e. that the science of biology is oversimplified into rules that are then applied mechanically to explain the growth and dynamics of human communities. The most fundamental difficulties are definitional. If a community is a group of individuals who inhabit the same place, is the community merely the sum of individuals and their activities, or is it something more than an aggregation of individuals? This is critical in planning research into group interactions. Will research be effective if it focuses on the individuals composing a group, or is the community itself a proper subject of research independently of the individuals who compose it? If the former, then data on individuals will explain the community, but if the community either directly or indirectly affects the behavior of its members, then research must consider the patterns and processes of community as distinct from patterns and processes in populations of individuals. But this requires a definition and distinction between "pattern" and "process". The structures, forms, and patterns are relatively easy to observe and measure, but they are nothing more than evidence of underlying processes and functions which are the real constitutive forces in nature and society. The Chicago School wanted to develop tools by which to research and then change society by directing urban planning and social intervention agencies. It recognized that urban expansion was not haphazard but quite strongly controlled by community-level forces such as land values, zoning ordinances, landscape features, circulation corridors, and historical contingency. This was characterized as ecological because the external factors were neither chance nor intended, but rather arose from the natural forces in the environment which limit the adaptive spatial and temporal relationships between individuals. The School sought to derive patterns from a study of processes, rather than to ascribe processes to observed patterns and the patterns they saw emerge, are strongly reminiscent of Clements' ideas of community development.
+
+==Conclusions==
+The Chicago Area Project (CAP) was a practical attempt by sociologists to apply their theories in a city laboratory. Subsequent research showed that the youth athletic leagues, recreation programs, and summer camp worked best along with urban planning and alternatives to incarceration as crime control policy. Such programs are non-entrepreneurial and non-self-sustaining, and they fail when local or central government does not make a sustained financial commitment to them. Although with hindsight, the School's attempts to map crime may have produced some distortions, the work was valuable in that it moved away from a study of pattern and place toward a study of function and scale. To that extent, this was work of high quality that represented the best science available to the researchers at the time.
+
+The Social Disorganization Theory itself was a landmark and, since it focuses on the absence or breakdown of social control mechanisms, there are obvious links with social control theory. In Causes of Delinquency (1969) Travis Hirschi argued that variations in delinquent behavior among youth could be explained by variations in the dimensions of the social bond, namely attachment to others, commitments to conventional goals, acceptance of conventional moral standards or beliefs, and involvement in conventional activities. The greater the social bonds between a youth and society, the lower the odds of involvement in delinquency. When social bonds to conventional role models, values and institutions are aggregated for youth in a particular setting, they measure much the same phenomena as captured by concepts such as network ties or social integration. But the fact that these theories focus on the absence of control or the barriers to progress, means that they are ignoring the societal pressures and cultural values that drive the system Merton identified in the Strain Theory or the motivational forces Cohen proposed were generating crime and delinquency. More modern theorists like Empey (1967) argue that the system of values, norms and beliefs can be disorganized in the sense that there are conflicts among values, norms and beliefs within a widely shared, dominant culture. While condemning crime in general, law-abiding citizens may nevertheless respect and admire the criminal who takes risks and successfully engages in exciting, dangerous activities. The depiction of a society as a collection of socially differentiated groups with distinct subcultural perspectives that lead some of these groups into conflict with the law is another form of cultural disorganization, is typically called cultural conflict.
+
+Modern versions of the theory sometimes use different terminology to refer to the same ecological causal processes. For example, Crutchfield, Geerken and Gove (1982: 467-482) hypothesize that the social integration of communities is inhibited by population turnover and report supporting evidence in the explanation of variation in crime rates among cities. The greater the mobility of the population in a city, the higher the crime rates. These arguments are identical to those proposed by social disorganization theorists and the evidence in support of it is as indirect as the evidence cited by social disorganization theorists. But, by referring to social integration rather than disintegration, this research has not generated the same degree of criticism as social disorganization theory.
+
+==References==
+
+==External links==
+*For an overview of the history of the Chicago School, see the web version of an article by Howard S. Becker, himself a member of the "Second Chicago School". 
+*University of Chicago Department of Sociology
+
+==References==
+For a comprehensive history of the Chicago School, see Martin Bulmer (1984) and Lester Kurtz (1984).
+
+===Other references===
+*Abbott, Andrew. (1999). Department and Discipline: Chicago Sociology at One Hundred. Chicago: University of Chicago Press. ISBN 0-226-00099-0
+*Anderson, Nels, and Council of Social Agencies of Chicago. (1923). The Hobo: The Sociology of the Homeless Man.
+*Banfield, Edward C. & Wilson, James Q. (1963). City Politics.
+*Bulmer, Martin. (1984). The Chicago School of Sociology: Institutionalization, Diversity, and the Rise of Sociological Research. Chicago: University of Chicago Press.
+*Burgess, Ernest & Bogue, Donald J. (eds.).(1964). Contributions to Urban Sociology. Chicago: University of Chicago Press. ISBN 0-226-08055-2
+*Burgess, Ernest & Bogue, Donald J. (eds.) (1967). Urban Sociology. Chicago: University of Chicago Press. ISBN 0-226-08056-0
+*Bursik, Robert J. (1984). "Urban Dynamics and Ecological Studies of Delinquency". Social Forces 63: 393-413.
+*Clements, Frederic E. (1916). Plant Succession: An Analysis of the Development of Vegetation. Carnegie Institute of Washington Publication, No. 242. Washington, DC: Carnegie Institution.
+*Crutchfield, R.D., M. Geerken and W.R. Gove, (1982). "Crime Rates and Social Integration: The Impact of Metropolitan Mobility" Criminology, Vol. 20, Nos. 3 and 4, November, 1982, 467-478
+*Cressey, Paul Goalby. (1932). The Taxi-Dance Hall: A Sociological Study in Commercialized Recreation and City Life.
+*Drake, St. Clair & Cayton, Horace. (1945). Black Metropolis: A Study of Negro Life in a Northern City.
+*Empey L. T. (1967) "Delinquency Theory and Recent Research". Journal of Research in Crime and Delinquency 4.
+*Frazier, Edward Franklin. (1932). The Free Negro Family: A Study of Family Origins before the Civil War.
+*Frazier, Edward Franklin. (1932). The Negro Family in Chicago.
+*Gosnell, Harold Foote. (1927). Getting Out the Vote: An Experiment in the Stimulation of Voting.
+*Gosnell, Harold Foote. (1935). Negro Politicians: The Rise of Negro Politics in Chicago.
+*Gosnell, Harold Foote. (1937). Machine Politics: Chicago Model.
+*Grimshaw, William J. (1992). Bitter Fruit: Black Politics and the Chicago Machine, 1931–1991.
+*Hawley, Amos H. (1943). "Ecology and Human Ecology". Social Forces 22: 398-405.
+*Hawley, Amos H. (1950). Human Ecology: A Theory of Community Structure. New York: Ronald Press.
+*Hirschi, Travis. (1969). Causes of Delinquency. Berkeley: University of California Press. (2001) Transaction Publishers. ISBN 0-7658-0900-1
+*Hughes, Everett Cherrington. (1979). The Chicago Real Estate Board: The Growth of an Institution.
+*Hughes, Everett Cherrington & Hughes, Helen MacGill. (1952). Where Peoples Meet: Racial and Ethnic Frontiers.
+*Janowitz, Morris. (1952). The Community Press in an Urban Setting.
+*Kincheloe, Samuel C. (1938). The American City and Its Church.
+*Kurtz, Lester R. (1984). Evaluating Chicago Sociology: A Guide to the Literature, with an Annotated Bibliography. Chicago: University of Chicago Press. ISBN 0-226-46477-6
+*McKenzie, R. D. "The Ecological Approach to the Study of the Human Community". American Journal of Sociology 30 (1924): 287-301.
+*Merriam, Charles Edward. (1903). A History of American Political Theories.
+*Merriam, Charles Edward. (1908). Primary Elections: A Study of the History and Tendencies of Primary Election Legislation.
+*Merriam, Charles Edward. (1929). Chicago: A More Intimate View of Urban Politics.
+*Park, Robert E. (1915). "The City: Suggestions for the Investigation of Behavior in the City Environment", American Journal of Sociology 20:579-83.
+*Park, Robert E., Ernest Burgess, Roderick McKenzie (1925). The City, University of Chicago Press.
+*Stark et al., "Beyond Durkheim" Journal for the Scientific Study of Religion 22(1983):120-131
+*Sutherland, Edwin. (1924, 34. 39). "Principles of Criminology.
+*Suttles, Gerald D. (1968) The Social Order of the Slum: Ethnicity and Territory in the Inner City.
+*Thomas, William Isaac & Znaniecki, Florian. (1918). The Polish Peasant in Europe and America: Monograph of an Immigrant Group.
+*Thrasher, Frederick (1927) The Gang. University of Chicago Press.
+*Vasishth, Ashwani & Sloane, David. (2000) Returning to Ecology: An Ecosystem Approach. 
+*Wilson, James Q. (1960). Negro Politics: The Search for Leadership.
+*Wirth, Louis (1928) The Ghetto. University of Chicago Press.
+*Wirth, Louis. (1938). “Urbanism as a Way of Life: The City and Contemporary Civilization”. American Journal of Sociology 44:1–24.
+*Zorbaugh, Harvey Warren. (1929). Gold Coast and Slum: A Sociological Study of Chicago's Near North Side.
+
+

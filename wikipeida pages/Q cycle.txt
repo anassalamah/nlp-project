@@ -1,0 +1,39 @@
+[[Q cycle]]
+
+Schematic representation of complex III of the electron transport chain. The grey area is the inner mitochondrial membrane. Q represents the ubiquinone form of CoQ10, and QH2 represents the ubiquinol form.
+The Q cycle (named for CoQ10) describes a series of reactions that describe how the sequential oxidation and reduction of the lipid-loving electron carrier, Coenzyme Q10 (CoQ10), between the ubiquinol and ubiquinone forms, can result in the net pumping of protons across a lipid bilayer (in the case of mitochondria, the inner mitochondrial membrane).
+
+It was first proposed by Peter D. Mitchell. A modified version of Mitchell's original scheme is now accepted as the mechanism by which Complex III pumps protons (i.e. how complex III contributes to the biochemical generation of the proton or pH, gradient, which is used for the biochemical generation of ATP).
+
+To summarize, the first reaction of Q cycle is:
+
+: CoQH2 + cytochrome c1 (Fe3+) → CoQ- • + cytochrome c1 (Fe2+) + 2 H+ (intermembrane)
+
+Then the second reaction of the cycle involves the reduction of the transient semiquinone by another electron to give CoQH2:
+
+: CoQH2 + CoQ- • + cytochrome c1 (Fe3+) + 2 H+ (matrix) → CoQ + CoQH2 + cytochrome c1 (Fe2+) + 2 H+ (intermembrane)
+
+Combining the two equations, we have the overall reaction of Q cycle:
+
+: 2 CoQH2 + 2 cytochrome c1 (Fe3+) + 2 H+ (matrix) → CoQ + 2 cytochrome c1 (Fe2+) + 4 H+ (intermembrane)
+
+== Process ==
+Operation of the modified Q cycle in Complex III results in the reduction of Cytochrome c, oxidation of ubiquinol to ubiquinone, and the transfer of four protons into the intermembrane space, per two-cycle process.
+
+Ubiquinol (QH2) binds to the Qo site of complex III via hydrogen bonding to His182 of the Rieske iron-sulfur protein and Glu272 of Cytochrome b. Ubiquinone (Q), in turn, binds the Qi site of complex III. Ubiquinol is divergently oxidized (gives up one electron each) to the Rieske iron-sulfur '(FeS) protein' and to the bL heme. This oxidation reaction produces a transient semiquinone before complete oxidation to ubiquinone, which then leaves the Qo site of complex III.
+
+Having acquired one electron from ubiquinol, the 'FeS protein' is freed from its electron donor and is able to migrate to the Cytochrome c1 subunit. 'FeS protein' then donates its electron to Cytochrome c1, reducing its bound heme group. Zhang, Z., Huang, L., Schulmeister, V.M., Chi, Y.I., Kim, K.K., Hung, L.W., Crofts, A.R., Berry, E.A. and Kim, S.H. (1998) Nature 392, 677-684. Crofts, A.R., Hong, S., Ugulava, N., Barquera, B., Gennis, R., Guerrgova-Kuras, M. and Berry, E. (1999) Proc. Natl. Acad. Sci. USA 96, 10021-10026. The electron is from there transferred to an oxidized molecule of Cytochrome c externally bound to complex III, which then dissociates from the complex. In addition, the reoxidation of the 'FeS protein' releases the proton bound to His181 into the intermembrane space. 
+
+The other electron, which was transferred to the bL heme, is used to reduce the bH heme, which in turn transfers the electron to the ubiquinone bound at the Qi site. The movement of this electron is energetically unfavourable, as the electron is moving towards the negatively charged side of the membrane. This is offset by a favourable change in EM from -100 mV in BL to +50mV in the BH heme. The attached ubiquinone is thus reduced to a semiquinone radical. The proton taken up by Glu272 is subsequently transferred to a hydrogen-bonded water chain as Glu272 rotates 170° to hydrogen bond a water molecule, in turn hydrogen-bonded to a propionate of the bL heme. Palsdottir, H., Gomez-Lojero, Trumpower, B.L. and Hunte, C. (2003) J. Biol. Chem., 31303-31311 
+
+Because the last step leaves an unstable semiquinone at the Qi site, the reaction is not yet fully completed. A second Q cycle is necessary, with the second electron transfer from cytochrome bH reducing the semiquinone to ubiquinol. The ultimate products of the Q cycle are four protons entering the intermembrane space, two protons taken up from the matrix and the reduction of two molecules of cytochrome c. The reduced cytochrome c is eventually reoxidized by complex IV. The process is cyclic as the ubiquinone created at the Qi site can be reused by binding to the Qo site of complex III.
+
+== Notes ==
+ 
+
+== References ==
+* Trumpower, B.L. (2002) Biochim. Biophys. Acta 1555, 166-173
+* Hunte, C., Palsdottir, H. and Trumpower, B.L. (2003) FEBS Letters 545, 39-46
+* Trumpower, B.L. (1990) J. Biol. Chem., 11409-11412
+
+

@@ -1,0 +1,142 @@
+[[Tongue]]
+
+The tongue is a muscular hydrostat on the floors of the mouths of most vertebrates which manipulates food for mastication. It is the primary organ of taste (gustation), as much of the upper surface of the tongue is covered in papillae and taste buds. It is sensitive and kept moist by saliva, and is richly supplied with nerves and blood vessels. In humans a secondary function of the tongue is phonetic articulation. The tongue also serves as a natural means of cleaning one's teeth. The ability to perceive different tastes is not localised in different parts of the tongue, as is widely believed. The Taste Map: All Wrong Scientific American, 2001-03-18. This error arose because of misinterpretation of some 19th-century research (see tongue map).
+
+==Structure==
+The underside of a human tongue
+The tongue is a muscular structure that forms part of the floor of the oral cavity. The human tongue is divided into anterior and posterior parts. The anterior part is the visible part situated at the front, and roughly two-thirds the length of the tongue. The posterior part is the part closest to the throat, and roughly one-third of length. These parts differ in terms of their embryological development and nerve supply. The two parts of the tongue are divided by the terminal sulcus. 
+
+The left and right sides of the tongue are separated by the lingual septum.
+
+The anterior tongue is, at its apex, thin and narrow, it is directed forward against the lingual surfaces of the lower incisor teeth. The posterior part is, at its root, directed backward, and connected with the hyoid bone by the hyoglossi and genioglossi muscles and the hyoglossal membrane; with the epiglottis by three folds (glossoepiglottic) of mucous membrane; with the soft palate by the glossopalatine arches; and with the pharynx by the constrictores pharyngis superiores and the mucous membrane.
+
+In phonetics and phonology, a distinction is made between the tip of the tongue and the blade (the portion just behind the tip). Sounds made with the tongue tip are said to be apical, while those made with the tongue blade are said to be laminal.
+
+===Muscles===
+The eight muscles of the human tongue are classified as either intrinsic or extrinsic. The four intrinsic muscles act to change the shape of the tongue, and are not attached to any bone. The four extrinsic muscles act to change the position of the tongue, and are anchored to bone.
+
+File:Gray1020.png |Coronal section of tongue, showing intrinsic muscles 
+File:Gray1019.png |Lateral view of the tongue, with extrinsic muscles highlighted. 
+
+====Extrinsic====
+The extrinsic muscles originate from bone and extend to the tongue. Their main functions are altering the tongue's position allowing for protrusion, retraction, and side-to-side movement. 
+# Genioglossus, which arises from the mandible and protrudes the tongue
+# Hyoglossus, which arises from the hyoid bone and depresses the tongue
+# Styloglossus, which arises from the styloid process and elevates and retracts the tongue
+# Palatoglossus, which arises from the palatine aponeurosis, and depresses the soft palate, moves the palatoglossal fold towards the midline, and elevates the back of the tongue.
+
+====Intrinsic====
+Four paired intrinsic muscles of the tongue originate and insert within the tongue, running along its length. These muscles alter the shape of the tongue by: lengthening and shortening it, curling and uncurling its apex and edges, and flattening and rounding its surface. This provides shape, and helps facilitate speech, swallowing, and eating. 
+# The superior longitudinal muscle runs along the superior surface of the tongue under the mucous membrane, and elevates, assists in retraction of, or deviates the tip of the tongue. It originates near the epiglottis, the hyoid bone, from the median fibrous septum.
+# The inferior longitudinal muscle lines the sides of the tongue, and is joined to the styloglossus muscle.
+# The verticalis muscle is located in the middle of the tongue, and joins the superior and inferior longitudinal muscles.
+# The transversus muscle divides the tongue at the middle, and is attached to the mucous membranes that run along the sides.
+
+===Blood supply===
+The tongue receives its blood supply primarily from the lingual artery, a branch of the external carotid artery. Veins of the tongue, the lingual veins, drain into internal jugular vein. The floor of mouth also receives its blood supply from the lingual artery. There is also secondary blood supply to the tongue from the tonsillar branch of the facial artery and the ascending pharyngeal artery.
+
+The triangle formed by the intermediate tendon of the digastric muscle, the posterior border of the mylohyoid muscle, and the hypoglossal nerve is sometimes called Pirogov's, Pirogoff's, or Pirogov-Belclard's triangle. Pirogov's triangle The lingual artery is a good place to stop severe hemorrage from the tongue.
+
+===Innervation===
+Nerves which supply the sensation and taste of the tongue differ between the anterior and posterior parts. 
+* Anteriorly, the sensation of taste is passed along the chorda tympani, a branch of the facial nerve. Sensation is passed along the lingual nerve, a branch of the trigeminal nerve.
+* Posteriorly, both taste and sensation are passed along the glossopharyngeal nerve.
+
+All intrinsic and extrinsic muscles of the tongue are supplied by the hypoglossal nerve, with the exception of the palatoglossus. The palatoglossus is innervated by the vagus nerve. 
+
+===Histology===
+Section through the human tongue; stained H&E
+The tongue is covered with numerous taste buds, including filiform papillae, fungiform papillae, vallate papillae and foliate papillae. 
+
+===Length===
+The average length of the human tongue from the oropharynx to the tip is 10 cm (4 in). 
+
+===Development===
+The anterior tongue is derived primarily from the first pharyngeal arch. The posterior tongue is derived primarily from the third pharyngeal arch. The second arch however has a substantial contribution during fetal development, but this later atrophies. The fourth arch may also contribute, depending upon how the boundaries of the tongue are defined.
+
+The terminal sulcus, which separates the anterior and posterior tongue, is shaped like a V, with the tip of the V situated posteriorly. At the apex is the foramen caecum, which is the point where the embryological thyroid begins to descend. 
+
+==Function==
+
+===Taste===
+
+Chemicals that stimulate taste receptor cells are known as tastants. Once a tastant is dissolved in saliva, it can make contact with the plasma membrane of the gustatory hairs, which are the sites of taste transduction. Tortora. Principles of Anatomy and Physiology 12th edition, chapter 17, p.602. 
+
+The tongue is equipped with many taste buds on its dorsal surface, and each taste bud is equipped with taste receptor cells that can sense particular classes of tastes. Distinct types of taste receptor cells respectively detect substances that are sweet, bitter, salty, sour, or taste of umami. Silverhorn. Human Physiology: An integrated approach 5th edition, chapter 10, p.352. Umami receptor cells are the least understood and accordingly are the type most intensively under research. Schacter, Daniel L., Daniel Todd. Gilbert, and Daniel M. Wegner. "Sensation and Perception." Psychology. 2nd ed. New York: Worth, 2009. 166. Print. 
+
+==Clinical relevance==
+
+===Disease===
+
+After the gums, the tongue is the second most common soft tissue site for various pathologies in the oral cavity. Examples of pathological conditions of the tongue include glossitis (e.g. geographic tongue, median rhomboid glossitis), burning mouth syndrome, oral hairy leukoplakia, oral candidiasis and squamous cell carcinoma. Food debris, desquamated epithelial cells and bacteria often form a visible tongue coating. This coating has been identified as a major contributing factor in bad breath (halitosis), which can be managed by brushing the tongue gently with a toothbrush or using special oral hygiene instruments such as tongue scrapers or mouth brushes. 
+
+===Medical delivery===
+The sublingual region underneath the front of the tongue is a location where the oral mucosa is very thin, and underlain by a plexus of veins. This is an ideal location for introducing certain medications to the body. The sublingual route takes advantage of the highly vascular quality of the oral cavity, and allows for the speedy application of medication into the cardiovascular system, bypassing the gastrointestinal tract. This is the only convenient and efficacious route of administration (apart from I.V. administration) of nitroglycerin to a patient suffering chest pain from angina pectoris.
+
+==Society and culture==
+
+===Figures of speech===
+The tongue can be used as a metonym for language, as in the phrase mother tongue. Many languages Afrikaans tong; Danish tunge; Albanian gjuha; Armenian lezu (լեզու); Greek glóssa (γλώσσα); Irish teanga; Manx çhengey; Latin and Italian lingua; Catalan llengua; French langue; Portuguese língua; Spanish lengua; Romanian limba; Bulgarian ezik (език); Polish język; Russian yazyk (язык); Czech and Slovak jazyk; Slovene, Bosnian, Croatian, and Serbian jezik; Kurdish ziman (زمان); Persian and Urdu zabān (زبان); Arabic lisān (لسان); Aramaic liššānā (ܠܫܢܐ/לשנא); Hebrew lāšon (לָשׁוֹן); Maltese ilsien; Estonian keel; Finnish kieli; Hungarian nyelv; Azerbaijani and Turkish dil; Kazakh and Khakas til (тіл) have the same word for "tongue" and "language".
+
+A common temporary failure in word retrieval from memory is referred to as the tip-of-the-tongue phenomenon. The expression tongue in cheek refers to a statement that is not to be taken entirely seriously – something said or done with subtle ironic or sarcastic humour. A tongue twister is a phrase made specifically to be very difficult to pronounce. Aside from being a medical condition, "tongue-tied" means being unable to say what you want to due to confusion or restriction. The phrase "cat got your tongue" refers to when a person is speechless. To "bite one's tongue" is a phrase which describes holding back an opinion to avoid causing offence. A "slip of the tongue" refers to an unintentional utterance, such as a Freudian slip. Speaking in tongues is a common phrase used to describe glossolalia, which is to make smooth, language-resembling sounds that is no true spoken language itself. A deceptive person is said to have a forked tongue, and a smooth-talking person said to have a silver tongue.
+
+===Gestures===
+Sticking one's tongue out at someone is considered a childish gesture of rudeness and/or defiance in many countries; the act may also have sexual connotations, depending on the way in which it is done. However, in Tibet it is considered a greeting. In 2009, a farmer from Fabriano, Italy was convicted and fined by the country's highest court for sticking his tongue out at a neighbor with whom he had been arguing. Proof of the affront had been captured with a cell phone camera. Sticking out your tongue ruled illegal Blowing a raspberry can also be meant as a gesture of derision.
+
+===Body art===
+Being a cultural custom for long time, tongue piercing and splitting has become quite common in western countries in recent decades, with up to one-fifth of young adults having at least one piece of body art in the tongue. 
+
+===As food===
+
+The tongues of some animals are consumed and sometimes considered delicacies. Hot tongue sandwiches are frequently found on menus in Kosher delicatessens in America. Taco de lengua (lengua being Spanish for tongue) is a taco filled with beef tongue, and is especially popular in Mexican cuisine. As part of Colombian gastronomy, Tongue in Sauce (Lengua en Salsa), is a dish prepared by frying the tongue, adding tomato sauce, onions and salt. Tongue can also be prepared as birria. Pig and beef tongue are consumed in Chinese cuisine. Duck tongues are sometimes employed in Szechuan dishes, while lamb's tongue is occasionally employed in Continental and contemporary American cooking. Fried cod "tongue" is a relatively common part of fish meals in Norway and Newfoundland. In Argentina and Uruguay cow tongue is cooked and served in vinegar (lengua a la vinagreta). In the Czech Republic and Poland, a pork tongue is considered a delicacy,and there are many ways of preparing it. In Eastern Slavic countries, pork and beef tongues are commonly consumed, boiled and garnished with horseradish or jelled; beef tongues fetch a significantly higher price and are considered more of a delicacy. In Alaska, cow tongues are among the more common.
+
+Tongues of seals and whales have been eaten, sometimes in large quantities, by sealers and whalers, and in various times and places have been sold for food on shore. CHARLES BOARDMAN HAWES. Whaling. Doubleday, 1924 
+
+==History==
+
+===Etymology===
+The word tongue derives from the Old English tunge, which comes from Proto-Germanic *tungōn. Online Etymology Dictionary It has cognates in other Germanic languages — for example tonge in West Frisian, tong in Dutch/Afrikaans, Zunge in German, tunge in Danish/Norwegian and tunga in Icelandic/Faroese/Swedish. The ue ending of the word seems to be a fourteenth-century attempt to show "proper pronunciation", but it is "neither etymological nor phonetic". Some used the spelling tunge and tonge as late as the sixteenth century.
+
+==Other animals==
+Giraffe's tongue
+An okapi cleaning its muzzle with its tongue
+Most vertebrate animals have tongues. In mammals such as dogs and cats, the tongue is often used to clean the fur and body. The tongues of these species have a very rough texture which allows them to remove oils and parasites. A dog's tongue also acts as a heat regulator. As a dog increases its exercise the tongue will increase in size due to greater blood flow. The tongue hangs out of the dog's mouth and the moisture on the tongue will work to cool the bloodflow. A dog's tongue 
+
+Some animals have tongues that are specially adapted for catching prey. For example, chameleons, frogs, and anteaters have prehensile tongues.
+
+Many species of fish have small folds at the base of their mouths that might informally be called tongues, but they lack a muscular structure like the true tongues found in most tetrapods. 
+
+Other animals may have organs that are analogous to tongues, such as a butterfly's proboscis or a radula on a mollusc, but these are not homologous with the tongues found in vertebrates, and often have little resemblance in function, for example, butterflies do not lick with their proboscides; they suck thorough them, and the proboscis is not a single organ, but two jaws held together to form a tube. 
+Macroglossum: View of the extended proboscis, which inspired the name of the animal, literally "long-tongue"
+
+==Additional Images==
+
+Image:Tongue.agr.jpg|The human tongue
+
+==See also==
+
+* Ankyloglossia
+* Electronic tongue
+* Language
+* Licking
+* List of Mendelian traits in humans 
+* Oral cancer
+* Taste buds on the tongue
+* "Tip-of-the-tongue" phenomenon
+
+* Tongue splitting
+* Tongue cleaner
+* Tongue disease
+* Tongue piercing
+* Tongue rolling
+* Tongue-twister
+* Vocal tract
+
+==References==
+
+==External links==
+
+*University of Manitoba, Anatomy of the Vocal Tract
+
+*
+

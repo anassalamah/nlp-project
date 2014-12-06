@@ -1,0 +1,120 @@
+[[Cushing's syndrome]]
+
+Cushing's syndrome describes the signs and symptoms associated with prolonged exposure to inappropriately high levels of the hormone cortisol. This can be caused by taking glucocorticoid drugs, or diseases that result in excess cortisol, adrenocorticotropic hormone (ACTH), or CRH levels. Kumar, Abbas, Fausto. Robbins and Cotran Pathologic Basis of Disease, 7th ed. Elsevier-Saunders; New York, 2005. 
+
+Cushing's disease refers to a pituitary-dependent cause of Cushing's syndrome: a tumor (adenoma) in the pituitary gland produces large amounts of ACTH, causing the adrenal glands to produce elevated levels of cortisol. It is the most common non-iatrogenic cause of Cushing's syndrome, responsible for 70% of cases excluding glucocorticoid related cases. Schwartz's principles of surgery, 8th ed., p.1455. Cushing's Syndrome at The National Endocrine and Metabolic Diseases Information Service. July 2008. Citing: * An easy way to distinguish Cushing's syndrome (primary hypercortisolism, specifically) from Cushing's disease is that the measured ACTH levels are lower in the former. The decrease in ACTH is due to increased negative feedback of cortisol on the hypothalamus and anterior pituitary.
+
+This pathology was described by Harvey Cushing in 1932. The syndrome is also called Itsenko-Cushing syndrome, hyperadrenocorticism or hypercorticism.
+
+Cushing's syndrome is not confined to humans and is also a relatively common condition in domestic dogs and horses. It also occurs in cats, however, rarely.
+
+==Signs and symptoms==
+Symptoms include rapid weight gain, particularly of the trunk and face with sparing of the limbs (central obesity). Common signs include the growth of fat pads along the collarbone, on the back of the neck or "buffalo hump" and on the face "moon facies". Other symptoms include hyperhidrosis (excess sweating), telangiectasia (dilation of capillaries), thinning of the skin (which causes easy bruising and dryness, particularly the hands) and other mucous membranes, purple or red striae (the weight gain in Cushing's syndrome stretches the skin, which is thin and weakened, causing it to hemorrhage) on the trunk, buttocks, arms, legs or breasts, proximal muscle weakness (hips, shoulders), and hirsutism (facial male-pattern hair growth), baldness and/or extremely dry and brittle hair. In rare cases, Cushing's can cause hypocalcemia. The excess cortisol may also affect other endocrine systems and cause, for example, insomnia, inhibited aromatase, reduced libido, impotence in men, amenorrhoea/oligomenorrhea and infertility in women due to elevations in androgens. Studies have also shown that the resultant amenorrhea is due to hypercortisolism, which feeds back onto the hypothalamus resulting in decreased levels of GnRH release. 
+
+Cognitive conditions, including memory and attention dysfunctions, as well as depression are commonly associated with elevated cortisol Belanoff et al., 2001, Corticosteroids and cognition, J Psychiatric Research 35(3) 127-145 PMID 11461709 and may be early indicators of exogenous or endogenous Cushing's. Patients frequently suffer various psychological disturbances, ranging from euphoria to psychosis. Depression and anxiety are also common. 
+
+Other striking and distressing skin changes that may appear in Cushing's syndrome include facial acne, susceptibility to superficial dermatophyte and malassezia infections, and the characteristic purplish, atrophic striae on the abdomen. James, William; Berger, Timothy; Elston, Dirk (2005). Andrews' Diseases of the Skin: Clinical Dermatology. (10th ed.). Saunders. ISBN 0-7216-2921-0. 
+
+Other signs include polyuria (and accompanying polydipsia), persistent hypertension (due to cortisol's enhancement of epinephrine's vasoconstrictive effect) and insulin resistance (especially common in ectopic ACTH production), leading to hyperglycemia (high blood sugar) and insulin resistance which can lead to diabetes mellitus. Insulin resistance is accompanied by skin changes such as acanthosis nigricans in the axilla and around the neck, as well as skin tags in the axilla. Untreated Cushing's syndrome can lead to heart disease and increased mortality. Cortisol can also exhibit mineralcorticoid activity in high concentrations, worsening the hypertension and leading to hypokalemia (common in ectopic ACTH secretion). Furthermore, excessive cortisol may lead to gastrointestinal disturbances, opportunistic infections and impaired wound healing related to cortisol's suppression of the immune and inflammatory responses. Osteoporosis is also an issue in Cushing's syndrome since osteoblast activity is inhibited. Additionally, Cushing's syndrome may cause sore and aching joints, particularly in the hip, shoulders, and lower back. Cushing’s syndrome includes all the causes of increased cortisol leading to the diseased state. Cushing’s disease is a specific type of Cushing’s syndrome caused by a pituitary tumor leading to excessive production of ACTH (Adrenocorticotropic hormone). Excessive ACTH stimulates the adrenal cortex to produce high levels of cortisol, producing the disease state. Cushing's disease due to excess ACTH may also result in hyperpigmentation. This is due to Melanocyte-Stimulating Hormone production as a byproduct of ACTH synthesis from Pro-opiomelanocortin (POMC). A variant of Cushing's disease can be casused by ectopic, i.e. extra-pituitary, ACTH production from for example a small cell lung cancer. When Cushing's syndrome is caused by an increase of cortisol at the level of the adrenal glands (via an adenoma or hyperplasia), negative feedback ultimately reduces ACTH production in the pituitary. In these cases, ACTH levels remain low and no hyperpigmentation develops. While all Cushing’s disease is Cushing’s syndrome, not all Cushing’s syndrome is Cushing’s disease.
+
+In summary:
+* Rapid weight gain
+* Moodiness, irritability, or depression
+* Muscle and bone weakness
+* Memory and attention dysfunction
+* Osteoporosis
+* Diabetes mellitus
+* Hypertension
+* Immune suppression
+* Sleep disturbances
+* Menstrual disorders such as amenorrhea in women and decreased fertility in men
+* Hirsutism
+* Baldness
+* Hypercholesterolemia
+
+==Cause==
+There are several possible causes of Cushing's syndrome.
+
+===Exogenous vs. endogenous===
+
+The most common cause of Cushing's syndrome is exogenous administration of glucocorticoids prescribed by a health care practitioner to treat other diseases (called iatrogenic Cushing's syndrome). This can be an effect of corticosteroid treatment of a variety of disorders such as asthma and rheumatoid arthritis, or in immunosuppression after an organ transplant. Administration of synthetic ACTH is also possible, but ACTH is less often prescribed due to cost and lesser utility. Although rare, Cushing's syndrome can also be due to the use of medroxyprogesterone. In this form of Cushing's, the adrenal glands atrophy due to lack of stimulation by ACTH, since glucocorticoids downregulate production of ACTH. Cushing syndrome in childhood usually results from use of glucocorticoid medication. 
+
+Endogenous Cushing's syndrome results from some derangement of the body's own system of secreting cortisol. Normally, ACTH is released from the pituitary gland when necessary to stimulate the release of cortisol from the adrenal glands.
+
+* In pituitary Cushing's, a benign pituitary adenoma secretes ACTH. This is also known as Cushing's disease and is responsible for 70% of endogenous Cushing's syndrome. 
+
+* In adrenal Cushing's, excess cortisol is produced by adrenal gland tumors, hyperplastic adrenal glands, or adrenal glands with nodular adrenal hyperplasia.
+
+* Tumors outside the normal pituitary-adrenal system can produce ACTH (occasionally with CRH) that affects the adrenal glands. This etiology is called ectopic or paraneoplastic Cushing's disease and is seen in diseases like small cell lung cancer. 
+* Finally, rare cases of CRH-secreting tumors (without ACTH secretion) have been reported, which stimulates pituitary ACTH production. 
+
+===Pseudo-Cushing's syndrome===
+Elevated levels of total cortisol can also be due to estrogen found in oral contraceptive pills that contain a mixture of estrogen and progesterone, leading to Pseudo-Cushing's syndrome. Estrogen can cause an increase of cortisol-binding globulin and thereby cause the total cortisol level to be elevated. However, the total free cortisol, which is the active hormone in the body, as measured by a 24 hour urine collection for urinary free cortisol, is normal. 
+
+==Epidemiology==
+Iatrogenic Cushing's syndrome (caused by treatment with corticosteroids) is the most common form of Cushing's syndrome. Cushing's disease is rare, a Danish study found an incidence of less than one case per million people per year. However, asymptomatic microadenomas (less than 10mm in size) of the pituitary are found in approximately one in six individuals. 
+
+==Pathophysiology==
+The hypothalamus is in the brain and the pituitary gland sits just below it. The paraventricular nucleus (PVN) of the hypothalamus releases corticotropin-releasing hormone (CRH), which stimulates the pituitary gland to release adrenocorticotropin (ACTH). ACTH travels via the blood to the adrenal gland, where it stimulates the release of cortisol. Cortisol is secreted by the cortex of the adrenal gland from a region called the zona fasciculata in response to ACTH. Elevated levels of cortisol exert negative feedback on the pituitary, which decreases the amount of ACTH released from the pituitary gland.
+
+Strictly, Cushing's syndrome refers to excess cortisol of any etiology (as Syndrome means a group of symptoms). One of the causes of Cushing's syndrome is a cortisol secreting adenoma in the cortex of the adrenal gland (primary hypercortisolism/hypercorticism). The adenoma causes cortisol levels in the blood to be very high, and negative feedback on the pituitary from the high cortisol levels causes ACTH levels to be very low.
+
+On the other hand, Cushing's disease refers only to hypercortisolism secondary to excess production of ACTH from a corticotroph pituitary adenoma (secondary hypercortisolism/hypercorticism) or due to excess production of hypothalamus CRH (Corticotropin releasing hormone) (tertiary hypercortisolism/hypercorticism). This causes the blood ACTH levels to be elevated along with cortisol from the adrenal gland. The ACTH levels remain high because the tumor is unresponsive to negative feedback from high cortisol levels.
+
+Cushing's disease is not to be confused with Ectopic Cushing syndrome Ectopic Cushing syndrome at A.D.A.M. Medical Encyclopedia, PubMedHealth, National Institute of Health (a.k.a. Ectopic ACTH syndrome), which is often seen in Paraneoplastic syndrome. See its ICD-10 classification.
+
+==Diagnosis==
+When Cushing's syndrome is suspected, either a dexamethasone suppression test (administration of dexamethasone and frequent determination of cortisol and ACTH level), or a 24-hour urinary measurement for cortisol offer equal detection rates. Dexamethasone is a glucocorticoid and simulates the effects of cortisol, including negative feedback on the pituitary gland. When dexamethasone is administered and a blood sample is tested, cortisol levels >50nmol/L (1.81 µg/dL) would be indicative of Cushing's syndrome because there is an ectopic source of cortisol or ACTH (such as adrenal adenoma) that is not inhibited by the dexamethasone. A novel approach, recently cleared by the US FDA, is sampling cortisol in saliva over 24 hours, which may be equally sensitive, as late night levels of salivary cortisol are high in Cushingoid patients. Other pituitary hormone levels may need to be ascertained. Performing a physical examination to determine any visual field defect may be necessary if a pituitary lesion is suspected, which may compress the optic chiasm causing typical bitemporal hemianopia.
+
+When any of these tests are positive, CT scanning of the adrenal gland and MRI of the pituitary gland are performed to detect the presence of any adrenal or pituitary adenomas or incidentalomas (the incidental discovery of harmless lesions). Scintigraphy of the adrenal gland with iodocholesterol scan is occasionally necessary. Occasionally, determining the ACTH levels in various veins in the body by venous catheterization, working towards the pituitary (petrosal sinus sampling) is necessary. In many cases the tumors causing cushing's disease are less than 2 mm in size and difficult to detect using MRI or CT imaging. In one study of 261 patients with confirmed pituitary Cushing's Disease, only 48% of pituitary lesions were identified using MR Imaging prior to surgery. Jagannathan, J. et al, Outcome of using the histological pseudocapsule as a surgical capsule in Cushing disease, Journal of Neurosurgery, 25 September 2010, Retrieved 2014-01-27 
+
+Plasma CRH levels are inadequate at diagnosis (with the possible exception of tumors secreting CRH) because of peripheral dilution and binding to CRHBP. 
+
+==Mnemonic==
+
+The word "cushingoid" is a useful way to consider the complications and symptoms of Cushing's. http://www.medicalmnemonics.com/cgi-bin/return_browse.cfm?&discipline=Pharmacology&system=Endocrine&browse=1 
+
+Cataracts
+
+Ulcers
+
+Skin: striae, thinning, bruising
+
+Hypertension/ Hirsutism/ Hyperglycemia
+
+Infections
+
+Necrosis, avascular necrosis of the femoral head
+
+Glycosuria
+
+Osteoporosis, obesity
+
+Immunosuppression
+
+Diabetes
+
+==Treatment==
+Most Cushing's syndrome cases are caused by corticosteroid medications (iatrogenic), such as those used for asthma, arthritis, and other inflammatory conditions. Consequently, most patients are effectively treated by carefully tapering off (and eventually stopping) the medication that causes the symptoms.
+
+If an adrenal adenoma is identified it may be removed by surgery. An ACTH-secreting corticotrophic pituitary adenoma should be removed after diagnosis. Regardless of the adenoma's location, most patients will require steroid replacement postoperatively at least in the interim as long-term suppression of pituitary ACTH and normal adrenal tissue does not recover immediately. Clearly, if both adrenals are removed, replacement with hydrocortisone or prednisolone is imperative.
+
+In those patients not suitable for or unwilling to undergo surgery, several drugs have been found to inhibit cortisol synthesis (e.g. ketoconazole, metyrapone) but they are of limited efficacy. Mifepristone is a powerful glucocorticoid type II receptor antagonist and, since it does not interfere with normal cortisol homeostatis type I receptor transmission, may be especially useful for treating the cognitive effects of Cushing's syndrome. Belanoff et al., 2001, Rapid reversal of psychotic depression using mifepristone, J Clin Psychopharmacol, 21(5) 516-521 However, the medication faces considerable controversy due to its use as an abortifacient. In February 2012 the FDA approved mifepristone in order to control high blood sugar level (hyperglycemia) in adult patients who are not candidates for surgery, or who did not respond to prior surgery, with the warning that mifepristone should never be used by pregnant women. 
+
+Removal of the adrenals in the absence of a known tumor is occasionally performed to eliminate the production of excess cortisol. In some occasions, this removes negative feedback from a previously occult pituitary adenoma, which starts growing rapidly and produces extreme levels of ACTH, leading to hyperpigmentation. This clinical situation is known as Nelson's syndrome. 
+
+== See also ==
+* Addison's disease
+* List of cutaneous conditions
+
+==References==
+
+== External links ==
+* The European Register on Cushing's Syndrome
+* Patient information (PDF)
+* Cushing's Support and Research Foundation
+* Brochure for Primary Care Physicians, to increase awareness of Cushing's syndrome
+* The Pituitary Foundation providing support to patients with Cushing's and other pituitary disorders
+* The difference between Cushing’s disease and other forms of Cushing’s syndrome
+
+

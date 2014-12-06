@@ -1,0 +1,105 @@
+[[Freakonomics]]
+
+Freakonomics: A Rogue Economist Explores the Hidden Side of Everything is a non-fiction book by University of Chicago economist Steven Levitt and New York Times journalist Stephen J. Dubner. It was published on April 12, 2005 by William Morrow. The book has been described as melding pop culture with economics. By late 2009, the book had sold over 4 million copies worldwide.
+
+==Overview==
+The book is a collection of 'economic' articles written by Levitt, an expert who has already gained a reputation for applying economic theory to diverse subjects not usually covered by "traditional" economists; he does, however, accept the standard neoclassical microeconomic model of rational utility-maximization. In Freakonomics, Levitt and Dubner argue that economics is, at root, the study of incentives. The book's topics include:
+* Chapter 1: Discovering cheating as applied to teachers and sumo wrestlers, as well as a typical Washington DC area bagel business and its customers
+* Chapter 2: Information control as applied to the Ku Klux Klan and real-estate agents
+* Chapter 3: The economics of drug dealing, including the surprisingly low earnings and abject working conditions of crack cocaine dealers
+* Chapter 4: The role legalized abortion has played in reducing crime, contrasted with the policies and downfall of Romanian dictator Nicolae Ceauşescu (Levitt explored this topic in an earlier paper entitled "The Impact of Legalized Abortion on Crime.")
+* Chapter 5: The negligible effects of good parenting on education
+* Chapter 6: The socioeconomic patterns of naming children (nominative determinism)
+
+One example of the authors' use of economic theory involves demonstrating the existence of cheating among sumo wrestlers. In a sumo tournament, all wrestlers in the top division compete in 15 matches and face demotion if they do not win at least eight of them. The sumo community is very close-knit, and the wrestlers at the top levels tend to know each other well. The authors looked at the final match, and considered the case of a wrestler with seven wins, seven losses, and one fight to go, fighting against an 8-6 wrestler. Statistically, the 7-7 wrestler should have a slightly below even chance, since the 8-6 wrestler is slightly better. However, the 7-7 wrestler actually wins around 80% of the time. Levitt uses this statistic and other data gleaned from sumo wrestling matches, along with the effect that allegations of corruption have on match results, to conclude that those who already have 8 wins collude with those who are 7-7 and let them win, since they have already secured their position for the following tournament. Despite condemnation of the claims by the Japan Sumo Association following the book's publication in 2005, the 2011 Grand Tournament in Tokyo was cancelled for the first time since 1946 because of allegations of match fixing.
+
+The authors attempt to demonstrate the power of data mining, as a number of their results emerge from Levitt's analysis of various databases. The authors posit that various incentives encourage teachers to cheat by assisting their students with multiple-choice high-stakes tests. Such cheating in the Chicago school system is inferred from detailed analysis of students' answers to multiple choice questions. But first Levitt asks, "What would the pattern of answers look like if the teacher cheated?" The simple answer: the more difficult questions found at the end of test sections will be answered correctly more frequently than the easy questions at the beginning of test sections.
+
+===Reappraisals===
+In Chapter 2 of Freakonomics, the authors wrote of their visit to folklorist Stetson Kennedy's Florida home where the topic of Kennedy's investigations of the Ku Klux Klan were discussed. However, in their January 8, 2006 column in the New York Times Magazine, Dubner and Levitt wrote of questions about Stetson Kennedy's research ("Hoodwinked", pp. 26–28) leading to the conclusion that Kennedy's research was at times embellished for effectiveness.
+
+In the "Revised and Expanded Edition" this embellishment was noted and corrected: 
+"Several months after Freakonomics was first published, it was brought to our attention that this man's portrayal of his crusade, and various other Klan matters, was considerably overstated....we felt it was important to set straight the historical record."
+
+==Refutations==
+
+===Effects of abortion ban===
+
+There have been many responses to the theory that legal abortion reduces crime – see abortion and crime effect#Responses|Legalized abortion and crime effect: Responses] and The Impact of Legalized Abortion on Crime for details.
+
+Freakonomics commented on the effects of an abortion ban in Romania (Decree 770), stating that "Compared to Romanian children born just a year earlier, the cohort of children born after the abortion ban would do worse in every measurable way: they would test lower in school, they would have less success in the labor market, and they would also prove much more likely to become criminals. (p. 118)". John DiNardo, a professor at the University of Michigan, retorts that the paper cited by Freakonomics states "virtually the opposite of what is actually claimed":
+
+Levitt responded on the Freakonomics Blog that Freakonomics and Pop-Eleches "are saying the same thing":
+
+===Effects of extra police on crime===
+Freakonomics claimed that it was possible to "tease" out the effect of extra police on crime by analysing electoral cycles. The evidence behind these claims was shown to be due partly to a programming error. McCrary stated "While municipal police force size does appear to vary over state and local electoral cycles ... elections do not induce enough variation in police hiring to generate informative estimates of the effect of police on crime."
+
+==Criticism==
+Freakonomics has been criticised for in fact being a work of sociology and/or criminology, rather than economics. Israeli economist Ariel Rubinstein criticised the book for making use of dubious statistics and complained that "economists like Levitt ... have swaggered off into other fields", saying that the "connection to economics ... none" and that the book is an example of "academic imperialism". Arnold Kling has suggested the book is an example of "amateur sociology".
+
+Thomas Ferguson, author of Golden Rule: The Investment Theory of Party Competition was asked in 2009 to respond to the following claim in Freakonomics:
+
+"A winning candidate can cut his spending in half and lose only 1 percent of the vote. Meanwhile, a losing candidate who doubles his spending can expect to shift the vote in his favor by only that same 1 percent."
+
+His response was:
+
+"Where on earth do such figures come from? You would need a fully specified regression equation to do this, that incorporated a lot of variables. Unless you hold constant everything else, including issues -- not easy even to imagine -- such claims are nonsense. Think of a couple of cases. Obviously, an incumbent Congressman or woman with a big margin could spend a bit less and probably do almost as well. By contrast, candidates in close elections surely cannot do this. The real issue is the dependence of money on taking conservative issue positions. Claims about existing candidates typically reflect censored data. That is, there's no one able to run that can run very far to the left."
+
+Economist Robert P. Murphy takes exception to the way the book describes economists and their field, saying the authors end up actually describing econometrics. He also contends the book's ambiguous style makes it very difficult to determine exactly what the authors are claiming in various chapters. 
+
+==Publishing history==
+Freakonomics peaked at number two among nonfiction on The New York Times Best Seller list and was named the 2006 Book Sense Book of the Year in the Adult Nonfiction category. The book received positive reviews from critics. The review aggregator Metacritic reported the book had an average score of 67 out of 100, based on 16 reviews.
+Screen shot of Freakonomics Blog
+
+The success of the book has been partly attributed to the blogosphere. In the campaign prior to the release of the book in April 2005, publisher (William Morrow and Company) chose to target bloggers in an unusually strategical way, sending galley copies to over a hundred of them, as well as contracting two specialized word of mouth (buzz marketing) agencies.
+
+In 2006, the Revised and Expanded Edition of the book was published, with the most significant corrections in the second chapter.
+
+==Freakonomics blog==
+The authors started their own Freakonomics blog, which is "meant to keep the conversation going", in 2005.
+
+In May 2007, writer and blogger Melissa Lafsky was hired as the full-time editor of the site. In August 2007, the blog was incorporated into The New York Times web site – the authors had been writing joint columns for The New York Times Magazine since 2004 – and the domain Freakonomics.com became a redirect there. In March 2008, Annika Mengisen replaced Lafsky as the blog editor. The Freakonomics blog ended its association with the New York Times on March 1, 2011.
+
+Among the recurrent guest bloggers on the Freakonomics blog are Ian Ayres, Daniel Hamermesh, Eric A. Morris, Sudhir Venkatesh, Justin Wolfers and others.
+
+In 2008, Stephen Dubner asked for questions from the site's readers and then featured them in an extended Q&A on "Best Places to Live" with demographics expert Bert Sperling. 
+
+==SuperFreakonomics==
+
+In April 2007, co-author Stephen Dubner announced that there would be a sequel to Freakonomics, and that it would contain further writings about street gang culture from Sudhir Venkatesh, as well as a study of the use of money by capuchin monkeys. Dubner said the title would be SuperFreakonomics, and that one topic would be what makes people good at what they do. The book was released in Europe in early October 2009 and in the United States on October 20, 2009.
+
+==Freakonomics radio==
+
+In September 2010, Marketplace radio announced the creation of a Freakonomics podcast hosted by Dubner and Levitt. It is available on iTunes and is aired bi-weekly on NPR. 
+
+==Film adaptation==
+
+In 2010, Chad Troutwine, Chris Romano, and Dan O'Meara produced a documentary film adaptation with a budget of nearly US$3 million in an omnibus format by directors Seth Gordon, Morgan Spurlock, Alex Gibney, Eugene Jarecki, Rachel Grady, and Heidi Ewing. It was the Closing Night Gala premiere film at the Tribeca Film Festival on April 30, 2010. It was also the Opening Night film at the AFI/Discovery SilverDocs film festival on June 21, 2010. Magnolia Pictures has acquired distribution rights for a Fall 2010 release.
+
+Freakonomics: The Movie was released in major cities with a pay what you want pricing offer for selected preview showings. No report of the results has yet been published.
+
+==Freakonomics Consulting Group==
+In 2009, Steven Levitt co-founded Freakonomics Consulting Group, a business and philanthropy consulting company now known as The Greatest Good. Founding partners include Nobel laureates Daniel Kahneman and Gary Becker, as well as several other prominent economists. 
+
+==See also==
+* Nominative determinism
+* Correlation does not imply causation
+* Malcolm Gladwell 
+
+==References==
+
+==Further reading==
+* 
+* 
+* Ariel Rubinstein (2006): "Freak-Freakonomics", The Economists' Voice: Vol. 3 : Iss. 9, Article 7
+* 
+* 
+* 
+
+==External links==
+* 
+* Critical review of the book by n+1 magazine
+* Seminar on the book at Crooked Timber
+* Full summary of Freakonomics
+
+

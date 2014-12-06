@@ -1,0 +1,282 @@
+[[Mozart piano concertos]]
+
+ style=\"font-size: larger;\" | Mozart Piano Concertos 
+ center 
+ Number of concertos: 30 
+ Instrumentation: Piano and orchestra 
+ Dates of composition: 1767–1791 
+
+Wolfgang Amadeus Mozart wrote 30 concertos for piano and orchestra. These works, many of which Mozart composed for himself to play in the Vienna concert series of 1784–86, held a special place for him; indeed, Mozart's father apparently interrupted him composing a "harpsichord concerto" at age 4. For a long time relatively neglected, they have come to be seen as containing some of his greatest achievements. Tovey championed them in his Essay on the Classical Concerto in 1903, and later came the famous books by Cuthbert Girdlestone and Arthur Hutchings in 1940 (originally published in French) and 1948, respectively. Hans Tischler published a structural and thematic analysis of the concertos in 1966, followed by the works by Charles Rosen, and Leeson and Robert Levin. Leeson, D. N. and Levin, R. D. 1977. On the authenticity of K Anh. C14.91 (297b), a Symphonia Concertante for Four Winds and Orchestra. Mozart-Jarbuch 1976/1977, 70-96. In recent years, two of the concertos have also been covered in the Cambridge Music Handbook series. The first complete edition was not until that of Richault from around 1850; and since then the scores and autographs have become widely available through the publications of, among others, Norton, Eulenberg and Dover.
+
+==Piano concertos==
+
+===Origins===
+Early keyboard concertos were written by, among others, C. P. E. Bach, J. C. Bach, Soler, Wagenseil, Schobert, Vanhall and Haydn. Earlier still, in the Fifth Brandenburg Concerto by J. S. Bach, the keyboard part is elevated to the most prominent position among the instruments. These works, with their alternation of orchestral tuttis and passages for solo display, in turn owe their structure from the tradition of Baroque operatic arias, from which the first movements of Mozart's piano concertos inherited their basic ritornellic structure. A similar structure can also be seen in the violin concerti of, for example, Vivaldi, who established the form, along with the three-movement concerto structure, and Viotti, wherein the concerto is divided into six sections. The keyboard parts of the concertos were almost invariably based on material presented in the ritornelli, and it was probably J. C. Bach, whom Mozart admired, who introduced the structural innovation of allowing the keyboard to introduce new thematic material in its first entry.
+
+===Early Mozart concertos===
+Concertos Nos 1–4 (K. 37, 39, 40 and 41) are orchestral and keyboard arrangements of sonata movements by other composers. The next three concertos (K. 107/1, 2 and 3), which are not numbered, are arrangements of piano sonatas by J. C. Bach (Op 5. No. 2 in D major; Opus 5. No. 3 in G Major and Opus 5. No. 4 in E flat major, all composed by 1766). Based on handwriting analysis of the autographs they are believed to date from 1771–72. Concerto No. 5 (1773) K. 175 was his first real effort in the genre, and one that proved popular at the time. Concerto No. 6, K. 238 in B flat Major from 1776 is the first Mozart concerto proper to introduce new thematic material in the piano's first solo section. Concerto No. 7 for three pianos (K. 242) and Concerto No. 8 (K. 246) also date from 1776 and are generally not regarded as demonstrating much of an advance, although No. 7 is quite well known.
+
+Nine months after No. 8, however, Mozart produced one of his early masterpieces, the "Jenamy" (formerly "Jeunehomme") concerto, No. 9, K. 271. This work shows a decisive advance in organisation of the first movement, as well as demonstrating some irregular features, such as the dramatic interruption of the orchestral opening by the piano after only one and a half bars. The final concerto Mozart wrote before the end of his Salzburg period was the well-known concerto No. 10 for two pianos, K. 365: the presence of the second piano disturbs the "normal" structure of piano-orchestra interaction.
+
+Finally, a fragment of a concerto for piano and violin, K. Anh. 56/315f exists that Mozart started in Mannheim in November 1778 for himself (piano) and Ignaz Fränzl (violin). The project was abandoned when the Elector, Charles Theodore moved the court and orchestra to Munich after succeeding to the Electorate of Bavaria in 1777, and Fränzl stayed behind. Mozart retained his links with the Mannheim musicians that he had established in his visits in 1777/1778, with one result being that his first great opera Idomeneo premiered in Munich in 1781: Charles Theodore commissioned it for a court carnival. For a biography of Fränzl, see , and for a discussion of the incomplete concerto including why it was not completed, see 
+
+===Early Vienna concertos===
+About 18 months after he arrived in Vienna, in the Autumn of 1782, Mozart wrote a series of three concertos for his own use in subscription concerts. He did, however, write, in the spring of that year, a replacement rondo finale in D major, K. 382 for No. 5, a work that proved very popular (on October 19, 1782 he completed another rondo, in A major, K. 386, possibly intended as an alternative ending for K. 414, No. 12). This group of three concertos was described by Mozart to his father in a famous letter: 
+
+These concertos 11, 12, and 13 are a happy medium between what is too easy and too difficult; they are very brilliant, pleasing to the ear, and natural, without being vapid. There are passages here and there from which the connoisseurs alone can derive satisfaction; but these passages are written in such a way that the less learned cannot fail to be pleased, though without knowing why. . . . The golden mean of truth in all things is no longer either known or appreciated. In order to win applause one must write stuff which is so inane that a coachman could sing it, or so unintelligible that it pleases precisely because no sensible man can understand it. Letter from Mozart to his father from Vienna, dated 28 December 1782. 
+
+This passage points to an important principle about Mozart's concertos, that they were designed in the main to entertain the public rather than solely to satisfy some inner artistic urge.
+
+These three concertos are all rather different from one another, and are relatively intimate works, despite the mock grandeur of the last one: indeed, arrangements exist for them for piano plus string quartet that lose little. No. 12, K. 414 in A major, the second of the series, is particularly fine: it is often described as "Tyrolean", and stands some comparison with the later A major concerto, K. 488. The last of these three, No. 13, K. 415, is an ambitious, perhaps even overambitious work, that introduces the first, military theme in a canon in an impressive orchestral opening: many consider the last movement the best. Like K. 414, it is paralleled by a later concerto in the same key, No. 21, K. 467.
+
+===Major Vienna works===
+
+====1784====
+The next concerto, K. 449 in E-flat major, ushers in a period of creativity that has certainly never been surpassed in piano concerto production. From February 1784 to March 1786, Mozart wrote no fewer than 11 masterpieces, with another (No. 25, K. 503) to follow in December of 1786. The advance in technique and structure from the early Vienna examples is marked from the very first of this mature series. Written for his pupil Barbara Ployer to play, it (K. 449) is the first instrumental work by Mozart that shows the strong influence of his operatic writing. K. 450, the next, shows a reversion to an earlier, galant style. K. 451 is a not very well known work (Hutchings appears not to have liked it particularly, although Girdlestone ranks it highly). The first movement is broadly "symphonic" in structure and marks a further advance in the interactions between piano and orchestra. Remarkably, Mozart records that he completed it only one week after the previous K. 450.
+
+The next three concertos, K. 453, 456 and 459, can be considered to form a group, as they all share certain features, such as the same rhythm in the opening (heard also in K. 415 and K. 451). K. 453 was written for Barbara Ployer, and is famous in particular for its last movement, although it is altogether a great work. The next concerto in B flat, K. 456 was, for a long time, believed to have been written for the blind pianist Maria Theresa von Paradis to play in Paris. According to Leopold Mozart's somewhat ambiguous letter of Feb 13, 1785 to his daughter. Paradis, however, was not in Paris in late 1784—the earliest that the score could reasonably have reached her, and the concerto he refers to might be another one. See main article on Maria Theresa von Paradis and Ullrich, H. 1946. Maria Theresia Paradis and Mozart. Music & Letters 27, 224-233. It is a short work, with a fine slow movement. Finally, K. 459, no. 19, is sunny with an exhilarating finale.
+
+====1785====
+1785 is marked by the contrasting pair K. 466 (no. 20 in D minor) and K. 467 (no. 21 in C major), again, remarkably, written within the same month. These two works, one the first minor-key concerto Mozart wrote (both K. 271 and 456 have a minor-key second movement) and a dark and stormy work, and the other sunny, are among the most popular works Mozart produced. The final concerto of the year, K. 482 (no. 22 in E-flat), is slightly less popular, possibly because it lacks the striking themes of the first two. Mozart did not write cadenzas for these concertos; or if he did, they have since been lost.
+
+====1786====
+Mozart managed to write two more masterpieces in one month, March: The first was No. 23 in A major K. 488, one of the most consistently popular of his concertos, notable particularly for its poignant slow movement in F-sharp minor, the only work he wrote in the key. He followed it with No. 24, K. 491, which Hutchings regards as his finest effort. It is a dark and passionate work, made more striking by its classical restraint, and the final movement, a set of variations, is commonly called "sublime."
+The final work of the year, No. 25, K. 503, is one of the most expansive of all classical concertos, rivaling no. 5 of Beethoven.
+
+===Later concertos===
+K. 503 was the last of the regular series of concertos Mozart wrote for his subscription concerts. The next work, K. 537, the "Coronation", completed in February 1788, has a mixed reputation and possibly is the revision of a smaller chamber concerto into a larger structure. Despite its structural problems, it remains popular. Two fragments of piano concertos, K. 537a and K. 537b, in D major and D minor respectively, were also probably begun in this month, although perhaps earlier. Finally, the last concerto, no. 27 (K. 595) was the first work from the last year of Mozart's life: it represents a return to form for Mozart in the genre. Its texture is sparse, intimate and even elegiac.
+
+==The Mozartian concept of the piano concerto==
+In the works of his mature series, Mozart created a unique conception of the piano concerto that attempted to solve the ongoing problem of how thematic material is dealt with by the orchestra and piano, and with the exception of the two exceptionally fine early concertos K. 271 (Jeunehomme) and K. 414 (the "little A major") all of his best examples are from later works. He strives to maintain a mean between a symphony with occasional piano solos and a virtuoso piano fantasia with orchestral accompaniment; twin traps that later composers were not always able to avoid. His resulting solutions are varied (none of the mature series is really similar to any of the others structurally, apart from at a broad level) and complex.
+
+===First movement structure===
+The form of Mozart's piano concerto first movements has generated much discussion, of which modern instances were initiated by the highly influential analysis provided by Tovey in his Essay. In broad terms, they consist of (using the terminology of Hutchings):
+
+*Prelude (orchestra) In the later concertos (e.g., Nos 19-21, 23-24 and 26-27) typically opening quietly. The reasons for this, as Grayson discusses (see references, p. 31) are probably twofold. First, concertos as opposed to symphonies tended to be in the middle of concert programmes rather than opening them, so did not need to be so "attention grabbing"; secondly, a quiet orchestral opening allows the piano's solo entry in the exposition to balance the orchestra's opening better. 
+*Exposition (piano, plus orchestra), ending in a trill in the dominant (for major key concertos) or the relative major (for minor key concertos)
+*First Ritornello (orchestra)
+*Middle Section (piano plus orchestra)
+*Recapitulation (piano plus orchestra)
+*Final Ritornello (orchestra, but always including a piano cadenza).
+
+This structure is rather easy to hear when listening, particularly because the ends of the exposition and recapitulation are typically marked with trills or shakes.
+
+It is tempting to equate this structure with sonata form, but with a double exposition; so
+
+*Prelude = 1st exposition
+*Exposition = 2nd exposition
+*Middle section = development
+*Recapitulation + final Ritornello = Recapitulation (piano concerto section first, sonata form section second).
+
+However, while there are broad correspondences, this simple equation does not really do justice to the Mozartian scheme. For example, the piano concerto may well not include a well-defined second group of subjects in the prelude; and in particular, does not include a definitive modulation to the dominant in this section, as might be expected from sonata form, even though Mozart feels free to shift the sense of tonality around in this and other sections. The reason for this, as Tovey remarked, is that the purpose of the Prelude is to generate a sense of expectation leading towards the piano entry; and this must come from the music itself, and not just from the title on the top of the page. If a complete sonata form were imposed on the Prelude, then it would take on a life of its own, so that when the piano entry occurs, it would be rather incidental to the overall structure. To express it in another way, in sonata form, the first group of subjects is linked to and generates an expectation of the second group, which would tend to detract attention away from the piano entry - a point that, as Tovey points out, was only grasped by Beethoven rather belatedly. Conversely, in the Mozartian concept, the piano entry is always a moment of great importance, and he varies it considerably from concerto to concerto. The only exception to this rule is the dramatic intervention of the piano in the second bar of the Jeunehomme concerto, which is, however, minor enough not to disturb the overall structure. Rather than the Prelude being a "preliminary canter" (Hutchings) of the themes of the concerto, its role is to introduce and familiarise us to the material that will be used in the ritornellic sections, so that we get a sense of return at each of these. Technically, therefore, the ritornello sections should only include themes that are introduced in the Prelude. In practice, however, Mozart allows himself to sometimes vary even this rule. For example, in piano concerto no. 19, the first ritornello introduces a new theme, which, however, plays only a minor linking role between the restatements of the first theme.
+
+The prelude is invariably rich in thematic material, with as many as six or more well-defined themes being introduced. However, the concertos fall into two rather marked groups as to what sort of themes they possess. The most popular concertos, such as Nos 19, 20, 21 and 23 tend to have well marked themes. However, another group, such as Nos 11, 16, 22 and 27, the themes are less marked, and the overall effect is of homogeneity. As Mozart's art progressed, these themes sometimes become less strophic in nature, i.e., he binds them together into a more unified whole.
+
+In addition to the ritornello thematic material, Mozart's mature concertos nearly all introduce new thematic material in the piano exposition, the exceptions being K. 488 in A major, which, however, follows an unusual course after this, and K. 537. Hutchings recognises these by labeling ritornellic themes A, B, C etc., and expositional themes x, y etc. Mostly these are first introduced by the piano; but sometimes (e.g., theme y of No. 19) the orchestra plays this role. Sometimes the exposition starts with one of these new themes (in piano concertos Nos. 9, 20, 22, 24 and 25), but the exposition can also start by restating one of the preludial themes.
+
+In addition to the preludial and expositional themes, the exposition typically contains various free sections that show off the piano; but, contrary to the popular conception of the piano concerto, and to how it developed in the nineteenth century, these sections are not merely empty displays, but rather, short sections that fit into the overall scheme.
+
+The middle sections, as in much of Mozart's symphonic output, are typically short, and rarely contain the sort of development associated with, in particular, Beethoven. In other words, Mozart normally generates his middle sections by shuffling, condensing and modulating his thematic material, but not by taking a simple theme and genuinely developing it into new possibilities. However, as is the case with all generalisations involving his piano concertos, this can be overstated: the middle section of No. 25, for example, can be described as being a genuine development. In other concertos, such as No. 16, there is no such thing.
+
+Mozart's themes are cunningly employed, so that they fit together in various ways. Despite the formal advances in the prelude, the themes are often later used in different orders, so that a scheme of a prelude ABCDE might later become ABADA or somesuch. Some of the so-called "ritornellic" material of the prelude might indeed never appear again, or only at the end. For example, in piano concerto no. 19 in F, theme C never appears again, while E and F only appear to close the entire movement. This flexibility is of particular importance in the recapitulation, which, though it invariably commences with a restatement of the first preludial theme, is no mere repetition of the preludial themes. Rather, it condenses and varies them so that the listener is not tired by simple reproduction. The genius of Mozart's mature movements, therefore, is to be able to manipulate a mass of thematic material without compromising the broader scale conception; and the listener, rather than being given the impression of "fiddling" with all the themes, instead is left with the ritornellic impression: Mozart truly uses "art to conceal art".
+
+One further point of great importance is the interaction between piano and orchestra. In the earlier concertos, such as the not totally successful No. 13 in C major, and even more so, perforce, in the concertos for two and three pianos, the interaction between the two is limited, but the later concertos develop the subtle relations between them to a high degree; for example, in No. 16, K. 451. His later concertos are truly described as concertos for "piano and orchestra" rather than the more obviously "piano" concertos of the nineteenth century (e.g., that of Grieg etc.).
+
+Because Mozart was developing the form of his concertos as he wrote them, and not following any preconceived "rules" (apart, presumably, from his own judgement of taste), many of the concertos contravene one or other of the generalisations given above. For example, K. 488 in A major lacks new expositional material, and "merely" repeats the preludial material; further, it effectively merges the first ritornello and the middle section, as does K. 449 in E flat. Several of the later concertos do not hesitate to introduce new material in the supposedly "ritornellic" sections, such as in K. 459, 488 and 491, or, indeed, in the middle section (K. 453, K. 459, K. 488).
+
+===Second movement structure===
+Mozart's second movements are varied, but may be broadly seen as falling into a few main categories. Most of them are marked Andante, but he himself marked at least the poignant A major (K. 488) one Adagio, presumably to stress its pathetic nature rather than to dictate a particularly slow speed. Conversely, the slow movement of the sunny No. 19 in F major is marked Allegretto, in keeping with the mood of the entire concerto. Hutchings Hutchings (see references) pp. 16-17. gives the following list of movement types (slightly modified):
+
+K. 175: Sonata form
+K. 238: Aria-sonata
+K. 242: Sonata
+K. 246: Aria
+K. 271: Aria
+K. 365: Binary dialogue
+K. 413: strophic binary aria
+K. 414: strophic binary aria
+K. 415: Ternary with coda
+K. 449: Ternary with coda
+K. 450: Variations with coda
+K. 451: Rondo
+K. 453: Aria
+K. 456: Variations
+K. 459: Sonata (but without development)
+K. 466: Romanza
+K. 467: Irregular
+K. 482: Variations
+K. 488: Sonata
+K. 491: Romanza
+K. 503: Sonata without development
+K. 537: Romanza
+K. 595: Romanza
+
+Girdlestone puts the slow movements into five main groups: galant, romance, dream, meditative, and minor.
+
+===Third movement structure===
+Mozart's third movements are generally in the form of a rondo, the customary, rather light structure for the period. However, two of his most important finales, that to K. 453, and to K. 491, are in variation form, and both these are generally considered among his best. In addition, three more concertos, K. 450, 451 and 467 can be regarded as being in rondo-sonata form, with the second theme modulating to the dominant or relative major. However, the simple refrain-episode-refrain-episode-refrain structure of a rondo does not escape Mozart's revising attentions. The difficulty for Mozart with the typical rondo structure is that it is naturally strophic; i.e., the structure is divided into a series of highly differentiated and distinct sections. However, such a structure does not lend itself to creating an overall unity in the movement, and Mozart thus attempts various ways (with greater or lesser success) to overcome this problem. For example, he may have complex first themes (K. 595), contrapuntal treatment (K. 459), or rhythmic and other variation of the theme itself (K. 449). In general, Mozart's third movements are as varying as his first, and their relation to a "rondo" is sometimes as slender as having a first tune (refrain) that returns.
+
+===Similar works by other composers===
+Mozart's large output of piano concertos put his influence firmly on the genre. Joseph Haydn had written several keyboard concertos (meant for either harpsichord or piano) in the earlier galant style, but his last keyboard concerto, No. 11 in D, is much more obviously Mozartian, having been written considerably later and concurrently with Mozart's output. Joseph Wölfl contributed several piano concertos shortly after Mozart's death that also clearly showed Mozart's influence. Beethoven's first three concertos also show a Mozartian influence to a somewhat lesser extent; this is also true of Carl Maria von Weber, J. N. Hummel, John Field, and others.
+
+==Performance considerations==
+The performance of Mozart's concertos has become a topic of considerable focus in recent years, with various issues such as the size of the orchestra and its instrumentation, the cadenzas, role of the soloist as continuo and improvisation of the written piano part all coming under scrutiny.
+
+===Orchestra===
+Mozart's concertos were performed in his lifetime in a variety of settings, and the orchestra available no doubt varied from place to place. The more intimate works, for example, K. 413-415, were ideal for performance in the salon of an aristocratic music-lover: Mozart himself advertised them as possible to play "a quattro", i. e. with just a string quartet accompanying the piano. In larger settings, such as halls or the theatre (or indeed, outdoors), larger orchestral forces were possible, and indeed a requirement for the more richly scored concertos such as K. 503. In particular, the later concertos have a wind band that is absolutely integral to the music. An extant theatre almanac from 1782, from the Burgtheater in Vienna, suggests that, for the theatre, there were 35 members of the orchestra, e.g., six first and six second violins; four violas, three cellos, three basses, pairs of flutes, clarinets, oboes and bassoons, horns and trumpets, with a timpanist. See comments in Grayson (in references), p. 114. 
+
+===Piano===
+Fortepiano by Paul McNulty after Walter & Sohn, ca. 1805
+All of Mozart's mature concertos were concertos for the piano and not the harpsichord. His earliest efforts from the mid-1760s were presumably for the harpsichord, but Broder Broder, N. 1941. Mozart and the "clavier". Musical Quarterly XXVII, 422-432; showed in 1941 that Mozart himself did not use the harpsichord for any concerto from No. 12 (K. 414) onwards. In fact, Mozart's original piano was returned to Vienna in 2012 after a 200 year absence and was used in a concert shortly after its return. This is the same piano that Mozart kept at his home and brought through the streets for use at various concerts. 
+
+Although early Viennese pianos were in general rather inferior instruments, the fortepianos made by Mozart's friend Stein and Anton Walter, instruments that Mozart much admired, were much more suitable for Mozart's purposes. The fortepianos were of course much quieter instruments than the modern concert grand piano, so that the balance between the orchestra and soloist may not easily be reproduced using modern instruments, especially when small orchestras are used. The rise in interest in "authentic performance" issues in the last few decades has, however, led to a revival of the fortepiano, and several recordings now exist with an approximate reconstruction of the sound Mozart might have himself expected.
+
+====Continuo role====
+It seems likely, although it is not absolutely certain, that the piano would have retained its ancient keyboard basso continuo role in the orchestral tuttis of the concertos, and possibly in other places as well. That this was Mozart's intention is implied by several lines of evidence. Grayson (see references), pp. 104-108. First, the piano part is placed in his autographs at the bottom of the score under the basses, rather than in the middle as in modern scores. Second, he wrote "CoB" (col Basso - with the basses) in the lower stave of the piano part during tuttis, implying that the left hand should reproduce the bass part. Some times, this bass was figured too, for example in the early edition of Nos 11-13 by Artaria in 1785, and Mozart and his father added figuration themselves to several of the concertos, such as the third piano part of No. 7 for three pianos (K. 242), and to No. 8 (K. 246), where Mozart even realised the figuration. On the other hand, this view is not entirely accepted. Rosen, for example, has the view that the essential feature of the piano concerto is the contrast between the solo, accompanied and tutti sections; and this psychological drama would have been ruined if the piano was effectively playing the whole time, albeit discreetly. In support of his case, Rosen argued that the published figured bass of No. 13 (K. 415) was error-strewn and thus not by Mozart; that Mozart's realisation of the figuration in No. 8 (K. 246) was for use in highly reduced orchestras (i. e. strings with no wind), and that the "CoB" instruction was for cueing purposes. Conversely, other scholars, notably Robert Levin have argued that real performance practice by Mozart and his contemporaries would have been considerably more embellished than even the chords suggested by the figuration. A place where the addition of the piano to the orchestra is particularly common is in the last bars after the cadenza, where the orchestra in score plays to the end on its own (except in No. 24, K. 491), but in practice pianists, if only to finish playing at the end, sometimes accompany.
+
+As far as modern practice goes, the matter is complicated by the very different instrumentation of today. The early fortepianos produced a more "orchestral" sound that blended easily into the orchestral background, so that discrete continuo playing could have the effect of strengthening the sonic output of the orchestra without (in effect) destroying the ritornellic structure that is the basis for the Mozart piano concerto. Furthermore, when the soloist is directing the orchestra as well, as Mozart would have been, the addition of continuo would help keep the band together. Finally, it should be noted that the vast majority of performances of Mozart piano concertos heard today are recorded rather than live, with the net effect of flattering the piano's sound (i. e. the blending of the piano and orchestra is harder to achieve in the studio than in the concert hall); hence, continuo playing by the soloist in recordings might be too intrusive and obvious for most tastes. Nevertheless, continuo playing has discreetly appeared in some modern recordings (of the fortepiano) with success, or at least, lack of intrusion (see discography, below).
+
+====Cadenzas====
+Mozart's fame as an improviser (see next section) have led many to suggest that the cadenzas and Eingänge ("lead-ins": i. e. brief cadenza-like passages leading into returns of the main theme in a rondo) were extensively improvised by him during performance. However, against this must be set the fact that Mozart's own cadenzas are preserved for the majority of the concertos, and may have existed for others (e.g., the now missing cadenzas for Nos. 20, K. 466 and No 21, K. 467 are possibly mentioned by his father in letters to his sister in 1785 On March 25th and April 8th. But Leopold might not have been referring to these concertos - see e.g., ). On the other hand, the cadenzas were not supplied as part of the concerto to the publishers, and it would no doubt have been expected that other pianists would supply their own. As might be expected, opinion is sharply divided, with some commentators (notably Hutchings) strongly urging the use of Mozart's own cadenzas when available, and when not for cadenzas to be like Mozart's, especially as far as length goes (i. e. short). The sorts of problems that exist are exemplified by the cadenzas written by the young Beethoven for No. 20 in D minor (which has no extant Mozart cadenzas); Hutchings complains that although they are the best option available, the genius of Beethoven shines through them and, by implication, this makes them a "piece within a piece" that tends to distract from the unity of the movements as a whole. Hutchings (see references), p. 206, footnote. 
+
+====Improvisation====
+Perhaps the most controversial aspect of the concertos is the extent to which Mozart (or other contemporary performers) would have embellished the piano part as written in the score. Mozart's own ability to improvise was famous, and he often played from very sketchy piano parts. Furthermore, there are several very "bare" parts in the concerto scores that have led some to deduce that the performer is meant to improvise embellishments at these points, the most notorious being towards the end of the F sharp minor second movement of No. 23 in A major (K. 488) (the end of the first subject of the second movement of No. 24 in C minor, K. 491 is another example). Manuscript evidence exists to suggest that embellishment did occur (e.g., an embellished version of the slow movement of No. 23, apparently by his gifted pupil Barbara Ployer). In 1840, evidence was published from two brothers, Philipp Karl and Heinrich Anton Hoffmann, who had heard Mozart perform two concertos, Nos 19 and 26 (K. 459 and K. 537) in Frankfurt am Main in 1790. Philip Karl reported that Mozart embellished his slow movements "tenderly and tastefully once one way, once another according to the momentary inspiration of his genius", and he later (1803) published embellished Mozart slow movements to six of his later concertos (K. 467, K. 482, K. 488, K. 491, K. 503 and K. 595). Mozart himself wrote to his sister in 1784 agreeing with her that something was missing in the slow movement of K. 451, and an embellished part of the passage in question is preserved in St Peters Archabbey, Salzburg (see location of autographs below); presumably the part he sent her. Mozart also wrote embellished versions of several of his piano sonatas, including the Durnitz Sonata, K. 284/205b; the slow movement of K. 332/300k; and the slow movement of K. 457. In all of these works, the embellishments appear in the first editions published under Mozart's guidance, with the suggestion that they represent examples of embellishments for lesser pianists than himself to follow. However, to many admirers of the concertos, it is exactly these sparse points that are so beautiful, and the establishment of the autographs as the texts for the concertos has made many pianists reluctant to depart from them. Nevertheless, the existence of these Mozartian additions, and of several other embellished versions published early in the 19th century suggests that the expectation would be that especially slow movements would be embellished according to the taste or skill of the performer, and thus that the versions most commonly heard today would not reflect how the original listeners in general experienced these works.
+
+==Assessment and reception==
+Mozart's development of the piano concerto created a complex form that was arguably never surpassed. Of the later composers (especially after Beethoven, who noted Mozartian procedure) only Brahms paid attention to his classicism as expressed in the formal structure of these works. Their value as music and popularity does not, naturally enough, rest upon their formal structure though, but on the musical content. Mozart's piano concertos are filled with assured transition passages, modulations, dissonances, Neapolitan relationships and suspensions. This technical skill, combined with a complete command of his (admittedly rather limited) orchestral resources, in particular of the woodwind in the later concertos, allowed him to create a variety of moods at will, from the comic operatic nature of the end of K. 453, through to the dream-like state of the famous "Elvira Madigan" Andante from K. 467, through to the majestic expansiveness of his "emperor" concerto, K. 503. In particular, these major works of Mozart could hardly fail to be influenced by his own first love, i. e., opera, and the Mozart of Figaro, Don Giovanni and Die Zauberflöte is found throughout them. Mozart clearly valued the concertos, some of which he guarded carefully. For example, No. 23 was not published in his lifetime, and the score was kept within his family and close circle of friends, whom he asked not to give it away.
+
+The qualities of the piano concertos, although for some time undervalued (especially during the nineteenth century), have become more fully appreciated in the last 50 years or so. The list of notable names that have contributed cadenzas to the concertos (e.g., Beethoven, Hummel, Landowska, Britten, Brahms, Schnittke etc.) attests to this fact. Beethoven was clearly impressed by them: even if the anecdotal story about his comments to Ferdinand Ries about no. 24 is legendary, his concerto no. 3 was clearly inspired by Mozart's no. 24, and his entire concerto production took its point of departure as the Mozartian concept.
+
+Despite their renown, the Mozart piano concertos are not without some detractors. Even amongst his mature examples, there are examples of movements that can be argued to fall short of his normally high standards. This is particularly true for some of the last movements, which can appear too light to balance the first two movements - an example being the last movement of No. 16. Girdlestone considered that even popular movements such as the last movement to No. 23 did not really satisfactorily solve the inherent structural problems of rondo last movements, and he suggests that it was not until the last movement of the Jupiter Symphony that Mozart produced a truly great last movement. Similarly, a few of the slow movements have sometimes been considered repetitive (e.g., Hutchings' view of the Romanzas in general, and that to No. 20 in D minor in particular—an assessment later disputed by Grayson Grayson (see references), p. 60. ).
+
+Today, at least three of these works (nos. 20, 21 and 23) are among the most recorded and popular classical works in the repertoire, and with the release of several complete recordings of the concertos in recent years, notably by Philips and Naxos, some of the less-well known concertos may also increase in popularity.
+
+==Discography==
+The discography for Mozart's piano concertos is massive. In recent years, a number of (more or less) complete sets of the concertos have been released; these include:
+DGG: Mozart Die Klavierkonzerte. Camerata Academica des Salzburger Mozarteums. und Dirigent Geza Anda. - Full set sans Nos 7 and 10. DGG Ref 2720030.
+Naxos: Concentus Hungaricus, conducted Andras Ligeti, Matyas Antal and
+Ildiko Hegyi, played by Jeno Jando. Nos 7 and 10 have Denes Varjon as
+the other pianist (No. 7 in the arrangement for 2 pianos).
+Sony: English Chamber Orchestra, conducted by Murray Perahia, played by
+Murray Perahia. Nos 7 and 10 have Radu Lupu as the extra pianist (No. 7
+in the arrangement for 2 pianos).
+Decca: Camerata Academica, conducted by Sandor Vegh, played by András Schiff. Lacks Nos 1-4 and the double/triple concertos.
+EMI Classics: English Chamber Orchestra, conducted and played by Daniel
+Barenboim. Lacks the 2 and 3 piano concertos.
+Brilliant Classics: Philharmonia Orchestra, conducted by 
+Paul Freeman, played by Derek Han. No. 10 for two pianos: Zoltán Kocsis and Dezső Ránki; No. 7 for three: Zoltán Kocsis, Dezső Ránki and András Schiff (nos 7 and 10 Hungarian State Symphony Orchestra, conducted by Janos Ferencsik).
+
+Philips (Complete Mozart edition): Academy of St. Martin-in-the Field, conducted by Neville
+Marriner. Played by Alfred Brendel. Imogen Cooper is the extra pianist
+in Nos 7 and 10. Concertos 1-4: Vienna Capella Academica, conducted by
+Eduard Melkus. Played by Ingrid Haebler. Also has the three
+arrangements of sonatas by J.C. Bach (K. 107/1, 2 and 3).
+Philips: English Chamber Orchestra, conducted by Jeffrey Tate, played by Mitsuko Uchida. Lacks Nos 1-4 and the double and triple concertos.
+
+Notable fortepiano recordings include:
+
+Archiv: English Baroque Soloists, conducted by John Eliot Gardiner, played by Malcom Bilson, with Melvyn Tan and Robert Levin for the double/triple concertos. Nos 1-4 available under the brand of MusicMasters Classics with Thomas Crawford as conductor and Orchestra of the Old Fairfield Academy
+Channel Classics: Anima Eterna Orchestra, conducted and played by Jos van Immerseel. Lacks Nos 1-4 and the double/triple concertos.
+Classical Express: Philharmonia Baroque Orchestra, conducted by Nicholas McGegan, played by Melvyn Tan (Nos 18-19).
+Virgin: New Mozart Ensemble, played by Melvyn Tan (Nos 9 and 27).
+L'Oiseau-Lyre: Academy of Ancient Music, conducted by Christopher Hogwood, played by Robert Levin.
+EtCetera: Musicae Antiquae Collegium Varsoviense, conducted by Tadeusz Karolak, played by Viviana Sofronitsky. Incl. double/triple concertos and the early harpsichord concertos.
+
+==The piano concertos in films==
+Mozart's piano concertos have also featured in the soundtracks to several films; again, the slow movement to No. 21 (KV. 467) is the most popular. Its extensive use in the 1967 film Elvira Madigan about a doomed love story between a Danish tightrope walker and a Swedish officer has led to the concerto often being referred to as "Elvira Madigan" even today, when the film itself is largely forgotten. A partial list of the concertos in recent films includes:
+
+*Elvira Madigan (1967 - the Bo Widerberg version) – No. 21.
+*Funeral in Berlin (1966) - No. 23.
+*Incompreso (1966) - No. 23.
+*The Spy Who Loved Me (1977) – No. 21.
+*They All Laughed (1981) – No. 27.
+*Amadeus (1984 – the fictionalised Mozart biopic) – Nos. 10 (for two pianos), 15, 20 & 22.
+*Barfly (1987) – No. 25.
+*Pacific Heights (1990) – No. 19.
+*Regarding Henry (1991) – No. 21.
+*Boxing Helena (1993) – No. 25.
+*Silent Fall (1994) – No. 21.
+*The Associate (1996) – No. 25.
+*The Way of the Gun (2000) – No. 23.
+*Le Goût des autres (2000) – No. 21.
+*Spun (2002) – No. 23.
+*The New World (2005) – No. 23.
+*Superman Returns (2006) – No. 21.
+*The Lady (2011) – No. 23.
+
+==Sound clips==
+* Piano Concerto No. 20 in D minor, K. 466, First Movement, allegro 
+
+==Location of autographs of the concertos==
+The autographs of the concertos owned by Mozart's widow were purchased by Johann Anton André in 1799, and most of these passed into the collections of the Prussian State Library in Berlin in 1873. Other autographs owned by Otto Jahn had been acquired in 1869. A few parts of André's collection remained for a long time in private hands; hence, in 1948 when Hutchings compiled the whereabouts of the autographs, two (Nos 6 and 21) were in the hands of the Wittgenstein family in Vienna, whilst No. 5 was owned by F. A. Grassnick in Berlin and No. 26 by D. N. Heinemann in Brussels; a few others were scattered around other museums. In the last 50 years, however, all of the extant autographs have made their way into libraries. The entire Prussian State collection of autographs was evacuated during World War II to the eastern front, where they disappeared and were feared lost until the 1970s. At this point they resurfaced in Poland and are now held in the Jagiellońska Library in Kraków. In addition, various copies used by Mozart and his family have come to light. The list of locations of the autographs given by Cliff Eisen In his Foreword to the 1997 edition of Hutchings. in 1997 is:
+
+K: 37, 39-41: Jagiellońska Library, Kraków.
+K. 175: Autograph lost; Mozart family copy: Archabbey of St Peter's, Salzburg.
+K. 238: Library of Congress, Washington, D.C. Mozart family copy in St Peter's, Salzburg.
+K. 242: Jagiellońska Library, Kraków. Other copies: Staatsbibliothek zu Berlin; Stanford University Library.
+K. 246: Jagiellońska Library, Kraków. Mozart family copy, St Peter's, Salzburg.
+K. 271: Jagiellońska Library, Kraków. Mozart family copy, St Peter's, Salzburg.
+K. 365: Jagiellońska Library, Kraków. Mozart family copy, St Peter's, Salzburg; performance copy in Statni Zamek a Zahrady, Kromeriz, Czech Republic.
+K. 413: Jagiellońska Library, Kraków. Mozart copy (incomplete), St Peter's, Salzburg.
+K. 414: Jagiellońska Library, Kraków. Mozart copy (incomplete), St Peter's, Salzburg.
+K. 415: Jagiellońska Library, Kraków. Mozart copy, St Peter's, Salzburg.
+K. 449: Jagiellońska Library, Kraków. Mozart family copy, St Peter's, Salzburg.
+K. 450: Thüringische Landesbibliothek, Weimar, Germany.
+K. 451: Jagiellońska Library, Kraków. Mozart family copy, St Peter's, Salzburg.
+K. 453: Jagiellońska Library, Kraków. 
+K. 456: Jagiellońska Library, Kraków.
+K. 459: Jagiellońska Library, Kraków.
+K. 466: Bibliothek und Archiv, Gesellschaft der Musikfreunde, Vienna. Mozart family copy, St Peter's, Salzburg.
+K. 467: Pierpont Morgan Library, New York.
+K. 482: Jagiellońska Library, Kraków.
+K. 488: Bibliothèque Nationale, Paris.
+K. 491: Royal College of Music, London.
+K. 503: Jagiellońska Library, Kraków.
+K. 537: Library of Congress, Washington, D.C. A facsimile has been published by Dover Publications.
+K. 595: Jagiellońska Library, Kraków.
+
+==Concertos where Mozart's own cadenzas (and Eingänge) are extant==
+K. 175: Two versions for each of the first two movements.
+K. 246: Two for first movement, three for the second.
+K. 271: Two for each movement.
+K. 365: First and third movements.
+K. 413: First and second movements.
+K. 414: All movements, two for second.
+K. 415: All movements.
+K. 449: First movement.
+K. 450: First and third movements.
+K. 451: First and third movements.
+K. 453: Two for first and second movements.
+K. 456: Two for first movement, one for third.
+K. 459: First and third movements.
+K. 488: First movement (unusually, written into the autograph).
+K. 595: First and third movements.
+
+Cadenzas to at least K. 466 and 467 also possibly existed.
+
+These cadenzas are part of the public domain and can be accessed here: 
+http://imslp.org/wiki/36_Cadenzas,_K.624_%28Mozart,_Wolfgang_Amadeus%29
+
+==Notes==
+
+==References==
+* Girdlestone, C. M. 1997. Mozart's piano concertos. Cassell, London. ISBN 0-304-30043-8
+* Grayson, D. 1998. Mozart piano concertos nos 20 and 21. Cambridge Music Handbooks, Cambridge University Press. ISBN 0-521-48475-8
+* Hutchings, A. 1997. A Companion to Mozart's Piano Concertos, Oxford University Press. ISBN 0-19-816708-3
+* Mozart, W. A. Piano Concertos Nos. 1-6 in full score. Dover Publications, New York.ISBN 0-486-44191-1
+* Mozart, W. A. Piano Concertos Nos. 7-10 in full score. Dover Publications, New York. ISBN 0-486-41165-6
+* Mozart, W. A. Piano Concertos Nos. 11-16 in full score. Dover Publications, New York. ISBN 0-486-25468-2
+* Mozart, W. A. Piano Concertos Nos. 17-22 in full score. Dover Publications, New York. ISBN 0-486-23599-8
+* Mozart, W. A. Piano Concertos Nos. 23-27 in full score. Dover Publications, New York. ISBN 0-486-23600-5
+* Mozart, W. A. Piano Concerto No. 26 in D Major ("Coronation"), K. 537—The Autograph Score. (NY: The Pierpont Morgan Library in association with Dover Publications, 1991). ISBN 0-486-26747-4.
+* Rosen, C. 1997. The Classical Style, expanded edition. Norton, New York. ISBN 0-393-04020-8
+* Tischler, H. 1988. A structural analysis of Mozart's Piano Concertos. Institute of Medieval Music, New York. ISBN 0-912024-80-1
+* Tovey, D. F. Essays in musical analysis, volume 3, Concertos. Oxford University Press.
+
+== External links ==
+* The Mozart Forums Köchel catalogue page has a useful summary of the information about the concertos (and all of Mozart's other known works) contained in the Köchel catalogue - accessed 15 December 2006.
+* The Mozart Forums Mozart PIano Concerto page has a set of articles about the concertos - accessed 22 December 2006.
+
+ 
+
+

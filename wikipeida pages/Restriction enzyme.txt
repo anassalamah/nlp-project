@@ -1,0 +1,154 @@
+[[Restriction enzyme]]
+
+A restriction enzyme (or restriction endonuclease) is an enzyme that cuts DNA at or near specific recognition nucleotide sequences known as restriction sites. Restriction enzymes are commonly classified into three types, which differ in their structure and whether they cut their DNA substrate at their recognition site, or if the recognition and cleavage sites are separate from one another. To cut DNA, all restriction enzymes make two incisions, once through each sugar-phosphate backbone (i.e. each strand) of the DNA double helix.
+
+These enzymes are found in bacteria and archaea and provide a defense mechanism against invading viruses. Inside a prokaryote, the restriction enzymes selectively cut up foreign DNA in a process called restriction; while host DNA is protected by a modification enzyme (a methylase) that modifies the prokaryotic DNA and blocks cleavage. Together, these two processes form the restriction modification system. 
+
+Over 3000 restriction enzymes have been studied in detail, and more than 600 of these are available commercially. These enzymes are routinely used for DNA modification in laboratories, and are a vital tool in molecular cloning. 
+
+==History==
+The term restriction enzyme originated from the studies of phage λ and the phenomenon of host-controlled restriction and modification of a bacterial virus. The phenomenon was first identified in work done in the laboratories of Salvador Luria and Giuseppe Bertani in early 1950s. It was found that a bacteriophage λ that can grow well in one strain of Escherichia coli, for example E. coli C, when grown in another strain, for example E. coli K, its yields can drop significantly, by as much as 3-5 orders of magnitude. The E. coli K host cell, known as the restricting host, appears to have the ability to reduce the biological activity of the phage λ. If a phage becomes established in one strain, the ability of that phage to grow also become restricted in other strains. In the 1960s, it was shown in work done in the laboratories of Werner Arber and Matthew Meselson that the restriction is caused by an enzymatic cleavage of the phage DNA, and the enzyme involved was therefore termed a restriction enzyme. 
+
+The restriction enzymes studied by Arber and Meselson were type I restriction enzymes which cleave DNA randomly away from the recognition site. In 1970, Hamilton O. Smith, Thomas Kelly and Kent Welcox isolated and characterized the first type II restriction enzyme, HindII, from the bacterium Haemophilus influenzae. This type of restriction enzymes is more useful for laboratory use as they cleave DNA at the site of their recognition sequence. It was later shown by Daniel Nathans and Kathleen Danna that cleavage of simian virus 40 (SV40) DNA by restriction enzymes yielded specific fragments which can be separated using polyacrylamide gel electrophoresis, thus showing that restriction enzymes can be used for mapping of the DNA. For their work in the discovery and characterization of restriction enzymes, the 1978 Nobel Prize for Physiology or Medicine was awarded to Werner Arber, Daniel Nathans, and Hamilton O. Smith. Their discovery led to the development of recombinant DNA technology that allowed, for example, the large scale production of human insulin for diabetics using E. coli bacteria. 
+
+==Origins==
+Restriction enzymes likely evolved from a common ancestor and became widespread via horizontal gene transfer. In addition, there is mounting evidence that restriction endonucleases evolved as a selfish genetic element. 
+
+== Recognition site ==
+A palindromic recognition site reads the same on the reverse strand as it does on the forward strand when both are read in the same orientation
+Restriction enzymes recognize a specific sequence of nucleotides and produce a double-stranded cut in the DNA. The recognition sequences usually vary between 4 and 8 nucleotides, and many of them are palindromic, meaning the base sequence reads the same backwards and forwards. In theory, there are two types of palindromic sequences that can be possible in DNA. The mirror-like palindrome is similar to those found in ordinary text, in which a sequence reads the same forward and backwards on a single strand of DNA strand, as in GTAATG. The inverted repeat palindrome is also a sequence that reads the same forward and backwards, but the forward and backward sequences are found in complementary DNA strands (i.e., of double-stranded DNA), as in GTATAC (GTATAC being complementary to CATATG). Inverted repeat palindromes are more common and have greater biological importance than mirror-like palindromes.
+
+EcoRI digestion produces "sticky" ends,
+
+90px
+
+whereas SmaI restriction enzyme cleavage produces "blunt" ends:
+
+90px
+
+Recognition sequences in DNA differ for each restriction enzyme, producing differences in the length, sequence and strand orientation (5' end or the 3' end) of a sticky-end "overhang" of an enzyme restriction. 
+
+Different restriction enzymes that recognize the same sequence are known as neoschizomers. These often cleave in different locales of the sequence. Different enzymes that recognize and cleave in the same location are known as isoschizomers.
+
+== Types ==
+Naturally occurring restriction endonucleases are categorized into four groups (Types I, II III, and IV) based on their composition and enzyme cofactor requirements, the nature of their target sequence, and the position of their DNA cleavage site relative to the target sequence. All types of enzymes recognize specific short DNA sequences and carry out the endonucleolytic cleavage of DNA to give specific fragments with terminal 5'-phosphates. They differ in their recognition sequence, subunit composition, cleavage position, and cofactor requirements, as summarised below:
+
+* Type I enzymes () cleave at sites remote from recognition site; require both ATP and S-adenosyl-L-methionine to function; multifunctional protein with both restriction and methylase () activities.
+* Type II enzymes () cleave within or at short specific distances from recognition site; most require magnesium; single function (restriction) enzymes independent of methylase.
+* Type III enzymes () cleave at sites a short distance from recognition site; require ATP (but do not hydrolyse it); S-adenosyl-L-methionine stimulates reaction but is not required; exist as part of a complex with a modification methylase ().
+* Type IV enzymes target modified DNA, e.g. methylated, hydroxymethylated and glucosyl-hydroxymethylated DNA
+
+=== Type I ===
+Type I restriction enzymes were the first to be identified and were first identified in two different strains (K-12 and B) of E. coli. These enzymes cut at a site that differs, and is a random distance (at least 1000 bp) away, from their recognition site. Cleavage at these random sites follows a process of DNA translocation, which shows that these enzymes are also molecular motors. The recognition site is asymmetrical and is composed of two specific portions—one containing 3–4 nucleotides, and another containing 4–5 nucleotides—separated by a non-specific spacer of about 6–8 nucleotides. These enzymes are multifunctional and are capable of both restriction and modification activities, depending upon the methylation status of the target DNA. The cofactors S-Adenosyl methionine (AdoMet), hydrolyzed adenosine triphosphate (ATP), and magnesium (Mg2+) ions, are required for their full activity. Type I restriction enzymes possess three subunits called HsdR, HsdM, and HsdS; HsdR is required for restriction; HsdM is necessary for adding methyl groups to host DNA (methyltransferase activity) and HsdS is important for specificity of the recognition (DNA-binding) site in addition to both restriction (DNA cleavage) and modification (DNA methyltransferase) activity. 
+
+=== Type II ===
+
+Typical type II restriction enzymes differ from type I restriction enzymes in several ways. They are a homodimer, with recognition sites are usually undivided and palindromic and 4–8 nucleotides in length. They recognize and cleave DNA at the same site, and they do not use ATP or AdoMet for their activity—they usually require only Mg2+ as a cofactor. These are the most commonly available and used restriction enzymes. In the 1990s and early 2000s, new enzymes from this family were discovered that did not follow all the classical criteria of this enzyme class, and new subfamily nomenclature was developed to divide this large family into subcategories based on deviations from typical characteristics of type II enzymes. These subgroups are defined using a letter suffix.
+
+Type IIB restriction enzymes (e.g. BcgI and BplI) are multimers, containing more than one subunit. They cleave DNA on both sides of their recognition to cut out the recognition site. They require both AdoMet and Mg2+ cofactors. Type IIE restriction endonucleases (e.g. NaeI) cleave DNA following interaction with two copies of their recognition sequence. One recognition site acts as the target for cleavage, while the other acts as an allosteric effector that speeds up or improves the efficiency of enzyme cleavage. Similar to type IIE enzymes, type IIF restriction endonucleases (e.g. NgoMIV) interact with two copies of their recognition sequence but cleave both sequences at the same time. Type IIG restriction endonucleases (Eco57I) do have a single subunit, like classical Type II restriction enzymes, but require the cofactor AdoMet to be active. Type IIM restriction endonucleases, such as DpnI, are able to recognize and cut methylated DNA. Type IIS restriction endonucleases (e.g. FokI) cleave DNA at a defined distance from their non-palindromic asymmetric recognition sites. These enzymes may function as dimers. Similarly, Type IIT restriction enzymes (e.g., Bpu10I and BslI) are composed of two different subunits. Some recognize palindromic sequences while others have asymmetric recognition sites. 
+
+=== Type III ===
+Type III restriction enzymes (e.g. EcoP15) recognize two separate non-palindromic sequences that are inversely oriented. They cut DNA about 20-30 base pairs after the recognition site. These enzymes contain more than one subunit and require AdoMet and ATP cofactors for their roles in DNA methylation and restriction, respectively. They are components of prokaryotic DNA restriction-modification mechanisms that protect the organism against invading foreign DNA. Type III enzymes are hetero-oligomeric, multifunctional proteins composed of two subunits, Res and Mod. The Mod subunit recognises the DNA sequence specific for the system and is a modification methyltransferase; as such it is functionally equivalent to the M and S subunits of type I restriction endonuclease. Res is required for restriction, although it has no enzymatic activity on its own. Type III enzymes recognise short 5-6 bp long asymmetric DNA sequences and cleave 25-27 bp downstream to leave short, single-stranded 5' protrusions. They require the presence of two inversely oriented unmethylated recognition sites for restriction to occur. These enzymes methylate only one strand of the DNA, at the N-6 position of adenosyl residues, so newly replicated DNA will have only one strand methylated, which is sufficient to protect against restriction. Type III enzymes belong to the beta-subfamily of N6 adenine methyltransferases, containing the nine motifs that characterise this family, including motif I, the AdoMet binding pocket (FXGXG), and motif IV, the catalytic region (S/D/N (PP) Y/F). 
+
+=== Type IV ===
+Type IV enzymes recognize modified, typically methylated DNA and are exemplified by the McrBC and Mrr systems of E. coli. https://www.neb.com/products/restriction-endonucleases/restriction-endonucleases/types-of-restriction-endonucleases 
+
+===Type V===
+Type V restriction enzymes (e.g., the cas9-gRNA complex from CRISPRs ) utilize guide RNAs to target specific non-palindromic sequences found on invading organisms. They can cut DNA of variable length provided that a suitable guide RNA is provided. The flexibility and ease of use of these enzymes make them promising for future genetic engineering applications. Philippe, H. and Rodolphe, B. CRISPR/Cas, the immune system of bacteria and archaea. Science 2010 Le, C. et al. Multiplex genome engineering using CRISPR/Cas systems. 2013. Science 
+
+=== Artificial restriction enzymes ===
+Artificial restriction enzymes can be generated by fusing a natural or engineered DNA binding domain to a nuclease domain (often the cleavage domain of the type IIS restriction enzyme . ) Such artificial restriction enzymes can target large DNA sites (up to 36 bp) and can be engineered to bind to desired DNA sequences. Zinc finger nucleases are the most commonly used artificial restriction enzymes and are generally used in genetic engineering applications, but can also be used for more standard gene cloning applications. Other artificial restriction enzymes are based on the DNA binding domain of TAL effectors. 
+
+== Nomenclature ==
+
+ Derivation of the EcoRI name 
+ Abbreviation Meaning Description 
+ E Escherichia genus 
+ co coli specific epithet 
+ R RY13 strain 
+ I First identified order of identificationin the bacterium 
+
+Since their discovery in the 1970s, more than 100 different restriction enzymes have been identified in different bacteria. Each enzyme is named after the bacterium from which it was isolated using a naming system based on bacterial genus, species and strain. For example, the name of the EcoRI restriction enzyme was derived as shown in the box.
+
+==Applications==
+:See the main article on restriction digests.
+Isolated restriction enzymes are used to manipulate DNA for different scientific applications.
+
+They are used to assist insertion of genes into plasmid vectors during gene cloning and protein expression experiments. For optimal use, plasmids that are commonly used for gene cloning are modified to include a short polylinker sequence (called the multiple cloning site, or MCS) rich in restriction enzyme recognition sequences. This allows flexibility when inserting gene fragments into the plasmid vector; restriction sites contained naturally within genes influence the choice of endonuclease for digesting the DNA since it is necessary to avoid restriction of wanted DNA while intentionally cutting the ends of the DNA. To clone a gene fragment into a vector, both plasmid DNA and gene insert are typically cut with the same restriction enzymes, and then glued together with the assistance of an enzyme known as a DNA ligase. 
+
+Restriction enzymes can also be used to distinguish gene alleles by specifically recognizing single base changes in DNA known as single nucleotide polymorphisms (SNPs). This is only possible if a SNP alters the restriction site present in the allele. In this method, the restriction enzyme can be used to genotype a DNA sample without the need for expensive gene sequencing. The sample is first digested with the restriction enzyme to generate DNA fragments, and then the different sized fragments separated by gel electrophoresis. In general, alleles with correct restriction sites will generate two visible bands of DNA on the gel, and those with altered restriction sites will not be cut and will generate only a single band. The number of bands reveals the sample subject's genotype, an example of restriction mapping.
+
+In a similar manner, restriction enzymes are used to digest genomic DNA for gene analysis by Southern blot. This technique allows researchers to identify how many copies (or paralogues) of a gene are present in the genome of one individual, or how many gene mutations (polymorphisms) have occurred within a population. The latter example is called restriction fragment length polymorphism (RFLP). 
+
+Artificial restriction enzymes created by linking the FokI DNA cleavage domain with an array of DNA binding proteins or zinc finger arrays, denoted zinc finger nucleases (ZFN), are a powerful tool for host genome editing due to their enhanced sequence specificity. ZFN work in pairs, their dimerization being mediated in-situ through the FokI domain. Each zinc finger array (ZFA) is capable of recognizing 9-12 base-pairs, making for 18-24 for the pair. A 5-7 bp spacer between the cleavage sites further enhances the specificity of ZFN, making them a safe and more precise tool that can be applied in humans. A recent Phase I clinical trial of ZFN for the targeted abolition of the CCR5 co-receptor for HIV-1 has been undertaken 
+
+Others have proposed using the bacteria R-M system as a model for devising human anti-viral gene or genomic vaccines and therapies since the RM system serves an innate defense-role in bacteria by restricting tropism by bacteriophages. Research is on REases and ZFN that can cleave the DNA of various human viruses, including HSV-2, high-risk HPVs and HIV-1, with the ultimate goal of inducing target mutagenesis and aberrations of human-infecting viruses. Interestingly, the human genome already contains remnants of retroviral genomes that have been inactivated and harnessed for self-gain. Indeed, the mechanisms for silencing active L1 genomic retroelements by the three prime repair exonuclease 1 (TREX1) and excision repair cross complementing 1(ERCC) appear to mimic the action of RM-systems in bacteria, and the non-homologous end-joining (NHEJ) that follows the use of ZFN without a repair template. 
+
+== Examples ==
+:See the main article on list of restriction enzyme cutting sites.
+
+Examples of restriction enzymes include: 
+
+ Enzyme Source Recognition Sequence Cut 
+ EcoRI Escherichia coli 5'GAATTC 3'CTTAAG 5'---G AATTC---3' 3'---CTTAA G---5' 
+ EcoRII Escherichia coli 5'CCWGG 3'GGWCC 5'--- CCWGG---3' 3'---GGWCC ---5' 
+ BamHI Bacillus amyloliquefaciens 5'GGATCC 3'CCTAGG 5'---G GATCC---3' 3'---CCTAG G---5' 
+ HindIII Haemophilus influenzae 5'AAGCTT 3'TTCGAA 5'---A AGCTT---3' 3'---TTCGA A---5' 
+ TaqI Thermus aquaticus 5'TCGA 3'AGCT 5'---T CGA---3' 3'---AGC T---5' 
+ NotI Nocardia otitidis 5'GCGGCCGC 3'CGCCGGCG 5'---GC GGCCGC---3' 3'---CGCCGG CG---5' 
+ Haemophilus influenzae 5'GANTC 3'CTNAG 5'---G ANTC---3' 3'---CTNA G---5' 
+ Sau3AI Staphylococcus aureus 5'GATC 3'CTAG 5'--- GATC---3' 3'---CTAG ---5' 
+ PvuII* Proteus vulgaris 5'CAGCTG 3'GTCGAC 5'---CAG CTG---3' 3'---GTC GAC---5' 
+ SmaI* Serratia marcescens 5'CCCGGG 3'GGGCCC 5'---CCC GGG---3' 3'---GGG CCC---5' 
+ HaeIII* Haemophilus aegyptius 5'GGCC 3'CCGG 5'---GG CC---3' 3'---CC GG---5' 
+ HgaI Haemophilus gallinarum 5'GACGC 3'CTGCG 5'---NN NN---3' 3'---NN NN---5' 
+ AluI* Arthrobacter luteus 5'AGCT 3'TCGA 5'---AG CT---3' 3'---TC GA---5' 
+ EcoRV* Escherichia coli 5'GATATC 3'CTATAG 5'---GAT ATC---3' 3'---CTA TAG---5' 
+ EcoP15I Escherichia coli 5'CAGCAGN25NN 3'GTCGTCN25NN 5'---CAGCAGN25 NN---3' 3'---GTCGTCN25NN ---5' 
+ KpnI Klebsiella pneumoniae 5'GGTACC 3'CCATGG 5'---GGTAC C---3' 3'---C CATGG---5' 
+ PstI Providencia stuartii 5'CTGCAG 3'GACGTC 5'---CTGCA G---3' 3'---G ACGTC---5' 
+ SacI Streptomyces achromogenes 5'GAGCTC 3'CTCGAG 5'---GAGCT C---3' 3'---C TCGAG---5' 
+ SalI Streptomyces albus 5'GTCGAC 3'CAGCTG 5'---G TCGAC---3' 3'---CAGCT G---5' 
+ ScaI* Streptomyces caespitosus 5'AGTACT 3'TCATGA 5'---AGT ACT---3' 3'---TCA TGA---5' 
+ SpeI Sphaerotilus natans 5'ACTAGT 3'TGATCA 5'---A CTAGT---3' 3'---TGATC A---5' 
+ SphI Streptomyces phaeochromogenes 5'GCATGC 3'CGTACG 5'---GCATG C---3' 3'---C GTACG---5' 
+ StuI* Streptomyces tubercidicus 5'AGGCCT 3'TCCGGA 5'---AGG CCT---3' 3'---TCC GGA---5' 
+ XbaI Xanthomonas badrii 5'TCTAGA 3'AGATCT 5'---T CTAGA---3' 3'---AGATC T---5' 
+ 
+
+Key:
+* = blunt ends
+N = C or G or T or A
+W = A or T
+
+==See also==
+* Detailed articles about certain restriction enzymes: EcoRI, HindIII, BglII.
+* Homing endonuclease
+* Isoschizomer.
+* List of homing endonuclease cutting sites
+* List of restriction enzyme cutting sites
+* Molecular weight size marker
+* Star activity
+
+==References==
+
+==External links==
+
+Visualizations:
+* Computer-generated animation of a restriction enzyme locating a target sequence and cutting the DNA there
+General Information:
+* 
+* 
+* 
+* 
+Databases:
+* 
+Software:
+* 
+* 
+* 
+* 
+* 
+
+ 
+

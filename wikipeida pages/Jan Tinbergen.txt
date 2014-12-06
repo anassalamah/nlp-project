@@ -1,0 +1,57 @@
+[[Jan Tinbergen]]
+
+Jan Tinbergen (April 12, 1903June 9, 1994) was a Dutch economist. He was awarded the first Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel in 1969, which he shared with Ragnar Frisch for having developed and applied dynamic models for the analysis of economic processes. Tinbergen was a founding trustee of Economists for Peace and Security.
+
+==Biography==
+Jan Tinbergen was the eldest of five children of Dirk Cornelis Tinbergen and Jeannette van Eek. His brother Niko would also win a Nobel Prize (for physiology, during 1973) for his work in ethology, while his youngest brother Luuk would become a famous ornithologist. Between 1921 and 1925, Tinbergen studied mathematics and physics at the University of Leiden under Paul Ehrenfest. During those years at Leiden he had numerous discussions with Ehrenfest, Kamerlingh Onnes, Hendrik Lorentz, Pieter Zeeman, and Albert Einstein. Jan Tinbergen (1903–1994) Koninklijke Bibliotheek (in Dutch) 
+
+After graduating, Tinbergen fulfilled his community service in the administration of a prison in Rotterdam and at the Central Bureau of Statistics (CBS) in The Hague. He then returned to the University of Leiden and in 1929 defended his PhD thesis titled "Minimumproblemen in de natuurkunde en de economie" (Minimisation problems in Physics and Economics). This topic was suggested by Ehrenfest and allowed Tinbergen to combine his interests in mathematics, physics, economics and politics. At that time, CBS established a new department of business surveys and mathematical statistics, and Tinbergen became its first chairman, working at CBS until 1945. Access to the vast CBS data helped Tinbergen in testing his theoretical models. In parallel, starting from 1931 he was professor of statistics at the University of Amsterdam, and in 1933 he was appointed associate professor of mathematics and statistics at The Netherlands School of Economics, Rotterdam, where he stayed until 1973. 
+
+From 1929 to 1945 he worked for the Dutch statistical office and briefly served as consultant to the League of Nations (1936–1938). In 1945 he became the first director of the Netherlands Bureau for Economic Policy Analysis and left this position in 1955 to focus on education. He spent one year as a visiting professor at the Harvard University and then returned to the Dutch Economic Institute (the successor of the Netherlands School of Economics). In parallel, he provided consulting services to international organizations and governments of various developing countries, such as United Arab Republic, Turkey, Venezuela, Surinam, Indonesia and Pakistan. Curriculum Vitae. nobelprize.org 
+
+Tinbergen was a member of the Royal Netherlands Academy of Arts and Science and of the International Academy of Science. In 1956 he founded the Econometric Institute at the Erasmus Universiteit Rotterdam together with Henri Theil, who also was his successor in Rotterdam. The Tinbergen Institute was named in his honour. The International Institute of Social Studies (ISS) awarded its Honorary Fellowship to Jan Tinbergen in 1962. 
+
+==Work==
+Minister Pronk, Tinbergen and De Seynes at an economy symposium in The Hague, 23 May 1975
+Tinbergen became known for his 'Tinbergen Norm', which is the principle that, if the ratio between the greatest and least income in a company exceeds 5, it will not help the company and may be counterproductive.
+
+Tinbergen developed the first national comprehensive macroeconomic model, which he first developed in 1936 for the Netherlands, and later applied to the United States and the United Kingdom.
+
+In his work on macroeconomic modelling and economic policy making, Tinbergen classified some economic quantities as targets and others as instruments. Targets are those macroeconomic variables the policy maker wishes to influence, whereas instruments are the variables that the policy maker can control directly. Tinbergen emphasized that achieving the desired values of a certain number of targets requires the policy maker to control an equal number of instruments.
+
+Tinbergen's classification remains influential today, underlying the theory of monetary policy used by central banks. Many central banks today regard the inflation rate as their target; the policy instrument they use to control inflation is the short-term interest rate. Blinder, Alan (1999), Central Banking in Theory and Practice. MIT Press, ISBN 0262522608. 
+
+Tinbergen's work on macroeconomic models was later continued by Lawrence Klein, contributing to another Nobel Memorial Prize in Economic Sciences. For his cultural contributions, he was given the Gouden Ganzenveer in 1985. 
+
+Tinbergen’s econometric modelling lead to a lively debate with well several known participants including J.M. Keynes, Ragnar Frisch and Milton Friedman. The debate is sometime referred to as the Tinbergen debate. 
+
+==Selected publications==
+* Business Cycles in the United States, 1919–1932, Geneva, 1939 and New York, 1968
+* Business Cycles in the United Kingdom, 1870–1914, Amsterdam, 1951
+* On the Theory of Economic Policy. Second edition (1952) is Volume 1 of Contributions to Economic Analysis, Amsterdam: North-Holland.
+* Centralization and Decentralization in Economic Policy, Amsterdam, 1954 ISBN 0-313-23077-3.
+* Economic Policy: Principles and Design, Amsterdam, 1956
+* The Element of Space in Development Planning (together with L.B.M. Mennes and J.G. Waardenburg), Amsterdam, 1969
+* The Dynamics of Business Cycles: A Study in Economic Fluctuations. Chicago: U of Chicago P, 1974. ISBN 0-226-80418-6.
+* Der Dialog Nord-Süd: Informationen zur Entwicklungspolitik. Frankfurt am Main: Europ. Verlagsanstalt, 1977.
+* Economic policy: Principles and Design. Amsterdam, 1978. ISBN 0-7204-3129-8.
+
+;About Tinbergen
+* Acocella, Nicola, Di Bartolomeo, Giovanni (2006), ‘Tinbergen and Theil meet Nash: controllability in policy games’, in: ‘Economics Letters’, 90(2): 213-218.
+* Acocella, Nicola, Di Bartolomeo, Giovanni and Hughes Hallett, A. , ‘Policy games, policy neutrality and Tinbergen controllability under rational expectations’, in: ‘Journal of Macroeconomics’, 32(1): 55-67.
+* Acocella, Nicola Di Bartolomeo, Giovanni and Hughes Hallett, A. , ‘Tinbergen controllability and n-player LQ-games’, in: ‘Economics Letters’, 113: 32-4.
+
+==See also==
+* List of economists
+
+==References==
+
+==External links==
+
+* TINBERGEN, Jan in: Biografisch Woordenboek van het Socialisme en de Arbeidersbeweging in Nederland
+* Jan Tinbergen College (Dutch website)
+* IDEAS/RePEc
+* Profile at The International Institute of Social Studies (ISS)
+* 
+
+

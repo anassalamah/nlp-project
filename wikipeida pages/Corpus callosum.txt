@@ -1,0 +1,96 @@
+[[Corpus callosum]]
+
+Corpus callosum with Anatomography
+The corpus callosum (from Latin: "tough body"), also known as the colossal commissure, is a wide, flat bundle of neural fibers beneath the cortex in the eutherian brain at the longitudinal fissure. It connects the left and right cerebral hemispheres and facilitates interhemispheric communication. It is the largest white matter structure in the brain, consisting of 200&ndash;250 million contralateral axonal projections.
+
+==Structure==
+The posterior (back) portion of the corpus callosum is called the splenium; the anterior (front) is called the genu (or "knee"); between the two is the truncus, or "body", of the corpus callosum. The part between the body and the splenium is often markedly thinned and thus referred to as the "isthmus". The rostrum is the part of the corpus callosum that projects posteriorly and inferiorly from the anteriormost genu, as can be seen on the sagittal image of the brain displayed on the right. The rostrum is so named for its resemblance to a bird's beak.
+Corpus callosum
+Thinner axons in the genu connect the prefrontal cortex between the two halves of the brain, these form a fork-like bundle of fibers known as Forceps Minor. Thicker axons in the midbody of the corpus callosum, known as Trunk, interconnect areas of the premotor and supplementary motor regions and motor cortex, with proportionally more corpus dedicated to supplementary motor regions like Broca's area. The posterior body of the corpus, known as splenium, communicates somatosensory information between the two halves of the parietal lobe and visual center at the occipital lobe, these fibers are known as Forceps Major. 
+
+===Variation===
+Agenesis of the corpus callosum (ACC) is a rare congenital disorder in which the corpus callosum is partially or completely absent. ACC is usually diagnosed within the first two years of life and may manifest as a severe syndrome in infancy or childhood, as a milder condition in young adults, or as an asymptomatic incidental finding. Initial symptoms of ACC usually include seizures, which may be followed by feeding problems and delays in holding the head erect, sitting, standing, and walking. Other possible symptoms may include impairments in mental and physical development, hand-eye coordination, and visual and auditory memory. Hydrocephaly may also occur. In mild cases, symptoms such as seizures, repetitive speech, or headaches may not appear for years.
+
+ACC is usually non-fatal. Treatment usually involves management of symptoms, such as hydrocephaly and seizures, if they occur. Although many children with the disorder will lead normal lives and have average intelligence, careful neuropsychological testing reveals subtle differences in higher cortical function compared to individuals of the same age and education without ACC. Children with ACC accompanied by developmental delay and/or seizure disorders should be screened for metabolic disorders. 
+
+In addition to agenesis of the corpus callosum, similar conditions are hypogenesis (partial formation), dysgenesis (malformed), and hypoplasia (underdevelopment, including too thin).
+
+Recent studies have also linked possible correlations between corpus callosum malformation and autism spectrum disorders (ASD). 
+
+Kim Peek, a savant and the inspiration behind the movie Rain Man, was found with agenesis of the corpus callosum.
+
+=== Sexual dimorphism ===
+The corpus callosum and its relation to sex has been a subject of debate in the scientific and lay communities for over a century. Initial research in the early 20th century claimed the corpus to be different in size between men and women. That research was in turn questioned, and ultimately gave way to more advanced imaging techniques that appeared to refute earlier correlations. However advanced analytical techniques of computational neuroanatomy that were developed in the 1990s showed that sex differences were clear but confined to certain parts of the corpus callosum, and that they correlated with cognitive performance in certain tests C and Resnick S.M.,Cerebral Cortex, 8:6335-640, 1998. The new advent of physiologic based imaging has altered the paradigm dramatically, with the relationship between gender and the corpus callosum becoming a subject of increasing numbers of studies in recent years.
+
+==Function==
+
+===Physiologic imaging ===
+The ability to evaluate the form and function of the human mind has undergone almost exponential growth and a paradigm shift in recent years. Magnetic resonance imaging, for example, is now being used to analyze physiology in addition to anatomy. Using diffusion tensor sequences on MRI machines, the rate that molecules diffuse in and out of a specific area of tissue, directionality or anisotropy, and rates of metabolism can be measured. These sequences have found consistent sex differences in human corpus callosal morphology and microstructure. 
+
+Morphometric analysis has also been used to study specific 3-dimensional mathematical relationships with MRIs, and have found consistent and statistically significant differences across genders. Specific algorithms have found significant gender differences in over 70% of cases in one review. 
+
+===Gender identity disorder===
+Research has been done on the shape of the corpus callosum in those with gender identity disorder. Researchers were able to demonstrate that the shape dimorphism of the corpus callosum at birth in biological males who self-identified as female was actually reversed, and that the same held true for biological females who self-identified as male. The publishers of this article argued that the shape of the corpus callosum correlates better with the mental sex of individuals rather than their physical sex. 
+
+The relationship between the corpus callosum and gender remains an active subject of debate in the scientific community.
+
+== Other correlations ==
+The front portion of the corpus callosum has been reported to be significantly larger in musicians than non-musicians, Levitin, Daniel J. "This is Your Brain on Music", ' and to be 0.75 square centimeters or 11% larger in left-handed and ambidextrous people than right-handed people. This difference is evident in the anterior and posterior regions of the corpus callosum but not in the splenium. Other magnetic resonance morphometric study showed that corpus callosum size correlates positively with verbal memory capacity and semantic coding test performance. 
+Research has shown that children with dyslexia tend to have smaller and less developed corpus callosums than their non-dyslexic counterparts. 
+
+Musical training has shown to increase plasticity of the corpus callosum during a sensitive period of time in development. The implications are an increased coordination of hands, differences in white matter structure, and amplification of plasticity in motor and auditory scaffolding which would serve to aid in future musical training. The study found children who had begun musical training before the age of six (minimum 15 months of training) had an increased volume of their corpus callosum and adults who had begun musical training before the age of 11 also had increased bi-manual coordination. Steele, C. J., Bailey, J. A., Zatorre, R. J. , & Penhune, V. B. (2013), Early musical training and white matter plasticity in the corpus callosum: Evidence for a sensitive period. Journal of Neuroscience, 33(3), 1282-1290. 
+
+==Clinical significance==
+
+===Epilepsy===
+Electroencephalography is used to find the source of electrical activity causing a seizure as part of the surgical evaluation for a corpus callosotomy.The symptoms of refractory epilepsy can be reduced by cutting the corpus callosum in an operation known as a corpus callosotomy. This is usually reserved for cases in which complex or grand mal seizures are produced by an epileptogenic focus on one side of the brain, causing an interhemispheric electrical storm. The work up for this procedure involves an electroencephalogram, MRI, PET scan, and evaluation by a specialized neurologist, neurosurgeon, psychiatrist, and neuroradiologist before surgery can be considered. 
+
+===Other disease===
+Anterior corpus callosum lesions may result in akinetic mutism or tactile anomia. Posterior corpus callosum (splenium) lesions may result in alexia without agraphia.
+
+See Also:
+
+*Alien hand syndrome
+*Alexia without agraphia (seen with damage to splenium of corpus callosum)
+*Agenesis of the corpus callosum (also dysgenesis, hypogenesis, hypoplasia), malformations of the corpus callosum
+*Split-brain
+*Septo-optic dysplasia (deMorsier syndrome)
+*Multiple sclerosis with the symptom Dawson's fingers
+*Mild encephalopathy with a reversible splenial lesion (MERS), a rare encephalopathy (or encephalitis) of unknown origin with a transient lesion in the posterior part of the corpus callosum, mostly associated with infectious diseases
+
+===Brain split procedure===
+
+The cerebral cortex is divided into two hemispheres and is connected by the corpus callosum. A procedure that helps patients to alleviate the severity of seizures is called split brain procedure. The result is that a seizure that starts in one hemisphere is isolated in that hemisphere since there is no longer a connection to the other side. However, this procedure is dangerous and risky.
+
+==History==
+The first study of the corpus with relation to gender was by R. B. Bean, a Philadelphia anatomist, who suggested in 1906 that "exceptional size of the corpus callosum may mean exceptional intellectual activity" and that there were measurable differences between men and women. Perhaps reflecting the political climate of the times, he went on to claim differences in the size of the callosum across different races. His research was ultimately refuted by Franklin Mall, the director of his own laboratory. 
+
+Of more mainstream impact was a 1982 Science article by Holloway and Utamsing that suggested sex difference in human brain morphology, which related to differences in cognitive ability. Time published an article in 1992 that suggested that, because the corpus is "often wider in the brains of women than in those of men, it may allow for greater cross-talk between the hemispheres&mdash;possibly the basis for women’s intuition." 
+
+More recent publications in the psychology literature have raised doubt as to whether the anatomic size of the corpus is actually different. A meta-analysis of 49 studies since 1980 found that, contrary to de Lacoste-Utamsing and Holloway, no sex difference could be found in the size of the corpus callosum, whether or not account was taken of larger male brain size. A study in 2006 using thin slice MRI showed no difference in thickness of the corpus when accounting for the size of the subject. 
+
+==In other animals==
+The corpus callosum is found only in placental mammals (the eutherians), while it is absent in monotremes and marsupials, as well as other vertebrates such as birds, reptiles, amphibians and fish. Sarnat, Harvey B., and Paolo Curatolo (2007). Malformations of the Nervous System: Handbook of Clinical Neurology, p. 68 (Other groups do have other brain structures that allow for communication between the two hemispheres, such as the anterior commissure, which serves as the primary mode of interhemispheric communication in marsupials, Ashwell, Ken (2010). The Neurobiology of Australian Marsupials: Brain Evolution in the Other Mammalian Radiation, p. 50 Armati, Patricia J., Chris R. Dickman, and Ian D. Hume (2006). Marsupials, p. 175 and which carries all the commissural fibers arising from the neocortex (also known as the neopallium), whereas in placental mammals the anterior commissure carries only some of these fibers. Butler, Ann B., and William Hodos (2005). Comparative Vertebrate Neuroanatomy: Evolution and Adaptation, p. 361 ) In primates, the speed of nerve transmission depends on its degree of myelination, or lipid coating. This is reflected by the diameter of the nerve axon. In most primates, axonal diameter increases in proportion to brain size to compensate for the increased distance to travel for neural impulse transmission. This allows the brain to coordinate sensory and motor impulses. However, the scaling of overall brain size and increased myelination has not occurred between chimpanzees and humans. This has resulted in the human corpus callosum's requiring double the time for interhemispheric communication as a macaque's. Sagittal post-mortem section through the midline brain. The corpus callosum is the curved band of lighter tissue at the center of the brain above the hypothalamus. Its lighter texture is due to higher myelin content, resulting in faster neuronal impulse transmission. The fibrous bundle that the corpus callosum appears as, can and does increase to such an extent in humans that it encroaches upon and wedges apart the hippocampal structures. Morris, H., & Schaeffer, J. P. (1953). The Nervous system-The Brain or Encephalon. Human anatomy; a complete systematic treatise. (11th ed., pp. 920–921, 964–965). New York: Blakiston. 
+
+==Additional images==
+
+File:Slide1oo.JPG|Corpus callosum
+File:Slide8oo.JPG|Corpus callosum
+File:Slide10qq.JPG|Corpus callosum
+File:26638.medium-emphasizing-corpus-callosum.png|Coronal T2 (grey scale inverted) MRI of the brain at the level of the caudate nuclei emphasizing corpus callosum
+File:Corpuis callosum.png|Corpus callosum parts on MRI
+File:Dti-tractography-normal-corpus-callosum.ogv|DTI Corpus callosum
+File:Slide2GRE.JPG|Ventricles of brain and basal ganglia.Superior view. Horizontal section.Deep dissection
+File:Slide3GRE.JPG|Ventricles of brain and basal ganglia.Superior view. Horizontal section.Deep dissection
+File:Slide2ERV.JPG|Cerebrum. Inferior view.Deep dissection
+
+==References==
+
+==External links==
+
+* 
+*Comparative Neuroscience at Wikiversity
+* NIF Search – Corpus callosum via the Neuroscience Information Framework
+* National Organization for Disorders of the Corpus Callosum
+
+

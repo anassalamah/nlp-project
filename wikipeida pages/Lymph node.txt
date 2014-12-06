@@ -1,0 +1,87 @@
+[[Lymph node]]
+
+A lymph node is an oval-shaped organ of the lymphatic system, distributed widely throughout the body including the armpit and stomach and linked by lymphatic vessels. Lymph nodes are major sites of B, T, and other immunity cells. Lymph nodes act as filters or traps for foreign particles and are important in the proper functioning of the immune system. They are packed tightly with the white blood cells called lymphocytes and macrophages.
+
+Lymph nodes also have clinical significance. They become inflamed or enlarged in various infections and diseases which may range from trivial, such as a throat infection, to life-threatening such as cancers. In the latter, the condition of lymph nodes is so significant that it is used for cancer staging, which decides the treatment to be employed, and for determining the prognosis. When swollen, inflamed or enlarged, lymph nodes can be hard, firm or tender. 
+
+Lymph nodes are not involved in the body's system for dealing with toxicity which the liver and kidneys deal with. The lymphatic system is structured to address biological infections, as well as biological breakdowns or errors within the body, as in the response to cancer. 
+
+Lymph nodes can also be diagnosed by biopsy whenever they are inflamed. Certain diseases affect lymph nodes with characteristic consistency and location.
+
+==Structure==
+1) Capsule; 2) Subcapsular sinus; 3) Germinal centre; 4) Lymphoid nodule; 5) Trabeculae
+Lymph nodes are bean or oval shaped and range in size from a few millimeters to about 1–2 cm long. Each lymph node is surrounded by a fibrous capsule, and inside the lymph node the fibrous capsule extends to form trabeculae. The substance of the lymph node is divided into the outer cortex and the inner medulla. The cortex is continuous around the medulla except at the hilum, where the medulla comes in direct contact with the hilum. 
+
+Thin reticular fibers and elastin form a supporting meshwork called a reticular network (RN) inside the node. White blood cells (leucocytes), the most prominent ones being lymphocytes, are tightly packed as follicles in the cortex. Elsewhere in the node, there are only occasional leucocytes. The reticular network not only provides the structural support, but also the surface for adhesion of the dendritic cells, macrophages and lymphocytes. It allows exchange of material with blood through the high endothelial venules and provides the growth and regulatory factors necessary for activation and maturation of immune cells. 
+
+The number and composition of follicles can change especially when challenged by an antigen, when they develop a germinal center. 
+
+Lymph node histology
+Lymph enters the convex side of the lymph node through multiple afferent lymphatic vessels, to flow through the sinuses. A lymph sinus which includes the subcapsular sinus, is a channel within the node, lined by endothelial cells along with fibroblastic reticular cells and this allows for the smooth flow of lymph through them.The endothelium of the subcapsular sinus is continuous with that of the afferent lymph vessel and is also with that of the similar sinuses flanking the trabeculae and within the cortex. All of these sinuses drain the filtered lymphatic fluid into the medullary sinuses, from where the lymph flows into the efferent lymph vessels to exit the node at the hilum on the concave side. These vessels are smaller and don't allow the passage of the macrophages so that they remain contained to function within the lymph node. In the course of the lymph, lymphocytes may be activated as part of the adaptive immune response.
+
+===Capsule===
+The lymph node capsule is composed of dense irregular connective tissue with some plain muscle fibers, and from its internal surface are given off a number of membranous processes or trabeculæ, consisting, in man, of connective tissue, with a small admixture of plain muscle fibers; but in many of the lower animals composed almost entirely of involuntary muscle. They pass inward, radiating toward the center of the gland, for a certain distance—that is to say, for about one-third or one-fourth of the space between the circumference and the center of the gland. In some animals they are sufficiently well-marked to divide the peripheral or cortical portion of the gland into a number of compartments (so-called follicles), but in man this arrangement is not obvious. The larger trabeculæ springing from the capsule break up into finer bands, and these interlace to form a mesh-work in the central or medullary portion of the gland. In these spaces formed by the interlacing trabeculæ is contained the proper gland substance or lymphoid tissue. The gland pulp does not, however, completely fill the spaces, but leaves, between its outer margin and the enclosing trabeculæ, a channel or space of uniform width throughout. This is termed the lymph path or lymph sinus. Running across it are a number of finer trabeculæ of reticular connective tissue, the fibers of which are, for the most part, covered by ramifying cells.
+Afferent and efferent vessels
+
+====Subcapsular sinus====
+The subcapsular sinus (lymph path, lymph sinus, marginal sinus) is the space between the capsule and the cortex which allows the free movement of lymphatic fluid and so contains a sparsity of lymphocytes. It is continuous with the similar lymph sinuses that flank the trabeculae. 
+
+The lymph node contains lymphoid tissue, i.e., a meshwork or fibers called reticulum with white blood cells enmeshed in it. The regions where there are few cells within the meshwork are known as lymph sinus. It is lined by reticular cells, fibroblasts and fixed macrophages. 
+
+The subcapsular sinus has clinical importance as it is the most likely location where the earliest manifestations of a metastatic carcinoma in a lymph node would be found.
+
+===Cortex===
+The cortex of the lymph node is the peripheral portion underneath the capsule and the subcapsular sinus. The subcapsular sinus drains to trabecular sinuses, and then the lymph flows into the medullary sinuses.
+
+The outer cortex consists mainly of the B cells arranged as follicles, which may develop a germinal center when challenged with an antigen, and the deeper cortex mainly consisting of the T cells. There is a zone known as the subcortical zone where T-cells (or cells that are mainly red) mainly interact with dendritic cells, and where the reticular network is dense. The predominant site within the lymph nodes which contain T cells & accessory cells is also known as paracortex (reticular network). 
+
+===Medulla===
+The medulla contains large blood vessels, sinuses and medullary cords that contain antibody-secreting plasma cells.
+
+The medullary cords are cords of lymphatic tissue, and include plasma cells, macrophages, and B cells. The medullary sinuses (or sinusoids) are vessel-like spaces separating the medullary cords. Lymph flows into the medullary sinuses from cortical sinuses, and into efferent lymphatic vessels. Medullary sinuses contain histiocytes (immobile macrophages) and reticular cells.
+
+==Function==
+
+There are clusters of nodes under the arms, in the groin, neck and abdomen
+The lymph fluid inside the lymph nodes contains lymphocytes, a type of white blood cell, which continuously recirculates through the lymph nodes and the bloodstream. Molecules found on bacteria cell walls or chemical substances secreted from bacteria, called antigens, may be taken up by dedicated antigen presenting cells such as dendritic cells into the lymph system and then into lymph nodes. In response to the antigens, the lymphocytes in the lymph node make antibodies which will go out of the lymph node into circulation, seek, and target the pathogens producing the antigens by targeting them for destruction by other cells and complement. Other immune system cells will be made to fight the infection and "sent" to the lymph nodes. The increased numbers of immune system cells fighting the infection will make the node expand and become "swollen."
+
+Lymph circulates to the lymph node via afferent lymphatic vessels and drains into the node just beneath the capsule in a space called the subcapsular sinus. The subcapsular sinus drains into trabecular sinuses and finally into medullary sinuses. The sinus space is criss-crossed by the pseudopods of macrophages, which act to trap foreign particles and filter the lymph. The medullary sinuses converge at the hilum and lymph then leaves the lymph node via the efferent lymphatic vessel towards either a more central lymph node or ultimately for drainage into a central venous subclavian blood vessel, most via the postcapillary venules, and cross its wall by the process of diapedesis.
+* The B cells migrate to the nodular cortex and medulla.
+* The T cells migrate to the deep cortex ("paracortex").
+
+When a lymphocyte recognizes an antigen, B cells become activated and migrate to germinal centers (by definition, a "secondary nodule" has a germinal center, while a "primary nodule" does not). When antibody-producing plasma cells are formed, they migrate to the medullary cords. Stimulation of the lymphocytes by antigens can accelerate the migration process to about 10 times normal, resulting in characteristic swelling of the lymph nodes.
+
+The spleen and tonsils are large lymphoid organs that serve similar functions to lymph nodes, though the spleen filters blood cells rather than lymph.
+
+==Clinical significance==
+
+Micrograph of a mesenteric lymph node with adenocarcinoma
+
+Lymph nodes may become enlarged due to an infection, tumour or inflamed due to leukemia. This increase in size is primarily due to an elevated rate of trafficking of lymphocytes into the node from the blood; exceeding the rate of outflow from the node; and secondarily as a result of the activation and proliferation of antigen-specific T and B cells (clonal expansion). In some cases, where there is no infection they may still feel enlarged due to a previous infection.
+
+Lymphadenopathy is a term meaning "disease of the lymph nodes." It is, however, almost synonymously used with "swollen or enlarged lymph nodes." In this case, the lymph nodes are detectable by touch (palpable); this is a sign of various infections and diseases.
+
+Lymphodoema is a fairly widespread condition of the lymphatic system resulting in localised fluid retention and tissue swelling. Affected tissues are at risk of infection. Primary lymphodoema generally results from poorly developed or missing lymph nodes. Secondary lymphodoema results mostly from the dissection of lymph nodes during breast cancer surgery and also from other treatments usually involving radiation.
+
+In the large intestine, Adenocarcinoma, is the most common type of colorectal cancer.
+
+==See also==
+* Cortex
+* Tracheobronchial lymph nodes
+
+==Additional images==
+
+Image:Illu lymphatic system.jpg|Lymphatic system
+Image:Gray597.png|Section of small lymph node of rabbit.
+Image:Gray606.png|Lymphatics of the arm
+Image:Gray607.png|Lymphatics of the axillary region
+
+==References==
+
+==External links==
+
+* 
+* http://www.thelymphnodes.com - Lymph Nodes
+
+ 
+

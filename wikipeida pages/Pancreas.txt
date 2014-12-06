@@ -1,0 +1,171 @@
+[[Pancreas]]
+
+The pancreas is a glandular organ in the digestive system and endocrine system of vertebrates. In humans it is located in the abdominal cavity behind the stomach. It is an endocrine gland producing several important hormones, including insulin, glucagon, somatostatin, and pancreatic polypeptide which circulate in the blood. The pancreas is also a digestive organ, secreting pancreatic juice containing digestive enzymes that assist digestion and absorption of nutrients in the small intestine. These enzymes help to further break down the carbohydrates, proteins, and lipids in the chyme.
+
+==Structure==
+
+The pancreas is an endocrine organ that lies in the abdomen, specifically the upper, left abdomen. It is found behind the stomach, with the head of the pancreas surrounded by the duodenum. The pancreas is typically 5.75-9.5 cm long. 
+
+Anatomically, the pancreas is divided into a head, which rests within the concavity of the duodenum, a body lying behind the base of the stomach, and a tail, which ends abutting the spleen. The neck of the pancreas lies between the body and head, and is in front of the superior mesenteric artery and vein. The head of the pancreas surrounds these two vessels, and a small uncinate process emerges from the lower part of the head, lying behind the superior mesenteric artery. 
+
+The pancreas is a secretory structure with a internal hormonal role (endocrine) and an external digestive role (exocrine). It has two main ducts, the main pancreatic duct, and the accessory pancreatic duct. These drain enzymes through the ampulla of Vater into the duodenum. 
+
+===Margins===
+The superior margin of pancreas is blunt and flat to the right; narrow and sharp to the left, near the tail.
+
+It commences on the right in the omental tuberosity, and is in relation with the celiac artery, from which the hepatic artery courses to the right just above the gland, while the lienal artery runs toward the left in a groove along this border.
+
+The inferior margin of pancreas separates the posterior from the inferior surface;the superior mesenteric vessels emerge under its right extremity. 
+
+The anterior margin of pancreas separates the anterior from the inferior surface of the pancreas, and along this border the two layers of the transverse mesocolon diverge from one another; one passing upward over the anterior surface, the other backward over the inferior surface.
+
+===Surfaces===
+The inferior surface of pancreas is narrow on the right but broader on the left, and is covered by peritoneum; it lies upon the duodenojejunal flexure and on some coils of the jejunum; its left extremity rests on the left colic flexure.
+
+The anterior surface of pancreas is the surface of the pancreas that faces the front of the abdomen. The greater part of the right half of this surface is in contact with the transverse colon, with only areolar tissue intervening.
+
+From its upper part the neck springs, its right limit being marked by a groove for the gastroduodenal artery.
+
+The lower part of the right half, below the transverse colon, is covered by peritoneum continuous with the inferior layer of the transverse mesocolon, and is in contact with the coils of the small intestine.
+
+The superior mesenteric artery passes down in front of the left half across the uncinate process; the superior mesenteric vein runs upward on the right side of the artery and, behind the neck, joins with the lienal vein to form the portal vein.
+
+===Blood supply===
+The pancreas receives blood from branches of both the coeliac artery and superior mesenteric artery. The splenic artery runs along the top margin of the pancreas, and supplies the neck, body and tail of the pancreas through its pancreatic branches, the largest of which is called the greater pancreatic artery. The superior pancreaticoduodenal artery and inferior pancreaticoduodenal artery run along the front and back surfaces of the head of the pancreas at its border with the duodenum. These supply the head of the pancreas. 
+
+The body and neck of the pancreas drain into splenic vein; the head drains into the superior mesenteric and portal veins. 
+
+===Lymph===
+Lymph is drained via the splenic, celiac and superior mesenteric lymph nodes.
+
+===Histology===
+The pancreas contains tissue with an endocine and exocrine role, and this division is also visible when the pancreas is viewed under a microscope. 
+
+The tissues with an endocrine role can be seen under staining as lightly-stained clusters of cells, called islets of Langerhans. 
+
+Darker-staining cells form clusters called acini, which are arranged in lobes separated by a thin fibrous barrier. The secretory cells of each acinus surround a small intercalated duct. Because of their secretory function, these cells have many small granules of zymogens that are visible. The intercalated ducts drains into larger ducts within the lobule, and finally interlobular ducts. The ducts are lined by a single layer of columnar cells. With increasing diameter, several layers of columnar cells may be seen. 
+
+===Variation===
+The size of the pancreas varies considerably;. Several anatomical variations exist, relating to the embryological development of the two buds of the pancreas. The pancreas develops as two buds on either side of the duodenum. The ventral bud eventually rotates to lie next to the dorsal bud, eventually fusing. If the two buds do not fuse, a pancreas may exist as two separate lobes. This is also called pancreatic divisum. If the ventral bud does not fully rotate, an annular pancreas may exist. This is where sections of the pancreas completely encircle the duodenum, and may even lead to duodenal atresia. 
+
+An accessory pancreatic duct may exist, if the main duct of pancreas does not regress. 
+
+===Development===
+Schematic illustrating the development of the pancreas from a dorsal and a ventral bud. During maturation, the ventral bud flips to the other side of the gut tube (arrow) where it typically fuses with the dorsal lobe. An additional ventral lobe that usually regresses during development is omitted.
+
+The pancreas forms from the embryonic foregut and is therefore of endodermal origin. Pancreatic development begins the formation of a ventral and dorsal buds, which are the anlages of the pancreas. Each structure communicates with the foregut through a duct. The dorsal pancreatic bud forms the head, body and tail, whereas the ventral pancreatic bud forms the uncinate process. 
+
+Differential rotation and fusion of the ventral and dorsal pancreatic buds results in the formation of the definitive pancreas. As the duodenum rotates to the right, it carries with it the ventral pancreatic bud and common bile duct. Upon reaching its final destination, the ventral pancreatic bud fuses with the much larger dorsal pancreatic bud. At this point of fusion, the main ducts of the ventral and dorsal pancreatic buds fuse, forming the main pancreatic duct. The duct of the dorsal bud regresses, leaving the main pancreatic duct. 
+
+Differentiation of cells of the pancreas proceeds through two different pathways, corresponding to the dual endocrine and exocrine functions of the pancreas. In progenitor cells of the exocrine pancreas, important molecules that induce differentiation include follistatin, fibroblast growth factors, and activation of the Notch receptor system. Development of the exocrine acini progresses through three successive stages. These include the predifferentiated, protodifferentiated, and differentiated stages, which correspond to undetectable, low, and high levels of digestive enzyme activity, respectively.
+
+Progenitor cells of the endocrine pancreas arise from cells of the protodifferentiated stage of the exocrine pancreas. Under the influence of neurogenin-3 and Isl-1, but in the absence of notch receptor signaling, these cells differentiate to form two lines of committed endocrine precursor cells. The first line, under the direction of a Pax gene, forms α- and γ- cells, which produce glucagon and pancreatic polypeptides, respectively. The second line, influenced by Pax-6, produces beta cells (β-) and delta cells (δ-), which secrete insulin and somatostatin, respectively.
+
+Insulin and glucagon can be detected in the human fetal circulation by the fourth or fifth month of fetal development. 
+
+== Function ==
+The pancreas is a dual-function gland, having features of both endocrine and exocrine glands.
+
+===Endocrine===
+
+The part of the pancreas with endocrine function is made up of approximately a million cell clusters called islets of Langerhans. Four main cell types exist in the islets. They are relatively difficult to distinguish using standard staining techniques, but they can be classified by their secretion: α alpha cells secrete glucagon (increase glucose in blood), β beta cells secrete insulin (decrease glucose in blood), Δ delta cells secrete somatostatin (regulates/stops α and β cells) and PP cells, or γ (gamma) cells, secrete pancreatic polypeptide. BRS physiology 4th edition ,page 255-256, Linda S. Constanzo, Lippincott publishing 
+
+The islets are a compact collection of endocrine cells arranged in clusters and cords and are crisscrossed by a dense network of capillaries. The capillaries of the islets are lined by layers of endocrine cells in direct contact with vessels, and most endocrine cells are in direct contact with blood vessels, either by cytoplasmic processes or by direct apposition. According to the volume The Body, by Alan E. Nourse, The Body, by Alan E. Nourse, (op. cit., p. 171.) the islets are "busily manufacturing their hormone and generally disregarding the pancreatic cells all around them, as though they were located in some completely different part of the body." The islets of Langerhans play an imperative role in glucose metabolism and regulation of blood glucose concentration.
+
+===Exocrine===
+The pancreas as an exocrine gland helps out the digestive system. It secretes pancreatic fluid that contains digestive enzymes that pass to the small intestine. These enzymes help to further break down the carbohydrates, proteins and lipids (fats) in the chyme.
+
+In humans, the secretory activity of the pancreas is regulated directly via the effect of hormones in the blood on the islets of Langerhans and indirectly through the effect of the autonomic nervous system on the blood flow. 
+
+The exocrine component of the pancreas, often called simply the exocrine pancreas, is the portion of the pancreas that performs exocrine functions. It has ducts that are arranged in clusters called acini (singular acinus). Pancreatic secretions are secreted into the lumen of the acinus, and then accumulate in intralobular ducts that drain to the main pancreatic duct, which drains directly into the duodenum.
+
+Control of the exocrine function of the pancreas is via the hormones gastrin, cholecystokinin and secretin, which are hormones secreted by cells in the stomach and duodenum, in response to distension and/or food and which cause secretion of pancreatic juices.
+
+There are two main classes of exocrine pancreatic secretions:
+
+ Secretion Cell producing it Primary signal 
+ bicarbonate ions Centroacinar cells Secretin 
+ digestive enzymes Basophilic cells CCK 
+
+Pancreatic secretions from ductal cells contain bicarbonate ions and are alkaline in order to neutralize the acidic chyme that the stomach churns out.
+
+The pancreas is also the main source of enzymes for digesting fats (lipids) and proteins. (The enzymes that digest polysaccharides, by contrast, are primarily produced by the walls of the intestines.)
+
+The cells are filled with secretory granules containing the precursor digestive enzymes. 
+The major proteases which the pancreas secretes are trypsinogen and chymotrypsinogen. Secreted to a lesser degree are pancreatic lipase and pancreatic amylase. The pancreas also secretes phospholipase A2, lysophospholipase, and cholesterol esterase.
+
+The precursor enzymes (termed zymogens or proenzymes) are inactive variants of the enzymes; thus autodegradation, which can lead to pancreatitis, is avoided. Once released in the intestine, the enzyme enteropeptidase (formerly, and incorrectly, called enterokinase) present in the intestinal mucosa activates trypsinogen by cleaving it to form trypsin. The free trypsin then cleaves the rest of the trypsinogen, as well as chymotrypsinogen to its active form chymotrypsin.
+
+===Innervation===
+; Sympathetic (adrenergic): α2: decreases secretion from beta cells, increases secretion from alpha cells, β2: increases secretion from beta cells
+; Parasympathetic (muscarinic): M3: increases stimulation of alpha cells and beta cells 
+
+==Clinical relevance==
+
+A puncture of the pancreas, which may lead to the secretion of digestive enzymes such as lipase and amylase into the abdominal cavity as well as subsequent pancreatic self-digestion and digestion and damage to organs within the abdomen, generally requires prompt and experienced medical intervention.
+
+===Inflammation===
+
+Inflammation of the pancreas is known as pancreatitis. Pancreatitis is most often associated with recurrent gallstones or chronic alcohol use, although a variety of other causes, including measles, mumps, the congenital condition alpha-1 antitrypsin deficiency and even some scorpion bites, may cause pancreatitis. Pancreatitis is likely to cause intense pain in the central abdomen, that often radiates to the back, and may be associated with jaundice. In addition, due to causing problems with fat digestion and bilirubin excretion, pancreatitis often presents with pale stools and dark urine. 
+
+In pancreatitis, enzymes of the exocrine pancreas damage the structure and tissue of the pancreas. Detection of some of these enyzmes, such as amylase and lipase in the blood, along with symptoms and findings on X-ray, are often used to indicate that a person has pancreatitis. A person with pancreatitis is also at risk of shock. Pancreatitis is often managed medically with analgesics, removal of gallstones or treatment of other causes, and monitoring to ensure a patient does not develop shock. 
+
+===Cancer===
+
+Pancreatic Cancers, particularly cancer of the exocrine pancreas, remain one of the most deadly cancers, and the mortality rate is very high.
+
+Pancreatic endocrine tumors are rare. Representative: insulinoma (95% benign, 5% malignant), gastrinomas (malignant). 
+
+===Diabetes===
+
+Diabetes mellitus type 1 (Also known as Juvenile Diabetes) is a chronic autoimmune disorder in which the immune system attacks the insulin-secreting cells in the pancreas. This causes the patient's blood sugar levels to rise to a dangerous level. To correct this, the patient must take 3+ insulin shots per day.
+
+There may be also some correlations between diabetes, chronic pancreatitis and pancreatic cancer. 
+
+Diabetes mellitus type 2 is more common among overweight adults, but has been seen in children also. Unlike Type 1, it can be permanently corrected with weight loss and medicine.
+
+It is possible for one to live without a pancreas, provided that the patient takes insulin for proper regulation of blood glucose concentration and pancreatic enzyme supplements to aid digestion. Braga M., Cristallo M., de Franchis R., Mangiagalli A., Zerbi A., Agape D., Primignani M., di Carlo V. (1989.) Pancreatic enzyme replacement therapy in post-pancreatectomy patients, Int J Pancreatol, 5:S37-44. Banks P.A., Conwell D.L., Toskes P.P. (2010.) The management of acute and chronic pancreatitis, Gastroenterol Hepatol, 6(2 Suppl 5):1-16. 
+
+==History==
+The pancreas was first identified for western civilization by Herophilus (335–280 BC), a Greek anatomist and surgeon. Only a few hundred years later, Rufus of Ephesus, another Greek anatomist, gave the pancreas its name. Etymologically, the term "pancreas", a modern Latin adaptation of Greek πάγκρεας, ("all", "whole"), and κρέας ("flesh"), originally means sweetbread, although literally meaning all-flesh, presumably because of its fleshy consistency.
+
+==In animals==
+Pancreatic tissue is present in all vertebrate species, but its precise form and arrangement vary widely. There may be up to three separate pancreases, two of which arise from ventral buds, and the other dorsally. In most species (including humans), these fuse in the adult, but there are several exceptions. Even when a single pancreas is present, two or three pancreatic ducts may persist, each draining separately into the duodenum (or equivalent part of the foregut). Birds, for example, typically have three such ducts. 
+
+In teleosts, and a few other species (such as rabbits), there is no discrete pancreas at all, with pancreatic tissue being distributed diffusely across the mesentery and even within other nearby organs, such as the liver or spleen. In a few teleost species, the endocrine tissue has fused to form a distinct gland within the abdominal cavity, but otherwise it is distributed among the exocrine components. The most primitive arrangement, however, appears to be that of lampreys and lungfish, in which pancreatic tissue is found as a number of discrete nodules within the wall of the gut itself, with the exocrine portions being little different from other glandular structures of the intestine. 
+
+== Gallery ==
+
+ File:Blausen 0699 PancreasAnatomy2.png|Illustration of the pancreas
+ File:Blausen 0701 PancreaticTissue.png|Illustration of pancreatic tissue (Islet of Langerhans)
+ File:Blausen 0698 PancreasAnatomy.png|Anatomy of the Pancreas
+ File:Digestive system showing bile duct.png|Accessory digestive system
+ File:BauchOrgane wn.png|Digestive organs
+ File:Gray533.png|The celiac artery and its branches; the stomach has been raised and the peritoneum removed
+ File:Gray614.png|Lymphatics of stomach, etc., the stomach has been turned upward
+ File:Gray1097.png|Transverse section through the middle of the first lumbar vertebra, showing the relations of the pancreas
+ File:Gray1098.png|The duodenum and pancreas
+ File:Gray1100.png|The pancreatic duct
+ File:Gray1101.png|Pancreas of a human embryo of five weeks
+ File:Gray1102.png|Pancreas of a human embryo at end of sixth week
+ File:Gray1225.png|Front of abdomen, showing surface markings for duodenum, pancreas, and kidneys
+ File:Dudenumandpancreas.jpg |
+ File:Dogpancreas100x4.jpg|Dog pancreas magnified 100 times
+ File:Pancreas 1.jpg|Pancreas
+ File:Pancreas 2.jpg|Pancreas
+ File:Pancreas 3.jpg|Pancreas
+ File:Pancreas 4.jpg|Pancreas
+File:Pancreas in situ.jpg|Pancreas
+File:Slide48uru.JPG|Pancreas Deep dissection.Anterior view.
+File:Slide50uru.JPG|Pancreas Deep dissection.Posterior view.
+
+==See also==
+
+== References ==
+
+== External links ==
+
+* Main function of the pancreas
+
+ 
+

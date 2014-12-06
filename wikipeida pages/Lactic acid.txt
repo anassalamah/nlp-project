@@ -1,0 +1,102 @@
+[[Lactic acid]]
+
+Lactic acid is a chemical compound that plays a role in various biochemical processes and was first isolated in 1780 by the Swedish chemist Carl Wilhelm Scheele. Lactic acid is a carboxylic acid with the chemical formula C3H6O3. It has a hydroxyl group adjacent to the carboxyl group, making it an alpha hydroxy acid (AHA).
+
+In solution, it can lose a proton from the carboxyl group, producing the lactate ion CH3CH(OH)COO−. Compared to acetic acid, its pKa is 1 unit less, meaning lactic acid deprotonates ten times more easily than acetic acid does. This higher acidity is the consequence of the intramolecular hydrogen bridge between the α-hydroxyl and the carboxylate group, making the latter less capable of strongly attracting its proton.
+
+Lactic acid is miscible with water and with ethanol, and is hygroscopic.
+
+Lactic acid is chiral and has two optical isomers. One is known as L-(+)-lactic acid or (S)-lactic acid and the other, its mirror image, is D-(−)-lactic acid or (R)-lactic acid.
+
+In animals, L-lactate is constantly produced from pyruvate via the enzyme lactate dehydrogenase (LDH) in a process of fermentation during normal metabolism and exercise. It does not increase in concentration until the rate of lactate production exceeds the rate of lactate removal, which is governed by a number of factors, including monocarboxylate transporters, concentration and isoform of LDH, and oxidative capacity of tissues. The concentration of blood lactate is usually 1–2 mmol/L at rest, but can rise to over 20 mmol/L during intense exertion.
+
+In industry, lactic acid fermentation is performed by lactic acid bacteria, which convert glucose and sucrose to lactic acid. These bacteria can also grow in the mouth; the acid they produce is responsible for the tooth decay known as caries. 
+
+In medicine, lactate is one of the main components of lactated Ringer's solution and Hartmann's solution. These intravenous fluids consist of sodium and potassium cations along with lactate and chloride anions in solution with distilled water, generally in concentrations isotonic with human blood. It is most commonly used for fluid resuscitation after blood loss due to trauma, surgery, or burn injury.
+
+==History==
+Lactic acid was refined for the first time by the Swedish chemist Carl Wilhelm Scheele in 1780 from sour milk. In 1808, Jöns Jacob Berzelius discovered that lactic acid (actually L-lactate) also is produced in muscles during exertion. Its structure was established by Johannes Wislicenus in 1873.
+
+In 1856, Louis Pasteur discovered Lactobacillus and its role in the making of lactic acid. Lactic acid started to be produced commercially by the German pharmacy Boehringer Ingelheim in 1895.
+
+In 2006, global production of lactic acid reached 275,000 tonnes with an average annual growth of 10%. NNFCC Renewable Chemicals Factsheet: Lactic Acid 
+
+==Exercise and lactate==
+During power exercises such as sprinting, when the rate of demand for energy is high, glucose is broken down and oxidized to pyruvate, and lactate is produced from the pyruvate faster than the tissues can remove it, so lactate concentration begins to rise. The production of lactate is a beneficial process because it regenerates NAD+, which is used up in oxidation of 3-phosphoglyceraldehyde during creation of pyruvate from glucose, and this ensures that energy production is maintained and exercise can continue. (During intense exercise, the respiratory chain cannot keep up with the amount of hydrogen atoms that join to form NADH, and cannot regenerate NAD+ quickly enough)The increased lactate produced can be removed in two ways:
+*Oxidation back to pyruvate by well-oxygenated muscle cells
+**Pyruvate is then directly used to fuel the Krebs cycle
+*Conversion to glucose via gluconeogenesis in the liver and release back into circulation; see Cori cycle 
+**If blood glucose concentrations are high, the glucose can be used to build up the liver's glycogen stores.
+
+However, lactate is continually formed even at rest and during moderate exercise. This occurs due to metabolism in red blood cells that lack mitochondria, and limitations resulting from the enzyme activity that occurs in muscle fibers having a high glycolytic capacity. 
+
+Strenuous anaerobic exercise causes a lowering of pH and soreness, called acidosis.
+
+The effect of lactate production on acidosis has been the topic of many recent conferences in the field of exercise physiology. Robergs et al. have discussed the creation of H+ during exercise, and claim the idea that lactic acid causes acidosis is a "construct" or myth, pointing out that part of the H+ comes from ATP hydrolysis (ATP−4 + H2O → ADP−3 + HPO4−2 + H+), and that reducing pyruvate to lactate (pyruvate- + NADH + H+ → lactate- + NAD+) actually consumes H+. Lindinger et al. claimed that Robergs et al. ignored the causative factors of the increase in . The production of lactate- from a neutral molecule would increase to maintain electroneutrality. However, lactate- is produced from pyruvate-, which has the same charge: "Lactate− production is not associated with a stoichiometrically equivalent net production of protons (H+)". It is pyruvate- production from neutral glucose that generates H+: C6H12O6 + 2 NAD+ + 2 ADP−3 + 2 HPO4−2 → 2 CH3COCOO− + 2 H+ + 2 NADH + 2 ATP−4 + 2 H2OSubsequent lactate- production absorbs these protons: 4 CH3COCOO− + 2 H+ + 2 NADH + 2 ATP−4 + 2 H2O → 2 CH3CHOHCOO− + 2 NAD+ + 2 ATP−4 + 2 H2OOverall: 
+::C6H12O6 + 2 NAD+ + 2 ADP−3 + 2 HPO4−2 → 2 CH3COCOO− + 2 H+ + 2 NADH + 2 ATP−4 + 2 H2O → 2 CH3CHOHCOO− + 2 NAD+ + 2 ATP−4 + 2 H2O
+Although the reaction glucose → 2 lactate- + 2 H+ releases two H+ when viewed on its own, the H+ are absorbed in the creation of ATP. The absorbed acidity is released during subsequent hydrolysis of ATP: ATP−4 + H2O → ADP−3 + HPO4−2 + H+. Overall, does increase.
+
+The creation of CO2 during respiration also causes an increase in .
+
+== Brain metabolism ==
+Although glucose is usually assumed to be the main energy source for living tissues, there are some indications that it is lactate, and not glucose, that is preferentially metabolized by neurons in the brain of several mammalian species (the notable ones being mice, rats, and humans). According to the lactate-shuttle hypothesis, glial cells are responsible for transforming glucose into lactate, and for providing lactate to the neurons. Because of this local metabolic activity of glial cells, the extracellular fluid immediately surrounding neurons strongly differs in composition from the blood or cerebro-spinal fluid, being much richer with lactate, as was found in microdialysis studies. 
+
+Brain tumors prefer both lactates and ketones to glucose because metabolism of these molecules allows tumors to survive in an oxygen-free (hypoxic) environment that promotes tumor growth. This type of metabolism also produces high levels of oxidative stress and is a common feature of many different kinds of proliferating cancer cells.
+
+The role of lactate for brain metabolism seems to be even more important at early stages of development (prenatal and early postnatal), with lactate at these stages having higher concentrations in body liquids, and being utilized by the brain preferentially over glucose. It was also hypothesized that lactate may exert a strong action over GABAergic networks in the developing brain, making them more inhibitory than it was previously assumed, acting either through better support of metabolites, or alterations in base intracellular pH levels, or both. 
+
+A more recent paper by Zilberter's group looked directly at the energy metabolism features in brain slices of mice and showed that beta-hydroxybutyrate, lactate, and pyruvate acted as oxidative energy substrates, causing an increase in the NAD(P)H oxidation phase, that glucose was insufficient as an energy carrier during intense synaptic activity and, finally, that lactate can be an efficient energy substrate capable of sustaining and enhancing brain aerobic energy metabolism in vitro. The paper was positively commented by Kasischke: "The study by Ivanov et al. (2011) also provides novel data on biphasic NAD(P)H fluorescence transients, an important physiological response to neural activation that has been reproduced in many studies and that is believed to originate predominately from activity-induced concentration changes to the cellular NADH pools." 
+
+==Blood testing==
+Reference ranges for blood tests, comparing blood content of lactate (shown in violet at center-right) with other constituents.
+Blood tests for lactate are performed to determine the status of the acid base homeostasis in the body. Blood sampling for this purpose is often by arterial blood sampling (even if it is more difficult than venipuncture), because lactate differs substantially between arterial and venous levels, and the arterial level is more representative for this purpose.
+
+ Reference ranges 
+ Lower limit Upper limit Unit 
+ Venous 4.5 Blood Test Results - Normal Ranges Bloodbook.Com 19.8 mg/dL 
+ 0.5 Derived from mass values using molar mass of 90.08 g/mol 2.2 mmol/L 
+ Arterial 4.5 14.4 mg/dL 
+ 0.5 1.6 mmol/L 
+
+During childbirth, lactate levels in the fetus can be quantified by fetal scalp blood testing.
+
+==Polymer precursor==
+
+Two molecules of lactic acid can be dehydrated to lactide, a cyclic lactone. A variety of catalysts can polymerize lactide to either heterotactic or syndiotactic polylactide, which as biodegradable polyesters with valuable (inter alia) medical properties are currently attracting much attention.
+
+Lactic acid is used also as a monomer for producing polylactic acid (PLA), which later has developed application as biodegradable plastic. This kind of plastic is a good option for substituting conventional plastic produced from petroleum oil because of low emission of carbon dioxide. The commonly used process in producing lactic acid is via fermentation, and, later, to obtain the polylactic acid, the polymerization process follows.
+
+== Pharmaceutical and cosmetic applications ==
+Lactic acid is also employed in pharmaceutical technology to produce water-soluble lactates from otherwise-insoluble active ingredients. It finds further use in topical preparations and cosmetics to adjust acidity and for its disinfectant and keratolytic properties.
+
+== Foods ==
+
+Lactic acid is found primarily in sour milk products, such as koumiss, laban, yogurt, kefir, some cottage cheeses, and kombucha. The casein in fermented milk is coagulated (curdled) by lactic acid. Lactic acid is also responsible for the sour flavor of sourdough breads. This acid is used in beer brewing to lower the wort pH in order to reduce some undesirable substances such as tannins without giving off-flavors such as citric acid and increase the body of the beer. Some brewers and breweries will use food grade lactic acid to lower the pH in finished alcohols.
+
+In winemaking, a bacterial process, natural or controlled, is often used to convert the naturally present malic acid to lactic acid, to reduce the sharpness and for other flavor-related reasons. This malolactic fermentation is undertaken by the family of lactic acid bacteria.
+
+As a food additive it is approved for use in the EU, UK Food Standards Agency: USA US Food and Drug Administration: and Australia and New Zealand; Australia New Zealand Food Standards Code it is listed by its INS number 270 or as E number E270. Lactic acid is used as a food preservative, curing agent, and flavoring agent. It is an ingredient in processed foods and is used as a decontaminant during meat processing. Lactic acid is produced commercially by fermentation of carbohydrates such as glucose, sucrose, or lactose, or by chemical synthesis. Carbohydrate sources include corn, beets, and cane sugar. 
+
+==Detergents==
+Lactic acid has gained importance in the detergent industry the last decade. It is a good descaler, soap-scum remover, and a registered anti-bacterial agent. It is also economically beneficial as well as part of a trend toward environmentally safer and natural ingredients. http://www.lactic-acid.com/lactic_acid_in_non-food.html 
+
+==Mosquito lure==
+Lactic acid, along with ammonium bicarbonate, is used in the Lurex brand mosquito attractant. http://www.mosquitomagnet.com/resource/uploads/mosquito-magnet-lurex3-msds.pdf 
+
+==See also==
+*2-Hydroxybutyric acid
+*Acids in wine
+*Alanine cycle
+*Biodegradable plastic
+*Cori cycle
+*Dental caries
+
+==References==
+
+==External links==
+* Corn Plastic to the Rescue
+* Lactic acid: a safe and natural ingredient
+* Lactic Acid: Information and Resources
+* Lactic Acid Is Not Muscles' Foe, It's Fuel
+
+

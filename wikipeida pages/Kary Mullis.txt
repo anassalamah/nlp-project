@@ -1,0 +1,95 @@
+[[Kary Mullis]]
+
+Kary Banks Mullis (born December 28, 1944) is a Nobel Prize-winning American biochemist, author, and lecturer. In recognition of his improvement of the polymerase chain reaction (PCR) technique, he shared the 1993 Nobel Prize in Chemistry with Michael Smith and earned the Japan Prize in the same year. The process was first described by Kjell Kleppe and 1968 Nobel laureate H. Gobind Khorana, and allows the amplification of specific DNA sequences. The improvements made by Mullis allowed PCR to become a central technique in biochemistry and molecular biology, described by The New York Times as "highly original and significant, virtually dividing biology into the two epochs of before P.C.R. and after P.C.R." 
+
+Since winning the Nobel Prize, Mullis has been criticized in The New York Times for promoting ideas in areas in which he has no expertise. He has promoted AIDS denialism, climate change denial and his belief in astrology. 
+
+==Early life==
+Mullis was born in Lenoir, North Carolina, near the Blue Ridge Mountains, on December 28, 1944. His family had a background in farming in this rural area. As a child, Mullis recalls, he was interested in observing organisms in the countryside. He grew up in Columbia, South Carolina, where he attended Dreher High School. 
+
+Mullis earned a Bachelor of Science degree in chemistry from the Georgia Institute of Technology in Atlanta in 1966, during which time he got married and started a business. He then received a Ph.D. in biochemistry from the University of California, Berkeley in 1972; his research done in J. B. Neiland's laboratory focused on synthesis and structure of bacterial iron transporter molecules. Following his graduation, Mullis became a postdoctoral fellow in pediatric cardiology at the University of Kansas Medical School, going on to complete two years of postdoctoral work in pharmaceutical chemistry at the University of California, San Francisco.
+
+==Career==
+After receiving his PhD, Mullis left science to write fiction, but quit and became a biochemist at a medical school in Kansas City. He then managed a bakery for two years. . Mullis returned to science at the encouragement of friend Thomas White, who later got Mullis a job with the biotechnology company Cetus Corporation of Emeryville, California. Mullis worked as a DNA chemist at Cetus for seven years; it was there, in 1983, that Mullis invented his prize-winning improvements to the polymerase chain reaction. After leaving Cetus in 1986, Mullis served as director of molecular biology for Xytronyx, Inc. in San Diego for two years. Mullis has consulted on nucleic acid chemistry for multiple corporations. 
+
+In 1992, Mullis founded a business with the intent to sell pieces of jewelry containing the amplified DNA of deceased famous people like Elvis Presley and Marilyn Monroe. Mullis is also a member of the USA Science and Engineering Festival's Advisory Board. 
+
+He is a researcher at the Children's Hospital Oakland Research Institute in Oakland, California. 
+
+===PCR and other inventions===
+
+In 1983, Mullis was working for Cetus Corp. as a chemist. That spring, according to Mullis, he was driving his vehicle late one night with his girlfriend, who was also a chemist at Cetus, when he had the idea to use a pair of primers to bracket the desired DNA sequence and to copy it using DNA polymerase; a technique which would allow rapid amplification of a small strand of DNA and become a standard procedure in molecular biology labs. Cetus took Mullis off his usual projects to concentrate on PCR full-time. Mullis succeeded in demonstrating PCR December 16, 1983. In his Nobel Prize lecture, he remarked that the success didn't make up for his girlfriend breaking up with him shortly before: "I was sagging as I walked out to my little silver Honda Civic. Neither Fred, empty Beck's bottles, nor the sweet smell of the dawn of the age of PCR could replace Jenny. I was lonesome." He received a $10,000 bonus from Cetus for the invention. 
+
+Other Cetus scientists, including Randall Saiki and Henry Erlich, were placed on PCR projects to work on evaluating whether PCR could amplify a specific human gene (betaglobin) from genomic DNA. Saiki generated the needed data and Erlich authored the first paper to include utilization of the technique, while Mullis was still working on a paper that would describe PCR itself. 
+
+A complication at that point was that the DNA polymerase used was destroyed by the high heat used at the start of each replication cycle and had to be replaced. In 1986, Saiki started to use Thermophilus aquaticus (Taq) DNA polymerase to amplify segments of DNA. The Taq polymerase was heat resistant and would only need to be added once, thus making the technique dramatically more affordable and subject to automation. This has created revolutions in biochemistry, molecular biology, genetics, medicine and forensics.
+
+Mullis has also invented a UV-sensitive plastic that changes color in response to light, and most recently has been working on an approach for mobilizing the immune system to neutralize invading pathogens and toxins, leading to the formation of his current venture, Altermune LLC, in 2011. Loxbridge and Dr Kary Mullis Announce the Formation of Altermune Technologies with $7m Seed Investment. Archived Mullis described this idea this way:
+
+It is a method using specific synthetic chemical linkers to divert an immune response from its nominal target to something completely different which you would right now like to be temporarily immune to. Let's say you just got exposed to a new strain of the flu. You're already immune to alpha-1,3-galactosyl-galactose bonds. All humans are. Why not divert a fraction of those antibodies to the influenza strain you just picked up? A chemical linker synthesized with an alpha-1,3-gal-gal bond on one end and a DNA aptamer devised to bind specifically to the strain of influenza you have on the other end will link anti-alpha-Gal antibodies to the influenza virus and presto!--you have fooled your immune system into attacking the new virus. 
+
+===Accreditation of the PCR technique===
+A concept similar to that of PCR had been described before Mullis' work. Nobel Prize laureate H. Gobind Khorana and Kjell Kleppe, a Norwegian scientist, authored a paper seventeen years earlier describing a process they termed "repair replication" in the Journal of Molecular Biology. Using repair replication, Kleppe duplicated and then quadrupled a small synthetic molecule with the help of two primers and DNA-polymerase. The method developed by Mullis, used repeated thermal cycling, which allowed the rapid and exponential amplification of large quantities of any desired DNA sequence from an extremely complex template. Later a heat stable DNA polymerase was incorporated into the process.
+
+The suggestion that Mullis was solely responsible for the idea of using Taq polymerase in the PCR process has been contested by his co-workers at the time, who were embittered by his abrupt departure from Cetus. However, other scientists have written that "the full potential PCR was not realized" until Mullis' work in 1983, and that Mullis' colleagues failed to see the potential of the technique when he presented it to them. As a result, some controversy surrounds the balance of credit that should be given to Mullis versus the team at Cetus. In practice, credit has accrued to both the inventor and the company (although not its individual workers) in the form of a Nobel Prize and a $10,000 Cetus bonus for Mullis and $300 million for Cetus when the company sold the patent to Roche Molecular Systems. After DuPont lost out to Roche on that sale, the company unsuccessfully disputed Mullis's patent on the alleged grounds that PCR had been previously described in 1971. Mullis and Erlich took Cetus' side in the case, and Khorana refused to testify for DuPont; the jury upheld Mullis's patent in 1991. 
+
+The anthropologist Paul Rabinow wrote a book on the history of the PCR method in 1996 (entitled Making PCR) in which he discussed whether or not Mullis "invented" PCR or "merely" came up with the concept of it. Rabinow, a Foucault scholar interested in issues of the production of knowledge, used the topic to argue against the idea that scientific discovery is the product of individual work, writing, "Committees and science journalists like the idea of associating a unique idea with a unique person, the lone genius. PCR is, in fact, one of the classic examples of teamwork." 
+
+==Personal views==
+
+Mullis has said that the never-ending quest for more grants and staying with established dogmas has hurt science. He believes that "Science is being practiced by people who are dependent on being paid for what they are going to find out," not for what they actually produce. Mullis has been described as an "impatient and impulsive researcher" who avoids lab work and instead thinks about research topics while driving and surfing. 
+
+In his 1998 autobiography, Mullis expressed disagreement with the scientific evidence supporting climate change and ozone depletion, the evidence that HIV causes AIDS, and asserted his belief in astrology. Mullis claims climate change and the HIV/AIDS connection are due to a conspiracy of environmentalists, government agencies and scientists attempting to preserve their careers and earn money, rather than scientific evidence. Mullis has drawn controversy for his association with prominent AIDS denialist Peter Duesberg, claiming that AIDS is an arbitrary diagnosis only used when HIV antibodies are found in a patient's blood. The medical and scientific consensus is that Duesberg's hypothesis is pseudoscience, HIV having been conclusively proven to be the cause of AIDS and that global warming is occurring because of human activities. Seth Kalichman, AIDS researcher and author of Denying AIDS, " that it seems odd to include a Nobel Laureate among the who's who of AIDS pseudoscientists". Mullis also wrote the foreword to the book What If Everything You Thought You Knew About AIDS Was Wrong? by Christine Maggiore, an HIV-positive AIDS denialist who, along with her daughter, died of an AIDS-related illness. A New York Times article listed Mullis as one of several scientists who, after success in their area of research, go on to make unfounded, sometimes bizarre statements in other areas. An article in the Skeptical Inquirer described Mullis as an "...AIDS denialist with scientific credentials has never done any scientific research on HIV or AIDS". 
+
+==Use of LSD==
+Mullis details his experiences synthesizing and testing various psychedelic amphetamines and a difficult trip on DET in his autobiography. In a Q&A interview published in the September 1994, issue of California Monthly, Mullis said, "Back in the 1960s and early '70s I took plenty of LSD. A lot of people were doing that in Berkeley back then. And I found it to be a mind-opening experience. It was certainly much more important than any courses I ever took." During a symposium held for centenarian Albert Hofmann, "Hofmann revealed that he was told by Nobel-prize-winning chemist Kary Mullis that LSD had helped him develop the polymerase chain reaction that helps amplify specific DNA sequences." Replying to his own postulate during an interview for BBC's Psychedelic Science documentary, "What if I had not taken LSD ever; would I have still invented PCR?" He replied, "I don't know. I doubt it. I seriously doubt it." 
+
+==Extraterrestrial life==
+Mullis reported an encounter with a glowing green raccoon at his cabin in the woods of northern California around midnight one night in 1985. 
+
+==Personal life==
+Mullis enjoys surfing. He has been married four times. He has three children by two ex-wives. 
+
+==Publications and Books==
+* K.F. Mullis, F. Faloona, S. Scharf, R. Saiki, G. Horn and H. Erlich, 1986, Specific enzymatic amplification of DNA in vitro: The polymerase chain reaction. Cold Spring Harbor Symposium in Quantitative Biology, 51:263-273.
+* K. Mullis, 1990, The unusual origin of the polymerase chain reaction. Scientific American, April 56-65.
+* The Polymerase Chain Reaction, 1994, co-edited Francious Ferre and Richard A. Gibbs (Basel: Birkhauser) ISBN 0817637508 ISBN 978-0817637507
+* Dancing Naked in the Mind Field. 1998, Vintage Books.
+
+Mullis's 1998 autobiography Dancing Naked in the Mind Field, gives his account of the commercial development of PCR, as well as providing insights into his opinions and experiences. In the book, Mullis chronicles his romantic relationships, use of LSD, synthesis and self-testing of novel psychoactive substances, belief in astrology and an encounter with an extraterrestrial in the form of a fluorescent raccoon.
+
+===Awards and honors===
+* 1990 – William Allan Memorial Award of the American Society of Human Genetics | Preis Biochemische Analytik of the German Society of Clinical Chemistry and Boehringer Mannheim
+* 1991 – National Biotechnology Award | Gairdner Award | R&D Scientist of the Year
+* 1992 – California Scientist of the Year Award
+* 1993 – Nobel Prize in Chemistry | Japan Prize | Thomas A. Edison Award
+* 1994 – Honorary degree of Doctor of Science from the University of South Carolina
+* 1998 – Inducted into the National Inventors Hall of Fame | Ronald H. Brown American Innovator Award 
+* 2004 – Honorary degree in Pharmaceutical Biotechnology from the University of Bologna, Italy
+
+Mullis also received the John Scott Award in 1991, given by the City Trusts of Philadelphia to others including Thomas Edison and the Wright Brothers. 
+
+==See also==
+* Nobel Prize controversies
+* The Other Side of AIDS
+* House of Numbers
+
+==References==
+
+Nobel Lecture, December 8, 1993
+
+==Further reading==
+*Paul Rabinow, Making PCR: a story of biotechnology (University of Chicago Press, 1996). ISBN 0-226-70147-6
+* Anthony Liversidge, "Kary Mullis, the great gene machine", Omni magazine (April 1992).
+* Kary Mullis, Dancing Naked in the Mind Field. Vintage Books (1998). ISBN 0-679-44255-3.
+
+==External links==
+
+* .
+* .
+
+===Interviews===
+* .
+* regarding his views on HIV/AIDS.
+
+

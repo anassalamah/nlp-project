@@ -1,0 +1,66 @@
+[[Clever Hans]]
+
+Clever Hans performs
+Clever Hans (in German, der Kluge Hans) was an Orlov Trotter horse that was claimed to have been able to perform arithmetic and other intellectual tasks. 
+
+After a formal investigation in 1907, psychologist Oskar Pfungst demonstrated that the horse was not actually performing these mental tasks, but was watching the reaction of his human observers. Pfungst discovered this artifact in the research methodology, wherein the horse was responding directly to involuntary cues in the body language of the human trainer, who had the faculties to solve each problem. The trainer was entirely unaware that he was providing such cues. In honour of Pfungst's study, the anomalous artifact has since been referred to as the Clever Hans effect and has continued to be important knowledge in the observer-expectancy effect and later studies in animal cognition. Hans was studied by the famous German philosopher and psychologist Carl Stumpf in the early 20th century. Stumpf was observing the sensational phenomena of the horse, which also added to his impact on phenomenology.
+
+==Spectacle==
+During the early twentieth century, the public was especially interested in animal intelligence due in a large part to Charles Darwin's then-recent publications.
+
+Hans was a horse owned by Wilhelm von Osten, who was a gymnasium mathematics teacher, an amateur horse trainer, phrenologist, and something of a mystic.
+Hans was said to have been taught to add, subtract, multiply, divide, work with fractions, tell time, keep track of the calendar, differentiate musical tones, and read, spell, and understand German. Von Osten would ask Hans, "If the eighth day of the month comes on a Tuesday, what is the date of the following Friday?” Hans would answer by tapping his hoof. Questions could be asked both orally, and in written form. Von Osten exhibited Hans throughout Germany, and never charged admission. Hans's abilities were reported in The New York Times in 1904. After von Osten died in 1909, Hans was acquired by several owners. It is believed that the horse was put to use in some capacity in World War I. After 1916, there is no record of him and his fate remains unknown.
+
+==Investigation==
+As a result of the large amount of public interest in Clever Hans, the German board of education appointed a commission to investigate von Osten's scientific claims. Philosopher and psychologist Carl Stumpf formed a panel of 13 people, known as the Hans Commission. This commission consisted of a veterinarian, a circus manager, a Cavalry officer, a number of school teachers, and the director of the Berlin zoological gardens. This commission concluded in September 1904 that no tricks were involved in Hans’s performance.
+
+The commission passed off the evaluation to Pfungst, who tested the basis for these claimed abilities by:
+
+# Isolating horse and questioner from spectators, so no cues could come from them
+# Using questioners other than the horse's master
+# By means of blinders, varying whether the horse could see the questioner
+# Varying whether the questioner knew the answer to the question in advance.
+
+Using a substantial number of trials, Pfungst found that the horse could get the correct answer even if von Osten himself did not ask the questions, ruling out the possibility of fraud. However, the horse got the right answer only when the questioner knew what the answer was, and the horse could see the questioner. He observed that when von Osten knew the answers to the questions, Hans got 89 percent of the answers correct, but when von Osten did not know the answers to the questions, Hans only answered six percent of the questions correctly.
+
+Pfungst then proceeded to examine the behaviour of the questioner in detail, and showed that as the horse's taps approached the right answer, the questioner's posture and facial expression changed in ways that were consistent with an increase in tension, which was released when the horse made the final, correct tap. This provided a cue that the horse could use to tell it to stop tapping. The social communication systems of horses may depend on the detection of small postural changes, and this would explain why Hans so easily picked up on the cues given by von Osten, even if these cues were subconscious. 
+
+Pfungst carried out laboratory tests with human subjects, in which he played the part of the horse. Pfungst asked subjects to stand on his right and think "with a high degree of concentration" about a particular number, or a simple mathematical problem. Pfungst would then tap out the answer with his right hand. He frequently observed "a sudden slight upward jerk of the head" when reaching the final tap, and noted that this corresponded to the subject resuming the position they had adopted before thinking of the question. 
+
+Both von Osten and Pfungst were notoriously bad-tempered and prone to rage when the horse did not perform well. Pfungst suffered more than one horse bite during his investigation. 
+
+Even after this official debunking, von Osten, who was never persuaded by Pfungst's findings, continued to show Hans around Germany, attracting large and enthusiastic crowds.
+
+==The Clever Hans effect==
+After Pfungst had become adept at giving Hans performances himself, and was fully aware of the subtle cues which made them possible, he discovered that he would produce these cues involuntarily regardless of whether he wished to exhibit or suppress them. Recognition of this phenomenon has had a large effect on experimental design and methodology for all experiments whatsoever involving sentient subjects, including humans.
+
+The risk of Clever Hans effects is one reason why comparative psychologists normally test animals in isolated apparatus, without interaction with them. However this creates problems of its own, because many of the most interesting phenomena in animal cognition are only likely to be demonstrated in a social context, and in order to train and demonstrate them, it is necessary to build up a social relationship between trainer and animal. This point of view has been strongly argued by Irene Pepperberg in relation to her studies of parrots (Alex), and by Allen and Beatrix Gardner in their study of the chimpanzee Washoe. If the results of such studies are to gain universal acceptance, it is necessary to find some way of testing the animals' achievements which eliminates the risk of Clever Hans effects. However, simply removing the trainer from the scene may not be an appropriate strategy, because where the social relationship between trainer and subject is strong, the removal of the trainer may produce emotional responses preventing the subject from performing. It is therefore necessary to devise procedures where none of those present knows what the animal's likely response may be.
+
+The Clever Hans Effect has also been observed in drug sniffing dogs. A study at University of California Davis revealed that cues can be telegraphed by the handler to the dogs, resulting in false positives. A 2004 study of Rico, a border collie reported by his owners as having a vocabulary of over 200 words, avoided the Clever Hans effect by having the owner ask the dog to fetch items from an adjacent room, so that the owner could not provide real time feedback while the dog was selecting an object.
+
+As Pfungst's final experiment makes clear, Clever Hans effects are quite as likely to occur in experiments with humans as in experiments with animals. For this reason, care is often taken in fields such as perception, cognitive psychology, and social psychology to make experiments double-blind, meaning that neither the experimenter nor the subject knows what condition the subject is in, and thus what his or her responses are predicted to be. Another way in which Clever Hans effects are avoided is by replacing the experimenter with a computer, which can deliver standardized instructions and record responses without giving clues.
+
+==See also==
+*Cholla the painting horse
+*Harass II, a dog used in criminal investigations
+*Ideomotor Effect
+*Lady Wonder a horse with purported telepathic abilities.
+*Beautiful Jim Key
+*Pygmalion effect
+*Nazi talking dogs
+*Rom Houben
+* Jim the Wonder Dog
+
+==References==
+
+==Sources==
+* Hothersall, David. History of Psychology. McGraw-Hill. 2004.
+*Pfungst, O. (1911). Clever Hans (The horse of Mr. von Osten): A contribution to experimental animal and human psychology (Trans. C. L. Rahn). New York: Henry Holt. (Originally published in German, 1907).
+*
+*
+
+==External links==
+*Clever Hans the Math Horse
+*Clever Hans (The Horse of Mr. Von Osten): A Contribution to Experimental Animal and Human Psychology by Oskar Pfungst, 1911—Project Gutenberg e-text and HTML with graphs and photos.
+
+

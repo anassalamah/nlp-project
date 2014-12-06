@@ -1,0 +1,92 @@
+[[Rickettsia]]
+
+Rickettsia is a genus of non-motile, Gram-negative, non-sporeforming, highly pleomorphic bacteria that can present as cocci (0.1 μm in diameter), rods (1–4 μm long) or thread-like (10 μm long). Being obligate intracellular parasites, the Rickettsia survival depends on entry, growth, and replication within the cytoplasm of eukaryotic host cells (typically endothelial cells). 
+
+Because of this, Rickettsia cannot live in artificial nutrient environments and is grown either in tissue or embryo cultures (typically, chicken embryos are used). In the past it was positioned somewhere between viruses and true bacteria. However unlike Chlamydia, Mycoplasma, and Ureaplasma, Rickettsial organisms possess true cell walls similar to other Gram-negative bacteria. The majority of Rickettsia bacteria are susceptible to antibiotics of the tetracycline group.
+
+Despite the similar name, Rickettsia bacteria do not cause rickets, which is a result of vitamin D deficiency.
+
+Rickettsia species are carried by many chiggers, ticks, fleas, and lice, and cause diseases in humans such as typhus, rickettsialpox, Boutonneuse fever, African tick bite fever, Rocky Mountain spotted fever, Flinders Island spotted fever and Queensland tick typhus (Australian tick typhus). They have also been associated with a range of plant diseases. The name rickettsia is often used for any member of the Rickettsiales. They are one of closest living relatives to bacteria that were the origin of the mitochondria organelle that exists inside most eukaryotic cells.
+
+The method of growing Rickettsia in chicken embryos was invented by Ernest William Goodpasture and his colleagues at Vanderbilt University in the early 1930s.
+
+==Classification==
+The classification of Rickettsia into three groups (spotted fever, typhus and scrub typhus) was based on serology. This grouping has since been confirmed by DNA sequencing. All three of these contain human pathogens. The scrub typhus group has been reclassified as a new genus – Orientia – but many medical textbooks still list this group under the rickettsial diseases.
+
+However more recently it has become apparent that rickettsia are more widespread than previously believed and are known to be associated with arthropods, leeches and protists. Divisions have also been identified in the spotted fever group and it has been suggested that this should be divided into two clades. Gillespie J.J., Beeir M.S., Rahman M.S., Ammerman N.C., Shallom J.M., Purkayastha A., Sobral B.S., Azad A.F. Plasmids and rickettsial evolution: insight from 'Rickettsia felis'. PLoS ONE. 2007;2:e266. . Arthropod-inhabiting rickettsiae are generally associated with reproductive manipulation (such as parthenogenesis) to persist in host lineage Perlman S.J., Hunter M.S., Zchori-Fein E. The emerging diversity of 'Rickettsia'. Proceedings of the Royal Society B-Biological Sciences. 2006;273:2097–2106. 
+
+In March 2010 Swedish researchers reported a case of bacterial meningitis in woman caused by Rickettsia helvetica previously thought to be harmless. "Rickettsia helvetica in Patient with Meningitis, Sweden, 2006". Emerging Infectious Diseases, Volume 16, Number 3 - March 2010 
+
+===Spotted fever group===
+:* Rickettsia rickettsii (Western hemisphere)
+:: Rocky Mountain spotted fever
+
+:* Rickettsia akari (USA, former Soviet Union)
+:: Rickettsialpox
+
+:* Rickettsia conorii (Mediterranean countries, Africa, Southwest Asia, India)
+:: Boutonneuse fever
+
+:* Rickettsia sibirica (Siberia, Mongolia, northern China)
+:: Siberian tick typhus or North Asian tick typhus
+
+:* Rickettsia australis (Australia)
+:: Australian tick typhus
+
+:* Rickettsia felis (North and South America, Southern Europe, Australia)
+:: Flea-borne spotted fever
+
+:* Rickettsia japonica (Japan)
+:: Oriental spotted fever
+
+:* Rickettsia africae (South Africa)
+:: African tick bite fever
+
+:* Rickettsia hoogstraalii (Croatia, Spain and Georgia USA) Duh, D., V. Punda-Polic, T. Avsic-Zupanc, D. Bouyer, D.H. Walker, V.L. Popov, M. Jelovsek, M. Gracner, T. Trilar, N. Bradaric, T.J. Kurtti and J. Strus. (2010) Rickettsia hoogstraalii sp. nov., isolated from hard- and soft-bodied ticks. International Journal of Systematic and Evolutionary Microbiology, 60, 977-984; http://ijs.sgmjournals.org/cgi/content/abstract/60/4/977, accessed 16 July 2010. 
+:: Unknown pathogenicity
+
+===Typhus group===
+:* Rickettsia prowazekii (worldwide)
+:: Epidemic typhus, recrudescent typhus and sporadic typhus
+
+:* Rickettsia typhi (worldwide)
+:: Murine typhus (endemic typhus)
+
+===Scrub typhus group===
+:* The causative agent of scrub typhus formerly known as R. tsutsugamushi has been reclassified into the genus Orientia.
+
+==Flora and fauna pathogenesis==
+The following plant diseases have been associated with Rickettsia-like organisms. 
+
+:* Beet latent Rosette RLO
+:* Citrus Greening bacterium possibly this citrus greening disease
+:* Clover leaf RLO
+:* Grapevine infectious necrosis RLO
+:* Grapevine Pierce's RLO
+:* Grapevine yellos RLO
+:* Witch's broom disease on Larix spp.
+:* Peach phony RLO
+
+Infection occurs in non-human mammals; for example, species of Rickettsia have been found to afflict the South American guanaco, Lama guanacoe. C. Michael Hogan. 2008. Guanaco: Lama guanicoe, GlobalTwitcher.com, ed. N. Strömberg 
+
+==Pathophysiology==
+
+==Genomics==
+Certain segments of Rickettsial genomes resemble that of mitochondria. The deciphered genome of R. prowazekii is 1,111,523 bp long and contains 834 protein-coding genes. Unlike free-living bacteria, it contains no genes for anaerobic glycolysis or genes involved in the biosynthesis and regulation of amino acids and nucleosides. In this regard it is similar to mitochondrial genomes; in both cases, nuclear (host) resources are used.
+
+ATP production in Rickettsia is the same as that in mitochondria. In fact, of all the microbes known, the Rickettsia is probably the closest relative (in a phylogenetic sense) to the mitochondria. Unlike the latter, the genome of R. prowazekii, however, contains a complete set of genes encoding for the tricarboxylic acid cycle and the respiratory chain complex. Still, the genomes of the Rickettsia as well as the mitochondria are frequently said to be "small, highly derived products of several types of reductive evolution".
+
+The recent discovery of another parallel between Rickettsia and viruses may become a basis for fighting HIV infection. Human immune response to the scrub typhus pathogen, Orientia tsutsugamushi rickettsia, appears to provide a beneficial effect against HIV infection progress, negatively influencing the virus replication process. A probable reason for this actively studied phenomenon is a certain degree of homology between the rickettsia and the virus – namely, common epitope(s) due to common genome fragment(s) in both pathogens. Surprisingly, the other infection reported to be likely to provide the same effect (decrease in viral load) is the virus-caused illness dengue fever.
+
+Comparative analysis of genomic sequences have also identified 5 conserved signature indels in important proteins which are uniquely found in members of the genus Rickettsia. These indels consist of a 4 amino acid insertion in transcription repair coupling factor Mfd, a 10 amino acid insertion in ribosomal protein L19, a 1 amino acid insertion in FtsZ, a 1 amino acid insertion in major sigma factor 70, and a 1 amino acid deletion in exonuclease VII. These indels are all characteristic of the genus and serve as molecular markers for Rickettsia. 
+
+==Naming==
+The genus Rickettsia is named after Howard Taylor Ricketts (1871&ndash;1910), who studied Rocky Mountain spotted fever in the Bitterroot Valley of Montana, and eventually died of typhus after studying that disease in Mexico City. Despite the similar name, Rickettsia bacteria do not cause rickets, which is a result of vitamin D deficiency.
+
+==References==
+
+==External links==
+* Rickettsia genomes and related information at PATRIC, a Bioinformatics Resource Center funded by NIAID
+* African Tick Bite Fever from the Centers for Disease Control and Prevention
+
+

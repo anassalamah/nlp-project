@@ -1,0 +1,69 @@
+[[Coupling reaction]]
+
+A coupling reaction in organic chemistry is a catch-all term for a variety of reactions where two hydrocarbon fragments are coupled with the aid of a metal catalyst. In one important reaction type a main group organometallic compound of the type RM (R = organic fragment, M = main group centre) reacts with an organic halide of the type R'X with formation of a new carbon-carbon bond in the product R-R' Organic Synthesis using Transition Metals Rod Bates ISBN 978-1-84127-107-1 Contributions to coupling reactions by Ei-ichi Negishi and Akira Suzuki were recognized with the 2010 Nobel Prize in Chemistry, which was shared with Richard F. Heck. 
+
+Broadly speaking, two types of coupling reactions are recognized:
+*cross couplings involve reactions between two different partners, for example bromobenzene (PhBr) and vinyl chloride to give styrene (PhCH=CH2).
+*homocouplings couple two identical partners, for example, the conversion of iodobenzene (PhI) to biphenyl (Ph-Ph).
+
+==Mechanism==
+The reaction mechanism usually begins with oxidative addition of one organic halide to the catalyst. Subsequently, the second partner undergoes transmetallation, which places both coupling partners on the same metal centre. The final step is reductive elimination of the two coupling fragments to regenerate the catalyst and give the organic product. Unsaturated organic groups couple more easily in part because they add readily. The intermediates are also less prone to beta-hydride elimination. Hartwig, J. F. Organotransition Metal Chemistry, from Bonding to Catalysis; University Science Books: New York, 2010. ISBN 1-891389-53-X 
+
+In one computational study, unsaturated organic groups were shown to undergo much easier coupling reaction on the metal center. V. P. Ananikov, D. G. Musaev, K. Morokuma, “Theoretical Insight into the C-C Coupling Reactions of the Vinyl, Phenyl, Ethynyl, and Methyl Complexes of Palladium and Platinum” Organometallics 2005, 24, 715. The rates for reductive elimination followed the following order:
+vinyl-vinyl > phenyl-phenyl > alkynyl-alkynyl > alkyl-alkyl.
+The activation barriers and the reaction energies for unsymmetrical R-R′ couplings were found to be close to the averages of the corresponding values of the symmetrical R-R and R′-R′ coupling reactions; for example: vinyl-vinyl > vinyl-alkyl > alkyl-alkyl.
+Another mechanistic approach proposes that specifically in aqueous solutions, coupling actually occurs via a radical mechanism rather than a metal-assisted one. 
+
+===Catalysts===
+
+The most popular metal catalyst is palladium, but some processes often use nickel and copper. A common catalyst is tetrakis(triphenylphosphine)palladium(0). Palladium catalysed reactions have several advantages including functional group tolerance, low sensitivity of organopalladium compounds towards water and air.
+
+Reviews have been written for example on cobalt, Cobalt-Catalyzed Cross-Coupling Reactions Grard Cahiez and Alban Moyeux Chem. Rev., 2010, 110 (3), pp 1435–1462 Publication Date (Web): February 11, 2010 (Review) palladium Carbon−Carbon Coupling Reactions Catalyzed by Heterogeneous Palladium Catalysts Lunxiang Yin and Jürgen Liebscher Chem. Rev., 2007, 107 (1), pp 133–173 Publication Date (Web): December 21, 2006 (Article) Advances in Transition Metal (Pd,Ni,Fe)-Catalyzed Cross-Coupling Reactions Using Alkyl-organometallics as Reaction Partners Ranjan Jana, Tejas P. Pathak, and Matthew S. Sigman Chem. Rev., 2011, 111 (3), pp 1417–1492 Efficient, Selective, and Recyclable Palladium Catalysts in Carbon−Carbon Coupling Reactions rpd Molnr Chem. Rev., 2011, 111 (3), pp 2251–2320 Palladium-Catalyzed Cross-Coupling Reactions of Organoboron Compounds Norio. Miyaura, Akira. Suzuki Chem. Rev., 1995, 95 (7), pp 2457–2483 Diazonium Salts as Substrates in Palladium-Catalyzed Cross-Coupling Reactions Anna Roglans, Anna Pla-Quintana, and Marcial Moreno-Mañas Chem. Rev., 2006, 106 (11), pp 4622–4643 and nickel Nickel-Catalyzed Cross-Couplings Involving Carbon−Oxygen Bonds Brad M. Rosen, Kyle W. Quasdorf, Daniella A. Wilson, Na Zhang, Ana-Maria Resmerita, Neil K. Garg, and Virgil Percec Chem. Rev., 2011, 111 (3), pp 1346–1416 mediated reactions and on applications Selected Patented Cross-Coupling Reaction Technologies Jean-Pierre Corbet and Gérard Mignani Chem. Rev., 2006, 106 (7), pp 2651–2710 2006 (Article) Copper-Mediated Coupling Reactions and Their Applications in Natural Products and Designed Biomolecules Synthesis Gwilherm Evano, Nicolas Blanchard and Mathieu Toumi Chem. Rev., 2008, 108 (8), pp 3054–3131 
+
+===Leaving groups===
+The leaving group X in the organic partner is usually bromide, iodide or triflate. Ideal leaving groups are chloride, since organic chlorides are cheaper than related compounds. The main group metal in the organometallic partner usually is tin, zinc, or boron.
+
+===Operating conditions===
+While many coupling reactions involve reagents that are extremely susceptible to presence of water or oxygen, it is unreasonable to assume that all coupling reactions need to be performed with strict exclusion of water. It is possible to perform palladium-based coupling reactions in aqueous solutions using the water-soluble sulfonated phosphines made by the reaction of triphenyl phosphine with sulfuric acid. Another example of coupling in aqueous media, with the main reacting agent being trimolybdenum-alkylidyne clusters, is that of Bogoslavsky et al. In general, the oxygen in the air is more able to disrupt coupling reactions, because many of these reactions occur via unsaturated metal complexes that do not have 18 valence electrons. For example, in nickel and palladium cross couplings, a zerovalent complex with two vacant sites (or labile ligands) reacts with the carbon halogen bond to form a metal halogen and a metal carbon bond. Such a zerovalent complex with labile ligands or empty coordination sites is normally very reactive toward oxygen.
+
+Some catalysts might be easily poisoned by heterocycles under prolonged reaction at elevated temperature. To avoid this, chemists often use pressure reactors to accelerate reactions at high temperature and pressure. Q-Tube and microwave synthesizer are available safe pressure reactors.
+
+== Coupling types ==
+Coupling reactions include (not exhaustive):
+
+Reaction Year Reactant A Reactant B Homo/Cross Catalyst Remark 
+ Wurtz reaction 1855 R-X sp³ R-X sp³ homo Na (stoichiometric) 
+ Glaser coupling 1869 RC≡CH sp RC≡CH sp homo Cu O2 as H-acceptor 
+ Ullmann reaction 1901 Ar-X sp² Ar-X sp² homo Cu high temperatures 
+ Gomberg-Bachmann reaction 1924 Ar-H sp² Ar-N2X sp² homo requires base 
+ Cadiot-Chodkiewicz coupling 1957 RC≡CH sp RC≡CX sp cross Cu requires base 
+ 
+ Castro-Stephens coupling 1963 RC≡CH sp Ar-X sp² cross Cu 
+ Gilman reagent coupling 1967 R2CuLi R-X cross 
+ Cassar reaction 1970 Alkene sp² R-X sp³ cross Pd requires base 
+ Kumada coupling 1972 Ar-MgBr sp², sp³ Ar-X sp² cross Pd or Ni 
+ Heck reaction 1972 alkene sp² R-X sp² cross Pd requires base 
+ Sonogashira coupling 1975 RC≡CH sp R-X sp³ sp² cross Pd and Cu requires base 
+ Negishi coupling 1977 R-Zn-X sp³, sp², sp R-X sp³ sp² cross Pd or Ni 
+ Stille cross coupling 1978 R-SnR3 sp³, sp², sp R-X sp³ sp² cross Pd 
+ Suzuki reaction 1979 R-B(OR)2 sp² R-X sp³ sp² cross Pd requires base 
+ Hiyama coupling 1988 R-SiR3 sp² R-X sp³ sp² cross Pd requires base 
+ Buchwald-Hartwig reaction 1994 R2N-H sp R-X sp² cross Pd N-C coupling, second generation free amine 
+ Fukuyama coupling 1998 R-Zn-I sp3 RCO(SEt) sp2 cross Pd 
+ Liebeskind–Srogl coupling 2000 R-B(OR)2 sp3, sp2 RCO(SEt) Ar-SMe sp2 cross Pd requires CuTC 
+ Coupling reaction overview. For references consult satellite pages 
+
+==Miscellaneous reactions==
+In one study, an unusual coupling reaction was described in which an organomolybdenum compound, (CF3SO3)2
+not only sat on a shelf for 30 years without any sign of degradation but also decomposed in water to generate 2-butyne, which is the coupling adduct of its two ethylidyne ligands. This, according to the researchers, opens another way for aqueous organometallic chemistry. 
+
+One method for palladium-catalyzed cross-coupling reactions of aryl halides with fluorinated arenes was reported by Keith Fagnou and co-workers. It is unusual in that it involves C-H functionalisation at an electron deficient arene. 
+
+Fluoroarene coupling
+
+==Applications==
+Many coupling reactions have found their way into pharmaceutical industry R.H. Crabtree, The Organometallic Chemistry of the Transition Metals 4th Ed. and into conjugated organic materials Organotransition Metal Chemistry: From Bonding to Catalysis John Hartwig 
+
+==References==
+
+

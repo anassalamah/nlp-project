@@ -1,0 +1,309 @@
+[[Estonian language]]
+
+Estonian ( ) is the official language of Estonia, spoken natively by about 1.1 million people in Estonia and tens of thousands in various migrant communities. It belongs to the Finnic branch of the Uralic language family.
+
+One distinctive feature that has caused a great amount of interest among linguists is what is traditionally seen as three degrees of phonemic length: short, long, and "overlong", such that , and are distinct. In actuality, the distinction is not purely in the phonemic length, and the underlying phonological mechanism is still disputed.
+
+==History==
+The two different historical Estonian languages (sometimes considered dialects), the North and South Estonian languages, are based on the ancestors of modern Estonians' migration into the territory of Estonia in at least two different waves, both groups speaking considerably different Finnic vernaculars. Modern standard Estonian has evolved on the basis of the dialects of Northern Estonia.
+
+The domination of Estonia after the Northern Crusades, from the 13th century to 1918 by Denmark, Germany, Sweden, and Russia delayed indigenous literacy in Estonia. Estonian grammar published in Reval in 1637 by Heinrich Stahl
+The oldest written records of the Finnic languages of Estonia date from the 13th century. Originates Livoniae in Chronicle of Henry of Livonia contains Estonian place names, words and fragments of sentences.
+
+===Estonian literature===
+
+The earliest extant samples of connected (north) Estonian are the so-called Kullamaa prayers dating from 1524 and 1528. Aspects of Altaic Civilization By Denis Sinor ISBN 0-7007-0380-2 In 1525 the first book published in the Estonian language was printed. The book was a Lutheran manuscript, which never reached the reader and was destroyed immediately after publication.
+
+The first extant Estonian book is a bilingual German-Estonian translation of the Lutheran catechism by S. Wanradt and J. Koell dating to 1535, during the Protestant Reformation period. An Estonian grammar book to be used by priests was printed in German in 1637. Dictionary of Languages By Andrew Dalby; p. 182 ISBN 0-231-11569-5 The New Testament was translated into southern Estonian in 1686 (northern Estonian, 1715). The two languages were united based on northern Estonian by Anton thor Helle.
+
+Writings in Estonian became more significant in the 19th century during the Estophile Enlightenment Period (1750–1840).
+
+The birth of native Estonian literature was in 1810 to 1820 when the patriotic and philosophical poems by Kristjan Jaak Peterson were published. Peterson, who was the first student at the then German-language University of Dorpat to acknowledge his Estonian origin, is commonly regarded as a herald of Estonian national literature and considered the founder of modern Estonian poetry. His birthday on March 14 is celebrated in Estonia as the Mother Tongue Day. Culture and Customs of the Baltic States By Kevin O'Connor; P.126 ISBN 0-313-33125-1 A fragment from Peterson's poem "Kuu" expresses the claim reestablishing the birthright of the Estonian language:
+
+:Kas siis selle maa keel
+:Laulutuules ei või
+:Taevani tõustes üles
+:Igavikku omale otsida?
+
+In English:
+:Can the language of this land
+:In the wind of incantation
+:Rising up to the heavens
+:Not seek for eternity?
+:::Kristjan Jaak Peterson
+ 
+From 1525 to 1917 14,503 titles were published in Estonian, as opposed to the 23,868 titles which were published between 1918 and 1940.
+
+In modern times Jaan Kross Jaan Kross at google.books and Jaan Kaplinski Jaan Kaplinski at google.books remain as two of Estonia's best known and most translated writers.
+
+===State language===
+Writings in Estonian became significant only in the 19th century with the spread of the ideas of the Age of Enlightenment, during the Estophile Enlightenment Period (1750–1840). Although Baltic Germans at large regarded the future of Estonians as being a fusion with themselves, the Estophile educated class admired the ancient culture of the Estonians and their era of freedom before the conquests by Danes and Germans in the 13th century. Estonia:Identity and Independence By Jean-Jacques p.84 ISBN 90-420-0890-3 
+
+After the Estonian War of Independence in 1919, the Estonian language became the state language of the newly independent country. As of 1945, 97.3% of Estonia considered itself ethnic Estonian and spoke the language.
+
+When Estonia was invaded and occupied by the Soviet Union in World War II, the status of the Estonian language changed to the first of two official languages (Russian being the other one). Encyclopedia of Bilingualism and Bilingual Education By Sylvia Prys Jones, Colin Baker ISBN 1-85359-362-1 As with Latvia many immigrants entered Estonia under Soviet encouragement. In the second half of the 1970s, the pressure of bilingualism (for Estonians) intensified, resulting in widespread knowledge of Russian throughout the country. The Russian language was termed as ‘the language of friendship of nations’ and was taught to Estonian children, sometimes as early as in kindergarten. Although teaching Estonian to non-Estonians in schools was compulsory, in practice learning the language was often considered unnecessary. Russification at estonica.org 
+
+During the Perestroika era, The Law on the Status of the Estonian Language was adopted in January 1989. The collapse of the Soviet Union led to the restoration of Republic of Estonia's independence. Estonian went back to being the only state language in Estonia which in practice meant that use of Estonian was promoted while the use of Russian was discouraged. http://www.tlfq.ulaval.ca/axl/europe/estonie.htm 
+
+The return of Soviet immigrants to their countries of origin has brought the proportion of Estonians in Estonia back above 70%. And again as in Latvia, today many of the remnant non-Estonians in Estonia have adopted the Estonian language; about 40% as of a 2000 census. 
+
+==Classification==
+Estonian belongs to the Finnic branch of the Uralic languages, along with Finnish, Karelian, and other nearby languages. The Uralic languages do not belong to the Indo-European languages. Estonian is distantly related to Hungarian and to the Sami languages.
+
+Estonian has been influenced by Swedish, German (initially Middle Low German, which was the lingua franca of the Hanseatic League and spoken natively in the territories of what is today known as Estonia by a sizeable burgher community of Baltic Germans, later Estonian was also influenced by standard German), and Russian, though it is not related to them genetically.
+
+Like Finnish and Hungarian, Estonian is a somewhat agglutinative language, but unlike them, it has lost vowel harmony, the front vowels occurring exclusively on the first or stressed syllable, although in older texts the vowel harmony can still be recognized. Furthermore, the apocope of word-final sounds is extensive and has contributed to a shift from a purely agglutinative to a fusional language. The basic word order is subject–verb–object.
+
+==Dialects Map of Estonian Dialects, Tartu University’s Estonian Dialect Corpus Tartu University’s Estonian Dialect Corpus ==
+An 1885 ABC-book in Võro written by Johann Hurt: "Wastne Võro keeli ABD raamat"
+The Estonian dialects are divided into two groups – the northern and southern dialects, historically associated with the cities of Tallinn in the north and Tartu in the south, in addition to a distinct kirderanniku dialect, that of the northeastern coast of Estonia.
+
+The northern group consists of the keskmurre or central dialect that is also the basis for the standard language, the läänemurre or western dialect, roughly corresponding to Läänemaa and Pärnumaa, the saarte murre (islands') dialect of Saaremaa and Hiiumaa and the idamurre or eastern dialect on the northwestern shore of Lake Peipsi.
+
+The southern group (South Estonian language) consists of the Tartu, Mulgi, Võru (Võro) and Setu (Seto) dialects. These are sometimes considered either variants of a South Estonian language, or separate languages altogether. Also, Seto and Võro distinguish themselves from each other less by language and more by their culture and their respective Christian confession. Estonian Dialects, The Institute of the Estonian Language 
+
+==Writing system==
+
+===Alphabet===
+
+Like Finnish, Estonian employs the Latin script as the basis for its alphabet, which adds the letters ä, ö, ü, and õ, plus the later additions š and ž. The letters c, q, w, x and y are limited to proper names of foreign origin, and f, z, š, and ž appear in loanwords and foreign names only. Ö and ü are pronounced similarly to their equivalents in Swedish and German. Unlike in standard German but like Finnish and Swedish (when followed by 'r'), Ä is pronounced , as in English mat. The vowels Ä, Ö and Ü are clearly separate phonemes and inherent in Estonian, although the letter shapes come from German. The letter õ denotes , unrounded , or a close-mid back unrounded vowel. It is almost identical to the Bulgarian ъ and the Vietnamese ơ, and is used to transcribe the Russian ы.
+
+===Orthography===
+Although the Estonian orthography is generally guided by phonemic principles, with each grapheme corresponding to one phoneme, there are some historical and morphological deviations from this: for example the initial letter 'h' in words, preservation of the morpheme in declension of the word (writing b, g, d in places where p, k, t is pronounced) and in the use of 'i' and 'j'. Where it is very impractical or impossible to type š and ž, they are substituted with sh and zh in some written texts, although this is considered incorrect. Otherwise, the h in sh represents a voiceless glottal fricative, as in Pasha (pas-ha); this also applies to some foreign names.
+
+Modern Estonian orthography is based on the Newer Orthography created by Eduard Ahrens in the second half of the 19th century based on Finnish orthography. The Older Orthography it replaced was created in the 17th century by Bengt Gottfried Forselius and Johann Hornung based on standard German orthography. Earlier writing in Estonian had by and large used an ad hoc orthography based on Latin and Middle Low German orthography. Some influences of the standard German orthography — for example, writing 'W'/'w' instead of 'V'/'v' persisted well into the 1930s.
+
+It should be noted that Estonian words and names quoted in international publications from Soviet sources are often back-transliterations from the Russian transliteration. Examples are the use of "ya" for "ä" (e.g. Pyarnu instead of Pärnu), "y" instead of "õ" (e.g., Pylva instead of Põlva) and "yu" instead of "ü" (e.g., Pyussi instead of Püssi). Even in the Encyclopædia Britannica one can find "ostrov Khiuma", where "ostrov" means "island" in Russian and "Khiuma" is back-transliteration from Russian instead of "Hiiumaa" (Hiiumaa > Хийума(а) > Khiuma).
+
+==Phonology==
+
+===Vowels===
+
++Estonian vowel phonemes Front Back 
+ Unrounded Rounded Unrounded Rounded 
+ Close 
+ Mid 
+ Open 
+
+Because short vowels have similar formant values, long vowels are considered sequences of short values rather than separate phonemes (e.g. vere 'blood ' vs. veere 'edge ' vs. veere 'roll 2nd sg.'). There are nine phonemic monophthongs, with three phonetic lengths. Of these, simple and long are segmentally phonemic, and the third length level is suprasegmentally phonemic and aided by a distinctive tonal contour. The script distinguishes only short and long, marked by vowel doubling, e.g. öö "night".
+
+There are 36 diphthongs (28 of which are native to Estonian ); all nine vowels can appear as the first component of a diphthong, but only occur as the second component.
+
++Estonian diphthongs From Vowel 
+ 
+ e () 
+ () () () 
+ 
+ () () 
+ 
+ -- 
+ – – 
+ () () – 
+
+There are very few instances of vowel allophony: may have pronunciations and , and long is pronounced as the diphthong in certain environments.
+
+A vowel characteristic of Estonian is the unrounded back vowel , which may be mid back, close back, or mid central. 
+
+===Consonants===
+
++Consonant phonemes of Estonian Labial Alveolar Post-alveolar Palatal Velar Glottal 
+ plain palatalized 
+ Nasal ()1 
+ Plosive 
+ Fricative 2 2 
+ Approximant 
+ Trill 
+
+Notes:
+# only appears as an allophone of before (e.g. panga 'bank ). 
+# and are considered foreign sounds and they only appear in loanwords. may be pronounced as by some speakers. 
+
+The plosives, , may become voiced between vowels (e.g. kabi 'hoof' ). 
+
+There is only one series of plosives, unvoiced unaspirated, but with three phonemic lengths, written , and . Other consonants also have distinctive length, but only short and long are distinguished in writing. As with vowels, two segmental length levels are phonemic, and the third level is suprasegmentally phonemic. For example, for , short in lina ('sheet'), half-long in linna ('town' gen. sg.), and over-long in linna ('to the town'). The latter addition of length is traceable to a grammatical marker *-han that has elided, with compensatory lengthening. The fricatives , may occur in short and long forms (e.g. maste 'mast pl.' ). 
+
+Consonants may be palatalized; but this is not written in the orthography, as palatalization generally occurs before front vowels (also in the final consonant in the nominative case of nouns if such vowel follows in the genitive). About 0.15% of the vocabulary features fully phonemic palatalization, where palatalization occurs without the front vowel. The process is similar to that found in Eastern Finnish dialects, where word-final is elided, leaving the palatalization on the consonant. Thus, palatalization does not necessarily need a front vowel, and palatalized vs. plain continuants can be articulated.
+
+Proto-Finnic, the ancestor of the Estonian language, may have lost palatalization, in which case Estonian is one of the languages which later reacquired it, possibly as a result of Slavic influence. However, unlike in Russian, where palatalization causes some affrication and necessarily features a palatal approximant/fricative offglide, in Estonian language the consonant is otherwise unaffected.
+
+===Gradation===
+
+In Estonian, sounds alternate between various grades of sound length and sound quality in different grammatical forms of a word; see also vowel gradation, consonant gradation, lenition.
+
+Quantitative changes (strong grade : weak grade)
+*alternation of overlong and long vowels aaa : aa, eee : ee, ooo : oo, uuu : uu (saal : saali, keelama : keelata, kool : kooli, suur : suurde)
+*alternation of overlong and long consonants pp : p, tt : t, kk : k, nnn : nn, lll : ll (sepp : sepa, võtta : võtan, hakkan : hakata, linn : linna, kallama : kallata)
+*alternation of long and short consonants p : b, t : d, k : g, ss : s (kupja : kubjas, kartma : kardan, vilkuda : vilgub, kirss : kirsi)
+
+Qualitative changes (strong grade : weak grade)
+*alternation of long and lowered long vowels i-u : eo, u-a : oa, u-e : oe, u-u : oo, ü-i : öe (pidu : peo, tuba : toa, lugema : loen, sugu : soo, süsi : söe)
+*alternation of weak and assimilated weak consonants b : m, d : n/l/r, s : r (hamba : hammas, kandma : kannan, vars : varre)
+*alternation of weak and lenited weak consonants b : v, d : j, g : j (kaebama : kaevata, rada : raja, märg : märja)
+*alternation of weak and elided weak consonants b : ∅, d/t : ∅, g/k : ∅, s : ∅ (tuba : toa, leht : lehe, arg : ara, mesi : mee)
+
+Partition of grades in declension
+*singular nominative and singular genitive have the opposite grades (leht : lehe – strong : weak, hammas : hamba – weak : strong)
+*singular nominative and singular partitive have the same grades (leht : lehte – strong : strong, hammas : hammast – weak : weak)
+*plural partitive has the strong grade (lehti – strong, hambaid – strong)
+
+Partition of grades in conjugation
+*-da infinitive and present tense have the opposite grades (lugeda : loen – strong : weak, hakata : hakkan – weak : strong)
+*-ma infinitive has the strong grade (lugema – strong, hakkama – strong)
+*-tud participle has the weak grade (loetud – weak, hakatud – weak)
+
+===Stress===
+The stress in Estonian is usually on the first syllable. There are a few exceptions with the stress on the second syllable: aitäh "thanks", sõbranna "female friend". In loanwords, the original stress can be borrowed as well: ideaal "ideal", professor "professor". The stress is weak, and as length levels already control an aspect of "articulation intensity", most words appear evenly stressed.
+
+==Grammar==
+
+Typologically, Estonian represents a transitional form from an agglutinating language to a fusional language. The canonical word order is SVO (subject–verb–object). Beltranslations.com/ 
+
+In Estonian nouns and pronouns do not have grammatical gender, but nouns and adjectives decline in fourteen cases: nominative, genitive, partitive, illative, inessive, elative, allative, adessive, ablative, translative, terminative, essive, abessive, and comitative, with the case and number of the adjective(s) always agreeing with that of the noun (except in the terminative, essive, abessive and comitative, where there is agreement only for the number, the adjective being in the genitive form). Thus the illative for kollane maja ("a yellow house") is kollasesse majja ("into a yellow house"), but the terminative is kollase majani ("as far as a yellow house"). With respect to the Proto-Finnic language, elision has occurred; thus, the actual case marker may be absent, but the stem is changed, cf. maja – majja and the Pohjanmaa dialect of Finnish maja – majahan.
+
+The direct object of the verb appears either in the accusative (for total objects) or in the partitive (for partial objects). The accusative coincides with the genitive in the singular and with nominative in the plural. Accusative vs. partitive case opposition of the object used with transitive verbs creates a telicity contrast, just as in Finnish. This is a rough equivalent of the perfect vs. imperfect aspect opposition.
+
+The verbal system lacks a distinctive future tense (the present tense serves here) and features special forms to express an action performed by an undetermined subject (the "impersonal").
+
+==Vocabulary==
+
+Although the Estonian and Germanic languages are of very different origins, one can identify many similar words in Estonian and English, for example. This is primarily because the Estonian language has borrowed nearly one third of its vocabulary from Germanic languages, mainly from Low Saxon (Middle Low German) during the period of of Estonia#Estonian Crusade: The Middle Ages|German rule], and High German (including standard German). The percentage of Low Saxon and High German loanwords can be estimated at 22–25 percent, with Low Saxon making up about 15 percent.
+
+Often 'b' & 'p' are interchangeable, for example 'baggage' becomes 'pagas', 'lob' (to throw) becomes 'loopima'. Initial letter 's' is often dropped, for example 'skool' becomes 'kool', 'stool' becomes 'tool'.
+
+===Ex nihilo lexical enrichment===
+Estonian language planners such as Ado Grenzstein (a journalist active in Estonia in the 1870s–90s) tried to use formation ex nihilo, Urschöpfung; i.e. they created new words out of nothing.
+
+The most famous reformer of Estonian, Johannes Aavik (1880–1973), used creations ex nihilo (cf. ‘free constructions’, Tauli 1977), along with other sources of lexical enrichment such as derivations, compositions and loanwords (often from Finnish; cf. Saareste and Raun 1965: 76). In Aavik’s dictionary (1921), which lists approximately 4000 words, there are many words which were (allegedly) created ex nihilo, many of which are in common use today. Examples are
+* ese ‘object’,
+* kolp ‘skull’,
+* liibuma ‘to cling’,
+* naasma ‘to return, come back’,
+* nõme 'stupid, dull.' 
+
+Many of the coinages that have been considered (often by Aavik himself) as words concocted ex nihilo could well have been influenced by foreign lexical items, for example words from Russian, German, French, Finnish, English and Swedish. Aavik had a broad classical education and knew Ancient Greek, Latin and French. Consider roim ‘crime’ versus English crime or taunima ‘to condemn, disapprove’ versus Finnish tuomita ‘to condemn, to judge’ (these Aavikisms appear in Aavik’s 1921 dictionary). These words might be better regarded as a peculiar manifestation of morpho-phonemic adaptation of a foreign lexical item. 
+
+==Language example==
+Article 1 of the Universal Declaration of Human Rights in Estonian:
+
+Kõik inimesed sünnivad vabadena ja võrdsetena oma väärikuselt ja õigustelt. Neile on antud mõistus ja südametunnistus ja nende suhtumist üksteisesse peab kandma vendluse vaim.
+
+(All people are born free and equal in their dignity and rights. They are given reason and conscience and they shall create their relationships to one another according to the spirit of brotherhood.)
+
+==Important words and phrases==
+* jah – yes
+* ei – no
+* palun – please; you're welcome
+* aitäh – thanks
+* tänan – thank you
+* tänan väga – thank you very much
+* tere – hi; hello
+* tervist – hello
+* tere tulemast – welcome
+* tere hommikust – good morning
+* tere päevast – good afternoon
+* tere õhtust – good evening
+* head ööd – goodnight
+* head aega – goodbye
+* nägemist – bye; see you!
+* ilusat päeva – have a nice day!
+* vabanda – excuse me (familiar)
+* vabandage – excuse me (polite)
+* vabandust – sorry
+* pole viga – no problem
+* kas sa räägid inglise keelt? – do you speak English? (familiar)
+* kas te räägite inglise keelt? – do you speak English? (polite)
+* ma ei räägi eesti keelt – I don't speak Estonian
+* ma ei räägi palju eesti keelt – I don't speak much Estonian
+* ma räägin natuke eesti keelt – I speak a little Estonian
+* ma saan aru – I understand
+* ma ei saa aru – I don't understand
+* ma tean – I know
+* ma ei tea – I don't know
+* ma olen – I am
+* mis on teie nimi? – what's your name?
+* minu nimi on Indrek – My name is Indrek
+* kuidas sinul läheb? – how are you? (familiar)
+* kuidas teil läheb? – how are you? (polite)
+* tänan, hästi – I'm fine, thanks
+* normaalselt – I'm ok
+* halvasti – bad
+* meeldiv teiega tuttavaks saada – a pleasure to meet you
+* üks – one
+* kaks – two
+* kolm – three
+* neli – four
+* viis – five
+* kuus – six
+* seitse – seven
+* kaheksa – eight
+* üheksa – nine
+* kümme – ten
+* üksteist – eleven
+* kaksteist – twelve
+* kakskümmend – twenty
+* kolmkümmend – thirty
+* sada – one hundred
+* tuhat – one thousand
+* miljon – one million
+* miljard – one billion
+* esmaspäev – Monday
+* teisipäev – Tuesday
+* kolmapäev – Wednesday
+* neljapäev – Thursday
+* reede – Friday
+* laupäev – Saturday
+* pühapäev – Sunday
+* kevad – spring
+* suvi – summer
+* sügis – autumn
+* talv – winter
+* Eesti – Estonia
+* Soome - Finland
+* Läti – Latvia
+* Leedu – Lithuania
+* Venemaa – Russia http://www.speakestonian.co.uk/ 
+
+==See also==
+*Swadesh list for Finnic languages
+*Swadesh list for Finno-Ugric languages
+
+==References==
+
+==Bibliography==
+*
+*
+*
+
+==External links==
+
+*Watch and listen live Estonian television and radio broadcasts in the Estonian language
+
+*Estonian Summer Courses at the University of Tartu Language Centre
+*Summer School of Estonian at Tallinn University
+*Estonica.org article
+*Estonian literary magazine
+*Maps of dialect areas from the Institute of the Estonian Language
+*Learn Estonian with Native Speakers
+* Estonian Language Handbook (Eesti keele käsiraamat) — Institute of the Estonian Language
+*Õigekeelsussõnaraamat: shows the inflection of more than 100000 Estonian words, based on 90 patterns of nouns and 200 patterns of verbs
+*Estonian verb conjugator and noun declinator
+*Learn to speak Estonian
+**Eesti keel ja meel*("Estonian Language and Mind"). A computer-based course in colloquial Estonian using English, German, French, Russian, Italian, Dutch, Romanian, Greek, or Hungarian as the source language. It is best suited for advanced beginners and intermediate students of Estonian. It can be used on-line or purchased as a DVD (ISBN 9789985979457).
+*Estonian language course
+*Estonian Swadesh list of basic vocabulary words (from Wiktionary's Swadesh-list appendix)
+
+;Dictionaries
+
+*An Estonian-English dictionary (Institute of the Estonian Language)
+*A small English-Estonian-English dictionary (Institute of Baltic Studies) — based on a common school dictionary
+*An Estonian-English-Estonian dictionary
+*An Estonian-English-Estonian dictionary
+*A small Estonian-English-Estonian dictionary with multiple cases of nouns and verbs.
+*An Estonian-English-Estonian dictionary with translation memory, 30000 phrases.
+
+;Recordings
+*Various audio files of speakers of Estonian dialects, settlers and emigres
+
+ 
+
+

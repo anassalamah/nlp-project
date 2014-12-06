@@ -1,0 +1,157 @@
+[[Uric acid]]
+
+Uric acid is a heterocyclic compound of carbon, nitrogen, oxygen, and hydrogen with the formula C5H4N4O3. It forms ions and salts known as urates and acid urates such as ammonium acid urate. Uric acid is a product of the metabolic breakdown of purine nucleotides. High blood concentrations of uric acid can lead to gout. The chemical is associated with other medical conditions including diabetes and the formation of ammonium acid urate kidney stones.
+
+==Chemistry==
+Uric acid is a diprotic acid with pKa1=5.4 and pKa2=10.3. Thus in strong alkali at high pH, it forms the dually charged full urate ion, but at biological pH or in the presence of carbonic acid or carbonate ions, it forms the singly charged hydrogen or acid urate ion as its pKa1 is lower than the pKa1 of carbonic acid. As its second ionization is so weak, the full urate salts tend to hydrolyze back to hydrogen urate salts and free base at pH values around neutral. It is aromatic because of the purine functional group.
+
+As a bicyclic, heterocyclic purine derivative, uric acid does not protonate at an oxygen like carboxylic acids do. X-Ray diffraction studies on the hydrogen urate ion in crystals of ammomium hydrogen urate, formed in vivo as gouty deposits, reveal the keto-oxygen in the 2 position of a tautomer of the purine structure exists as a hydroxyl group and the two flanking nitrogen atoms at the 1 and 3 positions share the ionic charge in the six-membered pi-resonance-stabilized ring. European Powder Diffraction Conference, EPDIC-9 
+
+Thus, while most organic acids are deprotonated by the ionization of a polar hydrogen-to-oxygen bond, usually accompanied by some form of resonance stabilization (resulting in a carboxylate ion), uric acid is deprotonated at a nitrogen atom and uses a tautomeric keto/hydroxy group as an electron-withdrawing group to increase the pK1 value. The five-membered ring also possesses a keto group (in the 8 position), flanked by two secondary amino groups (in the 7 and 9 positions), and deprotonation of one of these at high pH could explain the pK2 and behavior as a diprotic acid. Similar tautomeric rearrangement and pi-resonance stabilization would then give the ion some degree of stability.
+(On the structure shown at the upper-right, the NH at the upper-right on the six-membered ring is "1", counting clockwise around the six-membered ring to "6" for the keto carbon at the top of the six-membered ring. The uppermost NH on the five-membered ring is "7", counting counter-clockwise around this ring to the lower NH, which is "9".)
+
+Uric acid was first isolated from kidney stones in 1776 by Scheele. Scheele, V. Q. Examen Chemicum Calculi Urinari, Opuscula, 1776, 2, 73. As far as laboratory synthesis is concerned, in 1882, Ivan Horbaczewski claimed to have prepared uric acid by melting urea hydrogen peroxide with glycine, trichlorolactic acid, and its amide. Soon after, repetition by Eduard Hoffmann shows that this preparation with glycine gives no trace of uric acid, but trichlorolacetamide produces some uric acid. Thus, Hoffmann was the first to synthesize uric acid. . 
+
+===Solubility===
+
+In general, the water solubility of uric acid and its alkali metal and alkaline earth salts is rather low. All these salts exhibit greater solubility in hot water than cold, allowing for easy recrystallization. This low solubility is significant for the etiology of gout. The solubility of the acid and its salts in ethanol is very low or negligible. In ethanol water mixtures, the solubilities are somewhere between the end values for pure ethanol and pure water.
+
+ Compound Cold Water Boiling Water 
+ Uric Acid 15000 2000 
+ NH4HUrate - 1600 
+ LiHUrate 370 39 
+ NaHUrate 1175 124 
+ KHUrate 790 75 
+ Mg(HUrate)2 3750 160 
+ Ca(HUrate)2 603 276 
+ Na2Urate 77 - 
+ K2Urate 44 35 
+ CaUrate 1500 1440 
+ SrUrate 4300 1790 
+ BaUrate 7900 2700 
+
+The figures given indicate what mass of water is required to dissolve a unit mass of compound indicated. The lower the number the more soluble the substance in the said solvent. 
+
+==Biology==
+The enzyme xanthine oxidase makes uric acid from xanthine and hypoxanthine, which in turn are produced from other purines. Xanthine oxidase is a large enzyme whose active site consists of the metal molybdenum bound to sulfur and oxygen. Within cells, xanthine oxidase can exist as xanthine dehydrogenase and xanthine oxireductase, which has also been purified from bovine milk and spleen extracts. Uric acid is released in hypoxic conditions. 
+
+In humans and higher primates, uric acid is the final oxidation (breakdown) product of purine metabolism and is excreted in urine. In most other mammals, the enzyme uricase further oxidizes uric acid to allantoin. Angstadt, Carol N. (1997-12-04). Purine and Pyrimidine Metabolism: Purine Catabolism. NetBiochem, 4 December 1997. Retrieved from http://library.med.utah.edu/NetBiochem/pupyr/pp.htm#Pu%20Catab. The loss of uricase in higher primates parallels the similar loss of the ability to synthesize ascorbic acid, leading to the suggestion that urate may partially substitute for ascorbate in such species. Both uric acid and ascorbic acid are strong reducing agents (electron donors) and potent antioxidants. In humans, over half the antioxidant capacity of blood plasma comes from uric acid. 
+ 
+
+The Dalmatian dog has a genetic defect in uric acid uptake by the liver and kidneys, resulting in decreased conversion to allantoin, so this breed excretes uric acid, and not allantoin, in the urine. 
+
+In birds and reptiles, and in some desert dwelling mammals (e.g., the kangaroo rat), uric acid also is the end-product of purine metabolism, but it is excreted in feces as a dry mass. This involves a complex metabolic pathway that is energetically costly in comparison to processing of other nitrogenous wastes such as urea (from urea cycle) or ammonia, but has the advantages of reducing water loss and, hence, reducing the need for water. 
+
+In humans, about 70% of daily uric acid disposal occurs via the kidneys, and in 5-25% of humans, impaired renal (kidney) excretion leads to hyperuricemia. 
+
+==Genetics==
+A proportion of people have mutations in the proteins responsible for the excretion of uric acid by the kidneys. Variants within a number of genes have so far been identified:
+SLC2A9; ABCG2; SLC17A1; SLC22A11; SLC22A12;
+SLC16A9; GCKR; LRRC16A; and PDZK1. 
+ SLC2A9 is known to transport both uric acid and fructose. 
+
+==Medicine==
+In human blood plasma, the reference range of uric acid is typically 3.4-7.2 mg/dL (200-430 µmol/L) for men (1 mg/dL=59.48 µmol/L), and 2.4-6.1 mg/dL for women (140-360 µmol/L). However, blood test results should always be interpreted using the range provided by the laboratory that performed the test. Uric acid concentrations in blood plasma above and below the normal range are known, respectively, as hyperuricemia and hypouricemia. Likewise, uric acid concentrations in urine above and below normal are known as hyperuricosuria and hypouricosuria. Such abnormal concentrations of uric acid are not medical conditions, but are associated with a variety of medical conditions.
+
+===High uric acid===
+High levels of uric acid is called hyperuricemia and can lead to gout.
+
+====Causes of high uric acid====
+* In many instances, people have elevated uric acid levels for hereditary reasons.
+
+* Diet may be a factor. High intake of dietary purine, high-fructose corn syrup, and table sugar can cause increased levels of uric acid. 
+
+* Serum uric acid can be elevated due to reduced excretion by the kidneys. Mayo Clinic staff. (September 11, 2010). High uric acid level. Mayo Clinic. Retrieved April 24, 2011. 
+
+* Fasting or rapid weight loss can temporarily elevate uric acid levels.
+
+* Certain drugs, such as thiazide diuretics, can increase uric acid levels in the blood by interfering with renal clearance. 
+
+====Gout====
+Excess serum accumulation of uric acid in the blood can lead to a type of arthritis known as gout. This painful condition is the result of needle-like crystals of uric acid precipitating in joints, capillaries, skin, and other tissues. Kidney stones can also form through the process of formation and deposition of sodium urate microcrystals. Banach, K.; Bojarska, E.; Kazimierczuk, Z.; Magnowska, L.; Bzowska, A. Kinetic Model of Oxidation Catalyzed by Xanthine Oxidase—The Final Enzyme in Degradation of Purine Nucleosides and Nucleotides. Nucleosides Nucleotides Nucleic Acids 2005, 24, 465-469. 
+
+A study found that men who drink two or more sugar-sweetened beverages a day have an 85% higher chance of developing gout than those who drank such beverages infrequently. 
+
+Gout can occur where serum uric acid levels are as low as 6 mg/dL (~357 µmol/L), but an individual can have serum values as high as 9.6 mg/dL (~565 µmol/L) and not have gout. 
+
+One treatment for gout, in the 19th century, had been administration of lithium salts; lithium urate is more soluble. Today, inflammation during attacks is more commonly treated with NSAIDs or corticosteroids, and urate levels are managed with allopurinol. Allopurinol, developed over 30 years ago by Elion et al., weakly inhibits xanthine oxidase. It is an analog of hypoxanthine that is hydroxylated by xanthine oxidoreductase at the 2-position to give oxipurinol. Oxipurinol has been supposed to bind tightly to the reduced molybdenum ion in the enzyme and, thus, inhibits uric acid synthesis. 
+
+====Lesch-Nyhan syndrome====
+Lesch-Nyhan syndrome, an extremely rare inherited disorder, is also associated with very high serum uric acid levels. Spasticity, involuntary movement, and cognitive retardation as well as manifestations of gout are seen in cases of this syndrome. 
+
+====Cardiovascular disease====
+Although uric acid can act as an antioxidant, excess serum accumulation is often associated with cardiovascular disease. It is not known whether this is causative (e.g., by acting as a prooxidant) or a protective reaction taking advantage of urate's antioxidant properties. The same may account for the putative role of uric acid in the etiology of stroke. Uric Acid: Neuroprotective or Neurotoxic? 
+
+====Type 2 diabetes====
+The association of high serum uric acid with insulin resistance has been known since the early part of the 20th century, but the hypothesis that high serum uric acid is a risk factor for diabetes has long been a matter of debate. In fact, hyperuricemia was presumed to be a consequence of insulin resistance rather than its precursor. However, a prospective follow-up study showed high serum uric acid is associated with higher risk of type 2 diabetes, independent of obesity, dyslipidemia, and hypertension. 
+
+==== Metabolic syndrome ====
+Hyperuricemia is associated with components of metabolic syndrome. A study has suggested fructose-induced hyperuricemia may play a pathogenic role in the metabolic syndrome. This is consistent with the increased consumption in recent decades of fructose-containing beverages (such as fruit juices and soft drinks sweetened with sugar and high-fructose corn syrup) and the epidemic of diabetes and obesity. Malik VS, Popkin BM, Bray GA, Després JP, Willett WC, Hu FB. (November 2010). Sugar-sweetened beverages and risk of metabolic syndrome and type 2 diabetes: a meta-analysis. Diabetes Care 33 (11): 2477–2483. . . 
+
+==== Uric acid stone formation ====
+Saturation levels of uric acid in blood may result in one form of kidney stones when the urate crystallizes in the kidney. These uric acid stones are radiolucent and so do not appear on an abdominal plain X-ray, and thus their presence must be diagnosed by ultrasound for this reason. Very large stones may be detected on X-ray by their displacement of the surrounding kidney tissues.
+
+Uric acid stones, which form in the absence of secondary causes such as chronic diarrhea, vigorous exercise, dehydration, and animal protein loading, are felt to be secondary to obesity and insulin resistance seen in metabolic syndrome. Increased dietary acid leads to increased endogenous acid production in the liver and muscles, which in turn leads to an increased acid load to the kidneys. This load is handled more poorly because of renal fat infiltration and insulin resistance, which are felt to impair ammonia excretion (a buffer). The urine is, therefore, quite acidic, and uric acid becomes insoluble, crystallizes and stones form. In addition, naturally present promoter and inhibitor factors may be affected. This explains the high prevalence of uric stones and unusually acidic urine seen in patients with type 2 diabetes. Uric acid crystals can also promote the formation of calcium oxalate stones, acting as "seed crystals" (heterogeneous nucleation). 
+
+===Low uric acid===
+
+====Causes of low uric acid====
+Low uric acid (hypouricemia) can have numerous causes.
+
+Low dietary zinc intakes cause lower uric acid levels. This effect can be even more pronounced in women taking oral contraceptive medication. 
+
+Xanthine oxidase is an Fe-Mo enzyme, so people with Fe deficiency (the most common cause of anemia in young women) or Mo deficiency can experience hypouricemia.
+
+Xanthine oxidase loses its function and gains ascorbase function when some of the Fe atoms in XO are replaced with Cu atoms. As such, people with high Cu/Fe can experience hypouricemia and vitamin C deficiency, resulting in oxidative damage. Since estrogen increases the half-life of Cu, women with very high estrogen levels and intense blood loss during menstruation are likely to have a high Cu/Fe and present with hypouricemia.
+
+Sevelamer, a drug indicated for prevention of hyperphosphataemia in patients with chronic renal failure, can significantly reduce serum uric acid. 
+
+But the main cause of congenitally low uric acid, sometimes as low as zero, remains the Molybdenum cofactor deficiency.
+
+====Multiple sclerosis====
+Lower serum values of uric acid have been associated with multiple sclerosis (MS). MS patients have been found to have serum levels ~194 µmol/L, with patients in relapse averaging ~160 µmol/L and patients in remission averaging ~230 µmol/L. Serum uric acid in healthy controls was ~290 µmol/L. Conversion factor: 1 mg/dL=59.48 µmol/L SI Units for Clinical Data 
+
+A 1998 study completed a statistical analysis of 20 million patient records, comparing serum uric acid values in patients with gout and patients with multiple sclerosis. Almost no overlap between the groups was found. 
+
+Uric acid has been successfully used in the treatment and prevention of the animal (murine) model of MS. A 2006 study found elevation of serum uric acid values in multiple sclerosis patients, by oral supplementation with inosine, resulted in lower relapse rates, and no adverse effects. 
+
+====Normalizing low uric acid====
+Correcting low or deficient zinc levels can help elevate serum uric acid. Inosine can be used to elevate uric acid levels. 
+Zn inhibits Cu absorption, helping to reduce the high Cu/Fe in some people with hypouricemia. Fe supplements can ensure adequate Fe reserves (ferritin above 25 ng/dl), also correcting the high Cu/Fe.
+
+===Oxidative stress===
+Uric acid may be a marker of oxidative stress, and may have a potential therapeutic role as an antioxidant. On the other hand, like other strong reducing substances such as ascorbate, uric acid can also act as a prooxidant. Thus, it is unclear whether elevated levels of uric acid in diseases associated with oxidative stress such as stroke and atherosclerosis are a protective response or a primary cause. 
+
+For example, some researchers propose hyperuricemia-induced oxidative stress is a cause of metabolic syndrome. On the other hand, plasma uric acid levels correlate with longevity in primates and other mammals. This is presumably a function of urate's antioxidant properties. 
+
+== Sources ==
+* In humans, purines are excreted as uric acid. Purines are found in high amounts in animal food products, such as liver and sardines. Gout Causes: List of Diet/Food Sources High or Low in Purine Content A moderate amount of purine is also contained in beef, pork, poultry, fish and seafood, asparagus, cauliflower, spinach, mushrooms, green peas, lentils, dried peas, beans, oatmeal, wheat bran, and wheat germ. Gout Diet / Low Purine Diet - Limit High Purine foods 
+
+* Examples of high purine and Fe sources include: sweetbreads, anchovies, sardines, liver, beef kidneys, brains, meat extracts (e.g., Oxo, Bovril), herring, mackerel, scallops, game meats, beer, and gravy.
+
+* Moderate and even high intake of purine-containing vegetables is not associated with an increased risk of gout. One serving of meat or seafood (3 oz = 85 g) mildly increases risk of gout, while two servings increase risk by at least 40%. Milk products reduce the risk of gout notably, whereas total protein intake has no effect. 
+
+== Correlations with creative output ==
+Havelock Ellis found in his A Study of British Genius (1904) that there was an unusually high rate of gout among eminent men in his study, and gout is associated with higher volumes of uric acid in the blood. He therefore suggested that it might have something to do with it. Later investigators have examined this relationship, and there is indeed a correlation. A review is Jensen & Sinha (1993), which found only a slight correlation between IQ and serum urate level (SUL), however there was a stronger correlation between SUL and scholastic achievement, even after controlling for IQ. Another study found a correlation of +.37 between serum urate level and publication rates of university professors. Jensen speculates that it may be due to uric acid's having a similar chemical structure to that of caffeine, and thus acting as a natural stimulant. 
+
+== See also ==
+* Theacrine or 1,3,7,9-tetramethyluric acid, a purine alkaloid found in some teas
+* Uric acid and impulsivity. 
+
+==References==
+
+==Further reading==
+* Nakamura, T. (April 2008). review of gout and hyperuricemia investigations. Nippon Rinsho 66 (4): 624-635. .
+
+==External links==
+
+* Uric acid - Lab Tests Online
+* Uric acid blood test - MedlinePlus
+* International Kidney Stone Institute
+* Purine content in food
+* NHS Clinical Knowledge Summaries
+* Uric acid: analyte monograph - the Association for Clinical Biochemistry and Laboratory Medicine
+
+ 
+
+

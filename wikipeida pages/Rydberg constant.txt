@@ -1,0 +1,65 @@
+[[Rydberg constant]]
+
+The Rydberg constant, symbol R∞ or RH, named after the Swedish physicist Johannes Rydberg, is a physical constant relating to atomic spectra, in the science of spectroscopy. The constant first arose as an empirical fitting parameter in the Rydberg formula for the hydrogen spectral series, but Niels Bohr later showed that its value could be calculated from more fundamental constants, explaining the relationship via his "Bohr model". As of 2012, R∞ is the most accurately measured fundamental physical constant. 
+
+The Rydberg constant represents the limiting value of the highest wavenumber (the inverse wavelength) of any photon that can be emitted from the hydrogen atom, or, alternatively, the wavenumber of the lowest-energy photon capable of ionizing the hydrogen atom from its ground state. The spectrum of hydrogen can be expressed simply in terms of the Rydberg constant, using the Rydberg formula.
+
+The Rydberg unit of energy, symbol Ry, is closely related to the Rydberg constant. It corresponds to the energy of the photon whose wavenumber is the Rydberg constant, i.e. the ionization energy of the hydrogen atom.
+
+==Value of the Rydberg constant and Rydberg unit of energy==
+According to the 2010 CODATA, the constant is:
+
+: 
+where is the rest mass of the electron, is the elementary charge, is the permittivity of free space, is the Planck constant, and is the speed of light in a vacuum.
+
+This constant is often used in atomic physics in the form of the Rydberg unit of energy: 
+: 
+
+==Occurrence in Bohr model==
+
+The Bohr model explains the atomic spectrum of hydrogen (see hydrogen spectral series) as well as various other atoms and ions. It is not perfectly accurate, but is a remarkably good approximation in many cases, and historically played an important role in the development of quantum mechanics. The Bohr model posits that electrons revolve around the atomic nucleus in a manner analogous to planets revolving around the sun.
+
+In the simplest version of the Bohr model, the mass of the atomic nucleus is considered to be infinite compared to the mass of the electron, so that the center of mass of the system lies at the barycenter of the nucleus. This infinite mass approximation is what is alluded to with the subscript. The Bohr model then predicts that the wavelengths of hydrogen atomic transitions are (see Rydberg formula):
+:
+where n1 and n2 are any two different positive integers (1, 2, 3, ...), and is the wavelength (in vacuum) of the emitted or absorbed light.
+
+A refinement of the Bohr model takes into account the fact that the mass of the atomic nucleus is not actually infinite compared to the mass of the electron. Then the formula is: 
+:
+where and M is the total mass of the atom. This formula comes from substituting the reduced mass for the mass of the electron.
+
+A generalization of the Bohr model describes a hydrogen-like ion; that is, an atom with atomic number Z that has only one electron, such as C5+. In this case, the wavenumbers and photon energies are scaled up by a factor of Z2 in the model.
+
+==Precision measurement==
+
+The Rydberg constant is the most well-determined physical constant, with a relative experimental uncertainty of fewer than 7 parts in 1012. The ability to measure it to such a high precision constrains the proportions of the values of the other physical constants that define it. P.J. Mohr, B.N. Taylor, and D.B. Newell (2011), "The 2010 CODATA Recommended Values of the Fundamental Physical Constants" (Web Version 6.0). This database was developed by J. Baker, M. Douma, and S. Kotochigova. Available: http://physics.nist.gov/constants. National Institute of Standards and Technology, Gaithersburg, MD 20899. Link to R∞, Link to hcR∞. Published in and . See precision tests of QED.
+
+Since the Bohr model is not perfectly accurate, due to fine structure, hyperfine splitting, and other such effects, the Rydberg constant cannot be directly measured at very high accuracy from the atomic transition frequencies of hydrogen alone. Instead, the Rydberg constant is inferred from measurements of atomic transition frequencies in three different atoms (hydrogen, deuterium, and antiprotonic helium). Detailed theoretical calculations in the framework of quantum electrodynamics are used to account for the effects of finite nuclear mass, fine structure, hyperfine splitting, and so on. Finally, the value of comes from the best fit of the measurements to the theory. 
+
+==Alternative expressions==
+The Rydberg constant can also be expressed as in the following equations.
+
+:
+and
+:
+where
+: is the electron rest mass
+: is the Planck constant
+: is the reduced Planck constant,
+: is the speed of light in a vacuum,
+: is the fine-structure constant,
+: is the Compton wavelength of the electron,
+: is the Compton frequency of the electron,
+: is the Compton angular frequency of the electron,
+: is the Bohr radius,
+: is the Classical electron radius.
+
+The last expression in the first equation shows that the wavelength of light needed to ionize a hydrogen atom is 4π/α times the Bohr radius of the atom.
+
+The second equation is relevant because its value is the coefficient for the energy of the atomic orbitals of a hydrogen atom: .
+
+==See also==
+* Rydberg formula, includes a discussion of Rydberg's original discovery.
+
+==References==
+
+

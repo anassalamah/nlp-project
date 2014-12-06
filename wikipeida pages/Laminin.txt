@@ -1,0 +1,97 @@
+[[Laminin]]
+
+Laminins are major proteins in the basal lamina (one of the layers of the basement membrane), a protein network foundation for most cells and organs. The laminins are an important and biologically active part of the basal lamina, influencing cell differentiation, migration, and adhesion, as well as phenotype and survival. 
+
+Laminins are trimeric proteins that contain an α-chain, a β-chain, and a γ-chain, found in five, four, and three genetic variants, respectively. The laminin molecules are named according to their chain composition. Thus, laminin-511 contains α5, β1, and γ1 chains. Fourteen other chain combinations have been identified in vivo. The trimeric proteins intersect to form a cross-like structure that can bind to other cell membrane and extracellular matrix molecules. The three shorter arms are particularly good at binding to other laminin molecules, which allows them to form sheets. The long arm is capable of binding to cells, which helps anchor organized tissue cells to the membrane.
+
+The laminin family of glycoproteins are an integral part of the structural scaffolding in almost every tissue of an organism. They are secreted and incorporated into cell-associated extracellular matrices. Laminin is vital for the maintenance and survival of tissues. Defective laminins can cause muscles to form improperly, leading to a form of muscular dystrophy, lethal skin blistering disease (junctional epidermolysis bullosa) and defects of the kidney filter (nephrotic syndrome).
+ 
+
+==Types==
+Fifteen laminin trimers have been identified. The laminins are combinations of different alpha-, beta-, and gamma-chains. 
+
+*The five forms of alpha-chains are: LAMA1, LAMA2, LAMA3, LAMA4, LAMA5
+*The beta-chains include: LAMB1, LAMB2, LAMB3, LAMB4
+*The gamma-chains are: LAMC1, LAMC2, LAMC3
+
+Laminins were previously numbered - e.g. laminin-1, laminin-2, laminin-3 - but the nomenclature was recently changed to describe which chains are present in each isoform. For example, laminin-511 contains an α5-chain, a β1-chain and a γ1 chain. 
+
+==Networks==
+Laminins form independent networks and are associated with type IV collagen networks via entactin, fibronectin, and perlecan. They also bind to cell membranes through integrin receptors and other plasma membrane molecules, such as the dystroglycan glycoprotein complex and Lutheran blood group glycoprotein. Through these interactions, laminins critically contribute to cell attachment and differentiation, cell shape and movement, maintenance of tissue phenotype, and promotion of tissue survival. Some of these biological functions of laminin have been associated with specific amino-acid sequences or fragments of laminin. For example, the peptide sequence , which is located on the alpha-chain of laminin, promotes adhesion of endothelial cells. Beck et al., 1999. 
+
+==Pathology==
+Dysfunctional structure of one particular laminin, laminin-211, is the cause of one form of congenital muscular dystrophy. Laminin-211 is composed of an α2, a β1 and a γ1 chains. This laminin's distribution includes the brain and muscle fibers. In muscle, it binds to alpha dystroglycan and integrin alpha7—beta1 via the G domain, and via the other end binds to the extracellular matrix. Abnormal laminin-332, which is essential for epithelial cell adhesion to the basement membrane, leads to a condition called junctional epidermolysis bullosa, characterized by generalized blisters, exuberant granulation tissue of skin and mucosa, and pitted teeth. Malfunctional laminin-521 in the kidney filter causes leakage of protein into the urine and nephrotic syndrome. 
+
+==Laminins in cell culture==
+Recently, several publications have reported that laminins can be used to culture cells, such as pluripotent stem cells, that are difficult to culture on other substrates. Mostly, two types of laminins have been used. Laminin-111 extracted from mouse sarcomas is one popular laminin type, as well as a mixture of laminins 511 and 521 from human placenta. Various laminin isoforms are practically impossible to isolate from tissues in pure form due to extensive cross-linking and the need for harsh extraction conditions, such as proteolytic enzymes or low pH, that cause degradation. However, professor Tryggvason's group at the Karolinska Institute in Sweden showed how to produce recombinant laminins using HEK293 cells in 2000. Kortesmaa et al. 2000. This made it possible to test if laminins could have a significant role in vitro as they have in the human body. In 2008, two groups independently showed that mouse embryonic stem cells can be grown for months on top of recombinant laminin-511. Later, Rodin et al. showed that recombinant laminin 511 can be used to create a totally xeno-free and defined cell culture environment to culture human pluripotent ES cells and human iPS cells. http://www.nature.com/nbt/journal/v28/n6/full/nbt.1620.html 
+
+==Role in neural development==
+Laminin-111 is a major substrate along which nerve axons will grow, both in vivo and in vitro. For example, it lays down a path that developing retinal ganglion cells follow on their way from the retina to the tectum. It is also often used as a substrate in cell culture experiments. Interestingly, the presence of laminin-1 can influence how the growth cone responds to other cues. For example, growth cones are repelled by netrin when grown on laminin-111, but are attracted to netrin when grown on fibronectin. This effect of laminin-111 probably occurs through a lowering of intracellular cyclic AMP.
+
+==Role in cancer==
+
+The majority of transcripts that harbor an internal ribosome entry site (IRES) are involved in cancer development via corresponding proteins. A crucial event in tumor progression referred to as epithelial to mesenchymal transition (EMT) allows carcinoma cells to acquire invasive properties. The translational activation of the extracellular matrix component laminin B1 (LamB1) during EMT has been recently reported suggesting an IRES-mediated mechanism. In this study, the IRES activity of LamB1 was determined by independent bicistronic reporter assays. Strong evidences exclude an impact of cryptic promoter or splice sites on IRES-driven translation of LamB1. Furthermore, no other LamB1 mRNA species arising from alternative transcription start sites or polyadenylation signals were detected that account for its translational control. Mapping of the LamB1 5'-untranslated region (UTR) revealed the minimal LamB1 IRES motif between -293 and -1 upstream of the start codon. Notably, RNA affinity purification showed that the La protein interacts with the LamB1 IRES. This interaction and its regulation during EMT were confirmed by ribonucleoprotein immunoprecipitation. In addition, La was able to positively modulate LamB1 IRES translation. In summary, these data indicate that the LamB1 IRES is activated by binding to La which leads to translational upregulation during hepatocellular EMT. 
+
+==Laminin domains==
+
+Laminins contain several conserved protein domains.
+
+===Laminin I and Laminin II===
+Laminins are trimeric molecules; laminin-1 is an alpha1 beta1 gamma1 trimer. It has been suggested that the domains I and II from laminin A, B1 and B2 may come together to form a triple helical coiled-coil structure. 
+
+===Laminin B===
+The laminin B domain (also known as domain IV) is an extracellular module of unknown function. It is found in a number of different proteins that include, heparan sulphate proteoglycan from basement membrane, a laminin-like protein from Caenorhabditis elegans and laminin. Laminin IV domain is not found in short laminin chains (alpha4 or beta3).
+
+===Laminin EGF-like===
+Beside different types of globular domains each laminin subunit contains, in its first half, consecutive repeats of about 60 amino acids in length that include eight conserved cysteines. The tertiary structure of this domain is remotely similar in its N-terminus to that of the EGF-like module. It is also known as a 'LE' or 'laminin-type EGF-like' domain. The number of copies of the laminin EGF-like domain in the different forms of laminins is highly variable; from 3 up to 22 copies have been found. In mouse laminin gamma-1 chain, the seventh LE domain has been shown to be the only one that binds with a high affinity to nidogen. The binding-sites are located on the surface within the loops C1-C3 and C5-C6. Long consecutive arrays of laminin EGF-like domains in laminins form rod-like elements of limited flexibility, which determine the spacing in the formation of laminin networks of basement membranes. 
+
+===Laminin G===
+The laminin globular (G) domain is on average between 165 and 220 amino acids in length and can be found in one to six copies in various laminin family members as well as in a large number of extracellular proteins. For example, all laminin alpha-chains have five laminin G domain, all collagen family proteins have one laminin G domain, the CNTNAP proteins have four laminin G domains, while neurexin 1 and 2 each hold six laminin G domains. On average, approximately one quarter of the proteins that hold laminin G domains is taken up by these laminin G domains themselves. The C terminus of laminin alpha chain contains a tandem repeat of five laminin G domains, which are critical for heparin-binding and cell attachment activity. Laminin alpha4 is distributed in a variety of tissues including peripheral nerves, dorsal root ganglion, skeletal muscle and capillaries; in the neuromuscular junction, it is required for synaptic specialisation. The structure of the laminin-G domain has been predicted to resemble that of pentraxin. 
+
+Laminin G domains can vary in their function, and a variety of binding functions has been ascribed to different LamG modules. For example, the laminin alpha1 and alpha2 chains each has five C-terminal laminin G domains, where only domains LG4 and LG5 contain binding sites for heparin, sulphatides and the cell surface receptor dystroglycan. Laminin G-containing proteins appear to have a wide variety of roles in cell adhesion, signalling, migration, assembly and differentiation.
+
+===Laminin N-terminal===
+Basement membrane assembly is a cooperative process in which laminins polymerise through their N-terminal domain (LN or domain VI) and anchor to the cell surface through their G domains. Netrins may also associate with this network through heterotypic LN domain interactions. This leads to cell signalling through integrins and dystroglycan (and possibly other receptors) recruited to the adherent laminin. This LN domain dependent self-assembly is considered to be crucial for the integrity of basement membranes, as highlighted by genetic forms of muscular dystrophy containing the deletion of the LN module from the alpha 2 laminin chain. The laminin N-terminal domain is found in all laminin and netrin subunits except laminin alpha 3A, alpha 4 and gamma 2.
+
+==Human proteins containing laminin domains==
+
+===Laminin Domain I===
+LAMA1; LAMA2; LAMA3; LAMA4; LAMA5;
+
+===Laminin Domain II===
+LAMA1; LAMA2; LAMA3; LAMA4; LAMA5;
+
+===Laminin B (Domain IV)===
+HSPG2; LAMA1; LAMA2; LAMA3; LAMA5; LAMC1; LAMC2; LAMC3;
+
+===Laminin EGF-like (Domains III and V)===
+AGRIN; ATRN; ATRNL1; CELSR1; CELSR2; CELSR3; CRELD1; HSPG2;
+LAMA1; LAMA2; LAMA3; LAMA4; LAMA5; LAMB1; LAMB2; LAMB3;
+LAMB4; LAMC1; LAMC2; LAMC3; MEGF10; MEGF12; MEGF6;
+MEGF8; MEGF9; NSR1; NTN1; NTN2L; NTN4; NTNG1; NTNG2;
+RESDA1; SCARF1; SCARF2; SREC; STAB1; USH2A;
+
+===Laminin G domain===
+AGRIN; CELSR1; CELSR2; CELSR3; CNTNAP1; CNTNAP2; CNTNAP3; CNTNAP3B; CNTNAP4;
+CNTNAP5; COL11A1; COL11A2; COL12A1; COL14A1; COL15A1; COL16A1; COL18A1; COL19A1; 
+COL20A1; COL21A1; COL22A1; COL24A1; COL27A1; COL5A1; COL5A3; COL9A1; CRB1; 
+CRB2; CSPG4; EGFLAM; EYS; FAT; FAT2; FAT3; FAT4; GAS6; HSPG2; 
+LAMA1; LAMA2; LAMA3; LAMA4; LAMA5; NELL1; NELL2; NRXN1; NRXN2; NRXN3;
+PROS1; SLIT1; SLIT2; SLIT3; SPEAR; THBS1; THBS2; THBS3; THBS4; USH2A;
+
+===Laminin N-terminal (Domain VI)===
+LAMA1; LAMA2; LAMA3; LAMA5; LAMB1; LAMB2; LAMB3; LAMB4;
+LAMC1; LAMC3; NTN1; NTN2L; NTN4; NTNG1; NTNG2; USH2A;
+
+==See also==
+* Substrate adhesion molecules
+* Laminin database
+* List of target antigens in pemphigoid
+
+==References==
+
+==External links==
+*The Laminin Protein
+*
+
+

@@ -1,0 +1,135 @@
+[[Flow cytometry]]
+
+In biotechnology, flow cytometry is a laser-based, biophysical technology employed in cell counting, cell sorting, biomarker detection and protein engineering, by suspending cells in a stream of fluid and passing them by an electronic detection apparatus. It allows simultaneous multiparametric analysis of the physical and chemical characteristics of up to thousands of particles per second.
+
+Flow cytometry is routinely used in the diagnosis of health disorders, especially blood cancers, but has many other applications in basic research, clinical practice and clinical trials. A common variation is to physically sort particles based on their properties, so as to purify populations of interest.
+
+== History ==
+The first impedance-based flow cytometry device, using the Coulter principle, was disclosed in U.S. Patent 2,656,508, issued in 1953, to Wallace H. Coulter. Mack Fulwyler was the inventor of the forerunner to today's flow cytometers - particularly the cell sorter. Fulwyler developed this in 1965 with his publication in Science. The first fluorescence-based flow cytometry device (ICP 11) was developed in 1968 by Wolfgang Göhde from the University of Münster, filed for patent on 18 December 1968 and first commercialized in 1968/69 by German developer and manufacturer Partec through Phywe AG in Göttingen. At that time, absorption methods were still widely favored by other scientists over fluorescence methods. Kamentsky in Proceedings of the 1968 Conference „Cytology Automation" (1970), edited by D. M. D. Evans. Soon after, flow cytometry instruments were developed, including the Cytofluorograph (1971) from Bio/Physics Systems Inc. (later: Ortho Diagnostics), the PAS 8000 (1973) from Partec, the first FACS (Fluorescence-activated cell sorting) instrument from Becton Dickinson (1974), the ICP 22 (1975) from Partec/Phywe and the Epics from Coulter (1977/78).
+
+===Name of the technology===
+The original name of the fluorescence-based flow cytometry technology was "pulse cytophotometry" (German: Impulszytophotometrie), based on the first patent application on fluorescence-based flow cytometry. At the 5th American Engineering Foundation Conference on Automated Cytology in Pensacola (Florida) in 1976 - eight years after the introduction of the first fluorescence-based flow cytometer (1968) - it was agreed to commonly use the name "flow cytometry", a term that quickly became popular. 
+
+==Flow cytometers==
+Front view of a desktop flow cytometer - the Becton-Dickinson Fluorescence activated cell sorter (FACSCalibur)
+
+Modern flow cytometers are able to analyze several thousand particles every second, in "real time," and can actively separate and isolate particles having specified properties. A flow cytometer is similar to a microscope, 
+except that, instead of producing an image of the cell, flow cytometry offers "high-throughput" (for a large number of cells) automated quantification of set parameters. To analyze solid tissues, a single-cell suspension must first be prepared.
+
+A flow cytometer has five main components:
+* a flow cell - liquid stream (sheath fluid), which carries and aligns the cells so that they pass single file through the light beam for sensing
+* a measuring system - commonly used are measurement of impedance (or conductivity) and optical systems - lamps (mercury, xenon); high-power water-cooled lasers (argon, krypton, dye laser); low-power air-cooled lasers (argon (488 nm), red-HeNe (633 nm), green-HeNe, HeCd (UV)); diode lasers (blue, green, red, violet) resulting in light signals
+* a detector and Analogue-to-Digital Conversion (ADC) system - which generates FSC and SSC as well as fluorescence signals from light into electrical signals that can be processed by a computer
+* an amplification system - linear or logarithmic
+* a computer for analysis of the signals.
+
+The process of collecting data from samples using the flow cytometer is termed 'acquisition'. Acquisition is mediated by a computer physically connected to the flow cytometer, and the software which handles the digital interface with the cytometer. The software is capable of adjusting parameters (i.e. voltage, compensation, etc.) for the sample being tested, and also assists in displaying initial sample information while acquiring sample data to ensure that parameters are set correctly. Early flow cytometers were, in general, experimental devices, but technological advances have enabled widespread applications for use in a variety of both clinical and research purposes. Due to these developments, a considerable market for instrumentation, analysis software, as well as the reagents used in acquisition such as fluorescently labeled antibodies has developed.
+
+Modern instruments usually have multiple lasers and fluorescence detectors. The current record for a commercial instrument is ten lasers and 18 fluorescence detectors. Increasing the number of lasers and detectors allows for multiple antibody labeling, and can more precisely identify a target population by their phenotypic markers. Certain instruments can even take digital images of individual cells, allowing for the analysis of fluorescent signal location within or on the surface of cells.
+
+==Data analysis==
+
+Analysis of a marine sample of photosynthetic picoplankton by flow cytometry showing three different populations (Prochlorococcus, Synechococcus, and picoeukaryotes)
+
+===Gating===
+The data generated by flow-cytometers can be plotted in a single dimension, to produce a histogram, or in two-dimensional dot plots or even in three dimensions. The regions on these plots can be sequentially separated, based on fluorescence intensity, by creating a series of subset extractions, termed "gates." Specific gating protocols exist for diagnostic and clinical purposes especially in relation to hematology.
+
+The plots are often made on logarithmic scales. Because different fluorescent dyes' emission spectra overlap, Comprehensive Fluorochrome Table Fluorochrome Table signals at the detectors have to be compensated electronically as well as computationally. Data accumulated using the flow cytometer can be analyzed using software, e.g., WinMDI, Flowing Software, and web-based Cytobank (all ]), FCS Express, Flowjo, FACSDiva, CytoPaint (aka Paint-A-Gate), Advanced Software for Flow Cytometry VenturiOne, CellQuest Pro, Infinicyt or Cytospec. Once the data are collected, there is no need to stay connected to the flow cytometer. For this reason, analysis is most often performed on a separate computer. This is especially necessary in core facilities where usage of these machines is in high demand.
+
+===Computational analysis===
+Recent progress on automated population identification using computational methods has offered an alternative to traditional gating strategies. Automated identification systems could potentially help findings of rare and hidden populations. Representative automated methods include FLOCK in Immunology Database and Analysis Portal (ImmPort), FLAME in GenePattern and flowClust, BMC Bioinformatics | Full text | flowClust: a Bioconductor package for automated gating of flow cytometry data in Bioconductor. Collaborative efforts have resulted in an open project called FlowCAP (Flow Cytometry: Critical Assessment of Population Identification Methods, ) to provide an objective way to compare and evaluate the flow cytometry data clustering methods, and also to establish guidance about appropriate use and application of these methods.
+
+== Fluorescence-activated cell sorting (FACS)==
+Fluorescence Assisted Cell Sorting (FACS)
+
+Fluorescence-activated cell sorting (FACS) is a specialized type of flow cytometry. It provides a method for sorting a heterogeneous mixture of biological cells into two or more containers, one cell at a time, based upon the specific light scattering and fluorescent characteristics of each cell. It is a useful scientific instrument as it provides fast, objective and quantitative recording of fluorescent signals from individual cells as well as physical separation of cells of particular interest. The acronym FACS is trademarked and owned by Becton, Dickinson and Company. Among the large majority of researchers who use this technology for sorting or analysis, this term has become generic in common usage, much like xerox or kleenex. The first cell sorter was invented by Mack Fulwyler in 1965, using the Coulter principle, a relatively difficult technique that is no longer used in modern instruments. The technique was expanded by Len Herzenberg, who was responsible for coining the term FACS. Herzenberg won the Kyoto Prize in 2006 for his seminal work in flow cytometry.
+
+The cell suspension is entrained in the center of a narrow, rapidly flowing stream of liquid. The flow is arranged so that there is a large separation between cells relative to their diameter. A vibrating mechanism causes the stream of cells to break into individual droplets. The system is adjusted so that there is a low probability of more than one cell per droplet. Just before the stream breaks into droplets, the flow passes through a fluorescence measuring station where the fluorescent character of interest of each cell is measured. An electrical charging ring is placed just at the point where the stream breaks into droplets. A charge is placed on the ring based on the immediately prior fluorescence intensity measurement, and the opposite charge is trapped on the droplet as it breaks from the stream. The charged droplets then fall through an electrostatic deflection system that diverts droplets into containers based upon their charge. In some systems, the charge is applied directly to the stream, and the droplet breaking off retains charge of the same sign as the stream. The stream is then returned to neutral after the droplet breaks off.
+
+== Labels ==
+Use of flow cytometry to measure copy number variation of a specific DNA sequence (Flow-FISH)
+
+=== Fluorescent labels ===
+
+A wide range of fluorophores can be used as labels in flow cytometry. List of available Fluorophores and Dyes Fluorophores, or simply "fluors", are typically attached to an antibody that recognises a target feature on or in the cell; they may also be attached to a chemical entity with affinity for the cell membrane or another cellular structure. Each fluorophore has a characteristic peak excitation and emission wavelength, and the emission spectra often overlap. Consequently, the combination of labels which can be used depends on the wavelength of the lamp(s) or laser(s) used to excite the fluorochromes and on the detectors available. The maximum number of distinguishable fluorescent labels is thought to be 17 or 18, and this level of complexity necessitates laborious optimization to limit artifacts, as well as complex deconvolution algorithms to separate overlapping spectra. 
+
+=== Quantum dots ===
+Quantum dots are sometimes used in place of traditional fluorophores because of their narrower emission peaks.
+
+=== Isotope labeling ===
+In one approach to overcoming the fluorescent labeling limit, lanthanide isotopes are attached to antibodies. This method could theoretically allow the use of 40 to 60 distinguishable labels and has been demonstrated for 30 labels. Cells are introduced into a plasma, ionizing them and allowing time-of-flight mass spectrometry to identify the associated isotopes. Although this method permits the use of a large number of labels, it currently has lower throughput capacity than traditional flow cytometry. It also destroys the analysed cells, precluding their recovery by sorting. 
+
+==Cytometric Bead Array (CBA)==
+In addition to the ability to label and identify individual cells via fluorescent antibodies, cellular products such as cytokines, proteins, and other factors may also be measured as well. Similar to ELISA sandwich assays, CBA assays use multiple bead populations typically differentiated by size and different levels of fluorescence intensity to distinguish multiple analytes in a single assay. The amount of the analyte captured is detected via a biotinylated antibody against a secondary epitope of the protein, followed by a streptavidin-R-phycoerythrin treatment. The fluorescent intensity of R-phycoerythrin on the beads is quantified on a flow cytometer equipped with a 488 nm excitation source. Concentrations of a protein of interest in the samples can be obtained by comparing the fluorescent signals to those of a standard curve generated from a serial dilution of a known concentration of the analyte. Commonly also referred to as cytokine bead array (CBA).
+
+== Measurable parameters ==
+This list is very long and constantly expanding.
+* used for confirming diagnosis of chronic lymphocytic leukemia
+* volume and morphological complexity of cells
+* cell pigments such as chlorophyll or phycoerythrin
+* total DNA content (cell cycle analysis, cell kinetics, proliferation, ploidy, aneuploidy, endoreduplication, etc.)
+* total RNA content
+* DNA copy number variation (by Flow-FISH or BACs-on-Beads technology)
+* chromosome analysis and sorting (library construction, chromosome paint)
+* protein expression and localization
+* Protein modifications, phospho-proteins
+* transgenic products in vivo, particularly the Green fluorescent protein or related Fluorescent Proteins
+* cell surface antigens (Cluster of differentiation (CD) markers)
+* intracellular antigens (various cytokines, secondary mediators, etc.)
+* nuclear antigens
+* enzymatic activity
+* pH, intracellular ionized calcium, magnesium, membrane potential
+* membrane fluidity
+* apoptosis (quantification, measurement of DNA degradation, mitochondrial membrane potential, permeability changes, caspase activity)
+* cell viability
+* monitoring electropermeabilization of cells
+* oxidative burst
+* characterising multidrug resistance (MDR) in cancer cells
+* glutathione
+* various combinations (DNA/surface antigens, etc.)
+* cell adherence (for instance pathogen-host cell adherence)
+
+== Applications ==
+The technology has applications in a number of fields, including molecular biology, pathology, immunology, plant biology and marine biology. It has broad application in medicine (especially in transplantation, hematology, tumor immunology and chemotherapy, prenatal diagnosis, genetics and sperm sorting for sex preselection). In marine biology, the autofluorescent properties of photosynthetic plankton can be exploited by flow cytometry in order to characterise abundance and community structure. In protein engineering, flow cytometry is used in conjunction with yeast display and bacterial display to identify cell surface-displayed protein variants with desired properties.
+
+==See also==
+
+* Cell cycle analysis
+* Coulter counter
+* Dielectrophoresis
+* Microfluorimetry
+* Cytometry
+* Mass cytometry
+
+==Bibliography==
+* Flow Cytometry First Principles by Alice Longobardi Givan. ISBN 0-471-38224-8
+* Practical Flow Cytometry by Howard M. Shapiro. ISBN 0-471-41125-6
+* Flow Cytometry for Biotechnology by Larry A. Sklar. ISBN 0-19-515234-4
+* Handbook of Flow Cytometry Methods by J. Paul Robinson, et al. ISBN 0-471-59634-5
+* Current Protocols in Cytometry, Wiley-Liss Pub. 
+* Flow Cytometry in Clinical Diagnosis, v4, (Carey, McCoy, and Keren, eds), ASCP Press, 2007. ISBN 0-89189-548-5
+* Ormerod, M.G. (ed.) (2000) Flow Cytometry — A practical approach. 3rd edition. Oxford University Press, Oxford, UK. ISBN 0-19-963824-1
+* Ormerod, M.G. (1999) Flow Cytometry. 2nd edition. BIOS Scientific Publishers, Oxford. ISBN 1-85996-107-X
+* Flow Cytometry — A basic introduction. Michael G. Ormerod, 2008. ISBN 978-0-9559812-0-3
+
+==References==
+
+==External links==
+
+* Flow cytometry - How does it work? (Oregon State University)
+* How a flow cytometer operates (MD Anderson Cancer Center)
+* Flow Cytometry expert community, Tutorials, Protocols, Troubleshooting and more
+* Learn About Flow Cytometry (Millipore)
+* Powerpoint lectures on flow cytometry (Purdue University)
+* Tutorials on fluorescence and flow cytometry (Invitrogen)
+* Searchable database of fluorescent dyes (Graz University of Technology)
+* Table of fluorochromes (Salk Institute)
+* Java Fluorescence Spectrum Viewer (Becton, Dickinson and Company)
+* 
+* FICCS - the Flow Informatics and Computation Cytometry Society
+* History of Flow Cytometry by Bob Auer (hosted by Beckman Coulter)
+* Flow Cytometry - A Basic Introduction (hosted by De Novo Software)
+* Clinical Flow Wiki
+* The History of the Cell Sorter Interviews from the Smithsonian Institution Archives
+
+

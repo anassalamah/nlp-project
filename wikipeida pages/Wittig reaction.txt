@@ -1,0 +1,100 @@
+[[Wittig reaction]]
+
+The Wittig reaction or Wittig olefination is a chemical reaction of an aldehyde or ketone with a triphenyl phosphonium ylide (often called a Wittig reagent) to give an alkene and triphenylphosphine oxide. 
+
+Wittig Reaction
+
+The Wittig reaction was discovered in 1954 by Georg Wittig, for which he was awarded the Nobel Prize in Chemistry in 1979. It is widely used in organic synthesis for the preparation of alkenes. Maercker, A. Org. React. 1965, 14, 270–490. (Review) W. Carruthers, Some Modern Methods of Organic Synthesis, Cambridge University Press, Cambridge, UK, 1971, 81–90. (ISBN 0-521-31117-9) It should not be confused with the Wittig rearrangement.
+
+Wittig reactions are most commonly used to couple aldehydes and ketones to singly substituted phosphine ylides. With unstabilised ylides this results in almost exclusively the Z-alkene product. In order to obtain the E-alkene, stabilised ylides are used or unstabilised ylides using the Schlosser modification of the Wittig reaction can be performed.
+
+==Reaction mechanism==
+
+===Classical mechanism===
+The steric bulk of the ylide 1 influences the stereochemical outcome of nucleophilic addition to give a predominance of the betaine 3 (c.f. Bürgi–Dunitz angle). Note that for betaine 3 both R1 and R2 as well as PPh3+ and O− are positioned anti (trans-diaxial) to one another.
+
+Carbon-carbon bond rotation gives the betaine 4, which then forms the oxaphosphetane 5. Elimination gives the desired Z-alkene 7 and triphenylphosphine oxide 6. With simple Wittig reagents, the first step occurs easily with both aldehydes and ketones, and the decomposition of the betaine (to form 5) is the rate-determining step. However with stabilised ylides (where R1 stabilises the negative charge) the first step is the slowest step, so the overall rate of alkene formation decreases and a bigger proportion of the alkene product is the E-isomer. This also explains why stabilised reagents fail to react well with sterically hindered ketones.
+
+The mechanism of the Wittig reaction
+
+===Recent developments===
+Recent research has shown that the reaction mechanism presented above does not account for all experimental results. Mechanistic studies have been done mostly on unstabilized ylides, because the intermediates can be followed by NMR spectroscopy. The existence and interconversion of the betaine (3a and 3b) is still under debate and a subject of ongoing research. There is evidence that phosphonium ylides 1 can react with carbonyl compounds 2 via a π²s/π²a cycloaddition to directly form the oxaphosphatanes 4a and 4b. The stereochemistry of the product 5 is due to the addition of the ylide 1 to the carbonyl 2 and to the ability of the intermediates to equilibrate. B. E. Maryanoff, A. B. Reitz, M. S. Mutter, R. R. Inners, and H. R. Almond, Jr., "Detailed Rate Studies on the Wittig Reaction of Non-Stabilized Phosphorus Ylides via 31P, 1H, and 13C NMR Spectroscopy. Insight into Kinetic vs. Thermodynamic Control of Stereochemistry", J. Am. Chem. Soc., 107, 1068–1070 (1985) B. E. Maryanoff, A. B. Reitz, D. W. Graden, and H. R. Almond, Jr., "NMR Rate Study on the Wittig Reaction of 2,2-Dimethylpropanal and Tributylbutylidene-phosphorane", Tetrahedron Lett., 30, 1361–1364 (1989) B. E. Maryanoff, A. B. Reitz, M. S. Mutter, R. R. Inners, H. R. Almond, Jr., R. R. Whittle, and R. A. Olofson, "Stereochemistry and Mechanism of the Wittig Reaction. Diastereomeric Reaction Intermediates and Analysis of the Reaction Course", J. Am. Chem. Soc., 108, 7664–7678 (1986) Maryanoff and Reitz identified the issue about equilibration of Wittig intermediates and termed the process "stereochemical drift". For many years, the stereochemistry of the Wittig reaction, in terms of carbon-carbon bond formation, had been assumed to correspond directly with the Z/E stereochemistry of the alkene products. However, certain reactants do not follow this simple pattern. Lithium salts can also exert a profound effect on the stereochemical outcome. A. B. Reitz, S. O. Nortey, A. D. Jordan, Jr., M. S. Mutter, and B. E. Maryanoff, "Dramatic Concentration Dependence of Stereochemistry in the Wittig Reaction. Examination of the Lithium-Salt Effect", J. Org. Chem., 51, 3302–3308 (1986) 
+
+The mechanism of the Wittig reaction
+
+There are distinct differences in the mechanisms of aliphatic and aromatic aldehydes and of aromatic and aliphatic phosphonium ylides. Vedejs et al. have provided evidence that the Wittig reaction of unbranched aldehydes under lithium-salt-free conditions do not equilibrate and are therefore under kinetic reaction control. Vedejs has put forth a theory to explain the stereoselectivity of stabilized and unstabilized Wittig reactions. Vedejs, E.; Peterson, M. J. Top. Stereochem. 1994, 21, 1. 
+
+==Wittig reagents==
+
+=== Preparation of phosphorus ylides===
+The Wittig reagent is usually prepared from a phosphonium salt, which is in turn made by the reaction of triphenylphosphine with an alkyl halide. To form the Wittig reagent (ylide), the phosphonium salt is suspended in a solvent such as diethyl ether or THF and treated with a strong base such as phenyllithium or n-butyllithium:
+:Ph3P+CH2R X− + C4H9Li → Ph3P=CH−R + LiX + C4H10
+
+The simplest ylide used is methylenetriphenylphosphorane (Ph3P=CH2). It is also a precursor to more elaborated Wittig reagents. Alkylation of Ph3P=CH2 with a primary alkyl halide R−CH2−X, produces substituted phosphonium salts:
+:Ph3P=CH2 + RCH2X → Ph3P+CH2CH2R X−
+These salts can be deprotonated in the usual way to give Ph3P=CH−CH2R.
+
+===Structure of the ylide===
+Ball-and-stick model of Ph3P=CH2, as found in the crystal structure
+The Wittig reagent may be written in the phosphorane form (the more familiar representation) or the ylide form:
+
+300px
+
+The ylide form is a significant contributor, and the carbon is quite nucleophilic.
+
+===Reactivity===
+Simple phosphoranes are very reactive and are unstable in the presence of moisture and oxygen in the air. They are therefore prepared in a super dry solvent (usually THF) under nitrogen or argon and the carbonyl compound is added as soon as the phosphorane has been formed.
+
+More stable phosphoranes are obtained when the ylide contains a group that can stabilize the negative charge from the carbanion. For example: Ph3P=CHCO2R and Ph3P=CHPh.
+:center
+From the phosphonium salts, these reagent are formed more readily, requiring only with NaOH, and they are usually more air-stable. These are less reactive than simple ylides, and so they usually fail to react with ketones, necessitating the use of the Horner–Wadsworth–Emmons reaction as an alternative. They usually give rise to an E-alkene product when they react, rather than the more usual Z-alkene.
+
+==Scope and limitations==
+The Wittig reaction has become a popular method for alkene synthesis precisely because of its wide applicability. Unlike elimination reactions (such as dehydrohalogenation of alkyl halides), which produce mixtures of alkene regioisomers determined by Saytzeff's rule, the Wittig reaction forms the double bond in one position with no ambiguity.
+
+A large variety of ketones and aldehydes are effective in the reaction. Carboxylic acid derivatives such as esters fail to react usefully. Thus mono-, di- and trisubstituted alkenes can all be prepared in good yield in most cases. The Wittig reagent can generally tolerate carbonyl compounds containing several kinds of functional groups such as OH, OR, aromatic nitro and even ester groups . There can be a problem with sterically hindered ketones, where the reaction may be slow and give poor yields, particularly with stabilized ylides, and in such cases the Horner–Wadsworth–Emmons (HWE) reaction (using phosphonate esters) is preferred. Another reported limitation is the often labile nature of aldehydes which can oxidize, polymerize or decompose. In a so-called Tandem Oxidation-Wittig Process the aldehyde is formed in situ by oxidation of the corresponding alcohol. 
+
+As mentioned above, the Wittig reagent itself is usually derived from a primary alkyl halide, because with most secondary halides the phosphonium salt is formed in poor yield. For this reason, tetrasubstituted alkenes are best made by means other than the Wittig reaction. However the Wittig reagent can tolerate many other variants. It may contain alkenes and aromatic rings, and it is compatible with ethers and even ester groups. Even C=O and nitrile groups can be present if conjugated with the ylide- these are the stabilised ylides mentioned above. Bis-ylides (containing two P=C bonds) have also been made and used successfully.
+
+One limitation relates to the stereochemistry of the product. With simple ylides, the product is usually mainly the Z-isomer, although a lesser amount of the E-isomer is often formed also – this is particularly true when ketones are used. If the reaction is performed in DMF in the presence of LiI or NaI, the product is almost exclusively the Z-isomer. If the E-isomer is the desired product, the Schlosser modification may be used. With stabilised ylides the product is mainly the E-isomer, and this same isomer is also usual with the HWE reaction.
+
+==The Schlosser modification==
+The Schlosser variant of the Wittig reaction
+
+The major limitation of the traditional Wittig reaction is that the reaction goes mainly via the erythro betaine intermediate, which leads to the Z-alkene. However Schlosser & Christmann found that the erythro betaine can be converted to the threo betaine using phenyllithium at low temperature (forming a betaine) followed by HCl. Upon workup this leads to the E-alkene product as shown.
+
+E. J. Corey and Hisashi Yamamoto found that the utility can be extended to a stereoselective synthesis of allylic alcohols, by reaction of the betaine ylid with a second aldehyde. For example:
+
+An example of the Schlosser variant of the Wittig reaction
+
+==Examples of use==
+Two examples of the Wittig reaction using methylenetriphenylphosphorane.
+
+Because of its reliability and wide applicability, the Wittig reaction has become a standard tool for synthetic organic chemists. 
+
+The most popular use of the Wittig reaction is for the introduction of a methylene group using methylenetriphenylphosphorane (Ph3P=CH2). In the example shown, even a sterically hindered ketone such as camphor can be successfully converted to its methylene derivative by heating with methyltriphenylphosphonium bromide and potassium tert-butoxide, which generate the Wittig reagent in situ. Fitjer, L.; Quabeck, U. Synthetic Communications 1985, 15(10), 855–864. In another example, the phosphorane is produced using sodium amide as a base, and this successfully converts the aldehyde shown into alkene I in 62% yield. The reaction is performed in cold THF, and the sensitive nitro, azo and phenoxide groups all survive intact. The product can be used to incorporate a photostabiliser into a polymer, to protect the polymer from damage by UV radiation.
+
+Another example of its use is in the synthesis of leukotriene A methyl ester. The first step uses a stabilised ylide, where the carbonyl group is conjugated with the ylide preventing self condensation, although unexpectedly this gives mainly the cis product. The second Wittig reaction uses a non-stabilised Wittig reagent, and as expected this gives mainly the cis product. Note that the epoxide and ester functional groups survive intact.
+
+An example of the use of the Wittig reaction in synthesis, making Leukotriene A methyl ester
+
+Methoxymethylenetriphenylphosphine is a Wittig reagent for the homologation of aldehydes.
+
+==See also==
+
+* Corey–Chaykovsky reagent
+* Horner–Wadsworth–Emmons reaction
+* Julia–Lythgoe olefination
+* Peterson olefination
+* Tebbe's reagent
+* Organophosphorus chemistry
+* Homologation reaction
+* Kauffmann olefination
+
+==References==
+
+==External links==
+*Wittig reaction in Organic Syntheses, Coll. Vol. 10, p. 703 (2004); Vol. 75, p. 153 (1998). (Article)
+*Wittig reaction in Organic Syntheses, Coll. Vol. 5, p. 361 (1973); Vol. 45, p. 33 (1965). (Article)
+
+

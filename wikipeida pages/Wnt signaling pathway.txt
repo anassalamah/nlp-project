@@ -1,0 +1,138 @@
+[[Wnt signaling pathway]]
+
+The Wnt signaling pathways are a group of signal transduction pathways made of proteins that pass signals from outside of a cell through cell surface receptors to the inside of the cell. Three Wnt signaling pathways have been characterized: the canonical Wnt pathway, the noncanonical planar cell polarity pathway, and the noncanonical Wnt/calcium pathway. All three Wnt signaling pathways are activated by the binding of a Wnt-protein ligand to a Frizzled family receptor, which passes the biological signal to the protein Dishevelled inside the cell. The canonical Wnt pathway leads to regulation of gene transcription, the noncanonical planar cell polarity pathway regulates the cytoskeleton that is responsible for the shape of the cell, and the noncanonical Wnt/calcium pathway regulates calcium inside the cell. Wnt signaling pathways use either nearby cell-cell communication (paracrine) or same-cell communication (autocrine). They are highly evolutionarily conserved, which means they are similar across many species from fruit flies to humans. 
+ 
+Wnt signaling was first identified for its role in carcinogenesis, but has since been recognized for its function in embryonic development. The embryonic processes it controls include body axis patterning, cell fate specification, cell proliferation, and cell migration. These processes are necessary for proper formation of important tissues including bone, heart, and muscle. Its role in embryonic development was discovered when genetic mutations in proteins in the Wnt pathway produced abnormal fruit fly embryos. Later research found that the genes responsible for these abnormalities also influenced breast cancer development in mice.
+
+The clinical importance of this pathway has been demonstrated by mutations that lead to a variety of diseases, including breast and prostate cancer, glioblastoma, type II diabetes, and others. 
+
+==Background and etymology==
+The discovery of Wnt signaling was influenced by research on oncogenic (cancer-causing) retroviruses. In 1982, Roel Nusse and Harold Varmus infected mice with mouse mammary tumor virus in order to mutate mouse genes to see which genes could cause breast tumors when mutated. They identified a new mouse proto-oncogene that they named int1 (integration 1). 
+ 
+It was determined that int1 has a high degree of conservation across several species, including humans and Drosophila. Its presence in Drosophila melanogaster led researchers to discover in 1987 that the int1 gene in Drosophila was actually the already known and characterized Drosophila gene known as Wingless (Wg). Since previous research by Christiane Nüsslein-Volhard and Eric Wieschaus (which won them the Nobel Prize in Physiology or Medicine in 1995) had already established the function of Wg as a segment polarity gene involved in the formation of the body axis during embryonic development, researchers determined that the mammalian int1 discovered in mice is also involved in embryonic development. 
+
+Since int1's discovery in 1982, continued research would lead to the discovery of further genes related to int1; however, since all those genes had not been identified in the same manner as int1, it quickly became clear that the int gene nomenclature, or naming system, was no longer adequate. Thus, the int/Wingless family was renamed the Wnt family and int1 became Wnt1. The name Wnt was chosen because it is a combination, or portmanteau, of int and Wg and stands for Wingless-related integration site. 
+
+==Proteins==
+Crystal protein structure of Wnt8 and the cysteine-rich domain of Frizzled 8.
+The Wnt proteins are a diverse family of secreted lipid-modified signaling glycoproteins that are 350–400 amino acids in length. The type of lipid modification that occurs on these proteins is palmitoylation of cysteines in a conserved pattern of 23–24 cysteine residues. Palmitoylation is necessary because it initiates targeting of the Wnt protein to the plasma membrane for secretion and it allows the Wnt protein to bind its receptor due to the covalent attachment of fatty acids. Wnt proteins also undergo glycosylation, which attaches a carbohydrate in order to insure proper secretion. In Wnt signaling, these proteins act as ligands to activate the different Wnt pathways via paracrine and autocrine routes. 
+
+These proteins are also highly conserved across species. They can be found in mice, humans, Xenopus, Zebrafish, Drosophila, and many others. 
+
+ Species Wnt proteins 
+ Homo sapiens Wnt1, Wnt2, Wnt2B, Wnt3, Wnt3A, Wnt4, Wnt5A, Wnt5B, Wnt6, Wnt7A, Wnt7B, Wnt8A, Wnt8B, Wnt9A, Wnt9B, Wnt10A, Wnt10B, Wnt11, Wnt16 
+ Mus musculus Wnt1, Wnt2, Wnt2B, Wnt3, Wnt3A, Wnt4, Wnt5A, Wnt5B, Wnt6, Wnt7A, Wnt7B, Wnt8A, Wnt8B, Wnt9A, Wnt9B, Wnt10A, Wnt10B, Wnt11, Wnt16 
+ Xenopus Wnt1, Wnt2, Wnt2B, Wnt3, Wnt3A, Wnt4, Wnt5A, Wnt5B, Wnt7A, Wnt7B, Wnt8A, Wnt8B, Wnt10A, Wnt10B, Wnt11, Wnt11R 
+ 
+ Danio rerio Wnt1, Wnt2, Wnt2B, Wnt3, Wnt3A, Wnt4, Wnt5A, Wnt5B, Wnt6, Wnt7A, Wnt7B, Wnt8A, Wnt8B, Wnt10A, Wnt10B, Wnt11, Wnt16 
+ Drosophila Wg, DWnt2, DWnt3/5, DWnt 4, DWnt6, WntD/DWnt8, DWnt10 
+
+==Mechanism==
+Figure 2. Wnt binds to (activates) the receptor. Axin is removed from the "destruction complex." β-Cat moves into the nucleus, binds to a transcription factor on DNA, and activates transcription of a protein. "P" represents phosphate.
+Figure 1. Wnt doesn't bind to the receptor. Axin, GSK and APC form a "destruction complex," and β-Cat is destroyed.
+
+===Foundation===
+Wnt signaling begins when one of the Wnt proteins binds the N-terminal extra-cellular cysteine-rich domain of a Frizzled (Fz) family receptor. These receptors span the plasma membrane seven times and constitute a distinct family of G-protein coupled receptors (GPCRs). However, to facilitate Wnt signaling, co-receptors may also be required alongside the interaction between the Wnt protein and Fz receptor. Examples include lipoprotein receptor-related protein (LRP)-5/6, receptor tyrosine kinase (Ryk), and ROR2. Upon activation of the receptor, a signal is sent to the phosphoprotein Dishevelled (Dsh), which is located in the cytoplasm. This signal is transmitted via a direct interaction between Fz and Dsh. Dsh proteins are present in all organisms and they all share the following highly conserved protein domains: an amino-terminal DIX domain, a central PDZ domain, and a carboxy-terminal DEP domain. These different domains are important because after Dsh, the Wnt signal can branch off into several different pathways and each pathway interacts with a different combination of the three domains. 
+
+===Canonical and noncanonical pathways===
+The three best characterized Wnt signaling pathways are the canonical Wnt pathway, the noncanonical planar cell polarity pathway, and the noncanonical Wnt/calcium pathway. As their names suggest, these pathways belong to one of two categories: canonical or noncanonical. The difference between the categories is that a canonical pathway involves the protein β-catenin while a noncanonical pathway operates independently of it. 
+Canonical Wnt pathway
+
+====The canonical Wnt pathway====
+The canonical Wnt pathway (or Wnt/β-catenin pathway) is the Wnt pathway that causes an accumulation of β-catenin in the cytoplasm and its eventual translocation into the nucleus to act as a transcriptional coactivator of transcription factors that belong to the TCF/LEF family. Without Wnt signaling, the β-catenin would not accumulate in the cytoplasm since a destruction complex would normally degrade it. This destruction complex includes the following proteins: Axin, adenomatosis polyposis coli (APC), protein phosphatase 2A (PP2A), glycogen synthase kinase 3 (GSK3) and casein kinase 1α (CK1α). It degrades β-catenin by targeting it for ubiquitination, which subsequently sends it to the proteasome to be digested. 
+However, as soon as Wnt binds Fz and LRP-5/6, the destruction complex function becomes disrupted. This is due to Wnt causing the translocation of both a negative regulator of Axin and the destruction complex to the plasma membrane. This negative regulator becomes localized to the cytoplasmic tail of LRP-5/6. Phosphorylation by other proteins in the destruction complex subsequently binds Axin to this tail as well. Axin becomes de-phosphorylated and its stability and levels are decreased. Dsh then becomes activated via phosphorylation and its DIX and PDZ domains inhibit the GSK3 activity of the destruction complex. This allows β-catenin to accumulate and localize to the nucleus and subsequently induce a cellular response via gene transduction alongside the TCF/LEF transcription factors. 
+Noncanonical PCP pathway
+
+====The noncanonical planar cell polarity pathway====
+The noncanonical planar cell polarity (PCP) pathway is one of the two Wnt pathways that does not involve β-catenin. It does not use LRP-5/6 as its co-receptor and is thought to use NRH1, Ryk, PTK7, or ROR2. As in the canonical Wnt pathway, the PCP pathway is activated via the binding of Wnt to Fz and its co-receptor. The receptor then recruits Dsh, which uses its PDZ and DEP domains to form a complex with Dishevelled-associated activator of morphogenesis 1 (DAAM1). Daam1 then activates the small G-protein Rho through a guanine exchange factor. Rho activates Rho-associated kinase (ROCK), which is one of the major regulators of the cytoskeleton. Dsh also forms a complex with rac1 and mediates profilin binding to actin. Rac1 activates JNK and can also lead to actin polymerization. Profilin binding to actin can result in restructuring of the cytoskeleton and gastrulation. 
+left
+
+====The noncanonical Wnt/calcium pathway====
+The noncanonical Wnt/calcium pathway is the other Wnt pathway that does not stimulate accumulation of β-catenin. Its role is to help regulate calcium release from the endoplasmic reticulum (ER) in order to control intracellular calcium levels. Like other Wnt pathways, upon ligand binding, the activated Fz receptor directly interacts with Dsh and activates specific Dsh-protein domains. The domains involved in Wnt/calcium signaling are the PDZ and DEP domains. However, unlike other Wnt pathways, the Fz receptor also directly interfaces with a trimeric G-protein. This co-stimulation of Dsh and the G-protein can lead to the activation of either PLC or cGMP-specific PDE. If PLC is activated, the plasma membrane component PIP2 is cleaved into DAG and IP3. When IP3 binds its receptor on the ER, calcium is released. Increased concentrations of calcium and DAG can activate Cdc42 through PKC. Cdc42 is an important regulator of ventral patterning. Increased calcium also activates calcineurin and CaMKII. CaMKII induces activation of the transcription factor NFAT, which regulates cell adhesion, migration, and tissue separation. Calcineurin activates TAK1 and NLK kinase, which can interfere with TCF/ß-Catenin signaling in the canonical Wnt pathway. Sugimura, Ryohichi, and Linheng Li. "Noncanonical Wnt signaling in vertebrate development, stem cells, and diseases." Birth Defects Research Part C: Embryo Today: Reviews 90.4 (2010) : 243-256. Print. However, if PDE is activated, calcium release from the ER is inhibited. PDE mediates this through the inhibition of PKG, which subsequently causes the inhibition of calcium release. 
+
+===Integrated, convergent, Wnt signaling pathway===
+The binary distinction of canonical and non-canonical Wnt signaling pathways has come under scrutiny and an integrated Wnt pathway has been proposed; some evidence for this was found for one Wnt ligand (Wnt5A). Very recently, evidence for a convergent Wnt signaling pathway, that shows integrated activation of Wnt/Ca2+ and Wnt/ß-catenin signaling, for multiple Wnt ligands, was described in mammalian cell lines. 
+
+===Other pathways===
+Along with the pathways, described above, Wnt signaling also regulates a number of other signaling pathways that have not been as extensively elucidated. One such pathway includes the interaction between Wnt and GSK3. During cell growth, Wnt can inhibit GSK3 in order to activate mTOR in the absence of β-catenin. However, Wnt can also serve as a negative regulator of mTOR via activation of the tumor suppressor TSC2, which is upregulated via Dsh and GSK3 interaction. During myogenesis, Wnt uses PKA and CREB to activate the genes MyoD and Myf5. Wnt has also been seen to act in conjunction with Ryk and Src to allow for regulation of neuron repulsion during axonal guidance. Wnt regulates gastrulation when CK1 serves as an inhibitor of Rap1-GTPase in order to modulate the cytoskeleton during gastrulation. Further regulation of gastrulation is achieved when Wnt uses ROR2 along with the CDC42 and JNK pathway to regulate the expression of PAPC. Dsh can also interact with aPKC, Par3, Par6, and LGl in order to control cell polarity and microtubule cytoskeleton development. While these pathways overlap with components associated with PCP and Wnt/Calcium signaling, they are considered distinct pathways because they produce entirely different responses. 
+
+===Regulation===
+In order to ensure proper functioning, Wnt signaling is constantly regulated at several points along its signaling pathways. For instance, as previously mentioned, Wnt proteins are palmitoylated. The protein porcupine mediates this palmitoylation process, which means that it helps regulate when the Wnt ligand is secreted by determining when it is fully formed. Secretion of Wnt protein is further controlled with proteins such as wntless and evenness interrupted and complexes such as the retromer complex. Upon secretion, the ligand can also be prevented from reaching its receptor through the binding of certain proteins such as the stabilizers Dally and glypican 3, which inhibit diffusion. At the Fz receptor, the binding of proteins other than Wnt can antagonize signaling. Specific antagonists include Dickkopf (Dkk), Wnt inhibitory factor 1 (WIF-1), secreted Frizzled-related proteins (SFRP), Cerberus, Frzb, Wise, and SOST. All of these constitute inhibitors of Wnt signaling; however, other molecules have been shown to act as activators as well. For example, Norrin and R-Spondin2 have been shown to activate Wnt signaling in the absence of Wnt ligand. Interactions between different Wnt signaling pathways also regulate Wnt signling. As previously mentioned, the Wnt/calcium pathway can inhibit TCF/β-catenin in order to prevent canonical Wnt pathway signaling. 
+
+== Induced cell responses ==
+
+=== Embryonic development ===
+
+Wnt signaling plays a critical role in the embryonic development of a variety of organisms. It is detected in both vertebrates and invertebrates, including humans, frogs, zebrafish, C. elegans, Drosophila, and numerous others. It was first known to be involved in the segment polarity of Drosophila, where it helps to establish anterior and posterior polarities; however, it has since then been implicated in numerous other developmental processes. As its function in Drosophila suggests, it plays a key role in body axis formation, particularly the formation of the anteroposterior and dorsoventral axes. It is also involved in the induction of cell differentiation to prompt formation of important organs such as the lungs and ovaries. Wnt further insures the development of these specific tissues through proper regulation of cell proliferation and migration. These are just a few Wnt functions, but they demonstrate that the numerous functions of Wnt signaling can be divided into one of the following categories: axis patterning, cell fate specification, cell proliferation, and cell migration. 
+
+====Axis patterning====
+
+In early embryonic development, the formation of the primary body axes is a crucial step in establishing the overall body plan of each particular organism. The different axes include the anteroposterior axis, dorsoventral axis, and right-left axis. Wnt signaling can be implicated in the formation of the anteroposterior and dorsoventral axes. Wnt signaling activity in anterior-posterior development can be seen in several organisms including mammals, fish, and frogs. In mammals, the primitive streak and other surrounding tissues produce the morphogenic compounds Wnts, BMPs, FGFs, Nodal, and retinoic acid to establish the posterior region during late gastrula. These proteins form concentration gradients and the areas of their highest concentration establish the posterior region and the areas of their lowest concentration indicate the anterior region. In fish and frogs, β-catenin produced by canonical Wnt signaling causes the formation of organizing centers, which, alongside BMPs, elicits posterior formation. Wnt involvement in dorsoventral axis formation can be seen in the activity of the formation of the Spemann organizer, which establishes the dorsal region. Canonical Wnt signaling production β-catenin induces the formation of this organizer via the activation of the genes twin and siamois. Similarly, in avian gastrulation, cells of the Koller's sickle express different mesodermal marker genes that allow for the differential movement of cells during the formation of the primitive streak. Wnt signaling activated by FGFs is responsible for this movement. Vasiev B, Balter A, Chaplain M, Glazier JA, Weijer CJ. Modeling gastrulation in the chick embryo: formation of the primitive streak" PLoS One 2010;5:e10571. http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0010571 Gilbert SF. Developmental Biology. 10th edition. Sunderland (MA): Sinauer Associates; 2014. Early Development in Birds. Print 
+
+Wnt signaling is also involved in the axis formation of specific body parts and organ systems that are a part of later development. In vertebrates, sonic hedgehog (Shh) and Wnt morphogenetic signaling gradients establish the dorsoventral axis of the central nervous system during neural tube axial patterning. High Wnt signaling establishes the dorsal region while high Shh signaling indicates in the ventral region. Wnt is also involved in the dorsal-ventral formation of the central nervous system through its involvement in axon guidance. Wnt proteins guide the axons of the spinal cord in an anterior-posterior direction. Wnt is also involved in the formation of the limb dorsal-ventral axis. Specifically, Wnt7a helps produce the dorsal patterning of the developing limb. 
+
+====Cell fate specification====
+
+Cell fate specification, or cell differentiation, is a cellular process where undifferentiated cells can become a more specialized cell type. Wnt signaling induces differentiation of pluripotent stem cells into mesoderm and endoderm progenitor cells. These progenitor cells are then further induced to differentiate into more specific cell types such as endothelial, cardiac, and vascular smooth muscle lineages. Wnt signaling can also induce blood formation from stem cells. Specifically, Wnt3 leads to mesoderm committed cells with hematopoietic potential. 
+ Wnt1 has also been shown to antagonize neural differentiation and is a major factor in self-renewal of neural stem cells. This allows for regeneration of nervous system cells, which is further evidence of a role in promoting neural stem cell proliferation. Wnt signaling has also been shown to be involved in germ cell determination, gut tissue specification, hair follicle development, lung tissue development, trunk neural crest cell differentiation, nephron development, ovary development, and sex determination. 
+
+====Cell proliferation====
+
+In order to have the mass differentiation of cells needed to form the specified cell tissues of different organisms, a proliferation, or cell growth, of embryonic stem cells must take place. This process is mediated through canonical Wnt signaling, which increases nuclear and cytoplasmic level of β-catenin. Increased levels of β-catenin can initiate transcriptional activation of proteins such as cyclin D1 and c-myc, which control the G1 to S phase transition in the cell cycle. Entry into the S phase causes DNA replication and ultimately mitosis, which are responsible for cell proliferation. This increase in proliferation is directly paired with cell differentiation because as the stem cells proliferate, they are differentiated into the specific tissues that are induced to become. This allows for overall growth and development of specific tissue systems during embryonic development. This is apparent in systems such as the circulatory system where Wnt3a leads to proliferation and expansion of hematopoietic stem cells needed for red blood cell formation. 
+
+====Cell migration====
+500px
+Cell migration during embryonic development allows for the establishment of body axes, tissue formation, limb induction, and several other processes. Wnt signaling helps mediate this process, particularly during convergent extension. Research has shown that signaling from both the Wnt PCP pathway and canonical Wnt pathway is required for proper convergent extension during gastrulation. Convergent extension is further regulated by the Wnt/calcium pathway, which blocks convergent extension when activated. Wnt signaling also induces cell migration in later stages of development through the control of the migration behavior of neuroblasts, neural crest cells, myocytes, and tracheal cells. 
+
+Wnt signaling is also involved in another key migration process known as the epithelial-mesenchymal transition (EMT). This process is what allows epithelial cells to transform into mesenchymal cells so that they are no longer held in place at the laminin. It involves a down-regulation of cadherins so that cells can detach from laminin and migrate. Wnt signaling is an inducer of EMT, particularly in mammary development. 
+
+===Insulin sensitivity===
+400px
+Insulin is a peptide hormone involved in glucose homeostasis within certain organisms. Specifically, it leads to upregulation of glucose transporters in the cell membrane in order to increase glucose uptake from the bloodstream. This process is partially mediated by activation of Wnt/β-catenin signaling, which can increase a cell's sensitivity to insulin. In particular, Wnt10b is a Wnt protein shown to increase this sensitivity in skeletal muscle cells. 
+
+==Clinical implications==
+
+===Cancer===
+Ever since its initial discovery, Wnt signaling has had an association with cancer. When Wnt1 was discovered, it was first identified as a proto-oncogene in a mouse model for breast cancer. 
+The fact that Wnt1 is a homolog of Wg shows that it is involved in embryonic development, which often calls for rapid cell division and migration. Misregulation of these processes can cause unwanted cell growth and movement, which can lead to tumor development. Nusse, Roel. "Wnt Signaling in Disease and Development." Cell Research 15. (2005) 28-32. Web. 17 Apr 2011. 
+
+Activity of the canonical Wnt pathway is involved in the development of benign and malignant breast tumors. Its presence is indicated with elevated levels of β-catenin in the nucleus and/or cytoplasm, which can be detected with immunohistochemical staining and Western blotting. Increased β-catenin expression is strongly correlated with poor prognosis in breast cancer patients. This accumulation may be due to several factors such as mutations in β-catenin, deficiencies in the β-catenin destruction complex, most frequently by mutations in structurally disordered regions of APC, overexpression of Wnt ligands, loss of inhibitors, and/or decreased activity of regulatory pathways (such as the Wnt/calcium pathway). Taketo, M Mark. "Shutting down Wnt signal-activated cancer." Nature Genetics 36. (2004) 320-22. Web. 17 Apr 2011. Breast tumors have also been seen to metastasize due to Wnt involvement in the epithelial-mesenchymal transition (EMT). Research looking at metastasis of basal-like breast cancer to the lungs has shown that repression of Wnt/β-catenin signaling can prevent EMT, which can inhibit metastasis. 
+
+Wnt signaling has also been implicated in the development of more than just breast-type cancers. Changes in CTNNB1 expression, which is the gene that encodes β-catenin, can be measured in not just breast cancer, but also colorectal cancer, melanoma, prostate cancer, lung cancer, and several other cancer types. Increased expression of Wnt ligand-proteins such as Wnt 1, Wnt2, and Wnt7A have been observed in the development of glioblastoma, oesophageal cancer, and ovarian cancer respectively. Other proteins known to cause multiple types of cancer in the absence of proper functioning include ROR1, ROR2, SFRP4, Wnt5A, WIF1, and those of the TCF/LEF family. 
+
+===Type II diabetes===
+
+Type II diabetes, or diabetes mellitus type 2, is a common disease that causes reduced insulin secretion and increased insulin resistance in the periphery. It results in increased blood glucose levels, or hyperglycemia, which can be fatal if left untreated. Since Wnt signaling is involved in insulin sensitivity, malfunctioning of its pathway could be involved in the development of type II diabetes. Overexpression of Wnt5b, for instance, may increase susceptibility to type II diabetes due to its role in adipogenesis, or fat production, since obesity and type II diabetes have a high comorbidity. Wnt signaling is also a strong activator of mitochondrial biogenesis. This leads to increased production of reactive oxygen species (ROS) known to cause DNA and cellular damage. This ROS-induced damage is significant because it can cause the development of acute hepatic insulin resistance, or injury-induced insulin resistance. Mutations in Wnt signaling-associated transcription factors, such as TCF7L2, are also linked to increased susceptibility to type II diabetes. 
+
+==See also==
+*Signal transduction
+*Morphogenesis
+*Developmental biology
+*Embryogenesis
+*Cancer
+*Catenin
+*GSK-3
+*Frzb
+*Wingless localisation element 3 (WLE3)
+*Baldness treatments
+*GPR177
+
+==External links==
+* Mouse Wnt proteins from Signaling Gateway Molecule Pages 
+* Mouse Frizzled proteins from Signaling Gateway Molecule Pages
+* The Wnt Homepage from Nusse Lab, Stanford
+* Wnt pathways, their relationship, disease, and therapies by healthvalue.net
+* Drosophila Wnt pathway from KEGG
+* mouse Wnt pathway from KEGG
+* humanα Wnt pathway from KEGG
+* Homo sapiens (human) Wnt pathway from KEGG
+* video of grey hair reversal
+* Netpath - A curated resource of signal transduction pathways in humans
+* 
+* Wnt game
+
+==References==
+
+ 
+
+

@@ -1,0 +1,40 @@
+[[Williamson ether synthesis]]
+
+synthesis by reaction of salicylaldehyde with chloroacetic acid and sodium hydroxide Organic Syntheses, Coll. Vol. 5, p.251 (1973); Vol. 46, p.28 (1966) [http://orgsynth.org/orgsyn/pdfs/CV5P0251.pdf Link ]]The Williamson ether synthesis is an organic reaction, forming an ether from an organohalide and an alcohol. This reaction was developed by Alexander Williamson in 1850. (Link to excerpt.) Typically it involves the reaction of an alkoxide ion with a primary alkyl halide via an SN2 reaction. This reaction is important in the history of organic chemistry because it helped prove the structure of ethers.
+
+The general reaction mechanism is as follows: 
+
+Williamson ether synthesis mechanism
+
+An example is the reaction of sodium ethoxide with chloroethane to form diethyl ether and sodium chloride:
+
+:Na+C2H5O− + C2H5Cl C2H5OC2H5 + Na+Cl−
+
+==Scope==
+The Williamson reaction is of broad scope, is widely used in both laboratory and industrial synthesis, and remains the simplest and most popular method of preparing ethers. Both symmetrical and asymmetrical ethers are easily prepared. The intramolecular reaction of halohydrins in particular, gives epoxides.
+
+In the case of asymmetrical ethers there are two possibilities for the choice of reactants, and one is usually preferable either on the basis of availability or reactivity. The Williamson reaction is also frequently used to prepare an ether indirectly from two alcohols. One of the alcohols is first converted to a leaving group (usually tosylate), then the two are reacted together.
+
+The alkoxide (or aroxide) may be primary, secondary or tertiary. The alkylating agent, on the other hand is most preferably primary. Secondary alkylating agents also react, but tertiary ones are usually too prone to side reactions to be of practical use. The leaving group is most often a halide or a sulfonate ester synthesized for the purpose of the reaction. Since the conditions of the reaction are rather forcing, protecting groups are often used to pacify other parts of the reacting molecules (e.g. other alcohols, amines, etc.)
+
+==Conditions==
+Since alkoxide ions are highly reactive, they are usually prepared immediately prior to the reaction, or are generated in situ. In laboratory chemistry, in situ generation is most often accomplished by the use of a carbonate base or potassium hydroxide, while in industrial syntheses phase transfer catalysis is very common. A wide range of solvents can be used, but protic solvents and apolar solvents tend to slow the reaction rate strongly, as a result of lowering the availability of the free nucleophile. For this reason, acetonitrile and N,N-dimethylformamide are particularly commonly used.
+
+A typical Williamson reaction is conducted at 50–100 °C and is complete in 1–8 hours. Often the complete disappearance of the starting material is difficult to achieve, and side reactions are common. Yields of 50–95% are generally achieved in laboratory syntheses, while near-quantitative conversion can be achieved in industrial procedures.
+
+Catalysis is not usually necessary in laboratory syntheses. However, if an unreactive alkylating agent is used (e.g. an alkyl chloride) then the rate of reaction can be greatly improved by the addition of a catalytic quantity of a soluble iodide salt (which undergoes halide exchange with the chloride to yield a much more reactive iodide, a variant of the Finkelstein reaction). In extreme cases, silver salts may be added for example silver oxide: Organic Syntheses, Coll. Vol. 7, p.386 (1990); Vol. 60, p.92 (1981). Link 
+:Ether synthesis with silver oxide
+
+The silver ion coordinates with the halide leaving group to make its departure more facile. Finally, phase transfer catalysts are sometimes used (e.g. tetrabutylammonium bromide or 18-crown-6) in order to increase the solubility of the alkoxide by offering a softer counter-ion.
+
+==Side reactions==
+The Williamson reaction often competes with the base-catalyzed elimination of the alkylating agent, and the nature of the leaving group as well as the reaction conditions (particularly the temperature and solvent) can have a strong effect on which is favored. In particular, some structures of alkylating agent can be particularly prone to elimination.
+
+When the nucleophile is an aroxide ion, the Williamson reaction can also compete with alkylation on the ring since the aroxide is an ambident nucleophile.
+
+==See also==
+* Ullmann condensation for the formation of bis-aryl ethers
+
+==References==
+
+

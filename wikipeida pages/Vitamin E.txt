@@ -1,0 +1,126 @@
+[[Vitamin E]]
+
+Vitamin E refers to a group of eight fat-soluble compounds that include both tocopherols and tocotrienols. Of the many different forms of vitamin E, γ-tocopherol is the most common in the North American diet. γ-Tocopherol can be found in corn oil, soybean oil, margarine, and dressings. α-tocopherol, the most biologically active form of vitamin E, is the second-most common form of vitamin E in the diet. This variant can be found most abundantly in wheat germ oil, sunflower, and safflower oils. As a fat-soluble antioxidant, it stops the production of reactive oxygen species formed when fat undergoes oxidation. Amounts over 1,000 mg (1,500 IU) per day Vitamin E Fact sheet are called Hypervitaminosis E, as they may increase the risk of bleeding problems and vitamin K deficiency.
+
+==Functions==
+Vitamin E has many biological functions, the antioxidant function being the most important and/or best known. Other functions include enzymatic activities, gene expression, and neurological function(s). The most important function of vitamin E has been suggested to be in cell signaling (and it may not have a significant role in antioxidant metabolism). 
+
+* As an antioxidant, vitamin E acts as a peroxyl radical scavenger, preventing the propagation of free radicals in tissues, by reacting with them to form a tocopheryl radical, which will then be reduced by a hydrogen donor (such as vitamin C) and thus return to its reduced state. As it is fat-soluble, it is incorporated into cell membranes, which protects them from oxidative damage. Vitamin E has also found use as a commercial antioxidant in ultra high molecular weight polyethylene (UHMWPE) used in hip and knee replacements, to help resist oxidation. UHMWPE Biomaterials Handbook, 2nd Edition, Kurtz ed. (2009) 
+
+* As an enzymatic activity regulator, for instance, protein kinase C (PKC), which plays a role in smooth muscle growth, can be inhibited by α-tocopherol. α-Tocopherol has a stimulatory effect on the dephosphorylation enzyme, protein phosphatase 2A, which in turn, cleaves phosphate groups from PKC, leading to its deactivation, bringing the smooth muscle growth to a halt. 
+
+* Vitamin E also has an effect on gene expression. Macrophages rich in cholesterol are found in the atherogenetic tissue. Scavenger receptor CD36 is a class B scavenger receptor found to be up-regulated by oxidized low density lipoprotein (LDL) and binds it. Treatment with α-tocopherol was found to downregulate the expression of the CD36 scavenger receptor gene and the scavenger receptor class A (SR-A) and modulates expression of the connective tissue growth factor (CTGF). The CTGF gene, when expressed, is responsible for the repair of wounds and regeneration of the extracellular tissue lost or damaged during atherosclerosis. 
+
+* Vitamin E also plays a role in neurological functions, and inhibition of platelet aggregation. 
+
+*Vitamin E also protects lipids and prevents the oxidation of polyunsaturated fatty acids. 
+
+So far, most human supplementation studies about vitamin E have used only α-tocopherol. This can affect levels of other forms of vitamin E, e.g. reducing serum γ- and δ-tocopherol concentrations. Moreover, a 2007 clinical study involving α-tocopherol concluded supplementation did not reduce the risk of major cardiovascular events in middle-aged and older men. 
+
+===Deficiency===
+
+Vitamin E deficiency can cause:
+*spinocerebellar ataxia 
+*myopathies 
+*peripheral neuropathy Institute of Medicine. Food and Nutrition Board. Dietary Reference Intakes: Vitamin C, Vitamin E, Selenium, and Carotenoids. Washington, DC: National Academy Press, 2000. 
+*ataxia 
+*skeletal myopathy 
+*retinopathy 
+*impairment of the immune response 
+*red blood cell destruction 
+
+==Supplementation==
+While vitamin E supplementation was initially hoped to have a positive effect on health, research has not supported this hope. Vitamin E does not decrease mortality in adults, even at large doses, and high-dosage supplementation may slightly increase it. It does not improve blood sugar control in an unselected group of people with diabetes mellitus or decrease the risk of stroke. Daily supplementation of vitamin E does not decrease the risk of prostate cancer and may increase it. Studies on its role in age-related macular degeneration are ongoing as, though it is of a combination of dietary antioxidants used to treat the condition, it may increase the risk. A Japanese study in 2012 found vitamin E may contribute to osteoporosis. 
+
+In a 2013 study, 613 people with "mild to moderate Alzheimer's disease" were given either a daily dose of vitamin E, memantine, both vitamin E and memantine, or a placebo. Those given vitamin E had slower cognitive decline than those given the placebo. Although the study suggests that vitamin E supplementation may slow the progression of dementia, the dosage was very high and may be unsafe in the long term. Furthermore, Dr. Eric Karran, director of research at Alzheimer's Research UK, stated that "until the findings from this trial have been replicated, we would not encourage people to take high doses of vitamin E supplements to try to prevent or treat Alzheimer's." 
+
+A 2012 Cochrane Review examined the potential effectiveness of antioxidant vitamin supplementation in preventing and slowing the progression of age-related cataract. The included studies involved supplementation of vitamin E, along with β-carotene and vitamin C, either dosed independently or in combination, and compared to the placebo. The systematic review showed that vitamin E supplementation had no protective effect on reducing the risk of cataract, cataract extraction, progression of cataract, and slowing the loss of visual acuity. 
+
+==Overdose==
+
+Vitamin E can act as an anticoagulant, increasing the risk of bleeding problems. As a result, many agencies have set a tolerable upper intake levels (UL) at 1,000 mg (1,500 IU) per day. In combination with certain other drugs such as aspirin, hypervitaminosis E can be life-threatening. Hypervitaminosis E may also counteract vitamin K, leading to a vitamin K deficiency.
+
+==Dietary sources==
+:
+
+ mg/(100 g) In notes 2–11, USDA NDL Release 24 numbers are given as mg/(100 g). Low and high values vary some by raw versus cooked and by variety. Some foods with vitamin E content 
+ low high 
+ 150 Wheat germ oil 
+ 41 Sunflower oil 
+ 34 Safflower oil 
+ 15 26 Nuts and nut oils, such as almonds and hazelnuts 26 almonds, 15 hazelnuts 
+ 15 Palm oil 
+ 14 Olive oil 
+ 12.2 Common purslane Simopoulos AP, Norman HA, Gillaspy JE, Duke JA. Common purslane: a source of omega-3 fatty acids and antioxidants. J Am Coll Nutr. 1992;11(4):374-82. 
+ 1.5 3.4 High-value green, leafy vegetables: spinach, turnip, beet greens, collard greens, and dandelion greens Spinach (2.0 raw, 2.1 cooked), turnip (2.9 raw, 1.9 cooked), beet (1.5 raw, 1.8 cooked), collard (2.3 raw, 0.88 cooked), and dandelion greens (3.4 raw, 2.4 cooked) 
+ 2.1 Avocados 
+ 1.1 1.5 Asparagus 1.1 raw, 1.5 cooked 
+ 1.5 Kiwifruit (green) 
+ 0.78 1.5 Broccoli 0.78 raw, 1.5 cooked 
+ 0.8 1 Pumpkin 1. raw, 0.8 cooked 
+ 0.26 0.94 Sweet potato 0.26 raw, 0.94 boiled 
+ 0.9 Mangoes 
+ 0.54 0.56 Tomatoes 0.54 raw, 0.56 cooked 
+ 0.36 0.44 Rockfish 0.36 raw, 0.44 cooked 
+ 0.3 Papayas 
+ 0.13 0.22 Low-value green, leafy vegetables: lettuce Lettuce (0.18 iceberg, 0.22 green leaf, 0.13 romaine, 0.15 red leaf, 0.18 butterhead) 
+
+==Recommended daily intake==
+The Food and Nutrition Board at the Institute of Medicine (IOM) of the US National Academy of Sciences reported the following dietary reference intakes for vitamin E: 
+
+:
+
+ mg/day Age 
+ Infants 
+ 4 0 to 6 months 
+ 5 7 to 12 months 
+ Children 
+ 6 1 to 3 years 
+ 7 4 to 8 years 
+ 11 9 to 13 years 
+ Adolescents and adults 
+ 15 14 and older 
+
+One IU of vitamin E is defined as equivalent to either: 0.67 mg of the natural form, RRR-α-tocopherol, also known as d-α-tocopherol; or 0.45 mg of the synthetic form, all-rac-α-tocopherol, also known as dl-α-tocopherol. 
+
+==History==
+Vitamin E was discovered in 1922 by Herbert McLean Evans and Katharine Scott Bishop and first isolated in a pure form by Gladys Anderson Emerson in 1935 at the University of California, Berkeley. Erhard Fernholz elucidated its structure in 1938 and shortly afterwards the same year, Paul Karrer and his team first synthesized it. 
+
+The first use for vitamin E as a therapeutic agent was conducted in 1938 by Widenbauer, who used wheat germ oil supplement on 17 premature newborn infants suffering from growth failure. Eleven of the original 17 patients recovered and were able to resume normal growth rates. 
+
+In 1945, Drs. Evan V. Shute and Wilfred E. Shute, siblings from Ontario, Canada, published the first monograph arguing that megadoses of vitamin E can slow down and even reverse the development of atherosclerosis. Shute, W. E.; Shute, E. V.; et al., Alpha Tocopherol (Vitamin E) in Cardiovascular Disease. Toronto, Ontario, Canada: Ryerson Press, 1945 Peer-reviewed publications soon followed. The same research team also demonstrated, in 1946, that α-tocopherol improved impaired capillary permeability and low platelet counts in experimental and clinical thrombocytopenic purpura. 
+
+Later, in 1948, while conducting experiments on alloxan effects on rats, Gyorge and Rose noted rats receiving tocopherol supplements suffered from less hemolysis than those that did not receive tocopherol. In 1949, Gerloczy administered all-rac-α-tocopheryl acetate to prevent and cure edema. Methods of administration used were both oral, that showed positive response, and intramuscular, which did not show a response. This early investigative work on the benefits of vitamin E supplementation was the gateway to curing the vitamin E deficiency-caused hemolytic anemia described during the 1960s. Since then, supplementation of infant formulas with vitamin E has eradicated this vitamin’s deficiency as a cause for hemolytic anemia. 
+
+==Forms==
+The eight forms of vitamin E are divided into two groups; four are tocopherols and four are tocotrienols. They are identified by prefixes alpha- (α-), beta- (β-), gamma- (γ-), and delta- (δ-). Natural tocopherols occur in the RRR-configuration only. The synthetic form contains eight different stereoisomers and is called 'all-rac'-α-tocopherol. 
+
+===α-Tocopherol===
+
+Sample of α-tocopherol, one of the various forms of vitamin E
+
+α-Tocopherol is an important lipid-soluble antioxidant. It performs its functions as antioxidant in the glutathione peroxidase pathway, and it protects cell membranes from oxidation by reacting with lipid radicals produced in the lipid peroxidation chain reaction. This would remove the free radical intermediates and prevent the oxidation reaction from continuing. The oxidized α-tocopheroxyl radicals produced in this process may be recycled back to the active reduced form through reduction by other antioxidants, such as ascorbate, retinol or ubiquinol. However, the importance of the antioxidant properties of this molecule at the concentrations present in the body are not clear and the reason vitamin E is required in the diet is possibly unrelated to its ability to act as an antioxidant. Other forms of vitamin E have their own unique properties; for example, γ-tocopherol is a nucleophile that can react with electrophilic mutagens. 
+
+===Tocotrienols===
+Compared with tocopherols, tocotrienols are sparsely studied. Less than 1% of PubMed papers on vitamin E relate to tocotrienols. The current research direction is starting to give more prominence to the tocotrienols, the lesser known but more potent antioxidants in the vitamin E family. Some studies have suggested that tocotrienols have specialized roles in protecting neurons from damage and cholesterol reduction by inhibiting the activity of HMG-CoA reductase; δ-tocotrienol blocks processing of sterol regulatory element‐binding proteins (SREBPs).
+
+Oral consumption of tocotrienols is also thought to protect against stroke-associated brain damage in vivo. Until further research has been carried out on the other forms of vitamin E, conclusions relating to the other forms of vitamin E, based on trials studying only the efficacy of α-tocopherol, may be premature. 
+
+==Notes==
+
+==References==
+
+==Further reading==
+* 
+
+==External links==
+* "Vitamin E"Annals of the New York Academy of Sciences, Volume 52, October 1949, pages 66–427
+* Vitamin E bound to proteins in the PDB
+* Vitamin E Medline Plus, Medical Encyclopedia, U.S. National Library of Medicine
+* Vitamin E Office of Dietary Supplements, National Institutes of Health
+* 
+* The uses of Vitamin E in highly crosslinked UHMWPE
+
+ 
+
+

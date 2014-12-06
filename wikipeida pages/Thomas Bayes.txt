@@ -1,0 +1,70 @@
+[[Thomas Bayes]]
+
+Thomas Bayes (; c. 1701 7 April 1761) Belhouse, D.R. The Reverend Thomas Bayes FRS: a Biography to Celebrate the Tercentenary of his Birth. was an English statistician, philosopher and Presbyterian minister, known for having formulated a specific case of the theorem that bears his name: Bayes' theorem. Bayes never published what would eventually become his most famous accomplishment; his notes were edited and published after his death by Richard Price. McGrayne, Sharon Bertsch. (2011). 
+
+==Biography==
+Thomas Bayes was the son of London Presbyterian minister Joshua Bayes, and was possibly born in Hertfordshire. Oxford Dictionary of National Biography, article on Bayes by A. W. F. Edwards. He came from a prominent nonconformist family from Sheffield. In 1719, he enrolled at the University of Edinburgh to study logic and theology. On his return around 1722, he assisted his father at the latter's chapel in London before moving to Tunbridge Wells, Kent, around 1734. There he was minister of the Mount Sion chapel, until 1752. 
+
+He is known to have published two works in his lifetime, one theological and one mathematical:
+
+#Divine Benevolence, or an Attempt to Prove That the Principal End of the Divine Providence and Government is the Happiness of His Creatures (1731)
+#An Introduction to the Doctrine of Fluxions, and a Defence of the Mathematicians Against the Objections of the Author of The Analyst (published anonymously in 1736), in which he defended the logical foundation of Isaac Newton's calculus ("fluxions") against the criticism of George Berkeley, author of The Analyst
+
+It is speculated that Bayes was elected as a Fellow of the Royal Society in 1742 on the strength of the Introduction to the Doctrine of Fluxions, as he is not known to have published any other mathematical works during his lifetime.
+
+In his later years he took a deep interest in probability. Professor Stephen Stigler, historian of statistical science, thinks that Bayes became interested in the subject while reviewing a work written in 1755 by Thomas Simpson, but George Alfred Barnard thinks he learned mathematics and probability from a book by Abraham de Moivre. His work and findings on probability theory were passed in manuscript form to his friend Richard Price after his death.
+
+Monument to members of the Bayes and Cotton families, including Thomas Bayes and his father Joshua, in Bunhill Fields burial ground
+By 1755 he was ill and by 1761 had died in Tunbridge. He was buried in Bunhill Fields burial ground in Moorgate, London, where many nonconformists lie.
+
+==Bayes' theorem==
+
+Bayes' solution to a problem of inverse probability was presented in "An Essay towards solving a Problem in the Doctrine of Chances" which was read to the Royal Society in 1763 after Bayes' death. Richard Price shepherded the work through this presentation and its publication in the Philosophical Transactions of the Royal Society of London the following year. This was an argument for using a uniform prior distribution for a binomial parameter and not merely a general postulate. Edwards, A. W. G. "Commentary on the Arguments of Thomas Bayes," Scandinavian Journal of Statistics, Vol. 5, No. 2 (1978), pp. 116–118; retrieved 2011-08-06 This essay contains a statement of a special case of Bayes' theorem.
+
+In the first decades of the eighteenth century, many problems concerning the probability of certain events, given specified conditions, were solved. For example: given a specified number of white and black balls in an urn, what is the probability of drawing a black ball? Or the converse: given that one or more balls has been drawn, what can be said about the number of white and black balls in the urn? These are sometimes called "inverse probability" problems.
+
+Bayes' "Essay" contains his solution to a similar problem posed by Abraham de Moivre, author of The Doctrine of Chances (1718).
+
+In addition, a paper by Bayes on asymptotic series was published posthumously.
+
+==Bayes and Bayesianism==
+
+Bayesian probability is the name given to several related interpretations of probability, which have in common the notion of probability as something like a partial belief, rather than a frequency. This allows the application of probability to all sorts of propositions rather than just ones that come with a reference class. "Bayesian" has been used in this sense since about 1950. Since its rebirth in the 1950s, advancements in computing technology have allowed scientists from many disciplines to pair traditional Bayesian statistics with random walk techniques. The use of the Bayes theorem has been extended in science and in other fields. Paulos, John Allen. "The Mathematics of Changing Your Mind," New York Times (US). August 5, 2011; retrieved 2011-08-06 
+
+Bayes himself might not have embraced the broad interpretation now called Bayesian. It is difficult to assess Bayes's philosophical views on probability, since his essay does not go into questions of interpretation. There Bayes defines probability as follows (Definition 5).
+
+:The probability of any event is the ratio between the value at which an expectation depending on the happening of the event ought to be computed, and the value of the thing expected upon its happening
+
+In modern utility theory, expected utility can (with qualifications, because buying risk for small amounts or buying security for big amounts also happen) be taken as the probability of an event times the payoff received in case of that event. Rearranging that to solve for the probability, Bayes's definition results. As Stigler points out, this is a subjective definition, and does not require repeated events; however, it does require that the event in question be observable, for otherwise it could never be said to have "happened". Stigler argues that Bayes intended his results in a more limited way than modern Bayesians. Given Bayes's definition of probability, his result concerning the parameter of a binomial distribution makes sense only to the extent that one can bet on its observable consequences.
+
+==See also==
+
+* List of things named after Thomas Bayes
+* Bayesian inference
+* Royal Society – Bayes was elected to membership in the Society in 1742; and his nomination letter has been posted with other membership records at the Royal Society website here. Those signing that nomination letter were: Philip Stanhope; Martin Folkes; James Burrow; Cromwell Mortimer; John Eames.
+
+==Notes==
+
+ Bayes's tombstone says he died at 59 years of age on 7 April 1761, so he was born in either 1701 or 1702. Some sources erroneously write the death date as 17 April, but these sources all seem to stem from a clerical error duplicated; no evidence argues in favour of a 17 April death date. The birth date is unknown likely due to the fact he was baptized in a Dissenting church, which either did not keep or was unable to preserve its baptismal records; accord Royal Society Library and Archive catalog, Thomas Bayes (1701–1761) 
+
+==References==
+
+* Thomas Bayes, "An essay towards solving a Problem in the Doctrine of Chances." Bayes's essay in the original notation.
+* Thomas Bayes, 1763, "An essay towards solving a Problem in the Doctrine of Chances." Bayes's essay as published in the Philosophical Transactions of the Royal Society of London, Vol. 53, p. 370, on Google Books.
+* Thomas Bayes, 1763, "A letter to John Canton," Phil. Trans. Royal Society London 53: 269–71.
+* D. R. Bellhouse, .
+* D. R. Bellhouse, 2004, "The Reverend Thomas Bayes, FRS: A Biography to Celebrate the Tercentenary of His Birth," Statistical Science 19 (1): 3–43.
+* Dale, Andrew I. (2003.) "Most Honourable Remembrance: The Life and Work of Thomas Bayes". ISBN 0-387-00499-8. Springer, 2003.
+* ____________. "An essay towards solving a problem in the doctrine of chances" in Grattan-Guinness, I., ed., Landmark Writings in Western Mathematics. Elsevier: 199–207. (2005).
+* Michael Kanellos. "18th-century theory is new force in computing" CNET News, 18 Feb 2003.
+* McGrayne, Sharon Bertsch. (2011). The Theory That Would Not Die: How Bayes's Rule Cracked The Enigma Code, Hunted Down Russian Submarines, & Emerged Triumphant from Two Centuries of Controversy. New Haven: Yale University Press. 13-ISBN 9780300169690/10-ISBN 0300169698; OCLC 670481486
+* Stigler, Stephen M. "Thomas Bayes's Bayesian Inference," Journal of the Royal Statistical Society, Series A, 145:250–258, 1982.
+* ____________. "Who Discovered Bayes's Theorem?" The American Statistician, 37(4):290–296, 1983.
+
+==External links==
+* Biographical sketch of Thomas Bayes
+* An Intuitive Explanation of Bayesian Reasoning (includes biography)
+* The will of Thomas Bayes 1761
+* Discussion of the veracity of Bayes's portrait and other personal details
+
+

@@ -1,0 +1,158 @@
+[[Symphony No. 1 (Mahler)]]
+
+The Symphony No. 1 in D major by Gustav Mahler was mainly composed between late 1887 and March 1888, though it incorporates music Mahler had composed for previous works. It was composed while Mahler was second conductor at the Leipzig Opera, Germany. Although in his letters Mahler almost always referred to the work as a symphony, the first two performances described it as a symphonic poem or tone poem. The work was premièred at the Vigadó Concert Hall, Budapest in 1889, but was not well received. Mahler made some major revisions for the second performance, given at Hamburg in October 1893; further alterations were made in the years prior to the first publication, in late 1898. Some modern performances and recordings give the work the title Titan, despite the fact that Mahler only used this label for two early performances, and never after the work had reached its definitive four-movement form in 1896.
+
+== Instrumentation ==
+The symphony is scored for a large orchestra consisting of approximately 100 musicians. Unlike his later symphonies, Mahler does not use the entire forces in every movement. Several instruments are used in the last movement only, especially in the woodwinds and brass.
+
+*woodwinds: 4 flutes (flutes 3 & 4 doubling piccolos) (flute 2 doubling piccolo in movements 1 & 4 briefly) (flute 4 tacet in movements 1, 2), 4 oboes (oboe 3 doubling English horn) (oboe 4 tacet movements 1–3), 3 clarinets in B-flat, C, A (clarinet 3 doubling bass clarinet in B-flat and clarinet in E-flat), clarinet in E-flat (doubling clarinet 4 in B-flat in movement 3 briefly, "doubled at least" in movement 4) (clarinet 4 tacet in movement 2), 3 bassoons (bassoon 3 doubling contrabassoon)
+*brass: 7 horns (reinforced by an extra trumpet and trombone in the last movement), Originally, Mahler instructed that several "reinforcement" horns join the horn section for the last 76 bars of the last movement. However, in his final revision of the score, this was changed to a fifth trumpet and a fourth trombone. He also instructs all of the horns to stand up to get the largest possible sound out of the instruments. 4 trumpets in F (trumpets 1, 2 "from a wide distance" in movement 1) (trumpet 1 doubled in fortissimo passages in movement 4), Trumpet 3 doubles trumpet in B-flat "in the distance", offstage, for a brief passage in the beginning of the first movement. 4 trombones (4th trombone tacet movements 1–3), tuba
+*percussion: timpani, 2 timpanists, using a total of 5 drums: For movements 1 through 3, there is one timpanist with 29&Prime; and 26&Prime; drums, occasionally muffled. In the last movement, the first timpanist plays these same drums, while the second timpanist utilizes three drums (29&Prime;, 26&Prime; and 23&Prime;). cymbals, triangle, tam-tam, bass drum (with a cymbal attached to be struck by the same player in movement 3)
+*strings: harp (tacet in movement 2), violin i, violin ii, violas, violoncellos, double basses
+ 
+
+== Structure ==
+In its final form, the symphony has four movements:
+
+# (Slowly, dragging) (very restrained throughout) D major
+# (Moving strongly, but not too quickly), (restrained), a Trio—a Ländler
+# (Solemnly and measured, without dragging), (very simple, like a folk-tune), and (somewhat stronger, as at the start)—a funeral march based on the children's song "Frère Jacques" (or "")
+# (Stormily agitated – Energetic)
+
+The movements are arranged in a fairly typical four-movement setup. Normally, the Minuet–Trio is the third movement and the slow movement the second, but Mahler has them switched, which was also sometimes done by Beethoven. The keys are D major for the first movement, A major for the second, D minor for the third, and F minor for the last, with a grand finale at the end in D major. The usage of F minor for the last movement was a dramatic break from conventional usage.
+
+For the first three performances (Budapest, Hamburg and Weimar), there was an additional movement, (flower piece), between the first and second movements of the piece as it now stands. This movement was originally written in June 1884 as the opening number – "" – in Mahler's incidental music for a series of seven tableaux vivants based on Joseph Victor von Scheffel's poem Der Trompeter von Säckingen, which, Blumine aside, has since been lost. The addition of this movement appears to have been an afterthought, and Mahler discarded it after the Weimar performance in 1894, and it was not discovered again until 1966 when Donald Mitchell unearthed it. The following year, Benjamin Britten conducted the first performance of it since Mahler's time at the Aldeburgh Festival. The symphony is almost never played with this movement included today, although it is sometimes heard separately. In the 1970s, Eugene Ormandy and the Philadelphia Orchestra made the first recording of the symphony by a major orchestra to include Blumine. Currently some 20 recordings exist that include Blumine; however, most of them combine it with the revised edition of the other movements, thus making a "blended" version of the symphony that was at no time authorised by Mahler.
+
+Nevertheless, Mahler quotes the main theme from the Blumine movement in the final movement, as well as other themes from the other movements, so it is more in keeping with Beethoven's own practice in his ninth symphony of quoting themes from the first, second, and third movements early in the final movement. (Beethoven gives the impression of rejecting the earlier themes, after he quotes them, and then introduces the famous "Ode to Joy" theme.) Interestingly, the five-movement version generally runs around an hour, just as Mahler's later symphonies (except for the fourth symphony) are an hour or longer in length. Mahler actually followed a precedent, established by Beethoven in his ninth symphony and by Anton Bruckner in many of his symphonies, of lengthier, more detailed development of the themes, usually resulting in a performance time of an hour or more.
+
+Under this early five-movement scheme, the work was envisioned by Mahler as a large symphonic poem in two parts, and he wrote a programme to describe the piece, but without adding any further title for the 1889 Budapest premiere. The first part consisted of the first two movements of the symphony as it is now known plus Blumine, and the second consisting of the funeral-march and finale. For the 1893 Hamburg and 1894 Weimar performances, Mahler gave the piece the title Titan after the novel by Jean Paul, although Mahler specified that the piece was not in any way "about" the book; the nickname is often used today, but properly only applies to those two versions and should not be used in connection with the definitive final version.
+
+The work includes two themes from Mahler's song cycle Lieder eines fahrenden Gesellen (1883–1885), and the available evidence also seems to indicate that Mahler recycled music from his abandoned opera project Rübezahl.
+
+The opening of the third movement features a double bass soloist performing a variation on the theme of "Frère Jacques", distinguishing it as one of the few symphonic pieces to use the instrument in such a manner. Mahler uses the song, which he cites as "Bruder Martin", Natalie Bauer-Lechner: Erinnerungen an Gustav Mahler. Ed. by Herbert Killian. Hamburg 1984, p. 174 changed from major to minor, thus giving the piece the character of a funeral march. The mode change to minor is not an invention by Mahler, as is often believed, but rather the way this round was sung in the 19th and early 20th century in Austria. Reinhold Schmid: 50 Kanons. Vienna, n.d. 1950 (Philharmonia pocket scores No. 86) Ute Jung-Kaiser: "Die wahren Bilder und Chiffren 'tragischer Ironie' in Mahlers 'Erster'." In: Günther Weiß (ed.): Neue Mahleriana: Essays in Honour of Henry-Louis de La Grange on his Seventieth Birthday. Lang, Berne etc. 1997, ISBN 3-906756-95-5. pp. 101–152 
+
+== Versions ==
+There are several manuscripts that document the revisions to which Mahler subjected the work:
+# 1888, Leipzig – The original autograph score, in Mahler's handwriting (location unknown, may no longer exist)
+# 1889, Budapest – The base layer in a copyist's handwriting is probably identical to the original autograph score. Over this, there are many revisions in Mahler's hand, and some whole sections deleted with new replacements added, in preparation for the 1889 Budapest premiere on 20 November. Bound into two volumes, vol. 1 containing the 1st movement and Scherzo, vol. 2 containing the last movement; the Blumine and funeral march movements are missing—in fact, conflicting numbering of the Scherzo, and the smaller size of the paper on which Blumine is written, seems to indicate that the Blumine was not originally part of Mahler's conception, and that it was lifted whole from the 1884 score at some point between the symphony's completion in early 1888 and the Budapest premiere in late 1889. The entire symphony is scored for the standard symphonic orchestra of the time, with 2 each of all the woodwinds and 4 horns. In this version the piece was called "Symphonic-Poem in 2 Parts". (University of Western Ontario, Rose collection)
+# 1893, Hamburg – The base layer in Mahler's hand corresponds to the final version of the Budapest manuscript, and probably was the manuscript sent by Mahler to Schott as a (engraver's copy) in 1891 in hopes of publication, and for the first time given a title: (From the Life of a Lonely-one). Over this base layer, there are many revisions and new sections (including to Blumine) added in 1893, in preparation for the second performance, in Hamburg on 27 October. Contains all 5 movements; the funeral march was apparently lifted whole out of the 1889 manuscript. Orchestra has 3 each of the woodwinds. Just before the Hamburg performance, Mahler added the titles from Titan. (Yale University, Osborn collection)
+# 1894?, Hamburg – The base layer in a copyist's handwriting corresponds to the final version of the 1893 manuscript, with further revisions by Mahler. Probably prepared for the third performance, in Weimar on 3 June. Pages containing the Blumine have been folded over, indicating deletion. Orchestra has 4 each of the woodwinds, and 3 additional horns. Still includes the titles from Titan. (New York Public Library, Bruno Walter collection)
+# 1896?, Hamburg – The base layer in a copyist's handwriting, with revisions by Mahler. Probably prepared for 4th performance, in Berlin on 16 March. Contains 4 movements (Blumine not included). Known from this point on as "Symphony No. 1". (Sold at auction by Sotheby's in 1984, presently inaccessible).
+# 1898?, Vienna – In a copyist's handwriting, based on the final version of the 1894? manuscript, this is the copy, used as a basis for the first score published by Weinberger in February 1899. Probably prepared for the 5th performance, in Prague.
+
+An arrangement by Bruno Walter for piano four hands (two players at one piano) was published in 1906.
+
+==Musical structure==
+Mahler's symphony as ultimately published exists in the traditional four-movement form. The first movement is in modified sonata form. The second is a scherzo and trio based on a Ländler, a traditional Austrian waltz. The third is a slower funeral march, and the fourth serves as an expansive finale. Initially, there existed an additional 2nd movement, entitled Blumine but it was removed by Mahler for the final publication in 1899.
+
+In the first performances, the following program notes were attributed to the symphony: Paul Stefan, Gustav Mahler, fourth edition, Munich, 1912, pp. 107ff 
+
+Part I: From the days of youth, "youth, fruit, and thorn pieces".
+#Spring and no end. This introduction describes the awakening of nature at the earliest dawn.
+#Flowerine Chapter (Andante).
+#Set with full sails (Scherzo).
+Part II: 
+#Stranded. A funeral march in the manner of Callot.
+#Dall'inferno al Paradiso, as the sudden expression of a deeply wounded heart.
+
+These programmatic notes were dropped starting with the 1896 performance in Berlin, because Mahler did not want that the audience would be misled by such notes and their inherent ambiguities. Hans Redlich, Symphony No. 1 D major, Edition Eulenburg, No. 570 
+
+===Movement 1===
+
+The first movement is in modified sonata form, with a substantially slow introduction. The introduction begins eerily with a seven-octave drone in the strings on A, with the upper octaves being played on harmonics in the violins. A descending two-note motif is then presented by the woodwinds, and eventually establishes itself into the following repeated pattern:
+
+400px
+This opening, in its minimalist nature and repeated descending motif, alludes to the first movement of Ludwig van Beethoven's Symphony no. 9 in D minor.
+This theme is then interrupted by a fanfare-like material first presented in the clarinets, and later by offstage trumpets, indicated in the score as "" (At a very far distance). A slow melody is also played by the horns, and the descending two-note motif is sped up in the clarinet, imitating the sound of a cuckoo. This opening is very true to Mahler's style, putting the emphasis on the winds, and not more traditionally on the strings.
+
+The mood then lightens to mark the beginning of the exposition, and the descending fourth motif becomes the beginning of the main theme. This melodic material is recycled from the second of Mahler's Lieder eines fahrenden Gesellen, entitled "".
+
+400px
+The melody is first presented in the cellos, and passed throughout the orchestra. This melody builds in dynamic, and is eventually played by the entire brass section. A development ensues, bringing back material from the introduction, including the drone on A, the cuckoo calls in the clarinet, and the original motif. The recapitulation is marked by a new French horn fanfare, and the energy is gradually built up as before. Ultimately, the two-note motive takes over the final measures, bringing the movement to a fiery and humorous close.
+
+===Movement 2===
+
+The second movement is a modified minuet and trio. Mahler replaces the minuet with a Ländler, a 3/4 dance-form that was a precursor to the Austrian waltz. This is a popular structure in Mahler's other symphonies, as well as Franz Schubert's. One main theme repeats throughout the Ländler, and it gathers energy towards a hectic finish. The main melody outlines an A major chord:
+
+400px
+The trio contains contrasting lyrical material; however, as it comes to a close, Mahler alludes again to the Ländler by interjecting brief rising material from the first section. Finally, the Ländler makes a formal return, shortened and orchestrated more heavily to close the movement.
+
+===Movement 3===
+
+The third movement acts as the slow movement in the four-movement plan. The extra-musical idea behind it is that of a hunter's funeral and a procession of animals that follows.
+
+The Hunter's Funeral. This woodcut by Moritz von Schwind (1850) was possibly the inspiration for this 3rd movement of Mahler's Symphony No. 1.
+
+The initial and recurring melodic material is based on the popular round "Bruder Martin" more commonly known as "Frère Jacques"; however, Mahler places the melody in a minor mode.
+
+400px
+
+The subject is first presented by a solo double bass, followed by bassoon, tuba and, eventually, the entire orchestra. A counter-melody is played over top of the canon in the oboe.
+
+The mood changes, and one of the most distinctive portions of this symphony follows. Mahler uses cymbal, bass drum, oboes, clarinets and a trumpet duo to produce the sound of a small klezmer band; Mahler's use of klezmer is sometimes accredited to his Jewish roots. David Hurwitz, The Mahler Symphonies: An Owner's Manual (Pompton Plains: Amadeus Press, 2004), 4–8. 
+
+After a brief return to the opening round, a third, more contemplative section ensues, featuring material from the fourth of Mahler's Lieder eines fahrenden Gesellen, "". Finally, Mahler incorporates all three thematic elements on top of each other. However, the components and motifs gradually fall apart, and the movement ends with simple alternating fourths in the lower strings, notably the key motif from the first movement.
+
+===Movement 4===
+
+The fourth movement is by far the most involved, and expansive. It brings back several elements from the first movement, unifying the symphony as a whole. The movement begins with an abrupt cymbal crash, a loud chord in the upper woodwinds, string and brass, and a bass drum hit, all in succession. This contrasts greatly with the end of the third movement. The first portion displays fragments of a theme in F minor, presented forcefully in the brass, before being played in entirety by the majority of winds:
+
+400px
+The movement continues frantically until an expansive lyrical theme is presented in the strings. Eventually, the opening fragments in the brass emerge, and the energy picks up once more. Mahler then presents the initial motive, in the brass, this time in D major, and the horns play a full-forced altered version of the descending fourth pattern from the beginning of the symphony, as if heading to a climax. However, this climax is not realized, and the momentum sinks to another lyrical section, bringing back other quotes from the first movement, including fanfares, and "Ging heut Morgen übers Feld" (see Lieder section). Also included is material from the original second movement Blumine, before the above theme returns in minor one last time in the strings, leading to its repetition in D major by the brass and reaching a true climax. The symphony concludes with fanfare material from the beginning.
+
+==Lied in the symphony==
+
+One of the most important marks that Mahler left on the symphony as a genre is the incorporation of another important genre of the 19th century; the German lied. In his first symphony, Mahler borrowed material from his song cycle Lieder eines fahrenden Gesellen, thus innovating the symphonic form and potentially answering questions about programmatic and personal elements in the music.
+
+Although some of Mahler symphonic predecessors experimented with lyricism in the symphony, Mahler's approach was much more farreaching. Through the use of the second lied of his Lieder eines fahrenden Gesellen cycle, "", we can see how the composer manipulates the song's form to accommodate the symphonic form. Within the symphonic movement, the "" melody is a bright exposition in contrast with the slower and darker introduction. Although the song plays a similar role in the song cycle, being surrounded by darker-themed songs, Mahler changes the order of the strophes as originally found in the song. Of the three verses, the more relaxed third verse is used at the beginning of the exposition, whereas the more chromatic and rhythmically active first and second verses are found in the closing section, helping build the energy to the end of the exposition. Raymond Knapp, Symphonic Metamorphoses. (Middletown, CT: Wesleyan University Press, 2003), 154–5, 179–180, 191–2. The entire section on lieder is based on this source. 
+
+In the third movement of the symphony, the quotation of the lied "" demonstrates the subtlety with which Mahler combined the two genres. Within this funeral march, we can see the composer's union of form and meaning, and also elements of a programme. In the last verse of the song cycle, the speaker acknowledges the painlessness of death, saying, "the linden tree I knew not how life fared, all was good again!" This melody is employed as a countermelody to the "Frère Jacques" theme in the minor mode, but the counterpoint that Mahler uses is unconventional, and the two melodies are never properly consolidated. This unresolved counterpoint has been interpreted as a conflict between the "Frère Jacques" theme's Catholic implications and the, Jewish klezmer qualities of the "" theme, thus alluding to a social conflict of which Mahler was very aware.
+
+The subtlety and implications of Mahler's incorporation of the song into the funeral march bring us to the issue of programme. The composer's ideas about programmatic content are not concrete. The matter of subjectivity comes up when discussing what meanings Mahler intended the lieder to bring to the orchestral work. Looking at the programmes that he provided, one can see many connections between the song cycle and the symphony's programmatic elements, but then it must also be taken into consideration that Mahler later removed the programmes. Among this uncertainty though, it is clear that some narrative elements that are associated with the poet and composer of a lied were transferred from the song cycle to the symphony. The lack of words, makes it much more difficult for the composer to be subjective in the symphony, so a more universal message must be found. The composer's comments about the "world" that a symphony creates seems to reinforce this idea.
+
+==Blumine==
+
+Blumine is the title of the rejected Andante second movement of Mahler's First Symphony. It was first named Blumine in 1893. However it was not discarded until after the first three performances, where it remained the second movement. After the 1894 performance (where it was called ), the piece received harsh criticism, especially regarding the second movement. Jeffrey Gantz. "Missing Movement? The provenance of Blumine in Mahler's First Symphony", Colorado MahlerFest Archives. http://www.mahlerfest.org/mfXIX/blumine_notes.pdf (accessed 16 March 2010). In the Berlin premiere in 1896, Blumine was cut out, along with the title Titan and the programme of the symphony. Shortly after this, the symphony was published without the Blumine movement and in the previous versions of the symphony it was gone.
+
+Blumine originates from some incidental music Mahler wrote for Joseph Victor von Scheffel's dramatic poem . The trumpet serenade was used for Blumine with little changes. It was originally scored for a small orchestra and this is how it appears in Blumine, which is in contrast to the large orchestra used in the rest of the symphony. The movement is a short lyrical piece with a gentle trumpet solo, similar to the posthorn solos in the Third Symphony. Even though it was cut from the symphony, there are still traces of its influence in the rest of the movements.
+
+Blumine translates to "floral", or "flower", and some believe this movement was written for Johanna Richter, with whom Mahler was infatuated at the time. The style of this movement has much in common with Mahler's earlier works but also shows the techniques and distinct style of his later compositions.
+
+Blumine was rediscovered by Donald Mitchell in 1966, while doing research for his biography on Mahler in the Osborn Collection at Yale University, in a copy of the Hamburg version of the symphony. Apparently, Mahler had given it to a woman he tutored at the Vienna Conservatory. It was passed on to her son, who then sold it to James Osborn, who then donated it to Yale University.
+
+Benjamin Britten gave the first rediscovered performance of the Hamburg version in 1967, after it had been lost for over seventy years. After this discovery, other people performed this movement, some even simply inserting the Blumine into the 1906 version. However, many people did not agree about playing this music as part of the symphony. Mahler had rejected it from his symphony, they reasoned, so it should not be played as part of it. Famous Mahler conductors such as Leonard Bernstein, Georg Solti and Bernard Haitink never performed it. Others perform Blumine before or after the symphony, while still others performed it on its own or alongside Mahler's other works.
+
+== Premieres ==
+* 1889 – 20 November, World premiere: Budapest, Budapest Philharmonic Orchestra conducted by the composer.
+* 1893 – 27 October, German premieres: Hamburg, conducted by the composer.
+* 1894 – 3 June, Weimar, conducted by the composer.
+* 1896 – 16 March, Berlin, conducted by the composer.
+* 1899 – 8 March, Frankfurt, conducted by the composer.
+* 1898 – 3 March, Czech premiere: Prague, conducted by the composer.
+* 1900 – 18 November, Austrian premiere: Vienna, conducted by the composer.
+* 1903 – 21 October, English premiere: London as part of a Proms concert, conducted by Henry Wood.
+* 1903 – 25 October, Dutch premiere: Amsterdam, with the composer conducting the Concertgebouw Orchestra.
+* 1909 – 16 December, American premiere: New York City, conducted by the composer.
+
+==Publication==
+* 1899 February, Vienna, Josef Weinberger
+* 1906 May, Vienna, Universal Edition
+* 1967 Vienna, Universal Edition (critical edition)
+
+==References==
+
+==Further reading==
+* David Hurwitz, The Mahler Symphonies: An Owner's Manual (includes 1 CD), Amadeus Press (2004), ISBN 1-57467-099-9
+
+==External links==
+
+* 
+* The Music of Mahler: A catalogue of manuscript and printed sources The entry for the First Symphony outlines the work's history, provides a list of performances up to 1911, a discography of early recordings, and detailed descriptions of the surviving manuscript and printed sources.
+* Discography (French only)
+*Media:
+**1st movement (extract), 4th movement (extract). London Symphony Orchestra, Valery Gergiev (conductor). Recorded 13 January 2008, Barbican, London.
+**Discovering Music, BBC Radio 3.
+
+Symphony No. 01 (Mahler)
+
+

@@ -1,0 +1,119 @@
+[[War Requiem]]
+
+The War Requiem, Op. 66, is a large-scale, non-liturgical setting of the Requiem Mass composed by Benjamin Britten mostly in 1961 and completed in January 1962. Philip Reed "The War Requiem in Progress" in Britten: War Requiem by Mervyn Cooke (1996) The War Requiem was performed for the consecration of the new Coventry Cathedral, which was built after the original fourteenth-century structure was destroyed in a World War II bombing raid. The traditional Latin texts are interspersed, in telling juxtaposition, with settings of poems by Wilfred Owen, written in World War I. The work is scored for soprano, tenor and baritone soloists, chorus, boys' choir, organ, and two orchestras (a full orchestra and a chamber orchestra). The chamber orchestra accompanies the intimate settings of the English poetry, while soprano, choirs and orchestra are used for the Latin sections; all forces are combined in the conclusion. The Requiem has a duration of approximately 85 minutes.
+
+==Composition==
+The War Requiem, first performed on 30 May 1962, was commissioned to mark the consecration of the new Coventry Cathedral, which was built after the original fourteenth-century structure was destroyed in a World War II bombing raid. The reconsecration was an occasion for an arts festival, for which Michael Tippett also wrote his opera King Priam. 
+
+Britten, a pacifist, was inspired by the commission, which gave him complete freedom in deciding what to compose. He chose to set the traditional Latin Mass for the Dead interwoven with nine poems about war by the English poet Wilfred Owen. Owen, who was born in 1893, was serving as the commander of a rifle company when he was killed in action on 4 November 1918 during the crossing of the Sambre-Oise Canal in France, just one week before the Armistice. Although he was virtually unknown at the time of his death, he has subsequently come to be revered as one of the great war poets.
+
+Philip Reed has discussed the progression of Britten's composition of the War Requiem in the Cambridge Music Handbook publication on the work. Britten himself acknowledged the stylistic influence of Requiems by other composers, such as Giuseppe Verdi's, on his own composition. 
+
+Britten dedicated the work to Roger Burney, Piers Dunkerley, David Gill, and Michael Halliday. Burney and Halliday, who died in the war, were friends of Peter Pears and Britten, respectively. According to the Britten-Pears Foundation website, Dunkerley, "one of Britten's closest friends, took part in the 1944 Normandy landings. Unlike the other dedicatees, he survived the war but committed suicide in June 1959, two months before his wedding." None of the other dedicatees have known graves, but are commemorated on memorials to the missing. "Featured work: War Requiem, op.66" Britten-Pears Foundation Web site. Retrieved 19 June 2009. Further details of the war service of Burney, Gill and Halliday are available on the Commonwealth War Graves Commission website. 
+
+==Orchestration==
+The musical forces are divided into three groups that alternate and interact with each other throughout the piece, finally fully combining at the end of the last movement. The soprano soloist and choir are accompanied by the full orchestra, the baritone and tenor soloists are accompanied by the chamber orchestra, and the boys' choir is accompanied by a small positive organ (this last group ideally being situated at some distance from the full orchestra). This group produces a very strange, distant sound. The soprano and choir and the boys' choir sing the traditional Latin Requiem text, while the tenor and baritone sing poems by Wilfred Owen, interspersed throughout.
+
+The full orchestra consists of three flutes (third doubling piccolo), three oboes, English horn, three clarinets (third doubling E-flat clarinet and bass clarinet), two bassoons and contrabassoon, six horns, four trumpets in C, three trombones, tuba, timpani, percussion (four players: two antique cymbals (C & F#), glockenspiel, gong, bells (C & F#), vibraphone, cymbals, triangle, castanets, Chinese blocks, whip, bass drum, two side drums, tambourine, and tenor drum), piano, portable organ or harmonium (a grand organ is called for only in the Libera Me, the last movement), and strings.
+
+The chamber orchestra consists of flute (doubling piccolo), oboe (doubling English horn), clarinet (in B flat and A), bassoon, horn, percussion (timpani, gong, cymbals, bass drum, and side drum), harp, two violins, viola, violoncello, double bass.
+
+==Movements and structure==
+The work consists of six movements:
+
+* Requiem aeternam (10 minutes)
+** Requiem aeternam (chorus and boys' choir)
+** "What passing bells" (tenor solo) – Owen's "Anthem for Doomed Youth"
+* Dies irae (27 minutes)
+** Dies irae (chorus)
+** "Bugles sang" (baritone solo) – Owen's "But I was Looking at the Permanent Stars"
+** Liber scriptus (soprano solo and semi-chorus)
+** "Out there, we walked quite friendly up to death" (tenor and baritone soli) – Owen's "The Next War"
+** Recordare (women's chorus)
+** Confutatis (men's chorus)
+** "Be slowly lifted up" (baritone solo) – Owen's "Sonnet On Seeing a Piece of our Heavy Artillery Brought into Action"
+** Reprise of Dies irae (chorus)
+** Lacrimosa (soprano and chorus) interspersed with "Move him, move him" (tenor solo) Owen's "Futility"
+* Offertorium (10 minutes)
+** Domine Jesu Christe (boys' choir)
+** Quam olim Abrahae (chorus)
+** Isaac and Abram (tenor and baritone soli) – Owen's "The Parable of the Old Man and the Young"
+** Hostias et preces tibi (boys' choir)
+** Reprise of Quam olim Abrahae (chorus)
+* Sanctus (10 minutes)
+** Sanctus and Benedictus (soprano solo and chorus)
+** "After the blast of lightning" (baritone solo) – Owen's "The End"
+* Agnus Dei (4 minutes)
+** Agnus Dei (chorus) interspersed with "One ever hangs" (chorus; tenor solo) – Owen's "At a Calvary near the Ancre"
+* Libera me (23 minutes)
+** Libera me (soprano solo and chorus)
+** Strange Meeting ("It seemed that out of battle I escaped") (tenor and baritone soli) – Owen's "Strange Meeting"
+** In paradisum (All)
+** Conclusion – Requiem Aeternam and Requiescant in Pace (Organ, Boys' choir and Mixed Chorus)
+
+==Musical analysis==
+The interval of a tritone between C and F♯ is a recurring motif, the occurrence of which unifies the entire work. The interval is used both in contexts that emphasise the harmonic distance between C and F♯ and those that resolve them harmonically, mirroring the theme of conflict and reconciliation present throughout the work. Arnold Whittall, The Music of Britten and Tippett, Cambridge University Press, 1982 (ISBN 0-521-38501-6). The Requiem aeternam, Dies irae, and Libera me movements end in a brief choral phrase, consisting mainly of slow half notes, that resolves the tritone's discord to an F major chord, while at the end of the Agnus Dei the tenor (in his only transition from the Owen poems to the Requiem liturgy, on the key words, Dona nobis pacem – Give us peace) outlines a perfect fifth from C to G before moving down to F♯ to resolve the chorus's final chord. At the end of the Dies irae, the tenor sings (from Owen's "Futility") "O what, what made fatuous sunbeams toil, to break earth's sleep at all?" The notes of "at all" form the tritone and lead into the choir's formal resolution. In the final Owen setting, "Strange Meeting", one of the most prominent expressions of the tritone is sung by the tenor, addressing an opposing soldier with the words "Strange friend". This poem is accompanied by sporadic detached chords from two violins and a viola, which include the tritone as part of a dominant 7th chord. At the end of the poem, the final string chord resolves to the tonic, bringing the work to its final, reconciliatory In paradisum. On a more practical level, Britten facilitated musical execution of the tritone in the closing bars by having the F# sung in one voice, but the C in another. 
+
+Four other motifs that usually occur together are distinct brass fanfares of the Dies irae: a rising arpeggio, a falling arpeggio followed by a repeated note, a repeated fourth in a dotted rhythm ending in a diminished arpeggio, and a descending scale. These motifs form a substantial part of the melodic material of the piece: the setting of "Bugles sang" is composed almost entirely of variations of them.
+
+Another linking feature can be found in the opening of the final movement, Libera Me, where the slow march tune in the double basses (preceded by two drums outlining the rhythm) replicates the more-rapid opening theme of the first poem, Anthem for Doomed Youth.
+
+One striking juxtaposition is found in the Offertorium, a fugue in the repeating three-part-time scheme 6/8, 9/8, 6/8 where the choir sings of God's promise to Abraham ("Quam olim Abrahae promisisti, et semini eius" – "which you once promised Abraham and his seed"). This frames Owen's retelling of the offering of Isaac, in which the angel tells Abraham to:
+
+As the male soloists sing the last line repeatedly, the boys sing "Hostias et preces tibi, Domine" ("Sacrifice and prayers we offer thee, Lord"), paralleling the sacrifice of the Mass with the sacrifice of "half the seed of Europe" (a reference to World War I). The "reprise" of "Quam olim Abrahae" is sung in inversion, diminuendo instead of crescendo.
+
+The whole of the Offertorium is a reference to Britten's earlier Canticle No. 2 "Abraham and Isaac" from 1952. Britten here uses much of the musical material of the earlier work, but the music in the Requiem is twisted into much more sinister forms.
+
+Although there are a few occasions in which members of one orchestra join the other, the full forces do not join together until the latter part of the last movement, when the tenor and baritone sing the final line of Owen's poem "Strange Meeting" ("Let us sleep now ...") as "In Paradisum deducant" ("Into Paradise lead them ...") is sung first by the boys' choir, then by the full choir (in 8-part canon), and finally by the soprano. The boys' choir echoes the Requiem aeternam from the beginning of the work, and the full choir ends on the resolved tritone motif.
+
+==Premiere and performances==
+For the opening performance, it was intended that the soloists should be Galina Vishnevskaya (a Russian), Peter Pears (an Englishman) and Dietrich Fischer-Dieskau (a German), to demonstrate a spirit of unity. Close to the premiere, the Soviet authorities did not permit Vishnevskaya to travel to Coventry for the event, although she was later permitted to leave to make the recording in London. With only ten days' notice, Heather Harper stepped in and performed the soprano role.
+
+The premiere took place on 30 May 1962, in the rebuilt cathedral with the City of Birmingham Symphony Orchestra, conducted by Meredith Davies (accompanying soprano and chorus), and the Melos Ensemble, conducted by the composer (accompanying tenor and baritone). Britten-Pears Foundation first performance At Britten's request, there was no applause following the performance. See souvenir programme of the 1962 Coventry Cathedral Festival and Michael Foster: "The Idea Was Good – the story of Britten's War Requiem" pub. Coventry Cathedral Books 2012 It was a triumph, and critics and audiences at this and subsequent performances in London and abroad hailed it as a contemporary masterpiece. See Peter Evans "Britten since the War Requiem" in Listener, 28 May 1964: cited in Cooke, p.79 (1996) Writing to his sister after the premiere, Britten said of his music, "I hope it'll make people think a bit." On the title page of the score he quoted Wilfred Owen:
+
+My subject is War, and the pity of War.
+The Poetry is in the pity ...
+All a poet can do today is warn.
+
+Because of time zones, the southern hemisphere premiere was about 12 hours ahead of that in North America, though they were on the same day, 27 July 1963. The southern hemisphere premiere was in Wellington, New Zealand, with John Hopkins conducting the New Zealand National Orchestra (now the New Zealand Symphony Orchestra) and the Royal Christchurch Musical Society, with soloists Peter Baillie, Graeme Gorton and Angela Shaw. The North American premiere was at Tanglewood, with Erich Leinsdorf conducting the Boston Symphony Orchestra with soloists Phyllis Curtin, Nicholas Di Virgilio, Tom Krause and choruses from Chorus Pro Musica and the Columbus Boychoir, featuring boy soprano Thomas Friedman. 
+
+The Dutch premiere took place during the Holland Festival, in 1964. The Amsterdam Concertgebouw Orchestra and the Netherlands Radio Choir were conducted by Bernard Haitink; the chamber orchestra (consisting of Concertgebouw Orchestra instrumentalists) by Britten himself. The soloists were Vishnevskaya, Fischer-Dieskau and Pears, in their first public performance together.
+
+The English Chamber Choir performed the work at Your Country Needs You, an evening of "voices in opposition to war" organised by The Crass Collective in November 2002.
+
+To commemorate the eve of the 70th anniversary of the destruction of the original cathedral, a performance of the Requiem took place in the new cathedral on 17 November 2010, featuring the soprano Claire Rutter, the tenor Daniel Norman, baritone Stephen Gadd, The Parliament Choir, Saint Michael's singers, Deutscher Chor London, the ESO Chamber Orchestra, The Southbank Sinfonia and The Girl Choristers of Coventry Cathedral. It was conducted by Simon Over and Paul Leddington Wright. A recording was made and broadcast a day later on Classic FM.
+
+A 50th anniversary performance was given by the City of Birmingham Symphony Orchestra conducted by Andris Nelsons at Coventry Cathedral on 30 May 2012. 
+
+==Recordings==
+
+The first recording, featuring Vishnevskaya, Fischer-Dieskau and Pears, with the London Symphony Orchestra conducted by Britten, was produced in 1963. Within five months of its release it sold 200,000 copies, an unheard-of number for a piece of contemporary classical music at that time. Carpenter, Humphrey. Benjamin Britten: A Biography. London: Faber and Faber, 1992: p411. Recording producer John Culshaw reports that Vishnevskaya threw a tantrum during the recording, as she believed – not having performed the work before – she was being insulted by being placed with the choir instead of at the front with the male soloists. Culshaw Putting the Record Straight (1981): pp. 312-13 The newest CD reissue of Britten's recording includes 50 minutes of surreptitiously taped rehearsal footage at the time of the recording.
+
+Other recordings of the work include the following:
+* EMI Classics: Elisabeth Söderström, Robert Tear, Thomas Allen; CBSO Chorus; Boys of Christ Church Cathedral Oxford; City of Birmingham Symphony Orchestra; Sir Simon Rattle, conductor
+* Teldec: Carol Vaness, Jerry Hadley, Thomas Hampson; Westminster Symphonic Choir; American Boychoir; New York Philharmonic; Kurt Masur, conductor
+* BBC Legends: Stefania Woytowicz, Peter Pears, Hans Wilbrink; New Philharmonia Chorus; Wandsworth School Boys' Choir; New Philharmonia Orchestra, Melos Ensemble; Carlo Maria Giulini, Benjamin Britten, conductors
+* Chandos: Heather Harper, Philip Langridge, John Shirley-Quirk; London Symphony Orchestra and Chorus; Choristers of Saint Paul's Cathedral; Richard Hickox, conductor
+* Naxos: Lynda Russell, Thomas Randle, Michael Volle; Scottish Festival Chorus; BBC Scottish Symphony Orchestra; Martyn Brabbins, conductor
+* Deutsche Grammophon: Luba Orgonasova, Anthony Rolfe Johnson, Boje Skovhus; Monteverdi Choir; Tölzer Knabenchor; NDR Sinfonie-Orchester; John Eliot Gardiner, conductor
+* Telarc: Lorna Haywood, Anthony Rolfe Johnson, Benjamin Luxon; Atlanta Symphony Orchestra & Chorus; Atlanta Boy Choir; Robert Shaw, conductor
+* LPO: Christine Brewer, Anthony Dean Griffey, Gerald Finley; London Philharmonic Orchestra and Choir; Kurt Masur, conductor
+* Klavier: Jeannine Altmeyer, Ladd Thomas, Michael Sells; William Hall Orchestra and Chorale; William Hall, conductor
+* Naxos: Christine Goerke, Richard Clement, Richard Stilwell; The Washington Chorus and Orchestra; Robert Shafer, conductor
+
+==Film adaptation==
+
+In 1988, the British film director Derek Jarman made a screen adaptation of War Requiem of the same title, with the 1963 recording as the soundtrack, produced by Don Boyd and financed by the BBC. It features the final film performance of Laurence Olivier, in the role of an ageing war veteran.
+
+==References==
+
+==Bibliography==
+* Cooke, Mervyn Britten: War Requiem (Cambridge Music Handbooks) Cambridge: Cambridge University Press, 1996. ISBN 0-521-44633-3
+* Culshaw, John Putting the Record Straight London: Secker & Warburg, 1981. ISBN 0-436-11802-5
+* Macchia, Alessandro, Tombeaux. Epicedi per le Grandi Guerre, Ricordi/Accademia Nazionale di Santa Cecilia, Milano/Roma, 2005 ISBN 88-7592-804-5
+
+== External links ==
+*Text of the War Requiem
+*Britten – Pears Foundation website, including video introduction to the War Requiem
+
+

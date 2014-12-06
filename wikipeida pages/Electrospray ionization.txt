@@ -1,0 +1,82 @@
+[[Electrospray ionization]]
+
+Electrospray (nanoSpray) ionization source
+
+Electrospray ionization (ESI) is a technique used in mass spectrometry to produce ions. It is especially useful in producing ions from macromolecules because it overcomes the propensity of these molecules to fragment when ionized. Additionally and arguably more importantly, ESI is advantageous over other atmospheric pressure ionization processes (e.g. MALDI) since it may produce multiply charged ions, effectively extending the mass range of the analyser to accommodate the KDa-MDa orders of magnitude observed in proteins and their associated polypeptide fragments. 
+
+Mass spectrometry using ESI is called electrospray ionization mass spectrometry (ESI-MS) or, less commonly, electrospray mass spectrometry (ES-MS). ESI is a so-called 'soft ionization' technique, since there is very little fragmentation. This can be advantageous in the sense that the molecular ion (or more accurately a pseudo molecular ion) is always observed, however very little structural information can be gained from the simple mass spectrum obtained. This disadvantage can be overcome by coupling ESI with tandem mass spectrometry (ESI-MS/MS). Another important advantage of ESI is that solution-phase information can be retained into the gas-phase.
+
+The electrospray ionization technique was first reported by Masamichi Yamashita and John Fenn in 1984. The development of electrospray ionization for the analysis of biological macromolecules was rewarded with the attribution of the Nobel Prize in Chemistry to John Bennett Fenn in 2002. 
+One of the original instruments used by Dr. Fenn is on display at the Chemical Heritage Foundation in Philadelphia, Pennsylvania.
+
+==History==
+Fenn's first electrospray ionization source (top) coupled to a single quadrupole mass spectrometer
+
+John Bennett Fenn was awarded the 2002 Nobel Prize in Chemistry for the development of electrospray ionization mass spectrometry in the late 1980s. The use of the electrospray ionization source as a means of establishing an interface between a liquid chromatograph and a mass spectrometer came directly from the work by Dole, et al., and was first invented as an LC-Electro-Spray-Ionization-MS unit by Horton in late 1975 and published in July 3, 1979 in US Patent 4,160,161, assignee Phillips Petroleum Co. The technique was re-invented by Fite and published in June 24, 1980 in US Patent 4,209,696. Because the LC-ESI-MS unit was not yet fully ready for the commercial analytical analysis industry and vice versa, both of these inventions pre-date by a substantial hiatus, Fenn's work in the late 1980s and the patent by Fenn and Furstenau, US Patent 5,523,566, published in June 4, 1996. However, Fenn et al., persisted from the late 1980s onward with the refinement, development, and consulting to assist the commercialization of the technology, leading eventually to the 2002 Nobel Prize in Chemistry.
+
+Early researchers:
+*IRIBARNE & Thomson 
+*John Strutt, 3rd Baron Rayleigh
+*John Zeleny 
+*Malcolm Dole 
+*Gall L.N. 
+*Geoffrey Ingram Taylor
+
+==Ionization mechanism==
+The liquid containing the analyte(s) of interest is dispersed by electrospray, into a fine aerosol. Because the ion formation involves extensive solvent evaporation (also termed desolvation), the typical solvents for electrospray ionization are prepared by mixing water with volatile organic compounds (e.g. methanol acetonitrile). To decrease the initial droplet size, compounds that increase the conductivity (e.g. acetic acid) are customarily added to the solution. These species also act to provide a source of protons to facilitate the ionization process. Large-flow electrosprays can benefit from additional nebulization by an inert gas such as nitrogen or carbon dioxide. The aerosol is sampled into the first vacuum stage of a mass spectrometer through a capillary carrying a potential difference of approximately 3000V, which can be heated to aid further solvent evaporation from the charged droplets. The solvent evaporates from a charged droplet until it becomes unstable upon reaching its Rayleigh limit. At this point, the droplet deforms as the electrostatic repulsion of like charges, in an ever-decreasing droplet size, becomes more powerful than the surface tension holding the droplet together. At this point the droplet undergoes Coulomb fission, whereby the original droplet 'explodes' creating many smaller, more stable droplets. The new droplets undergo desolvation and subsequently further Coulomb fissions. During the fission, the droplet loses a small percentage of its mass (1.0–2.3%) along with a relatively large percentage of its charge (10–18%). 
+
+There are two major theories that explain the final production of gas-phase ions: 
+* The Ion Evaporation Model (IEM) suggests that as the droplet reaches a certain radius the field strength at the surface of the droplet becomes large enough to assist the field desorption of solvated ions.
+* The Charge Residue Model (CRM) suggests that electrospray droplets undergo evaporation and fission cycles, eventually leading progeny droplets that contain on average one analyte ion or less. The gas-phase ions form after the remaining solvent molecules evaporate, leaving the analyte with the charges that the droplet carried.
+
+A large body of evidence, which is consider either direct or indirect that small ions are liberated into the gas phase through the ion evaporation mechanism, while larger ions form by charged residue mechanism 
+
+A third model invoking combined charged residue-field emission has been proposed. 
+
+The ions observed by mass spectrometry may be quasimolecular ions created by the addition of a hydrogen cation and denoted + H+, or of another cation such as sodium ion, + Na+, or the removal of a hydrogen nucleus, − H−. Multiply charged ions such as + nHn+ are often observed. For large macromolecules, there can be many charge states, resulting in a characteristic charge state envelope. All these are even-electron ion species: electrons (alone) are not added or removed, unlike in some other ionization sources. The analytes are sometimes involved in electrochemical processes, leading to shifts of the corresponding peaks in the mass spectrum. This effect is demonstrated in the direct ionization of noble metals such as copper, silver and gold using electrospray. 
+
+==Variants==
+
+The electrosprays operated at low flow rates generate much smaller initial droplets, which ensure improved ionization efficiency. In 1993 Gale and Richard D. Smith reported significant sensitivity increases could be achieved using lower flow rates, and down to 200 nL/min. In 1994, two research groups coined the name micro-electrospray (microspray) for electrosprays working at low flow rates. Emmett and Caprioli demonstrated improved performance for HPLC-MS analyses when the electrospray was operated at 300–800 nL/min. Wilm and Mann demonstrated that a capillary flow of ~ 25 nL/min can sustain an electrospray at the tip of emitters fabricated by pulling glass capillaries to a few micrometers. The latter was renamed nano-electrospray (nanospray) in 1996. Currently the name nanospray is also in use for electrosprays fed by pumps at low flow rates, not only for self-fed electrosprays. Although there may not be a well-defined flow rate range for electrospray, microspray, and nano-electrospray, studied "changes in analyte partition during droplet fission prior to ion release" . In this paper, they compare results obtained by three other groups. and then measure the signal intensity ratio at different flow rates.
+
+Cold spray ionization is a form of electrospray in which the solution containing the sample is forced through a small cold capillary (10-80 °C) into an electric field to create a fine mist of cold charged droplets. RSC Chemical Methods Ontology, Cold-spray ionisation mass spectrometry Applications of this method include the analysis of fragile molecules and guest-host interactions that cannot be studied using regular electrospray ionization.
+
+Electrospray ionization has also been achieved at pressures as low as 25 torr and termed subambient pressure ionization with nanoelectrospray (SPIN) based upon a two-stage ion funnel interface developed by Richard D. Smith and coworkers. The SPIN implementation provided increased sensitivity due to the use of ion funnels that helped confine and transfer ions to the lower pressure region of the mass spectrometer. Operation at low pressure was particularly effective for low flow rates where the smaller electrospray droplet size allowed effective desolvation and ion formation to be achieved. As a result later the researchers were later able to demonstrate achieving in excess of 50% overall ionization utilization efficiency for transfer of ions from the liquid phase, into the gas phase as ions, and through the dual ion funnel interface to the mass spectrometer. 
+
+==Applications==
+
+Electrospray is used to study protein folding. 
+
+===Liquid chromatography–mass spectrometry (LC-MS)===
+
+Electrospray ionization is the ion source of choice to couple liquid chromatography with mass spectrometry. The analysis can be performed online, by feeding the liquid eluting from the LC column directly to an electrospray, or offline, by collecting fractions to be later analyzed in a classical nanoelectrospray-mass spectrometry setup. Among the numerous operating parameters in ESI-MS, for proteins: the electrospray voltage has been identified as an important parameter to consider in ESI LC/MS gradient elution. The effect of various solvent compositions (such as TFA or ammonium acetate, or supercharging reagents, or derivitizing groups ) or spraying conditions on Electrospray-LCMS spectra and/or nanoESI-MS spectra. have been studied.
+
+===Capillary electrophoresis-mass spectrometry (CE-MS)===
+
+Capillary electrophoresis-mass spectrometry was enabled by an ESI interface that was developed and patented by Richard D. Smith and coworkers at Pacific Northwest National Laboratory, and shown to have broad utility for the analysis of very small biological and chemical compound mixtures, and even extending to a single biological cell.
+
+===Noncovalent gas phase interactions===
+
+Electrospray ionization is also utilized in studying noncovalent gas phase interactions. The electrospray process is thought to be capable of transferring liquid-phase noncovalent complexes into the gas phase without disrupting the noncovalent interaction. Problems such as non specific interactions have been identified when studying ligand substrate complexes by ESI-MS or nanoESI-MS. An interesting example of this is studying the interactions between enzymes and drugs which are inhibitors of the enzyme. Competition studies between STAT6 and inhibitors have used ESI as a way to screen for potential new drug candidates.
+
+==See also==
+* Electrospray
+* Protein mass spectrometry
+* Taylor cone
+* Desorption electrospray ionization
+* Laser ablation electrospray ionization
+* Sonic spray ionization
+
+==References==
+
+==Bibliography==
+
+* 
+* 
+* 
+
+==External links==
+* Electrospray Ionization Primer National High Magnetic Field Laboratory
+* 
+
+

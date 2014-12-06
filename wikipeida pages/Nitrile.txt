@@ -1,0 +1,115 @@
+[[Nitrile]]
+
+The structure of a nitrile: the functional group is highlighted blue.
+A nitrile is any organic compound that has a −C≡N functional group. IUPAC Gold Book nitriles The prefix cyano- is used interchangeably with the term nitrile in industrial literature. Nitriles are found in many useful compounds, including methyl cyanoacrylate, used in super glue, and nitrile butadiene rubber, a nitrile-containing polymer used in latex-free laboratory and medical gloves. Organic compounds containing multiple nitrile groups are known as cyanocarbons.
+
+Inorganic compounds containing the −C≡N group are not called nitriles, but cyanides instead. NCBI-MeSH Nitriles Though both nitriles and cyanides can be derived from cyanide salts, most nitriles are not nearly as toxic.
+
+==Structure and basic properties==
+The N-C-C skeleton is linear in nitriles, reflecting the sp hybridization of the triply bonded carbon. The C-N distance is short at 1.16 Å, consistent with a triple bond. Karakida, Ken-ichi, Tsutomu Fukuyama, and Kozo Kuchitsu. "Molecular Structures of Hydrogen Cyanide and Acetonitrile as Studied by Gas Electron Diffraction" Bulletin of the Chemical Society of Japan 1974, vol. 47, pp. 299-304. Nitriles are polar, as indicated by high dipole moments. As liquids, they have high dielectric constants, often in the 30s.
+
+==History==
+The first compound of the homolog row of nitriles, the nitrile of formic acid, hydrogen cyanide was first synthesized by C.W. Scheele in 1782. See:
+* Carl W. Scheele (1782) "Försök, beträffande det färgande ämnet uti Berlinerblå" (Experiment concerning the colored substance in Berlin blue), Kungliga Svenska Vetenskapsakademiens handlingar (Royal Swedish Academy of Science's Proceedings), 3: 264–275 (in Swedish).
+* Reprinted in Latin as: "De materia tingente caerulei berolinensis" in: Carl Wilhelm Scheele with Ernst Benjamin Gottlieb Hebenstreit (ed.) and Gottfried Heinrich Schäfer (trans.), Opuscula Chemica et Physica (Leipzig ("Lipsiae"), (Germany): Johann Godfried Müller, 1789), vol. 2, pages 148–174. In 1811 J. L. Gay-Lussac was able to prepare the very toxic and volatile pure acid. Gay-Lussac produced pure, liquified hydrogen cyanide in: Gay-Lussac (1811) "Note sur l'acide prussique" (Note on prussic acid), Annales de chimie, 44: 128 – 133. 
+The nitrile of benzoic acids was first prepared by Friedrich Wöhler and Justus von Liebig, but due to minimal yield of the synthesis neither physical nor chemical properties were determined nor a structure suggested. Théophile-Jules Pelouze synthesized propionitrile in 1834 suggesting it to be an ether of propionic alcohol and hydrocyanic acid. 
+The synthesis of benzonitrile by Hermann Fehling in 1844, by heating ammonium benzoate, was the first method yielding enough of the substance for chemical research. 
+He determined the structure by comparing it to the already known synthesis of hydrogen cyanide by heating ammonium formate to his results. He coined the name "nitrile" for the newfound substance, which became the name for this group of compounds. On page 96, Fehling writes: "Da Laurent den von ihm entdeckten Körper schon Nitrobenzoyl genannt hat, auch schon ein Azobenzoyl existirt, so könnte man den aus benzoësaurem Ammoniak entstehenden Körper vielleicht Benzonitril nennen." (Since Laurent named the substance that was discovered by him "nitrobenzoyl" – also an "azobenzoyl" already exists – so one could name the substance that originates from ammonium benzoate perhaps "benzonitril".) 
+
+== Synthesis ==
+Industrially, the main methods for producing nitriles are ammoxidation and hydrocyanation. Both routes are green in the sense that they do not generate stoichiometric amounts of salts. 
+===Ammoxidation===
+In ammoxidation, a hydrocarbon is partially oxidized in the presence of ammonia. This conversion is practiced on a large scale for acrylonitrile: Peter Pollak, Gérard Romeder, Ferdinand Hagedorn, Heinz-Peter Gelbke "Nitriles" Ullmann's Encyclopedia of Industrial Chemistry 2002, Wiley-VCH, Weinheim. 
+:CH3CH=CH2 + 3/2 O2 + NH3 → NCCH=CH2 + 3 H2O
+In the production of acrylonitrile, a side product is acetonitrile. Most derivatives of benzonitrile, phthalonitrile, as well as Isobutyronitrile are prepared by ammoxidation. The process is catalysed by metal oxides and is assumed to proceed via the aldehyde.
+
+===Hydrocyanation===
+hydrocyanation is a popular method for producing nitriles from hydrogen cyanide and alkenes. The process requires homogeneous catalysts. An example of hydrocyanation is the production of adiponitrile from 1,3-butadiene:
+:CH2=CH-CH=CH2 + 2 HCN → NC(CH2)4CN
+
+===From organic halides and cyanide salts===
+Often for more specialty applications, nitriles can be prepared by a wide variety of other methods. For example, alkyl halides undergo nucleophilic aliphatic substitution with alkali metal cyanides in the Kolbe nitrile synthesis. Aryl nitriles are prepared in the Rosenmund-von Braun synthesis.
+
+===Cyanohydrins===
+The cyanohydrins are a special class of nitriles that result from the addition of metal cyanides to aldehydes in the cyanohydrin reaction. Because of the polarity of the organic carbonyl, this reaction requires no catalyst, unlike the hydrocyanation of alkenes.
+
+====Dehydration of amides and oximes====
+Nitriles can be prepared by the Dehydration of primary amides. Many reagents are available, the combination of ethyl dichlorophosphate and DBU just one of them in this conversion of benzamide to benzonitrile: 
+:Amide dehydration
+:Two intermediates in this reaction are amide tautomer A and its phosphate adduct B.
+In a related dehydration, secondary amides give nitriles by the von Braun amide degradation. In this case, one C-N bond is cleaved.
+The dehydration of aldoximes (RCH=NOH) also affords nitriles. Typical reagents for this transformation arewith triethylamine/sulfur dioxide, zeolites, or sulfuryl chloride. Exploiting this approach is the One-pot synthesis of nitriles from aldehyde with hydroxylamine in the presence of sodium sulfate. 
+:one-pot synthesis from aldehyde
+
+* from aryl carboxylic acids (Letts nitrile synthesis)
+===Sandmeyer reaction===
+Aromatic nitriles are often prepared in the laboratory from the aniline via diazonium compounds. This is the Sandmeyer reaction. It requires transition metal cyanides. o-Tolunitrile and p-Tolunitrile" H. T. Clarke and R. R. Read Org. Synth. 1941, Coll. Vol. 1, 514. 
+:ArN2+ + CuCN → ArCN + N2 + Cu+
+
+===Other methods===
+*A commercial source for the cyanide group is diethylaluminum cyanide Et2AlCN which can be prepared from triethylaluminium and HCN. It has been used in nucleophilic addition to ketones. For an example of its use see: Kuwajima Taxol total synthesis
+* cyanide ions facilitate the coupling of dibromides. Reaction of α,α'-dibromo adipic acid with sodium cyanide in ethanol yields the cyano cyclobutane: 
+:300px
+: In the so-called Franchimont Reaction (A. P. N. Franchimont, 1872) an α-bromocarboxylic acid is dimerized after hydrolysis of the cyanogroup and decarboxylation Franchimont Reaction 
+* Aromatic nitriles can be prepared from base hydrolysis of trichloromethyl aryl ketimines (RC(CCl3)=NH) in the Houben-Fischer synthesis J. Houben, Walter Fischer (1930) "Über eine neue Methode zur Darstellung cyclischer Nitrile durch katalytischen Abbau (I. Mitteil.)," Berichte der deutschen chemischen Gesellschaft (A and B Series) 63 (9): 2464 – 2472. http://www.drugfuture.com/OrganicNameReactions/ONR197.htm Merck & Co., Inc., Whitehouse Station 
+
+== Reactions ==
+Nitrile groups in organic compounds can undergo various reactions when subject to certain reactants or conditions. A nitrile group can be hydrolyzed, reduced, or ejected from a molecule as a cyanide ion.
+
+=== Hydrolysis ===
+The hydrolysis of nitriles RCN proceeds in the distinct steps under acid or base treatment to achieve carboxamides RC(=O)NH2 and then carboxylic acids RCOOH. The hydrolysis of nitriles is generally considered to be one of the best methods for the preparation of carboxylic acids. However, these base or acid catalyzed reactions have certain limitations and/or disadvantages for preparation of amides. The general restriction is that the final neutralization of either base or acid leads to an extensive salt formation with inconvenient product contamination and pollution effects. Particular limitations are as follows: 
+* The base catalyzed reactions. The kinetic studies allowed the estimate of relative rates for the hydration at each step of the reaction and, as a typical example, the second-order rate constants for hydroxide-ion catalyzed hydrolysis of acetonitrile and acetamide are 1.6×10−6 and 7.4×10−5M−1s−1, respectively. Comparison of these two values indicates that the second step of the hydrolysis for the base-catalyzed reaction is faster than the first one, and the reaction should proceed to the final hydration product (the carboxylate salt) rather than stopping at the amide stage. This implies that amides prepared in the conventional metal-free base-catalyzed reaction should be contaminated with carboxylic acids and they can be isolated in only moderate yields.
+* The acid catalyzed reactions. Application of strong acidic solutions requires a careful control of the temperature and of the ratio of reagents in order to avoid the formation of polymers, which is promoted by the exothermic character of the hydrolysis. V. Yu. Kukushkin, A. J. L. Pombeiro, Metal-mediated and metal-catalyzed hydrolysis of nitriles (a review), Inorg. Chim. Acta, 358 (2005) 1–21 
+
+=== Reduction ===
+In organic reduction the nitrile is reduced by reacting it with hydrogen with a nickel catalyst; an amine is formed in this reaction (see nitrile reduction). Reduction to the imine followed by hydrolysis to the aldehyde takes place in the Stephen aldehyde synthesis
+
+=== Alkylation ===
+Alkyl nitriles are sufficiently acidic to form the carbanion, which alkylate a wide variety of electrophiles. Key to the exceptional nucleophilicity is the small steric demand of the CN unit combined with its inductive stabilization. These features make nitriles ideal for creating new carbon-carbon bonds in sterically demanding environments for use in syntheses of medicinal chemistry. Recent developments have shown that the nature of the metal counter-ion causes different coordination to either the nitrile nitrogen or the adjacent nucleophilic carbon, often with profound differences in reactivity and stereochemistry. Tetrahedron Volume 61, Issue 4, 24 January 2005, Pages 747–789 doi:10.1016/j.tet.2004.11.012 
+=== Nucleophiles ===
+A nitrile is an electrophile at the carbon atom in a nucleophilic addition reactions:
+* with an organozinc compound in the Blaise reaction
+* and with alcohols in the Pinner reaction.
+* likewise, the reaction of the amine sarcosine with cyanamide yields creatine 
+* Nitriles react in Friedel–Crafts acylation in the Houben–Hoesch reaction to ketones
+
+=== Miscellaneous methods and compounds ===
+* In reductive decyanation the nitrile group is replaced by a proton. The reductive decyanation reaction: chemical methods and synthetic applications Jean-Marc Mattalia, Caroline Marchi-Delapierre, Hassan Hazimeh, and Michel Chanon Arkivoc (AL-1755FR) pp 90–118 2006 Article An effective decyanation is by a dissolving metal reduction with HMPA and potassium metal in tert-butanol. α-Amino-nitriles can be decyanated with lithium aluminium hydride.
+* Nitriles self-react in presence of base in the Thorpe reaction in a nucleophilic addition
+* In organometallic chemistry nitriles are known to add to alkynes in carbocyanation: 
+:Carbocyanation Nakao 2007
+
+==Nitrile derivatives==
+===Organic cyanamides===
+Cyanamides are N-cyano compounds with general structure R1R2N-CN and related to the inorganic parent cyanamide. For an example see: von Braun reaction.
+
+===Nitrile oxides===
+Nitrile oxides have the general structure R-CNO.
+
+:General structure nitrile oxide
+
+==Occurrence and applications==
+Nitriles occur naturally in a diverse set of plant and animal sources. Over 120 naturally occurring nitriles have been isolated from terrestrial and marine sources. Nitriles are commonly encountered in fruit pits, especially almonds, and during cooking of Brassica crops (such as cabbage, brussel sprouts, and cauliflower), which release nitriles through hydrolysis. Mandelonitrile, a cyanohydrin produced by ingesting almonds or some fruit pits, releases hydrogen cyanide and is responsible for the toxicity of cyanogenic glycosides. Natural Product Reports Issue 5, 1999 Nitrile-containing natural products 
+
+Over 30 nitrile-containing pharmaceuticals are currently marketed for a diverse variety of medicinal indications with more than 20 additional nitrile-containing leads in clinical development. The nitrile group is quite robust and, in most cases, is not readily metabolized but passes through the body unchanged. The types of pharmaceuticals containing nitriles is diverse, from Vildagliptin an antidiabetic drug to Anastrazole which is the gold standard in treating breast cancer. In many instances the nitrile mimics functionality present in substrates for enzymes, whereas in other cases the nitrile increases water solubility or decreases susceptibility to oxidative metabolism in the liver. The nitrile functional group is found in several drugs.
+
+File:Periciazine.png|Structure of periciazine, an antipsychotic studied in the treatment of opiate dependence.
+File:Citalopram structure.svg|Structure of citalopram, an antidepressant drug of the selective serotonin reuptake inhibitor (SSRI) class.
+File:Cyamemazine.png|Structure of cyamemazine, an antipsychotic drug.
+File:Fadrozole.png|Structure of fadrozole, an aromatase inhibitor for the treatment of breast cancer.
+File:Letrozole.svg|Structure of letrozole, an oral non-steroidal aromatase inhibitor for the treatment of certain breast cancers.
+
+==See also==
+* For the polymer used to make safety gloves, see Nitrile rubber.
+* Protonated nitriles: Nitrilium
+* Deprotonated nitriles: Nitrile anion
+* Cyanocarbon
+* Nitrile ylide
+
+== References ==
+
+:External links:
+* 
+* 
+
+ 

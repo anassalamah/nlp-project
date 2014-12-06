@@ -1,0 +1,82 @@
+[[Radio telescope]]
+
+The 64 meter radio telescope at Parkes Observatory
+A radio telescope is a form of directional antenna radio used in radio astronomy. The same types of antennas are also used in tracking and collecting data from satellites and space probes. In their astronomical role they differ from optical telescopes in that they operate in the radio frequency portion of the electromagnetic spectrum where they can detect and collect data on radio sources. Radio telescopes are typically large parabolic ("dish") antennas used singly or in an array. Radio observatories are preferentially located far from major centers of population to avoid electromagnetic interference (EMI) from radio, TV, radar, and other EMI emitting devices. This is similar to the locating of optical telescopes to avoid light pollution, with the difference being that radio observatories are often placed in valleys to further shield them from EMI as opposed to clear air mountain tops for optical observatories.
+
+==Early radio telescopes==
+Full-size replica of the first radio telescope, Jansky's dipole array now at the US National Radio Astronomy Observatory
+The first radio antenna used to identify an astronomical radio source was one built by Karl Guthe Jansky, an engineer with Bell Telephone Laboratories, in 1931. Jansky was assigned the job of identifying
+sources of static that might interfere with radio telephone service. Jansky's antenna was an array of dipoles and reflectors designed to receive short wave radio signals at a frequency of 20.5 MHz (wavelength about 14.6 meters). It was mounted on a turntable that allowed it to rotate in any direction, earning it the name "Jansky's merry-go-round". It had a diameter of approximately 100 ft and stood 20 ft tall. By rotating the antenna on a set of four Ford Model-T tires, the direction of the received interfering radio source (static) could be pinpointed. A small shed to the side of the antenna housed an analog pen-and-paper recording system. After recording signals from all directions for several months, Jansky eventually categorized them into three types of static: nearby thunderstorms, distant thunderstorms, and a faint steady hiss of unknown origin. Jansky finally determined that the "faint hiss" repeated on a cycle of 23 hours and 56 minutes. This period is the length of an astronomical sidereal day, the time it takes any "fixed" object located on the celestial sphere to come back to the same location in the sky. Thus Jansky suspected that the hiss originated well beyond the Earth's atmosphere, and by comparing his observations with optical astronomical maps, Jansky concluded that the radiation was coming from the Milky Way Galaxy and was strongest in the direction of the center of the galaxy, in the constellation of Sagittarius.
+Reber's first "dish"
+ radio telescope - Wheaton, IL 1937
+An amateur radio operator, Grote Reber, was one of the pioneers of what became known as radio astronomy when he built the first parabolic "dish" radio telescope (9 m in diameter) in his back yard in Illinois in 1937. He was instrumental in repeating Karl Guthe Jansky's pioneering but somewhat simple work at higher frequencies, and he went on to conduct the first sky survey at very high radio frequencies. The rapid development of radar technology during World War II was easily translated into radio astronomy technology after the war, and the field of radio astronomy began to blossom.
+
+==Types==
+A cylindrical paraboloid antenna.
+The range of frequencies in the electromagnetic spectrum that makes up the radio spectrum is very large. This means that the types of antennas that are used as radio telescopes vary widely in design, size, and configuration. At wavelengths of 30 meters to 3 meters (10 MHz - 100 MHz), they are generally either directional antenna arrays similar to "TV antennas" or large stationary reflectors with moveable focal points. Since the wavelengths being observed with these types of antennas are so long, the "reflector" surfaces can be constructed from coarse wire mesh such as chicken wire. CSIRO video transcript - The Dish turns 45 "So chicken wire surprisingly works brilliantly at wave lengths of a metre or so" At shorter wavelengths “dish” style radio telescopes predominate. The angular resolution of a dish style antenna is determined by the diameter of the dish expressed as a number of wavelengths of the electromagnetic radiation being observed. This dictates the dish size a radio telescope needs for a useful resolution. Radio telescopes that operate at wavelengths of 3 meters to 30 cm (100 MHz to 1 GHz) are usually well over 100 meters in diameter. Telescopes working at wavelengths shorter than 30 cm (above 1 GHz) range in size from 3 to 90 meters in diameter.
+Plot of Earth's atmospheric transmittance (or opacity) to various wavelengths of electromagnetic radiation.
+
+===Frequencies===
+The increasing use of radio frequencies for communication makes astronomical observations more and more difficult (open spectrum#Radio astronomy needs).
+Negotiations to defend the frequency allocation for parts of the spectrum most useful for observing the universe are coordinated in the Scientific Committee on Frequency Allocations for Radio Astronomy and Space Science.
+
+Some of the more notable frequency bands used by radio telescopes include:
+*Every frequency in the United States National Radio Quiet Zone
+*Channel 37: 608 to 614 MHz
+*The "Hydrogen line", also known as the "21 centimeter line": 1420.40575177 MHz, used by many radio telescopes including The Big Ear in its discovery of the Wow! signal
+*1406 MHz and 430 MHz 
+*The Waterhole: 1,420 to 1,666 MHz
+*The Arecibo Observatory has several receivers that together cover the whole 1–10 GHz range.
+*The Wilkinson Microwave Anisotropy Probe mapped the Cosmic microwave background radiation in 5 different frequency bands, centered on 23 GHz, 33 GHz, 41 GHz, 61 GHz, and 94 GHz.
+
+===Big dishes===
+World's largest single-aperture radio telescope at Arecibo Observatory in Puerto Rico
+The world's largest filled-aperture telescope (i.e., a full dish) is the Arecibo radio telescope located in Arecibo, Puerto Rico, whose 305 m dish is fixed in the ground. The antenna beam is steerable (by means of a moving receiver) within about 20° of the zenith.
+It is also the world's largest planetary radar. The largest individual radio telescope of any kind is the RATAN-600 located near Nizhny Arkhyz, Russia, which consists of a 576-meter circle of rectangular radio reflectors, each of which can be pointed towards a central conical receiver.
+
+The largest single-dish radio telescope in Europe is the 100-meter diameter antenna in Effelsberg, Germany, which also was the world's largest fully steerable telescope for 30 years until the slightly larger Green Bank Telescope was opened in West Virginia, United States, in 2000. The third largest fully steerable radio telescope is the 76-meter Lovell Telescope at Jodrell Bank Observatory in Cheshire, England. The fourth largest fully steerable radio telescopes are six 70-meter dishes: three Russian RT-70, and three in the Goldstone network. 
+
+A typical size of the single antenna of a radio telescope is 25 meters. Dozens of radio telescopes with comparable sizes are operated in radio observatories all over the world.
+
+China officially started construction of the world's largest single-aperture radio telescope in 2009, the FAST. starts building world's largest radio telescope", People Daily The FAST, with a dish area as large as 30 football fields, will stand in a region of typical Karst depressions in Guizhou, and will be finished by the end of 2016.
+
+===Radiotelescopes in space===
+Since 1965, humans have sent 3 space-based radiotelescopes. In 1965, the Soviet Union sent the first one called Zond 3. In 1997, Japan sent the second, HALCA. The last one was sent by Russia in 2011 called Spektr-R.
+
+==Radio interferometry==
+The Very Large Array, an interferometric array formed from many smaller telescopes, like many larger radio telescopes.
+One of the most notable developments came in 1946 with the introduction of the technique called astronomical interferometry. Astronomical radio interferometers usually consist either of arrays of parabolic dishes (e.g., the One-Mile Telescope), arrays of one-dimensional antennas (e.g., the Molonglo Observatory Synthesis Telescope) or two-dimensional arrays of omni-directional dipoles (e.g., Tony Hewish's Pulsar Array). All of the telescopes in the array are widely separated and are usually connected using coaxial cable, waveguide, optical fiber, or other type of transmission line. Recent advances in the stability of electronic oscillators also now permit interferometry to be carried out by independent recording of the signals at the various antennas, and then later correlating the recordings at some central processing facility. This process is known as Very Long Baseline Interferometry (VLBI). Interferometry does increase the total signal collected, but its primary purpose is to vastly increase the resolution through a process called Aperture synthesis. This technique works by superposing (interfering) the signal waves from the different telescopes on the principle that waves that coincide with the same phase will add to each other while two waves that have opposite phases will cancel each other out. This creates a combined telescope that is equivalent in resolution (though not in sensitivity) to a single antenna whose diameter is equal to the spacing of the antennas furthest apart in the array.
+
+A high quality image requires a large number of different separations between telescopes. Projected separation between any two telescopes, as seen from the radio source, is called a baseline. For example, the Very Large Array (VLA) near Socorro, New Mexico has 27 telescopes with 351 independent baselines at once, which achieves a resolution of 0.2 arc seconds at 3 cm wavelengths. gps.caltech.edu - Microwave Probing of the Invisible by Duane O. Muhleman Martin Ryle's group in Cambridge obtained a Nobel Prize for interferometry and aperture synthesis. Nature 158 pp 339 1946 The Lloyd's mirror interferometer was also developed independently in 1946 by Joseph Pawsey's group at the University of Sydney. Nature 157 pp 158 1946 In the early 1950s, the Cambridge Interferometer mapped the radio sky to produce the famous 2C and 3C surveys of radio sources. An example of a large physically connected radio telescope array is the Giant Metrewave Radio Telescope, located in Pune, India. The largest array, LOFAR (the 'LOw Frequency ARray'), is currently being constructed in western Europe, consisting of about 20,000 small antennas in 48 stations distributed over an area several hundreds of kilometers in diameter, and operates between 1.25 and 30 m wavelengths. VLBI systems using post-observation processing have been constructed with antennas thousands of miles apart. Radio interferometers have also been used to obtain detailed images of the anisotropies and the polarization of the Cosmic Microwave Background, like the CBI interferometer in 2004.
+
+The world's largest physically connected telescopes, the SKA (Square Kilometre Array), are planned to start operation in 2024.
+
+==Astronomical observations==
+
+RT-70 planetary radar
+Many astronomical objects are not only observable in visible light but also emit radiation at radio wavelengths. Besides observing energetic objects such as pulsars and quasars, radio telescopes are able to "image" most astronomical objects such as galaxies, nebulae, and even radio emissions from planets.
+
+==See also==
+*Aperture synthesis
+*Astropulse Distributed computing to search data tapes for primordial black holes, pulsars, and ETI
+*List of astronomical observatories
+*List of radio telescopes
+*List of telescope types
+*Radio astronomy
+*Schumann resonances
+*SETI Search for Extra-Terrestrial Intelligence using radio telescopes (among others)
+*Telescope
+
+==References==
+
+==Further reading==
+
+*Rohlfs, K., & Wilson, T. L. (2004). Tools of radio astronomy. Astronomy and astrophysics library. Berlin: Springer.
+*Asimov, I. (1979). Isaac Asimov's Book of facts; Sky Watchers. New York: Grosset & Dunlap. Page 390 - 399. ISBN 0-8038-9347-7
+
+==External links==
+*astronomytoday.com - "Radio Astronomy" by Sancar J Fredsti
+
+ 
+
+

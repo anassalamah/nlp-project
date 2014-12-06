@@ -1,0 +1,106 @@
+[[Stanley Milgram]]
+
+Stanley Milgram (August 15, 1933 – December 20, 1984) was an American social psychologist.
+
+He conducted various studies and published articles during his lifetime, with the most notable being his controversial study on obedience to authority, conducted in the 1960s during his professorship at Yale. Milgram was influenced by the events of the Holocaust, specifically the trial of Adolf Eichmann, in developing this experiment.
+
+His small-world experiment while at Harvard would lead researchers to analyze the degree of connectedness, most notably the six degrees of separation concept.
+
+==Biography==
+
+===Early life===
+Stanley Milgram was born in 1933 to a Jewish family in New York City, the child of a Romanian-born mother, Adele (née Israel), and a Hungarian-born father, Samuel Milgram. Milgram's father worked as a baker to provide a modest income for his family until his death in 1953 (upon which Stanley's mother took over the bakery). Milgram excelled academically and was a great leader among his peers. In 1954, Milgram received his Bachelor's Degree in Political Science from Queens College, New York where he attended tuition-free. He applied to a Ph.D. program in social psychology at Harvard University and was initially rejected due to an insufficient background in psychology (he had not taken one undergraduate course in psychology while attending Queens College). He was eventually accepted to Harvard in 1954 after first enrolling as a student in Harvard's Office of Special Students. 
+
+===Professional life===
+In 1960, Milgram received a Ph.D. in Social Psychology from Harvard. He became an assistant professor at Yale in the fall of 1960. He became an assistant professor in the Department of Social Relations at Harvard in the summer of 1963 until 1966, when he became a lecturer until 1967. Most likely because of his controversial Milgram Experiment, Milgram was denied tenure at Harvard after becoming an assistant professor there. In 1967 he accepted an offer to become a tenured full professor at the City University of New York Graduate Center (Blass, 2004). Milgram had a number of significant influences, including psychologists Solomon Asch and Gordon Allport. Milgram influenced numerous psychologists including Alan C. Elms, who was Milgram's first graduate assistant in the study of obedience. Milgram died on December 20, 1984 of a heart attack in New York, the city in which he was born. He left behind a widow, Alexandra "Sasha" Milgram, and two children. 
+
+== Obedience to authority ==
+
+In 1963, Milgram submitted the results of his Milgram experiments in the article "Behavioral Study of Obedience". In the ensuing controversy, the American Psychological Association held up his application for membership for a year because of questions about the ethics of his work, but eventually did grant him full membership. Ten years later, in 1974, Milgram published Obedience to Authority. He won the AAAS Prize for Behavioral Science Research in 1964, mostly for his work on the social aspects of obedience. History & Archives: AAAS Prize for Behavioral Science Research Inspired in part by the 1961 trial of Adolf Eichmann, his models were later also used to explain the 1968 My Lai Massacre (including authority training in the military, depersonalizing the "enemy" through racial and cultural differences, etc.). He produced a film depicting his experiments, which are considered classics of social psychology.
+
+=== Milgram's Experiment 18: Peer shock administration ===
+In this experiment, 26 out of 40 participants administered the full range of shocks up to 450 volts, the highest obedience rate Milgram found in his whole series. Thus, according to Milgram, the subject shifts responsibility to another person and does not blame himself for what happens. This resembles real-life incidents in which people see themselves as merely cogs in a machine, just "doing their job", allowing them to avoid responsibility for the consequences of their actions. The shocks themselves were fake; the participant who took the place as the "learner" in the experiment was in fact a paid actor who would simulate the effects of the shock depending on the voltage. Milgram became notorious for this tactic, and his experiment was soon classed as highly unethical as it caused stress to the participants in the study. The study soon became one of the most talked about psychological experiments in recent history, making headlines across the world, and resulted in Milgram finding himself in the center of public attention. More recent tests of the experiment have found that it only works under certain conditions; in particular, when participants believe the results are necessary for the "good of science". 
+
+==Small world phenomenon==
+
+The six degrees of separation concept originates from Milgram's "small world experiment" in 1967 that tracked chains of acquaintances in the United States. In the experiment, Milgram sent several packages to 160 random people living in Omaha, Nebraska, asking them to forward the package to a friend or acquaintance who they thought would bring the package closer to a set final individual, a stockbroker from Boston, Massachusetts.
+Each "starter" received instructions to mail a folder via the U.S. Post Office to a recipient, but with some rules. Starters could only mail the folder to someone they actually knew personally on a first-name basis. When doing so, each starter instructed their recipient to mail the folder ahead to one of the latter's first-name acquaintances with the same instructions, with the hope that their acquaintance might by some chance know the target recipient.
+Given that starters knew only the target recipient's name and address, they had a seemingly impossible task. Milgram monitored the progress of each chain via returned "tracer" postcards, which allowed him to track the progression of each letter. Surprisingly, he found that the very first folder reached the target in just four days and took only two intermediate acquaintances. Overall, Milgram reported that chains varied in length from two to ten intermediate acquaintances, with a median of five intermediate acquaintances (i.e. six degrees of separation) between the original sender and the destination recipient.
+This concept became popularized by Jon Stewart's Daily Show in the mid-1990s -according to its creators, "a stupid party trick"-called Six Degrees of Kevin Bacon. 
+Milgram's "six degrees" theory has been severely criticized. He did not follow up on many of the sent packages, and as a result, scientists are unconvinced that there are merely "six degrees" of separation. Elizabeth DeVita–Raebu has discussed potential problems with Dr. Milgrams's experiment. 
+
+In 2008, a study by Microsoft showed that the average chain of contacts between users of its '.NET Messenger Service' (later called Microsoft Messenger service) was 6.6 people. 
+
+==Lost letter experiment==
+
+Milgram developed a technique for measuring how helpful people are to strangers who are not present, and their attitudes toward various groups, called the "lost letter" experiment. Several sealed and stamped letters are planted in public places, addressed to various entities, such as individuals, favorable organizations like medical research institutes, and stigmatized organizations such as "Friends of the Nazi Party". Milgram found most of the letters addressed to individuals and favorable organizations were mailed, while most of those addressed to stigmatized organizations were not. http://books.google.com/books?id=VDPftmVO5lYC&pg=RA1-PA130&lpg=RA1-PA130&dq="lost+letter"+milgram&source=bl&ots=SsClFZkcDB&sig=EP41P1eqhKvZDOScJ4m9iqdp86g&hl=en&ei=vNE_SsXBN9bBtwe0pcQb&sa=X&oi=book_result&ct=result&resnum=4 
+
+==Anti-social behavior experiment==
+
+In 1970-71, Milgram conducted experiments which attempted to find a correlation between media consumption (in this case, watching television) and anti-social behavior. The experiment presented the opportunity to steal money, donate to charity, or neither, and tested whether the rate of each choice was influenced by watching similar actions in the ending of a specially crafted episode of the popular series Medical Center. 
+
+==References in media==
+
+In 1975, CBS presented a made-for-television movie about obedience experiments: The Tenth Level with William Shatner as Stephen Hunter, a Milgram-like scientist. Milgram himself was a consultant for the film, though his personal life did not resemble that of the Shatner character. In this film, incidents were portrayed that never occurred in the followup to the real life experiment, including a subject's psychotic episode and the main character saying that he regretted the experiment. When asked about the film, Milgram told one of his graduate students, Sharon Presley, that he was not happy with the film and told her that he did not want his name to be used in the credits.
+
+The French political thriller I... comme Icare includes a key scene where Milgram's experiment on obedience to authority is explained and shown.
+
+In Alan Moore's graphic novel, V for Vendetta, the character Dr. Delia Surridge discusses Milgram's experiment without directly naming Milgram, comparing it with the atrocities she herself had performed in the Larkhill Concentration camps.
+
+In 1986, musician Peter Gabriel wrote a song called We do what we're told (Milgram's 37), referring to the number of subjects (out of 40) who obeyed the experimenters all the way in Milgram's authority experiment, Milgram 18.
+
+The award-winning short film Atrocity (2005) re-enacts Milgram's Obedience to Authority experiment.
+
+Milgram 18 was reproduced to test the participants in a 2008 television special "The Heist". http://www.channel4.com/programmes/derren-brown-the-specials/episode-guide/series-19/episode-1 Created by Derren Brown and Andy Nyman for British station Channel 4, the Milgram experiment helped determine which candidates were the most responsive to authority. The four most responsive and psychologically sound candidates at the end of the show were indirectly given the opportunity to rob a (fake) armoured bank van.
+
+In 2008, folk musician Dar Williams released a song called "Buzzer", in which the narrator participated in the Milgram experiment. After being debriefed, the narrator realizes that evil is not committed by an unreachable other, but instead ordinary people and every day.
+
+The 2008 episode "Authority" of has Sergeant John Munch mentioning Milgram's experiment in reference to corporate training at HappiBurger (a McDonalds-like restaurant). Likewise, Merritt Rook (portrayed by Robin Williams) poses as a "Detective Milgram" to convince a restaurant owner to molest an employee and drive the doctor that let his wife and infant child die to suicide. He later kidnaps Detective Olivia Benson, takes her to an old recording studio, and wires her to a battery. He tells her partner, Detective Elliot Stabler (played by Christopher Meloni) to push the button on his remote to shock Benson with anywhere from 2 to 2000 volts. Stabler then realizes that Rook is performing Milgram's experiment on him. Each time he (Stabler) refuses, Rook becomes more enraged. Finally, when Stabler says he can't hurt his partner, Rook calls him a human being and tells him that his partner was never in any actual danger.
+
+The 2009 album, Avoid the Light, by German post-rock band Long Distance Calling, contains a song named "I Know you Stanley Milgram."
+
+In March 2010, French television channel France 2 broadcast Jusqu'où va la télé, describing the results of a fake game show that they had run 80 times (each time independently, and with a new contestant and audience). The contestants received instructions to administer what they thought would be near fatal electric shocks to another "contestant" (really an actor) when that other contestant erred on memorized word-associations. Encouraged by the show's host and by an unprimed studio audience, the vast majority followed instructions even as the "victim" screamed. French contestants torture each other on TV Game of Death Daily Telegraph, 17 March 2010 
+
+In 2010, luxury brand Enfants Perdus released a collection called "Milgram", in which the designers drew themes and inspiration from the Milgram experiment. Enfants Perdus 2010-2011 F/W Milgram Enfants Perdus, 11 June 2010 The design team has referenced the discussions about the human condition and the revelations of the human condition in numerous interviews.
+
+==See also==
+
+* Human experimentation in the United States
+* Milgram experiment
+* Harvard Department of Social Relations
+* Silent Generation
+* Small world phenomenon
+* Breaching experiment
+* Cyranoid
+* Philip Zimbardo (Lucifer Effect)
+* Stanford prison experiment
+* List of ethicists
+* List of famous experiments
+* List of psychologists
+* List of social psychologists
+
+==References==
+
+==Further reading==
+* Milgram, S. (1974), Obedience to Authority; An Experimental View ISBN 0-06-131983-X
+* Milgram, S. (1977), The individual in a social world: Essays and experiments. 3rd expanded edition published 2010 by Pinter & Martin, ISBN 978-1-905177-12-7.
+* Blass, T. (2004). The Man Who Shocked the World: The Life and Legacy of Stanley Milgram. ISBN 0-7382-0399-8
+* Milgram, S. (1965), Liberating Effects of Group Pressure 
+* Milgram, S., Liberty; II. J., Toledo. R. and Blacken J. (1956). Response to intrusion in waiting lines. Journal of Personality and Social Psychology. 51, 683-9.
+* 
+
+==External links==
+* stanleymilgram.com - site maintained by Dr Thomas Blass
+* milgramreenactment.org - site documenting Milgram's Obedience to Authority experiment by UK artist Rod Dickinson
+* Milgram Page - page documenting Milgram's Obedience to Authority experiment
+* 'The Man Who Shocked the World' article in Psychology Today by Thomas Blass
+* 'The Man Who Shocked the World' article in BMJ by Raj Persaud
+* 'Steve Blinkhorn's review of 'The man who shocked the world: the life and legacy of Stanley Milgram' by Thomas Blass.
+* and - papers on the ethics of the Obedience to Authority experiments by Milgram's research assistant, Alan Elms
+*Pinter & Martin, Stanley Milgram's British publishers
+* - link to the short film Atrocity, which re-enacts the Milgram Experiment
+* Guide to the Stanley Milgram Papers, Manuscripts and Archives, Yale University Library
+* Stanley Milgram, Obedience to Authority (1974) Chapter 1 and Chapter 15
+* Milgram's Obedience To Authority — Commentary from 50 Psychology Classics (2007)
+
+

@@ -1,0 +1,293 @@
+[[Stoicism]]
+
+Zeno of Citium, cast in Pushkin Museum in Moscow from original in Naples.
+
+Stoicism is a school of Hellenistic philosophy founded in Athens by Zeno of Citium in the early 3rd century BC. The Stoics taught that destructive emotions resulted from errors in judgment, and that a sage, or person of "moral and intellectual perfection," would not suffer such emotions. Stoicism, Stanford Encyclopedia of Philosophy. 
+
+Stoics were concerned with the active relationship between cosmic determinism and human freedom, and the belief that it is virtuous to maintain a will (called prohairesis) that is in accord with nature. Because of this, the Stoics presented their philosophy as a way of life, and they thought that the best indication of an individual's philosophy was not what a person said but how that person behaved. John Sellars. Stoicism, p. 32. 
+
+Later Stoics, such as Seneca and Epictetus, emphasized that because "virtue is sufficient for happiness," a sage was immune to misfortune. This belief is similar to the meaning of the phrase "stoic calm," though the phrase does not include the "radical ethical" Stoic views that only a sage can be considered truly free, and that all moral corruptions are equally vicious. 
+
+From its founding, Stoic doctrine was popular with a following in Roman Greece and throughout the Roman Empire — including the Emperor Marcus Aurelius — until the closing of all pagan philosophy schools in AD 529 by order of the Emperor Justinian I, who perceived their pagan character as being at odds with the Christian faith. Agathias. Histories, 2.31. 
+
+== Basic tenets ==
+
+The Stoics provided a unified account of the world, consisting of formal logic, non-dualistic physics and naturalistic ethics. Of these, they emphasized ethics as the main focus of human knowledge, though their logical theories were of more interest for later philosophers.
+
+Stoicism teaches the development of self-control and fortitude as a means of overcoming destructive emotions; the philosophy holds that becoming a clear and unbiased thinker allows one to understand the universal reason (logos). A primary aspect of Stoicism involves improving the individual's ethical and moral well-being: "Virtue consists in a will that is in agreement with Nature." Russell, Bertrand. A History of Western Philosophy, p. 254 This principle also applies to the realm of interpersonal relationships; "to be free from anger, envy, and jealousy," Russell, Bertrand. A History of Western Philosophy, p. 264 and to accept even slaves as "equals of other men, because all men alike are products of nature." Russell, Bertrand. A History of Western Philosophy, p. 253. 
+
+The Stoic ethic espouses a deterministic perspective; in regard to those who lack Stoic virtue, Cleanthes once opined that the wicked man is "like a dog tied to a cart, and compelled to go wherever it goes." A Stoic of virtue, by contrast, would amend his will to suit the world and remain, in the words of Epictetus, "sick and yet happy, in peril and yet happy, dying and yet happy, in exile and happy, in disgrace and happy," thus positing a "completely autonomous" individual will, and at the same time a universe that is "a rigidly deterministic single whole." This viewpoint was later described as "Classical Pantheism" (and was adopted by Dutch philosopher Baruch Spinoza). Charles Hartshorne and William Reese, "Philosophers Speak of God," Humanity Books, 1953 ch 4 
+
+Stoicism became the foremost popular philosophy among the educated elite in the Hellenistic world and the Roman Empire, to the point where, in the words of Gilbert Murray "nearly all the successors of Alexander professed themselves Stoics." Gilbert Murray, The Stoic Philosophy (1915), p.25. In Bertrand Russell, A History of Western Philosophy (1946). 
+
+== History ==
+
+DateFormat = yyyy
+ImageSize = width:1000 height:250
+PlotArea = left:15 right:10 bottom:20 top:0
+Colors =
+ id:bleuclair value:rgb(0.56,0.56,0.86)
+ id:rouge value:red
+ id:rougeclair value:rgb(0.86,0.56,0.56)
+ id:bleu value:rgb(0.76,0.76,0.96)
+ id:grilleMinor value:rgb(0.86,0.86,0.86)
+ id:grilleMajor value:rgb(0.56,0.56,0.56)
+ id:protohistoire value:rgb(1,0.7,0.7) 
+ id:noir value:black 
+ id:canvas value:rgb(0.97,0.97,0.97) 
+ id:Holo value:rgb(0.4,0.8,0.7) 
+ id:PSup value:rgb(0.5,1,0.5) 
+ id:PMoy value:rgb(0.6,1,0.6)
+ id:PInf value:rgb(0.7,1,0.7) # vert clair 
+ id:Plio value:rgb(0.8,1,0.8) # vert p�le
+ id:gris value:gray(0.80)
+ id:grilleMajor value:rgb(0.80,0.80,0.80)
+
+ id:Timeperiod value:red
+ id:Timeperiod2 value:rgb(0.86,0.56,0.56)
+
+Period = from:-400 till:300
+TimeAxis = orientation:horizontal format:yyyy
+AlignBars = justify
+ScaleMinor = unit:year increment:50 start:-400 gridcolor:grilleMinor
+ScaleMajor = unit:year increment:50 start:-400 gridcolor:grilleMajor
+BackgroundColors = canvas:canvas bars:canvas
+
+BarData=
+ bar:Timeperiod
+ barset:auteurs
+
+Define $marquerouge = text:"*" textcolor:rouge shift:(0,-3) fontsize:10
+
+PlotData=
+ width:15 fontsize:M textcolor:noir align:center
+
+ # Époques
+ bar:Timeperiod color:Timeperiod shift:(0,-3)
+ from:start till:end color:gris # Arrière plan
+
+ from:-400 till:300 text: "The Stoics" color:Timeperiod2
+
+ # auteurs
+ width:6 align:left fontsize:M shift:(5,-5) anchor:till
+ barset:auteurs
+ from:-335 till:-264 text:"Zeno of Citium" color:Pinf
+ from:-330 till:-232 text:"Cleanthes" color:Pinf
+ from:-281 till:-205 text:"Chrysippus" color:Pinf
+ from:-240 till:-152 text:"Diogenes of Babylon" color:Pinf
+ from:-210 till:-129 text:"Antipater of Tarsus" color:Pinf
+ from:-180 till:-100 text:"Panaetius" color:Pinf
+ from:-140 till:-51 text:"Posidonius" color:Pinf
+ from:-106 till:-43 text:"Cicero" color:Pinf
+ from:-4 till:65 text:"Seneca" color:Pinf
+ from:55 till:135 text:"Epictetus" color:Pinf
+ from:121 till:180 text:"Marcus Aurelius" color:Pinf
+
+Antisthenes, founder of the Cynic school of philosophy
+Beginning at around 301 BC, Zeno taught philosophy at the Stoa Poikile (i.e., "the painted porch"), from which his philosophy got its name. Unlike the other schools of philosophy, such as the Epicureans, Zeno chose to teach his philosophy in a public space, which was a colonnade overlooking the central gathering place of Athens, the Agora.
+
+Zeno's ideas developed from those of the Cynics, whose founding father, Antisthenes, had been a disciple of Socrates. Zeno's most influential follower was Chrysippus, who was responsible for the molding of what is now called Stoicism. Later Roman Stoics focused on promoting a life in harmony within the universe, over which one has no direct control.
+
+Scholars usually divide the history of Stoicism into three phases:
+
+* Early Stoa, from the founding of the school by Zeno to Antipater.
+* Middle Stoa, including Panaetius and Posidonius.
+* Late Stoa, including Musonius Rufus, Seneca, Epictetus, and Marcus Aurelius.
+
+As A. A. Long states, no complete work by any Stoic philosopher survives from the first two phases of Stoicism. Only Roman texts from the Late Stoa survive. A.A.Long, Hellenistic Philosophy, p.115. 
+
+== Logic ==
+
+=== Propositional logic ===
+
+Diodorus Cronus, who was one of Zeno's teachers, is considered the philosopher who first introduced and developed an approach to logic now known as propositional logic. This is an approach to logic based on statements or propositions, rather than terms, making it very different from Aristotle's term logic. Later, Chrysippus developed this approach to logic into a system that became known as Stoic logic and included a deductive system (Stoic Syllogistic) which was considered a rival to Aristotle's Syllogistic. New interest in Stoic logic came in the 20th century, when important developments in logic were based on propositional logic. Susanne Bobzien wrote, "The many close similarities between Chrysippus' philosophical logic and that of Gottlob Frege are especially striking." Stanford Encyclopedia of Philosophy: Susanne Bobzien, Ancient Logic 
+
+Bobzien also notes that "Chrysippus wrote over 300 books on logic, on virtually any topic logic today concerns itself with, including speech act theory, sentence analysis, singular and plural expressions, types of predicates, indexicals, existential propositions, sentential connectives, negations, disjunctions, conditionals, logical consequence, valid argument forms, theory of deduction, propositional logic, modal logic, tense logic, epistemic logic, logic of suppositions, logic of imperatives, ambiguity and logical paradoxes." Stanford Encyclopedia of Philosophy: Susanne Bobzien, Ancient Logic 
+
+=== Categories ===
+
+The Stoics held that all being (ὄντα) – though not all things (τινά) – is corporeal. They accepted the distinction between concrete bodies and abstract ones, but rejected Aristotle's belief that purely incorporeal being exists. Thus, they accepted Anaxagoras' idea (as did Aristotle) that if an object is hot, it is because some part of a universal heat body had entered the object. But, unlike Aristotle, they extended the idea to cover all accidents. Thus if an object is red, it would be because some part of a universal red body had entered the object.
+
+They held that there were four categories.
+; substance (ὑποκείμενον)
+: The primary matter, formless substance, (ousia) that things are made of
+; quality (ποιόν)
+: The way matter is organized to form an individual object; in Stoic physics, a physical ingredient (pneuma: air or breath), which informs the matter
+; somehow disposed (πως ἔχον)
+: Particular characteristics, not present within the object, such as size, shape, action, and posture
+; Somehow disposed in relation to something (πρός τί πως ἔχον)
+: Characteristics related to other phenomena, such as the position of an object within time and space relative to other objects
+
+=== Epistemology ===
+
+The Stoics propounded that knowledge can be attained through the use of reason. Truth can be distinguished from fallacy; even if, in practice, only an approximation can be made. According to the Stoics, the senses constantly receive sensations: pulsations that pass from objects through the senses to the mind, where they leave an impression in the imagination (phantasia). (An impression arising from the mind was called a phantasma.) VII.49 
+
+The mind has the ability to judge (συγκατάθεσις, synkatathesis)—approve or reject—an impression, enabling it to distinguish a true representation of reality from one that is false. Some impressions can be assented to immediately, but others can only achieve varying degrees of hesitant approval, which can be labeled belief or opinion (doxa). It is only through reason that we achieve clear comprehension and conviction (katalepsis). Certain and true knowledge (episteme), achievable by the Stoic sage, can be attained only by verifying the conviction with the expertise of one's peers and the collective judgment of humankind.
+
+== Physics and cosmology ==
+
+According to the Stoics, the universe is a material, reasoning substance, known as God or Nature, which the Stoics divided into two classes, the active and the passive. The passive substance is matter, which "lies sluggish, a substance ready for any use, but sure to remain unemployed if no one sets it in motion." Seneca, Epistles, lxv. 2. The active substance, which can be called Fate, or Universal Reason (Logos), is an intelligent aether or primordial fire, which acts on the passive matter:
+
+Everything is subject to the laws of Fate, for the Universe acts according to its own nature, and the nature of the passive matter it governs. The souls of people and animals are emanations from this primordial fire, and are, likewise, subject to Fate:
+
+Individual souls are perishable by nature, and can be "transmuted and diffused, assuming a fiery nature by being received into the Seminal Reason (logos spermatikos) of the Universe." Marcus Aurelius, Meditations, iv. 21. Since right Reason is the foundation of both humanity and the universe, it follows that the goal of life is to live according to Reason, that is, to live a life according to Nature.
+
+== Ethics and virtues ==
+The ancient Stoics are often misunderstood because the terms they used pertained to different concepts in the past than they do today. The word 'stoic' has come to mean 'unemotional' or indifferent to pain, because Stoic ethics taught freedom from 'passion' by following 'reason.' The Stoics did not seek to extinguish emotions; rather, they sought to transform them by a resolute 'askēsis' that enables a person to develop clear judgment and inner calm. Logic, reflection, and concentration were the methods of such self-discipline.
+
+Borrowing from the Cynics, the foundation of Stoic ethics is that good lies in the state of the soul itself; in wisdom and self-control. Stoic ethics stressed the rule: "Follow where reason leads." One must therefore strive to be free of the passions, bearing in mind that the ancient meaning of 'passion' was "anguish" or "suffering", that is, "passively" reacting to external events—somewhat different from the modern use of the word. A distinction was made between pathos (plural pathe) which is normally translated as passion, propathos or instinctive reaction (e.g., turning pale and trembling when confronted by physical danger) and eupathos, which is the mark of the Stoic sage (sophos). The eupatheia are feelings that result from correct judgment in the same way as passions result from incorrect judgment.
+
+The idea was to be free of suffering through apatheia (Greek: ) or peace of mind (literally, 'without passion'), where peace of mind was understood in the ancient sense—being objective or having "clear judgment" and the maintenance of equanimity in the face of life's highs and lows.
+
+For the Stoics, 'reason' meant not only using logic, but also understanding the processes of nature—the logos, or universal reason, inherent in all things. Living according to reason and virtue, they held, is to live in harmony with the divine order of the universe, in recognition of the common reason and essential value of all people. The four cardinal virtues of the Stoic philosophy are wisdom (Sophia), courage (Andreia), justice (Dikaiosyne), and temperance (Sophrosyne), a classification derived from the teachings of Plato.
+
+Following Socrates, the Stoics held that unhappiness and evil are the results of human ignorance of the reason in nature. If someone is unkind, it is because they are unaware of their own universal reason, which leads to the conclusion of kindness. The solution to evil and unhappiness then, is the practice of Stoic philosophy—to examine one's own judgments and behavior and determine where they diverge from the universal reason of nature.
+
+The Stoics accepted that suicide was permissible for the wise person in circumstances that might prevent them from living a virtuous life. Don E. Marietta, (1998), Introduction to ancient philosophy, pages 153–4. Sharpe Plutarch held that accepting life under tyranny would have compromised Cato's self-consistency (constantia) as a Stoic and impaired his freedom to make the honorable moral choices. Suicide could be justified if one fell victim to severe pain or disease, but otherwise suicide would usually be seen as a rejection of one's social duty. William Braxton Irvine, (2009), A guide to the good life: the ancient art of Stoic joy, page 200. Oxford University Press 
+
+=== The doctrine of "things indifferent" ===
+In philosophical terms, things that are indifferent are outside the application of moral law, that is without tendency to either promote or obstruct moral ends. Actions neither required nor forbidden by the moral law, or that do not affect morality, are called morally indifferent. The doctrine of things indifferent (, adiaphora) arose in the Stoic school as a corollary of its diametric opposition of virtue and vice ( kathekon and ἁμαρτήματα hamartemata, respectively "convenient actions," or actions in accordance with nature, and mistakes). As a result of this dichotomy, a large class of objects were left unassigned and thus regarded as indifferent.
+
+Eventually three sub-classes of "things indifferent" developed: things to prefer because they assist life according to nature; things to avoid because they hinder it; and things indifferent in the narrower sense. The principle of adiaphora was also common to the Cynics and Sceptics. The doctrine of things indifferent was revived during the Renaissance by Philipp Melanchthon.
+
+=== Spiritual exercise ===
+Marcus Aurelius, the Stoic emperor
+Philosophy for a Stoic is not just a set of beliefs or ethical claims, it is a way of life involving constant practice and training (or askesis, see asceticism). Stoic philosophical and spiritual practices included logic, Socratic dialog and self-dialog, contemplation of death, training attention to remain in the present moment (similar to some forms of Eastern meditation), and daily reflection on everyday problems and possible solutions. Philosophy for a Stoic is an active process of constant practice and self-reminder.
+
+In his Meditations, Marcus Aurelius defines several such practices. For example, in Book II, part 1:
+
+Say to yourself in the early morning: I shall meet today ungrateful, violent, treacherous, envious, uncharitable men. All of these things have come upon them through ignorance of real good and ill... I can neither be harmed by any of them, for no man will involve me in wrong, nor can I be angry with my kinsman or hate him; for we have come into the world to work together...
+
+Prior to Aurelius, Epictetus in his Discourses distinguished between three types of act: judgment, desire, and inclination. Davidson, A.I. (1995) Pierre Hadot and the Spiritual Phenomenon of Ancient Philosophy, in Philosophy as a Way of Life, Hadot, P. Oxford Blackwells pp9-10 According to French philosopher Pierre Hadot, Epictetus identifies these three acts with logic, physics, and ethics respectively. Hadot, P. (1992) La Citadelle intérieure. Introduction aux Pensées de Marc Aurèle. Paris, Fayard, pp106-115 Hadot writes that in the Meditations, "Each maxim develops either one of these very characteristic topoi acts, or two of them or three of them." Hadot, P (1987) Exercices spirituels et philosophie antique. Paris, 2nd edn, p135. 
+
+The practices of spiritual exercises have been described as influencing those of reflective practice by Seamus Mac Suibhne . Parallels between Stoic spiritual exercises and modern cognitive-behavioral therapy have been detailed at length in Robertson's The Philosophy of Cognitive-Behavioral Therapy. 
+
+== Social philosophy ==
+A distinctive feature of Stoicism is its cosmopolitanism: All people are manifestations of the one universal spirit and should, according to the Stoics, live in brotherly love and readily help one another. In the Discourses, Epictetus comments on man's relationship with the world: "Each human being is primarily a citizen of his own commonwealth; but he is also a member of the great city of gods and men, whereof the city political is only a copy." Epictetus, Discourses, ii. 5. 26 This sentiment echoes that of Diogenes of Sinope, who said "I am not an Athenian or a Corinthian, but a citizen of the world." Epictetus, Discourses, i. 9. 1 
+
+They held that external differences such as rank and wealth are of no importance in social relationships. Instead they advocated the brotherhood of humanity and the natural equality of all human beings. Stoicism became the most influential school of the Greco–Roman world, and produced a number of remarkable writers and personalities, such as Cato the Younger and Epictetus.
+
+In particular, they were noted for their urging of clemency toward slaves. Seneca exhorted, "Kindly remember that he whom you call your slave sprang from the same stock, is smiled upon by the same skies, and on equal terms with yourself breathes, lives, and dies." Seneca, Moral letters to Lucilius, Letter 47: On master and slave, 10, circa AD 65. 
+
+== Christianity ==
+
+The major difference between the two philosophies is Stoicism's pantheism, in which God is never fully transcendent but always immanent. God as the world-creating entity is personalized in Christian thought, but Stoicism equates God with the totality of the universe, which was deeply contrary to Christianity. The only incarnation in Stoicism is that each person has part of the logos within. Stoicism, unlike Christianity, does not posit a beginning or end to the universe. 
+
+Stoicism was later regarded by the Fathers of the Church as a 'pagan philosophy'; nonetheless, some of the central philosophical concepts of Stoicism were employed by the early Christian writers. Examples include the terms "logos", "virtue", "Spirit", and "conscience". Ferguson, Everett. Backgrounds of Early Christianity. 2003, page 368. But the parallels go well beyond the sharing and borrowing of terminology. Both Stoicism and Christianity assert an inner freedom in the face of the external world, a belief in human kinship with Nature or God, a sense of the innate depravity—or "persistent evil"—of humankind, and the futility and temporarity of worldly possessions and attachments. Both encourage Ascesis with respect to the passions and inferior emotions such as lust, envy and anger, so that the higher possibilities of one's humanity can be awakened and developed.
+
+Stoic writings such as the Meditations of Marcus Aurelius have been highly regarded by many Christians throughout the centuries. The Stoic ideal of dispassion is accepted to this day as the perfect moral state by the Eastern Orthodox Church. Saint Ambrose of Milan was known for applying Stoic philosophy to his theology.
+
+== Modern usage ==
+The word "stoic" commonly refers to someone indifferent to pain, pleasure, grief, or joy. The modern usage as "person who represses feelings or endures patiently" was first cited in 1579 as a noun, and 1596 as an adjective. In contrast to the term "Epicurean", the Stanford Encyclopedia of Philosophy's entry on Stoicism notes, "the sense of the English adjective 'stoical' is not utterly misleading with regard to its philosophical origins." 
+
+== Quotations ==
+Below are some quotations from major Stoic philosophers, selected to illustrate common Stoic beliefs:
+
+Epictetus:
+*"Freedom is secured not by the fulfilling of men's desires, but by the removal of desire." (iv.1.175)
+*"Where is the good? In the will. Where is the evil? In the will. Where is neither of them? In those things that are independent of the will." (ii.16.1)
+*"Man is disturbed not by things, but by the views he takes of them." (Ench. 5)
+*"If, therefore, any be unhappy, let him remember that he is unhappy by reason of himself alone." (iii.24.2)
+*"I am formed by nature for my own good: I am not formed for my own evil." (iii.24.83)
+*"Permit nothing to cleave to you that is not your own; nothing to grow to you that may give you agony when it is torn away." (iv.1.112)
+
+Marcus Aurelius:
+*"Get rid of the judgment, get rid of the 'I am hurt,' you are rid of the hurt itself." (viii.40)
+*"Everything is right for me that is right for you, O Universe. Nothing for me is too early or too late that comes in due time for you. Everything is fruit to me that your seasons bring, O Nature. From you are all things, in you are all things, to you all things return." (iv.23)
+*"If you work at that which is before you, following right reason seriously, vigorously, calmly, without allowing anything else to distract you, but keeping your divine part pure, as if you were bound to give it back immediately; if you hold to this, expecting nothing, but satisfied to live now according to nature, speaking heroic truth in every word that you utter, you will live happy. And there is no man able to prevent this." (iii.12)
+*"How ridiculous and how strange to be surprised at anything that happens in life!" (xii.13)
+*"Outward things cannot touch the soul, not in the least degree; nor have they admission to the soul, nor can they turn or move the soul; but the soul turns and moves itself alone." (v.19)
+*"Because your own strength is unequal to the task, do not assume that it is beyond the powers of man; but if anything is within the powers and province of man, believe that it is within your own compass also" (vi.19)
+*"Or is it your reputation that's bothering you? But look at how soon we're all forgotten. The abyss of endless time that swallows it all. The emptiness of all those applauding hands. The people who praise us — how capricious they are, how arbitrary. And the tiny region in which it all takes place. The whole earth a point in space — and most of it uninhabited. How many people there will be to admire you, and who they are." (iv.3)
+
+Seneca the Younger:
+*"The point is, not how long you live, but how nobly you live." (Ep. 101.15)
+*"That which Fortune has not given, she cannot take away." (Ep. 59.18)
+*"Let Nature deal with matter, which is her own, as she pleases; let us be cheerful and brave in the face of everything, reflecting that it is nothing of our own that perishes." (De Provid. v.8)
+*"Virtue is nothing else than right reason." (Ep. 66.32)
+
+== Philosophers ==
+
+* Zeno of Citium (332–262 BC), founder of Stoicism and the Stoic Academy (Stoa) in Athens
+* Aristo of Chios, pupil of Zeno;
+* Herillus of Carthage
+* Cleanthes (of Assos) (330–232 BC), second head of Stoic Academy
+* Chrysippus (280–204 BC), third head of the academy
+* Diogenes of Babylon (230–150 BC)
+* Antipater of Tarsus (210–129 BC)
+* Panaetius of Rhodes (185–109 BC)
+* Posidonius of Apameia (c. 135 BC – 51 BC)
+* Diodotus (c. 120 BC – 59 BC), teacher of Cicero
+* Cato the Younger (94–46 BC)
+* Seneca (4 BC – AD 65)
+* Gaius Musonius Rufus
+* Rubellius Plautus
+* Publius Clodius Thrasea Paetu
+* Epictetus (AD 55–135 )
+* Hierocles (2nd century AD)
+* Marcus Aurelius (AD 121–180 )
+
+== See also ==
+* Glossary of Stoic terms
+* Megarian school
+* Pneuma
+* Ekpyrotic universe (cosmological theory)
+* Plank of Carneades
+* Stoic categories
+* List of ancient Greek philosophers
+* Stoic Natural Law
+* Dehellenization
+* Stoicorum Veterum Fragmenta
+
+== References ==
+
+== Further reading ==
+
+=== Primary sources ===
+* A. A. Long and D. N. Sedley, The Hellenistic Philosophers Cambridge: Cambridge University Press, 1987.
+* Inwood, Brad & Gerson LLoyd P. (eds.) The Stoics Reader: Selected Writings and Testimonia Indianapolis: Hackett 2008.
+* Long, George Enchiridion by Epictetus, Prometheus Books, Reprint Edition, January 1955.
+* Gill C. Epictetus, The Discourses, Everyman 1995.
+* Hadas, Moses (ed.), Essential Works of Stoicism, Bantam Books 1961.
+* Harvard University Press Epictetus Discourses Books 1 and 2, Loeb Classical Library Nr. 131, June 1925.
+* Harvard University Press Epictetus Discourses Books 3 and 4, Loeb Classical Library Nr. 218, June 1928.
+* Long, George, Discourses of Epictetus, Kessinger Publishing, January 2004.
+* Lucius Annaeus Seneca the Younger (transl. Robin Campbell), Letters from a Stoic: Epistulae Morales Ad Lucilium (1969, reprint 2004) ISBN 0-14-044210-3
+* Marcus Aurelius, Meditations, translated by Maxwell Staniforth; ISBN 0-14-044140-9, or translated by Gregory Hays; ISBN 0-679-64260-9.
+* Oates, Whitney Jennings, The Stoic and Epicurean philosophers, The Complete Extant Writings of Epicurus, Epictetus, Lucretius and Marcus Aurelius, Random House, 9th printing 1940.
+
+=== Studies ===
+* Bakalis, Nikolaos, Handbook of Greek Philosophy: From Thales to the Stoics. Analysis and Fragments, Trafford Publishing, May 2005, ISBN 1-4120-4843-5
+* Becker, Lawrence C., A New Stoicism (Princeton: Princeton Univ. Press, 1998) ISBN 0-691-01660-7
+* Brennan, Tad, The Stoic Life (Oxford: Oxford University Press, 2005; paperback 2006)
+* Brooke, Christopher. Philosophic Pride: Stoicism and Political Thought from Lipsius to Rousseau (Princeton UP, 2012) excerpts
+* Inwood, Brad (ed.), The Cambridge Companion to The Stoics (Cambridge: Cambridge University Press, 2003)
+* Irvine, William, A Guide to the Good Life: The Ancient Art of Stoic Joy (Oxford: Oxford University Press, 2008) ISBN 978-0-19-537461-2
+* Lachs, John, Stoic Pragmatism (Indiana University Press, 2012) ISBN 0-253-22376-8
+* Long, A. A., Stoic Studies (Cambridge University Press, 1996; repr. University of California Press, 2001) ISBN 0-520-22974-6
+* Robertson, Donald, The Philosophy of Cognitive-Behavioral Therapy: Stoicism as Rational and Cognitive Psychotherapy (London: Karnac, 2010) ISBN 978-1-85575-756-1
+* Sellars, John, Stoicism (Berkeley: University of California Press, 2006) ISBN 1-84465-053-7
+* Stephens, William O., Stoic Ethics: Epictetus and Happiness as Freedom (London: Continuum, 2007) ISBN 0-8264-9608-3
+* Strange, Steven (ed.), Stoicism: Traditions and Transformations (Cambridge: Cambridge Univ. Press, 2004) ISBN 0-521-82709-4
+* Zeller, Eduard; Reichel, Oswald J., The Stoics, Epicureans and Sceptics, Longmans, Green, and Co., 1892
+
+== External links ==
+
+* 
+* 
+* 
+* 
+* The Stoic Library
+* The Rebirth of Stoicism
+* Stoic Logic: The Dialectic from Zeno to Chrysippus
+* Annotated Bibliography on Ancient Stoic Dialectic
+* 
+* BBC Radio 4's In Our Time programme on Stoicism (requires Flash)
+* An introduction to Stoic Philosophy
+* Modern Stoic writings of Dmitri Mandaliev
+* Online Stoic Community: New Stoa
+* Stoicism Today Project
+
+ 
+
+

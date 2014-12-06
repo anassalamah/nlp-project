@@ -1,0 +1,58 @@
+[[Thixotropy]]
+
+Thixotropy is a shear thinning property. Certain gels or fluids that are thick (viscous) under static conditions will flow (become thin, less viscous) over time when shaken, agitated, or otherwise stressed (Time Dependent Viscosity). They then take a fixed time to return to a more viscous state.
+In more technical language:
+some non-Newtonian pseudoplastic fluids show a time-dependent change in viscosity; the longer the fluid undergoes shear stress, the lower its viscosity. A thixotropic fluid is a fluid which takes a finite time to attain equilibrium viscosity when introduced to a step change in shear rate. Some thixotropic fluids return to a gel state almost instantly, such as ketchup, and are called pseudoplastic fluids. Others such as yogurt take much longer and can become nearly solid. Many gels and colloids are thixotropic materials, exhibiting a stable form at rest but becoming fluid when agitated.
+
+Some fluids are anti-thixotropic: constant shear stress for a time causes an increase in viscosity or even solidification. Constant shear stress can be applied by shaking or mixing. Fluids which exhibit this property are usually called rheopectic. They are much less common.
+
+==Natural examples==
+Some clays are thixotropic, with their behavior of great importance in structural and geotechnical engineering. Landslides, such as those common in the cliffs around Lyme Regis, Dorset and in the Aberfan spoil tip disaster in Wales are evidence of this phenomenon. Similarly, a lahar is a mass of earth liquefied by a volcanic event, which rapidly solidifies once coming to rest.
+
+Drilling muds used in geotechnical applications can be thixotropic. Honey from honey bees may also exhibit this property under certain conditions.(heather honey).
+
+Another example of a thixotropic fluid is the synovial fluid found in joints between some bones. Both cytoplasm and the ground substance in the human body is thixotropic, as is semen. Hendrickson, T: "Massage for Orthopedic Conditions", page 9. Lippincott Williams & Wilkins, 2003. 
+
+Some clay deposits found in the process of exploring caves exhibit thixotropism: an initially solid-seeming mudbank will turn soupy and yield up moisture when dug into or otherwise disturbed. These clays were deposited in the past by low-velocity streams which tend to deposit fine-grained sediment.
+
+A thixotropic fluid is best visualised by an oar blade embedded in mud. Pressure on the oar often results in a highly viscous (more solid) thixotropic mud on the high pressure side of the blade, and low viscosity (very fluid) thixotropic mud on the low pressure side of the oar blade. Flow from the high pressure side to the low pressure side of the oar blade is non-Newtonian. (i.e.: fluid velocity is not proportional to the square root of the pressure differential over the oar blade).
+
+==Applications==
+Thread-locking fluid is a thixotropic adhesive that cures anaerobically.
+
+Thixotropy has been proposed as a scientific explanation of blood liquefaction miracles such as that of Saint Januarius in Naples. Garlaschelli, Ramaccini, Della the swagg fights of air forces Sala, "The Blood of St. Januarius", Chemistry in Britain 30.2, (1994:123) 
+
+Semi-solid casting processes such as thixomoulding use the thixotropic property of some alloys (mostly light metals) (bismuth). Within certain temperature ranges, with appropriate preparation, an alloy can be put into a semi-solid state, which can be injected with less shrinkage and better overall properties than by normal injection molding.
+
+Solder pastes used in electronics manufacturing printing processes are thixotropic.
+
+Many kinds of paints and inks— e.g.plastisols used in silkscreen textile printing— exhibit thixotropic qualities. In many cases it is desirable for the fluid to flow sufficiently to form a uniform layer, then to resist further flow (which may become a sagging problem on a vertical surface). Some other inks, such as those used in CMYK-type process printing, are designed to regain viscosity even faster, once they are applied, in order to protect the structure of the dots for accurate color reproduction.
+
+==Etymology==
+The word comes from Ancient Greek θίξις thixis "touch" (from thinganein "to touch") and -tropy, -tropous, from Ancient Greek -τρόπος -tropos "of turning", from τρόπος tropos "a turn", from τρέπειν trepein, "to turn".
+
+==See also==
+*Aberfan disaster
+*Calcium Sulfate
+*Dilatant (antonym)
+*Fumed silica
+*Kaye effect
+*Nanocellulose
+*Polymer
+*Pseudoplastic
+*Rheopexy (antonym)
+*Shear thinning
+*Silly putty
+*Solder_paste#Composition find "thixotropic index"
+*Viscosity
+
+==References==
+
+*Derakhshandeh, B. Vlassopolous D., and Hatzikiriakos S.G., Thixotropy, Yielding and ultrasonic Doppler velocimetry in pulp fibre suspensions, in Rheologica Acta DOI 10.1007/s00397-011-0577-7, 2011)
+*Reiner, M., and Scott Blair, Rheology terminology, in Rheology, Vol. 4 pp. 461, (New York: Achedemic Press, 1967)
+*Dam break wave of thixotropic fluid in Journal Hydraulic Engineering, 2006, Vol. 132, No. 3, pp. 280–293
+
+==External links==
+*
+
+

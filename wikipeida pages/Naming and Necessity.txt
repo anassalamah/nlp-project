@@ -1,0 +1,77 @@
+[[Naming and Necessity]]
+
+Naming and Necessity is a book by the philosopher Saul Kripke that was first published in 1980 and deals with the debates of proper nouns in the philosophy of language. The book is based on a transcript of three lectures given at Princeton University in 1970. Kripke, Saul. 1980. Naming and Necessity. Harvard University Press: 22. The transcript was brought out originally in 1971 in The Semantics of Natural Language, edited by Donald Davidson and Gilbert Harman. Among analytic philosophers, Naming and Necessity is widely considered one of the most important philosophical works of the twentieth century. Soames, Scott. 2005. Philosophical Analysis in the Twentieth Century: Volume 2: The Age of Meaning. Princeton University Press. Cited in Byrne, Alex and Hall, Ned. 2004. 'Necessary Truths'. Boston Review October/November 2004. 
+
+==Overview==
+Language is a primary concern of analytic philosophers, particularly the use of language to express concepts and to refer to individuals.
+In Naming and Necessity, Kripke considers several questions that are important within analytic philosophy:
+*How do names refer to things in the world? (the problem of intentionality)
+*Are all statements that can be known a priori necessarily true, and are all statements that are known a posteriori contingently true?
+*Do objects (including people) have any essential properties?
+*What is the nature of identity?
+*How do natural kind terms refer and what do they mean?
+
+Kripke's three lectures constitute an attack on descriptivist theories of proper names. Kripke attributes variants of descriptivist theories to Gottlob Frege, Bertrand Russell, Ludwig Wittgenstein and John Searle, among others. According to descriptivist theories, proper names either are synonymous with descriptions, or have their reference determined by virtue of the name's being associated with a description or cluster of descriptions that an object uniquely satisfies. Kripke rejects both these kinds of descriptivism. He gives several examples purporting to render descriptivism implausible as a theory of how names get their reference determined (e.g., surely Aristotle could have died at age two and so not satisfied any of the descriptions we associate with his name, and yet it would seem wrong to deny that he was Aristotle). As an alternative, Kripke adumbrated a causal theory of reference, according to which a name refers to an object by virtue of a causal connection with the object as mediated through communities of speakers. He points out that proper names, in contrast to most descriptions, are rigid designators: A proper name refers to the named object in every possible world in which the object exists, while most descriptions designate different objects in different possible worlds. For example, 'Nixon' refers to the same person in every possible world in which Nixon exists, while 'the person who won the United States presidential election of 1968' could refer to Nixon, Humphrey, or others in different possible worlds.
+Kripke also raised the prospect of a posteriori necessities — facts that are necessarily true, though they can be known only through empirical investigation. Examples include "Hesperus is Phosphorus", "Cicero is Tully", "Water is H2O" and other identity claims where two names refer to the same object.
+
+Finally, Kripke gave an argument against identity materialism in the philosophy of mind, the view that every mental fact is identical with some physical fact (See talk). Kripke argued that the only way to defend this identity is as an a posteriori necessary identity, but that such an identity — e.g., pain is C-fibers firing — could not be necessary, given the possibility of pain that has nothing to do with C-fibers firing. Similar arguments have been proposed by David Chalmers. Chalmers, David. 1996. The Conscious Mind. Oxford University Press pp. 146-9. 
+
+Kripke delivered the John Locke lectures in philosophy at Oxford in 1973. Titled Reference and Existence, they are in many respects a continuation of Naming and Necessity, and deal with the subjects of fictional names and perceptual error. They have recently been published by Oxford University Press. Quentin Smith has claimed that some of the ideas in Naming & Necessity were first presented (at least in part) by Ruth Barcan Marcus. Smith, Quentin. Marcus, Kripke, and the Origin of The New Theory of Reference, Synthese, Volume 104, No. 2, August 1995, pp. 179-189. Kripke is alleged to have misunderstood Marcus' ideas during a 1969 lecture which he attended (based on the questions he asked), and later arrived at similar conclusions. Marcus, however, has refused to publish the verbatim transcript of the lecture. Smith's view is very controversial, and several well-known scholars (for example, Stephen Neale and Scott Soames) have subsequently offered detailed responses arguing that his account is mistaken. ^ Stephen Neale (9 February 2001). "No Plagiarism Here" (.PDF). Times Literary Supplement 104: 12–13. . http://web.gc.cuny.edu/philosophy/people/neale/papers/NealeKripke.pdf. 
+
+== A theory of naming ==
+
+In the first lecture, Kripke introduced a schematic semi-formal version of the kind of "theory of naming" he was criticising (1980:64–65). "David Kaplan's investigation of 'Dthat', mentioned in footnote 22 Naming and necessity, has been extended to a 'logic of demonstratives' in which, he says, a good deal of the argument of this paper can be given a formal representation. Indeed a good deal of this paper suggests a certain formal apparatus, though the present presentation is informal." Kripke (1980): 164. He began the second lecture by recapitulating the "theses" of this theory, together with the "noncircularity condition" he had discussed in closing the first lecture. Apparently, the theses and condition had been written up on a board for all to see. This text was reproduced, as quoted below, in the "lightly edited" transcript of 1980 (p. 71).
+
+# To every name or designating expression 'X', there corresponds a cluster of properties, namely the family of those properties φ such that A believes 'φX'.
+# One of the properties, or some conjointly, are believed by A to pick out some individual uniquely.
+# If most, or a weighted most, of the φ's are satisfied by one unique object y, then y is the referent of 'X'.
+# If the vote yields no unique object, 'X' does not refer.
+# The statement, 'If X exists, then X has most of the φ's' is known a priori by the speaker.
+# The statement, 'If X exists, then X has most of the φ's' expresses a necessary truth (in the idiolect of the speaker).
+:(C) For any successful theory, the account must not be circular. The properties which are used in the vote must not themselves involve the notion of reference in such a way that it is ultimately impossible to eliminate.
+
+==Lecture I: January 20, 1970==
+Kripke's main goals in this first lecture are to explain and critique the existing philosophical opinions on the way that names work.
+
+In the mid-20th century, the most significant philosophical theory about the nature of names and naming was a theory of Gottlob Frege's that had been developed by Bertrand Russell, the descriptivist theory of names, which was sometimes known as the 'Frege-Russell description theory'. Before Kripke gave his 'Naming and Necessity' lectures, a number of criticisms of this descriptivist theory had been published by leading philosophers, including Ludwig Wittgenstein, John Searle and Peter Strawson. However, Kripke believed that the existing arguments against the Frege-Russell descriptive theory of names failed to identify the real problems with the theory.
+
+==Lecture II: January 22, 1970==
+In 'Lecture II', Kripke reconsiders the cluster theory of names and argues for his own position on the nature of reference, a position that contributed to the development of the causal theory of reference.
+
+==Lecture III: January 29, 1970==
+In 'Lecture III', Kripke discusses natural kinds, develops the distinction between epistemic and metaphysical necessity, and discusses the mind–body problem in philosophy of mind.
+
+Kripke begins by summarising the conclusions drawn in the first two lectures. First, the referent of names is not usually fixed by some property or set of properties that the speaker believes are possessed by the thing or person named. Instead, the referent of names is usually determined by a series of causal links between people who have used the name. Second, when the referent of a name is determined by a property attributed to the thing named, the link is contingent, rather than necessary or essential. People begin using the name 'Jack the Ripper' to refer to the person responsible for the murder of five women in London. So, the name was fixed to its referent by a description. However, the person who carried out the murders might have been jailed for another crime and, thus, might never have had the property of murdering those women. So, the link between the property of being a murderer and the person referred to is contingent. Third, identity is not a relation that holds between names. It is a relation that holds between an object and itself. When someone accurately claims that two names refer to the same object, the claim is necessarily true, even though it may be known a posteriori. Thus, Kripke claims to have successfully refuted the assumption made by everyone before him that anything that is necessarily true will be known a priori (i.e. Immanuel Kant 1781/1787).
+
+==Importance==
+In Philosophical Analysis in the Twentieth Century: Volume 2: The Age of Meaning, Scott Soames wrote:
+In the philosophy of language, Naming and Necessity is among the most important works ever, ranking with the classical work of Frege in the late nineteenth century, and of Russell, Tarski and Wittgenstein in the first half of the twentieth century . . . Naming and Necessity played a large role in the implicit, but widespread, rejection of the view—so popular among ordinary language philosophers—that philosophy is nothing more than the analysis of language. Soames, Scott. 2005. Philosophical Analysis in the Twentieth Century: Volume 2: The Age of Meaning. Princeton University Press. Cited in Byrne, Alex and Hall, Ned. 2004. 'Necessary Truths'. Boston Review October/November 2004. 
+
+==See also==
+*Causal theory of reference
+*Descriptivist theory of names
+*Rigid designation
+*A Posteriori Necessity
+
+==Footnotes==
+ 
+
+==References==
+* Anscombe, Elizabeth. 1957. Intention. Oxford: Basil Blackwell.
+* Byrne, Alex and Hall, Ned. 2004. 'Necessary Truths'. Boston Review October/November 2004. 
+* Kripke, Saul. 1972. 'Naming and Necessity'. In Davidson, Donald and Harman, Gilbert, eds., Semantics of Natural Language. Dordrecht: Reidel: 253-355, 763-769.
+* Kripke, Saul. 1977. 'Speaker’s Reference and Semantic Reference'. In Midwest Studies in Philosophy, vol. 2: 255-276.
+* Kripke, Saul. 1979. 'A Puzzle about Belief'. In Margalit, Avishai, ed., Meaning and Use. Dordrecht: Reidel: 239-283.
+* Kripke, Saul. 1980. Naming and Necessity. Cambridge: Harvard University Press.
+* Kripke, Saul. 2013. Reference and Existence. The John Locke Lectures. New York: Oxford University Press. ISBN 9780199928385.
+* Searle, John. R. 1958. 'Proper Names'. Mind 67: 166-73.
+* Soames, Scott. 2002. Beyond Rigidity. Oxford: Oxford University Press.
+* Soames, Scott. 2005. Philosophical Analysis in the Twentieth Century: Volume 2: The Age of Meaning. Princeton University Press.
+* Strawson, Peter. 1959. Individuals: An Essay in Descriptive Metaphysics. London: Routledge.
+* Wittgenstein, Ludwig. 1953. Philosophical Investigations. Anscombe, G. E. M., (transl.). MacMillan.
+
+==External links==
+*Harvard University Press information on Naming and Necessity
+*Jim Holt. 1997. 'Whose idea is it anyway? A Philosophers' Feud'. Lingua Franca.
+
+

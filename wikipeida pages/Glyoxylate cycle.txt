@@ -1,0 +1,50 @@
+[[Glyoxylate cycle]]
+
+Overview of the Glyoxylate Cycle
+The glyoxylate cycle, a variation of the tricarboxylic acid cycle, is an anabolic pathway occurring in plants, bacteria, protists, and fungi. The glyoxylate cycle centers on the conversion of acetyl-CoA to succinate for the synthesis of carbohydrates. In microorganisms, the glyoxylate cycle allows cells to utilize simple carbon compounds as a carbon source when complex sources such as glucose are not available. The cycle is generally assumed to be absent in animals, with the exception of nematodes at the early stages of embryogenesis. In recent years, however, the detection of malate synthase (MS) and isocitrate lyase (ICL), key enzymes involved in the glyoxylate cycle, in some animal tissue has raised questions regarding the evolutionary relationship of enzymes in bacteria and animals and suggests that animals encode alternative enzymes of the cycle that differ in function from known MS and ICL in non-metazoan species. 
+
+== Similarities with TCA cycle ==
+
+The glyoxylate cycle utilizes three of the five enzymes associated with the tricarboxylic acid cycle and shares many of its intermediate steps. The two cycles vary when, in the glyoxylate cycle, ICL converts isocitrate into glyoxylate and succinate instead of α-ketoglutarate as seen in the TCA cycle. This bypasses the decarboxylation steps that take place in the TCA cycle, allowing simple carbon compounds to be used in the later synthesis of macromolecules, including glucose. The glyoxylate cycle then continues on, using glyoxylate and acetyl-CoA to produce malate. 
+
+== Role in gluconeogenesis ==
+
+Fatty acids from lipids are commonly used as an energy source by vertebrates as fatty acids are degraded through beta oxidation into acetate molecules. This acetate, bound to the active thiol group of coenzyme A, enters the citric acid cycle (TCA cycle) where it is fully oxidized to carbon dioxide. This pathway thus allows cells to obtain energy from fat. To utilize acetate from fat for biosynthesis of carbohydrates, the glyoxylate cycle, whose initial reactions are identical to the TCA cycle, is used.
+
+Cell-wall containing organisms, such as plants, fungi, and bacteria, require very large amounts of carbohydrates during growth for the biosynthesis of complex structural polysaccharides, such as cellulose, glucans, and chitin. In these organisms, in the absence of available carbohydrates (for example, in certain microbial environments or during seed germination in plants), the glyoxylate cycle permits the synthesis of glucose from lipids via acetate generated in fatty acid β-oxidation.
+
+The glyoxylate cycle bypasses the steps in the citric acid cycle where carbon is lost in the form of CO2. The two initial steps of the glyoxylate cycle are identical to those in the citric acid cycle: acetate → citrate → isocitrate. In the next step, catalyzed by the first glyoxylate cycle enzyme, isocitrate lyase, isocitrate undergoes cleavage into succinate and glyoxylate (the latter gives the cycle its name). Glyoxylate condenses with acetyl-CoA (a step catalyzed by malate synthase), yielding malate. Both malate and oxaloacetate can be converted into phosphoenolpyruvate, which is the product of phosphoenolpyruvate carboxykinase, the first enzyme in gluconeogenesis. The net result of the glyoxylate cycle is therefore the production of glucose from fatty acids. Succinate generated in the first step can enter into the citric acid cycle to eventually form oxaloacetate. 
+
+== Function in organisms ==
+=== Plants ===
+In plants the glyoxylate cycle occurs in special peroxisomes which are called glyoxysomes. This cycle allows seeds to use lipids as a source of energy to form the shoot during germination. The seed cannot produce biomass using photosynthesis because of lack of an organ to perform this function. The lipid stores of germinating seeds are used for the formation of the carbohydrates that fuel the growth and development of the organism.
+
+The glyoxylate cycle can also provide plants with another aspect of metabolic diversity. This cycle allows plants to take in acetate both as a carbon source and as a source of energy. Acetate is converted to Acetyl CoA (similar to the TCA cycle). This Acetyl CoA can proceed through the glyoxylate cycle, and some succinate is released during the cycle. The four carbon succinate molecule can be transformed into a variety of carbohydrates through combinations of other metabolic processes; the plant can synthesize molecules using acetate as a source for carbon. The Acetyl CoA can also react with glyoxylate to produce some NADPH from NADP+, which is used to drive energy synthesis in the form of ATP later in the Electron Transport Chain.
+ 
+
+=== Pathogenic fungi ===
+
+The glyoxylate cycle may serve an entirely different purpose in some species of pathogenic fungi. The levels of the main enzymes of the glyoxylate cycle, ICL and MS, are greatly increased upon contact with a human host. Mutants of a particular species of fungi that lacked ICL were also significantly less virulent in studies with mice compared to the wild type. The exact link between these two observations is still being explored, but it can be concluded that the glyoxylate cycle is a significant factor in the pathogenesis of these microbes. 
+
+=== Vertebrates ===
+
+Vertebrates were once thought to be unable to perform this cycle because there was no evidence of its two key enzymes, isocitrate lyase and malate synthase. However, some research suggests that this pathway may exist in some, if not all, vertebrates. 
+ 
+ Specifically, some studies show evidence of components of the glyoxylate cycle existing in significant amounts in the liver tissue of chickens. Data such as these support the idea that the cycle could theoretically occur in even the most complex vertebrates. Other experiments have also provided evidence that the cycle is present among certain insect and marine invertebrate species, as well as strong evidence of the cycle's presence in nematode species. However, other experiments refute this claim Some publications conflict on the presence of the cycle in mammals: for example, one paper has stated that the glyoxalate cycle is active in hibernating bears, but this report was disputed in a later paper. On the other hand, no functional genes related to known forms of malate synthase or isocitrate lyase have been identified in placental mammal genomes, while malate synthase appears to be functional in some non-placental mammals and other vertebrates. Vitamin D may regulate this pathway in vertebrates. 
+ 
+
+==Engineering concepts==
+The prospect of engineering various metabolic pathways into mammals which do not possess them is a topic of great interest for bio-engineers today. The glyoxylate cycle is one of the pathways which engineers have attempted to manipulate into mammalian cells. This is primarily of interest for engineers in order to increase the production of wool in sheep, which is limited by the access to stores of glucose. By introducing the pathway into sheep, the large stores of acetate in cells could be used in order to synthesize glucose through the cycle, allowing for increased production of wool. Mammals are incapable of executing the pathway due to the lack of two enzymes, isocitrate lyase and malate synthase, which are needed in order for the cycle to take place. It is believed by some that the genes to produce these enzymes, however, are pseudogenic in mammals, meaning that the gene is not necessarily absent, rather, it is merely "turned off". 
+
+In order to engineer the pathway into cells, the genes responsible for coding for the enzymes had to be isolated and sequenced, which was done using the bacteria E.coli, from which the AceA gene, responsible for encoding for isocitrate lyase, and the AceB gene, responsible for encoding for malate synthase were sequenced. Engineers have been able to successfully incorporate the AceA and AceB genes into mammalian cells in culture, and the cells were successful in translating and transcribing the genes into the appropriate enzymes, proving that the genes could successfully be incorporated into the cell’s DNA without damaging the functionality or health of the cell. However, being able to engineer the pathway into transgenic mice has proven to be difficult for engineers. While the DNA has been expressed in some tissues, including the liver and small intestine in test animals, the level of expression is not high, and not found to be statistically significant. In order to successfully engineer the pathway, engineers would have to fuse the gene with promoters which could be regulated in order to increase the level of expression, and have the expression in the right cells, such as epithelial cells. 
+
+Efforts to engineer the pathway into more complex animals, such as sheep, have not been effective. This illustrates that much more research needs to be done on the topic, and suggests it is possible that a high expression of the cycle in animals would not be tolerated by the chemistry of the cell. Incorporating the cycle into mammals will benefit from advances in nuclear transfer technology, which will enable engineers to examine and access the pathway for functional integration within the genome before its transfer to animals. 
+
+There are possible benefits, however, to the cycle's absence in mammalian cells. The cycle is present in microorganisms that cause disease but is absent in mammals, for example humans. There is a strong plausibility of the development of antibiotics that would attack the glyoxylate cycle, which would kill the disease-causing microorganisms that depend on the cycle for their survival, yet would not harm humans where the cycle, and thus the enzymes that the antibiotic would target, are absent. 
+
+==References==
+
+==External links==
+* Comparative Analysis of Glyoxylate Cycle Key Enzyme Isocitrate Lyase from Organisms of Different Systematic Groups
+
+

@@ -1,0 +1,55 @@
+[[Zone of proximal development]]
+
+In the middle circle, representing the zone of proximal development, students cannot complete tasks unaided, but can complete them with guidance.
+The zone of proximal development (), often abbreviated ZPD, is the difference between what a learner can do without help and what he or she can do with help. It is a concept introduced yet not fully developed by Soviet psychologist Lev Vygotsky (1896&ndash;1934) during the last two years of his life. Also, many theorists are still applying it to their work today. 
+
+Vygotsky stated that a child follows an adult's example and gradually develops the ability to do certain tasks without help. Vygotsky's often-quoted definition of zone of proximal development presents it as the distance between the actual developmental level as determined by independent problem solving and the level of potential development as determined through problem solving under adult guidance, or in collaboration with more capable peers. For example, two 8 yr. old children may be able to complete a task that an average 8 yr. old cannot do. Next, more difficult tasks are presented with very little assistance from an adult. In the end, both children were able to complete the task. However, the styles methods they chose depended on how far they were willing to stretch their thinking process. L.S. Vygotsky: Mind in Society: Development of Higher Psychological Processes, p. 86 
+
+Vygotsky and some educators believe education's role is to give children experiences that are within their zones of proximal development, thereby encouraging and advancing their individual learning. Berk, L & Winsler, A. (1995). "Vygotsky: His life and works" and "Vygotsky's approach to development". In Scaffolding children's learning: Vygotsky and early childhood learning. Natl. Assoc for Educ. Of Young Children. p. 24 
+
+"The zone of proximal development defines functions that have not matured yet, but are in a process of maturing, that will mature tomorrow, that are currently in an embryonic state; these functions could be called the buds of development, the flowers of development, rather than the fruits of development, that is, what is only just maturing" Vygotskii , L.S. 1935. "Dinamika umstvennogo razvitiia shkol’nika v sviazi s obucheniem." In Umstvennoe razvitie detei v protsesse obucheniia, pp. 33–52. Moscow-Leningrad: Gosuchpedgiz. 
+
+==Origins==
+The untimely death of Lev Semyonovich Vygotsky interrupted his thinking about the zone of proximal development (ZPD). Zaretskii,V.K. (2009). The Zone of Proximal Development What Vygotsky Did Not Have Time to Write. The concept of the zone of proximal development was originally developed by Vygotsky to argue against the use of academic, knowledge-based tests as a means to gauge students' intelligence. Vygotsky argued that, rather than examining what a student knows to determine intelligence, it is better to examine his or her ability to solve problems independently and his or her ability to solve problems with an adult's help. Berk, L & Winsler, A. (1995). "Vygotsky: His life and works" and "Vygotsky's approach to development". In Scaffolding children's learning: Vygotsky and early childhood learning. Natl. Assoc for Educ. Of Young Children. pp. 25&ndash;34 
+
+==Development==
+The concept of ZPD has been expanded, modified, and changed into new concepts since Vygotsky's original conception.
+
+The concept of the ZPD is widely used to study children's mental development as it relates to education. The ZPD concept is seen as a scaffolding, a structure of "support points" for performing an action. Obukhova, L. F., & Korepanova, I. A. (2009). The Zone of Proximal Development: A Spatiotemporal Model. Journal of Russian & East European Psychology, 47(6), 25-47. Although Vygotsky himself never mentioned the term; instead, scaffolding was developed by other sociocultural theorists applying Vygotsky's ZPD to educational contexts. Scaffolding is a process through which a teacher or more competent peer helps the student in his or her ZPD as necessary, and tapers off this aid as it becomes unnecessary, much as a scaffold is removed from a building during construction. "Scaffolding the way the adult guides the child's learning via focused questions and positive interactions." Balaban, Nancy. (1995). "Seeing the Child, Knowing the Person." In Ayers, W. To Become a Teacher. Teachers College Press. p. 52 This concept has been further developed by Ann Brown, among others. Several instructional programs were developed on this interpretation of the ZPD, including reciprocal teaching and dynamic assessment.
+
+While the ideas of Vygotsky's ZPD originally were used strictly for one's ability to solve problems, Tharp and Gallimore point out that it can be expanded to examining other domains of competence and skills. These specialized zones of development include cultural zones, individual zones, and skill-oriented zones. Early-childhood-development researchers commonly believe that young children learn their native language and motor skills generally by being placed in the zone of proximal development. Wells, G. (1999). Dialogic Inquiries in education: Building on the legacy of Vygotsky. Cambridge University Press. p. 57 
+
+Through their work with collaborative groups of adults, Tinsley and Lebak (2009) identified the "Zone of Reflective Capacity". This zone shares the theoretical attributes of the ZPD, but is a more specifically defined construct helpful in describing and understanding the way in which an adult's capacity for reflection can expand when he or she collaborates over an extended period with other adults who have similar goals. Tinsley and Lebak found that, as adults shared their feedback, analysis, and evaluation of one another's work during collaboration, their potential for critical reflection expanded. The zone of reflective capacity expanded as trust and mutual understanding among the peers grew. 
+
+The zone of reflective capacity is constructed through the interaction between participants engaged in a common activity and expands when it is mediated by positive interactions with other participants, exactly along the same lines as the ZPD, as Wells (1999) described. It is possible to measure the learner’s ZPD as an individual trait showing a certain stability across instructional settings. The second perspective draws on work on interactive formative assessment integrated in classroom instruction. In this approach, assessment intervenes in the ZPD created by a learner’s on-going interactions with a given instructional setting. (Allal, Ducrey 2000)
+
+==Understanding ZPD==
+
+Internalization is the internal reconstruction of an external operation (Mayer, 2008). "The process of moving from the intermental to the intramental domain takes place through internalization, or, as some translate the Russian original, interiorization (Kozulin, 1990 p. 116). According to Kozulin (1990, p.116), "the essential element in the formation of higher mental functions is the process of internalization." After children have gone through the ZPD and have learnt how to use their language as a tool. They use their internal speech, to navigate through their culture and environment. Wells gives the example of dancing. A person learning how to dance looks to others around him on the dance floor and imitates their dancing moves. A person doesn't copy the dance moves exactly per se but takes what he can and adds his/her own twist.
+
+==The diagnostic capabilities and limitations of indirect collaboration==
+
+Any function within the zone of proximal development matures within a particular internal context that includes not only the function’s actual level but also how susceptible the child is to types of help, the sequence in which these types of help are offered, the flexibility or rigidity of previously formed stereotypes, how willing the child is to collaborate, and other factors. This context can impact the diagnosis of a function’s potential level
+of development. 
+
+==See also==
+* Constructivism (learning theory)
+* Social constructivism (learning theory)
+* Sociocultural theory
+* Educational psychology
+* Large Group Capacitation
+
+==Notes==
+
+==References==
+*Allal, Linda, and Greta Ducrey. " Assessment of or in the zone of proximal development." Learning and Instruction 10.2 (2000): 137-152. Print. 
+*Chaiklin, S. (2003). "The Zone of Proximal Development in Vygotsky's analysis of learning and instruction." In Kozulin, A., Gindis, B., Ageyev, V. & Miller, S. (Eds.) Vygotsky's educational theory and practice in cultural context. 39-64. Cambridge: Cambridge University.
+* Lebak, K. & Tinsley, R. (2010). Can inquiry and reflection be contagious? Science teachers, students, and action research. Journal of Science Teacher Education, 21, 953-970.
+* Mayer, R. E. (2008). Learning and instruction. (2nd ed., pp. 462-463). Upper Saddle River, NJ: Pearson Education.
+* Tharp, R & Gallimore, R. (1988). Rousing Minds to Life. Cambridge University Press.
+* Tinsley, R. & Lebak, K. (2009). Expanding the Zone of Reflective Capacity: Taking separate journeys together. Networks, 11 (2). 
+* Vygotsky, L.S. (1978). Mind in society: The development of higher psychological processes. Cambridge, MA: Harvard University Press.
+* Wells, G. (1999). Dialogic Inquiries in education: Building on the legacy of Vygotsky. Cambridge University Press.
+* Zaretskii,V.K. (2009). The Zone of Proximal Development What Vygotsky Did Not Have Time to Write. Journal of Russian and East European Psychology, vol. 47, no. 6, November–December 2009, pp. 70–93.
+
+

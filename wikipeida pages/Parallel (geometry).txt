@@ -1,0 +1,94 @@
+[[Parallel (geometry)]]
+
+In geometry, parallel lines are lines in a plane which do not meet. The assumed existence and properties of parallel lines are the basis of Euclid's parallel postulate. Two lines in a plane that do not intersect or touch at any point are said to be parallel. By extension, a line and a plane, or two planes, in three-dimensional Euclidean space that do not share a point are said to be parallel. 
+
+Parallelism is primarily a property of Euclidean space and some related geometries such as affine geometry. Some other spaces, such as hyperbolic space have analogous properties also sometimed referred to as parallelism.
+
+== Symbol ==
+The parallel symbol is . For example, indicates that line AB is parallel to line CD. 
+
+In the Unicode character set, the "parallel" and "not parallel" signs have codepoints U+2225 (∥) and U+2226 (∦), respectively. In addition, U+22D5 (⋕) represents the relation "equal and parallel to". 
+
+== Euclidean parallelism==
+As shown by the tick marks, lines a and b are parallel. This can be proved because the transversal t produces congruent angles.
+
+Given straight lines l and m, the following descriptions of line m equivalently define it as parallel to line l in Euclidean space:
+
+#Every point on line m is located at exactly the same minimum distance from line l (equidistant lines).
+#Line m is on the same plane as line l but does not intersect l (even assuming that lines extend to infinity in either direction).
+#Lines m and l are both intersected by a third straight line (a transversal) in the same plane, and the corresponding angles of intersection with the transversal are congruent. (This is equivalent to Euclid's parallel postulate.)
+
+In other words, parallel lines must be located in the same plane, and parallel planes must be located in the same three-dimensional space. A parallel combination of a line and a plane may be located in the same three-dimensional space. Lines parallel to each other have the same gradient. Compare to perpendicular.
+
+=== Construction ===
+The three definitions above lead to three different methods of construction of parallel lines.
+
+The problem: Draw a line through a parallel to l.
+
+image:Par-equi.png|Definition 1: Line m has everywhere the same distance to line l.
+image:Par-para.png|Definition 2: Take a random line through a that intersects l in x. Move point x to infinity.
+image:Par-perp.png|Definition 3: Both l and m share a transversal line through a that intersect them at 90°.
+
+Another definition of parallel line that is often used is that two lines are parallel if they do not intersect, though this definition applies only in the 2-dimensional plane. Another easy way is to remember that a parallel line is a line that has an equal distance with the opposite line.
+
+=== Distance between two parallel lines ===
+Because a parallel line is a line that has an equal distance with the opposite line, there is a unique distance between the two parallel lines. Given the equations of two non-vertical parallel lines
+:
+:
+the distance between the two lines can be found by solving the linear systems
+:
+and
+:
+to get the coordinates of the points. The solutions to the linear systems are the points
+:
+and
+:
+The distance between the points is
+:
+which reduces to
+:
+
+When the lines are given by
+:
+:
+their distance can be expressed as
+:
+
+== Extension to non-Euclidean geometry ==
+In non-Euclidean geometry, it is more common to talk about geodesics than (straight) lines. A geodesic is the path that a particle follows if no force is applied to it. In non-Euclidean geometry (spherical or hyperbolic) the three Euclidean definitions are not equivalent: only the second one is useful in other non-Euclidean geometries. In general, equidistant lines are not geodesics so the equidistant definition cannot be used. In the Euclidean plane, when two geodesics (straight lines) are intersected with the same angles by a transversal geodesic (see image), every (non-parallel) geodesic intersects them with the same angles. In both the hyperbolic and spherical plane, this is not the case. For example, geodesics sharing a common perpendicular only do so at one point (hyperbolic space) or at two (antipodal) points (spherical space).
+
+In general geometry it is useful to distinguish the three definitions above as three different types of lines, respectively equidistant lines, parallel geodesics and geodesics sharing a common perpendicular.
+
+While in Euclidean geometry two geodesics can either intersect or be parallel, in general and in hyperbolic space in particular there are three possibilities. Two geodesics can be either:
+
+# intersecting: they intersect in a common point in the plane
+# parallel: they do not intersect in the plane, but do in the limit to infinity
+# ultra parallel: they do not even intersect in the limit to infinity
+
+In the literature ultra parallel geodesics are often called parallel. Geodesics intersecting at infinity are then called limit geodesics.
+
+=== Spherical ===
+On the spherical plane there is no such thing as a parallel line. Line a is a great circle, the equivalent of a straight line in the spherical plane. Line c is equidistant to line a but is not a great circle. It is a parallel of latitude. Line b is another geodesic which intersects a in two antipodal points. They share two common perpendiculars (one shown in blue).
+
+In the spherical plane, all geodesics are great circles. Great circles divide the sphere in two equal hemispheres and all great circles intersect each other. By the above definitions, there are no parallel geodesics to a given geodesic, all geodesics intersect. Equidistant lines on the sphere are called parallels of latitude in analog to latitude lines on a globe. Parallel lines in Euclidean space are straight lines; equidistant lines are not geodesics and therefore are not directly analogous to straight lines in the Euclidean space. An object traveling along such a line has to accelerate away from the geodesic to which it is equidistant to avoid intersecting with it. When embedded in Euclidean space a dimension higher, parallels of latitude can be generated by the intersection of the sphere with a plane parallel to a plane through the center.
+
+=== Hyperbolic ===
+In the hyperbolic plane, there are two lines through a given point that intersect a given line in the limit to infinity. While in Euclidean geometry a geodesic intersects its parallels in both directions in the limit to infinity, in hyperbolic geometry both directions have their own line of parallelism. When visualized on a plane a geodesic is said to have a left-handed parallel and a right-handed parallel through a given point. The angle the parallel lines make with the perpendicular from that point to the given line is called the angle of parallelism. The angle of parallelism depends on the distance of the point to the line with respect to the curvature of the space. The angle is also present in the Euclidean case, there it is always 90° so the left and right-handed parallels coincide. The parallel lines divide the set of geodesics through the point in two sets: intersecting geodesics that intersect the given line in the hyperbolic plane, and ultra parallel geodesics that do not intersect even in the limit to infinity (in either direction). In the Euclidean limit the latter set is empty.
+Intersecting, parallel and ultra parallel lines through a with respect to l in the hyperbolic plane. The parallel lines appear to intersect l just off the image. This is an artifact of the visualisation. It is not possible to isometrically embed the hyperbolic plane in three dimensions. In a real hyperbolic space the lines will get closer to each other and 'touch' in infinity.
+
+==Reflexive variant==
+In synthetic, affine geometry the relation of two parallel lines is a fundamental concept that is modified from the usage in Euclidean geometry. It is clear that the relation of parallelism is a symmetric relation and a transitive relation. These are two properties of an equivalence relation. In Euclidean geometry a line is not considered to be parallel to itself, but in affine geometry H. S. M. Coxeter (1961) Introduction to Geometry, p 192, John Wiley & Sons Wanda Szmielew (1983) From Affine to Euclidean Geometry, p 17, D. Reidel ISBN 90-277-1243-3 it is convenient to hold a line as parallel to itself, thus yielding parallelism as an equivalence relation.
+
+Another way of describing this type of parallelism is the requirement that their intersection is not a singleton. Two lines are then parallel when they have all or none of their points in common. It has been noted that Playfair's axiom used in affine and Euclidean geometry is then equivalent to the statement that parallelism forms a transitive relation on the set of lines in the plane. Andy Liu (2011) "Is parallelism an equivalence relation?", The College Mathematics Journal 42(5):372 
+
+== See also ==
+*Clifford parallel
+*Limiting parallel
+*Ultraparallel theorem
+
+==Notes and references==
+
+== External links ==
+*Constructing a parallel line through a given point with compass and straightedge
+
+

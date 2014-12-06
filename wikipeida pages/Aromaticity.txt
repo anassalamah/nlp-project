@@ -1,0 +1,112 @@
+[[Aromaticity]]
+
+Two different resonance forms of benzene (top) combine to produce an average structure (bottom)
+In organic chemistry, aromaticity is a chemical property describing the way in which a conjugated ring of unsaturated bonds, lone pairs, or empty orbitals exhibits a stabilization stronger than would be expected by the stabilization of conjugation alone. The earliest use of the term was in an article by August Wilhelm Hofmann in 1855. There is no general relationship between aromaticity as a chemical property and the olfactory properties of such compounds.
+
+Aromaticity can also be considered a manifestation of cyclic delocalization and of resonance. This is usually considered to be because electrons are free to cycle around circular arrangements of atoms that are alternately single- and double-bonded to one another. These bonds may be seen as a hybrid of a single bond and a double bond, each bond in the ring identical to every other. This commonly seen model of aromatic rings, namely the idea that benzene was formed from a six-membered carbon ring with alternating single and double bonds (cyclohexatriene), was developed by Kekulé (see History section below). The model for benzene consists of two resonance forms, which corresponds to the double and single bonds superimposing to give rise to six one-and-a-half bonds. Benzene is a more stable molecule than would be expected without accounting for charge delocalization.
+
+==Theory==
+Modern depiction of benzene
+As is standard for resonance diagrams, a double-headed arrow is used to indicate that the two structures are not distinct entities, but merely hypothetical possibilities. Neither is an accurate representation of the actual compound, which is best represented by a hybrid (average) of these structures, which can be seen at right. A C=C bond is shorter than a C−C bond, but benzene is perfectly hexagonal—all six carbon-carbon bonds have the same length, intermediate between that of a single and that of a double bond.
+
+A better representation is that of the circular π bond (Armstrong's inner cycle), in which the electron density is evenly distributed through a π-bond above and below the ring. This model more correctly represents the location of electron density within the aromatic ring.
+
+The single bonds are formed with electrons in line between the carbon nuclei — these are called σ-bonds. Double bonds consist of a σ-bond and a π-bond. The π-bonds are formed from overlap of atomic p-orbitals above and below the plane of the ring. The following diagram shows the positions of these p-orbitals:
+
+Benzene electron orbitals
+
+Since they are out of the plane of the atoms, these orbitals can interact with each other freely, and become delocalized. This means that, instead of being tied to one atom of carbon, each electron is shared by all six in the ring. Thus, there are not enough electrons to form double bonds on all the carbon atoms, but the "extra" electrons strengthen all of the bonds on the ring equally. The resulting molecular orbital has π symmetry.
+
+Benzene orbital delocalization
+
+==History==
+
+===The term "aromatic"===
+The first known use of the word "aromatic" as a chemical term — namely, to apply to compounds that contain the phenyl radical — occurs in an article by August Wilhelm Hofmann in 1855. If this is indeed the earliest introduction of the term, it is curious that Hofmann says nothing about why he introduced an adjective indicating olfactory character to apply to a group of chemical substances only some of which have notable aromas. Also, many of the most odoriferous organic substances known are terpenes, which are not aromatic in the chemical sense. But terpenes and benzenoid substances do have a chemical characteristic in common, namely higher unsaturation indices than many aliphatic compounds, and Hofmann may not have been making a distinction between the two categories.
+
+===The structure of the benzene ring===
+Historic benzene formulae as proposed by Kekulé. 
+In the 19th century chemists found it puzzling that benzene could be so unreactive toward addition reactions, given its presumed high degree of unsaturation. The cyclohexatriene structure for benzene was first proposed by August Kekulé in 1865. Over the next few decades, most chemists readily accepted this structure, since it accounted for most of the known isomeric relationships of aromatic chemistry.
+
+Between 1897 and 1906, J. J. Thomson, the discoverer of the electron, proposed three equivalent electrons between each carbon atom in benzene.
+
+An explanation for the exceptional stability of benzene is conventionally attributed to Sir Robert Robinson, who was apparently the first (in 1925) to coin the term aromatic sextet as a group of six electrons that resists disruption.
+
+In fact, this concept can be traced further back, via Ernest Crocker in 1922, to Henry Edward Armstrong, who in 1890 wrote "the (six) centric affinities act within a cycle...benzene may be represented by a double ring (sic) ... and when an additive compound is formed, the inner cycle of affinity suffers disruption, the contiguous carbon-atoms to which nothing has been attached of necessity acquire the ethylenic condition". 
+
+Here, Armstrong is describing at least four modern concepts. First, his "affinity" is better known nowadays as the electron, which was to be discovered only seven years later by J. J. Thomson. Second, he is describing electrophilic aromatic substitution, proceeding (third) through a Wheland intermediate, in which (fourth) the conjugation of the ring is broken. He introduced the symbol C centered on the ring as a shorthand for the inner cycle, thus anticipating Erich Clar's notation. It is argued that he also anticipated the nature of wave mechanics, since he recognized that his affinities had direction, not merely being point particles, and collectively having a distribution that could be altered by introducing substituents onto the benzene ring (much as the distribution of the electric charge in a body is altered by bringing it near to another body).
+
+The quantum mechanical origins of this stability, or aromaticity, were first modelled by Hückel in 1931. He was the first to separate the bonding electrons into sigma and pi electrons.
+
+Aromaticity of an arbitrary aromatic compound can be measured quantitatively by the Nuclear Independent Chemical Shift (NICS) computational method Nucleus-Independent Chemical Shifts: A Simple and Efficient Aromaticity Probe Paul von Ragué Schleyer, Christoph Maerker, Alk Dransfeld, Haijun Jiao, and Nicolaas J. R. van Eikema Hommes J. Am. Chem. Soc.; 1996; 118(26) pp 6317-6318; (Communication) and aromaticity percentage methods.
+
+== Characteristics of aromatic (aryl) compounds ==
+An aromatic (or aryl) compound contains a set of covalently bound atoms with specific characteristics:
+
+# A delocalized conjugated π system, most commonly an arrangement of alternating single and double bonds
+# Coplanar structure, with all the contributing atoms in the same plane
+# Contributing atoms arranged in one or more rings
+# A number of π delocalized electrons that is even, but not a multiple of 4. That is, 4n + 2 number of π electrons, where n=0, 1, 2, 3, and so on. This is known as Hückel's Rule.
+
+Whereas benzene is aromatic (6 electrons, from 3 double bonds), cyclobutadiene is not, since the number of π delocalized electrons is 4, which of course is a multiple of 4. The cyclobutadienide (2−) ion, however, is aromatic (6 electrons). An atom in an aromatic system can have other electrons that are not part of the system, and are therefore ignored for the 4n + 2 rule. In furan, the oxygen atom is sp² hybridized. One lone pair is in the π system and the other in the plane of the ring (analogous to C-H bond on the other positions). There are 6 π electrons, so furan is aromatic.
+
+Aromatic molecules typically display enhanced chemical stability, compared to similar non-aromatic molecules. A molecule that can be aromatic will tend to alter its electronic or conformational structure to be in this situation. This extra stability changes the chemistry of the molecule. Aromatic compounds undergo electrophilic aromatic substitution and nucleophilic aromatic substitution reactions, but not electrophilic addition reactions as happens with carbon-carbon double bonds.
+
+Many of the earliest-known examples of aromatic compounds, such as benzene and toluene, have distinctive pleasant smells. This property led to the term "aromatic" for this class of compounds, and hence the term "aromaticity" for the eventually discovered electronic property.
+
+The circulating π electrons in an aromatic molecule produce ring currents that oppose the applied magnetic field in NMR. The NMR signal of protons in the plane of an aromatic ring are shifted substantially further down-field than those on non-aromatic sp² carbons. This is an important way of detecting aromaticity. By the same mechanism, the signals of protons located near the ring axis are shifted up-field. 
+ 
+Aromatic molecules are able to interact with each other in so-called π-π stacking: The π systems form two parallel rings overlap in a "face-to-face" orientation. Aromatic molecules are also able to interact with each other in an "edge-to-face" orientation: The slight positive charge of the substituents on the ring atoms of one molecule are attracted to the slight negative charge of the aromatic system on another molecule.
+
+Planar monocyclic molecules containing 4n π electrons are called antiaromatic and are, in general, destabilized. Molecules that could be antiaromatic will tend to alter their electronic or conformational structure to avoid this situation, thereby becoming non-aromatic. For example, cyclooctatetraene (COT) distorts itself out of planarity, breaking π overlap between adjacent double bonds. Relatively recently, cyclobutadiene was discovered to adopt an asymmetric, rectangular configuration in which single and double bonds indeed alternate; there is no resonance and the single bonds are markedly longer than the double bonds, reducing unfavorable p-orbital overlap. This reduction of symmetry lifts the degeneracy of the two formerly non-bonding molecular orbitals, which by Hund's rule forces the two unpaired electrons into a new, weakly bonding orbital (and also creates a weakly antibonding orbital). Hence, cyclobutadiene is non-aromatic; the strain of the asymmetric configuration outweighs the anti-aromatic destabilization that would afflict the symmetric, square configuration.
+
+== Importance of aromatic compounds ==
+Aromatic compounds play key roles in the biochemistry of all living things. The four aromatic amino acids histidine, phenylalanine, tryptophan, and tyrosine each serve as one of the 20 basic building-blocks of proteins. Further, all 5 nucleotides (adenine, thymine, cytosine, guanine, and uracil) that make up the sequence of the genetic code in DNA and RNA are aromatic purines or pyrimidines. The molecule heme contains an aromatic system with 22 π electrons. Chlorophyll also has a similar aromatic system.
+
+Aromatic compounds are important in industry. Key aromatic hydrocarbons of commercial interest are benzene, toluene, ortho-xylene and para-xylene. About 35 million tonnes are produced worldwide every year. They are extracted from complex mixtures obtained by the refining of oil or by distillation of coal tar, and are used to produce a range of important chemicals and polymers, including styrene, phenol, aniline, polyester and nylon.
+
+== Types of aromatic compounds ==
+The overwhelming majority of aromatic compounds are compounds of carbon, but they need not be hydrocarbons.
+
+=== Neutral homocyclics ===
+Benzene, as well as most other annulenes (cyclodecapentaene excepted) with the formula CnHn where n is an even number, such as cyclotetradecaheptaene.
+
+=== Heterocyclics ===
+In heterocyclic aromatics (heteroaromats), one or more of the atoms in the aromatic ring is of an element other than carbon. This can lessen the ring's aromaticity, and thus (as in the case of furan) increase its reactivity. Other examples include pyridine, pyrazine, imidazole, pyrazole, oxazole, thiophene, and their benzannulated analogs (benzimidazole, for example).
+
+=== Polycyclics ===
+Polycyclic aromatic hydrocarbons are molecules containing two or more simple aromatic rings fused together by sharing two neighboring carbon atoms (see also simple aromatic rings). Examples are naphthalene, anthracene, and phenanthrene.
+
+=== Substituted aromatics ===
+Many chemical compounds are aromatic rings with other functional groups attached. Examples include trinitrotoluene (TNT), acetylsalicylic acid (aspirin), paracetamol, and the nucleotides of DNA.
+
+=== Atypical aromatic compounds ===
+Aromaticity is found in ions as well: the cyclopropenyl cation (2e system), the cyclopentadienyl anion (6e system), the tropylium ion (6e), and the cyclooctatetraene dianion (10e). Aromatic properties have been attributed to non-benzenoid compounds such as tropone. Aromatic properties are tested to the limit in a class of compounds called cyclophanes.
+
+A special case of aromaticity is found in homoaromaticity where conjugation is interrupted by a single sp³ hybridized carbon atom.
+
+When carbon in benzene is replaced by other elements in borabenzene, silabenzene, germanabenzene, stannabenzene, phosphorine or pyrylium salts the aromaticity is still retained. Aromaticity also occurs in compounds that are not carbon-based at all. Inorganic 6-membered-ring compounds analogous to benzene have been synthesized. Hexasilabenzene (Si6H6) and borazine (B3N3H6) are structurally analogous to benzene, with the carbon atoms replaced by another element or elements. In borazine, the boron and nitrogen atoms alternate around the ring. Quite recently, the aromaticity of planar Si56- rings occurring in the Zintl phase Li12Si7 was experimentally evidenced by Li solid state NMR. 
+
+Metal aromaticity is believed to exist in certain metal clusters of aluminium.
+
+Möbius aromaticity occurs when a cyclic system of molecular orbitals, formed from pπ atomic orbitals and populated in a closed shell by 4n (n is an integer) electrons, is given a single half-twist to correspond to a Möbius strip. A π system with 4n electrons in a flat (non-twisted) ring would be anti-aromatic, and therefore highly unstable, due to the symmetry of the combinations of p atomic orbitals. By twisting the ring, the symmetry of the system changes and becomes allowed (see also Möbius–Hückel concept for details). Because the twist can be left-handed or right-handed, the resulting Möbius aromatics are dissymmetric or chiral. 
+As of 2012, there is no proof that a Möbius aromatic molecule was synthesized. 
+Aromatics with two half-twists corresponding to the paradromic topologies were first suggested by Johann Listing. In carbo-benzene the ring bonds are extended with alkyne and allene groups.
+
+Y-aromaticity is a concept which was developed to explain the extraordinary stability and high basicity of the guanidinium cation. Guanidinium does not have a ring structure but has six π-electrons which are delocalized over the molecule. However, this concept is controversial and some authors have stressed different effects. 
+
+==See also==
+* Aromatic hydrocarbon
+* Aromatic amine
+* BTX (chemistry)
+* PAH
+* SARA
+* Simple aromatic ring
+* Pi interaction
+* Avoided crossing
+
+== References ==
+
+ 
+
+

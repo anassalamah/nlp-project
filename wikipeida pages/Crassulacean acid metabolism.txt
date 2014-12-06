@@ -1,0 +1,121 @@
+[[Crassulacean acid metabolism]]
+
+The pineapple is an example of a CAM plant.
+Crassulacean acid metabolism, also known as CAM photosynthesis, is a carbon fixation pathway that evolved in some plants as an adaptation to arid conditions. C.Michael Hogan. 2011. Respiration. Encyclopedia of Earth. Eds. Mark McGinley & C.J.cleveland. National council for Science and the Environment. Washington DC In a plant using full CAM, the stomata in the leaves remain shut during the day to reduce evapotranspiration, but open at night to collect carbon dioxide (). The is stored as the four-carbon acid malate, and then used during photosynthesis during the day. The pre-collected is concentrated around the enzyme RuBisCO, increasing photosynthetic efficiency.
+
+==Historical background==
+CAM was first suspected by de Saussure in 1804 in his Recherches Chimiques sur la Vegetation, confirmed and refined by Aubert, E. in 1892 in his Recherches physiologiques sur les plantes grasses and expounded upon by Richards, H. M. 1915 in Acidity and Gas Interchange in Cacti, Carnegie Institution. The term CAM may have been coined by Ranson and Thomas in 1940, but they were not the first to discover this cycle.
+It was observed by the botanists Ranson and Thomas, in the Crassulaceae family of succulents (which includes jade plants and Sedum). Its name refers to acid metabolism in Crassulaceae, not the metabolism of crassulacean acid.
+
+==Overview of CAM: a two-part cycle==
+Overview of CAM
+CAM is an adaptation for increased efficiency in the use of water, and so is typically found in plants growing in arid conditions. 
+
+===During the night===
+During the night, a plant employing CAM has its stomata open, allowing to enter and be fixed as organic acids that are stored in vacuoles. During the day the stomata are closed (thus preventing water loss), and the carbon is released to the Calvin cycle so that photosynthesis may take place.
+Overnight graph of CO2 absorbed by a CAM plant
+The carbon dioxide is fixed in the cytoplasm of mesophyll cells by a PEP reaction similar to that of pathway. But, unlike the mechanism, the resulting organic acids are stored in vacuoles for later use; that is, they are not immediately passed on to the Calvin cycle. The latter cannot operate during the night because the light reactions that provide it with ATP and NADPH cannot take place.
+
+===During the day===
+During the day, the -storing organic acids are released from the vacuoles of the mesophyll cells and enter the stroma of the chloroplasts where an enzyme releases the , which then enters into the Calvin cycle.
+
+===Benefits===
+The most important benefit of CAM to the plant is the ability to leave most leaf stomata closed during the day. Plants employing CAM are most common in arid environments, where water comes at a premium. Being able to keep stomata closed during the hottest and driest part of the day reduces the loss of water through evapotranspiration, allowing such plants to grow in environments that would otherwise be far too dry. Plants using only carbon fixation, for example, lose 97% of the water they uptake through the roots to transpiration - a high cost avoided by plants able to employ CAM. 
+
+===Comparison with metabolism===
+CAM is named after the family Crassulaceae, to which Jade plant belongs
+The pathway bears resemblance to CAM; both act to concentrate around RuBisCO, thereby increasing its efficiency. CAM concentrates it in time, providing during the day, and not at night, when respiration is the dominant reaction. plants, in contrast, concentrate spatially, with a RuBisCO reaction centre in a "bundle sheath cell" being inundated with . Due to the inactivity required by the CAM mechanism, carbon fixation has a greater efficiency in terms of PGA synthesis.
+
+==Biochemistry==
+Biochemistry of CAM
+Plants with CAM must control storage of and its reduction to branched carbohydrates in space and time.
+
+At low temperatures (frequently at night), plants using CAM open their stomata, molecules diffuse into the spongy mesophyll's intracellular spaces and then into the cytoplasm. Here, they can meet phosphoenolpyruvate (PEP), which is a phosphorylated triose. During this time, the plants are synthesizing a protein called PEP carboxylase kinase (PEP-C kinase), whose expression can be inhibited by high temperatures (frequently at daylight) and the presence of malate. PEP-C kinase phosphorylates its target enzyme PEP carboxylase (PEP-C). Phosphorylation dramatically enhances the enzyme's capability to catalyze the formation of oxalacetate, which can be subsequently transformed into malate by NAD+ malate dehydrogenase. Malate is then transported via malate shuttles into the vacuole, where it is converted into the storage form malic acid. In contrast to PEP-C kinase, PEP-C is synthesized all the time but almost inhibited at daylight either by dephosphorylation via PEP-C phosphatase or directly by binding malate. The latter is not possible at low temperatures, since malate is efficiently transported into the vacuole, whereas PEP-C kinase readily inverts dephosphorylation.
+
+At daylight, plants using CAM close their guard cells and discharge malate that is subsequently transported into chloroplasts. There, depending on plant species, it is cleaved into pyruvate and either by malic enzyme or by PEP carboxykinase. is then introduced into the Calvin cycle, a coupled and self-recovering enzyme system, which is used to build branched carbohydrates. The by-product pyruvate can be further degraded in the mitochondrial citric acid cycle, thereby providing additional molecules for the Calvin Cycle. Pyruvate can also be used to recover PEP via pyruvate phosphate dikinase, a high-energy step, which requires ATP and an additional phosphate. During the following cool night, PEP is finally exported into the cytoplasm, where it is involved in fixing carbon dioxide via malate.
+
+==Use of CAM by plants==
+
+Cross section of a CAM (Crassulacean acid metabolism) plant, specifically of an agave leaf. Vascular bundles shown. Drawing based on microscopic images courtesy of Cambridge University Plant Sciences Department.
+
+Plants use CAM to different degrees. Some are "obligate CAM plants", i.e. they use only CAM in photosynthesis, although they vary in the amount of they are able to store as organic acids; they are sometimes divided into "strong CAM" and "weak CAM" plants on this basis. Other plants show "inducible CAM", in which they are able to switch between using either the or mechanism and CAM depending on environmental conditions. Another group of plants employ "CAM-cycling", in which their stomata do not open at night; the plants instead recycle produced by respiration as well as storing some during the day. 
+
+Plants showing inducible CAM and CAM-cycling are typically found in conditions where periods of water shortage alternate with periods when water is freely available. Periodic drought – a feature of semi-arid regions – is one cause of water shortage. Plants which grow on trees or rocks (as epiphytes or lithophytes) also experience variations in water availability. Salinity, high light levels and nutrient availability are other factors which have been shown to induce CAM. 
+
+Since CAM is an adaptation to arid conditions, plants using CAM often display other xerophytic characters, such as thick, reduced leaves with a low surface-area-to-volume ratio; thick cuticle; and stomata sunken into pits. Some shed their leaves during the dry season; others (the succulents) store water in vacuoles. CAM also causes taste differences: plants may have an increasingly sour taste during the night yet become sweeter-tasting during the day. This is due to malic acid being stored in the vacuoles of the plants' cells during the night and then being used up during the day. Raven, P & Evert, R & Eichhorn, S, 2005, "Biology of Plants" (seventh edition), p. 135 (Figure 7-26), W.H. Freeman and Company Publishers ISBN 0-7167-1007-2 
+
+==Aquatic CAM==
+CAM photosynthesis is also found in aquatic species in at least 4 genera, including: Isoetes, Crassula, Littorella, Sagittari, and possibly Vallisneria, Keeley J, 1998. CAM Photosynthesis in Submerged Aquatic Plants. Botanical Review, Vol. 64, No.2, pp. 121-175 being found in a variety of species e.g. Isoetes howellii.
+
+These plants follow the same nocturnal acid accumulation and daytime deacidification as terrestrial CAM species. Keeley J and Busch G, 1984. Carbon Assimilation Characteristics of the Aquatic CAM Plant, Isoetes howellii. Plant Physiology, 75, 525-530. However, the reason for CAM in aquatic plants is not due to a lack of available water, but a limited supply of . Keeley J, 1998. CAM Photosynthesis in Submerged Aquatic Plants. Botanical Review, Vol. 64, No. 2, pp. 121-175. is limited due to slow diffusion in water, 10000x slower than in air. The problem is especially acute under acid pH, where the only inorganic carbon species present is , with no available bicarbonate or carbonate supply.
+
+Aquatic CAM plants capture carbon at night when it is abundant due to a lack of competition from other photosynthetic organisms. This also results in lowered photorespiration due to less photosynthetically generated oxygen.
+
+Aquatic CAM is most marked in the summer months when there is increased competition for , compared to the winter months. However, in the winter months CAM still has a significant role. Klavsen S and Madsen T, 2012. Seasonal variation in crassulacean acid metabolism by the aquatic isoetid Littorella uniflora. Photosynthesis Research, 112, 163-173. 
+
+==Ecological and taxonomic distribution of CAM-using plants==
+The majority of plants possessing CAM are either epiphytes (e.g., orchids, bromeliads) or succulent xerophytes (e.g., cacti, cactoid Euphorbias), but CAM is also found in hemiepiphytes (e.g., Clusia); lithophytes (e.g., Sedum, Sempervivum); terrestrial bromeliads; wetland plants (e.g., Isoetes, Crassula (Tillaea), Lobelia; Keddy, P.A. (2010). Wetland Ecology: Principles and Conservation. Cambridge University Press, Cambridge, UK. p. 26. and in one halophyte, Mesembryanthemum crystallinum; one non-succulent terrestrial plant, (Dodonaea viscosa) and one mangrove associate (Sesuvium portulacastrum).
+
+Plants which are able to switch between different methods of carbon fixation include Portulacaria afra, better known as Dwarf Jade Plant, which normally uses C3 fixation but can use CAM if it is drought-stressed, and Portulaca oleracea, better known as Purslane, which normally uses fixation but is also able to switch to CAM when drought-stressed. 
+
+CAM has evolved convergently many times. It occurs in 16,000 species (about 7% of plants), belonging to over 300 genera and around 40 families, but this is thought to be a considerable underestimate. It is found in quillworts (relatives of club mosses), in ferns, and in Gnetopsida, but the great majority of plants using CAM are angiosperms (flowering plants).
+
+The following list summarizes the taxonomic distribution of plants with CAM.
+
+ Division Class/Angiosperm group Order Family Plant Type Clade involved 
+ Lycopodiophyta Isoetopsida Isoetales Isoetaceae hydrophyte Isoetes (the sole genus of class Isoetopsida) - I. howellii (seasonally submerged), I. macrospora, I. bolanderi, I. engelmanni, I. lacustris, I. sinensis, I. storkii, I. kirkii 
+ Pteridophyta Polypodiopsida Polypodiales Polypodiaceae epiphyte, lithophyte CAM is recorded from Microsorium, Platycerium and Polypodium, Pyrrosia and Drymoglossum and Microgramma 
+ Pteridopsida Polypodiales Pteridaceae Crassulacean Acid Metabolism epiphyte Vittaria abstract to Carter & Martin, The occurrence of Crassulacean acid metabolism among ephiphytes in a high-rainfall region of Costa Rica, Selbyana 15(2): 104-106 (1994) Anetium citrifolium 
+ Cycadophyta Cycadopsida Cycadales Zamiaceae Dioon edule 
+ Pinophyta Gnetopsida Welwitschiales Welwitschiaceae xerophyte Welwitschia mirabilis (the sole species of the order Welwitschiales) 
+ Magnoliophyta magnoliids Magnoliales Piperaceae epiphyte Peperomia camptotricha 
+ eudicots Caryophyllales Aizoaceae xerophyte widespread in the family; Mesembryanthemum crystallinum is a rare instance of an halophyte that displays CAM 
+ Cactaceae xerophyte Almost all cacti have obligate Crassulacean Acid Metabolism in their stems; the few cacti with leaves may have C3 Metabolism in those leaves; seedlings have C3 Metabolism. 
+ Portulacaceae xerophyte recorded in approximately half of the genera (note: Portulacaceae is paraphyletic with respect to Cactaceae and Didieraceae) 
+ Didiereaceae xerophyte 
+ Saxifragales Crassulaceae hydrophyte, xerophyte, lithophyte CAM is widespread in the family 
+ eudicots (rosids) Vitales Vitaceae Cissus, Cyphostemma 
+ Malpighiales Clusiaceae hemiepiphyte Clusia 
+ Euphorbiaceae CAM is found is some species of Euphorbia including some formerly placed in the sunk genera Monadenium, Pedilanthus and Synadenium. C4 photosynthesis is also found in Euphorbia (subgenus Chamaesyce). 
+ Passifloraceae xerophyte Adenia 
+ Geraniales Geraniaceae CAM is found in some succulent species of Pelargonium, and is also reported from Geranium pratense 
+ Cucurbitales Cucurbitaceae Xerosicyos danguyi, Dendrosicyos socotrana, Momordica 
+ Celastrales Celastraceae 
+ Oxalidales Oxalidaceae 
+ Brassicales Moringaceae Moringa 
+ Sapindales Sapindaceae Dodonaea viscosa 
+ Zygophyllaceae Zygophyllum 
+ eudicots (asterids) Ericales Ebenaceae 
+ Solanales Convolvulaceae Ipomaea 
+ Gentianales Rubiaceae epiphyte Hydnophytum and Myrmecodia 
+ Apocynaceae CAM is found in subfamily Asclepidioideae (Hoya, Dischidia, Ceropegia, Stapelia, Caralluma negevensis, Frerea indica, Adenium, Huernia), and also in Carissa and Akocanthera 
+ Lamiales Gesneriaceae epiphyte CAM was found Codonanthe crassifolia, but not in 3 other genera 
+ Lamiaceae Plectranthus marrubioides, Coleus 
+ Plantaginaceae hydrophyte Littorella uniflora 
+ Apiales Apiaceae hydrophyte Lilaeopsis lacustris 
+ Asterales Asteraceae some species of Senecio 
+ Magnoliophyta monocots Alismatales Hydrocharitaceae hydrophyte Hydrilla, Vallisneria 
+ Alismataceae hydrophyte Sagittaria 
+ Araceae Zamioculcas zamiifolia is the only CAM plant in Araceae, and the only non-aquatic CAM plant in Alismatales 
+ Poales Bromeliaceae epiphyte Bromelioideae (91%), Puya (24%), Dyckia and related genera (all), Hechtia (all), Tillandsia (many) 
+ Cyperaceae hydrophyte Scirpus, Eleocharis 
+ Asparagales Orchidaceae epiphyte The Orchidaceae has more CAM species than any other family (CAM Orchids) 
+ Agavaceae xerophyte Agave, Hesperaloe, Yucca 
+ Asphodelaceae xerophyte Aloe, Gasteria and Haworthia 
+ Ruscaceae Sansevieria, Dracaena 
+ Commelinales Commelinaceae Callisia, Tradescantia, Tripogandra 
+
+==See also==
+
+*C2 photosynthesis
+*C3 carbon fixation
+*C4 carbon fixation
+
+*RuBisCO
+
+==External links==
+*Khan Academy, video lecture
+
+==References==
+
+

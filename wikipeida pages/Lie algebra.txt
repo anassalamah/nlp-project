@@ -1,0 +1,253 @@
+[[Lie algebra]]
+
+In mathematics, Lie algebras (, not ) are algebraic structures which were introduced to study the concept of infinitesimal transformations. The term "Lie algebra" (after Sophus Lie) was introduced by Hermann Weyl in the 1930s. In older texts, the name "infinitesimal group" is used.
+
+Related mathematical concepts include Lie groups and differentiable manifolds.
+
+== Definitions ==
+
+A Lie algebra is a vector space over some field F together with a binary operation called the Lie bracket, which satisfies the following axioms:
+
+* Bilinearity:
+
+::
+
+:for all scalars a, b in F and all elements x, y, z in .
+
+* Alternating on :
+
+::
+
+:for all x in .
+
+* The Jacobi identity:
+
+:: 
+
+:for all x, y, z in .
+
+Note that the bilinearity and alternating properties imply anticommutativity, i.e., −, for all elements x, y in , while anticommutativity only implies the alternating property if the field's characteristic is not 2. Humphreys p. 1 
+
+It is customary to express a Lie algebra in lower-case fraktur, like . If a Lie algebra is associated with a Lie group, then the spelling of the Lie algebra is the same as that Lie group. For example, the Lie algebra of SU(n) is written as .
+
+=== Generators and dimension ===
+Elements of a Lie algebra are said to be generators of the Lie algebra if the smallest subalgebra of containing them is itself. The dimension of a Lie algebra is its dimension as a vector space over F. The cardinality of a minimal generating set of a Lie algebra is always less than or equal to its dimension.
+
+=== Homomorphisms, subalgebras, and ideals ===
+The Lie bracket is not associative in general, meaning that need not equal . Nonetheless, much of the terminology that was developed in the theory of associative rings or associative algebras is commonly applied to Lie algebras. A subspace that is closed under the Lie bracket is called a Lie subalgebra. If a subspace satisfies a stronger condition that
+
+: 
+
+then I is called an ideal in the Lie algebra . Due to the anticommutativity of the commutator, the notions of a left and right ideal in a Lie algebra coincide. A homomorphism between two Lie algebras (over the same base field) is a linear map that is compatible with the respective commutators:
+
+: 
+
+for all elements x and y in . As in the theory of associative rings, ideals are precisely the kernels of homomorphisms, given a Lie algebra and an ideal I in it, one constructs the factor algebra , and the first isomorphism theorem holds for Lie algebras.
+
+Let S be a subset of . The set of elements x such that for all s in S forms a subalgebra called the centralizer of S. The centralizer of itself is called the center of . Similar to centralizers, if S is a subspace, then the set of x such that is in S for all s in S forms a subalgebra called the normalizer of S.
+
+=== Direct sum ===
+Given two Lie algebras and , their direct sum is the Lie algebra consisting of the vector space
+, of the pairs , with the operation
+
+: 
+
+== Properties ==
+
+=== Admits an enveloping algebra ===
+
+For any associative algebra A with multiplication , one can construct a Lie algebra L(A). As a vector space, L(A) is the same as A. The Lie bracket of two elements of L(A) is defined to be their commutator in A:
+
+: 
+
+The associativity of the multiplication * in A implies the Jacobi identity of the commutator in L(A). For example, the associative algebra of n × n matrices over a field F gives rise to the general linear Lie algebra The associative algebra A is called an enveloping algebra of the Lie algebra L(A). Every Lie algebra can be embedded into one that arises from an associative algebra in this fashion; see universal enveloping algebra.
+
+=== Representation ===
+Given a vector space V, let denote the Lie algebra enveloped by the associative algebra of all linear endomorphisms of V. A representation of a Lie algebra on V is a Lie algebra homomorphism
+:
+A representation is said to be faithful if its kernel is trivial. Every finite-dimensional Lie algebra has a faithful representation on a finite-dimensional vector space (Ado's theorem). 
+
+For example,
+:
+given by is a representation of on the vector space called the adjoint representation. A derivation on the Lie algebra (in fact on any non-associative algebra) is a linear map that obeys the Leibniz' law, that is,
+:
+for all x and y in the algebra. For any x, is a derivation; a consequence of the Jacobi identity. Thus, the image of lies in the subalgebra of consisting of derivations on . A derivation that happens to be in the image of is called an inner derivation. If is semisimple, every derivation on is inner.
+
+== Examples ==
+
+=== Vector spaces ===
+
+*Any vector space V endowed with the identically zero Lie bracket becomes a Lie algebra. Such Lie algebras are called abelian, cf. below. Any one-dimensional Lie algebra over a field is abelian, by the antisymmetry of the Lie bracket.
+
+*The real vector space of all n × n skew-hermitian matrices is closed under the commutator and forms a real Lie algebra denoted . This is the Lie algebra of the unitary group U(n).
+
+=== Subspaces ===
+
+* The subspace of the general linear Lie algebra consisting of matrices of trace zero is a subalgebra, Humphreys p.2 the special linear Lie algebra, denoted 
+
+=== Real matrix groups ===
+
+* Any Lie group defines an associated real Lie algebra =Lie(). The definition in general is somewhat technical, but in the case of real matrix groups, it can be formulated via the exponential map, or the matrix exponent. The Lie algebra consists of those matrices for which exp(tX) ∈ G, ∀ real numbers .
+:The Lie bracket of is given by the commutator of matrices. As a concrete example, consider the special linear group SL(n,R), consisting of all n × n matrices with real entries and determinant 1. This is a matrix Lie group, and its Lie algebra consists of all n × n matrices with real entries and trace 0,
+:This Lie algebra is related to the pseudogroup of diffeomorphisms of .
+
+=== Three dimensions ===
+
+*The three-dimensional Euclidean space R3 with the Lie bracket given by the cross product of vectors becomes a three-dimensional Lie algebra.
+
+*The Heisenberg algebra H3(R) is a three-dimensional Lie algebra generated by elements , and with Lie brackets
+:: .
+:It is explicitly realized as the space of 3&times;3 strictly upper-triangular matrices, with the Lie bracket given by the matrix commutator,
+::
+
+:Any element of the Heisenberg group is thus representable as a product of group generators, i.e., matrix exponentials of these Lie algebra generators, 
+::
+
+* The commutation relations between the x, y, and z components of the angular momentum operator in quantum mechanics form a representation of a complex three-dimensional Lie algebra, which is the complexification of the Lie algebra so(3) of the three-dimensional rotation group:
+:: 
+:: 
+:: .
+
+=== Infinite dimensions ===
+
+*An important class of infinite-dimensional real Lie algebras arises in differential topology. The space of smooth vector fields on a differentiable manifold M forms a Lie algebra, where the Lie bracket is defined to be the commutator of vector fields. One way of expressing the Lie bracket is through the formalism of Lie derivatives, which identifies a vector field X with a first order partial differential operator L'X acting on smooth functions by letting L'X(f) be the directional derivative of the function f in the direction of X. The Lie bracket of two vector fields is the vector field defined through its action on functions by the formula:
+ 
+:: 
+
+*A Kac–Moody algebra is an example of an infinite-dimensional Lie algebra.
+
+*The Moyal algebra is an infinite-dimensional Lie algebra which contains all classical Lie algebras as subalgebras.
+
+== Structure theory and classification ==
+
+Lie algebras can be classified to some extent. In particular, this has an application to the classification of Lie groups.
+
+=== Abelian, nilpotent, and solvable ===
+Analogously to abelian, nilpotent, and solvable groups, defined in terms of the derived subgroups, one can define abelian, nilpotent, and solvable Lie algebras.
+
+A Lie algebra is abelian if the Lie bracket vanishes, i.e. = 0, for all x and y in . Abelian Lie algebras correspond to commutative (or abelian) connected Lie groups such as vector spaces or tori and are all of the form meaning an n-dimensional vector space with the trivial Lie bracket.
+
+A more general class of Lie algebras is defined by the vanishing of all commutators of given length. A Lie algebra is nilpotent if the lower central series
+
+:
+
+becomes zero eventually. By Engel's theorem, a Lie algebra is nilpotent if and only if for every u in the adjoint endomorphism
+
+:
+
+is nilpotent.
+
+More generally still, a Lie algebra is said to be solvable if the derived series:
+
+:
+
+becomes zero eventually.
+
+Every finite-dimensional Lie algebra has a unique maximal solvable ideal, called its radical. Under the Lie correspondence, nilpotent (respectively, solvable) connected Lie groups correspond to nilpotent (respectively, solvable) Lie algebras.
+
+=== Simple and semisimple ===
+A Lie algebra is "simple" if it has no non-trivial ideals and is not abelian.
+A Lie algebra is called semisimple if its radical is zero. Equivalently, is semisimple if it does not contain any non-zero abelian ideals. In particular, a simple Lie algebra is semisimple. Conversely, it can be proven that any semisimple Lie algebra is the direct sum of its minimal ideals, which are canonically determined simple Lie algebras.
+
+The concept of semisimplicity for Lie algebras is closely related with the complete reducibility (semisimplicity) of their representations. When the ground field F has characteristic zero, any finite-dimensional representation of a semisimple Lie algebra is semisimple (i.e., direct sum of irreducible representations.) In general, a Lie algebra is called reductive if the adjoint representation is semisimple. Thus, a semisimple Lie algebra is reductive.
+
+=== Cartan's criterion ===
+
+Cartan's criterion gives conditions for a Lie algebra to be nilpotent, solvable, or semisimple. It is based on the notion of the Killing form, a symmetric bilinear form on defined by the formula
+: 
+where tr denotes the trace of a linear operator. A Lie algebra is semisimple if and only if the Killing form is nondegenerate. A Lie algebra is solvable if and only if 
+
+=== Classification ===
+
+The Levi decomposition expresses an arbitrary Lie algebra as a semidirect sum of its solvable radical and a semisimple Lie algebra, almost in a canonical way. Furthermore, semisimple Lie algebras over an algebraically closed field have been completely classified through their root systems. However, the classification of solvable Lie algebras is a 'wild' problem, and cannot be accomplished in general.
+
+== Relation to Lie groups ==
+
+Although Lie algebras are often studied in their own right, historically they arose as a means to study Lie groups.
+
+Lie's fundamental theorems describe a relation between Lie groups and Lie algebras. In particular, any Lie group gives rise to a canonically determined Lie algebra (concretely, the tangent space at the identity); and, conversely, for any Lie algebra there is a corresponding connected Lie group (Lie's third theorem; see the Baker–Campbell–Hausdorff formula). This Lie group is not determined uniquely; however, any two connected Lie groups with the same Lie algebra are locally isomorphic, and in particular, have the same universal cover. For instance, the special orthogonal group SO(3) and the special unitary group SU(2) give rise to the same Lie algebra, which is isomorphic to R3 with the cross-product, while SU(2) is a simply-connected twofold cover of SO(3).
+
+Given a Lie group, a Lie algebra can be associated to it either by endowing the tangent space to the identity with the differential of the adjoint map, or by considering the left-invariant vector fields as mentioned in the examples. In the case of real matrix groups, the Lie algebra consists of those matrices for which exp(tX) ∈ G for all real numbers , where exp is the exponential map.
+
+Some examples of Lie algebras corresponding to Lie groups are the following:
+* The Lie algebra for the group is the algebra of complex n×n matrices
+* The Lie algebra for the group is the algebra of complex n×n matrices with trace 0
+* The Lie algebras for the group and for are both the algebra of real anti-symmetric n×n matrices (See matrix: Infinitesimal rotations] for a discussion)
+* The Lie algebra for the group is the algebra of skew-Hermitian complex n×n matrices while the Lie algebra for is the algebra of skew-Hermitian, traceless complex n×n matrices.
+In the above examples, the Lie bracket (for and matrices in the Lie algebra) is defined as .
+
+Given a set of generators Ta, the structure constants f abc express the Lie brackets of pairs of generators as linear combinations of generators from the set, i.e., Tb f abc Tc. The structure constants determine the Lie brackets of elements of the Lie algebra, and consequently nearly completely determine the group structure of the Lie group. The structure of the Lie group near the identity element is displayed explicitly by the Baker–Campbell–Hausdorff formula, an expansion in Lie algebra elements X, Y and their Lie brackets, all nested together within a single exponent, exp(tX) exp(tY) exp(tX+tY+½ t2 + O(t3) ). 
+
+The mapping from Lie groups to Lie algebras is functorial, which implies that homomorphisms of Lie groups lift to homomorphisms of Lie algebras, and various properties are satisfied by this lifting: it commutes with composition, it maps Lie subgroups, kernels, quotients and cokernels of Lie groups to subalgebras, kernels, quotients and cokernels of Lie algebras, respectively.
+
+The functor L which takes each Lie group to its Lie algebra and each homomorphism to its differential is faithful and exact. It is however not an equivalence of categories: different Lie groups may have isomorphic Lie algebras (for example SO(3) and SU(2) ), and there are (infinite dimensional) Lie algebras that are not associated to any Lie group. 
+
+However, when the Lie algebra is finite-dimensional, one can associate to it a simply connected Lie group having as its Lie algebra. More precisely, the Lie algebra functor L has a left adjoint functor Γ from finite-dimensional (real) Lie algebras to Lie groups, factoring through the full subcategory of simply connected Lie groups. Adjoint property is discussed in more general context in Hofman & Morris (2007) (e.g., page 130) but is a straightforward consequence of, e.g., Bourbaki (1989) Theorem 1 of page 305 and Theorem 3 of page 310. In other words, there is a natural isomorphism of bifunctors
+
+::
+
+The adjunction (corresponding to the identity on ) is an isomorphism, and the other adjunction is the projection homomorphism from the universal cover group of the identity component of to . It follows immediately that if is simply connected, then the Lie algebra functor establishes a bijective correspondence between Lie group homomorphisms G→H and Lie algebra homomorphisms L(G)→L(H).
+
+The universal cover group above can be constructed as the image of the Lie algebra under the exponential map. More generally, we have that the Lie algebra is homeomorphic to a neighborhood of the identity. But globally, if the Lie group is compact, the exponential will not be injective, and if the Lie group is not connected, simply connected or compact, the exponential map need not be surjective.
+
+If the Lie algebra is infinite-dimensional, the issue is more subtle. In many instances, the exponential map is not even locally a homeomorphism (for example, in Diff(S1), one may find diffeomorphisms arbitrarily close to the identity that are not in the image of exp). Furthermore, some infinite-dimensional Lie algebras are not the Lie algebra of any group.
+
+The correspondence between Lie algebras and Lie groups is used in several ways, including in the classification of Lie groups and the related matter of the representation theory of Lie groups. Every representation of a Lie algebra lifts uniquely to a representation of the corresponding connected, simply connected Lie group, and conversely every representation of any Lie group induces a representation of the group's Lie algebra; the representations are in one to one correspondence. Therefore, knowing the representations of a Lie algebra settles the question of representations of the group.
+
+As for classification, it can be shown that any connected Lie group with a given Lie algebra is isomorphic to the universal cover mod a discrete central subgroup. So classifying Lie groups becomes simply a matter of counting the discrete subgroups of the center, once the classification of Lie algebras is known (solved by Cartan et al. in the semisimple case).
+
+== Category theoretic definition ==
+
+Using the language of category theory, a Lie algebra can be defined as an object A in Veck, the category of vector spaces over a field k of characteristic not 2, together with a morphism : A ⊗ A → A, where ⊗ refers to the monoidal product of Veck, such that
+
+*
+*
+
+where τ (a ⊗ b) := b ⊗ a and σ is the cyclic permutation braiding (id ⊗ τA,A) ° (τA,A ⊗ id). In diagrammatic form:
+
+:
+
+==See also==
+
+* Adjoint representation of a Lie algebra
+* Anyonic Lie algebra
+* Chiral Lie algebra
+* Differential graded Lie algebra
+* Index of a Lie algebra
+* Killing form
+* Lie algebra cohomology
+* Lie algebra representation
+* Lie bialgebra
+* Lie coalgebra
+* Particle physics and representation theory
+
+* Lie superalgebra
+* Poisson algebra
+* Quantum groups
+* Moyal algebra
+* Quasi-Frobenius Lie algebra
+* Quasi-Lie algebra
+* Restricted Lie algebra
+* Simplicial Lie algebra
+* Symmetric Lie algebra 
+
+== Notes ==
+ 
+
+==References==
+* Beltita, Daniel. Smooth Homogeneous Structures in Operator Theory, CRC Press, 2005. ISBN 978-1-4200-3480-6
+* Boza, Luis; Fedriani, Eugenio M. & Núñez, Juan. A new method for classifying complex filiform Lie algebras, Applied Mathematics and Computation, 121 (2-3): 169–175, 2001
+* Bourbaki, Nicolas. "Lie Groups and Lie Algebras - Chapters 1-3", Springer, 1989, ISBN 3-540-64242-0
+* Erdmann, Karin & Wildon, Mark. Introduction to Lie Algebras, 1st edition, Springer, 2006. ISBN 1-84628-040-0
+* Hall, Brian C. Lie Groups, Lie Algebras, and Representations: An Elementary Introduction, Springer, 2003. ISBN 0-387-40122-9
+* Hofman, Karl & Morris, Sidney. "The Lie Theory of Connected Pro-Lie Groups", European Mathematical Society, 2007, ISBN 978-3-03719-032-6
+* Humphreys, James E. Introduction to Lie Algebras and Representation Theory, Second printing, revised. Graduate Texts in Mathematics, 9. Springer-Verlag, New York, 1978. ISBN 0-387-90053-5
+* Jacobson, Nathan, Lie algebras, Republication of the 1962 original. Dover Publications, Inc., New York, 1979. ISBN 0-486-63832-4
+* Kac, Victor G. et al. Course notes for MIT 18.745: Introduction to Lie Algebras, math.mit.edu
+* O'Connor, J.J. & Robertson, E.F. Biography of Sophus Lie, MacTutor History of Mathematics Archive, www-history.mcs.st-andrews.ac.uk
+* O'Connor, J.J. & Robertson, E.F. Biography of Wilhelm Killing, MacTutor History of Mathematics Archive, www-history.mcs.st-andrews.ac.uk
+* Serre, Jean-Pierre. "Lie Algebras and Lie Groups", 2nd edition, Springer, 2006. ISBN 3-540-55008-9
+* Steeb, W.-H. Continuous Symmetries, Lie Algebras, Differential Equations and Computer Algebra, second edition, World Scientific, 2007, ISBN 978-981-270-809-0
+* Varadarajan, V.S. Lie Groups, Lie Algebras, and Their Representations, 1st edition, Springer, 2004. ISBN 0-387-90969-9
+
+ 

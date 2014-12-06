@@ -1,0 +1,136 @@
+[[Heinrich Hertz]]
+
+Heinrich Rudolf Hertz (; 22 February 1857 – 1 January 1894) was a German physicist who first conclusively proved the existence of electromagnetic waves theorized by James Clerk Maxwell's electromagnetic theory of light. Hertz proved the theory by engineering instruments to transmit and receive radio pulses using experimental procedures that ruled out all other known wireless phenomena. The scientific unit of frequency – cycles per second – was named the "hertz" in his honor. IEC History 
+
+==Biography==
+
+Heinrich Rudolf Hertz was born in 1857 in Hamburg, then a sovereign state of the German Confederation, into a prosperous and cultured Hanseatic family. His father (originally named David Gustav Hertz) (1827–1914) was a barrister and later a senator. His mother was Anna Elisabeth Pfefferkorn.
+
+Hertz's paternal grandfather, Heinrich David Hertz (originally named Hertz Hertz) (1797–1862), was a businessman, and his paternal grandmother, Bertha "Betty" Oppenheim, was the daughter of the banker Salomon Oppenheim, Jr. from Cologne.
+
+Hertz's paternal great-grandfather, David Wolff Hertz (1757–1822), fourth son of Benjamin Wolff Hertz, moved to Hamburg in 1793, where he made his living as a jeweller; he and his wife Schöne Hertz (1760–1834) were buried in the former Jewish cemetery in Ottensen. Their first son, Wolff Hertz (1790–1859), was chairman of the Jewish community.
+
+Heinrich Rudolf Hertz's father and paternal grandparents had converted from Judaism to Christianity http://www.ur5eaw.com/Hertz.html in 1834. 
+His mother's family was a Lutheran pastor's family.
+
+While studying at the Gelehrtenschule des Johanneums in Hamburg, Heinrich Rudolf Hertz showed an aptitude for sciences as well as languages, learning Arabic and Sanskrit. He studied sciences and engineering in the German cities of Dresden, Munich and Berlin, where he studied under Gustav R. Kirchhoff and Hermann von Helmholtz. In 1880, Hertz obtained his PhD from the University of Berlin, and for the next three years remained for post-doctoral study under Helmholtz, serving as his assistant. In 1883, Hertz took a post as a lecturer in theoretical physics at the University of Kiel. In 1885, Hertz became a full professor at the University of Karlsruhe.
+
+In 1886 Hertz married Elisabeth Doll, the daughter of Dr. Max Doll, a lecturer in geometry at Karlsruhe. They had two daughters: Johanna, born on October 20, 1887 and Mathilde, born on January 14, 1891. During this time Hertz conducted his landmark research into Electromagnetic waves.
+
+Hertz took a position of Professor of Physics and Director of the Physics Institute in Bonn on April 3, 1889, a position he held until January, 1894. During this time he worked on theoretical on mechanics with his work published in the book Die Prinzipien der Mechanik in neuem Zusammenhange dargestellt (The Principles of Mechanics Presented in a New Form), published posthumously in 1894.
+
+===Death at age 36===
+In 1892, an infection was diagnosed (after a bout of severe migraines) and Hertz underwent some operations to correct the illness. He died of Wegener's granulomatosis at the age of 36 in Bonn, Germany in 1894, and was buried in the main Protestant Ohlsdorf Cemetery in Hamburg. Find-a-grave, Ohlsdorfer Friedhof, Hamburg-Nord, Hamburg, Germany, Plot: Q24, 53–58 Hamburger Friedhöfe > Ohlsdorf > Prominente Plan Ohlsdorfer Friedhof (Map of Ohlsdorf Cemetery) IEEE Institute, Did You Know? Historical ‘Facts’ That Are Not True 
+
+Hertz's wife, Elisabeth Hertz née Doll (1864–1941), did not remarry. Hertz left two daughters, Johanna (1887–1967) and Mathilde (1891–1975). Hertz's daughters never married and he has no descendants. Susskind, Charles. (1995). Heinrich Hertz: A Short Life. San Francisco: San Francisco Press. 10-ISBN 0-911302-74-3; 13-ISBN 978-0-911302-74-5. 
+
+==Research==
+===Meteorology===
+Hertz always had a deep interest in meteorology, probably derived from his contacts with Wilhelm von Bezold (who was his professor in a laboratory course at the Munich Polytechnic in the summer of 1878). However, Hertz did not contribute much to the field himself except some early articles as an assistant to Helmholtz in Berlin, including research on the evaporation of liquids, a new kind of hygrometer, and a graphical means of determining the properties of moist air when subjected to adiabatic changes. Mulligan, J. F., and H. G. Hertz, "On the energy balance of the Earth," American Journal of Physics, Vol. 65, pp. 36–45. 
+
+===Contact mechanics===
+Memorial of Heinrich Hertz on the campus of the Karlsruhe Institute of Technology, which translates as At this site, Heinrich Hertz discovered electromagnetic waves in the years 1885–1889.
+
+In 1886–1889, Hertz published two articles on what was to become known as the field of contact mechanics. Hertz is well known for his contributions to the field of electrodynamics (see below); however, most papers that look into the fundamental nature of contact cite his two papers as a source for some important ideas. Joseph Valentin Boussinesq published some critically important observations on Hertz's work, nevertheless establishing this work on contact mechanics to be of immense importance. His work basically summarises how two axi-symmetric objects placed in contact will behave under loading, he obtained results based upon the classical theory of elasticity and continuum mechanics. The most significant failure of his theory was the neglect of any nature of adhesion between the two solids, which proves to be important as the materials composing the solids start to assume high elasticity. It was natural to neglect adhesion in that age as there were no experimental methods of testing for it.
+
+To develop his theory Hertz used his observation of elliptical Newton's rings formed upon placing a glass sphere upon a lens as the basis of assuming that the pressure exerted by the sphere follows an elliptical distribution. He used the formation of Newton's rings again while validating his theory with experiments in calculating the displacement which the sphere has into the lens. K. L. Johnson, K. Kendall and A. D. Roberts (JKR) used this theory as a basis while calculating the theoretical displacement or indentation depth in the presence of adhesion in their landmark article "Surface energy and contact of elastic solids" published in 1971 in the Proceedings of the Royal Society (A324, 1558, 301–313). Hertz's theory is recovered from their formulation if the adhesion of the materials is assumed to be zero. Similar to this theory, however using different assumptions, B. V. Derjaguin, V. M. Muller and Y. P. Toporov published another theory in 1975, which came to be known as the DMT theory in the research community, which also recovered Hertz's formulations under the assumption of zero adhesion. This DMT theory proved to be rather premature and needed several revisions before it came to be accepted as another material contact theory in addition to the JKR theory. Both the DMT and the JKR theories form the basis of contact mechanics upon which all transition contact models are based and used in material parameter prediction in nanoindentation and atomic force microscopy. So Hertz's research from his days as a lecturer, preceding his great work on electromagnetism, which he himself considered with his characteristic soberness to be trivial, has come down to the age of nanotechnology.
+
+===Electromagnetic research===
+1887 experimental setup of Hertz's apparatus
+During Hertz's studies in 1879 Helmholtz suggested that Hertz's doctoral dissertation be on testing Maxwell's theory of electromagnetism, published in 1865, which predicted the existence of electromagnetic waves moving at the speed of light, and predicted that light itself was just such a wave. Helmholtz had also proposed the "Berlin Prize" problem that year at the Prussian Academy of Sciences for anyone who could experimentally prove an electromagnetic effect in the polarization and depolarization of insulators, something predicted by Maxwell's theory. nndb.com - Heinrich Hertz D. Baird, R.I. Hughes, Alfred Nordmann, Heinrich Hertz: Classical Physicist, Modern Philosopher, page 49 Helmholtz was sure Hertz was the most likely candidate to win it. D. Baird, R.I. Hughes, Alfred Nordmann, Heinrich Hertz: Classical Physicist, Modern Philosopher, page 49 Not seeing any way to build an apparatus to experimentally test this, Hertz thought it was too difficult, and worked on electromagnetic induction instead. Hertz did produce an analysis of Maxwell's equations during his time at Kiel, showing they did have more validity than the then prevalent "action at a distance" theories. John L. Heilbron, The Oxford Guide to the History of Physics and Astronomy, page 148 
+
+After Hertz received his professorship at Karlsruhe he was experimenting with a pair of Reiss spirals in the autumn of 1886 when he noticed that discharging a leyden jar into one of these coils would produce a spark in the other coil. With an idea on how to build an apparatus, Hertz now had a way proceed with the "Berlin Prize" problem of 1879 on proving Maxwell's theory (although the actual prize had expired uncollected in 1882). D. Baird, R.I. Hughes, Alfred Nordmann, Heinrich Hertz: Classical Physicist, Modern Philosopher, page 53 Anton A. Huurdeman, The Worldwide History of Telecommunications, John Wiley & Sons - 2003, page 202 He used a Ruhmkorff coil-driven spark gap and one-meter wire pair as a radiator. Capacity spheres were present at the ends for circuit resonance adjustments. His receiver, a precursor to the dipole antenna, was a simple half-wave dipole antenna that was not electrically grounded for its operation. This experiment produced and received what are now called radio waves in the ultra high frequency range.
+ 
+Through experimentation in 1886 and 1887, he proved that transverse free space electromagnetic waves can travel over some distance. This had been predicted by James Clerk Maxwell and Michael Faraday. With his apparatus configuration, the electric and magnetic fields would radiate away from the wires as transverse waves. Hertz had positioned the oscillator about 12 meters from a zinc reflecting plate to produce standing waves. Each wave was about 4 meters long. Using the ring detector, he recorded how the wave's magnitude and component direction varied. Hertz measured Maxwell's waves and demonstrated that the velocity of these waves was equal to the velocity of light. The electric field intensity, polarity and reflection of the waves were also measured by Hertz. These experiments established that light and these waves were both a form of electromagnetic radiation obeying the Maxwell equations. Hertz also described the "Hertzian cone", a type of wave-front propagation through various media.
+Theoretical results from the 1887 experiment
+Hertz helped establish the photoelectric effect (which was later explained by Albert Einstein) when he noticed that a charged object loses its charge more readily when illuminated by ultraviolet light. In 1887, he made observations of the photoelectric effect and of the production and reception of electromagnetic (EM) waves, published in the journal Annalen der Physik. His receiver consisted of a coil with a spark gap, whereby a spark would be seen upon detection of EM waves. He placed the apparatus in a darkened box to see the spark better. He observed that the maximum spark length was reduced when in the box. A glass panel placed between the source of EM waves and the receiver absorbed ultraviolet radiation (UV) that assisted the electrons in jumping across the gap. When removed, the spark length would increase. He observed no decrease in spark length when he substituted quartz for glass, as quartz does not absorb UV radiation. Hertz concluded his months of investigation and reported the results obtained. He did not further pursue investigation of this effect, nor did he make any attempt at explaining how the observed phenomenon was brought about.
+
+Hertz did not realize the practical importance of his experiments. He stated that,
+: "It's of no use whatsoever this is just an experiment that proves Maestro Maxwell was right—we just have these mysterious electromagnetic waves that we cannot see with the naked eye. But they are there." Institute of Chemistry, Hebrew University of Jerusalem: Hertz biography, digitized photographs. chem.ch.huji.ac.il/history/hertz.htm (Dead) Anton Z. Capri, Quips, quotes, and quanta: an anecdotal history of physics. 2007. Page 93. Andrew Norton, Dynamic fields and waves. 2000. Page 83. 
+Asked about the ramifications of his discoveries, Hertz replied,
+:"Nothing, I guess." 
+
+Official English translation of Untersuchungen über die Ausbreitung der elektrischen Kraft published in 1893, a year before Hertz's death. 
+Hertz's proof of the existence of airborne electromagnetic waves (referred to as "Hertzian Waves" early on) would lead to experimentation in this new form of electromagnetic radiation and the eventual development of commercial Hertzian wave based wireless telegraphy (radio), audio radio, and later television.
+
+In 1892, Hertz began experimenting and demonstrated that cathode rays could penetrate very thin metal foil (such as aluminium). Philipp Lenard, a student of Heinrich Hertz, further researched this "ray effect". He developed a version of the cathode tube and studied the penetration by X-rays of various materials. Philipp Lenard, though, did not realize that he was producing X-rays. Hermann von Helmholtz formulated mathematical equations for X-rays. He postulated a dispersion theory before Röntgen made his discovery and announcement. It was formed on the basis of the electromagnetic theory of light (Wiedmann's Annalen, Vol. XLVIII). However, he did not work with actual X-rays.
+
+==Nazi persecution==
+Heinrich Hertz was a Lutheran throughout his life and would not have considered himself Jewish, as his father's family had all converted to Lutheranism Koertge, Noretta. (2007). Dictionary of Scientific Biography, Vol. 6, p. 340. when his father was still in his childhood (aged seven) in 1834. . 2008-01-04. (). 
+
+Nevertheless, when the Nazi regime gained power decades after Hertz's death, his portrait was removed by them from its prominent position of honor in Hamburg's City Hall (Rathaus) because of his partly "Jewish ancestry". (The painting has since been returned to public display. Robertson, Struan: Hertz biography )
+
+Hertz's widow and daughters left Germany in the 1930s and went to England.
+
+==Legacy and honors==
+
+Heinrich Hertz
+
+Heinrich Hertz's nephew Gustav Ludwig Hertz was a Nobel Prize winner, and Gustav's son Carl Helmut Hertz invented medical ultrasonography.
+
+The SI unit hertz (Hz) was established in his honor by the IEC in 1930 for frequency, an expression of the number of times that a repeated event occurs per second. It was adopted by the CGPM (Conférence générale des poids et mesures) in 1960, officially replacing the previous name, "cycles per second" (cps).
+
+In 1969 (East Germany), a Heinrich Hertz memorial medal http://highfields-arc.co.uk/biogs/hrhertz.htm was cast. The IEEE Heinrich Hertz Medal, established in 1987, is "for outstanding achievements in Hertzian waves presented annually to an individual for achievements which are theoretical or experimental in nature".
+
+A crater that lies on the far side of the Moon, just behind the eastern limb, is named in his honor. The Hertz market for radio electronics products in Nizhny Novgorod, Russia, is named after him. The Heinrich-Hertz-Turm radio telecommunication tower in Hamburg is named after the city's famous son.
+
+Hertz is honored by Japan with a membership in the Order of the Sacred Treasure, which has multiple layers of honor for prominent people, including scientists. L'Harmattan: List of recipients of Japanese Order of the Sacred Treasure (in French) 
+
+Heinrich Hertz has been honored by a number of countries around the world in their postage issues, and in post-World War II times has appeared on various German stamp issues as well.
+
+On his birthday in 2012, Google honored Hertz with a Google doodle, inspired by his life's work, on its home page. Google: Heinrich Rudolf Hertz's 155th Birthday 
+
+==See also==
+
+;Lists and histories
+* History of radio
+* Invention of radio
+* List of people on stamps of Germany
+* List of physicists
+* Outline of physics
+* Timeline of mechanics and physics
+* Electromagnetism timeline
+* Wireless telegraphy
+
+;Electromagnetic radiation
+* Microwave
+
+;Other
+* List of German inventors and discoverers
+
+==Notes==
+
+==References==
+
+* Hertz, H.R. "Ueber sehr schnelle electrische Schwingungen", Annalen der Physik, vol. 267, no. 7, p. 421–448, May 1887. (WILEY InterScience)
+* Hertz, H.R. "Ueber einen Einfluss des ultravioletten Lichtes auf die electrische Entladung", Annalen der Physik, vol. 267, no. 8, p. 983–1000, June 1887. (WILEY InterScience)
+* Hertz, H.R. "Ueber die Einwirkung einer geradlinigen electrischen Schwingung auf eine benachbarte Strombahn", Annalen der Physik, vol. 270, no. 5, p. 155–170, March 1888. (WILEY InterScience)
+* Hertz, H.R. "Ueber die Ausbreitungsgeschwindigkeit der electrodynamischen Wirkungen", Annalen der Physik, vol. 270, no. 7, p. 551–569, May 1888. (WILEY InterScience)
+* Hertz, H.R. (1893). Electric waves: being researches on the propagation of electric action with finite velocity through space (translated by David Evans Jones). Ithica, New York: Cornell University Library. 10-ISBN 1-4297-4036-1; 13-ISBN 978-1-4297-4036-4
+* Hertz, H. R.(1899) The Principles of Mechanics Presented in a New Form, London, Macmillan, with an introduction by Hermann von Helmholtz (English translation of Die Prinzipien der Mechanik in neuem Zusammenhange dargestellt, Leipzig, posthumously published in 1894).
+* IEEE (Institute of Electrical and Electronics Engineers) Global History Network, IEEE History Center: "Heinrich Hertz" (retrieved 27 Jan 2007)
+* Jenkins, John D. "The Discovery of Radio Waves – 1888; Heinrich Rudolf Hertz (1847–1894)" (retrieved 27 Jan 2008)
+* Koertge, Noretta. (2007). Dictionary of Scientific Biography. New York: Thomson-Gale. 10-ISBN 0-684-31320-0; 13-ISBN 978-0-684-31320-7
+* Naughton, Russell. "Heinrich Rudolph (alt: Rudolf) Hertz, Dr : 1857 – 1894" (retrieved 27 Jan 2008)
+* Roberge, Pierre R. "Heinrich Rudolph Hertz, 1857–1894" (retrieved 27 Jan 2008)
+* Robertson, Struan. "Buildings Integral to the Former Life and/or Persecution of Jews in Hamburg" (retrieved 27 Jan 2008)
+* Robertson, Struan. "Heinrich Hertz, 1857–1894" (retrieved 27 Jan 2007)
+* http://theinstitute.ieee.org/technology-focus/technology-history/did-you-know-historical-facts-that-are-not-true
+
+==Further reading==
+
+* Appleyard, Rollo. (1930). Pioneers of Electrical Communication". London: Macmillan and Company. by Ayer Company Publishers, Manchester, New Hampshire: 10-ISBN 0-8369-0156-8; 13-ISBN 978-0-8369-0156-6 (cloth)
+* Baird, Davis, R.I.G. Hughes, and Alfred Nordmann, eds. (1998). 'Heinrich Hertz: Classical Physicist, Modern Philosopher. New York: Springer-Verlag. 10-ISBN 0-7923-4653-X; 13-ISBN 978-0-7923-4653-1
+* Bodanis, David. (2006). Electric Universe: How Electricity Switched on the Modern World. New York: Three Rivers Press. 10-ISBN 0-307-33598-4; 13-ISBN 978-0-307-33598-2
+* Buchwald, Jed Z. (1994). The Creation of Scientific Effects: Heinrich Hertz and Electric Waves. Chicago: University of Chicago Press. 10-ISBN 0-226-07887-6; 13-ISBN 978-0-226-07887-8 (cloth) 10-ISBN 0-226-07888-4; 13-ISBN 978-0-226-07888-5 (paper)
+* Bryant, John H. (1988). Heinrich Hertz, the Beginning of Microwaves: Discovery of Electromagnetic Waves and Opening of the Electromagnetic Spectrum by Heinrich Hertz in the Years 1886–1892. New York: IEEE (Institute of Electrical and Electronics Engineers). 10-ISBN 0-87942-710-8; 13-ISBN 978-0-87942-710-8
+* Lodge, Oliver Joseph. (1900). Signaling Across Space without Wires by Electric Waves: Being a Description of the work of &#91;Heinrich&#93; Hertz and his Successors. reprinted by Arno Press, New York, 1974. 10-ISBN 0-405-06051-3
+* Maugis, Daniel. (2000). Contact, Adhesion and Rupture of Elastic Solids. New York: Springer-Verlag. 10-ISBN 3-540-66113-1; 13-ISBN 978-3-540-66113-9
+* Susskind, Charles. (1995). Heinrich Hertz: A Short Life. San Francisco: San Francisco Press. 10-ISBN 0-911302-74-3; 13-ISBN 978-0-911302-74-5
+
+==External links==
+* 
+* 
+* Encyclopædia Britannica (1911): Hertz biography
+
+

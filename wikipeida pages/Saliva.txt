@@ -1,0 +1,109 @@
+[[Saliva]]
+
+Saliva is a watery substance located in the mouths of animals, secreted by the salivary glands. Human saliva is 99.5% water, while the other 0.5% consists of electrolytes, mucus, glycoproteins, enzymes, and antibacterial compounds such as secretory IgA and lysozyme. The enzymes found in saliva are essential in beginning the process of digestion of dietary starches and fats. These enzymes also play a role in breaking down food particles entrapped within dental crevices, protecting teeth from bacterial decay. Furthermore, saliva serves a lubricative function, wetting food and permitting the initiation of swallowing, and protecting the mucosal surfaces of the oral cavity from desiccation. 
+
+Various species have special uses for saliva that go beyond predigestion. Some swifts use their gummy saliva to build nests. Aerodramus nests are prized for use in bird's nest soup. Cobras, vipers, and certain other members of the venom clade hunt with venomous saliva injected by fangs. Some arthropods, such as spiders and caterpillars, create thread from salivary glands.
+
+==Functions==
+Saliva contributes to the digestion of food and to the maintenance of oral hygiene. Without normal salivary function the frequency of dental caries, gum disease (gingivitis), and other oral problems increases significantly.
+
+===Lubricant===
+Saliva coats the oral mucosa, mechanically protecting it from trauma during eating, swallowing and speaking. In persons with little saliva (xerostomia), soreness of the mouth is very common, and the food (especially dry food) sticks to the inside of the mouth.
+
+===Digestion===
+The digestive functions of saliva include moistening food and helping to create a food bolus. This lubricative function of saliva allows the food bolus to be passed easily from the mouth into the esophagus. Saliva contains the enzyme amylase, also called ptyalin, which is capable of breaking down starch into simpler sugars such as maltose and dextrin that can be further broken down in the small intestine. Only about 30% starch digestion takes place in the mouth cavity. Salivary glands also secrete salivary lipase (a more potent form of lipase) to begin fat digestion. Salivary lipase plays a large role in fat digestion in newborn infants as their pancreatic lipase still needs some time to develop. 
+
+===Antimicrobial function===
+Saliva has both a mechanical cleansing action and a specific (immunoglobulins, e.g. IgA) and non-specific immunologic action (e.g.lysozyme, lactoferrin and myeloperoxidase). These factors control the micro-organisms that survive in the mouth. It also has a protective function, helping to prevent dental plaque build-up on the teeth and washing away adhered food particles. Saliva is also key in preventing ascending infections of the salivary glands (e.g. parotitis).
+
+===Ion reservoir, buffer function===
+Saliva is supersaturated with various ions. Certain salivary proteins prevents precipitation, which would form salts. These ions act as a buffer, keeping the acidity of the mouth within a certain range, typically pH 6.2–7.4. This prevents minerals in the dental hard tissues from dissolving.
+
+===Hormonal function===
+Saliva secretes carbonic anhydrase (gustin), which is thought to play a role in the development of taste buds. 
+
+===Role in taste===
+
+Saliva is very important in the sense of taste. It is the liquid medium in which chemicals are carried to taste receptor cells (mostly associated with lingual papillae). Persons with little saliva often complain of dysgeusia (i.e. disordered taste, e.g. reduced ability to taste, or having a bad, metallic taste at all times).
+
+===Wound licking===
+
+A common belief is that saliva contained in the mouth has natural disinfectants, which leads people to believe it is beneficial to "lick their wounds". Researchers at the University of Florida at Gainesville have discovered a protein called nerve growth factor (NGF) in the saliva of mice. Wounds doused with NGF healed twice as fast as untreated and unlicked wounds; therefore, saliva can help to heal wound in some species. NGF has not been found in human saliva; however, researchers find human saliva contains such antibacterial agents as secretory IgA, lactoferrin, lysozyme and peroxidase. Jorma Tenovuo: Antimicrobial Agents in Saliva—Protection for the Whole Body. Journal of Dental Research 2002, 81(12) 807–809 It has not been shown that human licking of wounds disinfects them, but licking is likely to help clean the wound by removing larger contaminants such as dirt and may help to directly remove infective bodies by brushing them away. Therefore, licking would be a way of wiping off pathogens, useful if clean water is not available to the animal or person.
+
+The mouth of animals is the habitat of many bacteria, some pathogenic. Some diseases, such as herpes, can be transmitted through the mouth. Animal and human bites are routinely treated with systemic antibiotics because of the risk of septicemia.
+
+===Glue to construct bird nests===
+Many birds in the swift family, Apodidae, produce a viscous saliva during nesting season to glue together materials to construct a nest. Two species of swifts in the genus Aerodramus build their nests using only their saliva, the base for bird's nest soup. 
+
+==Stimulation==
+The production of saliva is stimulated both by the sympathetic nervous system and the parasympathetic. 
+
+The saliva stimulated by sympathetic innervation is thicker, and saliva stimulated parasympathetically is more watery.
+
+Sympathetic stimulation of saliva is to facilitate respiration, whereas parasympathetic stimulation is to facilitate digestion.
+
+Parasympathetic stimulation leads to acetylcholine (ACh) release onto the salivary acinar cells. ACh binds to muscarinic receptors, specifically M3, and causes an increased intracellular calcium ion concentration (through the IP3/DAG second messenger system). Increased calcium causes vesicles within the cells to fuse with the apical cell membrane leading to secretion. ACh also causes the salivary gland to release kallikrein, an enzyme that converts kininogen to lysyl-bradykinin. Lysyl-bradykinin acts upon blood vessels and capillaries of the salivary gland to generate vasodilation and increased capillary permeability respectively. The resulting increased blood flow to the acini allows production of more saliva. In addition, Substance P can bind to Tachykinin NK-1 receptors leading to increased intracellular calcium concentrations and subsequently increased saliva secretion. Lastly, both parasympathetic and sympathetic nervous stimulation can lead to myoepitheilium contraction which causes the expulsion of secretions from the secretory acinus into the ducts and eventually to the oral cavity.
+
+Sympathetic stimulation results in the release of norepinephrine. Norepinephrine binding to α-adrenergic receptors will cause an increase in intracellular calcium levels leading to more fluid vs. protein secretion. If norepinephrine binds β-adrenergic receptors, it will result in more protein or enzyme secretion vs. fluid secretion. Stimulation by norepinephrine initially decreases blood flow to the salivary glands due to constriction of blood vessels but this effect is overtaken by vasodilation caused by various local vasodilators.
+
+Saliva production may also be pharmacologically stimulated by so-called sialagogues. It can also be suppressed by so-called antisialagogues.
+
+==Daily salivary output==
+There is much debate about the amount of saliva that is produced in a healthy person per day; estimates range from 0.75 to 1.5 litres per day while it is generally accepted that during sleep the amount drops to almost zero. 
+In humans, the submandibular gland contributes around 70–75% of secretion, while the parotid gland secretes about 20–25% and small amounts are secreted from the other salivary glands.
+
+==Contents==
+Produced in salivary glands, human saliva is 99.5% water, but it contains many important substances, including electrolytes, mucus, antibacterial compounds and various enzymes. 
+
+It is a fluid containing:
+* Water
+* Electrolytes:
+** 2–21 mmol/L sodium (lower than blood plasma)
+** 10–36 mmol/L potassium (higher than plasma)
+** 1.2–2.8 mmol/L calcium (similar to plasma)
+** 0.08–0.5 mmol/L magnesium
+** 5–40 mmol/L chloride (lower than plasma)
+** 25 mmol/L bicarbonate (higher than plasma)
+** 1.4–39 mmol/L phosphate
+** Iodine (mmol/L concentration is usually higher than plasma, but dependent variable according to dietary iodine intake)
+* Mucus (mucus in saliva mainly consists of mucopolysaccharides and glycoproteins)
+* Antibacterial compounds (thiocyanate, hydrogen peroxide, and secretory immunoglobulin A)
+* Epidermal growth factor (EGF)
+* Various enzymes; there are three major enzymes found in saliva:
+** α-amylase (EC3.2.1.1), or ptyalin, secreted by the acinar cells of the parotid and submandibular glands, starts the digestion of starch before the food is even swallowed; it has a pH optimum of 7.4
+** Lingual lipase, which is secreted by the acinar cells of the sublingual gland; has a pH optimum around 4.0 so it is not activated until entering the acidic environment of the stomach
+**Kallikrein, an enzyme that proteolytically cleaves high-molecular-weight kininogen to produce bradykinin, which is a vasodilator; it is secreted by the acinar cells of all three major salivary glands
+** Antimicrobial enzymes that kill bacteria
+***Lysozyme
+***Salivary lactoperoxidase
+***Lactoferrin 
+***Immunoglobulin A 
+**Proline-rich proteins (function in enamel formation, Ca2+-binding, microbe killing and lubrication) 
+** Minor enzymes include salivary acid phosphatases A+B, N-acetylmuramoyl-L-alanine amidase, NAD(P)H dehydrogenase (quinone), superoxide dismutase, glutathione transferase, class 3 aldehyde dehydrogenase, glucose-6-phosphate isomerase, and tissue kallikrein (function unknown) 
+* Cells: possibly as many as 8 million human and 500 million bacterial cells per mL. The presence of bacterial products (small organic acids, amines, and thiols) causes saliva to sometimes exhibit foul odor
+* Opiorphin, a pain-killing substance found in human saliva
+* Haptocorrin, a protein which binds to Vitamin B12 to protect it against degradation in the stomach, before it binds to intrinsic factor
+
+A building being renovated in the Carrollton section of New Orleans
+
+==Spitting==
+Spitting, or expectoration, is the act of forcibly ejecting saliva or other substances from the mouth. It is often considered rude and a social taboo in many parts of the world, including Western countries, where it is frequently forbidden by local laws (as it was thought to facilitate the spread of disease). These laws are generally not strictly enforced. In Singapore, the fine for spitting may be as high as S$2,000 for multiple offenses, and one can even be arrested. In some other parts of the world, expectoration is more socially acceptable (even if officially disapproved of or illegal), and spittoons are still a common appearance in some cultures. Some animals, in some cases humans as well, will use spitting as an automatic defensive move. Camels are well known for doing this, however, most tamed camels are trained to not spit things when they are agitated, scared, etc.
+
+==See also==
+*Spittle cures
+
+==References==
+
+==Further reading==
+*
+*
+*
+*
+*
+*
+
+==External links==
+
+* 
+
+

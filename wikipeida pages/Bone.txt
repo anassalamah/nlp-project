@@ -1,0 +1,264 @@
+[[Bone]]
+
+Image of two facing pages, showing the fourth and fifth "figure of the muscles". The left hand page presents the frontal view and the right hand page shows the back view of the human skeleton, with a few muscles attached, plus the anatomy of the head and brain. The bones and muscles on both charts are marked with single letters, with legends on each side of the figures providing names and explanations. "Epitome", fol. 7b and 8a. HMD Collection, WZ 240 V575dhZ 1543.
+The bones of a human foot
+Bones are rigid organs that constitute part of the endoskeleton of vertebrates. They support and protect the various organs of the body, produce red and white blood cells and store minerals. Bone tissue is a type of dense connective tissue. Bones come in a variety of shapes and have a complex internal and external structure, are lightweight yet strong and hard, and serve multiple functions. One of the types of tissue that makes up bone is the mineralized osseous tissue, also called bone tissue, that gives it rigidity and a coral-like three-dimensional internal structure. Other types of tissue found in bones include marrow, endosteum, periosteum, nerves, blood vessels and cartilage. At birth, there are over 270 bones in an infant human's body, but many of these fuse together as the child grows, leaving a total of 206 separate bones in a typical adult, not counting numerous small sesamoid bones and ossicles. The largest bone in the human body is the femur and the smallest bone of the 206 is the stapes.
+
+==Functions==
+Bones have eleven main functions:
+
+===Mechanical===
+* Protection — bones can serve to protect internal organs, such as the skull protecting the brain or the ribs protecting the heart and lungs.
+* Structure — bones provide a frame to keep the body supported.
+* Movement — bones provide leverage system for, skeletal muscles, tendons, ligaments and joints function together to generate and transfer forces so that individual body parts or the whole body can be manipulated in three-dimensional space. The interaction between bone and muscle is studied in biomechanics.
+* Sound transduction — bones are important in the mechanical aspect of overshadowed hearing.
+
+===Synthetic===
+* Blood production — the marrow, located within the medullary cavity of long bones and interstices of cancellous bone, produces blood cells in a process called hematopoiesis. Fernández, KS; de Alarcón, PA (2013 Dec). "Development of the hematopoietic system and disorders of hematopoiesis that present during infancy and early childhood.". Pediatric clinics of North America 60 (6): 1273–89. PMID 24237971. 
+
+===Metabolic===
+* Mineral storage — bones act as reserves of minerals important for the body, most notably calcium and phosphorus.
+* Growth factor storage — mineralized bone matrix stores important growth factors such as insulin-like growth factors, transforming growth factor, bone morphogenetic proteins and others.
+* Fat storage — the yellow bone marrow acts as a storage reserve of fatty acids.
+* Acid-base balance — bone buffers the blood against excessive pH changes by absorbing or releasing alkaline salts.
+* Detoxification — bone tissues can also store heavy metals and other foreign elements, removing them from the blood and reducing their effects on other tissues. These can later be gradually released for excretion.
+* Endocrine organ — bone controls phosphate metabolism by releasing fibroblast growth factor – 23 (FGF-23), which acts on kidneys to reduce phosphate reabsorption. Bone cells also release a hormone called osteocalcin, which contributes to the regulation of blood sugar (glucose) and fat deposition. Osteocalcin increases both the insulin secretion and sensitivity, in addition to boosting the number of insulin-producing cells and reducing stores of fat. 
+
+==Mechanical properties==
+The primary tissue of bone, osseous tissue, is a relatively hard and lightweight composite material. It is mostly made up of a composite material incorporating the mineral calcium phosphate in the chemical arrangement termed calcium hydroxylapatite (this is the osseous tissue that gives bones their rigidity) and collagen, an elastic protein which improves fracture resistance. It has relatively high compressive strength of about 170 MPa (1800 kgf/cm²) but poor tensile strength of 104–121 MPa and very low shear stress strength (51.6 MPa), meaning it resists pushing forces well, but not pulling or torsional forces. While bone is essentially brittle, it does have a significant degree of elasticity, contributed chiefly by collagen. All bones consist of living cells embedded in the mineralized organic matrix that makes up the osseous tissue.
+
+==Structure==
+
+===Gross anatomy===
+
+===Bone structure===
+
+Bone is not a uniformly solid material, but rather has some spaces between its hard elements.
+
+====Compact (cortical) bone====
+The hard outer layer of bones is composed of compact bone tissue, so-called due to its minimal gaps and spaces. Its porosity is 5–30%. Hall, Susan. (2007) Basic Biomechanics. Fifth Edition. p. 88 ISBN 0-07-126041-2 This tissue gives bones their smooth, white, and solid appearance, and accounts for 80% of the total bone mass of an adult skeleton. Compact bone may also be referred to as dense bone.
+
+====Trabecular (cancellous or spongy) bone====
+Filling the interior of the bone is the trabecular bone tissue (an open cell porous network also called cancellous or spongy bone), which is composed of a network of rod- and plate-like elements that make the overall organ lighter and allow room for blood vessels and marrow. Trabecular bone accounts for the remaining 20% of total bone mass but has nearly ten times the surface area of compact bone. Its porosity is 30–90%. If, for any reason, there is an alteration in the strain the cancellous is subjected to, there is a rearrangement of the trabeculae. The microscopic difference between compact and cancellous bone is that compact bone consists of haversian sites and osteons, while cancellous bones do not. Also, bone surrounds blood in the compact bone, while blood surrounds bone in the cancellous bone.
+
+===In birds===
+
+It is a common misconception that bird skeletons are lightweight. While their bones are smaller and thinner, bird bone tissue is generally denser than mammalian bone tissue, allowing them to be stronger and offer more support with less volume and weight. Among mammals, bats come closest to birds in terms of bone density, suggesting that small dense bones are a flight adaptation. Many bird bones have little marrow due to being hollow, though not all bird bones are hollow. 
+
+==Cellular structure==
+Bone cells
+There are several types of cells constituting the typical bone:
+
+* Osteoblasts are mononucleate bone-forming cells that descend from osteoprogenitor cells. They are located on the surface of osteoid seams and make a protein mixture known as osteoid, which mineralizes to become bone. The osteoid seam is a narrow region of newly formed organic matrix, not yet mineralized, located on the surface of a bone. Osteoid is primarily composed of Type I collagen. Osteoblasts also manufacture hormones, such as prostaglandins, to act on the bone itself. They robustly produce alkaline phosphatase, an enzyme that has a role in the mineralisation of bone, as well as many matrix proteins. Osteoblasts are the immature bone cells, and eventually become entrapped in the bone matrix to become osteocytes- the mature bone cell.
+
+* Bone lining cells are essentially inactive osteoblasts. They cover all of the available bone surface and function as a barrier for certain ions.
+* Osteocytes originate from osteoblasts that have migrated into and become trapped and surrounded by bone matrix that they themselves produce. The spaces they occupy are known as lacunae. Osteocytes have many processes that reach out to meet osteoblasts and other osteocytes probably for the purposes of communication. Their functions include, to varying degrees: formation of bone; matrix maintenance; and calcium homeostasis. They have also been shown to act as mechano-sensory receptors — regulating the bone's response to stress and mechanical load. They are mature bone cells.
+
+* Osteoclasts are the cells responsible for bone resorption, thus they break down bone. New bone is then formed by the osteoblasts (remodeling of bone to reduce its volume). Osteoclasts are large, multinucleated cells located on bone surfaces in what are called Howship's lacunae or resorption pits. These lacunae, or resorption pits, are left behind after the breakdown of the bone surface. Because the osteoclasts are derived from a monocyte stem-cell lineage, they are equipped with phagocytic-like mechanisms similar to circulating macrophages. Osteoclasts mature and/or migrate to discrete bone surfaces. Upon arrival, active enzymes, such as tartrate resistant acid phosphatase, are secreted against the mineral substrate.
+
+==Molecular structure==
+
+===Matrix===
+The majority of bone is made of the bone matrix. It is composed primarily of inorganic hydroxyapatite and organic collagen. Bone is formed by the hardening of this matrix around entrapped cells. When these cells become entrapped from osteoblasts they become osteocytes.
+
+====Inorganic====
+Scanning Electronic micrography 10000 magnification of Bone mineral
+The inorganic composition of bone (bone mineral) is formed from carbonated hydroxyapatite (Ca10(PO4)6(OH)2) with lower crystallinity. 
+The matrix is initially laid down as unmineralised osteoid (manufactured by osteoblasts). Mineralisation involves osteoblasts secreting vesicles containing alkaline phosphatase. This cleaves the phosphate groups and acts as the foci for calcium and phosphate deposition. The vesicles then rupture and act as a centre for crystals to grow on.
+More particularly, bone mineral is formed from globular and plate structures, distributed among the collagen fibrils of bone and forming yet larger structure.
+
+====Organic====
+The organic part of matrix is mainly composed of Type I collagen. This is synthesised intracellularly as tropocollagen and then exported, forming fibrils. The organic part is also composed of various growth factors, the functions of which are not fully known. Factors present include glycosaminoglycans, osteocalcin, osteonectin, bone sialo protein, osteopontin and Cell Attachment Factor.
+
+===Woven vs. lamellar bone===
+Collagen fibers of woven bone
+Two types of bone can be identified microscopically according to the pattern of collagen forming the osteoid (collagenous support tissue of type I collagen embedded in glycosaminoglycan gel):
+
+* Woven bone, which is characterized by haphazard organization of collagen fibers and is mechanically weak
+
+* Lamellar bone, which has a regular parallel alignment of collagen into sheets (lamellae) and is mechanically strong
+
+Woven bone is produced when osteoblasts produce osteoid rapidly, which occurs initially in all fetal bones (but is later replaced by more resilient lamellar bone). In adults woven bone is created after fractures or in Paget's disease. Woven bone is weaker, with a smaller number of randomly oriented collagen fibers, but forms quickly; it is for this appearance of the fibrous matrix that the bone is termed woven. It is soon replaced by lamellar bone, which is highly organized in concentric sheets with a much lower proportion of osteocytes to surrounding tissue. Lamellar bone, which makes its first appearance in the fetus during the third trimester, Salentijn, L. Biology of Mineralized Tissues: Cartilage and Bone, Columbia University College of Dental Medicine post-graduate dental lecture series, 2007 is stronger and filled with many collagen fibers parallel to other fibers in the same layer (these parallel columns are called osteons). In cross-section, the fibers run in opposite directions in alternating layers, much like in plywood, assisting in the bone's ability to resist torsion forces. After a fracture, woven bone forms initially and is gradually replaced by lamellar bone during a process known as "bony substitution." Compared to woven bone, lamellar bone formation takes place more slowly. The orderly deposition of collagen fibers restricts the formation of osteoid to about 1 to 2 µm per day. Lamellar bone also requires a relatively flat surface to lay the collagen fibers in parallel or concentric layers.
+
+These terms are histologic, in that a microscope is necessary to differentiate between the two.
+
+==Types==
+thumb
+There are five types of bones in the human body: long, short, flat, irregular, and sesamoid.
+* Long bones are characterized by a shaft, the diaphysis, that is much longer than it is wide. They are made up mostly of compact bone, with lesser amounts of marrow, located within the medullary cavity, and spongy bone. Most bones of the limbs, including those of the fingers and toes, are long bones. The exceptions are those of the wrist, ankle and kneecap.
+* Short bones are roughly cube-shaped, and have only a thin layer of compact bone surrounding a spongy interior. The bones of the wrist and ankle are short bones, as are the sesamoid bones.
+* Flat bones are thin and generally curved, with two parallel layers of compact bones sandwiching a layer of spongy bone. Most of the bones of the skull are flat bones, as is the sternum.
+* Sesamoid bones are bones embedded in tendons. Since they act to hold the tendon further away from the joint, the angle of the tendon is increased and thus the leverage of the muscle is increased. Examples of sesamoid bones are the patella and the pisiform.
+* Irregular bones do not fit into the above categories. They consist of thin layers of compact bone surrounding a spongy interior. As implied by the name, their shapes are irregular and complicated. Often this irregular shape is due to their many centers of ossification or because they contain bony sinuses. The bones of the spine, Pelvis, and some bones of the skull are irregular bones. Examples include the ethmoid and sphenoid bones. 
+
+==Formation==
+The formation of bone during the fetal stage of development occurs by two processes: Intramembranous ossification and endochondral ossification.
+
+===Intramembranous ossification===
+Intramembranous ossification mainly occurs during formation of the flat bones of the skull but also the mandible, maxilla, and clavicles; the bone is formed from connective tissue such as mesenchyme tissue rather than from cartilage. The steps in intramembranous ossification are:
+# Development of ossification center
+# Calcification
+# Formation of trabeculae
+# Development of periosteum
+
+===Endochondral ossification===
+Endochondral ossification
+Light microscopic section through a juvenile knee joint (rat) showing the cartilagineous growth plates
+Endochondral ossification, on the other hand, occurs in long bones and most of the rest of the bones in the body; it involves an initial hyaline cartilage that continues to grow. The steps in endochondral ossification are:
+# Development of cartilage model
+# Growth of cartilage model
+# Development of the primary ossification center
+# Development of the secondary ossification center
+# Formation of articular cartilage and epiphyseal plate
+
+Endochondral ossification begins with points in the cartilage called "primary ossification centers." They mostly appear during fetal development, though a few short bones begin their primary ossification after birth. They are responsible for the formation of the diaphyses of long bones, short bones and certain parts of irregular bones. Secondary ossification occurs after birth, and forms the epiphyses of long bones and the extremities of irregular and flat bones. The diaphysis and both epiphyses of a long bone are separated by a growing zone of cartilage (the epiphyseal plate). When the child reaches skeletal maturity (18 to 25 years of age), all of the cartilage is replaced by bone, fusing the diaphysis and both epiphyses together (epiphyseal closure).
+
+In the upper limbs, only the diaphyses of the long bones and scapula are ossified. The epiphyses, carpal bones, coracoid process, medial border of the scapula, and acromion are still cartilaginous. The following steps are followed in the conversion of cartilage to bone:
+
+1. Zone of reserve cartilage. This region, farthest from the marrow cavity, consists of typical hyaline cartilage that as yet shows no sign of transforming into bone. 
+
+2. Zone of cell proliferation. A little closer to the marrow cavity, chondrocytes multiply and arrange themselves into longitudinal columns of flattened lacunae. 
+
+3. Zone of cell hypertrophy. Next, the chondrocytes cease to divide and begin to hypertrophy (enlarge), much like they do in the primary ossification center of the fetus. The walls of the matrix between lacunae become very thin. 
+
+4. Zone of calcification. Minerals are deposited in the matrix between the columns of lacunae and calcify the cartilage. These are not the permanent mineral deposits of bone, but only a temporary support for the cartilage that would otherwise soon be weakened by the breakdown of the enlarged lacunae. 
+
+5. Zone of bone deposition. Within each column, the walls between the lacunae break down and the chondrocytes die. This converts each column into a longitudinal channel, which is immediately invaded by blood vessels and marrow from the marrow cavity. Osteoblasts line up along the walls of these channels and begin depositing concentric lamellae of matrix, while osteoclasts dissolve the temporarily calcified cartilage. 
+
+===Bone marrow===
+Bone marrow can be found in almost any bone that holds cancellous tissue. In newborns, all such bones are filled exclusively with red marrow, but as the child ages it is mostly replaced by yellow, or fatty marrow. In adults, red marrow is mostly found in the marrow bones of the femur, the ribs, the vertebrae and pelvic bones.
+
+==Remodeling==
+Remodeling or bone turnover is the process of resorption followed by replacement of bone with little change in shape and occurs throughout a person's life. Osteoblasts and osteoclasts, coupled together via paracrine cell signalling, are referred to as bone remodeling unit. Approximately 10% of the skeletal mass of an adult is remodelled each year. 
+
+===Purpose===
+The purpose of remodeling is to regulate calcium homeostasis, repair micro-damaged bones (from everyday stress) but also to shape and sculpt the skeleton during growth.
+
+====Calcium balance====
+The process of bone resorption by the osteoclasts releases stored calcium into the systemic circulation and is an important process in regulating calcium balance. As bone formation actively fixes circulating calcium in its mineral form, removing it from the bloodstream, resorption actively unfixes it thereby increasing circulating calcium levels. These processes occur in tandem at site-specific locations.
+
+===Bone volume===
+Bone volume is determined by the rates of bone formation and bone resorption. Recent research has suggested that certain growth factors may work to locally alter bone formation by increasing osteoblast activity. Numerous bone-derived growth factors have been isolated and classified via bone cultures. These factors include insulin-like growth factors I and II, transforming growth factor-beta, fibroblast growth factor, platelet-derived growth factor, and bone morphogenetic proteins. Evidence suggests that bone cells produce growth factors for extracellular storage in the bone matrix. The release of these growth factors from the bone matrix could cause the proliferation of osteoblast precursors. Essentially, bone growth factors may act as potential determinants of local bone formation. Research has suggested that trabecular bone volume in postemenopausal osteoporosis may be determined by the relationship between the total bone forming surface and the percent of surface resorption. 
+
+====Repair====
+Repeated stress, such as weight-bearing exercise or bone healing, results in the bone thickening at the points of maximum stress (Wolff's law). It has been hypothesized that this is a result of bone's piezoelectric properties, which cause bone to generate small electrical potentials under stress. Netter, Frank H. (1987). Musculoskeletal system: anatomy, physiology, and metabolic disorders. New Jersey, Summit: Ciba-Geigy Corporation. ISBN 0-914168-88-6 pp. 187–189. 
+
+==Paracrine cell signalling==
+The action of osteoblasts and osteoclasts are controlled by a number of chemical factors that either promote or inhibit the activity of the bone remodeling cells, controlling the rate at which bone is made, destroyed, or changed in shape. The cells also use paracrine signalling to control the activity of each other.
+
+===Osteoblast stimulation===
+Osteoblasts can be stimulated to increase bone mass through increased secretion of osteoid and by inhibiting the ability of osteoclasts to break down osseous tissue.
+
+Bone building through increased secretion of osteoid is stimulated by the secretion of growth hormone by the pituitary, thyroid hormone and the sex hormones (estrogens and androgens). These hormones also promote increased secretion of osteoprotegerin. Osteoblasts can also be induced to secrete a number of cytokines that promote reabsorbtion of bone by stimulating osteoclast activity and differentiation from progenitor cells. Vitamin D, parathyroid hormone and stimulation from osteocytes induce osteoblasts to increase secretion of RANK-ligand and interleukin 6, which cytokines then stimulate increased reabsorption of bone by osteoclasts. These same compounds also increase secretion of macrophage colony-stimulating factor by osteoblasts, which promotes the differentiation of progenitor cells into osteoclasts, and decrease secretion of osteoprotegerin.
+
+===Osteoclast inhibition===
+The rate at which osteoclasts resorb bone is inhibited by calcitonin and osteoprotegerin. Calcitonin is produced by parafollicular cells in the thyroid gland, and can bind to receptors on osteoclasts to directly inhibit osteoclast activity. Osteoprotegerin is secreted by osteoblasts and is able to bind RANK-L, inhibiting osteoclast stimulation. 
+
+==Disorders==
+
+Radiography used to identify possible bone fractures after a knee injury.
+There are many disorders of the skeleton. One of the more prominent is osteoporosis.
+
+===Osteoporosis===
+
+Osteoporosis is a disease of bone, leading to an increased risk of fracture. In osteoporosis, the bone mineral density (BMD) is reduced, bone microarchitecture is disrupted, and the amount and variety of non-collagenous proteins in bone is altered. Osteoporosis is defined by the World Health Organization (WHO) in women as a bone mineral density 2.5 standard deviations below peak bone mass (same age and sex-matched healthy person average) as measured by DEXA; the term "established osteoporosis" includes the presence of a fragility fracture. Osteoporosis is most common in women after the menopause, when it is called postmenopausal osteoporosis, but may develop in men and premenopausal women in the presence of particular hormonal disorders and other chronic diseases or as a result of smoking and medications, specifically glucocorticoids, when the disease is called steroid- or glucocorticoid-induced osteoporosis (SIOP or GIOP).. Osteoporosis usually has no symptoms until a fracture occurs, this is the reason why regular DEXA scan are important in early detection and prevention.
+
+Osteoporosis can be prevented with lifestyle advice and medication, and preventing falls in people with known or suspected osteoporosis is an established way to prevent fractures. Osteoporosis can be treated with bisphosphonates and various other medical treatments.
+
+===Other===
+Other disorders of bone include:
+*Bone fractures
+*Bone mineral
+*Osteomyelitis
+*Osteosarcoma
+*Osteogenesis imperfecta
+*Osteochondritis dissecans
+*Bone metastases
+*Neurofibromatosis type I
+*Arthritis
+*Ankylosing spondylitis
+
+==Osteology==
+The study of bones and teeth is referred to as osteology. It is frequently used in anthropology, archeology and forensic science for a variety of tasks. This can include determining the nutritional, health, age or injury status of the individual the bones were taken from. Preparing fleshed bones for these types of studies can involve maceration – boiling fleshed bones to remove large particles, then hand-cleaning.
+
+Typically anthropologists and archeologists study bone tools made by Homo sapiens and Homo neanderthalensis. Bones can serve a number of uses such as projectile points or artistic pigments, and can be made from endoskeletal or external bones such as antler or tusk.
+
+==Alternatives to bony endoskeletons==
+There are several evolutionary alternatives to mammillary bone; though they have some similar functions, they are not completely functionally analogous to bone.
+
+* Exoskeletons offer support, protection and levers for movement similar to endoskeletal bone. Different types of exoskeletons include shells, carapaces (consisting of calcium compounds or silica) and chitinous exoskeletons.
+* A true endoskeleton (that is, protective tissue derived from mesoderm) is also present in Echinoderms. Porifera (sponges) possess simple endoskeletons that consist of calcareous or siliceous spicules and a spongin fiber network.
+
+==Exposed bone==
+Bone penetrating the skin and being exposed to the outside can be both a natural process in some animals, and due to injury:
+*A deer's antlers are composed of bone. 
+*Instead of teeth, the extinct predatory fish Dunkleosteus had sharp edges of hard exposed bone along its jaws.
+*A compound fracture occurs when the edges of a broken bone puncture the skin.
+*Though not strictly speaking exposed, a bird's beak is primarily bone covered in a layer of keratin over a vascular layer containing blood vessels and nerve endings.
+
+==Uses==
+Bones from slaughtered animals have a number of uses. They have been used as crafting materials for buttons, handles, ornaments etc. A special genre is scrimshaw. Ground bones are used as an organic phosphorus-nitrogen fertilizer and as additive in animal feed. Bones, in particular after calcination to bone ash is used as source of calcium phosphate for the production of bone china and previously also phosphorus chemicals.
+
+==Terminology==
+
+Several terms are used to refer to features and components of bones throughout the body:
+
+ Bone feature Definition 
+ articular process A projection that contacts an adjacent bone. 
+ articulation The region where adjacent bones contact each other — a joint. 
+ canal A long, tunnel-like foramen, usually a passage for notable nerves or blood vessels. 
+ condyle A large, rounded articular process. 
+ crest A prominent ridge. 
+ eminence A relatively small projection or bump. 
+ epicondyle A projection near to a condyle but not part of the joint. 
+ facet A small, flattened articular surface. 
+ foramen An opening through a bone. 
+ fossa A broad, shallow depressed area. 
+ fovea A small pit on the head of a bone. 
+ labyrinth A cavity within a bone. 
+ line A long, thin projection, often with a rough surface. Also known as a ridge. 
+ malleolus One of two specific protuberances of bones in the ankle. 
+ meatus A short canal that finishes as a dead end, so it has only the entrance. 
+ process A relatively large projection or prominent bump.(gen.) 
+ ramus An arm-like branch off the body of a bone. 
+ sinus A cavity within a cranial bone. 
+ spine A relatively long, thin projection or bump. 
+ suture Articulation between cranial bones. 
+ trochanter One of two specific tuberosities located on the femur. 
+ tubercle A projection or bump with a roughened surface, generally smaller than a tuberosity. 
+ tuberosity A projection or bump with a roughened surface. 
+
+Several terms are used to refer to specific features of long bones:
+
+ Bone feature Definition 
+ diaphysis The long, relatively straight main body of a long bone; region of primary ossification. Also known as the shaft. 
+ epiphysis The end regions of a long bone; regions of secondary ossification. 
+ epiphyseal plate Also known as the growth plate or physis. In a long bone it is a thin disc of hyaline cartilage that is positioned transversely between the epiphysis and metaphysis. In the long bones of humans, the epiphyseal plate disappears by twenty years of age. 
+ head The proximal articular end of the bone. 
+ metaphysis The region of a long bone lying between the epiphysis and diaphysis. 
+ neck The region of bone between the head and the shaft. 
+
+==See also==
+
+* Artificial bone
+* List of bones of the human skeleton
+*Mineralized tissues
+* National Bone Health Campaign
+* Orthopaedics
+* Terms for anatomical location
+
+==References==
+
+==Footnotes==
+* 
+* 
+
+==External links==
+* Educational resource materials (including animations) by the American Society for Bone and Mineral Research
+* Review (including references) of piezoelectricity and bone remodelling
+* A good basic overview of bone biology from the Science Creative Quarterly
+* 
+
+*Bone
+
+*Bone

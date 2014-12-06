@@ -1,0 +1,183 @@
+[[Bremsstrahlung]]
+
+Bremsstrahlung produced by a high-energy electron deflected in the electric field of an atomic nucleus
+Bremsstrahlung (, from "to brake" and "radiation", i.e. "braking radiation" or "deceleration radiation") is electromagnetic radiation produced by the deceleration of a charged particle when deflected by another charged particle, typically an electron by an atomic nucleus. The moving particle loses kinetic energy, which is converted into a photon, thus satisfying the law of conservation of energy. The term is also used to refer to the process of producing the radiation. Bremsstrahlung has a continuous spectrum, which becomes more intense and whose peak intensity shifts toward higher frequencies as the change of the energy of the accelerated particles increases.
+
+Strictly speaking, braking radiation is any radiation due to the acceleration of a charged particle, which includes synchrotron radiation, cyclotron radiation, and the emission of electrons and positrons during beta decay. However, the term is frequently used in the more narrow sense of radiation from electrons (from whatever source) slowing in matter.
+
+Bremsstrahlung emitted from plasma is sometimes referred to as free-free radiation. This refers to the fact that the radiation in this case is created by charged particles that are free both before and after the deflection (acceleration) that caused the emission.
+
+== Particle in vacuum ==
+
+A charged particle accelerating in a vacuum radiates power, as described by the Larmor formula and its relativistic generalizations. Although the term "bremsstrahlung" is usually reserved for charged particles accelerating in matter, not vacuum, the formulas are similar. (In this respect, bremsstrahlung differs from Cherenkov radiation, another kind of braking radiation which only occurs in matter, not vacuum.)
+
+=== Total radiated power ===
+The most general relativistic formula for total radiated power is given by A Plasma Formulary for Physics, Technology, and Astrophysics, D. Diver, pp. 46–48. 
+
+::
+
+where (the velocity of the particle divided by the speed of light), is the Lorentz factor, signifies a time derivative of , and q is the charge of the particle. This is commonly written in the mathematically equivalent form: Jackson, Classical Electrodynamics, Sections 14.2-3 
+
+::
+
+In the case where velocity is parallel to acceleration (for example, linear motion), the formula simplifies to Introduction to Electrodynamics, D. J. Griffiths, pp. 463–465 
+
+::
+
+where is the acceleration. For the case of acceleration perpendicular to the velocity () (a case that arises in circular particle accelerators known as synchrotrons), the total power radiated reduces to
+
+::
+
+The total power radiated in the two limiting cases is proportional to () or (). Since , we see that the total radiated power goes as or , which accounts for why electrons lose energy to bremsstrahlung radiation much more rapidly than heavier charged particles (e.g., muons, protons, alpha particles). This is the reason a TeV energy electron-positron collider (such as the proposed International Linear Collider) cannot use a circular tunnel (requiring constant acceleration), while a proton-proton collider (such as the Large Hadron Collider) can utilize a circular tunnel. The electrons lose energy due to bremsstrahlung at a rate times higher than protons do.
+
+=== Angular distribution ===
+The most general formula for radiated power as a function of angle is: 
+::
+where is a unit vector pointing from the particle towards the observer, and is an infinitesimal bit of solid angle.
+
+In the case where velocity is parallel to acceleration (for example, linear motion), this simplifies to 
+::
+where is the angle between and the direction of observation.
+
+== Thermal bremsstrahlung ==
+The bremsstrahlung power spectrum rapidly decreases for large , and is also suppressed near . This plot is for the quantum case , and .
+
+In a plasma the free electrons constantly produce bremsstrahlung in collisions with the ions. A complete analysis requires accounting for both binary Coulomb collisions as well as collective (dielectric) behavior. A detailed treatment is given by Bekefi, Radiation Processes in Plasmas, G. Bekefi while a simplified one is given by Ichimaru. Basic Principles of Plasmas Physics: A Statistical Approach, S. Ichimaru, p. 228. In this section we follow Bekefi's dielectric treatment, with collisions included approximately via the cutoff wavenumber .
+
+Consider a uniform plasma, with thermal electrons distributed according to the Maxwell–Boltzmann distribution with the temperature . Following Bekefi, the power spectral density (power per angular frequency interval per volume, integrated over the whole sr of solid angle, and in both polarizations) of the bremsstrahlung radiated, is calculated to be
+
+: 
+
+where is the electron plasma frequency, is the number density of electrons and ions, is the classical radius of electron, is its mass, is the Boltzmann constant, and is the speed of light. The first bracketed factor is the index of refraction of a light wave in a plasma, and shows that emission is greatly suppressed for (this is the cutoff condition for a light wave in a plasma; in this case the light wave is evanescent). This formula thus only applies for . Note that the second bracketed factor has units of 1/volume and the third factor has units of energy, giving the correct total units of energy/volume. This formula should be summed over ion species in a multi-species plasma.
+
+The special function is defined in the exponential integral article, and the unitless quantity is
+
+: 
+
+ is a maximum or cutoff wavenumber, arising due to binary collisions, and can vary with ion species. Roughly, when (typical in plasmas that are not too cold), where eV is the Hartree energy, and is the electron thermal de Broglie wavelength. Otherwise, where is the classical Coulomb distance of closest approach.
+
+For the usual case , we find
+
+: 
+
+The formula for is approximate, in that it neglects enhanced emission occurring for slightly above .
+
+In the limit , we can approximate E1 as
+
+where is the Euler–Mascheroni constant. The leading, logarithmic term is frequently used, and resembles the Coulomb logarithm that occurs in other collisional plasma calculations. For the log term is negative, and the approximation is clearly inadequate. Bekefi gives corrected expressions for the logarthmic term that match detailed binary-collision calculations.
+
+The total emission power density, integrated over all frequencies, is
+
+: 
+
+ and decreases with ; it is always positive. For , we find
+
+: 
+
+The first bracketed factor has units of 1/volume, while the second has units of power. Note the appearance of the fine-structure constant due to the quantum nature of . In practical units, a commonly used version of this formula for is NRL Plasma Formulary, 2006 Revision, p. 58. 
+
+ .
+
+This formula is 1.59 times the one given above, with the difference due to details of binary collisions. Such ambiguity is often expressed by introducing Gaunt factor , e.g. in Radiative Processes in Astrophysics, G.B. Rybicki & A.P. Lightman, p. 162. one finds
+
+:
+
+where everything is expressed in the CGS units.
+
+=== Relativistic corrections ===
+Relativistic corrections to the emission of a 30-keV photon by an electron impacting on a proton.
+For very high temperatures there are relativistic corrections to this formula, that is, additional terms of the order of 
+
+=== Bremsstrahlung cooling ===
+If the plasma is optically thin, the bremsstrahlung radiation leaves the plasma, carrying part of the internal plasma energy. This effect is known as the bremsstrahlung cooling. It is a type of radiative cooling. The energy carried away by bremsstrahlung is called bremsstrahlung losses and represents a type of radiative losses. One generally uses the term bremsstrahlung losses in the context when the plasma cooling is undesired, as e.g. in fusion plasmas.
+
+== Polarizational bremsstrahlung ==
+Polarizational bremsstrahlung (sometimes referred to as "atomic bremsstrahlung") is the radiation emitted by the target's atomic electrons as the target atom is polarized by the Coulomb field of the incident charged particle. Polarization Bremsstrahlung on Atoms, Plasmas, Nanostructures and Solids, by V. Astapenko New Developments in Photon and Materials Research, Chapter 3: "Polarizational Bremsstrahlung: A Review", by S. Williams Polarizational bremsstrahlung contributions to the total bremsstrahlung spectrum have been observed in experiments involving relatively massive incident particles, Ishii, K. Radiat. Phys. Chem. 2006, 75, 1135-1163. resonance processes, Wendin, G.; Nuroh, K. Phys. Rev. Lett. 1977, 39, 48-51. and free atoms. Portillo, S.; Quarles, C.A. Phys. Rev. Lett. 2003, 91, 173201. However, there is still some debate as to whether or not there are significant polarizational bremsstrahlung contributions in experiments involving fast electrons incident on solid targets. Astapenko, V.A.; Kubankin, K.S.; Nasonov, N.N.; Polyanskiĭ, V.V.; Pokhil, G.P.; Sergienko, V.I.; Khablo, V.A. JETP Lett. 2006, 84, 281-284. Williams, S.; Quarles, C.A. Phys. Rev. A 2008, 78, 062704. 
+
+It is worth noting that the term "polarizational" is not meant to imply that the emitted bremsstrahlung is polarized. Also, the angular distribution of polarizational bremsstrahlung is theoretically quite different than ordinary bremsstrahlung. Gonzales, D.; Cavness, B.; Williams, S. Phys. Rev. A 2011, 84, 052726. 
+
+== Sources of bremsstrahlung ==
+
+=== X-ray tube ===
+Spectrum of the X-rays emitted by an X-ray tube with a rhodium target, operated at 60 kV. The continuous curve is due to bremsstrahlung, and the spikes are characteristic K lines for rhodium. The curve goes to zero at 21 pm in agreement with the Duane–Hunt law, as described in the text.
+
+In an X-ray tube, electrons are accelerated in a vacuum by an electric field and shot into a piece of metal called the "target". X-rays are emitted as the electrons slow down (decelerate) in the metal. The output spectrum consists of a continuous spectrum of X-rays, with additional sharp peaks at certain energies (see graph on right). The continuous spectrum is due to bremsstrahlung, while the sharp peaks are characteristic X-rays associated with the atoms in the target. For this reason, bremsstrahlung in this context is also called continuous X-rays. Electron microprobe analysis and scanning electron microscopy in geology, by S. J. B. Reed, 2005, page 12 Google books link 
+
+The shape of this continuum spectrum is approximately described by Kramers' law.
+
+The spectrum has a sharp cutoff at low wavelength, which is due to the limited energy of the incoming electrons. For example, if an electron in the tube is accelerated through 60 kV, then it will acquire a kinetic energy of 60 keV, and when it strikes the target it can create X-rays with energy of at most 60 keV, by conservation of energy. (This upper limit corresponds to the electron coming to a stop by emitting just one X-ray photon. Usually the electron emits many photons, and each has an energy less than 60 keV.) A photon with energy of at most 60 keV has wavelength of at least 21 pm, so the continuous X-ray spectrum has exactly that cutoff, as seen in the graph. More generally the formula for the low-wavelength cutoff is: Handbook of X-ray spectrometry by René Grieken, Andrzej Markowicz, page 3, Google books link 
+:
+where h is Planck's constant, c is the speed of light, V is the voltage that the electrons are accelerated through, e is the elementary charge, and pm is picometres. This is called the Duane–Hunt law.
+
+=== Beta decay ===
+
+Beta particle-emitting substances sometimes exhibit a weak radiation with continuous spectrum that is due to bremsstrahlung (see the "outer bremsstrahlung" below). In this context, bremsstrahlung is a type of "secondary radiation", in that it is produced as a result of stopping (or slowing) the primary radiation (beta particles). It is very similar to X-rays produced by bombarding metal targets with electrons in X-ray machines (as above) only it is produced by high speed electrons from beta radiation.
+
+==== Inner and outer bremsstrahlung ====
+The "inner" bremsstrahlung (also known as "internal bremsstrahlung") arises from the creation of the electron and its loss of energy (due to the strong electric field in the region of the nucleus undergoing decay) as it leaves the nucleus. Such radiation is a feature of beta decay in nuclei, but it is occasionally (less commonly) seen in the beta decay of free neutrons to protons, where it is created as the beta electron leaves the proton.
+
+In electron and positron emission by beta decay the photon's energy comes from the electron/nucleon pair, with the spectrum of the bremsstrahlung decreasing continuously with increasing energy of the beta particle. In electron capture, the energy comes at the expense of the neutrino, and the spectrum is greatest at about one third of the normal neutrino energy, decreasing to zero electromagnetic energy at normal neutrino energy. Note that in the case of electron capture, bremsstrahlung is emitted even though no charged particle is emitted. Instead, the bremsstrahlung radiation may be thought of as being created as the captured electron is accelerated toward being absorbed. Such radiation may be at freqencies that are the same as soft gamma radiation, but it exhibits none of the sharp spectral lines of gamma decay, and thus is not technically gamma radiation.
+
+The internal process is to be contrasted with the "outer" bremsstrahlung due to the impingement on the nucleus of electrons coming from the outside (i.e., emitted by another nucleus), as discussed above. 
+
+==== Radiation safety ====
+In some cases, e.g. , the bremsstrahlung produced by shielding the beta radiation with the normally used dense materials (e.g. lead) is itself dangerous; in such cases, shielding must be accomplished with low density materials, e.g. Plexiglass (lucite), plastic, wood, or water; http://www.oseh.umich.edu/pdf/TrainP32.pdf as the atomic number is lower for these materials, the intensity of bremsstrahlung is significantly reduced but a larger thickness of shielding is required to stop the electrons (beta radiation).
+
+=== In astrophysics ===
+The dominant luminous component in a cluster of galaxies is the 107 to 108 kelvin intracluster medium. The emission from the intracluster medium is characterized by thermal bremsstrahlung. This radiation is in the energy range of X-rays and can be easily observed with space-based telescopes such as Chandra X-ray Observatory, XMM-Newton, ROSAT, ASCA, EXOSAT, Suzaku, RHESSI and future missions like IXO and Astro-H .
+
+Bremsstrahlung is also the dominant emission mechanism for H II regions at radio wavelengths.
+
+== Quantum mechanical description ==
+The complete quantum mechanical description was first performed by Bethe and Heitler. Bethe, H.A., Heitler, W., 1934. On the stopping of fast particles and on the creation of positive electrons. Proc. Phys. Soc. Lond. 146, 83–112 They assumed plane waves for electrons which scatter at the nucleus of an atom, and derived a cross section which relates the complete geometry of that process to the frequency of the emitted photon. The quadruply differential cross section which shows a quantum mechanical symmetry to pair production, is:
+
+:
+
+There is the atomic number, the fine structure constant, the reduced Planck's constant and the speed of light. The kinetic energy of the electron in the initial and final state is connected to its total energy or its momenta via
+
+where is the mass of an electron. Conservation of energy gives
+
+where is the photon energy. The directions of the emitted photon and the scattered electron are given by
+
+where is the momentum of the photon.
+
+The differentials are given as
+
+The absolute value of the virtual photon between the nucleus and electron is
+
+The range of validity is given by the Born approximation
+
+where this relation has to be fulfilled for the velocity of the electron in the initial and final state.
+
+For practical applications (e.g. in Monte Carlo codes) it can be interesting to focus on the relation between the frequency of the emitted photon and the angle between this photon and the incident electron. Köhn und Ebert Koehn, C., Ebert, U., Angular distribution of Bremsstrahlung photons and of positrons for calculations of terrestrial gamma-ray flashes and positron beams, Atmos. Res. (2014), vol. 135-136, pp. 432-465 integrated the quadruply differential cross section by Bethe and Heitler over und and obtained:
+
+:
+
+with
+
+:
+and
+
+An analysis of the doubly differential cross section above shows that electrons whose kinetic energy is larger than the rest energy (511 keV) emit photons in forward direction while electrons with a small energy emit photons isotropically.
+
+==Electron-electron Bremsstrahlung==
+One mechanism which is important for small atomic numbers , is the scattering of a free electron at the shell electrons of an atom or molecule. Tessier F and Kawrakow I (2007) Calculation of the electron-electron bremsstrahlung crosssection in the field of atomic electrons, NIM. Phys. Res. B 266 625-634 Since electron-electron Bremsstrahlung is a function of and the usual electron-nucleus Bremsstrahlung is a function of , electron-electron Bremsstrahlung is negligible for metals. For air, however, it plays an important role in the production of terrestrial gamma-ray flashes. Koehn, C., Ebert, U. The importance of electron-electron Bremsstrahlung for terrestrial gamma-ray flashes, electron beams and electron-positron beams J. Phys. D.: Appl. Phys. as Fast Track Communication (2014), vol. 47, 252001 
+
+==See also==
+* Cyclotron radiation
+* Free-electron laser
+* fusion#Bremsstrahlung losses in quasineutral, isotropic plasmas|Nuclear fusion: bremsstrahlung losses]
+* Radiation length characterising energy loss by bremsstrahlung by high energy electrons in matter
+* Synchrotron light source
+* X-rays: History
+* List of plasma (physics) articles
+
+==References==
+
+==Further reading==
+
+==External links==
+
+*Index of Early Bremsstrahlung Articles
+
+

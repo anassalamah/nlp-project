@@ -1,0 +1,267 @@
+[[Bertrand Russell's views on philosophy]]
+
+The aspects of Bertrand Russell views on philosophy cover the changing viewpoints of philosopher and mathematician Bertrand Russell (1872–1970), from his early writings in 1896 until his death in February 1970.
+
+==Philosophical work==
+Russell is generally credited with being one of the founders of analytic philosophy, but he also produced a body of work that covers logic, the philosophy of mathematics, metaphysics, ethics and epistemology, including his 1913 Theory of Knowledge and the related article he wrote for the 1926 edition of Encyclopædia Britannica. 
+
+===Analytic philosophy===
+Bertrand Russell helped to develop what is now called "Analytic Philosophy." Alongside G. E. Moore, Russell was shown to be partly responsible for the British revolt against idealism, a philosophy greatly influenced by G. W. F. Hegel and his British apostle, F. H. Bradley. This revolt was echoed 30 years later in Vienna by the logical positivists' "revolt against metaphysics." Russell was particularly critical of a doctrine he ascribed to idealism and coherentism, which he dubbed the doctrine of internal relations; this, Russell suggested, held that in order to know any particular thing, we must know all of its relations. Russell argued that this would make space, time, science and the concept of number not fully intelligible. Russell's logical work with Whitehead continued this project. 
+
+Russell and Moore were devoted to clarity in arguments by breaking down philosophical position into their simplest components. Russell, in particular, saw formal logic and science as the principal tools of the philosopher. Russell did not think we should have separate methods for philosophy. Russell thought philosophers should strive to answer the most general of propositions about the world and this would help eliminate confusions. In particular, he wanted to end what he saw as the excesses of metaphysics. Russell adopted William of Ockham's principle against multiplying unnecessary entities, Occam's Razor, as a central part of the method of analysis. 
+
+===Logic and philosophy of mathematics===
+
+Russell had great influence on modern mathematical logic. The American philosopher and logician Willard Quine said Russell's work represented the greatest influence on his own work. "Quine, Willard Van Orman." Encyclopædia Britannica. 2008. Encyclopædia Britannica Online. Accessed 23 February 2008. 
+
+Russell's first mathematical book, An Essay on the Foundations of Geometry, was published in 1897. This work was heavily influenced by Immanuel Kant. Russell later realized that the conception it laid out would make Albert Einstein's schema of space-time impossible. Thenceforth, he rejected the entire Kantian program as it related to mathematics and geometry, and rejected his own earliest work on the subject. 
+
+Interested in the definition of number, Russell studied the work of George Boole, Georg Cantor, and Augustus De Morgan. Materials in the Bertrand Russell Archives at McMaster University include notes of his reading in algebraic logic by Charles Sanders Peirce and Ernst Schröder. Bertrand Russell Archives at McMaster University Irving H. Anellis, "Schröder Material at the Russell Archives", Modern Logic 1 (1990–1991), 237–247. In 1900 he attended the first International Congress of Philosophy in Paris, where he became familiar with the work of the Italian mathematician, Giuseppe Peano. He mastered Peano's new symbolism and his set of axioms for arithmetic. Peano defined logically all of the terms of these axioms with the exception of 0, number, successor, and the singular term, the, which were the primitives of his system. Russell took it upon himself to find logical definitions for each of these. Between 1897 and 1903 he published several articles applying Peano's notation to the classical Boole-Schröder algebra of relations, among them On the Notion of Order, Sur la logique des relations avec les applications à la théorie des séries, and On Cardinal Numbers. He became convinced that the foundations of mathematics could be derived within what has since come to be called higher-order logic which in turn he believed to include some form of unrestricted comprehension axiom.
+
+Russell then discovered that Gottlob Frege had independently arrived at equivalent definitions for 0, successor, and number, and the definition of number is now usually referred to as the Frege-Russell definition. Griffin, Nicholas ed. The Cambridge Companion to Bertrand Russell. Cambridge. 2003. p. 412 Russell drew attention to Frege's priority in 1903, when he published The Principles of Mathematics (see below). Russell's The Principles of Mathematics The appendix to this work, however, described a paradox arising from Frege's application of second- and higher-order functions which took first-order functions as their arguments, and Russell offered his first effort to resolve what would henceforth come to be known as the Russell Paradox. Before writing Principles, Russell became aware of Cantor's proof that there was no greatest cardinal number, which Russell believed was mistaken. The Cantor Paradox in turn was shown (for example by Crossley) to be a special case of the Russell Paradox. This caused Russell to analyze classes, for it was known that given any number of elements, the number of classes they result in is greater than their number. This in turn led to the discovery of a very interesting class, namely, the class of all classes. It contains two kinds of classes: those classes that contain themselves, and those that do not. Consideration of this class led him to find a fatal flaw in the so-called principle of comprehension, which had been taken for granted by logicians of the time. He showed that it resulted in a contradiction, whereby Y is a member of Y, if and only if, Y is not a member of Y. This has become known as Russell's paradox, the solution to which he outlined in an appendix to Principles, and which he later developed into a complete theory, the Theory of types. Aside from exposing a major inconsistency in naive set theory, Russell's work led directly to the creation of modern axiomatic set theory. It also crippled Frege's project of reducing arithmetic to logic. The Theory of Types and much of Russell's subsequent work have also found practical applications with computer science and information technology. 
+
+Russell continued to defend logicism, the view that mathematics is in some important sense reducible to logic, and along with his former teacher, Alfred North Whitehead, wrote the monumental Principia Mathematica, an axiomatic system on which all of mathematics can be built. The first volume of the Principia was published in 1910, and is largely ascribed to Russell. More than any other single work, it established the specialty of mathematical or symbolic logic. Two more volumes were published, but their original plan to incorporate geometry in a fourth volume was never realized, and Russell never felt up to improving the original works, though he referenced new developments and problems in his preface to the second edition. Upon completing the Principia, three volumes of extraordinarily abstract and complex reasoning, Russell was exhausted, and he felt his intellectual faculties never fully recovered from the effort. The Autobiography of Bertrand Russell, the Early Years, p. 202. Although the Principia did not fall prey to the paradoxes in Frege's approach, it was later proven by Kurt Gödel that neither Principia Mathematica, nor any other consistent system of primitive recursive arithmetic, could, within that system, determine that every proposition that could be formulated within that system was decidable, i.e. could decide whether that proposition or its negation was provable within the system (See: Gödel's incompleteness theorem).
+
+Russell's last significant work in mathematics and logic, Introduction to Mathematical Philosophy, was written while he was in jail for his anti-war activities during World War I. This was largely an explication of his previous work and its philosophical significance.
+
+===Philosophy of language===
+Russell made language, or more specifically, how we use language, a central part of philosophy, and this influenced Ludwig Wittgenstein, Gilbert Ryle, J. L. Austin, and P. F. Strawson, among others, who used many of the techniques that Russell originally developed. Russell, and GE Moore, argued that clarity of expression is a virtue.
+
+A significant contribution to philosophy of language is Russell's theory of descriptions, set out in On Denoting (Mind, 1905). Frank P. Ramsey described this paper as "a paradigm of philosophy." The theory considers the sentence "The present King of France is bald" and whether the proposition is false or meaningless. Frege had argued, employing his distinction between sense and reference, that such sentences were meaningful but neither true nor false. Russell argues that the grammatical form of the sentence disguises its underlying logical form. Russell's Theory of Definite Descriptions enables the sentence to be construed as meaningful but false, without commitment to the existence of any present King of France. This addresses a paradox of great antiquity (e.g. "That which is not must in some sense be. Otherwise, how could we say of it that it is not?" etc.), going back at least as far as Parmenides. In Russell's own time, Meinong held the view of that which is not being in some sense real; and Russell held this view prior to On Denoting. Principles of Mathematics (1903) pg. 449. 
+
+The problem is general to what are called "definite descriptions." Normally this includes all terms beginning with "the," and sometimes includes names, like "Walter Scott." (This point is quite contentious: Russell sometimes thought that the latter terms shouldn't be called names at all, but only "disguised definite descriptions," but much subsequent work has treated them as altogether different things.) What is the "logical form" of definite descriptions: how, in Frege's terms, could we paraphrase them in order to show how the truth of the whole depends on the truths of the parts? Definite descriptions appear to be like names that by their very nature denote exactly one thing, neither more nor less. What, then, are we to say about the proposition as a whole if one of its parts apparently isn't functioning correctly? 
+
+Russell's solution was, first of all, to analyze not the term alone but the entire proposition that contained a definite description. "The present king of France is bald," he then suggested, can be reworded to "There is an x such that x is a present king of France, nothing other than x is a present king of France, and x is bald." Russell claimed that each definite description in fact contains a claim of existence and a claim of uniqueness which give this appearance, but these can be broken apart and treated separately from the predication that is the obvious content of the proposition. The proposition as a whole then says three things about some object: the definite description contains two of them, and the rest of the sentence contains the other. If the object does not exist, or if it is not unique, then the whole sentence turns out to be false, not meaningless. 
+
+One of the major complaints against Russell's theory, due originally to Strawson, is that definite descriptions do not claim that their object exists, they merely presuppose that it does.
+
+Wittgenstein, Russell's student, achieved considerable prominence in the philosophy of language after the posthumous publication of the Philosophical Investigations. In Russell's opinion, Wittgenstein's later work was misguided, and he decried its influence and that of its followers (especially members of the so-called "Oxford school" of ordinary language philosophy, whom he believed were promoting a kind of mysticism). He wrote a foreword to Ernest Gellners Words and Things which was a fierce attack on the Oxford School of Ordinary Language philosophy and Wittgensteins later work and was supportive of Gellner in the subsequent academic dispute. However, Russell still held Wittgenstein and his early work in high regard, he thought of him as, "perhaps the most perfect example I have ever known of genius as traditionally conceived, passionate, profound, intense, and dominating." The Autobio. of B. Russell, pg. 329. Russell's belief that philosophy's task is not limited to examining ordinary language is once again widely accepted in philosophy.
+
+===Logical atomism===
+Perhaps Russell's most systematic, metaphysical treatment of philosophical analysis and his empiricist-centric logicism is evident in what he called logical atomism, which is explicated in a set of lectures, "The Philosophy of Logical Atomism," which he gave in 1918. In these lectures, Russell sets forth his concept of an ideal, isomorphic language, one that would mirror the world, whereby our knowledge can be reduced to terms of atomic propositions and their truth-functional compounds. Logical atomism is a form of radical empiricism, for Russell believed the most important requirement for such an ideal language is that every meaningful proposition must consist of terms referring directly to the objects with which we are acquainted, or that they are defined by other terms referring to objects with which we are acquainted. Russell excluded some formal, logical terms such as all, the, is, and so forth, from his isomorphic requirement, but he was never entirely satisfied with our understanding of such terms. One of the central themes of Russell's atomism is that the world consists of logically independent facts, a plurality of facts, and that our knowledge depends on the data of our direct experience of them. In his later life, Russell came to doubt aspects of logical atomism, especially his principle of isomorphism, though he continued to believe that the process of philosophy ought to consist of breaking things down into their simplest components, even though we might not ever fully arrive at an ultimate atomic fact.
+
+===Epistemology===
+Russell's epistemology went through many phases. Once he shed neo-Hegelianism in his early years, Russell remained a philosophical realist for the remainder of his life, believing that our direct experiences have primacy in the acquisition of knowledge. While some of his views have lost favour, his influence remains strong in the distinction between two ways in which we can be familiar with objects: "knowledge by acquaintance" and "knowledge by description". For a time, Russell thought that we could only be acquainted with our own sense data—momentary perceptions of colors, sounds, and the like—and that everything else, including the physical objects that these were sense data of, could only be inferred, or reasoned to—i.e. known by description—and not known directly. This distinction has gained much wider application, though Russell eventually rejected the idea of an intermediate sense datum.
+
+In his later philosophy, Russell subscribed to a kind of neutral monism, maintaining that the distinctions between the material and mental worlds, in the final analysis, were arbitrary, and that both can be reduced to a neutral property—a view similar to one held by the American philosopher/psychologist, William James, and one that was first formulated by Baruch Spinoza, whom Russell greatly admired. Instead of James' "pure experience," however, Russell characterised the stuff of our initial states of perception as "events," a stance which is curiously akin to his old teacher Whitehead's process philosophy.
+
+===Philosophy of science===
+Russell claimed that he was more convinced of his method of doing philosophy than of his philosophical conclusions. Science was one of the principal components of analysis. Russell was a believer in the scientific method, that science reaches only tentative answers, that scientific progress is piecemeal, and attempts to find organic unities were largely futile. He believed the same was true of philosophy. Russell held that the ultimate objective of both science and philosophy was to understand reality, not simply to make predictions.
+
+Russell's work contributed to philosophy of science's development into a separate branch of philosophy. Much of Russell's thinking about science is expressed in his 1914 book, Our Knowledge of the External World as a Field for Scientific Method in Philosophy, which influenced the logical positivists.
+
+Russell held that of the physical world we know only its abstract structure except for the intrinsic character of our own brain with which we have direct acquaintance (Russell, 1948). Russell said in a lettera letter to Newman which has been reprinted in Russell's autobiography) that he had always assumed copunctuality between percepts and non-percepts, and percepts were also part of the physical world, a part of which we knew its intrinsic character directly, knowledge which goes beyond structure. His views on science have become integrated into the contemporary debate in the philosophy of science as a form of Structural Realism, people such as Elie Zahar and Ioannis Votsis have discussed the implications of his work for our understanding of science. The seminal article "The Concept of Structure in The Analysis of Matter" by William Demopoulos and Michael Friedman was crucial in reintegrating Russell's views to the contemporary scene.
+
+Russell wrote several science books, including The ABC of Atoms (1923) and The ABC of Relativity (1925).
+
+===Ethics===
+While Russell wrote a great deal on ethical subject matters, he did not believe that the subject belonged to philosophy or that when he wrote on ethics that he did so in his capacity as a philosopher. In his earlier years, Russell was greatly influenced by G.E. Moore's Principia Ethica. Along with Moore, he then believed that moral facts were objective, but known only through intuition; that they were simple properties of objects, not equivalent (e.g., pleasure is good) to the natural objects to which they are often ascribed (see Naturalistic fallacy); and that these simple, undefinable moral properties cannot be analyzed using the non-moral properties with which they are associated. In time, however, he came to agree with his philosophical hero, David Hume, who believed that ethical terms dealt with subjective values that cannot be verified in the same way as matters of fact.
+
+Coupled with Russell's other doctrines, this influenced the logical positivists, who formulated the theory of emotivism or non-cognitivism, which states that ethical propositions (along with those of metaphysics) were essentially meaningless and nonsensical or, at best, little more than expressions of attitudes and preferences. Notwithstanding his influence on them, Russell himself did not construe ethical propositions as narrowly as the positivists, for he believed that ethical considerations are not only meaningful, but that they are a vital subject matter for civil discourse. Indeed, though Russell was often characterised as the patron saint of rationality, he agreed with Hume, who said that reason ought to be subordinate to ethical considerations.
+
+===Religion and theology===
+For most of his adult life Russell maintained that religion is little more than superstition and, despite any positive effects that religion might have, it is largely harmful to people. He believed religion and the religious outlook (he considered communism and other systematic ideologies to be forms of religion) serve to impede knowledge, foster fear and dependency, and are responsible for much of the war, oppression, and misery that have beset the world.
+
+In his 1949 speech, "Am I an Atheist or an Agnostic?", Russell expressed his difficulty over whether to call himself an atheist or an agnostic:
+
+However, in the 1948 BBC Radio Debate between Bertrand Russell and Frederick Copleston, Russell chose to assume the position of the agnostic, though it seems to have been because he admitted to not being able to prove the non-existence of God:
+
+Though he would later question God's existence, he fully accepted the ontological argument during his undergraduate years:
+
+This quote has been used by many theologians over the years, such as by Louis Pojman in his Philosophy of Religion, who wish for readers to believe that even a well-known atheist-philosopher supported this particular argument for God's existence. However, elsewhere in his autobiography, Russell also mentions:
+
+Russell made an influential analysis of the omphalos hypothesis enunciated by Philip Henry Gosse—that any argument suggesting that the world was created as if it were already in motion could just as easily make it a few minutes old as a few thousand years: 
+
+As a young man, Russell had a decidedly religious bent, himself, as is evident in his early Platonism. He longed for eternal truths, as he makes clear in his famous essay, "A Free Man's Worship", widely regarded as a masterpiece of prose, but a work that Russell came to dislike. While he rejected the supernatural, he freely admitted that he yearned for a deeper meaning to life.
+
+Russell's views on religion can be found in his book, Why I Am Not a Christian and Other Essays on Religion and Related Subjects. Its title essay was a talk given on 6 March 1927 at Battersea Town Hall, under the auspices of the South London Branch of the National Secular Society, UK, and published later that year as a pamphlet. The book also contains other essays in which Russell considers a number of logical arguments for the existence of God, including the first cause argument, the natural-law argument, the argument from design, and moral arguments. He also discusses specifics about Christian theology.
+
+His conclusion:
+
+==Influence on philosophy==
+As Nicholas Griffin discusses in the introduction to The Cambridge Companion to Bertrand Russell, Russell had a major influence on modern philosophy, especially in the English-speaking world. While others were also influential, notably Frege, Moore, and Wittgenstein, Russell made analysis the dominant methodology of professional philosophy. The various analytic movements throughout the last century all owe something to Russell's earlier works. Even Ray Monk, no admirer of Russell's personal snobbery, characterized his work on the philosophy of mathematics as intense, august and incontestably great Monk, Ray. The Ghost of Madness. Jonathan Cape. 2000. p. 5. and acknowledged in the preface to the second volume of his biography that he is one of the indisputably great philosophers of the twentieth century.
+
+Russell's influence on individual philosophers is singular, perhaps most notably in the case of Ludwig Wittgenstein, who was his student between 1911 and 1914. 
+
+Wittgenstein had an important influence on Russell as he himself discusses in his My Philosophical Development. He led him, for example, to conclude, much to his regret, that mathematical truths were purely tautological truths, however it is doubtful that Wittgenstein actually held this view, which he discussed in relation to logical truth, since it is not clear that he was a logicist when he wrote the Tractatus. What is certain is that in 1901 Russell's own reflections on the issues raised by the paradox that takes his name Russell's Paradox, led him to doubt the intuitive certainty of mathematics. This doubt was perhaps Russell's most important 'influence' on mathematics, and was spread throughout the European universities, even as Russell himself laboured (with Alfred North Whitehead) in an attempt to solve the Paradox and related paradoxes, such as Burali-Forti. As Stewart Shapiro explains in his Thinking About Mathematics, Russell's attempts to solve the paradoxes led to the ramified theory of types, which, though it is highly complex and relies on the doubtful axiom of reducibility, actually manages to solve both syntactic and semantic paradoxes at the expense of rendering the logicist project suspect and introducing much complexity in the PM system. Philosopher and logician F.P. Ramsey would later simplify the theory of types arguing that there was no need to solve both semantic and syntactic paradoxes in order to provide a foundation for mathematics. The philosopher and logician George Boolos discusses the power of the PM system in the preface to his Logic, logic & logic, stating that it is powerful enough to derive most classical mathematics, equating the power of PM to that of Z, a weaker form of set theory than ZFC (Zermelo-Fraenkel Set theory with Choice). In fact, ZFC actually does circumvent Russell's paradox by restricting the comprehension axiom to already existing sets by the use of subset axioms. Enderton, Herbert. Elements of Set Theory. Academic Press. 1977. 
+
+Russell wrote (in Portraits from Memory, 1956) of his reaction to Gödel's 'Theorems of Undecidability':
+
+Evidence of Russell's influence on Wittgenstein can be seen throughout the Tractatus, which Russell was instrumental in having published. Russell also helped to secure Wittgenstein's doctorate The Autobio. of B. Russell, pgs. 435–440. and a faculty position at Cambridge, along with several fellowships along the way. The Autobio. of B. Russell, pgs. 351–353. 
+However, as previously stated, he came to disagree with Wittgenstein's later linguistic and analytic approach to philosophy dismissing it as "trivial", while Wittgenstein came to think of Russell as "superficial and glib", particularly in his popular writings. However, Norman Malcolm tells us in his recollections of Wittgenstein that Wittgenstein showed a deference towards Russell such as he never saw him show towards any one, and even went so far as to reprimand students of his who criticized Russell. As Ray Monk relates in his biography of Wittgenstein, Wittgenstein used to say that Russell's books should be bound in two covers, those dealing with mathematical philosophy in blue, and every student of philosophy should read them, while those dealing with popular subjects should be bound in red and no one should be allowed to read them.
+
+Russell's influence is also evident in the work of Alfred J. Ayer, Rudolf Carnap, Alonzo Church, Kurt Gödel, David Kaplan, Saul Kripke, Karl Popper, W. V. Quine, John R. Searle, and a number of other philosophers and logicians.
+
+Some see Russell's influence as mostly negative, primarily those who have criticized Russell's emphasis on science and logic. Russell often characterized his moral and political writings as lying outside the scope of philosophy, but Russell's admirers and detractors are often more acquainted with his pronouncements on social and political matters, or what some (e.g., biographer Ray Monk) have called his "journalism," than they are with his technical, philosophical work. There is a marked tendency to conflate these matters, and to judge Russell the philosopher on what he himself would definitely consider to be his non-philosophical opinions. Russell often cautioned people to make this distinction. Beginning in the 1920s, Russell wrote frequently for The Nation on changing morals, disarmament and literature. In 1965, he wrote that the magazine "...has been one of the few voices which has been heard on behalf of individual liberty and social justice consistently throughout its existence." Katrina Vanden Heuvel The Nation 1865–1990, p. 136, Thunder's Mouth Press, 1990 ISBN 1-56025-001-1 
+
+Russell left a large assortment of writing. From his adolescent years, he wrote about 3,000 words a day, with relatively few corrections; his first draft nearly always was his last, even on the most complex, technical matters. His previously unpublished work is an immense treasure trove, and scholars continue to gain new insights into Russell's thought.
+
+==Further reading==
+
+===Selected bibliography of Russell's books===
+This is a selected bibliography of Russell's books in English sorted by year of first publication.
+* 1896, German Social Democracy, London: Longmans, Green.
+* 1897, An Essay on the Foundations of Geometry, Cambridge: At the University Press.
+* 1900, A Critical Exposition of the Philosophy of Leibniz, Cambridge: At the University Press.
+* 1903, The Principles of Mathematics The Principles of Mathematics, Cambridge: At the University Press.
+* 1905 On Denoting, Mind vol. 14, NS, , Basil Blackwell
+* 1910, Philosophical Essays, London: Longmans, Green.
+* 1910–1913, Principia Mathematica (with Alfred North Whitehead), 3 vols., Cambridge: At the University Press.
+* 1912, The Problems of Philosophy, London: Williams and Norgate.
+* 1914, Our Knowledge of the External World as a Field for Scientific Method in Philosophy, Chicago and London: Open Court Publishing.
+* 1916, Principles of Social Reconstruction, London: George Allen & Unwin.
+* 1916, Justice in War-time, Chicago: Open Court.
+* 1917, Political Ideals, New York: The Century Co.
+* 1918, Mysticism and Logic and Other Essays, London: Longmans, Green.
+* 1918, Proposed Roads to Freedom: Socialism, Anarchism, and Syndicalism, London: George Allen & Unwin.
+* 1919, Introduction to Mathematical Philosophy, London: George Allen & Unwin, (ISBN 0-415-09604-9 for Routledge paperback) (Copy at Archive.org).
+* 1920, The Practice and Theory of Bolshevism, London: George Allen & Unwin
+* 1921, The Analysis of Mind, London: George Allen & Unwin.
+* 1922, The Problem of China, London: George Allen & Unwin.
+* 1923, The Prospects of Industrial Civilization (in collaboration with Dora Russell), London: George Allen & Unwin.
+* 1923, The ABC of Atoms, London: Kegan Paul, Trench, Trubner.
+* 1924, Icarus, or the Future of Science, London: Kegan Paul, Trench, Trubner.
+* 1925, The ABC of Relativity, London: Kegan Paul, Trench, Trubner.
+* 1925, What I Believe, London: Kegan Paul, Trench, Trubner.
+* 1926, On Education, Especially in Early Childhood, London: George Allen & Unwin.
+* 1927, The Analysis of Matter, London: Kegan Paul, Trench, Trubner.
+* 1927, An Outline of Philosophy, London: George Allen & Unwin.
+* 1927, Why I Am Not a Christian, London: Watts.
+* 1927, Selected Papers of Bertrand Russell, New York: Modern Library.
+* 1928, Sceptical Essays, London: George Allen & Unwin.
+* 1929, Marriage and Morals, London: George Allen & Unwin.
+* 1930, The Conquest of Happiness, London: George Allen & Unwin.
+* 1931, The Scientific Outlook, London: George Allen & Unwin.
+* 1932, Education and the Social Order, London: George Allen & Unwin.
+* 1934, Freedom and Organization, 1814–1914, London: George Allen & Unwin.
+* 1935, In Praise of Idleness, London: George Allen & Unwin.
+* 1935, Religion and Science, London: Thornton Butterworth.
+* 1936, Which Way to Peace?, London: Jonathan Cape.
+* 1937, The Amberley Papers: The Letters and Diaries of Lord and Lady Amberley (with Patricia Russell), 2 vols., London: Leonard & Virginia Woolf at the Hogarth Press.
+* 1938, , London: George Allen & Unwin.
+* 1940, An Inquiry into Meaning and Truth, New York: W. W. Norton & Company.
+* 1946, A History of Western Philosophy and Its Connection with Political and Social Circumstances from the Earliest Times to the Present Day, New York: Simon and Schuster.
+* 1948, Human Knowledge: Its Scope and Limits, London: George Allen & Unwin.
+* 1949, Authority and the Individual, London: George Allen & Unwin.
+* 1950, Unpopular Essays, London: George Allen & Unwin.
+* 1951, New Hopes for a Changing World, London: George Allen & Unwin.
+* 1952, The Impact of Science on Society, London: George Allen & Unwin.
+* 1953, Satan in the Suburbs and Other Stories, London: George Allen & Unwin.
+* 1954, Human Society in Ethics and Politics, London: George Allen & Unwin.
+* 1954, Nightmares of Eminent Persons and Other Stories, London: George Allen & Unwin.
+* 1956, Portraits from Memory and Other Essays, London: George Allen & Unwin.
+* 1956, Logic and Knowledge: Essays 1901–1950 (edited by Robert C. Marsh), London: George Allen & Unwin.
+* 1957, Why I Am Not A Christian and Other Essays on Religion and Related Subjects (edited by Paul Edwards), London: George Allen & Unwin.
+* 1958, Understanding History and Other Essays, New York: Philosophical Library.
+* 1959, Common Sense and Nuclear Warfare, London: George Allen & Unwin.
+* 1959, My Philosophical Development, London: George Allen & Unwin.
+* 1959, Wisdom of the West ("editor", Paul Foulkes), London: Macdonald.
+* 1960, Bertrand Russell Speaks His Mind, Cleveland and New York: World Publishing Company.
+* 1961, The Basic Writings of Bertrand Russell (edited by R.E. Egner and L.E. Denonn), London: George Allen & Unwin.
+* 1961, Fact and Fiction, London: George Allen & Unwin.
+* 1961, Has Man a Future?, London: George Allen & Unwin.
+* 1963, Essays in Skepticism, New York: Philosophical Library.
+* 1963, Unarmed Victory, London: George Allen & Unwin.
+* 1965, On the Philosophy of Science (edited by Charles A. Fritz, Jr.), Indianapolis: The Bobbs-Merrill Company.
+* 1967, Russell's Peace Appeals (edited by Tsutomu Makino and Kazuteru Hitaka), Japan: Eichosha's New Current Books.
+* 1967, War Crimes in Vietnam, London: George Allen & Unwin.
+* 1967–1969, The Autobiography of Bertrand Russell, 3 vols., London: George Allen & Unwin.
+* 1969, Dear Bertrand Russell... A Selection of his Correspondence with the General Public 1950–1968 (edited by Barry Feinberg and Ronald Kasrils), London: George Allen and Unwin.
+
+Note: This is a mere sampling, for Russell also wrote many pamphlets, introductions, articles and letters to the editor. His works also can be found in any number of anthologies and collections, perhaps most notably The Collected Papers of Bertrand Russell, which McMaster University began publishing in 1983. This collection of his shorter and previously unpublished works is now up to 16 volumes, and many more are forthcoming. An additional three volumes catalogue just his bibliography. The Russell Archives at McMaster University also have more than 30,000 letters that he wrote.
+
+===Additional references===
+
+====Russell====
+* 1900, Sur la logique des relations avec des applications à la théorie des séries, Rivista di matematica 7: 115–148.
+* 1901, On the Notion of Order, Mind (n.s.) 10: 35–51.
+* 1902, (with Alfred North Whitehead), On Cardinal Numbers, American Journal of Mathematics 23: 367–384.
+
+====Secondary references====
+* 
+* Ivor Grattan-Guinness, 2000. The Search for Mathematical Roots 1870–1940. Princeton University Press.
+
+===Books about Russell's philosophy===
+* Bertrand Russell: Critical Assessments, edited by A. D. Irvine, 4 volumes, London: Routledge, 1999. Consists of essays on Russell's work by many distinguished philosophers.
+* Bertrand Russell, by John Slater, Bristol: Thoemmes Press, 1994.
+* Bertrand Russell's Ethics. by Michael K. Potter, Bristol: Thoemmes Continuum, 2006. A clear and accessible explanation of Russell's moral philosophy.
+* The Philosophy of Bertrand Russell, edited by P.A. Schilpp, Evanston and Chicago: Northwestern University, 1944.
+* Russell, by A. J. Ayer, London: Fontana, 1972. ISBN 0-00-632965-9. A lucid summary exposition of Russell's thought.
+* The Lost Cause: Causation and the Mind-Body Problem, by Celia Green. Oxford: Oxford Forum, 2003. ISBN 0-9536772-1-4 Contains a sympathetic analysis of Russell's views on causality.
+* The Ethical Philosophy of Bertrand Russell by Dr. Ramendra, New York: Vantage Press,1993. ISBN 0-533-09424-0
+* Russell's Idealist Apprenticeship, by Nicholas Griffin. Oxford: Oxford University Press, 1991.
+
+===Biographical books===
+* Bertrand Russell: Philosopher and Humanist, by John Lewis (1968)
+* Bertrand Russell and His World, by Ronald W. Clark (1981) ISBN 0-500-13070-1
+
+==Notes==
+
+==References==
+* Bertrand Russell. 1967–1969, The Autobiography of Bertrand Russell, 3 volumes, London: George Allen & Unwin.
+* Wallechinsky, David & Irving Wallace. 1975–1981, "Famous Marriages Bertrand Russell & Alla Pearsall Smith, Part 1" & "Part 3", on "Alys" Pearsall Smith, webpage content from The People's Almanac, webpages: Part 1 & Part 3 (accessed 2008-11-08).
+
+==External links==
+
+Writings available online
+* 
+* "Mysticism" (1961)
+* "A Free Man's Worship" (1903)
+* "Am I an Atheist or an Agnostic?" (1947)
+* "Has Religion Made Useful Contributions to Civilization?" 1930
+* "Ideas that Have Harmed Mankind" (1950)
+* "In Praise of Idleness" (1932)
+* "What Desires Are Politically Important?" (1950)
+* Political Ideals (1917)
+* The Problems of Philosophy
+* Proposed Roads to Freedom (1918)
+* "16 Questions on the Assassination" (of President Kennedy)
+* The Analysis Of Mind
+* What is an Agnostic?
+* Why I am not a Christian
+* The Ethics of War (1915)
+* Principia Mathematica (1910)
+* "The Elements of Ethics" (1910)
+* The Principles of Mathematics (1903)
+* An essay on the foundations of geometry
+* From: www.archive.org
+** History of Western Philosophy (1946)
+** My Philosophical Development (1959)
+** Portraits from Memory and Other Essays (1956)
+** Unpopular Essays (1950)
+** Introduction to Mathematical Philosophy (1920)
+** The Scientific Outlook (1954)
+** An Outline of Philosophy (1951)
+** Our Knowledge of the External World (1914)
+** Legitimacy Versus Industrialism 1814–1848 (1935)
+** Authority and the Individual (1949)
+** Education and the Social Order (1932)
+** Nightmares of Eminent Persons and Other Stories (1954)
+** Why Men Fight: A Method of Abolishing the International Duel (1917)
+** Justice in Wartime (1917)
+** Mysticism and Logic and Other Essays (1917)
+
+Audio
+* Bertrand Russell Audio Archive
+* In Praise of Idleness free mp3 recitation of Russell's essay of the same name, from the Audio Anarchy project
+
+Other
+* Pembroke Lodge — childhood home and museum
+* The Bertrand Russell Society — a member organisation of the International Humanist and Ethical Union
+* The Bertrand Russell Society Quarterly
+* The Bertrand Russell Peace Foundation
+* Bertrand Russell in Japan
+* 
+* Biography and quotes of Bertrand Russell
+* Russell Photo Gallery
+* Photographs at the National Portrait Gallery
+* 
+* The Bertrand Russell Archives
+* Resource list
+* The First Reith Lecture given by Russell (Real Audio)
+* Encyclopaedia Britannica
+* Nobel Prize
+* Lecture about 1905, the philosophical landscale of Einstein in which Russell was central
+
+Philosophy
+

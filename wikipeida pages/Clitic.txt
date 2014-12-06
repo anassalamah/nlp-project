@@ -1,0 +1,161 @@
+[[Clitic]]
+
+In morphology and syntax, a clitic (from Greek κλιτικός klitikos, "inflexional") is a morpheme that has syntactic characteristics of a word, but depends phonologically on another word or phrase. SIL International (2003). SIL Glossary of Linguistic Terms: What is a clitic? "This page is an extract from the LinguaLinks Library, Version 5.0 published on CD-ROM by SIL International, 2003." Retrieved from http://www.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsACliticGrammar.htm. The term is derived from the Greek for "leaning". Crystal, David. A First Dictionary of Linguistics and Phonetics. Boulder, CO: Westview, 1980. Print. It is pronounced like an affix, but plays a syntactic role at the phrase level. In other words, clitics have the form of affixes, but the distribution of function words. For example, the English possessive ’s is a clitic in the phrase the king of England's horse: It looks like a suffix, but its position at the end of "the king of England" rather than on "king" is like that of a separate word.
+
+Clitics can belong to any grammatical category, although they are commonly pronouns, determiners, or adpositions. Note that orthography is not always a good guide for distinguishing clitics from affixes: clitics may be written as separate words, but sometimes they are joined to the word on which they depend (like the Latin clitic que, meaning "and"), or separated by special characters such as hyphens or apostrophes (like the English clitic ’s). The word "clitic" is often used loosely for what may be better described as an affix or word.
+
+==Classification==
+Clitics fall into various categories depending on their position in relation to the word to which they are connected. 
+
+=== Proclitic ===
+
+A proclitic appears before its host. 
+
+=== Enclitic ===
+
+An enclitic appears after its host. 
+*Latin: Senatus Populusque Romanus
+::"Senate people-and Roman" = "The Senate and Roman people"
+*Ancient Greek: ánthrōpoí (te) theoí te
+:::"people (and) gods and" = "(both) men and gods"
+
+=== Mesoclitic ===
+
+A mesoclitic appears between the stem of the host and other affixes.
+
+=== Endoclitic ===
+
+The endoclitic splits apart the root and is inserted between the two pieces. Endoclitics defy the Lexical Integrity Hypothesis (Lexicalist Hypothesis) and so were long claimed to be impossible, but evidence from the Udi language suggests that they do exist. 
+ Endoclitics are also found in Pashto Craig A. Kopris & Anthony R. Davis (AppTek, Inc. / StreamSage, Inc.) Endoclitics in Pashto: Implications for Lexical Integrity (abstract pdf) and are reported to exist in Degema. 
+ 
+
+==Distinction==
+One important distinction divides the broad term 'clitics' into two categories, simple clitics and special clitics. Miller, Philip H. "Clitics and Phrasal Affixes." Clitics and Constituents in Phrase Structure Grammar. New York: Garland, 1992. N. pag. Print. 
+
+=== Simple clitics ===
+
+Simple clitics are free morphemes, meaning they can stand alone in a phrase or sentence. They are unaccented and thus phonologically dependent upon a nearby word. They only derive meaning from this “host." 
+
+=== Special clitics ===
+
+Special clitics are morphemes that are bound to the word they are dependent upon, meaning they exist as a part of their host. This form, which is unaccented, represents a variant of a free form that does carry stress. While the two variants carry similar meaning and phonological makeup, the special clitic is bound to a host word and unaccented. 
+
+==Properties==
+Some clitics can be understood as elements undergoing a historical process of grammaticalization: 
+ 
+:lexical item → clitic → affix Klavans, Judith L. On Clitics and Cliticization: The Interaction of Morphology, Phonology, and Syntax. New York: Garland Pub., 1995. Print. 
+According to this model from Judith Klavans, an autonomous lexical item in a particular context loses the properties of a fully independent word over time and acquires the properties of a morphological affix (prefix, suffix, infix, etc.). At any intermediate stage of this evolutionary process, the element in question can be described as a "clitic". As a result, this term ends up being applied to a highly heterogeneous class of elements, presenting different combinations of word-like and affix-like properties. 
+===Prosody===
+One characteristic shared by many clitics is a lack of prosodic independence. A clitic attaches to an adjacent word, known as its host. Orthographic conventions treat clitics in different ways: Some are written as separate words, some are written as one word with their hosts, and some are attached to their hosts, but set off by punctuation (a hyphen or an apostrophe, for example).
+
+===Comparison with affixes===
+Although the term "clitic" can be used descriptively to refer to any element whose grammatical status is somewhere in between a typical word and a typical affix, linguists have proposed various definitions of "clitic" as a technical term. One common approach is to treat clitics as words that are prosodically deficient: they cannot appear without a host, and they can only form an accentual unit in combination with their host. The term "postlexical clitic" is used for this narrower sense of the term.
+
+Given this basic definition, further criteria are needed to establish a dividing line between postlexical clitics and morphological affixes, since both are characterized by a lack of prosodic autonomy. There is no natural, clear-cut boundary between the two categories (since from a historical point of view, a given form can move gradually from one to the other by morphologization). However, by identifying clusters of observable properties that are associated with core examples of clitics on the one hand, and core examples of affixes on the other, one can pick out a battery of tests that provide an empirical foundation for a clitic/affix distinction.
+
+An affix syntactically and phonologically attaches to a base morpheme of a limited part of speech, such as a verb, to form a new word. A clitic syntactically functions above the word level, on the phrase or clause level, and attaches only phonetically to the first, last, or only word in the phrase or clause, whichever part of speech the word belongs to. 
+ 
+The results of applying these criteria sometimes reveal that elements that have traditionally been called "clitics" actually have the status of affixes (e.g., the Romance pronominal clitics discussed below). 
+
+Zwicky and Pullum postulated five characteristics that distinguish clitics from affixes: 
+# Clitics do not select their hosts. That is, they are "promiscuous", attaching to whichever word happens to be in the right place. Affixes do select their host: They only attach to the word they are connected to semantically, and generally attach to a particular part of speech. 
+# Clitics do not exhibit arbitrary gaps. Affixes, on the other hand, are often lexicalized and may simply not occur with certain words. (English plural -s, for example, does not occur with "child".)
+# Clitics do not exhibit morphophonological idiosyncrasies. That is, they follow the morphophonological rules of the rest of the language. Affixes may be irregular in this regard. 
+# Clitics do not exhibit semantic idiosyncrasies. That is, the meaning of the phrase-plus-clitic is predictable from the meanings of the phrase and the clitic. Affixes may have irregular meanings. 
+# Clitics can attach to material already containing clitics (and affixes). Affixes can attach to other affixes, but not to material containing clitics.
+
+===Comparison with words===
+Similar to the discussion above, clitics must be able to be distinguished from words. There have been a number of linguistic tests proposed to differentiate between the two categories. Some tests, specifically, are based upon the understanding that when comparing the two, clitics resemble affixes, while words resemble syntactic phrases. Clitics and words resemble different categories in the sense that they share certain properties with them. Six such tests are described below. These, of course, are not the only ways to differentiate between words and clitics. Zwicky, Arnold M. "Clitics and Particles." Language 61.2 (1985): 283-305. Print. 
+
+If a morpheme is bound to a word and can never occur in complete isolation, then it is likely a clitic. In contrast, a word is not bound and can appear on its own.
+
+If the addition of a morpheme to a word prevents further affixation, then it is likely a clitic.
+
+If a morpheme combines with single words to convey a further degree of meaning, then it is likely a clitic. A word will combine with a group of words or phrases to denote further meaning.
+
+If a morpheme is required to be in a certain order with respect to other morphemes within the construction, then it is likely a clitic. Independent words enjoy free ordering with respect to other words, within the confines of the word order of the language.
+
+If a morpheme’s allowable behavior is determined by one principle, it is likely an clitic. For example, "a" proceeds indefinite nouns in English. Words can rarely be described with one such description.
+
+In general, words are more morphologically complex than clitics. Clitics are rarely composed of more than one morpheme. 
+
+===Word order===
+Clitics do not always appear next to the word or phrase that they are associated with grammatically. They may be subject to global word order constraints that act on the entire sentence. Many Indo-European languages, for example, obey "Wackernagel's Law", which requires clitics to appear in "second position", after the first syntactic phrase or the first stressed word in a clause: 
+*Latin had three enclitics that appeared in second or third position of a clause: enim 'indeed, for', autem 'but, moreover', vero 'however'. For example, quis enim potest negare? (from Martial's epigram LXIV, literally "who indeed can to-deny riches?"). Spevak (2010) reports that in her corpus of Caesar, Cicero and Sallust, these three words appear in such position in 100% of the cases. Spevak, Olga (2010). The Constituent Order of Classical Latin Prose. In series: Studies in language Amsterdam / Companion series (vol. 117). ISBN 9027205841. Page 14. 
+
+==Indo-European languages==
+
+===Germanic languages===
+
+==== English ====
+
+English enclitics include the possessive marker, which attaches to the entire noun phrase, not to the noun that is the possessor:
+
+: ’s in The Queen of England's crown
+
+The negative marker n’t as in couldn’t etc. is often thought to be a clitic developed from the lexical item not. Linguists Arnold Zwicky and Geoffrey Pullum argue, however, that the form has the properties of an affix rather than a syntactically independent clitic. 
+
+====Other Germanic languages====
+
+*Old Norse: The definite article was the enclitic -inn, -in, -itt (masculine, feminine and neuter nominative singular), as in álfrinn "the elf", gjǫfin "the gift", and tréit "the tree", an abbreviated form of the independent pronoun hinn, cognate of the German pronoun jener. It was fully declined for gender, case and number. Since both the noun and enclitic were declined, this led to "double declension". The situation remains similar in modern Faroese and Icelandic, but in Danish, Norwegian and Swedish, the enclitics have become endings.
+*Dutch: &#39;t definite article of neuter nouns and third person singular neuter pronoun, &#39;k first person pronoun, je second person singular pronoun, ie third person masculine singular pronoun, ze third person plural pronoun
+* Plautdietsch: "Deit'a't vondoag?": "Will he do it today?"
+*Gothic: Sentence clitics appear in second position in accordance with Wackernagel's Law, including -u (yes-no question), -uh "and", þan "then", ƕa "anything", for example ab-u þus silbin "of thyself?". Multiple clitics can be stacked up, and will split a preverb from the rest of the verb if the preverb comes at the beginning of the clause, e.g. diz-uh-þan-sat ijōs "and then he seized them (fem.)", ga-u-ƕa-sēƕi "whether he saw anything".
+
+===Romance languages===
+In the Romance languages, the object personal pronoun forms are sometimes claimed to be clitics; others claim that they are actually affixes, as they only attach to the verb they are the object of. Andrew Spencer and Ana Luís, "The canonical clitic". In Brown, Chumakina, & Corbett, eds. Canonical Morphology and Syntax. Oxford University Press, pp. 123–150. There is no general agreement on the issue. http://www.diplist.it/mmm8/handout/Gaglia_Schwarze.pdf In Spanish, for example:
+
+*lo atamos ("it tied-1PL" = "we tied it"; can only occur with the verb it is the object of)
+*dámelo ("give me it")
+
+Colloquial European Portuguese allows object suffixes before the conditional and future suffixes of the verbs: 
+
+ 
+
+*Ela levá-lo-ia ("She take-it-would" – "She would take it").
+*Eles dar-no-lo-ão ("They give-us-it-will" – "They will give it to us").
+
+Colloquial Portuguese of Brazil and Portugal and Spanish of the former Gran Colombia allow ser to be conjugated as a verbal clitic adverbial adjunct to emphasize the importance of the phrase compared to its context or with the meaning of "really" or "in truth": 
+
+ 
+
+*Ele estava era gordo ("He was was fat" – "He was very fat").
+*Ele ligou é para Paula ("He phoned is Paula" – "He phoned Paula (with emphasis)").
+
+Note that this clitic form is only for the verb ser and is restricted to only third-person singular conjugations. It is not used as a verb in the grammar of the sentence but introduces prepositional phrases and adds emphasis. It does not need to concord with the tense of the main verb, as in the second example, and can be usually removed from the sentence without affecting the simple meaning.
+
+===Proto-Indo-European===
+In the Indo-European languages, some clitics can be traced back to Proto-Indo-European: for example, * is the original form of Sanskrit च (-ca), Greek τε (-te), and Latin -que.
+*Latin: -que "and", -ve "or", -ne (yes-no question)
+*Greek: τε "and", δέ "but", γάρ "for" (in a logical argument), οὖν "therefore"
+
+===Slavic languages===
+
+*Russian: ли (yes-no question), же (emphasis), то (emphasis), не "not" (proclitic), бы (subjunctive)
+* Czech: special clitics: weak personal and reflexive pronouns (mu, "him"), certain auxiliary verbs (by, "would"), and various short particles and adverbs (tu, "here"; ale, "though"). "Nepodařilo by se mi mu to dát" "I would not succeed in giving it to him". In addition there are various simple clitics including short prepositions.
+* Polish: -by (conditional mood particle), się (reflexive, also modifies meaning of certain verbs), no (emphasis), -m, -ś, -śmy, -ście (personal auxiliary), mi, ci, cię, go, mu &c. (unstressed personal pronouns in oblique cases)
+
+==Other languages==
+*Hungarian: the marker of indirect questions is -e: Nem tudja még, jön-e. "He doesn't know yet if he'll come." This clitic can also mark direct questions with a falling intonation. Is ("as well") and se ("not... either") also function as clitics: although written separately, they are pronounced together with the preceding word, without stress: Ő is jön. "He'll come too." Ő sem jön. "He won't come, either."
+*Japanese: all particles, such as the genitive postposition の (no) and the topic marker は (wa).
+*Korean: The copula 이다 (ida) and the adjectival 하다 (hada), as well as some nominal and verbal particles (e.g. 는, neun). 
+
+ However, alternative analysis suggests that the nominal particles do not function as clitics, but as phrasal affixes. 
+*Arabic: Suffixes standing for direct object pronouns and/or indirect object pronouns (as found in Indo-European languages) are suffixed to verbs, possessive determiners are suffixed to nouns, and pronouns are suffixed to particles.
+*Ganda: -nga attached to a verb to form the progressive; -wo 'in' (also attached to a verb)
+*Somali: pronominal clitics, either subject or object clitics, are required in Somali. These exist as simple clitics postponed to the noun they apply to. Lexical arguments can be omitted from sentences, but pronominal clitics cannot be.[ Mereu, Lunella. "Agreement, Pronominalization, and Word Order in Pragmatically-Oriented Languages." Boundaries of Morphology and Syntax. Amsterdam: J. Benjamins, 1999. N. pag. Print. 
+
+==See also==
+*Clitic climbing
+*Clitic doubling
+*Genitive case
+*Grammatical particle
+*Possessive case
+*Separable affix
+*Tmesis
+*Weak and strong forms in English
+*Weak pronoun
+
+==References==
+
+

@@ -1,0 +1,117 @@
+[[Duodenum]]
+
+The duodenum is the first section of the small intestine in most higher vertebrates, including mammals, reptiles, and birds. In fish, the divisions of the small intestine are not as clear, and the terms anterior intestine or proximal intestine may be used instead of duodenum. 
+
+ In mammals the duodenum may be the principal site for iron absorption. 
+
+The duodenum precedes the jejunum and ileum and is the shortest part of the small intestine, where most chemical digestion takes place. 
+
+In humans, the duodenum is a hollow jointed tube about 25–38 cm (10–15 inches) long connecting the stomach to the jejunum. It begins with the duodenal bulb and ends at the ligament of Treitz. 
+
+==Structure==
+The duodenum is a 25–38 cm C-shaped structure lying adjacent to the stomach. It is divided anatomically into four sections. Except for the first part of the duodenum, the structure is retroperitoneal. 
+
+===First part===
+The first part, or superior part, of the duodenum is a continuation from the pylorus. It is superior to the rest of the segments, at the vertebral level of L1. The first part of the duodenum is mobile, and connected to the liver by the hepatoduodenal ligament of the lesser omentum. The first part of the duodenum ends at the corner, the superior duodenal flexure. 
+
+Relations:
+* Anterior
+** Gallbladder
+** Quadrate lobe of liver
+* Posterior
+** Bile duct
+** Gastroduodenal artery
+** Portal vein
+** Inferior vena cava
+** Head of pancreas
+* Superior
+** Neck of gallbladder
+** Hepatoduodenal ligament (lesser omentum)
+* Inferior
+** Neck of pancreas
+** Greater omentum
+** Head of pancreas
+
+===Second part===
+The second part, or descending part, of the duodenum begins at the superior duodenal flexure. It passes inferior to the lower border of vertebral body L3, before making a sharp turn medially into the inferior duodenal flexure, the end of the descending part. 
+
+The pancreatic duct and common bile duct enter the descending duodenum, through the major duodenal papilla. The second part of the duodenum also contains the minor duodenal papilla, the entrance for the accessory pancreatic duct. The junction between the embryological foregut and midgut lies just below the major duodenal papilla. 
+
+===Third part===
+The third part, or horizontal part or inferior part of the duodenum begins at the inferior duodenal flexure and passes transversely to the left, passing in front of the inferior vena cava, abdominal aorta and the vertebral column. The superior mesenteric artery and vein are anterior to the third part of duodenum. 
+
+===Fourth part===
+The fourth part, or ascending part, of the duodenum passes upward, joining with the jejunum at the duodenojejunal flexure. The fourth part of the duodenum is at the vertebral level L2, and may pass directly on top of, or slightly left to, the aorta. 
+
+===Blood supply===
+The duodenum receives arterial blood from two different sources. The transition between these sources is important as it demarcates the foregut from the midgut. Proximal to the 2nd part of the duodenum (approximately at the major duodenal papilla – where the bile duct enters) the arterial supply is from the gastroduodenal artery and its branch the superior pancreaticoduodenal artery. Distal to this point (the midgut) the arterial supply is from the superior mesenteric artery (SMA), and its branch the inferior pancreaticoduodenal artery supplies the 3rd and 4th sections.
+The superior and inferior pancreaticoduodenal arteries (from the gastroduodenal artery and SMA respectively) form an anastomotic loop between the celiac trunk and the SMA; so there is potential for collateral circulation here.
+
+The venous drainage of the duodenum follows the arteries. Ultimately these veins drain into the portal system, either directly or indirectly through the splenic or superior mesenteric vein.
+
+===Lymphatic drainage===
+
+The lymphatic vessels follow the arteries in a retrograde fashion. The anterior lymphatic vessels drain into the pancreatoduodenal lymph nodes located along the superior and inferior pancreatoduodenal arteries and then into the pyloric lymph nodes (along the gastroduodenal artery).
+The posterior lymphatic vessels pass posterior to the head of the pancreas and drain into the superior mesenteric lymph nodes. Efferent lymphatic vessels from the duodenal lymph nodes ultimately pass into the celiac lymph nodes.
+
+===Histology===
+Under microscopy, the duodenum has a villous mucosa. This is distinct from the mucosa of the pylorus, which directly joins to the duodenum. Like other structures of the gastrointestinal tract, the duodenum has a mucosa, submucosa, muscularis externa, and adventitia. Glands line the duodenum, known as Brunner's glands, which secrete mucus and bicarbonate in order to neutralise stomach acids. These are distinct glands not found in the ileum or jejunum, the other parts of the small intestine. 
+
+ File:Dogduodenum100x3.jpg|Dog Duodenum 100X
+ Image:Small bowel duodenum with amyloid deposition congo red 10X.jpg|Duodenum with amyloid deposition in lamina propria
+ Image:Gray1058.png|Section of duodenum of cat. X 60
+ Image:Giardiasis duodenum low.jpg |Micrograph showing giardiasis on a duodenal biopsy (H&E stain)
+ Image:Microvilli-Duodenum.JPG|Duodenum with brush border (microvillus)
+
+===Variation===
+
+==Function==
+The duodenum is largely responsible for the breakdown of food in the small intestine, using enzymes. The villi of the duodenum have a leafy-looking appearance, which is a histologically identifiable structure. Brunner's glands, which secrete mucus, are found in the duodenum only. The duodenum wall is composed of a very thin layer of cells that form the muscularis mucosae. The duodenum is almost entirely retroperitoneal. It has three parts and each part has its own significance.
+
+The duodenum also regulates the rate of emptying of the stomach via hormonal pathways. Secretin and cholecystokinin are released from cells in the duodenal epithelium in response to acidic and fatty stimuli present there when the pylorus opens and releases gastric chyme into the duodenum for further digestion. These cause the liver and gall bladder to release bile, and the pancreas to release bicarbonate and digestive enzymes such as trypsin, lipase and amylase into the duodenum as they are needed.
+
+ Diagram of the human duodenum with major anatomical locations labelled.
+
+==Clinical significance==
+
+===Ulceration===
+
+Ulcers of the duodenum commonly occur because of infection by the bacteria Helicobacter pylori. This bacteria, through a number of mechanisms, erodes the protective mucosa of the duodenum, predisposing it to damage from gastric acids. Duodenal ulcers may cause recurrent abdominal pain and dyspepsia, and are often investigated using a urea breath test to test for the bacteria, and endoscopy to confirm ulceration and take a biopsy. If managed, these are often managed through antibiotics that aim to eradicate the bacteria, and PPIs and antacids to reduce the gastric acidity. 
+
+===Other===
+Other causes of disease include:
+* Inflammation of the duodenum, known as duodenitis.
+* Cancer of the duodenum, known as duodenal cancer.
+
+==Origin of the name==
+The name duodenum is from Middle English, from Medieval Latin, short for intestīnum duodēnum digitōrum, which may be translated: intestine of twelve finger-widths (in length), from Latin duodēnum, genitive pl. of duodēnī, twelve each, from duodecim, twelve. American Heritage Dictionary, 4th edition 
+
+==Additional images==
+
+ File:Blausen 0817 SmallIntestine Anatomy.png|Sections of the small intestine
+ Image:Gray533.png|The celiac artery and its branches; the stomach has been raised and the peritoneum removed
+ Image:Gray1041.png |Superior and inferior duodenal fossæ
+ Image:Gray1042.png|Duodenojejunal fossa
+ Image:Gray1099.png|The pancreas and duodenum from behind
+ Image:Gray1097.png|Transverse section through the middle of the first lumbar vertebra, showing the relations of the pancreas
+ Image:Gray1100.png|The pancreatic duct
+ Image:Illu pancrease.jpg|Region of pancreas
+ File:Slide3ii.JPG|Duodenum
+File:Slide2ffff.JPG|Duodenum
+File:Slide7ffff.JPG|Duodenum
+
+==See also==
+
+* Digestion
+* Human gastrointestinal tract 
+* Pancreas
+* Pylorus
+* Jejunum
+
+==References==
+
+==External links==
+
+* 
+
+

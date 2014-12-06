@@ -1,0 +1,63 @@
+[[Electron capture]]
+
+Electron capture
+
+Electron capture is a process in which a proton-rich nuclide absorbs an inner atomic electron, thereby changing a nuclear proton to a neutron and simultaneously causing the emission of an electron neutrino. Various photon emissions follow, as the energy of the atom falls to the ground state of the new nuclide.
+
+Electron capture is the primary decay mode for isotopes with a relative superabundance of protons in the nucleus, but with insufficient energy difference between the isotope and its prospective daughter (the isobar with one less positive charge) for the nuclide to decay by emitting a positron. Electron capture is an alternate decay mode for radioactive isotopes with sufficient energy to decay by positron emission. It is sometimes called inverse beta decay, though this term can also refer to the interaction of an electron antineutrino with a proton. 
+ 
+
+If the energy difference between the parent atom and the daughter atom is less than 1.022 MeV, positron emission is forbidden as not enough decay energy is available to allow it, and thus electron capture is the sole decay mode. For example, rubidium-83 (37 protons, 46 neutrons) will decay to krypton-83 (36 protons, 47 neutrons) solely by electron capture (the energy difference, or decay energy, is about 0.9 MeV).
+
+A free proton cannot normally be changed to a free neutron by this process; the proton and neutron must be part of a larger nucleus. In the process of electron capture, one of the orbital electrons, usually from the K or L electron shell (K-electron capture, also K-capture, or L-electron capture, L-capture), is captured by a proton in the nucleus, forming a neutron and emitting an electron neutrino.
+:
+
+ + → + 
+
+ 
+Since a proton is changed to a neutron during electron capture, the number of neutrons in the nucleus increases by 1, the number of protons decreases by 1, and the atomic mass number remains unchanged. By changing the number of protons, electron capture transforms the nuclide into a new element. The atom, although still neutral in charge, now exists in an excited state with the inner shell missing an electron. An outer shell electron will eventually transition to fill the missing inner electron thereby dropping to a lower ground state. During this process, that electron will emit an X-ray photon (a type of electromagnetic radiation) and other electrons may also emit Auger electrons. Often the nucleus exists in an excited state as well, and emits a gamma ray as it transitions to the ground state energy of the new nuclide.
+
+==History==
+The theory of electron capture was first discussed by Gian-Carlo Wick in a 1934 paper, and then developed by Hideki Yukawa and others. K-electron capture was first observed by Luis Alvarez, in vanadium-49. He reported it in a 1937 paper in the Physical Review. Luis W. Alvarez, W. Peter Trower (1987). "Chapter 3: K-Electron Capture by Nuclei (with the commentary of Emilio Segré)" In Discovering Alvarez: selected works of Luis W. Alvarez, with commentary by his students and colleagues. University of Chicago Press, pp. 11–12, ISBN 978-0-226-81304-2. Luis Alvarez, The Nobel Prize in Physics 1968, biography, nobelprize.org. Accessed on line October 7, 2009. Nuclear K Electron Capture, Luis W. Alvarez, Physical Review 52 (1937), pp. 134–135, . Alvarez went on to study electron capture in gallium-67 and other nuclides. Electron Capture and Internal Conversion in Gallium 67, Luis W. Alvarez, Physical Review 53 (1937), p. 606, . The Capture of Orbital Electrons by Nuclei, Luis W. Alvarez, Physical Review 54 (October 1, 1938), pp. 486–497, . 
+
+==Reaction details==
+
+:
+
+ Examples: 
+ + → + 
+ + → + 
+ + → + 
+
+The electron that is captured is one of the atom's own electrons, and not a new, incoming electron, as might be suggested by the way the above reactions are written. Radioactive isotopes that decay by pure electron capture can be inhibited from radioactive decay if they are fully ionized ("stripped" is sometimes used to describe such ions). It is hypothesized that such elements, if formed by the r-process in exploding supernovae, are ejected fully ionized and so do not undergo radioactive decay as long as they do not encounter electrons in outer space. Anomalies in elemental distributions are thought to be partly a result of this effect on electron capture. Inverse decays can also be induced by full ionisation; for instance, 163Ho decays into 163Dy by electron capture; however, a fully ionised 163Dy decays into a bound state of 163Ho by the process of bound-state β− decay. Fritz Bosch, Manipulation of Nuclear Lifetimes in Storage Rings, Physica Scripta. Vol. T59, 221–229 (1995) 
+
+Chemical bonds can also affect the rate of electron capture to a small degree (in general, less than 1%) depending on the proximity of electrons to the nucleus. For example in 7Be, a difference of 0.9% has been observed between half-lives in metallic and insulating environments. B.Wang et al., Euro. Phys. J. A 28, 375–377 (2006) Change of the 7Be electron capture half-life in metallic environments This relatively large effect is due to the fact that beryllium is a small atom whose valence electrons are close to the nucleus.
+
+Around the elements in the middle of the periodic table, isotopes that are lighter than stable isotopes of the same element tend to decay through electron capture, while isotopes heavier than the stable ones decay by electron emission.
+
+==Common examples==
+Some common radioisotopes that decay by electron capture include:
+
+ Radioisotope Half-life 
+ 53.28 d 
+ 35.0 d 
+ 1.03E5 yr 
+ 52 yr 
+ 337 d 
+ 27.7 d 
+ 3.7E6 yr 
+ 2.6 yr 
+ 271.8 d 
+ 6.10 d 
+ 3.260 d 
+ 270.8 d 
+ 8.5 d 
+
+For a full list, see the table of nuclides.
+
+==References==
+
+== External links ==
+* The LIVEChart of Nuclides - IAEA with filter on electron capture
+
+

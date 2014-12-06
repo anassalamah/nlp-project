@@ -1,0 +1,108 @@
+[[Ernst Mach]]
+
+Ernst Waldfried Josef Wenzel Mach (; ; February 18, 1838 – February 19, 1916) was an Austrian physicist and philosopher, noted for his contributions to physics such as the Mach number and the study of shock waves. As a philosopher of science, he was a major influence on logical positivism, American pragmatism and through his criticism of Newton, a forerunner of Einstein's relativity.
+
+==Biography==
+Ernst Waldfried Josef Wenzel Mach was born in Brno-Chrlice (), Moravia (then in the Austrian empire, now part of Brno in the Czech Republic). His father, who had graduated from Charles University in Prague, acted as tutor to the noble Brethon family in Zlín, eastern Moravia. His grandfather, Wenzl Lanhaus, an administrator of the estate Chirlitz, was also master builder of the streets there. His activities in that field later influenced the theoretical work of Ernst Mach. Some sources give Mach's birthplace as Turas/Tuřany (now also part of Brno), the site of the Chirlitz registry-office. Peregrin Weiss baptized Ernst Mach into the Roman Catholic Church in Turas/Tuřany. Despite his Catholic background, he later became an atheist. 
+
+Up to the age of 14, Mach received his education at home from his parents. He then entered a Gymnasium in Kroměříž (), where he studied for three years. In 1855 he became a student at the University of Vienna. There he studied physics and for one semester medical physiology, receiving his doctorate in physics in 1860 and his Habilitation the following year. His early work focused on the Doppler effect in optics and acoustics. In 1864 he took a job as Professor of Mathematics in Graz, having turned down the position of a chair in surgery at the University of Salzburg to do so, and in 1866 he was appointed as Professor of Physics. During that period, Mach continued his work in psycho-physics and in sensory perception. In 1867, he took the chair of Experimental Physics at the Charles University, Prague, where he stayed for 28 years before returning to Vienna.
+
+Mach's main contribution to physics involved his description and photographs of spark shock-waves and then ballistic shock-waves. He described how when a bullet or shell moved faster than the speed of sound, it created a compression of air in front it. Using schlieren photography, he and his son Ludwig were able to photograph the shadows of the invisible shock waves. During the early 1890s Ludwig was able to invent an interferometer which allowed for much clearer photographs. But Mach also made many contributions to psychology and physiology, including his anticipation of gestalt phenomena, his discovery of the oblique effect and of Mach bands, an inhibition-influenced type of visual illusion, and especially his discovery of a non-acoustic function of the inner ear which helps control human balance.
+
+One of the best-known of Mach's ideas is the so-called "Mach principle," concerning the physical origin of inertia. This was never written down by Mach, but was given a graphic verbal form, attributed by Philipp Frank to Mach himself, as, "When the subway jerks, it's the fixed stars that throw you down."
+
+Mach also became well known for his philosophy developed in close interplay with his science. On this interdependency of Mach's physics, physiology, history and philosophy of science see Blackmore (1972), Blackmore (ed.) 1992 and Hentschel 1985 against Paul Feyerabend's efforts to decouple these three strands. Mach defended a type of phenomenalism recognizing only sensations as real. This position seemed incompatible with the view of atoms and molecules as external, mind-independent things. He famously declared, after an 1897 lecture by Ludwig Boltzmann at the Imperial Academy of Science in Vienna: "I don't believe that atoms exist!" Yourgrau, P. (2005). A World Without Time: The Forgotten Legacy of Gödel and Einstein. Allen Lane From about 1908 to 1911 Mach's reluctance to acknowledge the reality of atoms was criticized by Max Planck as being incompatible with physics. Einstein's 1905 demonstration that the statistical fluctuations of atoms allowed measurement of their existence without direct individuated sensory evidence marked a turning point in the acceptance of atomic theory. Some of Mach's criticisms of Newton's position on space and time influenced Einstein, but later Einstein realized that Mach was basically opposed to Newton's philosophy and concluded that his physical criticism was not sound.
+
+In 1898 Mach suffered from cardiac arrest and in 1901 retired from the University of Vienna and was appointed to the upper chamber of the Austrian parliament. On leaving Vienna in 1913 he moved to his son's home in Vaterstetten, near Munich, where he continued writing and corresponding until his death in 1916. His current living descendant is Marilyn vos Savant (her father was Joseph Mach).
+
+== Physics ==
+Ernst Mach’s photography of a bow shockwave around a supersonic bullet, in 1888.
+Most of Mach's initial studies in the field of experimental physics concentrated on the interference, diffraction, polarization and refraction of light in different media under external influences. There followed his important explorations in the field of supersonic velocity. Mach's paper on this subject was published in 1877 and correctly describes the sound effects observed during the supersonic motion of a projectile. Mach deduced and experimentally confirmed the existence of a shock wave which has the form of a cone with the projectile at the apex. The ratio of the speed of projectile to the speed of sound vp/vs is now called the Mach number. It plays a crucial role in aerodynamics and hydrodynamics. He also contributed to cosmology the hypothesis known as Mach's principle.
+
+==Philosophy of science==
+Bust of Mach in the Rathauspark (City Hall Park) in Vienna, Austria.
+From 1895 to 1901, Mach held a newly created chair for "the history and philosophy of the inductive sciences" at the University of Vienna. On Mach's historiography, cf., e.g., Hentschel (1988); on his impact in Vienna, see Stadler et al.(1988), and Blackmore et al.(2001). In his historico-philosophical studies, Mach developed a phenomenalistic philosophy of science which became influential in the 19th and 20th centuries. He originally saw scientific laws as summaries of experimental events, constructed for the purpose of making complex data comprehensible, but later emphasized mathematical functions as a more useful way to describe sensory appearances. Thus scientific laws while somewhat idealized have more to do with describing sensations than with reality as it exists beyond sensations. Selections are taken from his essay The Economical Nature of Physical Inquiry, excerpted by Kockelmans and slightly corrected by Blackmore. (citation below). 
+
+Mach's positivism also influenced many Russian Marxists, such as Alexander Bogdanov (1873–1928). In 1908, Lenin wrote a philosophical work, Materialism and Empirio-criticism (published 1909), in which he criticized Machism and the views of "Russian Machists". Empirio-criticism is the term for the rigorously positivist and radically empirical philosophy established by the German philosopher Richard Avenarius and further developed by Mach, which claims that all we can know is our sensations and that knowledge should be confined to pure experience (see "empirio-criticism": entry in The Blackwell Dictionary of Western Philosophy.). 
+
+In accordance with this philosophy, Mach opposed Ludwig Boltzmann and others who proposed an atomic theory of physics. Since one cannot observe things as small as atoms directly, and since no atomic model at the time was consistent, the atomic hypothesis seemed to Mach to be unwarranted, and perhaps not sufficiently "economical". Mach had a direct influence on the Vienna Circle philosophers and the school of logical positivism in general.
+
+Mach is attributed with a number of principles that distill his ideal of physical theorisation — what is now called "Machian physics":
+# It should be based entirely on directly observable phenomena (in line with his positivistic leanings) Barbour, J. The End of Time, p220: "In the Machian view, the properties of the system are exhausted by the masses of the particles and their separations, but the separations are mutual properties. Apart from the masses, the particles have no attributes that are exclusively their own. They – in the form of a triangle – are a single thing. In the Newtonian view, the particles exist in absolute space and time. These external elements lend the particles attributes – position, momentum, angular momentum – denied in the Machian view. The particles become three things. Absolute space and time are an essential part of atomism." 
+# It should completely eschew absolute space and time in favor of relative motion Penrose, R. The Road to Reality, p753: "Mach’s principle asserts that
+physics should be defined entirely in terms of the relation of one body to
+another, and that the very notion of a background space should be
+abandoned" 
+# Any phenomena that would seem attributable to absolute space and time (e.g. inertia, and centrifugal force) should instead be seen as emerging from the large scale distribution of matter in the universe. Mach, E. The Science of Mechanics. "> investigator must feel the need of... knowledge of the immediate connections, say, of the masses of the universe. There will hover before him as an ideal insight into the principles of the whole matter, from which accelerated and inertial motions will result in the same way. 
+
+The last is singled out, particularly by Albert Einstein as "the" Mach's principle. Einstein cited it as one of the three principles underlying general relativity. In 1930, he stated that "it is justified to consider Mach as the precursor of the general theory of relativity", Quoted in Pais , Subtle is the Lord, 2005, OUP though Mach, before his death, would reject Einstein's theory. Einstein was aware that his theories did not fulfill all Mach's principles, and no subsequent theory has either, despite considerable effort.
+
+== Physiology ==
+In 1873, independently of each other 
+Hawkins, J.E. and Schacht, J. "The Emergence of Vestibular Science" (Part 8 of "Sketches of Otohistory") in "Audiology and Neurotology," April 2005.
+ 
+Mach and the physiologist and physician Josef Breuer discovered how the sense of balance (i.e., the perception of the head’s imbalance) functions, tracing its management by information which the brain receives from the movement of a fluid in the semicircular canals of the inner ear. That the sense of balance depended on the three semicircular canals was discovered in 1870 by the physiologist Friedrich Goltz, but Goltz didn't discover how the balance-sensing apparatus functioned.
+
+==Psychology==
+In the area of sensory perception, psychologists remember Mach for the optical illusion called the Mach band.
+
+More clearly than anyone before (or even since) Mach Mach, E. (1906) Space and Geometry. Open Court Publishing: Chicago made the distinction between what he called physiological (specifically visual) and geometrical spaces.
+
+Mach's views on mediating structures inspired B. F. Skinner's strongly inductive position, which paralleled Mach's in the field of psychology. 
+ 
+
+==Eponyms==
+The lunar crater Mach takes its name from Ernst Mach. So does the optical illusion called Mach bands and Mach number unit for the velocity of sound.
+
+==Mach's principal works in English==
+* The Science of Mechanics (1883)
+* The Analysis of Sensations (1897)
+* Popular Scientific Lectures (1895)
+* The Principles of Physical Optics (1926)
+* Knowledge and Error (1976)
+* Principles of the Theory of Heat (1986)
+
+==See also==
+* Mach disk
+* Mach's principle
+* Mach reflection
+* Mach–Zehnder interferometer
+* Visual space
+* Marilyn vos Savant
+
+==References==
+
+==Further reading==
+* J. Kockelmans. Philosophy of science: the historical background. New York: The Free Press, 1968.
+* John T. Blackmore, "Ernst Mach – His Life, Work, an Influence", Berkeley and Los Angeles, 1972
+* John Blackmore (ed.), ."Ernst Mach – A Deeper Look", Dordrecht, 1992.
+* J. Blackmore, R. Itagaki and S. Tanaka (eds.): "Ernst Mach's Vienna – 1895–1930", Dordrecht, 2001
+* John T. Blackmore, Ryoichi Itagaki and Setsuko Tanaka (eds.):" Ernst Mach's Science",Tokai University Press, Kanagawa, 2006.
+* John T. Blackmore, Ryoichi Itagaki and Setsuko Tanaka, "Ernst Mach's Influence Spreads", Sentinel Open Press: Bethesda, 2009.
+* John T. Blackmore, Ryoichi Itagaki and Setsuko Tanaka, "Ernst Mach's Graz", 1864–1867", Sentinel Open Press, Behesda, 2010.
+* John T. Blackmore, Ryoichi Itagaki and Setsuko Tanaka, "Ernst Mach's Prague 1867–1895", Sentinel Open Press, Bethesda 2010
+* Erik C. Banks, Ernst Mach's World Elements, Kluwer (now Springer), Dordrecht, 203.
+* John Blackmore und Klaus Hentschel (Hrsg.) "Ernst Mach als Aussenseiter", select correspondence, Braumüller, Vienna 1985.
+* Rudolf Haller & Friedrich Stadler (Hrsg., "Ernst Mach – Werk und Wirkung", Hoelder-Pichler-Tempsky, Vienna, 1988.)
+* Klaus Hentschel: On Paul Feyerabend's version of `Mach's theory of research and its relation to Albert Einstein', Studies in History and Philosophy of Science 16 (1985): 387-394.
+* Klaus Hentschel: Die Korrespondenz Duhem-Mach: Zur 'Modellbeladenheit' von Wissenschaftsgeschichte', Annals of Science 45 (1988): 73-91 (with their complete correspondence).
+* D. Hoffmann und H. Laitko (Hrsg.), Ernst Mach -Studien und Dokumente..., Berlin, 1991.
+* V. Prosser and J. Folta (eds.), "Ernst Mach and the development of Physics – Conference Papers", Prague, 1991.
+* Joachim Thiele (Hrsg.), "Wissenschaftliche Kommunikation – Die Korrespondenz Ernst Machs", Hain, Kastellaun, 1978 (with select correspondence).
+* Jiri Prochazka: Ernst Mach: 1838–1916. Genealogie. /Vol. I/ Brno 2007.
+* Jiri Prochazka: Ernst Mach: 1838–1916. Genealogie. /Vol. II/ Brno 2009.
+* Jiri Prochazka: Ernst Mach: 1838–1916. Genealogie. /Vol.III/ Brno, Vienna 2O1O.
+
+== External links ==
+
+* Various Ernst Mach links, compiled by Greg C Elvers
+* Klaus Hentschel: Mach, Ernst, in: Neue Deutsche Biographie 15 (1987), S. 605-609.
+* Works in german and english, in the Internet Archive
+* 
+* Short biography and bibliography in the Virtual Laboratory of the Max Planck Institute for the History of Science
+* Vladimir Lenin: Materialism and Empirio-criticism
+* Ernst Mach: The Analysis of Sensations (1897) of Beiträge zur Analyse der Empfindungen (1886)
+* Mach's math genealogy
+* "The critical positivism of Mach and Avenarius": entry in the Britannica Online Encyclopedia
+
+

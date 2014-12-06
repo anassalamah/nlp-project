@@ -1,0 +1,97 @@
+[[Mirage]]
+
+Various kinds of mirages in one location taken over the course of six minutes, not shown in temporal order. The uppermost inset frame shows an inferior mirage of the Farallon Islands. The second inset frame is the Farallon Islands with a green flash on the left-hand side. The two lower frames and the main frame all show superior mirages of the Farallon Islands. In these three frames, the superior mirage evolves from a 3-image mirage (an inverted image between two erect ones) to a 5-image mirage, and then back to a 2-image mirage. Such a display is consistent with a Fata Morgana. All frames but the upper one were photographed from about 50–70 feet above sea level. The upper frame was photographed from sea level.
+A mirage is a naturally occurring optical phenomenon in which light rays are bent to produce a displaced image of distant objects or the sky. The word comes to English via the French mirage, from the Latin mirari, meaning "to look at, to wonder at". This is the same root as for "mirror" and "to admire".
+
+In contrast to a hallucination, a mirage is a real optical phenomenon that can be captured on camera, since light rays are actually refracted to form the false image at the observer's location. What the image appears to represent, however, is determined by the interpretive faculties of the human mind. For example, inferior images on land are very easily mistaken for the reflections from a small body of water.
+
+Mirages can be categorized as "inferior" (meaning lower), "superior" (meaning higher) and "Fata Morgana", one kind of superior mirage consisting of a series of unusually elaborate, vertically stacked images, which form one rapidly changing mirage.
+
+==Cause==
+Cold air is denser than warm air and, therefore, has a greater refractive index. As light passes from colder air across a sharp boundary to significantly warmer air, the light rays bend away from the direction of the temperature gradient. When light rays pass from hotter to cooler, they bend toward the direction of the gradient. If the air near the ground is warmer than that higher up, the light ray bends in a concave, upward trajectory.
+
+Once the rays reach the viewer’s eye, the visual cortex interprets it as if it traces back along a perfectly straight "line of sight". However, this line is at a tangent to the path the ray takes at the point it reaches the eye. The result is that an "inferior image" of the sky above appears on the ground. The viewer may incorrectly interpret this sight as water that is reflecting the sky, which is, to the brain, a more reasonable and common occurrence.
+
+In the case where the air near the ground is cooler than that higher up, the light rays curve downward, producing a "superior image".
+
+The "resting" state of the Earth's atmosphere has a vertical gradient of about -1° Celsius per 100 metres of altitude. (The value is negative because it gets colder as altitude increases.) For a mirage to happen, the temperature gradient has to be much greater than that. According to Minnaert, M. Minnaert; The Nature of Light and Colour in the Open Air; 1948; ISBN 0-486-20196-1. the magnitude of the gradient needs to be at least 2°C per metre, and the mirage does not get strong until the magnitude reaches 4° or 5°C per metre. These conditions do occur with strong heating at ground level, for example when the sun has been shining on sand or asphalt, commonly generating an inferior image.
+
+==Inferior mirage==
+An inferior mirage on the Mojave Desert in spring
+
+For exhausted travelers in the desert, an inferior mirage may appear to be a lake of water in the distance. An inferior mirage is called "inferior" because the mirage is located under the real object. The real object in an inferior mirage is the (blue) sky or any distant (therefore bluish) object in that same direction. The mirage causes the observer to see a bright and bluish patch on the ground in the distance.
+
+Light rays coming from a particular distant object all travel through nearly the same air layers and all are bent over about the same amount. Therefore, rays coming from the top of the object will arrive lower than those from the bottom. The image usually is upside down, enhancing the illusion that the sky image seen in the distance is really a water or oil puddle acting as a mirror.
+
+Inferior images are not stable. Hot air rises, and cooler air (being more dense) descends, so the layers will mix, giving rise to turbulence. The image will be distorted accordingly. It may be vibrating; it may be vertically extended (towering) or horizontally extended (stooping). If there are several temperature layers, several mirages may mix, perhaps causing double images. In any case, mirages are usually not larger than about half a degree high (same apparent size as the sun and moon) and from objects only a few kilometers away.
+
+===Heat haze===
+Heat haze caused by jet engine exhaust
+Heat haze, also called heat shimmer, refers to the inferior mirage experienced when viewing objects through a layer of heated air; for example, viewing objects across hot asphalt or through the exhaust gases produced by jet engines. When appearing on roads due to the hot asphalt, it is often referred to as a highway mirage.
+
+Convection causes the temperature of the air to vary, and the variation between the hot air at the surface of the road and the denser cool air above it creates a gradient in the refractive index of the air. This produces a blurred shimmering effect, which affects the ability to resolve objects, the effect being increased when the image is magnified through a telescope or telephoto lens.
+A hot-road mirage, "fake water" on the road, the most common example of an inferior mirage
+Light from the sky at a shallow angle to the road is refracted by the index gradient, making it appear as if the sky is reflected by the road's surface. The mind interprets this as a pool of water on the road, since water also reflects the sky. The illusion fades as one gets closer.
+
+On tarmac roads it may look as if water, or even oil, has been spilled. These kinds of inferior mirages are often called "desert mirages" or "highway mirages". Both sand and tarmac can become very hot when exposed to the sun, easily being more than 10°C hotter than the air one meter above, enough to create conditions suitable for the formation of the mirage.
+
+Heat haze is not related to the atmospheric phenomenon of haze.
+
+==Superior mirage==
+Superior mirage : Plane on ice, McMurdo Station
+An artificial mirage, using sugar solutions to simulate the inversion layers. A cat is seen looking through a glass, which has three layers of solution, with decreasing refractive index from bottom to top. The cat appears in multiple images. This simulates an atmosphere with two inversion layers.
+A superior mirage occurs when the air below the line of sight is colder than the air above it. This unusual arrangement is called a temperature inversion, since warm air above cold air is the opposite of the normal temperature gradient of the atmosphere. Passing through the temperature inversion, the light rays are bent down, and so the image appears above the true object, hence the name superior. Superior mirages are in general less common than inferior mirages, but, when they do occur, they tend to be more stable, as cold air has no tendency to move up and warm air has no tendency to move down.
+
+Superior mirages are quite common in polar regions, especially over large sheets of ice that have a uniform low temperature. Superior mirages also occur at more moderate latitudes, although in those cases they are weaker and tend to be less smooth and stable. For example, a distant shoreline may appear to tower and look higher (and, thus, perhaps closer) than it really is. Because of the turbulence, there appear to be dancing spikes and towers. This type of mirage is also called the Fata Morgana or hafgerdingar in the Icelandic language. 
+
+A superior mirage can be right-side up or upside down, depending on the distance of the true object and the temperature gradient. Often the image appears as a distorted mixture of up and down parts.
+
+Superior mirages can have a striking effect due to the Earth's curvature. Were the Earth flat, light rays that bend down would soon hit the ground and only nearby objects would be affected. Since Earth is round, if their downward bending curve is about the same as the curvature of the Earth, light rays can travel large distances, perhaps from beyond the horizon. This was observed and documented for the first time in 1596, when a ship under the command of Willem Barents in search of the Northeast passage became stuck in the ice at Novaya Zemlya. The crew was forced to endure the polar winter there. They saw their midwinter night come to an end with the rise of a distorted Sun about two weeks earlier than expected. It was not until the 20th century that science could explain the reason: The real Sun had still been below the horizon, but its light rays followed the curvature of the Earth. This effect is often called a Novaya Zemlya mirage. For every 111.12 km the light rays can travel parallel to the Earth's surface, the Sun will appear 1° higher on the horizon. The inversion layer must have just the right temperature gradient over the whole distance to make this possible.
+
+In the same way, ships that are in reality so far away that they should not be visible above the geometric horizon may appear on the horizon or even above the horizon as superior mirages. This may explain some stories about flying ships or coastal cities in the sky, as described by some polar explorers. These are examples of so-called Arctic mirages, or hillingar in Icelandic.
+
+If the vertical temperature gradient is +12.9°C per 100 meters (where the positive sign means temperature gets hotter as one goes higher) then horizontal light rays will just follow the curvature of the Earth, and the horizon will appear flat. If the gradient is less (as it almost always is) the rays are not bent enough and get lost in space, which is the normal situation of a spherical, convex "horizon".
+
+In some situations, distant objects can get elevated or lowered, stretched or shortened with no mirage involved.
+
+===Fata Morgana===
+thumb
+
+A Fata Morgana, the name of which coming from the Italian translation of Morgan le Fay, the fairy shapeshifting half-sister of King Arthur, is a very complex superior mirage. It appears with alternations of compressed and stretched zones, erect images, and inverted images. A Fata Morgana is also a fast-changing mirage.
+
+Fata Morgana mirages are most common in polar regions, especially over large sheets of ice with a uniform low temperature, but they can be observed almost anywhere. While in polar regions, a Fata Morgana may be observed on cold days and in desert areas; and, over oceans and lakes, a Fata Morgana may be observed on hot days. For a Fata Morgana, temperature inversion has to be strong enough that light rays' curvatures within the inversion are stronger than the curvature of the Earth. An Introduction to Mirages by Andy Young 
+
+The rays will bend and create arcs. An observer needs to be within an atmospheric duct to be able to see a Fata Morgana. SDSU.edu, "Atmospheric Optics Glossary" by Andy Young 
+Fata Morgana mirages may be observed from any altitude within the Earth's atmosphere, including from mountaintops or airplanes. 
+
+A Fata Morgana can go from superior to inferior mirage and back within a few seconds, depending on the constantly changing conditions of the atmosphere. Sixteen frames of the mirage of the Farallon Islands, which cannot be seen from sea level at all under normal conditions because they are located below the horizon, were photographed on the same day. The first fourteen frames have elements of a Fata Morgana display—alternations of compressed and stretched zones. The last two frames were photographed a few hours later around sunset. The air was cooler while the ocean was probably a little bit warmer, which made temperature inversion lower. The mirage was still present, but it was not as complex as it had been a few hours before sunset, and it corresponded no longer to a Fata Morgana but rather to a superior mirage display.
+
+Distortions of image and bending of light can produce spectacular effects. In his book Pursuit: The Chase and Sinking of the "Bismarck", the author Ludovic Kennedy describes an incident that allegedly took place below the Denmark Strait during 1941, following the sinking of the Hood. The Bismarck, while pursued by the British cruisers Norfolk and Suffolk, passed out of sight into a sea mist. Within a matter of seconds, the ship re-appeared steaming toward the British ships at high speed. In alarm the cruisers separated, anticipating an imminent attack, and observers from both ships watched in astonishment as the German battleship fluttered, grew indistinct and faded away. Radar watch during these events indicated that the Bismarck had in fact made no changes of course.
+
+==Night-time mirages==
+The conditions for producing a mirage can take place at night. Under most conditions, these are not observed. However, under some circumstances lights from moving vehicles, aircraft, ships, buildings, etc. can be observed at night, even though, as with a daytime mirage, they would not be observable. 
+
+This includes the mirage of astronomical objects.
+
+===Mirage of astronomical objects===
+
+A mirage of an astronomical object is a naturally occurring optical phenomenon, in which light rays are bent to produce distorted or multiple images of an astronomical object. The mirages might be observed for such astronomical objects as the Sun, the Moon, the planets, bright stars, and very bright comets. The most commonly observed are sunset and sunrise mirages.
+
+==See also==
+* Atmospheric refraction
+* Looming and similar refraction phenomena
+* Mirage of astronomical objects
+
+==References==
+
+==External links==
+
+* All kind of mirages explained
+* China daily, rare mirage in Penglai
+* The superior mirage
+* The inferior mirage
+* The highway mirage
+* All Atmospheric effects on light rays
+* 
+
+

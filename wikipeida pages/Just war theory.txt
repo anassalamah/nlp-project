@@ -1,0 +1,205 @@
+[[Just war theory]]
+
+Just War theory (jus bellum iustum) is a doctrine, also referred to as a tradition, of military ethics studied by theologians, ethicists, policy makers and military leaders. The purpose of the doctrine is to ensure war is morally justifiable through a series of criteria, all of which must be met for a war to be considered just. The criteria are split into two groups: ‘the right to go to war’ (jus ad bellum) and ‘right conduct in war’ (jus in bello). The first concerns the morality of going to war and the second with moral conduct within war. Recently there have been calls for the inclusion of a third category of just war theory - jus post bellum - dealing with the morality of post-war settlement and reconstruction.
+
+Just War theory postulates that war, while very terrible, is not always the worst option. There may be responsibilities so important, atrocities which can be prevented or outcomes so undesirable they justify war. 
+
+==Origins==
+The Indian epic, the Mahabharata, offers one of the first written discussions of a 'just war'. In it, one of five ruling brothers asks if the suffering caused by war can ever be justified, and then a long discussion ensues between the siblings, establishing criteria like proportionality (chariots cannot attack cavalry, only other chariots, no attacking people in distress), just means (no poisoned or barbed arrows), just cause (no attacking out of rage), and fair treatment of captives and the wounded. Just War in Comparative Perspective 
+The war in Mahabharata is preceded by context that develops the "just cause" for the war including last minute efforts to reconcile differences to avoid war. At the beginning of the war, there is the discussion of "just conduct" appropriate to the context of war.
+In ancient Rome, a "just cause" for war might include the necessity of repelling an invasion, or retaliation for pillaging or a breach of treaty. Livy 9.1.10; Cicero, Divinatio in Caecilium 63; De provinciis consularibus 4; Ad Atticum VII 14, 3; IX 19, 1; Pro rege Deiotauro 13; De officiis I 36; Philippicae XI 37; XIII 35; De re publica II 31; III 35; Isidore of Seville, Origines XVIII 1, 2; Modestinus, Libro I regolarum = Digesta I 3, 40; E. Badian, Roman Imperialism in the Late Republic (Ithaca 1968, 2nd ed.), p.11. War was always potentially nefas, "wrong, forbidden", and risked religious pollution and divine disfavor. William Warde Fowler, The Roman Festivals of the Period of the Republic (London 1925), pp. 33ff.; M. Kaser, Das altroemische Ius (Goettingen 1949), pp. 22ff; P. Catalano, Linee del sistema sovrannazionale romano (Torino 1965), pp. 14ff.; W. V. Harris, War and imperialism in Republican Rome, 327-70 B.C. (Oxford 1979), pp. 161 ff. A just war (bellum iustum) thus required a ritualized declaration by the fetial priests. Livy 1.32; 31.8.3; 36.3.9 More broadly, conventions of war and treaty-making were part of the ius gentium, the "law of nations", the customary moral obligations regarded as innate and universal to human beings. Cicero, De officiis 3.17.69; Marcia L. Colish, The Stoic Tradition from Antiquity to the Early Middle Ages (Brill, 1980), p. 150. The quintessential explanation of just war theory in the ancient world is found in Cicero's De Officiis, Book 1, sections 1.11.33–1.13.41
+
+Christian theory of the just war begins with Augustine of Hippo Christians and War: Augustine of Hippo and the "Just War Theory" and Thomas Aquinas. Christians and War: Thomas Aquinas refines the "Just War" Theory 
+
+===Saint Augustine===
+Augustine of Hippo, generally considered one of the first and greatest Christian theologians, was one of the first to assert that a Christian could be a soldier and serve God and country honorably. He claimed that, while individuals should not resort immediately to violence, God has given the sword to government for good reason (based upon Romans 13:4). Christians as part of government should not be ashamed to protect peace and punish wickedness.
+
+Augustine asserted that this was a personal, philosophical stance:
+
+:"What is here required is not a bodily action, but an inward disposition. The sacred seat of virtue is the heart." A Time For War? Christianity Today 
+
+Nonetheless, he asserted, peacefulness in the face of a grave wrong that could only be stopped by violence would be a sin. Defense of one's self or others could be a necessity, especially when authorized by a legitimate authority:
+
+:"They who have waged war in obedience to the divine command, or in conformity with His laws, have represented in their persons the public justice or the wisdom of government, and in this capacity have put to death wicked men; such persons have by no means violated the commandment, "Thou shalt not kill." Augustine, Philip Schaff, Augustine: City of God 
+
+While not breaking down the conditions necessary for war to be just, Augustine nonetheless originated the very phrase, itself, in his work The City of God:
+
+:"But, say they, the wise man will wage just wars. As if he would not all the rather lament the necessity of just wars, if he remembers that he is a man; for if they were not just he would not wage them, and would therefore be delivered from all wars." 
+
+===Thomas Aquinas===
+Nine hundred years later, Thomas Aquinas — an immensely influential philosopher and theologian in the tradition of scholasticism — used the authority of Augustine's arguments as he laid out the conditions under which a war could be just: The Just War 
+* First, just war must be waged by a properly instituted authority such as the state. (Proper Authority is first: represents the common good: which is peace for the sake of man's true end—God.)
+* Second, war must occur for a good and just purpose rather than for self-gain (for example, "in the nation's interest" is not just) or as an exercise of power. (Just Cause: for the sake of restoring some good that has been denied. i.e., lost territory, lost goods, punishment for an evil perpetrated by a government, army, or even citizen population.)
+* Third, peace must be a central motive even in the midst of violence. (Right Intention: an authority must fight for the just reasons it has expressly claimed for declaring war in the first place. Soldiers must also fight for this intention.)
+
+===School of Salamanca===
+Growing from Aquinas arguments was the School of Salamanca, which expanded on Thomistic understanding of natural law and just war. Given that war is one of the worst evils suffered by mankind, the adherents of the School reasoned that it ought to be resorted to only when it was necessary in order to prevent an even greater evil. A diplomatic agreement is preferable, even for the more powerful party, before a war is started. Examples of "just war" are:
+* In self-defense, as long as there is a reasonable possibility of success.
+* Preventive war against a tyrant who is about to attack.
+* War to punish a guilty enemy.
+
+A war is not legitimate or illegitimate simply based on its original motivation: it must comply with a series of additional requirements:
+* It is necessary that the response be commensurate to the evil; use of more violence than is strictly necessary would constitute an unjust war.
+* Governing authorities declare war, but their decision is not sufficient cause to begin a war. If the people oppose a war, then it is illegitimate. The people have a right to depose a government that is waging, or is about to wage, an unjust war.
+* Once war has begun, there remain moral limits to action. For example, one may not attack innocents or kill hostages.
+* It is obligatory to take advantage of all options for dialogue and negotiations before undertaking a war; war is only legitimate as a last resort.
+
+Under this doctrine, expansionist wars, wars of pillage, wars to convert infidels or pagans, and wars for glory are all inherently unjust.
+
+===Just War Doctrine===
+
+The just war doctrine of the Catholic Church - sometimes mistaken as a "just war theory" Google News: Catholic Bishops At Odds Over Theories Of 'just War' Google News: Just-war Theory Tested In Kosovo - found in the 1992 Catechism of the Catholic Church, in paragraph 2309, lists four strict conditions for "legitimate defense by military force": Catechism of the Catholic Church 2309 
+* the damage inflicted by the aggressor on the nation or community of nations must be lasting, grave, and certain; 
+* all other means of putting an end to it must have been shown to be impractical or ineffective; 
+* there must be serious prospects of success; 
+* the use of arms must not produce evils and disorders graver than the evil to be eliminated (the power of modern means of destruction weighs very heavily in evaluating this condition).
+
+The Compendium of the Social Doctrine of the Church elaborates on the Just War Doctrine in paragraphs 500 to 501: Compendium of the Social Doctrine of the Church - Legitimate defence 
+
+:If this responsibility justifies the possession of sufficient means to exercise this right to defence, States still have the obligation to do everything possible “to ensure that the conditions of peace exist, not only within their own territory but throughout the world”. It is important to remember that “it is one thing to wage a war of self-defence; it is quite another to seek to impose domination on another nation. The possession of war potential does not justify the use of force for political or military objectives. Nor does the mere fact that war has unfortunately broken out mean that all is fair between the warring parties”.
+
+:The Charter of the United Nations, born from the tragedy of the Second World War with the intention of preserving future generations from the scourge of war, is based on a generalized prohibition of a recourse to force to resolve disputes between States, with the exception of two cases: legitimate defence and measures taken by the Security Council within the area of its responsibilities for maintaining peace. In every case, exercising the right to self-defence must respect “the traditional limits of necessity and proportionality”.
+
+:Therefore, engaging in a preventive war without clear proof that an attack is imminent cannot fail to raise serious moral and juridical questions. International legitimacy for the use of armed force, on the basis of rigorous assessment and with well-founded motivations, can only be given by the decision of a competent body that identifies specific situations as threats to peace and authorizes an intrusion into the sphere of autonomy usually reserved to a State.
+
+===Formally described Just War===
+The first work dedicated specifically to it was De bellis justis of Stanisław of Skarbimierz (1360-1431), who justified war of the Kingdom of Poland with Teutonic Knights. Francisco de Vitoria criticized the conquest of America by the Kingdom of Spain. With Alberico Gentili and Hugo Grotius just war theory was replaced by international law theory, codified as a set of rules, which today still encompass the points commonly debated, with some modifications. Gutman R, Rieff D. Crimes of War: What the Public Should Know. New York, NY: W. W. Norton & Company; 1999 The importance of the theory of just war faded with revival of classical republicanism beginning with works of Thomas Hobbes.
+
+Although the criticism can be made that the application of Just War is relativistic, one of the fundamental bases of the tradition is the Ethic of Reciprocity, particularly when it comes to in bello considerations of deportment during battle. If one set of combatants promise to treat their enemies with a modicum of restraint and respect, then the hope is that other sets of combatants will do similarly in reciprocation, (a concept not unrelated to the considerations of Game Theory).
+
+Just War theorists combine both a moral abhorrence towards war with a readiness to accept that war may sometimes be necessary. The criteria of the just war tradition act as an aid to determining whether resorting to arms is morally permissible. Just War theories are attempts "to distinguish between justifiable and unjustifiable uses of organized armed forces"; they attempt "to conceive of how the use of arms might be restrained, made more humane, and ultimately directed towards the aim of establishing lasting peace and justice". 
+
+The Just War tradition addresses the morality of the use of force in two parts: when it is right to resort to armed force (the concern of jus ad bellum) and what is acceptable in using such force (the concern of jus in bello). In more recent years, a third category — jus post bellum — has been added, which governs the justice of war termination and peace agreements, as well as the prosecution of war criminals.
+
+Anarcho-capitalist scholar Murray Rothbard stated, "a just war exists when a people tries to ward off the threat of coercive domination by another people, or to overthrow an already-existing domination. A war is unjust, on the other hand, when a people try to impose domination on another people, or try to retain an already existing coercive rule over them." This article is based on the talk given by the late Murray N. Rothbard at the Mises Institute’s Costs of War conference in Atlanta, May 1994. It was published in the book of the same name. The audio file of this talk can be found at mises.org: 
+
+Jonathan Riley-Smith writes,
+
+The consensus among Christians on the use of violence has changed radically since the crusades were fought. The just war theory prevailing for most of the last two centuries — that violence is an evil which can in certain situations be condoned as the lesser of evils — is relatively young. Although it has inherited some elements (the criteria of legitimate authority, just cause, right intention) from the older war theory that first evolved around A.D. 400, it has rejected two premises that underpinned all medieval just wars, including crusades: first, that violence could be employed on behalf of Christ's intentions for mankind and could even be directly authorized by him; and second, that it was a morally neutral force which drew whatever ethical coloring it had from the intentions of the perpetrators. 
+
+==Criteria of Just War theory==
+
+Just War Theory has two sets of criteria, the first establishing jus ad bellum (the right to go to war), and the second establishing jus in bello (right conduct within war). 
+
+===Jus ad bellum===
+
+;Just cause: The reason for going to war needs to be just and cannot therefore be solely for recapturing things taken or punishing people who have done wrong; innocent life must be in imminent danger and intervention must be to protect life. A contemporary view of just cause was expressed in 1993 when the US Catholic Conference said: "Force may be used only to correct a grave, public evil, i.e., aggression or massive violation of the basic human rights of whole populations."
+;Comparative justice: While there may be rights and wrongs on all sides of a conflict, to overcome the presumption against the use of force, the injustice suffered by one party must significantly outweigh that suffered by the other. Some theorists such as Brian Orend omit this term, seeing it as fertile ground for exploitation by bellicose regimes.
+;Competent authority: Only duly constituted public authorities may wage war. "A just war must be initiated by a political authority within a political system that allows distinctions of justice. Dictatorships (e.g. Hitler's Regime) or deceptive military actions (e.g. the 1968 US bombing of Cambodia) are typically considered as violations of this criterion. The importance of this condition is key. Plainly, we cannot have a genuine process of judging a just war within a system that represses the process of genuine justice. A just war must be initiated by a political authority within a political system that allows distinctions of justice". 
+;Right intention: Force may be used only in a truly just cause and solely for that purpose—correcting a suffered wrong is considered a right intention, while material gain or maintaining economies is not.
+;Probability of success: Arms may not be used in a futile cause or in a case where disproportionate measures are required to achieve success;
+;Last resort: Force may be used only after all peaceful and viable alternatives have been seriously tried and exhausted or are clearly not practical. It may be clear that the other side is using negotiations as a delaying tactic and will not make meaningful concessions.
+;Proportionality: The anticipated benefits of waging a war must be proportionate to its expected evils or harms. This principle is also known as the principle of macro-proportionality, so as to distinguish it from the jus in bello principle of proportionality.
+
+In modern terms, just war is waged in terms of self-defense, or in defense of another (with sufficient evidence).
+
+===Jus in bello===
+Once war has begun, just war theory (Jus in bello) also directs how combatants are to act or should act:
+
+;Distinction: Just war conduct should be governed by the principle of distinction. The acts of war should be directed towards enemy combatants, and not towards non-combatants caught in circumstances they did not create. The prohibited acts include bombing civilian residential areas that include no military targets, committing acts of terrorism and reprisal against civilians, and even attacking neutral targets (e.g. the Japanese bombing of Pearl Harbor). Moreover, combatants are not permitted to attack enemy combatants who have surrendered or who have been captured or who are injured and not presenting an immediate lethal threat.
+
+;Proportionality:
+
+;Military necessity: Just war conduct should be governed by the principle of minimum force. An attack or action must be intended to help in the military defeat of the enemy; it must be an attack on a military objective, and the harm caused to civilians or civilian property must be proportional and not excessive in relation to the concrete and direct military advantage anticipated. This principle is meant to limit excessive and unnecessary death and destruction.
+
+;Fair treatment of prisoners of war: Enemy combatants who surrendered or who are captured no longer pose a threat. It is therefore wrong to torture them or otherwise mistreat them.
+
+;No means malum in se: Combatants may not use weapons or other methods of warfare which are considered evil, such as mass rape, forcing enemy combatants to fight against their own side or using weapons whose effects cannot be controlled (e.g. nuclear/biological weapons).
+
+==Official positions==
+
+===World War I===
+In April 1917, two weeks after President Woodrow Wilson declared war on Germany, Cardinal James Gibbons of Baltimore, the de facto head of the U.S. Catholic church, issued a letter that all Catholics were to support the war. The Episcopal bishop of New York, William Manning said the following:
+
+==Ending a war: Jus post bellum==
+In recent years, some theorists, such as Gary Bass, Louis Iasiello and Brian Orend, have proposed a third category within Just War theory. Jus post bellum concerns justice after a war, including peace treaties, reconstruction, war crimes trials, and war reparations. Orend, for instance, proposes the following principles:
+
+;Just cause for termination:A state may terminate a war if there has been a reasonable vindication of the rights that were violated in the first place, and if the aggressor is willing to negotiate the terms of surrender. These terms of surrender include a formal apology, compensations, war crimes trials and perhaps rehabilitation. Alternatively, a state may end a war if it becomes clear that any just goals of the war cannot be reached at all or cannot be reached without using excessive force.
+;Right intention:A state must only terminate a war under the conditions agreed upon in the above criteria. Revenge is not permitted. The victor state must also be willing to apply the same level of objectivity and investigation into any war crimes its armed forces may have committed.
+;Public declaration and authority:The terms of peace must be made by a legitimate authority, and the terms must be accepted by a legitimate authority.
+;Discrimination:The victor state is to differentiate between political and military leaders, and combatants and civilians. Punitive measures are to be limited to those directly responsible for the conflict. Truth and reconciliation may sometimes be more important than punishing war crimes.
+;Proportionality:Any terms of surrender must be proportional to the rights that were initially violated. Draconian measures, absolutionist crusades and any attempt at denying the surrendered country the right to participate in the world community are not permitted.
+
+==Alternative theories==
+* Militarism – Militarism is the belief that war is not inherently bad but can be a beneficial aspect of society.
+* Realism – The core proposition of realism is a skepticism as to whether moral concepts such as justice can be applied to the conduct of international affairs. Proponents of realism believe that moral concepts should never prescribe, nor circumscribe, a state's behaviour. Instead, a state should place an emphasis on state security and self-interest. One form of realism – descriptive realism – proposes that states cannot act morally, while another form – prescriptive realism – argues that the motivating factor for a state is self-interest. Just wars that violate Just Wars principles effectively constitute a branch of realism.
+* Revolution and Civil War – Just War Theory states that a just war must have just authority. To the extent that this is interpreted as a legitimate government, this leaves little room for revolutionary war or civil war, in which an illegitimate entity may declare war for reasons that fit the remaining criteria of Just War Theory. This is less of a problem if the "just authority" is widely interpreted as "the will of the people" or similar. Article 3 of the 1949 Geneva Conventions side-steps this issue by stating that if one of the parties to a civil war is a High Contracting Party (in practice, the state recognised by the international community,) both Parties to the conflict are bound "as a minimum, the following provisions". Article 4 of the Third Geneva Convention also makes clear that the treatment of prisoners of war is binding on both parties even when captured soldiers have an "allegiance to a government or an authority not recognized by the Detaining Power".
+* Nonviolent struggle – The "just war" criterion of "last resort" requires believers to look for alternative means of conflict. The methods of nonviolent action permit the waging of political struggle without resort to violence. Historical evidence and political theory can be examined to determine whether nonviolent struggle can be expected to be effective in future conflicts. If nonviolent action is determined effective, then the requirements for "just war" are not met. Sharp, Gene, "Beyond just war and pacifism: nonviolent struggle toward justice, freedom and peace" Ecumenical Review, April, 1996. 
+* Absolutism – Absolutism holds that there are various ethical rules that are absolute. Breaking such moral rules is never legitimate and therefore is always unjustifiable.
+
+* Pacifism – Pacifism is the belief that war of any kind is morally unacceptable and/or pragmatically not worth the cost. Pacifists extend humanitarian concern not just to enemy civilians but also to combatants, especially conscripts. For example, Ben Salmon believed all war to be unjust. He was sentenced to death during World War I (later commuted to 25 years hard labor) for desertion and spreading propaganda. 
+* Right of self-defence – The theory of self-defence based on rational self-interest maintains that the use of retaliatory force is justified against repressive nations that break the non-aggression principle. In addition, if a free country is itself subject to foreign aggression, it is morally imperative for that nation to defend itself and its citizens by whatever means necessary. Thus, any means to achieve a swift and complete victory over the enemy is imperative. This view is prominently held by Objectivists. "'Just War Theory'" vs. American Self-Defence, by Yaron Brook and Alex Epstein 
+* Consequentialism – The moral theory most frequently summarized in the words "the end justifies the means", which tends to support the just war theory (unless the just war causes less beneficial means to become necessary, which further requires worst actions for self-defense with bad consequences).
+
+==List of just war theorists==
+
+* Cicero (106 BC–43 BC)
+* Ambrose (337/340–397)
+* St. Augustine of Hippo (354–430)
+* Gratian (Christian) (12th century)
+* St. Thomas Aquinas (1225–1274)
+* Stanislaw of Skarbimierz (1360–1431)
+* Francisco de Vitoria (1492–1546)
+* Francisco Suarez (1548–1617)
+* Alberico Gentili (1552–1608)
+* Hugo Grotius (1583–1645)
+* Samuel Pufendorf (1632–1694)
+* John Locke (1632–1704)
+* Emerich de Vattel (1714–1767)
+* John Stuart Mill (1806–1873)
+* Paul Tillich (1886–1965)
+* George Barry O'Toole (1886–1944)
+* Reinhold Niebuhr (1892–1971)
+* H. Richard Niebuhr (1894–1962)
+* Paul Ramsey (1913–1988)
+* John Rawls (1921–2002)
+* Murray Rothbard (1926–1995)
+* Michael Quinlan (1930–2009)
+* Michael Novak (1933–)
+* Michael Walzer (1935–)
+* Ron Paul (1935–)
+* Robert L. Holmes (193?–)
+* Edwin Frederick O'Brien (1939–)
+* Jean Bethke Elshtain (1941–2013)
+* Oliver O'Donovan (1945–)
+* Louis Iasiello (1950–)
+* George Weigel (1951–)
+* Jeff McMahan (1954–)
+* Brian Orend (1970–)
+
+==See also==
+* Perpetual war
+* Use of force by states
+
+==References==
+
+==Further reading==
+* Benson, Richard. "The Just War Theory: A Traditional Catholic Moral View", The Tidings (2006). Showing the Catholic view in three points, including John Paul II's position concerning war.
+* Blattberg, Charles. Taking War Seriously. A critique of just war theory.
+* Brough, Michael W., John W. Lango, Harry van der Linden, eds., Rethinking the Just War Tradition (Albany, NY: SUNY Press, 2007). Discusses the contemporary relevance of just war theory. Offers an annotated bibliography of current writings on just war theory.
+* 
+* De Paulo, Craig J. N. Augustinian Just War Theory and the Wars in Afghanistan and Iraq: Confessions, Contentions and the Lust for Power (Peter Lang, 2001) The most current and comprehensive breakdown of Augustine's influence on just war theory and an analysis the controversy among contemporary Roman Catholic thinkers.
+* Evans, Mark (editor) Just War Theory: A Reappraisal (Edinburgh University Press, 2005)
+* Fotion, Nicholas. War and Ethics (London, New York: Continuum, 2007). ISBN 0-8264-9260-6. A defence of an updated form of just war theory.
+* Heindel, Max. The Rosicrucian Philosophy in Questions and Answers - Volume II (The Philosophy of War, World War I reference, ed. 1918), ISBN 0-911274-90-1 (Describing a philosophy of war and just war concepts from a Rosicrucian point of view)
+* Khawaja, Irfan. Review of Larry May, War Crimes and Just War, in Democratiya 10, (), an extended critique of just war theory.
+* MacDonald, David Roberts. Padre E. C. Crosse and 'the Devonshire Epitaph': The Astonishing Story of One Man at the Battle of the Somme (with Antecedents to Today's 'Just War' Dialogue), 2007 Cloverdale Books, South Bend. ISBN 978-1-929569-45-8
+* Nájera, Luna. ""Myth and Prophecy in Juan Ginés de Sepúlveda’s Crusading "Exhortación", in Bulletin for Spanish and Portuguese Historical Studies, 35:1 (2011). Discusses Sepúlveda's theories of war in relation to the war against the Ottoman Turks.
+* O'Donovan, Oliver. The Just War Revisited (Cambridge: Cambridge University Press, 2003).
+* Ramsey, Paul. The Just War (New York: Scribners, 1969).
+* Steinhoff, Uwe. On the Ethics of War and Terrorism (Oxford, Oxford University Press, 2007). Covers the basics and some of the most controversial current debates.
+* v. Starck, Christian (Ed.). Kann es heute noch gerechte Kriege geben? (Göttingen: Wallstein-Verlag, 2008). ISBN 9783835302617
+* Walzer, Michael. , 4th ed. (New York: Basic Books, 1977). ISBN 0-465-03707-0
+* Walzer, Michael. Arguing about War, (London: Yale University Press, 2004). ISBN 978-0-300-10978-8
+
+==External links==
+
+* 
+* Just War Theory Oregon State University
+* Text of Cicero's Just War Theory in De Officiis
+* Catholic Teaching Concerning Just War at Catholicism.org
+* A Catholic Petition based on the Just War Doctrine
+* Jeff McMahon, Rethinking the 'Just War,' Part 1, New York Times
+* American Solidarity Party — New 3rd Party which applies Just War Theory in foreign policy
+
+

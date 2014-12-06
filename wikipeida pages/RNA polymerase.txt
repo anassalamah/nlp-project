@@ -1,0 +1,118 @@
+[[RNA polymerase]]
+
+RNA polymerase (RNAP or RNApol), also known as DNA-dependent RNA polymerase, is an enzyme that produces primary transcript RNA. In cells, RNAP is necessary for constructing RNA chains using DNA genes as templates, a process called transcription. RNA polymerase enzymes are essential to life and are found in all organisms and many viruses. In chemical terms, RNAP is a nucleotidyl transferase that polymerizes ribonucleotides at the 3' end of an RNA transcript.
+
+==History==
+RNAP was discovered independently by Charles Loe, Audrey Stevens, and Jerard Hurwitz in 1960. By this time, one half of the 1959 Nobel Prize in Medicine had been awarded to Severo Ochoa for the discovery of what was believed to be RNAP, Nobel Prize 1959 but instead turned out to be polynucleotide phosphorylase.
+
+The 2006 Nobel Prize in Chemistry was awarded to Roger D. Kornberg for creating detailed molecular images of RNA polymerase during various stages of the transcription process. Nobel Prize in Chemistry 2006 
+
+==Control of transcription==
+An electron-micrograph of DNA strands decorated by hundreds of RNAP molecules too small to be resolved. Each RNAP is transcribing an RNA strand, which can be seen branching off from the DNA. "Begin" indicates the 3' end of the DNA, where RNAP initiates transcription; "End" indicates the 5' end, where the longer RNA molecules are completely transcribed.
+
+Control of the process of gene transcription affects patterns of gene expression and, thereby, allows a cell to adapt to a changing environment, perform specialized roles within an organism, and maintain basic metabolic processes necessary for survival. Therefore, it is hardly surprising that the activity of RNAP is both long and complex and highly regulated. In Escherichia coli bacteria, more than 100 transcription factors have been identified, which modify the activity of RNAP. 
+
+RNAP can initiate transcription at specific DNA sequences known as promoters. It then produces an RNA chain, which is complementary to the template DNA strand. The process of adding nucleotides to the RNA strand is known as elongation; in eukaryotes, RNAP can build chains as long as 2.4 million nucleotides (the full length of the dystrophin gene). RNAP will preferentially release its RNA transcript at specific DNA sequences encoded at the end of genes, which are known as terminators.
+
+Products of RNAP include:
+*Messenger RNA (mRNA)&mdash;template for the synthesis of proteins by ribosomes.
+*Non-coding RNA or "RNA genes"&mdash;a broad class of genes that encode RNA that is not translated into protein. The most prominent examples of RNA genes are transfer RNA (tRNA) and ribosomal RNA (rRNA), both of which are involved in the process of translation. However, since the late 1990s, many new RNA genes have been found, and thus RNA genes may play a much more significant role than previously thought.
+**Transfer RNA (tRNA)&mdash;transfers specific amino acids to growing polypeptide chains at the ribosomal site of protein synthesis during translation
+**Ribosomal RNA (rRNA)&mdash;a component of ribosomes
+**Micro RNA&mdash;regulates gene activity
+**Catalytic RNA (Ribozyme)&mdash;enzymatically active RNA molecules
+
+RNAP accomplishes de novo synthesis. It is able to do this because specific interactions with the initiating nucleotide hold RNAP rigidly in place, facilitating chemical attack on the incoming nucleotide. Such specific interactions explain why RNAP prefers to start transcripts with ATP (followed by GTP, UTP, and then CTP). In contrast to DNA polymerase, RNAP includes helicase activity, therefore no separate enzyme is needed to unwind DNA.
+
+==RNA polymerase action==
+RNA polymerase binding in bacteria involves the sigma factor recognizing core promoter region containing the promoter -35 and -10 elements and, at some promoters, also the α subunit C-terminal domain recognizing promoter upstream elements. There are multiple interchangeable sigma factors, each of which recognizes a distinct set of promoters. For example, in E. coli, σ70 is expressed under normal conditions and recognizes promoters for genes required under normal conditions ("house-keeping genes"), while σ32 recognizes promoters for genes required at high temperatures ("heat-shock genes").
+
+After binding to the DNA, the RNA polymerase switches from a closed complex to an open complex. This change involves the separation of the DNA strands to form an unwound section of DNA of approximately 13 bp, referred to as the transcription bubble. Ribonucleotides are base-paired to the template DNA strand, according to Watson-Crick base-pairing interactions. Supercoiling plays an important part in polymerase activity because of the unwinding and rewinding of DNA. Because regions of DNA in front of RNAP are unwound, there is compensatory positive supercoils. Regions behind RNAP are rewound and negative supercoils are present.
+
+As noted above, RNA polymerase makes contacts with the promoter region. However these stabilizing contacts inhibit the enzyme's ability to access DNA further downstream and thus the synthesis of the full-length product. Once the open complex is stabilized, RNA polymerase synthesizes an RNA strand to establish a DNA-RNA heteroduplex (~8-9 bp) at the active center, which stabilizes the elongation complex. In order to accomplish RNA synthesis, RNA polymerase must maintain promoter contacts while unwinding more downstream DNA for synthesis, "scrunching" more downstream DNA into the initiation complex. During the promoter escape transition, RNA polymerase is considered a "stressed intermediate." Thermodynamically the stress accumulates from the DNA-unwinding and DNA-compaction activities. Once the DNA-RNA heteroduplex is long enough, RNA polymerase releases its upstream contacts and effectively achieves the promoter escape transition into the elongation phase. However, promoter escape is not the only outcome. RNA polymerase can also relieve the stress by releasing its downstream contacts, arresting transcription. The paused transcribing complex has two options: (1) release the nascent transcript and begin anew at the promoter or (2) reestablish a new 3'OH on the nascent transcript at the active site via RNA polymerase's catalytic activity and recommence DNA scrunching to achieve promoter escape. Scientists have coined the term "abortive initiation" to explain the unproductive cycling of RNA polymerase before the promoter escape transition. The extent of abortive initiation depends on the presence of transcription factors and the strength of the promoter contacts.
+
+RNAP from T. aquaticus pictured during elongation. Portions of the enzyme were made transparent so as to make the path of RNA and DNA more clear. The magnesium ion (yellow) is located at the enzyme active site.
+
+===Elongation===
+Transcription elongation involves the further addition of ribonucleotides and the change of the open complex to the transcriptional complex. RNAP cannot start forming full length transcripts because of its strong binding to the promoter. Transcription at this stage primarily results in short RNA fragments of around 9 bp in a process known as abortive transcription. Once the RNAP starts forming longer transcripts it clears the promoter. At this point, the contacts with the -10 and -35 elements are disrupted, and the σ factor falls off RNAP. This allows the rest of the RNAP complex to move forward, as the σ factor held the RNAP complex in place.
+
+The 17-bp transcriptional complex has an 8-bp DNA-RNA hybrid, that is, 8 base-pairs involve the RNA transcript bound to the DNA template strand. As transcription progresses, ribonucleotides are added to the 3' end of the RNA transcript and the RNAP complex moves along the DNA. Although RNAP does not seem to have the 3'exonuclease activity that characterizes the proofreading activity found in DNA polymerase, there is evidence of that RNAP will halt at mismatched base-pairs and correct it.
+
+Aspartyl (asp) residues in the RNAP will hold onto Mg2+ ions, which will, in turn, coordinate the phosphates of the ribonucleotides. The first Mg2+ will hold onto the α-phosphate of the NTP to be added. This allows the nucleophilic attack of the 3'OH from the RNA transcript, adding an additional NTP to the chain. The second Mg2+ will hold onto the pyrophosphate of the NTP. The overall reaction equation is:
+
+(NMP)n + NTP (NMP)n+1 + PPi
+
+===Termination===
+
+In prokaryotes, termination of RNA transcription can be rho-independent or rho-dependent:
+
+Rho-independent transcription termination is the termination of transcription without the aid of the rho protein. Transcription of a palindromic region of DNA causes the formation of a "hairpin" structure from the RNA transcription looping and binding upon itself. This hairpin structure is often rich in G-C base-pairs, making it more stable than the DNA-RNA hybrid itself. As a result, the 8 bp DNA-RNA hybrid in the transcription complex shifts to a 4 bp hybrid. These last 4 base pairs are weak A-U base pairs, and the entire RNA transcript will fall off the DNA.
+
+==RNA polymerase in bacteria==
+In bacteria, the same enzyme catalyzes the synthesis of mRNA and ncRNA.
+
+RNAP is a large molecule. The core enzyme has five subunits (~400 kDa): 
+*β': The β' subunit is the largest subunit. The β' subunit contains part of the active center responsible for RNA synthesis and contains some of the determinants for non-sequence-specific interactions with DNA and nascent RNA.
+*β: The β subunit is the second-largest subunit. The β subunit contains the rest of the active center responsible for RNA synthesis and contains the rest of the determinants for non-sequence-specific interactions with DNA and nascent RNA.
+*αI and αII: The α subunit is the third-largest subunit and is present in two copies per molecule of RNAP, αI and αII. Each α subunit contains two domains: αNTD (N-Terminal domain) and αCTD (C-terminal domain). αNTD contains determinants for assembly of RNAP. αCTD (C-terminal domain) contains determinants for interaction with promoter DNA, making non-sequence-non-specific interactions at most promoters and sequence-specific interactions at upstream-element-containing promoters, and contains determinants for interactions with regulatory factors.
+*ω: The ω subunit is the smallest subunit. The ω subunit facilitates assembly of RNAP and stabilizes assembled RNAP.
+
+In order to bind promoters, RNAP core associates with the transcription initiation factor sigma (σ) to form RNA polymerase holoenzyme. Sigma reduces the affinity of RNAP for nonspecific DNA while increasing specificity for promoters, allowing transcription to initiate at correct sites. The complete holoenzyme therefore has 6 subunits: β'βαI and αIIωσ (~450 kDa).
+
+==RNA polymerase in eukaryotes==
+Structure of eukaryotic RNA polymerase II (light blue) in complex with α-amanitin (red), a strong poison found in death cap mushrooms that targets this vital enzyme
+Eukaryotes have multiple types of nuclear RNAP, each responsible for synthesis of a distinct subset of RNA. All are structurally and mechanistically related to each other and to bacterial RNAP:
+*RNA polymerase I synthesizes a pre-rRNA 45S (35S in yeast), which matures into 28S, 18S and 5.8S rRNAs which will form the major RNA sections of the ribosome. 
+*RNA polymerase II synthesizes precursors of mRNAs and most snRNA and microRNAs. This is the most studied type, and, due to the high level of control required over transcription, a range of transcription factors are required for its binding to promoters.
+*RNA polymerase III synthesizes tRNAs, rRNA 5S and other small RNAs found in the nucleus and cytosol. 
+*RNA polymerase IV synthesizes siRNA in plants. 
+*RNA polymerase V synthesizes RNAs involved in siRNA-directed heterochromatin formation in plants. 
+
+Eukaryotic chloroplasts contain an RNAP very highly structurally and mechanistically similar to bacterial RNAP ("plastid-encoded polymerase").
+
+Eukaryotic chloroplasts also contain a second, structurally and mechanistically unrelated, RNAP ("nucleus-encoded polymerase"; member of the "single-subunit RNAP" protein family).
+
+Eukaryotic mitochondria contain a structurally and mechanistically unrelated RNAP (member of the "single-subunit RNAP" protein family).
+
+Given that DNA and RNA polymerases both carry out template-dependent nucleotide polymerization, it might be expected that the two types of enzymes would be structurally related. However, x-ray crystallographic studies of both types of enzymes reveal that, other than containing a critical Mg2+ ion at the catalytic site, they are virtually unrelated to each other; indeed template-dependent nucleotide polymerizing enzymes seem to have arisen independently twice during the early evolution of cells. One lineage led to the modern DNA Polymerases and reverse transcriptases, as well as to a few single-subunit RNA polymerases from viruses. The other lineage formed all of the modern cellular RNA polymerases.
+
+==RNA polymerase in archaea==
+Archaea have a single type of RNAP, responsible for the synthesis of all RNA. Archaeal RNAP is structurally and mechanistically similar to bacterial RNAP and eukaryotic nuclear RNAP I-V, and is especially closely structurally and mechanistically related to eukaryotic nuclear RNAP II. Korkhin, Y., U. Unligil, O. Littlefield, P. Nelson, D. Stuart, P. Sigler, S. Bell and N. Abrescia (2009). "Evolution of Complex RNA Polymerases: The Complete Archaeal RNA Polymerase Structure." PLoS biology 7(5): e102. Werner, F. (2007). "Structure and function of archaeal RNA polymerases." Molecular microbiology 65(6): 1395-1404. 
+The history of the discovery of the archaeal RNA polymerase is quite recent. The first analysis of the RNAP of an archaeon was performed in 1971, when the RNAP from the extreme halophile Halobacterium cutirubrum was isolated and purified. Louis, B. G. and P. S. Fitt (1971). "Nucleic acid enzymology of extremely halophilic bacteria. Halobacterium cutirubrum deoxyribonucleic acid-dependent ribonucleic acid polymerase." The Biochemical journal 121(4): 621-627. Crystal structures of RNAPs from Sulfolobus solfataricus and Sulfolobus shibatae set the total number of identified archaeal subunits at thirteen. Korkhin, Y., U. Unligil, O. Littlefield, P. Nelson, D. Stuart, P. Sigler, S. Bell and N. Abrescia (2009). "Evolution of Complex RNA Polymerases: The Complete Archaeal RNA Polymerase Structure." PLoS biology 7(5): e102. Hirata, A., B. Klein and K. Murakami (2008). "The X-ray crystal structure of RNA polymerase from Archaea." Nature 451(7180): 851-854. 
+
+==RNA polymerase in viruses==
+pol.jpg|thumb|T7 RNA polymerase producing a mRNA (green) from a DNA template. The protein is shown as a purple ribbon. Image derived from [http://www.rcsb.org/pdb/explore/explore.do?structureId=1MSW PDB 1MSW.]]
+Orthopoxviruses synthesize RNA using a virally encoded RNAP that is structurally and mechanistically related to bacterial RNAP, archaeal RNAP, and eukaryotic nuclear RNAP I-V. 
+Most other viruses that synthesize RNA using a virally encoded RNAP use an RNAP that is not structurally and mechanistically related to bacterial RNAP, archaeal RNAP, and eukaryotic nuclear RNAP I-V. 
+Many viruses use a single-subunit DNA-dependent RNAP that is structurally and mechanistically related to the single-subunit RNAP of eukaryotic chloroplasts and mitochondria and, more distantly, to DNA polymerases and reverse transcriptases. Perhaps the most widely studied such single-subunit RNAP is bacteriophage T7 RNA polymerase.
+Other viruses use a RNA-dependent RNAP (an RNAP that employs RNA as a template instead of DNA). This occurs in negative strand RNA viruses and dsRNA viruses, both of which exist for a portion of their life cycle as double-stranded RNA. However, some positive strand RNA viruses, such as poliovirus, also contain RNA-dependent RNAP. Paul Ahlquist (2002) RNA-Dependent RNA Polymerases, Viruses, and RNA Silencing. Science 296 1270-1273 
+
+==RNA polymerase purification==
+RNA polymerase can be isolated in the following ways:
+*By a phosphocellulose column. 
+*By glycerol gradient centrifugation. 
+*By a DNA column.
+*By an Ion exchange column. 
+
+And also combinations of the above techniques.
+
+==See also==
+*Alpha-amanitin
+*DNA polymerase
+*RNA polymerase I
+*RNA polymerase II
+*RNA polymerase III
+*T7 RNA polymerase
+*Transcription (genetics)
+
+==References==
+
+==External links==
+
+*DNAi - DNA Interactive, including information and Flash clips on RNA Polymerase.
+* 
+* 
+* RNA Polymerase - Synthesis RNA from DNA Template
+*3D macromolecular structures of RNA Polymerase from the EM Data Bank(EMDB)
+
+

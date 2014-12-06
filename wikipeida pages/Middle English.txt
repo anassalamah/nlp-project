@@ -1,0 +1,181 @@
+[[Middle English]]
+
+Middle English (ME) describes dialects of English in the history of the English language between the High and Late Middle Ages, or roughly during the three centuries between the late 12th and the late 15th century.
+
+Middle English developed out of Late Old English in Norman England (1066–1154) and was spoken throughout the Plantagenet era (1154–1485). The Middle English period ended about 1470, when the Chancery Standard, a form of London-based English, began to become widespread, a process aided by the introduction of the printing press to England by William Caxton in the late 1470s. By that time the variant of the Northumbrian dialect (prevalent in Northern England) spoken in southeast Scotland was developing into the Scots language.
+The language of England as used after 1470 and up to 1650 is known as Early Modern English.
+
+Unlike Old English, which tended largely to adopt Late West Saxon scribal conventions in the period immediately before the Norman conquest of England, written Middle English displays a wide variety of scribal (and presumably dialectal) forms. This diversity suggests the gradual end of the role of Wessex as a focal point and trend-setter for writers and scribes, the emergence of more distinct local scribal styles and written dialects, and a general pattern of transition of activity over the centuries that followed, as Northumbria, East Anglia, and London successively emerged as major centres of English literature, each with their own particular interests.
+
+Middle English literature of the 12th and 13th centuries is comparatively rare, as written communication was usually in Anglo-Norman or in Medieval Latin. Middle English became much more important as a literary language during the 14th century, with poets such as Chaucer, Langland, John Gower, and the Pearl Poet. There was also an interest in writing in vernacular during the Lollard movement, with religious theologians and dissenters John Wycliffe and John Purvey writing for the cause. Since the printing press was not in use in England before the 1470s, no original Middle English works are available in print; Chaucer's Canterbury Tales (Middle English: Tales of Caunterbury) was first printed in 1478. No Bibles were ever printed in Middle English; Wycliffe's Bibles of 1382 to 1395 were copied by scribes and are therefore manuscripts. It is popularly believed that William Shakespeare wrote in Middle English, Mabillard, Amanda. "Are Shakespeare's works written in Old English?." Shakespeare Online. Accessed February 19, 2014. but he actually wrote in Early Modern English.
+
+==History==
+Important texts for the reconstruction of the evolution of Middle English out of Old English are the Ormulum (12th century), the Ancrene Wisse and the Katherine Group (early 13th century, see AB language) and Ayenbite of Inwyt (ca. 1340). , p. 280 
+
+The second half of the 11th century was the transitional period from Late Old English to Early Middle English.
+Early Middle English was the language of the 12th and 13th centuries.
+Middle English was fully developed as a literary language by the second half of the 14th century. Late Middle English and the transition to Early Modern English took place from the early 15th century and is taken to have been complete by the beginning of the Tudor period in 1485.
+
+===Transition from Old English===
+
+;Norman in the Kingdom of England
+The Norman conquest of England in 1066 resulted in only limited culture shock. However, the conquest saw the replacement of top levels of English-speaking political and ecclesiastical hierarchies by the Norman-speaking rulers who used Latin for administrative purposes. Thus Norman came into use as a language of polite discourse and literature, and this fundamentally altered the role of Old English in education and administration, even though many Normans of the early period were illiterate and depended on the clergy for written communication and record-keeping. Even now, after nearly a thousand years, the Norman influence on the English language is still apparent, though it did not begin to affect Middle English until somewhat later.
+
+Consider these pairs of Modern English words. The first of each pair is derived from Old English and the second is of Anglo-Norman origin: pig/ pork, chicken/ poultry, calf/ veal, cow/ beef, wood/ forest, sheep/ mutton, house/ mansion, worthy/ valuable, bold/ courageous, freedom/ liberty. Scott, Walter. Ivanhoe; chapter 1 
+
+The role of Anglo-Norman as the language of government and law can be seen in the abundance of Modern English words for the mechanisms of government that derive from Anglo-Norman: court, judge, jury, appeal, parliament. Also prevalent in Modern English are terms relating to the chivalric cultures that arose in the 12th century, an era of feudalism and crusading. Early on, this vocabulary of refined behaviour began to work its way into English, imports of the Normans who made their mark on the English language as much as on the territory of England itself.
+
+This period of trilingual activity developed much of the flexible triplicate synonymy of modern English. For instance, English has three words meaning roughly "of or relating to a king":
+* kingly from Old English,
+* royal from French and
+* regal from Latin.
+
+Likewise, Norman – and, later, French – influences led to some interesting word pairs in English, such as the following, which both mean "someone who defends":
+* Warden from Norman, and
+* Guardian from French (Both "warden" and "guardian" are derived from Germanic.)
+
+;Old and Middle English
+The end of Anglo-Saxon rule did not of course change the language immediately. Although the most senior offices in the church were filled by Normans, Old English continued in use in chronicles such as the Peterborough Chronicle until the middle of the 12th century. The non-literate would have spoken the same dialects as before the Conquest, though these changed slowly until written records of them became available for study, which varies in different regions. Once the writing of Old English comes to an end, Middle English has no standard language, only dialects that derive from the dialects of the same regions in the Anglo-Saxon period.
+
+===Early Middle English===
+Early Middle English (1100–1300) has a largely Anglo-Saxon vocabulary (with many Norse borrowings in the northern parts of the country), but a greatly simplified inflectional system. The grammatical relations that were expressed in Old English by the dative and locative cases are replaced in Early Middle English with prepositional constructions. This replacement is, however, incomplete: the Old English genitive "-es" survives in the modern Saxon genitive—it is now called the "possessive": e.g., the form "dog's" for the longer "of the dog". But most of the other case endings disappeared in the Early Middle English period, including most of the roughly one dozen forms of the definite article ("the"). The dual grammatical number (expressing exactly two of a thing) also disappeared from English during the Early Middle English period (apart from personal pronouns), further simplifying the language.
+
+Deeper changes occurred in the grammar. Gradually, the wealthy and the government Anglicised again, although Norman (and subsequently French) remained the dominant language of literature and law until the 14th century, even after the loss of the majority of the continental possessions of the English monarchy. The new English language did not sound the same as the old; for, as well as undergoing changes in vocabulary, the complex system of inflected endings Old English had, was gradually lost or simplified in the dialects of spoken Middle English. This change was gradually reflected in its increasingly diverse written forms as well. The loss of case endings was part of a general trend from inflections to fixed word order that also occurred in other Germanic languages, and therefore cannot be attributed simply to the influence of French-speaking sections of the population: English did, after all, remain the language of the vast majority. It is also argued McWhorter, Our Magnificent Bastard Tongue, 2008, pp. 89–136. that Norse immigrants to England had a great impact on the loss of inflectional endings in Middle English. One argument is that, although Norse- and English-speakers were somewhat comprehensible to each other, the Norse-speakers' inability to reproduce the ending sounds of English words influenced Middle English's loss of inflectional endings. Another argument is that the morphological simplifications were caused by Romano-Britons who were bilingual in Old English and either Brittonic (which lacks noun case) or British Latin (which may have lacked noun case, like most modern Romance languages).
+
+===Late Middle English===
+
+The Late Middle English period was a time of upheaval in England.
+After the deposition of Richard II of England in 1399, the House of Plantagenet split into the House of Lancaster and the House of York, whose antagonism culminated in the Wars of the Roses (1455–1487). Stability came only gradually with the Tudor dynasty under Henry VII.
+
+During this period of social change, with new rulers coming into positions of power, some of them from other parts of the country or from lower levels in society, many linguistic changes occurred..
+Towards the end of the 15th century a more modern English began to emerge. Printing began in England in the 1470s, which helped stabilise the language. With a standardized, printed English Bible and Prayer Book being read to church congregations from the 1540s onward, a wider public became familiar with a uniform language, and the era of Modern English began.
+
+====Chancery Standard====
+
+Chancery Standard was largely based on the London and East Midland dialects, since those areas were both political and demographic centres of English society. However, it used other dialect forms where they made meanings clearer; for example, the northern "they", "their" and "them" (derived from Scandinavian forms) were used rather than the London "hi/they", "hir" and "hem." This was perhaps because the London forms could be confused with words such as he, her, and him. (However, the colloquial form written as "'em", as in "up and at 'em", may well represent a spoken survival of "hem" rather than a shortening of the Norse-derived "them".)
+
+The clerks who used Chancery Standard would have been familiar with French and Latin, which must have influenced the forms they chose. Chancery Standard was not the only influence on later forms of English—its level of influence is disputed and a variety of spoken dialects continued to exist—but it provided a core around which Early Modern English could crystallise.
+
+By the mid-15th century, Chancery Standard was used for most official purposes except by the Church, which still used Latin, and for some legal purposes, for which Law French and some Latin were used. It was disseminated around England by bureaucrats on official business and slowly gained prestige.
+
+In the late 1490s and early 1500s, the early printer Richard Pynson favoured Chancery Standard in his published works, and consequently pushed the English spelling further towards standardisation.
+
+==Grammar==
+With its simplified case-ending system, the grammar of Middle English is much closer to that of modern English than that of Old English. Compared with other Germanic languages, it is probably the most similar to that of modern West Frisian, one of English's closest relatives.
+
+===Nouns===
+Middle English retains only two distinct noun-ending patterns from the more complex system of inflection in Old English. The early Modern English words engel (angel) and name (name) demonstrate the two patterns:
+
+ strong weak 
+ singular plural singular plural 
+ nom/acc engel engles name namen 
+ gen engles engle namen namen(e) 
+ dat engle engle(n) namen namen 
+
+Some nouns of the engel type have an -e in the nominative/accusative singular, like the weak declension, but otherwise strong endings. Often these are the same nouns that had an -e in the nominative/accusative singular of Old English. (These in turn inherited from Proto-Germanic ja-stem and i-stem nouns.)
+
+The strong -(e)s plural form has survived into Modern English. The weak -(e)n form is now rare in the standard language, used only in oxen, children, brethren; and it is slightly less rare in some dialects, used in eyen for eyes, shoon for shoes, hosen for hose(s), kine for cows, and been for bees.
+
+===Verbs===
+As a general rule (and all these rules are general), the indicative first person singular of verbs in the present tense ends in -e ("ich here" — "I hear"), the second person in -(e)st ("þou spekest" — "thou speakest"), and the third person in -eþ ("he comeþ" — "he cometh/he comes"). (þ (the letter ‘thorn’) is pronounced like the unvoiced th in "think").
+
+Plural forms vary strongly by dialect, with southern dialects preserving the Old English -eþ, Midland dialects showing -en from about 1200 onward and northern forms using -es in the third person singular as well as the plural. 
+
+The past tense of weak verbs is formed by adding an -ed(e), -d(e) or -t(e) ending. The past-tense forms, without their personal endings, also serve as past participles, together with past-participle prefixes derived from Old English: i-, y- and sometimes bi-.
+
+Strong verbs, by contrast, form their past tense by changing their stem vowel (binden → bound), as in Modern English.
+
+===Pronouns===
+After the Conquest, English retained Old English pronouns, with the exception of the third person plural, a borrowing from Old Norse (the original Old English form clashed with the third person singular and was eventually dropped):
+
+Here are the Old English pronouns.
+
+The first and second person pronouns in Old English survived into Middle English largely unchanged, with only minor spelling variations. In the third person, the masculine accusative singular became 'him'. The feminine form was replaced by a form of the demonstrative that developed into 'sche', but unsteadily—'heyr' remained in some areas for a long time. The lack of a strong standard written form between the 13th and the 15th centuries makes these changes hard to map.
+
+The overall trend was the gradual reduction in the number of different case endings. The accusative case disappeared, but the six other cases were partly retained in personal pronouns, as in he, him, his.
+
+==Orthography==
+
+===Pronunciation===
+
+Generally, all letters in Middle English words were pronounced. (Silent letters in Modern English generally come from pronunciation shifts, which means that pronunciation is no longer closely reflected by the written form because of fixed spelling constraints imposed by the invention of dictionaries and printing.) Therefore 'knight' was pronounced (with a pronounced and the as the in German 'Knecht'), not as in Modern English.
+
+In earlier Middle English all written vowels were pronounced. By Chaucer's time, however, the final had become silent in normal speech, but could optionally be pronounced in verse as the meter required (but was normally silent when the next word began with a vowel). Chaucer followed these conventions: -e is silent in 'kowthe' and 'Thanne', but is pronounced in 'straunge', 'ferne', 'ende', etc. (Presumably, the final is partly or completely dropped in 'Caunterbury', so as to make the meter flow.)
+
+An additional rule in speech, and often in poetry as well, was that a non-final unstressed was dropped when adjacent to only a single consonant on either side if there was another short 'e' in an adjoining syllable. Thus, 'every' sounds like "evry" and 'palmeres' like "palmers".
+
+Toward latter part of Middle English, the Great Vowel Shift was changing the pronunciation of most long vowels from a Continental sound to a distinctly English sound. While Middle English was essentially written and spelled the way it sounded, the Great Vowel Shift caused many words to be pronounced differently from the Middle English spellings.
+
+===Archaic characters===
+The following characters can be found in Middle English text, direct holdovers from the Old English Latin alphabet.
+
+ letter name pronunciation comments 
+ Æ æ Ash Ash may still be used as a variant of the digraph in many English words of Greek or Latin origin; and may be found in brand names or loan words. 
+ Ð ð Eth , Eth fell out of use during the 13th century and was replaced by thorn. 
+ Ȝ ȝ Yogh , , or Yogh lingered in some Scottish names as , as in McKenzie with a z pronounced . Yogh became indistinguishable from cursive z in Middle Scots and printers tended to use when yogh was not available in their fonts. 
+ Þ þ Thorn , Thorn mostly fell out of use during the 14th century, and was replaced by th by 1400. Anachronistic usage of the scribal abbreviation has led to the modern mispronunciation of the letter 10px (þ) as . Merriam-Webster Online Dictionary, ye[2] retrieved February 1, 2009 
+ Ƿ ƿ Wynn (the group represents ) Wynn represented the Germanic phoneme, which had no correspondence in Vulgar Latin phonology (where classical had become ). It mostly fell out of use, being replaced by , during the 13th century. Due to its similarity to the letter , it was mostly represented by in modern editions of Old and Middle English texts even when the manuscript has wynn. 
+
+===Other glyphs===
+The English language was in flux due to the influence from other languages.
+
+The letter J, for example, was a foreign glyph used for multiple purposes. The letter originated as a simple typographical swash or variation on the letter i, and so it is often identical to it in sound. (For example, the word "wife" is often spelled wijf and "paradise" is paradijs in Middle English.) Illiterate, native speakers of Middle English would have known of no difference between instances of i and j. Sometimes, the written j was to be pronounced like a modern y rather than a homophone of jay. Many Hebrew names and words translated into English (via the Latin Vulgate, the Greek Septuagint, or the Greek New Testament) used the letter J for the Hebrew Yodh, which has a sound similar to y (as in Hallelujah). The yodh was commonly transliterated as the Greek letter iota (&#617;), which looks and sounds a lot like the Middle English i, although the yodh is really a voiced palatal approximant. Middle English words include Jerusalem, Juda, Jordan, Joseph, Joon, all of which are spelled similar in Modern English, however, the pronunciation would have followed the centuries-old Latin pronunciation, which used the voiced palatal approximant, similar to the y sound for each J (e.g. Yer-oo-sa-lem).
+
+There were certain foreign words, notably from Old French, that used the letter j for a different sound. The word joie (modern "joy"), derived from Old French and used in Wycliffe's Bible, was pronounced with a ; "J", Oxford English Dictionary, 2nd edition (1989) "J" and "jay", Merriam-Webster's Third New International Dictionary of the English Language, Unabridged (1993) sound. The j from French sounded like the Old English sound, which was spelled cȝ. As Middle English turned into Modern English, both j and dg would be used to represent these sounds as the ȝ glyph lost favour.
+
+Just as Latin used both the U and the V for both the vowel "u" and the consonant "v," Middle English continued this diversity in writing. The letter "v" appeared at the beginning of a word whether it was the vowel or consonant, like vpon for "upon" and vois for "voice." The letter "u" served for either sound in the middle of a word, like euentid for "eventide" and þou for "thou."
+
+Because Middle English was written primarily by scribes, clergymen, and educated laymen, many scribal abbreviations from Latin were used. Abbreviations were used for frequently used words and names. It was common for the Lollards to abbreviate the name of Jesus (as in Latin manuscripts) to ihc. The letters n and m were often omitted by placing a mark above an adjacent letter, so the word in was written as the letter i with a horizontal mark above it, like ī. The word þt supplanted "that" due to space concerns. Various forms of the ampersand replaced the word "and."
+
+Arabic numerals were not used in Middle English, so all notation was in Roman numerals.
+
+==Sample texts==
+
+(all modern English translations are poetic translations, not word for word.)
+
+===Ormulum, 12th century===
+
+This passage explains the background to the Nativity:
+:
+ Forrþrihht anan se time comm þatt ure Drihhtin wolldeben borenn i þiss middellærd forr all mannkinne nedehe chæs himm sone kinnessmenn all swillke summ he wolldeand whær he wollde borenn ben he chæs all att hiss wille. As soon as the time camethat our Lord wantedbe born in this middle-earthfor all mankind sake,at once he chose kinsmen for himself,all just as he wanted,and he decided that he would be bornexactly where he wished. (3494–501) Internet Archive: Volume 1; Volume 2. 
+
+===Epitaph of John the smyth, died 1371===
+
+An epitaph from a monumental brass in an Oxfordshire parish church: 
+:
+ Original textman com & se how schal alle ded li: wen yolk comes bad & baremoth have ben ve awaẏ fare: All ẏs wermēs yt ve for care:—bot yt ve do for god ẏs luf ve haue nothyng yare:yis graue lẏs John ye smẏth god yif his soule hewn grit Translation by Patricia Utechin Man, come and see how all dead men shall lie: when that comes bad and bare,we have nothing when we away fare: all that we care for is worms:—except for that which we do for God's sake, we have nothing ready:under this grave lies John the smith, God give his soul heavenly peace 
+
+===Wycliffe's Bible, 1384===
+From the Wycliffe's Bible, (1384):
+First version
+
+Second version
+
+===Chaucer, 1390s===
+The following is the beginning of the general Prologue from The Canterbury Tales by Geoffrey Chaucer. The text was written in a dialect associated with London and spellings associated with the then-emergent Chancery Standard.
+
+ :Original in Middle English: :Whan that Aprill, with his shoures soote :The droghte of March hath perced to the roote :And bathed every veyne in swich licour, :Of which vertu engendred is the flour; :Whan Zephirus eek with his sweete breeth :Inspired hath in every holt and heeth :The tendre croppes, and the yonge sonne :Hath in the Ram his halfe cours yronne, :And smale foweles maken melodye, :That slepen al the nyght with open ye :(So priketh hem Nature in hir corages); :Thanne longen folk to goon on pilgrimages :And palmeres for to seken straunge strondes :To ferne halwes, kowthe in sondry londes; :And specially from every shires ende :Of Engelond, to Caunterbury they wende, :The hooly blisful martir for to seke :That hem hath holpen, whan that they were seeke. :Translation into Modern English: (by Coghill) :When in April the sweet showers fall :And pierce the drought of March to the root, and all :The veins are bathed in liquor of such power :As brings about the engendering of the flower, :When also Zephyrus with his sweet breath :Exhales an air in every grove and heath :Upon the tender shoots, and the young sun :His half course in the sign of the Ram has run :And the small fowl are making melody :That sleep away the night with open eye, :(So nature pricks them and their heart engages) :Then folk long to go on pilgrimages, :And palmers long to seek the stranger strands :Of far off saints, hallowed in sundry lands, :And specially from every shires’ end :Of England, down to Canterbury they wend :The holy blissful martyr, quick :To give his help to them when they were sick 
+
+===Gower, 1390===
+The following is the beginning of the Prologue from Confessio Amantis by John Gower.
+
+ :Original in Middle English: :Of hem that writen ous tofore :The bokes duelle, and we therfore :Ben tawht of that was write tho: :Forthi good is that we also :In oure tyme among ous hiere :Do wryte of newe som matiere, :Essampled of these olde wyse :So that it myhte in such a wyse, :Whan we ben dede and elleswhere, :Beleve to the worldes eere :In tyme comende after this. :Bot for men sein, and soth it is, :That who that al of wisdom writ :It dulleth ofte a mannes wit :To him that schal it aldai rede, :For thilke cause, if that ye rede, :I wolde go the middel weie :And wryte a bok betwen the tweie, :Somwhat of lust, somewhat of lore, :That of the lasse or of the more :Som man mai lyke of that I wryte: :Translation into Modern English: (by Richard Brodie) :Of those who wrote before our lives :Their precious legacy survives; :From what was written then, we learn, :And so it’s well that we in turn, :In our allotted time on earth :Do write anew some things of worth, :Like those we from these sages cite, :So that such in like manner might, :When we have left this mortal sphere, :Remain for all the world to hear :In ages following our own. :But it is so that men are prone :To say that when one only reads :Of wisdom all day long, one breeds :A paucity of wit, and so :If you agree I’ll choose to go :Along a kind of middle ground :Sometimes I’ll write of things profound, :And sometimes for amusement’s sake :A lighter path of pleasure take :So all can something pleasing find. 
+
+==See also==
+*Medulla Grammatice (collection of glossaries)
+*Middle English creole hypothesis
+*Middle English Dictionary
+*Middle English literature
+
+==References==
+
+*Brunner, Karl (1962) Abriss der mittelenglischen Grammatik; 5. Auflage. Tübingen: M. Niemeyer (1st ed. Halle (Saale): M. Niemeyer, 1938)
+*Brunner, Karl (1963) An Outline of Middle English Grammar; translated by Grahame Johnston. Oxford: Blackwell
+
+==External links==
+
+*A. L. Mayhew and Walter William Skeat. A Concise Dictionary of Middle English from A.D. 1150 to 1580
+*Middle English Glossary
+* With grammatical introduction, notes, and glossary.
+
+ 

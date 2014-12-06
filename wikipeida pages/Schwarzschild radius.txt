@@ -1,0 +1,139 @@
+[[Schwarzschild radius]]
+
+The Schwarzschild radius (sometimes historically referred to as the gravitational radius) is the radius of a sphere such that, if all the mass of an object is compressed within that sphere, the escape speed from the surface of the sphere would equal the speed of light. An example of an object smaller than its Schwarzschild radius is a black hole. Once a stellar remnant collapses below this radius, light cannot escape and the object is no longer directly visible. Chaisson, Eric, and S. McMillan. Astronomy Today. San Francisco, CA: Pearson / Addison Wesley, 2008. Print. It is a characteristic radius associated with every quantity of mass. The Schwarzschild radius was named after the German astronomer Karl Schwarzschild who calculated this exact solution for the theory of general relativity in 1916.
+
+==History==
+In 1916, Karl Schwarzschild obtained an exact solution K. Schwarzschild, "Über das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie", Sitzungsberichte der Deutschen Akademie der Wissenschaften zu Berlin, Klasse fur Mathematik, Physik, und Technik (1916) pp 189. K. Schwarzschild, "Über das Gravitationsfeld einer Kugel aus inkompressibler Flussigkeit nach der Einsteinschen Theorie", Sitzungsberichte der Deutschen Akademie der Wissenschaften zu Berlin, Klasse fur Mathematik, Physik, und Technik (1916) pp 424. to Einstein's field equations for the gravitational field outside a non-rotating, spherically symmetric body (see Schwarzschild metric). Using the definition , the solution contained a term of the form ; where the value of making this term singular has come to be known as the Schwarzschild radius. The physical significance of this singularity, and whether this singularity could ever occur in nature, was debated for many decades; a general acceptance of the possibility of a black hole did not occur until the second half of the 20th century.
+
+==Parameters==
+The Schwarzschild radius of an object is proportional to the mass. Accordingly, the Sun has a Schwarzschild radius of approximately 3.0 km while the Earth's is only about 9.0 mm, the size of a peanut. The observable universe's mass has a Schwarzschild radius of approximately 10 billion light years.
+
+ (m) (g/cm3) 
+ Universe 4.46 (~4.7 Gly) 8 (9.9 WMAP- Content of the Universe ) 
+ Milky Way 2.08 (~0.2 ly) 3.72 
+ Sun 2.95 1.84 
+ Earth 8.87 2.04 
+
+An object whose radius is smaller than its Schwarzschild radius is called a black hole. The surface at the Schwarzschild radius acts as an event horizon in a non-rotating body (a rotating black hole operates slightly differently). Neither light nor particles can escape through this surface from the region inside, hence the name "black hole". The Schwarzschild radius of the supermassive black hole at our Galactic Center would be approximately 13.3 million kilometres. http://www.thetimes.co.uk/tto/news/world/article1967154.ece 
+
+==Formula==
+The Schwarzschild radius is proportional to the mass with a proportionality constant involving the gravitational constant and the speed of light:
+
+: 
+where:
+: is the Schwarzschild radius;
+: is the gravitational constant;
+: is the mass of the object;
+: is the speed of light in vacuum.
+
+The proportionality constant, 2G/c2, is approximately , or .
+
+An object of any density can be large enough to fall within its own Schwarzschild radius,
+: 
+where:
+: is the volume of the object;
+
+: is its density.
+
+==Classification by Schwarzschild radius==
+
+===Supermassive black hole===
+
+Assuming constant density, the Schwarzschild radius of a body is proportional to its mass, but the radius is proportional to the cube root of the volume and hence the mass. Therefore, as one accumulates matter at normal density (103 kg/m3, for example, the density of water), its Schwarzschild radius increases more quickly than its radius. At around 136 million (1.36 × 108) times the mass of the Sun, such an accumulation will fall inside its own Schwarzschild radius and thus it would be a supermassive black hole of 136 million solar masses. (Supermassive black holes up to 21 billion (2.1 × 1010) solar masses have been observed, such as NGC 4889.) The supermassive black hole at the center of our galaxy (4.5 ± 0.4 million solar masses) constitutes observationally the most convincing evidence for the existence of black holes in general.
+
+It is thought that large black holes like these don't form directly in one collapse of a cluster of stars.
+Instead they may start as a stellar-sized black hole and grow larger by the accretion of matter and other black holes. An empirical correlation between the size of supermassive black holes and the stellar velocity
+dispersion of a galaxy bulge is called the M-sigma relation.
+
+===Stellar black hole===
+
+If one accumulates matter at nuclear density (the density of the nucleus of an atom, about 1018 kg/m3; neutron stars also reach this density), such an accumulation would fall within its own Schwarzschild radius at about 3 solar masses and thus would be a stellar black hole.
+
+===Primordial black hole===
+
+Conversely, a small mass has an extremely small Schwarzschild radius. A mass similar to Mount Everest has a Schwarzschild radius smaller than a nanometre. Its average density at that size would be so high that no known mechanism could form such extremely compact objects. Such black holes might possibly be formed in an early stage of the evolution of the universe, just after the Big Bang, when densities were extremely high. Therefore these hypothetical miniature black holes are called primordial black holes.
+
+== Other uses for the Schwarzschild radius ==
+
+=== In gravitational time dilation ===
+
+Gravitational time dilation near a large, slowly rotating, nearly spherical body, such as the earth or sun can be reasonably approximated using the Schwarzschild radius as follows:
+
+:
+
+where:
+: is the elapsed time for an observer at radial coordinate "r" within the gravitational field;
+: is the elapsed time for an observer distant from the massive object (and therefore outside of the gravitational field);
+: is the radial coordinate of the observer (which is analogous to the classical distance from the center of the object);
+: is the Schwarzschild radius.
+
+The results of the Pound–Rebka experiment in 1959 were found to be consistent with predictions made by general relativity. By measuring Earth’s gravitational time dilation, this experiment indirectly measured Earth’s Schwarzschild radius.
+
+=== In Newtonian gravitational fields ===
+The Newtonian gravitational field near a large, slowly rotating, nearly spherical body can be reasonably approximated using the Schwarzschild radius as follows:
+
+: 
+where:
+
+: is the gravitational acceleration at radial coordinate "r";
+: is the Schwarzschild radius of the gravitating central body;
+: is the radial coordinate;
+: is the speed of light in vacuum.
+
+On the surface of the Earth:
+
+: 
+
+=== In Keplerian orbits ===
+For all circular orbits around a given central body:
+
+: 
+where:
+: is the orbit radius;
+: is the Schwarzschild radius of the gravitating central body;
+: is the orbital speed;
+: is the speed of light in vacuum.
+
+This equality can be generalized to elliptic orbits as follows:
+
+: 
+where:
+: is the semi-major axis;
+: is the orbital period.
+
+For the Earth orbiting the Sun:
+
+: 
+
+=== Relativistic circular orbits and the photon sphere ===
+The Keplerian equation for circular orbits can be generalized to the relativistic equation for circular orbits by accounting for time dilation in the velocity term:
+
+: 
+
+: 
+
+: 
+
+This final equation indicates that an object orbiting at the speed of light would have an orbital radius of 1.5 times the Schwarzschild radius. This is a special orbit known as the photon sphere.
+
+==See also==
+*Black hole, a general survey
+*Chandrasekhar limit, a second requirement for black hole formation
+*John Michell
+Classification of black holes by type:
+*Schwarzschild or static black hole
+*Rotating or Kerr black hole
+*Charged black hole or Newman black hole and Kerr-Newman black hole
+A classification of black holes by mass:
+*Micro black hole and extra-dimensional black hole
+*Primordial black hole, a hypothetical leftover of the Big Bang
+*Stellar black hole, which could either be a static black hole or a rotating black hole
+*Supermassive black hole, which could also either be a static black hole or a rotating black hole
+*Visible universe, if its density is the critical density
+
+==References==
+
+==External links==
+*Applet of the Schwarzschild radius.
+
+

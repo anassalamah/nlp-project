@@ -1,0 +1,173 @@
+[[Arthashastra]]
+
+The Arthashastra (IAST: Arthaśāstra) is an ancient Indian treatise on statecraft, economic policy and military strategy, written in Sanskrit. It identifies its author by the names 'Kauṭilya' and 'Vishnugupta' (), Mabbett 1964Trautmann 1971:5 "the very last verse of the work...is the unique instance of the personal name rather than the gotra name in the Arthaśāstra. both names that are traditionally identified with Chanakya () (c. 350–283 BC), Mabbett 1964 "References to the work in other Sanskrit literature attribute it variously to , and . The same individual is meant in each case. The Pańcatantra explicitly identifies Chanakya with ." who was a scholar at Takshashila and the teacher and guardian of Emperor Chandragupta Maurya, founder of the Mauryan Empire. The text was influential until the 12th century, when it disappeared. It was rediscovered in 1904 by R. Shamasastry, who published it in 1909. The first English translation was published in 1915. 
+
+Roger Boesche describes the Arthaśāstra as "a book of political realism, a book analysing how the political world does work and not very often stating how it ought to work, a book that frequently discloses to a king what calculating and sometimes brutal measures he must carry out to preserve the state and the common good." 
+
+Centrally, Arthaśāstra argues how in an autocracy an efficient and solid economy can be managed. It discusses the ethics of economics and the duties and obligations of a king. Sen, R.K. and Basu, R.L. 2006. Economics in Arthasastra. New Delhi: Deep & Deep Publications. The scope of Arthaśāstra is, however, far wider than statecraft, and it offers an outline of the entire legal and bureaucratic framework for administering a kingdom, with a wealth of descriptive cultural detail on topics such as mineralogy, mining and metals, agriculture, animal husbandry, medicine and the use of wildlife. Tisdell, C. 2005. Elephants and polity in ancient India as exemplified by Kautilya's Arthasastra (Science of Polity). Working papers in Economics, Ecology and the Environment, No. 120. School of Economics, University of Queensland: Brisbane, Queensland. The Arthaśāstra also focuses on issues of welfare (for instance, redistribution of wealth during a famine) and the collective ethics that hold a society together.
+
+==Date and authorship==
+The author of the Arthashastra refers to himself as 'Kautilya', while the last verse mentions the name 'Vishnugupta'. Many scholars believe that the former was the gotra of the author, while the latter was his personal name. Most scholars, though not all, also believe that these names refer to the 4th century BC scholar Chanakya (). Thus, the original identification of Kautilya or Vishnugupta with the Mauryan minister Chanakya would date the Arthaśāstra to the 4th century BCE. Mabbett 1964 
+
+Some scholars believe that Arthasastra was written at a later stage. Their arguments include the assertion that the state described in Arthasastra is smaller than the Maurya empire, and there is no reference to either the empire or its capital Pataliputra. In addition, some of the geographical place names, the reference to the Hunas and the use of the Greek loan words suggest a later date. Thomas R. Trautmann and I.W. Mabbett have hypothesized that the Arthaśāstra is a composition from no earlier than the 2nd century AD, but is clearly based on earlier material. Their explanation is that while the doctrines of the Arthaśāstra may have been written by Chanakya in the 4th century BC, the treatise we know today may have been edited or condensed by another author in the 2nd century AD. Trautmann 1971:185 "If the Kautilīya Arthaśāstra in its present form is not so old as it pretends, the śāstra itself is certainly old, predating the dharma smritis."Mabbett 1964 "The content of the text is consistent with authorship in about the third century, C.E., and raises some questions which must be answered if it is to be assigned to the fourth B.C.E. Against this must be set the verses naming and characterising Kautilya, and the references in later literature. What emerges is that there is no necessary incompatibility between the essential claims that Chanakya was responsible for the doctrines of the Arthaśāstra, and that the text we know is a product of the later time. These do not conflict. The work could have been written late on the basis of earlier teachings and writings. Sanskrit literature being so full of derivative, traditional and stratified material, this possibility is a priori strong. Those who favour the early date usually admit the probability of interpolations....Those who favour a later date usually admit the probability that the work draws on traditional material. The controversy is therefore spurious. It is entirely possible that the wrote an arthaśāstra and that a later editor rewrote his work, or compressed it, or compiled a text from the teachings of his school." This would explain some affinities with smrtis and references in the Arthaśāstra which would be anachronistic for the 4th century BC. Trautmann 1971:"The Ages of the Arthaśāstra", 167–187.Mabbett 1964 Trautmann believes that the Arthashastra is actually a compilation of a number of earlier texts written by various authors, and Chanakya might have been one of these authors. 
+
+K.C. Ojha has put forward the view attributing the doctrines of the Arthaśāstra to Kautilya or Chanakya and suggests that Vishnugupta is in fact a redactor of the original work. Thomas Burrow goes even further and says that Chanakya and Kautilya are actually two different people. Trautmann 1971:67 'T. Burrow ("Chānakya and Kautalya", Annals of the Bhandarkar Oriental Research Institute 48–49 1968, p. 17 ff.) has now shown that Chanakya is also a gotra name, which in conjunction with other evidence makes it clear that we are dealing with two distinct persons, the minister of legend and Kautilya the compiler of the Arthaśāstra. Furthermore, this throws the balance of evidence in favor of the view that the second name was originally spelt Kautalya and that after the compiler of the Arth. came to be identified with the Mauryan minister it was altered to Kautilya (as it appears in Āryaśūra, Viśākhadatta and Bāna) for the sake of the pun. We may then assume that the later spelling subsequently replaced the earlier in the gotra lists and elsewhere.' However, some doubt about Burrow's assertion is due to the end of the treatise, which says: "This Sástra has been made by him who from intolerance (of misrule) quickly rescued the scriptures and the science of weapons and the earth which had passed to the Nanda king." This supports the more commonly held belief that Kautilya and Chanakya are the same person, given Chanakya's role as mentor to Chandragupta Maurya.
+
+More recently, Mital Mital, S. N. (2000), Kautilya Arthashastra Revisited (New Delhi: PHISPC). concluded that the methods used by Trautmann were inadequate to prove his claims, and therefore "there exists no direct evidence against Kautilya being the sole author of The Arthashastra, nor evidence that it was not written during the 4th century BCE.". Sihag, Balbir S. "Kautilya on the Scope and Methodology of Accounting, Organizational Design and the Role of Ethics in Ancient India". The Accounting Historians Journal. Mital goes on to rebut Trautmann's reliance on the affinity with the smrtis.
+
+Noted Indian scholars such as Dr RC Majumdar, Dr DR Bhandarkar, Dr KP Jayaswal and Dr AS Altekar place the date of the Arthshastra between 7th century BC to 2nd century BC. Dr RK Mookerji, Prof FW Thomas and Vincent Arthur Smith all agree with the 4th century BC as the time of the book's composition. HC Raychoudhuri puts 249BC as the lower limit and 100AD as the upper limit of composition of the text of the Arthshastra in its present form and postulates that the original text dates from an earlier period. Sir RG Bhandarkar dated the composition of the current treatise to around 1st or 2nd century AD. This view is also held by some Western scholars but scholars such as DR RC Majumdar and Vincent Arthur Smith have rejected the date of Arthshastra as late as 2nd century AD and cite evidence that supports the composition of the Arthshastra in 4th century BC. DD Kosambi, noted historian and Indologist, maintains that the book is a 4th BC century creation by Chanakya or Kautilya who was Prime Minister of Chandragupta Maurya. Prof Romilla Thapar believes that the book is a geniune text dating from Mauryan India (4th century BC) but given its final touch by an editor in 3rd century AD. She supports the view of Trautmann that portions were composed by Kautilya, but various sections were composed or edited later and the treatise was given its present day form in 3rd century AD. Trautmann notes that some portions of the treatise were probably composed by Kautilya, who was the Prime Minister of Chandragupta, but that other parts were added later on. He dates the composition of Book 2 of the Arthaśāstra to 150CE and the whole treatise in its present form by 250CE. 
+
+In summary, most scholars put the composition of the Arthaśāstra to between 4th century BC and 2nd century AD.
+
+==Translation of the title==
+Different scholars have translated the word "arthaśāstra" in different ways.
+*R.P. Kangle – "science of politics," a treatise to help a king in "the acquisition and protection of the earth." 
+*A.L. Basham – a "treatise on polity" Boesche 2003 
+*D.D. Kosambi – "science of material gain" 
+*G.P. Singh – "science of polity" 
+*Roger Boesche – "science of political economy" 
+Artha (prosperity) is one of the four aims of human life in Hinduism, the others being dharma (law, religious duty), kama (pleasure) and moksha (spiritual liberation). Śāstra is the Sanskrit word for "rules" or "science".
+
+==Comparison to Machiavelli==
+Because of its harsh political pragmatism, the Arthashastra has often been compared to Machiavelli's The Prince.
+
+Max Weber observed 
+
+However, these aspects form just one of the 15 books that comprise the 'Arthaśāstra'. The scope of the work is far broader than popular perceptions indicate, and in the treatise can also be found compassion for the poor, for servants and slaves, and for women. For instance, Kautilya advocates what is now known as land reform, and elsewhere ensures the protection of the chastity of female servants or prisoners. Significant portions of the book also cover the role of dharma, welfare of a kingdom's subjects and alleviating hardship in times of disaster, such as famine.
+
+==Books of Arthashastra==
+Arthashastra is divided into 15 books:
+
+# Concerning Discipline
+# The Duties of Government Superintendents
+# Concerning Law
+# The Removal of Thorns
+# The Conduct of Courtiers
+# The Source of Sovereign States
+# The End of the Six-Fold Policy
+# Concerning Vices and Calamities
+# The Work of an Invader
+# Relating to War
+# The Conduct of Corporations
+# Concerning a Powerful Enemy
+# Strategic Means to Capture a Fortress
+# Secret Means
+# The Plan of a Treatise
+
+==The Rajarshi==
+Arthashastra deals in detail with the qualities and disciplines required for a Rajarshi – a wise and virtuous king.
+
+:"In the happiness of his subjects lies the king's happiness, in their welfare his welfare. He shall not consider as good only that which pleases him but treat as beneficial to him whatever pleases his subjects" – Kautilya.
+
+According to Kautilya, a Rajarshi is one who: 
+*Has self-control, having conquered the inimical temptations of the senses;
+*Cultivates the intellect by association with elders;
+*Keeps his eyes open through spies;
+*Is ever active in promoting the security and welfare of the people;
+*Ensures the observance (by the people) of their dharma by authority and example;
+*Improves his own discipline by (continuing his) learning in all branches of knowledge; and
+*Endears himself to his people by enriching them and doing good to them.
+
+Such a disciplined king should: – 
+*Keep away from another's wife;
+*Not covet another's property;
+*Practice ahimsa (non-violence towards all living things);
+*Avoid day dreaming, capriciousness, falsehood and extravagance; and
+*Avoid association with harmful persons and indulging in (harmful) activities.
+
+Kautilya says that artha (Sound Economies) is the most important; dharma and karma are both dependent on it. A Rajarshi shall always respect those councillors and purohitas who warn him of the dangers of transgressing the limits of good conduct, reminding him sharply (as with a goad) of the times prescribed for various duties and caution him even when he errs in private.
+
+===Duties of the king===
+If the king is energetic, his subjects will be equally energetic. If he is lax (and lazy in performing his duties), the subjects will also be lax and thereby eat into his wealth. Besides, a lazy king will easily fall into the hands of enemies. Hence the Rajarshi should himself always be energetic. He shall divide the day and the night, each into eight periods of one and half hours, and perform his duties as follows:
+
+ First 1½ hrs. after sunrise Receive reports on defence, revenue, expenditure 
+ Second 1½ hrs. after sunrise Public audiences, to hear petitions of city and country people 
+ Third 1½ hrs. after sunrise and last 1½ hrs. before noon Receive revenues and tributes; appoint ministers and other high officials and allot tasks to them 
+ First 1½ hrs. after noon Write letters and dispatches, confer with councillors, receive secret information from spies 
+ Second 1½ hrs. after noon Personal: recreation, time for contemplation 
+ Third 1½ hrs. after noon and Last 1½ hrs. before sunset Inspect and review forces; Consult with Chief of Defence 
+
+The day shall end with evening prayers.
+
+ First 1½ hrs. after sunset Interview with secret agents 
+ Second 1½ hrs. after sunset Personal: bath, meals, study 
+ Third and fourth 1½ hrs. after sunset and First 1½ hrs. after midnight Retire to the bed chamber to the sound of music, sleep 
+ Second 1½ hrs. after midnight After waking to the sound of music, meditate on political matters and on work to be done 
+ Third 1½ hrs. after midnight Consult with councilors, send out spies 
+ Last 1½ hrs. before sunrise Religious, household and personal duties, meetings with his teacher, adviser on rituals, purohitas, personal physician, chief cooks and astrologer 
+
+Or some other time table which suits the king.
+
+Hence the king shall be ever active in the management of the economy. The root of wealth is (economic) activity and lack of it (brings) material distress. In the absence of (fruitful economic) activity, both current prosperity and future growth will be destroyed. A king can achieve the desired objectives and abundance of riches by undertaking (productive) economic activity.
+
+An ideal king is one who has the highest qualities of leadership, intellect, energy and personal attributes.
+
+The qualities of leadership (which attracts followers) are: birth in a noble family, good fortune, intellect and prowess, association with elders, being righteous, truthful, resolute, enthusiastic and disciplined, not breaking his promises, showing gratitude (to those who help him), having lofty aims, not being dilatory, being stronger than neighbouring kings and having ministers of high quality.
+
+The qualities of intellect are: desire to learn, listening (to others), grasping, retaining, understanding thoroughly and reflecting on knowledge, rejecting false views and adhering to the true ones. 
+An energetic king is one who is valorous, determined, quick, and dexterous. 
+As regards personal attributes, an ideal king should be eloquent, bold and endowed with sharp intellect, a strong memory and a keen mind. He should be amenable to guidance. He should be well trained in all the arts and be able to lead the army. He should be just in rewarding and punishing. He should have the foresight to avail himself of the opportunities (by choosing) the right time, place and type of action. He should know how to govern in normal times and in times of crisis. He should know when to fight and when to make peace, when to lie in wait, when to observe treaties and when to strike at an enemy's weakness. He should preserve his dignity at all times and not laugh in an undignified manner. He should be sweet in speech, look straight at people and avoid frowning. He should eschew passion, anger, greed, obstinacy, fickleness and backbiting. He should conduct himself in accordance with advice of elders.
+
+===Internal strife===
+Kautilya says – Quarrels among people can be resolved by winning over the leaders or by removing the cause of the quarrel – people fighting among themselves help the king by their mutual rivalry. Conflicts (for power) within the royal family, on the other hand, bring about harassment and destruction to the people and double the exertion that is required to end such conflicts. 
+Hence internal strife in the royal family for power is more damaging than quarrels among their subjects. The king must be well versed in discretion and shrewd in judgement.
+
+===Comments on vices===
+Vices are corruptions due to ignorance and indiscipline; an unlearned man does not perceive the injurious consequences of his vices. He summarizes: subject to the qualification that gambling is most dangerous in cases where power is shared, the vice with the most serious consequence is addiction to drink, followed by, lusting after women, gambling, and lastly hunting.
+
+===Training of a future king===
+Importance of self-discipline
+Discipline is of two kinds – inborn and acquired. (There must be an innate capacity for self-discipline for the reasons given below). Instruction and training can promote discipline only in a person capable of benefiting from them, people incapable of (natural) self-discipline do not benefit. Learning imparts discipline only to those who have the following mental facilities – obedience to a teacher, desire and ability to learn, capacity to retain what is learnt, understanding what is learnt, reflecting on it and (finally) ability to make inferences by deliberating on the knowledge acquired. Those who are devoid of such mental faculties are not benefited (by any amount of training) One who will be a king should acquire discipline and follow it strictly in life by learning the sciences from authoritative teachers.
+
+The training of a prince
+With improving his self-discipline, he should always associate with learned elders, for in them alone has discipline its firm roots. For a trained intellect ensues yoga (successful application), from yoga comes self-possession. This is what is meant by efficiency in acquiring knowledge. Only a king, who is wise, disciplined, devoted to a just governing of the subjects and conscious of the welfare of all beings, will enjoy the earth unopposed.
+
+===Seven ways to greet a neighbour===
+Kautilya recommended seven strategies in dealing with neighboring powers to Chandragupta Maurya. 
+
+The strategies are:
+#Sanman – Appeasement, non-aggression pact
+#Dana – Gift, bribery
+#Danda – Strength, punishment
+#Bheda – Divide, split, separating opposition
+#Maya – Illusion, deceit
+#Upeksha – Ignoring the enemy
+#Indrajala – Faking military strength 
+
+==Maintenance of law and order==
+A conducive atmosphere is necessary for the state's economy to thrive. This requires that a state's law and order be maintained. Arthashastra specifies fines and punishments to support strict enforcement of laws. The science of law enforcement is also called Dandaniti.
+
+==Wildlife and forests==
+The Mauryas firstly looked at forests as a resource. For them, the most important forest product was the elephant. Military might in those times depended not only upon horses and men but also battle-elephants; these played a role in the defeat of Seleucus Nicator, Alexander's governor of the Punjab. The Mauryas sought to preserve supplies of elephants since it was more cost and time-effective to catch, tame and train wild elephants than raise them. Kautilya's Arthashastra unambiguously specifies the responsibilities of officials such as the Protector of the Elephant Forests: Rangarajan, M. (2001) India's Wildlife History, pp 7. 
+
+The Kauthilayas Arthashastra also reveals that the Mauryas designated specific forests to protect supplies of timber, as well as lions and tigers, for skins. Elsewhere the Protector of Animals also worked to eliminate thieves, tigers and other predators to render the woods safe for grazing cattle.
+
+==Economic ideas==
+An exhaustive account of the economic ideas embedded in the Arthashastra has been given by Ratan Lal Basu Ratan Lal Basu and Raj Kumar Sen, Ancient Indian Economic Thought, Relevance for Today, ISBN 81-316-0125-0, Rawat Publications, New Delhi, 2008 and by many renowned Arthasastra-experts in an Edited Volume by Sen and Basu Raj Kumar Sen and Ratan Lal Basu (eds): Economics in Arthasastra, ISBN 81-7629-819-0, Deep& Deep Publications Pvt. Ltd., New Delhi, 2006. This book contains papers presented by authors from all over the world for the International Conference held in 2009 at the Oriental Research Institute, Mysore, India to celebrate the centenary of the publication of the manuscript of the Arthashastra by R. Shamasastry. 
+
+==Recognition==
+
+In October 2012, about two thousand years after its composition, India's National Security Advisor Shiv Shankar Menon praised Arthashastra for its clear and precise rules which apply even today. Furthermore, he recommended reading of the book for broadening the vision on strategic issues. 
+
+==See also==
+*Constitutional economics
+*Political economy
+*Rajamandala
+*Rta
+
+==References==
+
+===Notes===
+
+===Bibliography===
+
+*Kautilya Arthashastra, R. P. Kangle, tr. 3 vols. Laurier Books, Motilal, New Delhi (1997) ISBN 81-208-0042-7
+*Kautilya: The Arthashastra. L.N. Rangarajan (Ed., Rearranger and Translator), 1992, Penguin Classics, India. ISBN 0-14-044603-6.
+*'Ajnapatra' by Ramchandra Pant Amatya
+* 
+
+==External links==
+* (English translation)
+*Arthashastra (English) at archive.org
+
+

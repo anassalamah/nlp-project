@@ -1,0 +1,26 @@
+[[Barkhausen effect]]
+
+Magnetization (J) or flux density (B) curve as a function of magnetic field intensity (H) in ferromagnetic material. The inset shows Barkhausen jumps. 
+Domain wall motion with a Barkhausen jump
+The Barkhausen effect is a name given to the noise in the magnetic output of a ferromagnet when the magnetizing force applied to it is changed. Discovered by German physicist Heinrich Barkhausen in 1919, it is caused by rapid changes of size of magnetic domains (similarly magnetically oriented atoms in ferromagnetic materials).
+
+Barkhausen's work in acoustics and magnetism led to the discovery, which provided evidence that magnetization affects whole domains of a ferromagnetic material, rather than individual atoms alone. The Barkhausen effect is a series of sudden changes in the size and orientation of ferromagnetic domains, or microscopic clusters of aligned atomic magnets (spins), that occurs during a continuous process of magnetization or demagnetization. The Barkhausen effect offered direct evidence for the existence of ferromagnetic domains, which previously had been postulated theoretically. Heinrich Barkhausen discovered that a slow, smooth increase of a magnetic field applied to a piece of ferromagnetic material, such as iron, causes it to become magnetized, not continuously but in minute steps.
+
+==Barkhausen noise==
+A coil of wire wound on the ferromagnetic material can demonstrate the sudden, discontinuous jumps in magnetization. The sudden transitions in the magnetization of the material produce current pulses in the coil. These can be amplified to produce a series of clicks in a loudspeaker. This sounds as crackle, complete with skewed pulses which sounds like candy being unwrapped, Rice Krispies, or a pine log fire. Hence the name Barkhausen noise. Similar effects can be observed by applying only mechanical stresses (e.g. bending) to the material placed in the detecting coil. 
+
+These magnetization jumps are interpreted as discrete changes in the size or rotation of ferromagnetic domains. Some microscopic clusters of atomic spins aligned with the external magnetizing field increase in size by a sudden reversal of neighbouring spins; and, especially as the magnetizing field becomes relatively strong, other whole domains suddenly turn into the direction of the external field. Simultaneously, due to exchange interactions the spins tend to align themselves with their neighbours. The tension between the various pulls creates avalanching, where a group of neighbouring domains will flip in quick succession to align with the external field. So the material magnetizes neither gradually nor all at once, but in fits and starts.
+
+==Practical use==
+A set-up for non-destructive testing of ferromagnetic materials: green - magnetising yoke, red - inductive sensor, grey – sample under test.
+The amount of Barkhausen noise for a given material is linked with the amount of impurities, crystal dislocations, etc. and can be a good indication of mechanical properties of such a material. Therefore, the Barkhausen noise can be used as a method of non-destructive evaluation of the degradation of mechanical properties in magnetic materials subjected to cyclic mechanical stresses (e.g. in pipeline transport) or high-energy particles (e.g. nuclear reactor) or materials such as high-strength steels which may be subjected to damage from grinding. Schematic diagram of a simple non-destructive set-up for such a purpose is shown on the right.
+
+Barkhausen noise can also indicate physical damage in a thin film structure due to various nanofabrication processes such as reactive ion etching or using an ion milling machine. 
+
+==References==
+
+==External links==
+* Barkhausen Effect Video demonstrating the effect
+* Barkhausen Noise grinding burn and heat treat defect monitoring
+
+

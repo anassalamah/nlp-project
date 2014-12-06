@@ -1,0 +1,122 @@
+[[Pineal gland]]
+
+The pineal gland, also known as the pineal body, conarium or epiphysis cerebri, is a small endocrine gland in the vertebrate brain. It produces the serotonin derivative melatonin, a hormone that affects the modulation of sleep patterns in the circadian rhythms and seasonal functions. Its shape resembles a tiny pine cone (hence its name), and it is located in the epithalamus, near the centre of the brain, between the two hemispheres, tucked in a groove where the two halves of the thalamus join.
+
+Nearly all vertebrate species possess a pineal gland. The most important exception is the hagfish, which is often thought of as the most primitive type of vertebrate. Even in the hagfish, however, there may be a "pineal equivalent" structure in the dorsal diencephalon. The lancelet Branchiostoma lanceolatum, the nearest existing relative to vertebrates, also lacks a recognizable pineal gland. The lamprey (considered almost as primitive as the hagfish), however, does possess one. A few more developed vertebrates, including the alligator, lack pineal glands because they have been lost over the course of evolution. 
+
+The gland has been compared to the photoreceptive, so-called third parietal eye present in the epithalamus of some animal species, which is also called the pineal eye. René Descartes believed the pineal gland to be the "principal seat of the soul" and viewed it as the third eye. 
+
+==Structure==
+The pineal gland is reddish-gray and about the size of a grain of rice (5–8 mm) in humans, located just rostro-dorsal to the superior colliculus and behind and beneath the stria medullaris, between the laterally positioned thalamic bodies. It is part of the epithalamus. It is located in the quadrigeminal cistern and is bathed in the cerebrospinal fluid. http://www.ajnr.org/content/19/9/1631.full.pdf A small pineal recess of the third ventricle projects into the stalk of the gland. The pineal gland is a midline structure (the geometrical center) shaped like a pine cone. 
+
+===Blood supply===
+Unlike much of the rest of the mammalian brain, the pineal gland is not isolated from the body by the blood–brain barrier system; it has profuse blood flow, second only to the kidney.
+
+===Innervation===
+The pineal gland receives a sympathetic innervation from the superior cervical ganglion. A parasympathetic innervation from the pterygopalatine and otic ganglia is also present. Further, some nerve fibers penetrate into the pineal gland via the pineal stalk (central innervation). Also, neurons in the trigeminal ganglion innervate the gland with nerve fibers containing the neuropeptide PACAP.
+
+===Histology===
+Pineal gland parenchyma with calcifications.
+Micrograph of a normal pineal gland – very high magnification.
+Micrograph of a normal pineal gland – intermediate magnification.
+The pineal body consists in humans of a lobular parenchyma of pinealocytes surrounded by connective tissue spaces. The gland's surface is covered by a pial capsule.
+
+The pineal gland consists mainly of pinealocytes, but four other cell types have been identified. As it is quite cellular (in relation to the cortex and white matter), it may be mistaken for a neoplasm. 
+
+ Cell type Description 
+ Pinealocytes The pinealocytes consist of a cell body with 4–6 processes emerging. They produce and secrete melatonin. The pinealocytes can be stained by special silver impregnation methods. Their cytoplasm is lightly basophilic. With special stains, pinealocytes exhibit lengthy, branched cytoplasmic processes that extend to the connective septa and its blood vessels. 
+ Interstitial cells Interstitial cells are located between the pinealocytes. They have elongated nuclei and a cytoplasm that is stained darker than that of the pinealocytes. 
+ Perivascular phagocyte Many capillaries are present in the gland, and perivascular phagocytes are located close to these blood vessels. The perivascular phagocytes are antigen presenting cells. 
+ pineal neurons In higher vertebrates neurons are located in the pineal gland. However, these are not present in rodents. 
+ peptidergic neuron-like cells In some species, neuronal-like peptidergic cells are present. These cells might have a paracrine regulatory function. 
+
+Human follicles contain a variable quantity of gritty material, called corpora arenacea (or "acervuli," or "brain sand"). Chemical analysis shows that they are composed of calcium phosphate, calcium carbonate, magnesium phosphate, and ammonium phosphate. In 2002, deposits of the calcite form of calcium carbonate were described. Calcium, phosphorus deposits in the pineal gland have been linked with aging.
+
+===Development===
+The human pineal gland grows in size until about 1–2 years of age, remaining stable thereafter, Lack of pineal growth during childhood. Schmidt F, Penka B, Trauner M, Reinsperger L, Ranner G, Ebner F, Waldhauser F. J Clin Endocrinol Metab. 1995 Apr;80(4):1221–5. Development of the pineal gland: measurement with MR. Sumida M, Barkovich AJ, Newton TH. AJNR Am J Neuroradiol. 1996 Feb;17(2):233–6. although its weight increases gradually from puberty onwards. Tapp E, Huxley M. The weight and degree of calcification of the pineal gland. J Pathol 1971;105:31–39 Tapp E, Huxley M. The histological appearance of the human pineal gland from puberty to old age. J Pathol 1972;108:137–144 The abundant melatonin levels in children are believed to inhibit sexual development, and pineal tumors have been linked with precocious puberty. When puberty arrives, melatonin production is reduced.
+
+==Function==
+Melatonin is N-acetyl-5-methoxy-tryptamine, a derivative of the amino acid tryptophan, which also has other functions in the central nervous system. The production of melatonin by the pineal gland is stimulated by darkness and inhibited by light. Lowrey, Phillip L., and Joseph S. Takahashi. "Genetics of the mammalian circadian system: photic entrainment, circadian pacemaker mechanisms, and posttranslational regulation." Annual review of genetics 34.1 (2000): 533-562. Photosensitive cells in the retina detect light and directly signal the suprachiasmatic nucleus (SCN), entraining its rhythm to the 24-hour cycle in nature. Fibers project from the SCN to the paraventricular nuclei (PVN), which relay the circadian signals to the spinal cord and out via the sympathetic system to superior cervical ganglia (SCG), and from there into the pineal gland.
+
+The compound pinoline is also produced in the pineal gland; it is one of the beta-carbolines. 
+
+===Drug metabolism===
+Studies on rodents suggest that the pineal gland may influence the actions of recreational drugs, such as cocaine, and antidepressants, such as fluoxetine (Prozac), and its hormone melatonin can protect against neurodegeneration. 
+
+Dr. Rick Strassman, who conducted research on the psychedelic dimethyltryptamine (DMT) in the 1990s at the University of New Mexico, has speculated that the pineal gland plays a role in the production of DMT in the human brain. Strassman has also advanced the controversial hypothesis that a release of DMT from the pineal gland occurs during REM sleep, resulting in dreaming, and prior to death, or near death, resulting in the phenomena of near-death experiences (NDE). Strassman asserts that the pineal gland is the most likely site for the biosynthesis of DMT because the biosynthesis of the structurally similar melatonin occurs there (see evidence in mammals) Strassman (p. 69 ()() ). In 2013, researchers first reported DMT in the pineal gland microdialysate of rodents. 
+
+In his book, DMT: The Spirit Molecule, Strassman also relates that the human pineal gland is not actually part of the brain. He states that the gland develops from specialized tissues in the roof of the fetal mouth, where it then migrates to the center of the brain as the brain develops further. The pineal gland is as such highly protected by the brain from any stress-related damage. 
+
+Additionally, in The Spirit Molecule, Strassman relates how the pineal gland is the only un-paired organ deep in the brain. 
+It becomes visible in the developing fetus at forty-nine days after conception. This is also the time in which one can clearly see an indication of either a female or male gender. Coincidentally, Buddhists beliefs states that the soul is reincarnated within forty-nine days as well. Strassman's most general hypothesis is that the pineal gland produces psychedelic amounts of DMT at times of neurological significance, such as when consciousness (hypothetically) enters the body, during birth, deep meditation, psychosis, and near-death experiences. 
+
+Strassman also suggests that DMT is, in a way, brain food, facilitating the mind's rendering of reality, suggesting that consciousness represents a controlled psychedelic experience, a process merely exaggerated by the addition of psychedelic drugs, rather than exclusive to it. The brain treats this chemical in a similar way in which it handles glucose. DMT is actively transported across the defense system in the brain and is just as rapidly broken down. Methylating enzymes could hypothetically facilitate the biosynthesis of DMT from tryptamine neurotransmitters and hormones such as serotonin, melatonin, and tryptamine. Because of this, the pineal gland is the most likely place for the biosynthesis of DMT, Strassman argues, however due to the body's rapid catabolism of DMT, its presence in the human pineal gland has yet to be confirmed or denied. 
+
+==Clinical significance==
+
+===Calcification===
+The pineal gland is often seen in skull X-rays, when it is calcified (in old age). 
+
+Calcification of the pineal gland is typical in adults, and has been observed in children as young as 2. Calcification rates vary widely by country and correlate with an increase in age, with calcification occurring in an estimated 40% of Americans by their 17th year. Calcification of the pineal gland is largely associated with corpora arenacea (or "acervuli," or "brain sand").
+
+It seems that the internal secretions of the pineal gland inhibit the development of the reproductive glands, because, in cases where it is severely damaged in children, the result is accelerated development of the sexual organs and the skeleton. In animals, the pineal gland appears to play a major role in sexual development, hibernation, metabolism, and seasonal breeding. Strassman 
+
+Some recent studies show that the degree of pineal gland calcification is significantly higher in patients with Alzheimer's disease vs. other types of dementia. 
+
+Pineal gland calcification may also contribute to the pathogenesis of Alzheimer's disease and may reflect an absence of crystallization inhibitors. 
+
+Calcium, phosphorus, and fluoride deposits in the pineal gland have been correlated with aging, showing that, as the brain ages, more deposits collect. 
+
+===Cancer===
+All tumors involving the pineal gland are rare; most (50% to 70%) arise from sequestered embryonic germ cells. They most commonly take the form of so-called germinomas, resembling testicular seminoma or ovarian dysegerminoma. Other lines of germ cell differentiation include embryonal carcinomas; choriocarcinomas; mixtures of germinom, embryonal carcinoma, and choriocarcinoma, and, uncommonly, typical teratomas (usually benign). Whether to characterize these germ cell neoplasms as pinealomas is still a subject of debate, but most pinealophiles favor restricting the terms pinealoma to neoplasms arising from the pineocytes.
+
+A pineal tumor can compress the superior colliculi and pretectal area of the dorsal midbrain, producing Parinaud's syndrome. Pineal tumors also can cause compression of the cerebral aqueduct, resulting in a noncommunicating hydrocephalus.
+
+These neoplasms are divided into two categories, pineoblastomas and pineocytomas, based on their level of differentiation, which, in turn, correlates with their neoplastic aggressiveness. The clinical course of patients with pineocytomas is prolonged, averaging 7 years. The manifestations are the consequence of their pressure effects and consist of visual disturbances, headache, mental deterioration, and sometimes dementia-like behaviour. The lesions being located where they are, it is understandable that successful excision is at best difficult.
+
+==Other animals==
+Pinealocytes in many non-mammalian vertebrates have a strong resemblance to the photoreceptor cells of the eye. Some evolutionary biologists believe that the vertebrate pineal cells possess a common evolutionary ancestor with retinal cells. 
+
+Pineal cytostructure seems to have evolutionary similarities to the retinal cells of chordates. Modern birds and reptiles have been found to express the phototransducing pigment melanopsin in the pineal gland. Avian pineal glands are believed to act like the SCN in mammals. 
+
+In some vertebrates, exposure to light can set off a chain reaction of enzymatic events within the pineal gland that regulate circadian rhythms. Some early vertebrate fossil skulls have a pineal foramen (opening). This correlates with the physiology of the modern "living fossils," the lampreys and the tuatara, and some other vertebrates that have a parietal eye, which, in some of them, is photosensitive. The parietal eye represents evolution's earlier approach to photoreception. The structures of the pineal eye in the tuatara are analogous to the cornea, lens, and retina, though the latter resembles that of an octopus rather than a vertebrate retina. The asymmetrical whole consists of the "eye" to the left and the pineal sac to the right. "In animals that have lost the parietal eye, including mammals, the pineal sac is retained and condensed into the form of the pineal gland." 
+
+Fossils seldom preserve soft anatomy. The brain of the Russian Melovatka bird, about 90 million years old, is an exception, and it shows a larger-than-expected parietal eye and pineal gland. 
+
+In humans and other mammals, the light signals necessary to set circadian rhythms are sent from the eye through the retinohypothalamic system to the suprachiasmatic nuclei (SCN) and the pineal gland.
+
+==Society and culture==
+René Descartes, dedicating much time to the study of the pineal gland, called it the "principal seat of the soul". Descartes and the Pineal Gland (Stanford Encyclopedia of Philosophy) He believed it to be the point of connection between the intellect and the body. Descartes R. "The Passions of the Soul" excerpted from "Philosophy of the Mind," Chalmers, D. New York: Oxford University Press, Inc.; 2002. ISBN 978-0-19-514581-6 Descartes attached significance to the gland because he believed it to be the only section of the brain to exist as a single part rather than one-half of a pair. He argued that, because a person can never have "more than one thought at a time," external stimuli must be united within the brain before being considered by the soul, and he considered the pineal gland to be situated in "the most suitable possible place for this purpose," located centrally in the brain and surrounded by branches of the carotid arteries. 
+
+Baruch de Spinoza criticized Descartes' viewpoint for neither following from self-evident premises nor being "clearly and distinctly perceived" (Descartes having previously asserted that he could not draw conclusions of this sort), and questioned what Descartes meant by talking of "the union of the mind and the body." http://en.wikisource.org/wiki/Ethics_%28Spinoza%29/Part_5 
+
+The notion of a "pineal-eye" is central to the philosophy of the French writer Georges Bataille, which is analyzed at length by literary scholar Denis Hollier in his study Against Architecture. In this work Hollier discusses how Bataille uses the concept of a "pineal-eye" as a reference to a blind-spot in Western rationality, and an organ of excess and delirium. Hollier, D, Against Architecture: The Writings of Georges Bataille, trans. Betsy Wing, MIT, 1989. This conceptual device is explicit in his surrealist texts, The Jesuve and The Pineal Eye. Bataille, G, Visions of Excess: Selected Writings, 1927–1939 (Theory and History of Literature, Vol 14), trans. Allan Stoekl et al., Manchester University Press, 1985 
+
+Numerous spiritual philosophies contain the notion of an inner Third Eye that is related to the Ajna chakra and also the pineal gland, and to which is attributed significance in mystical awakening or enlightenment, clairvoyant perception, and higher states of consciousness. This idea occurs historically in ancient central and east Asia, and also in contemporary occult theories relating to yoga, Theosophy, Hinduism, Pagan religions, and New Age spiritual philosophies. There is no clinical evidence to support these assertions.
+
+==History==
+The secretory activity of the pineal gland is only partially understood. Its location deep in the brain suggested to philosophers throughout history that it possesses particular importance. This combination led to its being regarded as a "mystery" gland with mystical, metaphysical, and occult theories surrounding its perceived functions.
+
+The pineal gland was originally believed to be a "vestigial remnant" of a larger organ. In 1917, it was known that extract of cow pineals lightened frog skin. Dermatology professor Aaron B. Lerner and colleagues at Yale University, hoping that a substance from the pineal might be useful in treating skin diseases, isolated and named the hormone melatonin in 1958. The substance did not prove to be helpful as intended, but its discovery helped solve several mysteries such as why removing the rat's pineal accelerated ovary growth, why keeping rats in constant light decreased the weight of their pineals, and why pinealectomy and constant light affect ovary growth to an equal extent; this knowledge gave a boost to the then new field of chronobiology. 
+
+==Additional images==
+The pineal body is labeled in these images.
+
+ Image:Gray715.png|Mesal aspect of a brain sectioned in the median sagittal plane.
+ Image:Gray716.png|Dissection showing the ventricles of the brain.
+ Image:Gray719.png|Hind- and mid-brains; antero-lateral view.
+ Image:Gray720.png|Median sagittal section of brain.
+ File:Slide4ff.JPG|Pineal gland
+File:Slide2BRA.JPG|Brainstem. Posterior view.
+
+==References==
+
+==External links==
+
+* 
+* 
+* Histology at BU: Endocrine System: pineal gland (illustration)
+* Anatomy Atlases, Microscopic atlas: Pineal gland
+* MedPix: Images of Pineal region
+
+

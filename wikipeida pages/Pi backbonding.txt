@@ -1,0 +1,33 @@
+[[Pi backbonding]]
+
+(Top) the HOMO and LUMO of CO. (Middle) an example of a sigma bonding orbital in which CO donates electrons to a metal's center from its HOMO. (Bottom) an example where the metal center donates electrons through a d orbital to CO's LUMO. NOTE in this depiction the y axis has no relation to energy levels. 
+π backbonding, also called π backdonation, is a concept from chemistry in which electrons move from an atomic orbital on one atom to a π* antibonding orbital on a π-acceptor ligand. It is especially common in the organometallic chemistry of transition metals with multi-atomic ligands such as carbon monoxide, ethylene or the nitrosonium cation. Electrons from the metal are used to bond to the ligand, in the process relieving the metal of excess negative charge. Compounds where π backbonding occurs include Ni(CO)4 and Zeise's salt.
+IUPAC offers the following definition for backbonding:
+
+A description of the bonding of π-conjugated ligands to a transition metal which involves a synergic process with donation of electrons from the filled π-orbital or lone electron pair orbital of the ligand into an empty orbital of the metal (donor–acceptor bond), together with release (back donation) of electrons from an nd orbital of the metal (which is of π-symmetry with respect to the metal–ligand axis) into the empty π*-antibonding orbital of the ligand. 
+
+==Metal carbonyls, nitrosyls, and isocyanides==
+The electrons are partially transferred from a d-orbital of the metal to anti-bonding molecular orbitals of CO (and its analogues). This electron-transfer (i) strengthens the metal-C bond and (ii) weakens the C-O bond. The strengthening of the M-CO bond is reflected in increases of the vibrational frequencies for the M-C bond (often outside of the range for the usual IR spectrophotometers). Furthermore, the M-CO bond length is shortened. The weakening of the C-O bond is indicated by a decrease in the frequency of the νCO band(s) from that for free CO (2143 cm−1) often by more than 200 cm−1. For this reason, IR spectroscopy is an important diagnostic technique in metal carbonyl chemistry. The article infrared spectroscopy of metal carbonyls discusses this in detail.
+
+Many ligands other than CO are strong "backbonders". Nitric oxide is an even stronger π-acceptor than is CO and νNO is a diagnostic tool in metal-nitrosyl chemistry. In the case of isocyanide complexes, the degree of π-bonding is again indicated by shortening of the M-CNR bond and by decrease in νCN. For the isocyanides however, an additional parameter is the MC=N-C angle, which deviates from 180° in highly electron-rich systems. Other ligands have weak π-backbonding abilities, which creates a labilization effect of CO, which is described by the cis effect.
+
+==Metal-alkenes and alkyne complexes==
+As in metal-carbonyls, electrons are partially transferred from a d-orbital of the metal to anti-bonding molecular orbitals of the alkenes and alkynes. This electron-transfer (i) strengthens the metal-ligand bond and (ii) weakens the C-C bonds within the ligand. In the case of metal-alkenes and alkynes, the strengthening of the M-C2R4 and M-C2R2 bond is reflected in bending of the C-C-R angles which assume greater sp3 and sp2 character, respectively. Thus strong pi-backbonding causes a metal-alkene complex to assume the character of a metallacyclopropane. Electronegative substituents exhibit greater pi backbonding. Thus strong pi backbonding ligands are tetrafluoroethylene, tetracyanoethylene, and hexafluoro-2-butyne.
+
+==Metal-phosphine complexes==
+R3P–M &sigma; bonding
+R3P–M &pi; backbonding
+Phosphines accept electron density from metal p or d orbitals into combinations of P–C σ* antibonding orbitals that have π symmetry. When phosphines bond to electron-rich metal atoms, backbonding would be expected to lengthen P–C bonds as P–C σ* orbitals become populated by electrons. The expect lengthening of the P–C distance is often hidden by an opposing effect: as the phosphorus lone pair is donated to the metal, P(lone pair)-R(bonding pair) repulsions decrease, which acts to shorten the P–C bond. The two effects have been deconvoluted by comparing the structures of pairs of metal-phosphine complexes that differ only by one electron. Oxidation of R3P–M complexes results in longer M–P bonds and shorter P–C bonds, consistent with π-backbonding. In early work, phosphine ligands were thought to utilize 3d orbitals to form M-P pi-bonding, but it is now accepted that d-orbitals on phosphorus are not involved in bonding as they are too high in energy. 
+
+Molecular orbital scheme, illustrating the linear combination of P–R σ* and P 3d orbitals to form PR3 π acceptor orbitals
+
+== See also ==
+* Bridging carbonyl
+* Dewar-Chatt-Duncanson model
+* 18-electron rule
+* Ligand field theory
+* Pi-donor ligands
+
+== References ==
+
+

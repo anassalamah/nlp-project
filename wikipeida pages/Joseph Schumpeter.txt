@@ -1,0 +1,194 @@
+[[Joseph Schumpeter]]
+
+Joseph Alois Schumpeter (; 8 February 1883 – 8 January 1950) was an Austrian American economist and political scientist. He briefly served as Finance Minister of Austria in 1919. One of the most influential economists of the 20th century, Schumpeter popularized the term "creative destruction" in economics. 
+
+==Life==
+Schumpeter was born in Třešť, Habsburg Moravia (now Czech Republic, then part of Austria-Hungary) in 1883 to Catholic ethnic German parents. His father owned a factory, but he died when Joseph was only four years old. In 1893, Joseph and his mother moved to Vienna. 
+
+Schumpeter began his career studying law at the University of Vienna under the Austrian capital theorist Eugen von Böhm-Bawerk, taking his PhD in 1906. In 1909, after some study trips, he became a professor of economics and government at the University of Czernowitz. In 1911 he joined the University of Graz, where he remained until World War I. In 1919, he served briefly as the Austrian Minister of Finance, with some success, and in 1920–1924, as president of the private Biedermann Bank. That bank, along with a great part of that regional economy, collapsed in 1924 leaving Schumpeter bankrupt.
+
+From 1925 to 1932, Schumpeter held a chair at the University of Bonn, Germany. He lectured at Harvard in 1927–1928 and 1930. In 1931, he was a visiting professor at The Tokyo College of Commerce. In 1932, Schumpeter moved to the United States, and soon began what would become extensive efforts to help central European economist colleagues displaced by Nazism. McCraw, Prophet of Innovation, pp. 231-232. Schumpeter also became known for his opposition to Marxism and socialism that he thought would lead to dictatorship, and even criticized President Franklin Roosevelt's New Deal. McCraw, pp. 317–321 In 1939 Schumpeter became a US citizen. In the beginning of WWII, the FBI investigated him and his wife (a prominent scholar of Japanese economics) for pro-Nazi leanings, but no evidence was found of Nazi sympathies. Entrepreneurship, Competitiveness and Local Development. (Iandoli, Landström and Raffa, 2007, p. 5) McCraw, pp. 337–343 
+
+During his Harvard years Schumpeter was considered a memorable character, erudite and even showy as classroom teacher. He became known for his heavy teaching load, as well as for taking a personal and painstaking interest in his students, and organizing private seminars and discussion groups in addition to serving as the faculty advisor of the Graduate Economics Club. McCraw, Prophet of Innovation, pp. 210–217. Some colleagues thought his views outdated and not in tune with the then-fashionable Keynesianism; others resented his criticisms, particularly of their failure to offer an assistant professorship to Paul Samuelson, but recanted when they thought him likely to accept a position at Yale University. McCraw, pp. 273–278. 306–311. This period of his life was characterized by hard work but comparatively little recognition of his massive 2-volume book Business Cycles. However, the Schumpeters persevered, and in 1942 published what became the most popular of all his works, Capitalism, Socialism and Democracy, reprinted many times and in many languages in the following decades, as well as cited thousands of times. McCraw p. 347 et seq. 
+
+Although Schumpeter encouraged some young mathematical economists and was even the president of the Econometric Society (1940–41), Schumpeter was not a mathematician, but rather an economist, and tried instead to integrate history and sociological understanding into his economic theories. Some argue that Schumpeter's ideas on business cycles and economic development could not be captured in the mathematics of his day – they need the language of non-linear dynamical systems to be partially formalized.
+
+Schumpeter claimed that he had set himself three goals in life: to be the greatest economist in the world, to be the best horseman in all of Austria and the greatest lover in all of Vienna. He said he had reached two of his goals, but he never said which two, George Viksnins. Professor of Economics. Georgetown University. Economic Systems in Historical Perspective Schumpeter's Diary as quoted in "Prophet of Innovation" by Thomas McCraw, page 4. although he is reported to have said that there were too many fine horsemen in Austria for him to succeed in all his aspirations. P.A. Samuelson and W.D. Nordhaus, Economics (1998, p. 178) 
+
+Schumpeter died in his home in Taconic, Connecticut, at the age of 66, on the night of 7 January 1950. 
+
+He was married three times. Geoffrey Hawthorn, "Schumpeter the Superior" His first wife was Gladys Ricarde Seaver, an Englishwoman nearly 12 years his senior (married 1907, separated 1913, divorced 1925). His second was Anna Reisinger, twenty years his junior and the daughter of the concierge of the apartment where he grew up. They married in 1925, but within a year of their marriage, she died in childbirth. The loss of his wife and newborn son came only weeks after Schumpeter's mother had died. In 1937, Schumpeter married the American economic historian Elizabeth Boody, who helped him to popularize his work and edited what became their magnum opus, the posthumously published History of Economic Analysis. Joseph A. Schumpeter. A Theory of Social and Economic Evolution (Andersen, E.S., 2011) 
+
+==Most important work==
+
+===Influences===
+The source of Joseph Schumpeter's dynamic, change-oriented, and innovation-based economics was the Historical School of economics. Although his writings could be critical of the School, Schumpeter's work on the role of innovation and entrepreneurship can be seen as a continuation of ideas originated by the Historical School, especially the work of Gustav von Schmoller and Werner Sombart. PG Michaelides, The Influence of the German Historical School on Schumpeter, 17th International Conference of the European Association for. Evolutionary Political Economy, Bremen/Germany, November 2005. PG Michaelides, Joseph Schumpeter and the German Historical School, Cambridge Journal of Economics 2009, 33, 495–516. 
+
+===Evolutionary economics===
+
+According to Christopher Freeman (2009), a scholar who devoted much time researching Schumpeter's work: "the central point of his whole life work : that capitalism can only be understood as an evolutionary process of continuous innovation and 'creative destruction' ." (Freeman, 2009; p. 126) in Techno-economic paradigms: essays in honor of Carlota Perez. Edited by Wolfgang Drechsler, Erik Reinert, Rainer Kattel. 
+
+===History of Economic Analysis===
+Schumpeter's scholarship is apparent in his posthumous History of Economic Analysis, although some of his judgments seem idiosyncratic and sometimes cavalier. For instance, Schumpeter thought that the greatest 18th century economist was Turgot, not Adam Smith, as many consider, and he considered Léon Walras to be the "greatest of all economists", beside whom other economists' theories were "like inadequate attempts to catch some particular aspects of Walrasian truth". Schumpeter criticized John Maynard Keynes and David Ricardo for the "Ricardian vice." According to Schumpeter, Ricardo and Keynes reasoned in terms of abstract models, where they would freeze all but a few variables. Then they could argue that one caused the other in a simple monotonic fashion. This led to the belief that one could easily deduce policy conclusions directly from a highly abstract theoretical model.
+
+===Business cycles===
+Schumpeter's relationships with the ideas of other economists were quite complex in his most important contributions to economic analysis – the theory of business cycles and development. Following neither Walras nor Keynes, Schumpeter starts in The Theory of Economic Development Schumpeter, J.A. The theory of economic development : an inquiry into profits, capital, credit, interest, and the business cycle translated from the German by Redvers Opie (1961) New York: OUP with a treatise of circular flow which, excluding any innovations and innovative activities, leads to a stationary state. The stationary state is, according to Schumpeter, described by Walrasian equilibrium. The hero of his story is the entrepreneur.
+
+The entrepreneur disturbs this equilibrium and is the prime cause of economic development, which proceeds in cyclic fashion along several time scales. In fashioning this theory connecting innovations, cycles, and development, Schumpeter kept alive the Russian Nikolai Kondratiev's ideas on 50-year cycles, Kondratiev waves.
+
+Schumpeter suggested a model in which the four main cycles, Kondratiev (54 years), Kuznets (18 years), Juglar (9 years) and Kitchin (about 4 years) can be added together to form a composite waveform. Actually there was considerable professional rivalry between Schumpeter and Kuznets. The wave form suggested here did not include the Kuznets Cycle simply because Schumpeter did not recognize it as a valid cycle. See "business cycle" for further information. A Kondratiev wave could consist of three lower degree Kuznets waves. Recent research suggests that the Kuznets swing could be regarded as the third harmonic of the Kondratiev wave – see Korotayev, Andrey V., & Tsirel, Sergey V. A Spectral Analysis of World GDP Dynamics: Kondratieff Waves, Kuznets Swings, Juglar and Kitchin Cycles in Global Economic Development, and the 2008–2009 Economic Crisis. Structure and Dynamics. 2010. Vol.4. #1. pp. 3–57. Each Kuznets wave could, itself, be made up of two Juglar waves. Similarly two (or three) Kitchin waves could form a higher degree Juglar wave. If each of these were in phase, more importantly if the downward arc of each was simultaneous so that the nadir of each was coincident it would explain disastrous slumps and consequent depressions. As far as the segmentation of the Kondratiev Wave, Schumpeter never proposed such a fixed model. He saw these cycles varying in time – although in a tight time frame by coincidence – and for each to serve a specific purpose.
+
+===Schumpeter and Keynesianism===
+In Schumpeter's theory, Walrasian equilibrium is not adequate to capture the key mechanisms of economic development. Schumpeter also thought that the institution enabling the entrepreneur to purchase the resources needed to realize his or her vision was a well-developed capitalist financial system, including a whole range of institutions for granting credit. One could divide economists among (1) those who emphasized "real" analysis and regarded money as merely a "veil" and (2) those who thought monetary institutions are important and money could be a separate driving force. Both Schumpeter and Keynes were among the latter.
+
+===Schumpeter and capitalism's demise===
+Schumpeter's most popular book in English is probably Capitalism, Socialism and Democracy. This book opens with a treatment of Karl Marx.
+While he is sympathetic to Marx's theory that capitalism will collapse and will be replaced by socialism, Schumpeter concludes that this will not come about in the way Marx predicted. While Marx predicted that capitalism would be overthrown by a proletarian violent revolution, which historically actually happened in the least capitalist economic countries, Schumpeter instead believed that the capitalist system would collapse as a result of an internal conflict that bolstered hostilities among itself. To describe it he borrowed the phrase "creative destruction", and made it famous by using it to describe a process in which the old ways of doing things are endogenously destroyed and replaced by new ways.
+
+Schumpeter's theory is that the success of capitalism will lead to a form of corporatism and a fostering of values hostile to capitalism, especially among intellectuals. The intellectual and social climate needed to allow entrepreneurship to thrive will not exist in advanced capitalism; it will be replaced by "laborism" in some form. He points out that intellectuals, whose very profession relies on antagonism toward the capitalist structure, are automatically inclined to have a negative outlook toward it even while relying upon it for prestige. There will not be a revolution, but merely instead a trend in parliaments to elect social democratic parties of one stripe or another. He argued that the collapse of capitalism from within will come about if democratic majorities vote for restrictions upon entrepreneurship that will burden and destroy the capitalist structure. He also emphasized non-political, evolutionary processes in society where "liberal capitalism" was evolving because of the growth of workers' self-management, industrial democracy and regulatory institutions. John Medearis, "Schumpeter, the New Deal, and Democracy", The American Political Science Review, 1997. 
+
+Schumpeter emphasizes throughout this book that he is analyzing trends, not engaging in political advocacy. In his vision, the intellectual class will play an important role in capitalism's evolution. The term "intellectuals" denotes a class of persons in a position to develop critiques of societal matters for which they are not directly responsible and able to stand up for the interests of strata to which they themselves do not belong. One of the great advantages of capitalism, he argues, is that as compared with pre-capitalist periods, when education was a privilege of the few, more and more people acquire (higher) education. The availability of fulfilling work is, however, limited, and this lack, coupled with the experience of unemployment, produces discontent. The intellectual class is then able to organize protest and develop critical ideas.
+
+===Schumpeter and democratic theory===
+In the same book, Schumpeter expounded a theory of democracy which sought to challenge what he called the "classical doctrine". He disputed the idea that democracy was a process by which the electorate identified the common good, and politicians carried this out for them. He argued this was unrealistic, and that people's ignorance and superficiality meant that in fact they were largely manipulated by politicians, who set the agenda. This made a 'rule by the people' concept both unlikely and undesirable. Instead he advocated a minimalist model, much influenced by Max Weber, whereby democracy is the mechanism for competition between leaders, much like a market structure. Although periodic votes by the general public legitimize governments and keep them accountable, the policy program is very much seen as their own and not that of the people, and the participatory role for individuals is usually severely limited.
+
+===Schumpeter and entrepreneurship===
+The research of entrepreneurship owes much to his contributions. He was probably the first scholar to develop theories in this field. His fundamental theories are often referred to as Mark I and Mark II. In the first, Schumpeter argued that the innovation and technological change of a nation come from the entrepreneurs, or wild spirits. He coined the word Unternehmergeist, German for entrepreneur-spirit, and asserted that "... the doing of new things or the doing of things that are already being done in a new way" Schumpeter, J. A. (1947) The Creative Response in Economic History. Journal of Economic History, Vol. 7 149-159. stemmed directly from the efforts of entrepreneurs.
+
+Mark II was developed when Schumpeter was a professor at Harvard. Many social economists and popular authors of the day argued that the net effect of the existence of large businesses was negative on the standard of living for the average person of the day. Contrary to this prevailing opinion, he asserted that the agents that drive innovation and the economy are large companies which have the resources and capital to invest in research and development to create new products and services and to deliver them to individuals less expensively—thus raising their standard of living. In one of his seminal works, "Capitalism, Socialism and Democracy", Schumpeter wrote:
+
+Mark I and Mark II arguments are considered complementary today.
+
+===Schumpeter and long wave theory===
+ Freeman and louca As time goes by 
+ Keklik, Mumtaz. "Schumpeter, Innovation and Growth: Long-Cycle Dynamics in the Post-WWII American Manufacturing Industries." (2003). 
+Schumpeter, foremost and most influential articulator of the opposite view - that long cycles are caused by, and are an incident of the innovation process. indeed, kondratiev's ideas were first bought to attention of English-speaking economist through schumpeter's treatise on business cycles, in spite of the fact that schumpeter urged a causality that was sharply in contrast with kondratiev's moreover, it is the schumpeterian variant of long-cycles hypothesis, stressing the initiating role of innovations, that commands the widest attention today.
+ Freeman, Christopher, ed. Long Wave Theory, International Library of Critical Writings in Economics: Edward Elgar, 1996 
+In schumpeter's view, technological innovation is at the center of both cyclical instability and economic growth, with the direction of causality moving clearly from fluctuations in innovation to fluctuation in investment and from that to cycles in economics growth, moreover, schumpeter sees innovations as clustering around certain points in time periods that he refers to as "neighborhoods of equilibrium", when entrepreneurial perception of risk and returns warranted innovative commitments. These clustering, in turn lead to long cycles by generating periods of acceleration in aggregate growth rate.
+ Rosenberg, Nathan. "Technological Innovation and Long Waves." In Exploring the Black Box: Technology, Economics, and History, 62-84. Cambridge, UK: Cambridge University Press, 1994. 
+Technological view of changes is at the root of the long cycle needs to demonstrate:
+Change in the rate of innovation governs changes in the rate of new investments and that combines impact of innovation clusters takes the form of fluctuation in aggregate output or employment.
+The process of technological innovation involves extremely complex relation among a set of key variables- inventions, innovations, diffusion paths and investment activities. The impact of technological innovation on aggregate output is mediated through a succession of relationship that have yet to be explored systematically in context of long wave. New inventions are typically very primitive at their birth. Their performance usually poor, compared to existing technologies as well as their future performance. moreover, the cost of production, at this initial stage, is likely to be high- indeed, in some cases a production technology may simply not yet exist, as is often observes in major chemical inventions, pharma inventions etc. the speed with which inventions are transformed into innovations, and consequently diffused will depend upon actual and expected trajectory of performance improvement and cost reduction.
+ http://www.jstor.org/stable/1816829?seq=2 
+
+===Schumpeter and innovation===
+Schumpeter identified innovation as the critical dimension of economic change. An Introduction to Economics with Emphasis on Innovation, Pol, E Carroll,P, 2006 He argued that economic change revolves around innovation, entrepreneurial activities, and market power. He sought to prove that innovation-originated market power could provide better results than the invisible hand and price competition. He argues that technological innovation often creates temporary monopolies, allowing abnormal profits that would soon be competed away by rivals and imitators. He said that these temporary monopolies were necessary to provide the incentive necessary for firms to develop new products and processes. 
+
+===Schumpeter and the gold standard===
+Joseph Schumpeter recognized the implication of a gold monetary standard compared to a fiat monetary standard. In History of Economic Analysis he stated the following:
+
+==Legacy==
+For some time after his death, Schumpeter's views were most influential among various heterodox economists, especially European, who were interested in industrial organization, evolutionary theory, and economic development, and who tended to be on the other end of the political spectrum from Schumpeter and were also often influenced by Keynes, Karl Marx, and Thorstein Veblen. Robert Heilbroner was one of Schumpeter's most renowned pupils, who wrote extensively about him in The Worldly Philosophers. In the journal Monthly Review John Bellamy Foster wrote of that journal's founder Paul Sweezy, one of the leading Marxist economists in the United States and a graduate assistant of Schumpeter's at Harvard, that Schumpeter "played a formative role in his development as a thinker". Other outstanding students of Schumpeter's include the economists Nicholas Georgescu-Roegen and Hyman Minsky and former chairman of the Federal Reserve, Alan Greenspan. Future Nobel Laureate Robert Solow was his student at Harvard, and he expanded on Schumpeter's theory. 
+
+Today, Schumpeter has a following outside of standard textbook economics, in areas such as in economic policy, management studies, industrial policy, and the study of innovation. Schumpeter was probably the first scholar to develop theories about entrepreneurship. For instance, the European Union's innovation program, and its main development plan, the Lisbon Strategy, are influenced by Schumpeter. The International Joseph A. Schumpeter Society awards the Schumpeter Prize.
+
+The Schumpeter School of Business and Economics opened in October 2008 at the University of Wuppertal. According to University President Professor Lambert T. Koch, "Schumpeter will not only be the name of the Faculty of Management and Economics, but this is also a research and teaching programme related to Joseph A. Schumpeter." 
+
+On 17 September 2009, The Economist inaugurated a column on business and management named "Schumpeter." The publication has a history of naming columns after significant figures or symbols in the covered field, including naming its British affairs column after former editor Walter Bagehot and its European affairs column after Charlemagne. The initial Schumpeter column praised him as a "champion of innovation and entrepreneurship" whose writing showed an understanding of the benefits and dangers of business that proved to be far ahead of its time. 
+
+==Major works==
+
+* "Über die mathematische Methode der theoretischen Ökonomie", 1906, ZfVSV.
+* "Das Rentenprinzip in der Verteilungslehre", 1907, Schmollers Jahrbuch.
+* Wesen und Hauptinhalt der theoretischen Nationalökonomie (transl. The Nature and Essence of Theoretical Economics), 1908.
+* "Methodological Individualism", 1908, 
+* "On the Concept of Social Value", 1909, QJE.
+* Wie studiert man Sozialwissenschaft, 1910 (transl. by J.Z. Muller, "How to Study Social Science", Society, 2003).
+* "Marie Esprit Leon Walras", 1910, ZfVSV.
+* "Über das Wesen der Wirtschaftskrisen", 1910, ZfVSV.
+* Theorie der wirtschaftlichen Entwicklung (transl. 1934, The Theory of Economic Development: An inquiry into profits, capital, credit, interest and the business cycle) 1911.
+* Economic Doctrine and Method: An historical sketch, 1914. 
+* "Das wissenschaftliche Lebenswerk Eugen von Böhm-Bawerks", 1914, ZfVSV.
+* Vergangenkeit und Zukunft der Sozialwissenschaft, 1915.
+* The Crisis of the Tax State, 1918.
+* "The Sociology of Imperialisms", 1919, Archiv für Sozialwissenschaft und Sozialpolitik 
+* "Max Weber's Work", 1920, Der österreichische Volkswirt.
+* "Carl Menger", 1921, ZfVS.
+* "The Explanation of the Business Cycle", 1927, Economica.
+* "Social Classes in an Ethnically Homogeneous Environment", 1927, Archiv für Sozialwissenschaft und Sozialpolitik. 
+* "The Instability of Capitalism", 1928, EJ.
+* Das deutsche Finanzproblem, 1928.
+* "Mitchell's Business Cycles", 1930, QJE.
+* "The Present World Depression: A tentative diagnosis", 1931, AER.
+* "The Common Sense of Econometrics", 1933, Econometrica.
+* "Depressions: Can we learn from past experience?", 1934, in Economics of the Recovery Program
+* "The Nature and Necessity of a Price System", 1934, Economic Reconstruction.
+* "Review of Robinson's Economics of Imperfect Competition", 1934, JPE.
+* "The Analysis of Economic Change", 1935, REStat.
+* "Professor Taussig on Wages and Capital", 1936, Explorations in Economics.
+* "Review of Keynes's General Theory", 1936, JASA.
+* Business Cycles: A theoretical, historical and statistical analysis of the Capitalist process, 1939.
+* "The Influence of Protective Tariffs on the Industrial Development of the United States", 1940, Proceedings of AAPS.
+* "Alfred Marshall's Principles: A semi-centennial appraisal", 1941, AER.
+* "Frank William Taussig", 1941, QJE.
+* Capitalism, Socialism and Democracy, 1942.
+* "Capitalism in the Postwar World", 1943, Postwar Economic Problems.
+* "John Maynard Keynes", 1946, AER.
+* "The Future of Private Enterprise in the Face of Modern Socialistic Tendencies", 1946, Comment sauvegarder l'entreprise privée
+* Rudimentary Mathematics for Economists and Statisticians, with W.L .Crum, 1946.
+* "Capitalism", 1946, Encyclopædia Britannica.
+* "The Decade of the Twenties", 1946, AER.
+* "The Creative Response in Economic History", 1947, JEH.
+* "Theoretical Problems of Economic Growth", 1947, JEH.
+* "Irving Fisher's Econometrics", 1948, Econometrica.
+* "There is Still Time to Stop Inflation", 1948, Nation's Business.
+* "Science and Ideology", 1949, AER.
+* "Vilfredo Pareto", 1949, QJE.
+* "Economic Theory and Entrepreneurial History", 1949, Change and the Entrepreneur.
+* "The Communist Manifesto in Sociology and Economics", 1949, JPE.
+* "English Economists and the State-Managed Economy", 1949, JPE.
+* "The Historical Approach to the Analysis of Business Cycles", 1949, NBER Conference on Business Cycle Research.
+* "Wesley Clair Mitchell", 1950, QJE.
+* "March into Socialism", 1950, AER.
+* Ten Great Economists: From Marx to Keynes, 1951. 
+* Imperialism and Social Classes, 1951 (reprints of 1919, 1927)
+* Essays on Economic Topics, 1951.
+* "Review of the Troops", 1951, QJE.
+* History of Economic Analysis, (published posthumously, ed. Elisabeth Boody Schumpeter), 1954.
+* "American Institutions and Economic Progress", 1983, Zeitschrift fur die gesamte Staatswissenschaft
+* "The Meaning of Rationality in the Social Sciences", 1984, Zeitschrift fur die gesamte Staatswissenschaft
+* "Money and Currency", 1991, Social Research.
+* Economics and Sociology of Capitalism, 1991.
+* Treatise on Money (Complete translation of Das Wesen des Geldes, Vandenhoeck & Ruprecht, 1970), WordBridge Publishing, 2014.
+
+==See also==
+* List of Austrians
+* Austrian School of economics
+* List of Austrian scientists
+* The Gods of the Copybook Headings
+* Social innovation
+* Creative destruction
+* Schumpeterian rent
+
+==References==
+
+==Further reading==
+
+* 
+* Cheung, Edward "Baby Boomers, Generation X and Social Cycles" "The latest findings on Schumpeter's Creative Destruction."
+* 
+* Davis, Horace B. "Schumpeter as Sociologist," Science and Society, vol. 24, no. 1 (Winter 1960), pp. 13–35. In JSTOR.
+* Groenewegen, Peter, 2003. Classics and Moderns in Economics: Essays on Nineteenth And Twentieth Century Economic Thought: Vol. 2. Routledge. Chpt. 22, pp. 203+
+* 
+* .
+* 
+* 
+* 
+* Muller, Jerry Z., 2002. The Mind and the Market: Capitalism in Western Thought. Anchor Books.
+* 
+* 
+
+==External links==
+
+* 
+* Retrieved on December 4, 2007.
+* Retrieved on December 4, 2007.
+* Retrieved on April 29, 2013.
+* Retrieved on December 4, 2007.
+* Retrieved on December 4, 2007.
+* 
+* 
+* 
+* 
+
+

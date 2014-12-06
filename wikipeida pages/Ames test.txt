@@ -1,0 +1,41 @@
+[[Ames test]]
+
+The Ames test is a widely employed method that uses bacteria to test whether a given chemical can cause cancer. More formally, it is a biological assay to assess the mutagenic potential of chemical compounds. A positive test indicates that the chemical is mutagenic and therefore may act as a carcinogen, because cancer is often linked to mutation. The test serves as a quick and convenient assay to estimate the carcinogenic potential of a compound because standard carcinogen assays on mice and rats are time-consuming (taking two to three years to complete) and expensive. However, false-positives and false-negatives are known. 
+
+The procedure was described in a series of papers in the early 1970s by Bruce Ames and his group at the University of California, Berkeley. 
+
+== General procedure ==
+Ames test procedure
+The Ames test uses several strains of the bacterium Salmonella typhimurium that carry mutations in genes involved in histidine synthesis. These strains are auxotrophic mutants, i.e. they require histidine for growth. The method tests the capability of the tested substance in creating mutations that result in a reversion back to a "prototrophic" state, so that the cells can grow on a histidine-free medium. 
+
+The tester strains are specially constructed to detect either frameshift (e.g. strains TA-1537 and TA-1538) or point (e.g. strain TA-1531) mutations in the genes required to synthesize histidine, so that mutagens acting via different mechanisms may be identified. Some compounds are quite specific, causing reversions in just one or two strains. The tester strains also carry mutations in the genes responsible for lipopolysaccharide synthesis, making the cell wall of the bacteria more permeable, and in the excision repair system to make the test more sensitive. Rat liver extract is optionally added to simulate the effect of metabolism, as some compounds, like benzopyrene, are not mutagenic themselves but their metabolic products are. 
+
+The bacteria are spread on an agar plate with a small amount of histidine. This small amount of histidine in the growth medium allows the bacteria to grow for an initial time and have the opportunity to mutate.
+When the histidine is depleted only bacteria that have mutated to gain the ability to produce its own histidine will survive. The plate is incubated for 48 hours. The mutagenicity of a substance is proportional to the number of colonies observed.
+
+==Ames test and carcinogens==
+Mutagens identified via Ames test are also possible carcinogens, and early studies by Ames showed that 90% of known carcinogens may be identified via this test. Later studies however showed identification of 50–70% of known carcinogens. The test was used to identify a number of compounds previously used in commercial products as potential carcinogens. Examples include tris(2,3-dibromopropyl)phosphate, which was used as a flame retardant in plastic and textiles such as children's sleepwear, and furylfuramide which was used as an antibacterial additive in food in Japan in 1960s and 1970s. Furylfuramide in fact had previously passed animal test, but more vigorous tests after its identification in the Ames test showed it to be carcinogenic. 
+ Their positive tests resulted in those chemicals being withdrawn from use in consumer products.
+
+One interesting result from the Ames test is that the dose response curve using varying concentrations of chemical is almost always linear, indicating that there is no threshold concentration for mutagenesis, therefore suggesting that, as with radiations, there may be no safe threshold for chemical mutagens or carcinogens. However some proposed that organisms can tolerate low level of mutagens due to protective mechanisms such as DNA repair, and threshold may exist for certain chemical mutagens. Bruce Ames himself argued against linear dose-response extrapolation from the high dose used in carcinogenesis tests in animal systems to the lower dose of chemicals normally encountered in human exposure, as the results may be false positives due to mitogenic response caused by the artificially high dose of chemicals used in such tests. He also cautioned against the "hysteria over tiny traces of chemicals that may or may not cause cancer", that "completely drives out the major risks you should be aware of." 
+
+The Ames test is often used as one of the initial screens for potential drugs to weed out possible carcinogens, and it is one of the eight tests required under the Pesticide Act (USA) and one of six tests required under the Toxic Substances Control Act (USA). 
+
+==Limitations==
+Salmonella typhimurium is a prokaryote, therefore it is not a perfect model for humans. Rat liver S9 fraction is used to mimic the mammalian metabolic conditions so that the mutagenic potential of metabolites formed by a parent molecule in the hepatic system can be assessed, however there are differences in metabolism and mutagenicity of chemicals between human and rat. The test may therefore be improved by the use of human liver S9 fraction; its use was previously limited by its availability, but it is now available commercially and therefore may be more feasible. An adapted in vitro model has been made for eukaryotic cells, for example yeast. 
+
+Mutagens identified in the Ames test need not necessarily be carcinogenic, and further tests are required for any potential carcinogen identified in the test. Drugs that contain the nitrate moiety sometimes come back positive for Ames when they are indeed safe. The nitrate compounds may generate nitric oxide, an important signal molecule that can give a false positive. Nitroglycerin is an example that gives a positive Ames yet is still used in treatment today. Nitrates in food however may be reduced by bacterial action to nitrites which are known to generate carcinogens by reacting with amines and amides. Long toxicology and outcome studies are needed with such compounds to disprove a positive Ames test.
+
+==Fluctuation method==
+Fluctuation method
+The Ames test was initially developed using agar plates (the plate incorporation technique), as described above. Since that time, a popular alternative to performing the Ames test has been developed, which is known as the "fluctuation method". The fluctuation method is performed entirely in liquid culture and is scored by counting the number of wells that turn yellow from purple in a 96-well microplate. 
+ 
+This technique is the same in concept as the traditional plate incorporation method, with bacteria being added to a reaction mixture with a small amount of histidine, which allows the bacteria to grow and mutate, reverting to being able to synthesize their own histidine. By including a pH indicator, the frequency of mutation is counted as the number of wells out of 96 which have changed color (caused by a drop in pH due to metabolic processes of reproducing bacteria). As with the traditional Ames test, the sample is compared to the natural background rate of reverse mutation in order to establish the genotoxicity of a substance. The 96-well plates are incubated for up to five days, with mutated (yellow) colonies being counted each day and compared to the background rate of reverse mutation using established tables of significance to determine the significant differences between the background rate of mutation and that for the tested samples.
+
+The fluctuation method is comparable to the traditional pour plate method in terms of sensitivity and accuracy, however, it does have a number of advantages, namely, allowing for the testing of higher concentrations of sample (up to 75% v/v), increasing the sensitivity and extending its application to low-level environmental mutagens. 
+
+The fluctuation method also has a simple colorimetric endpoint; counting the number of positive wells out of a possible 96 wells is much less time consuming than counting individual colonies on an agar plate. Several commercial kits are available. Most kits have consumable components in a ready-to-use state, including lyophilized bacteria, and tests can be performed in a non-specialized laboratory and the only equipment necessary are a 37 °C incubator and a multichannel pipette.
+
+==References==
+
+

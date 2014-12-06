@@ -1,0 +1,67 @@
+[[Gangrene]]
+
+Gangrene is a potentially life-threatening condition that arises when a considerable mass of body tissue dies (necrosis). This may occur after an injury or infection, or in people suffering from any chronic health problem affecting blood circulation. The primary cause of gangrene is reduced blood supply to the affected tissues, which results in cell death. Diabetes and long-term smoking increase the risk of suffering from gangrene. 
+
+There are different types of gangrene with different symptoms, such as dry gangrene, wet gangrene, gas gangrene, internal gangrene and necrotizing fasciitis. Treatment options include debridement (or, in severe cases, amputation) of the affected body parts, antibiotics, vascular surgery, maggot therapy or hyperbaric oxygen therapy. 
+
+==Causes==
+Gangrene is caused by ischemia or infection, such as by the bacteria Clostridium perfringens Clostridium as cause for gangrene or by thrombosis (a blood vessel blocked by a blood clot). It is usually the result of critically insufficient blood supply (e.g., peripheral vascular disease) and is often associated with diabetes and long-term tobacco smoking. This condition is most common in the lower extremities. The best treatment for gangrene is revascularization (i.e., restoration of blood flow) of the afflicted organ, which can reverse some of the effects of necrosis and allow healing. Other treatments include debridement and surgical amputation. The method of treatment is generally determined by the location of affected tissue and extent of tissue loss. Gangrene may appear as one effect of foot binding.
+
+==Types==
+
+===Dry===
+Dry gangrene begins at the distal part of the limb due to ischemia, and often occurs in the toes and feet of elderly patients due to arteriosclerosis and thus, is also known as senile gangrene. Dry gangrene is mainly due to arterial occlusion. There is limited putrefaction and bacteria fail to survive. Dry gangrene spreads slowly through portions of tissue where the blood supply is inadequate to keep tissue viable. The affected part is dry, shrunken and dark reddish-black, resembling mummified flesh. The dark coloration is due to liberation of hemoglobin from hemolyzed red blood cells, which is acted upon by hydrogen sulfide (H2S) produced by the bacteria, resulting in formation of black iron sulfide that remains in the tissues. Compepid.tuskegee.edu The line of separation usually brings about complete separation, with eventual falling off of the gangrenous tissue if it is not removed surgically, also called autoamputation.
+
+Dry gangrene is actually a form of coagulative necrosis. If blood flow is interrupted for a reason other than severe bacterial infection, the result is a case of dry gangrene. Individuals with impaired peripheral blood flow, such as diabetics, are at greater risk of developing dry gangrene.
+
+The early signs and symptoms of dry gangrene are a dull ache and sensation of coldness in the affected area along with pallor of the flesh. If detected early, the process can sometimes be reversed by vascular surgery. However, if necrosis sets in, the affected tissue must be removed just as with wet gangrene.
+
+===Wet===
+Wet gangrene occurs in naturally moist tissue and organs such as the mouth, bowel, lungs, cervix, and vulva. Bedsores occurring on body parts such as the sacrum, buttocks, and heels — although not necessarily moist areas — are also wet gangrene infections. This condition is characterized by thriving bacteria and has a poor prognosis (compared to dry gangrene) due to septicemia resulting from the free communication between infected fluid and circulatory fluid. In wet gangrene, the tissue is infected by saprogenic microorganisms (Clostridium perfringens or Bacillus fusiformis, for example), which cause tissue to swell and emit a fetid smell. Wet gangrene usually develops rapidly due to blockage of venous (mainly) and/or arterial blood flow. The affected part is saturated with stagnant blood, which promotes the rapid growth of bacteria. The toxic products formed by bacteria are absorbed, causing systemic manifestation of septicemia and finally death. The affected part is edematous, soft, putrid, rotten and dark. The darkness in wet gangrene occurs due to the same mechanism as in dry gangrene. Wet gangrene is coagulative necrosis progressing to liquefactive necrosis.
+
+===Gas===
+
+Gas gangrene is a bacterial infection that produces gas within tissues. It is a deadly form of gangrene usually caused by Clostridium perfringens bacteria. Infection spreads rapidly as the gases produced by bacteria expand and infiltrate healthy tissue in the vicinity. Because of its ability to quickly spread to surrounding tissues, gas gangrene should be treated as a medical emergency.
+
+Gas gangrene is caused by a bacterial exotoxin-producing clostridial species, which are mostly found in soil and other anaerobes (e.g., Bacteroides and anaerobic streptococci). These environmental bacteria may enter the muscle through a wound and subsequently proliferate in necrotic tissue and secrete powerful toxins. These toxins destroy nearby tissue, generating gas at the same time. A gas composition of 5.9% hydrogen, 3.4% carbon dioxide, 74.5% nitrogen, and 16.1% oxygen was reported in one clinical case. 
+
+Gas gangrene can cause necrosis, gas production, and sepsis. Progression to toxemia and shock is often very rapid.
+
+===Other===
+*Necrotizing fasciitis affects the deeper layers of the skin.
+*Noma is a gangrene of the face.
+*Fournier gangrene usually affects the male genitals and groin. 
+*Venous limb gangrene may be caused by heparin-induced thrombocytopenia and thrombosis (HITT). 
+
+==Treatment==
+Treatment is usually surgical debridement, wound care, and antibiotic therapy, although amputation is necessary in many cases.
+
+: "Most amputations are performed for ischemic disease of the lower extremity. Of dysvascular amputations, 15-28% of patients undergo contralateral limb amputations within 3 years. Of elderly persons who undergo amputations, 50% survive the first 3 years." 
+
+In the United States, 30,000–40,000 amputations are performed annually. There were an estimated 1.6 million individuals living with the loss of a limb in 2005; these estimates are expected to more than double to 3.6 million such individuals by the year 2050. Antibiotics alone are not effective because they may not penetrate infected tissues sufficiently. Hyperbaric oxygen therapy (HBOT) treatment is used to treat gas gangrene. HBOT increases pressure and oxygen content to allow blood to carry more oxygen to inhibit anaerobic organism growth and reproduction. A regenerative medicine therapy was developed by Dr. Peter DeMarco to treat gangrene using procaine and PVP. He applied his therapy to diabetic patients to avoid amputations. Growth factors, hormones and skin grafts have also been used to accelerate healing for gangrene and other chronic wounds.
+
+Angioplasty should be considered if severe blockage in lower leg vessels (tibial and peroneal artery) leads to gangrene. 
+
+==History==
+American Civil War soldier lies in bed with a gangrenous amputated arm
+As early as 1028 fly maggots were commonly used to treat chronic wounds or ulcers to prevent or arrest necrotic spread, as some species of maggots consume only dead flesh, leaving nearby living tissue unaffected. This practice largely died out after the introduction of antibiotics, acetonitrile and enzyme to the range of treatments for wounds. In recent times, however, maggot therapy has regained some credibility and is sometimes employed with great efficacy in cases of chronic tissue necrosis.
+
+John M. Trombold wrote: "Middleton Goldsmith, a surgeon in the Union Army during the American Civil War, meticulously studied hospital gangrene and developed a revolutionary treatment regimen. The cumulative Civil War hospital gangrene mortality was 45 percent. Goldsmith's method, which he applied to over 330 cases, yielded a mortality under 3 percent." Gangrene therapy and antisepsis before lister: the civil war contributions of Middleton Goldsmith of Louisville. PubMed - NCBI Dr. Goldsmith’s work at the Jeffersonville Army hospital and his subsequent, 1863 textbook, A Report on Hospital Gangrene, Erysipelas, and Pyaemia, predated the discoveries of Louis Pasteur and Joseph Lister. Goldsmith advocated the use of debridement and topical and injected bromide solutions on infected wounds to reduce the incidence and virulence of “poisoned miasma.” Copies of his book were issued to Union surgeons to encourage the use of his methods. 
+
+==Etymology==
+The etymology of gangrene derives from the Latin word gangraena and from the Greek gangraina (γάγγραινα), which means "putrefaction of tissues". It has no etymological connection with the word green, despite the affected areas turning black and/or green and/or yellowish brown. It is coincidence that, in Lowland Scots the words "gang green" (go green) can be said to be an eggcorn for gangrene, as it describes the symptoms of the affliction.
+
+==See also==
+Frank Adamo &ndash; a prison camp physician during World War II who developed a unique treatment for the disease
+
+==References==
+
+==External links==
+
+*Notes on Poultry Gangrenous Dermatitis
+
+==Medical images==
+Dry gangrene of the 1st to 4th toes of the right foot, a complication of advanced diabetes.
+
+and signs: Vascular]
+ 

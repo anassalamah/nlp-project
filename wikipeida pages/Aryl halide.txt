@@ -1,0 +1,47 @@
+[[Aryl halide]]
+
+In organic chemistry, an aryl halide (also known as haloarene or halogenoarene) is an aromatic compound in which one or more hydrogen atoms directly bonded to an aromatic ring are replaced by a halide. The haloarene are distinguished from haloalkanes because they exhibit many differences in methods of preparation and properties. The most important members are the aryl chlorides, but the class of compounds is so broad that many derivatives enjoy niche applications.
+
+==Preparation==
+The two main preparatory routes to aryl halides are direct halogenation and via diazonium salts. 
+
+===Direct halogenation===
+In the Friedel-Crafts halogenation, a Lewis acid serve as catalysts. Many metal chlorides are used, examples include iron(III) chloride or aluminium chloride. The most important aryl halide, chlorobenzene is produced by this route. Monochlorination of benzene is always accompanied by formation of the dichlorobenzene derivatives. 
+
+Arenes with electron donating groups react with halogens even in the absence of Lewis acids. For example, phenols and anilines react quickly with chlorine and bromine water to give multiply halogenated products. Illustrative procedure for chlorination of an aromatic compound: The decolouration of bromine water by electron-rich arenes is used in the bromine test.
+
+Direct halogenation of arenes are possible in the presence of light or at high temperature. For alkylbenzene derivatives, the alkyl positions tend to be halogenated first in the free radical halogenation. To halogenate the ring, Lewis acids are required, and light should be excluded to avoid the competing reaction. 
+
+Reaction between benzene and halogen to form an halogenobenzene
+
+===Sandmeyer, Schiemann and Gatterman reactions===
+The second main route is the Sandmeyer reaction. Anilines (aryl amines) are converted to their diazonium salts using nitrous acid. For example, copper(I) chloride converts diazonium salts to the aryl chloride. Nitrogen gas is the leaving group, which makes this reaction very favorable. The similar Schiemann reaction uses the tetrafluoroborate anion as the fluoride donor. Gatterman Reaction can also be used to convert Diazonium salt to chlorobenzene or bromobenzene by using copper powder instead of copper chloride or copper bromide. But this must be done in the presence of HCl and HBr respectively.
+
+===Halogenation in nature===
+Aryl halides occur widely in nature, most commonly produced by marine organisms that utilize the chloride and bromide in ocean waters. Chlorinated and brominated aromatic compounds are also numerous, e.g. derivatives of tyrosine, tryptophan, and various pyrrole derivatives. Some of these naturally occurring aryl halides exhibit useful medicinal properties. 
+
+Vancomycin, an important antibiotic, is an aryl chloride isolated from soil fungi.
+The chemical structure of 6,6′-dibromoindigo, the main component of Tyrian Purple.
+
+==Structural trends==
+The C-X distances for aryl halides follow the expected trend. These distances for fluorobenzene, chlorobenzene, bromobenzene, and methyl 4-iodobenzoate are 135.6(4), 173.90(23), 189.8(1), and 209.9 pm, respectively. 
+
+==Reactions==
+Aryl halides do not participate in conventional SN2 nucleophilic aromatic substitution reactions. Instead the halides are displaced by strong nucleophiles via reactions involving radical anions. Alternatively aryl halides, especially the bromides and iodides, undergo oxidative addition, and thus are subject to Buchwald–Hartwig amination-type reactions. 
+
+Aryl halides react with metals to give more reactive derivatives that behave as sources of aryl anions. Magnesium aryl halides are Grignard reagents, which are useful in organic synthesis of other aryl compounds.
+
+Chlorobenzene was once the precursor to phenol, which is now made by oxidation of cumene. At high temperatures, aryl groups react with ammonia to give anilines. 
+
+=== Biodegradation ===
+Rhodococcus phenolicus is a bacterium species able to degrade dichlorobenzene as sole carbon sources. 
+
+==Applications==
+The aryl halides produced on the largest scale are chlorobenzene and the isomers of dichlorobenzene. One major but discontinued application was the use of chlorobenzene as a solvent for dispersing the herbicide Lasso. Overall, production of aryl chlorides as well as related naphthyl derivatives has been declining since the 1980s, in part due to environmental concerns. Triphenylphosphine is produced from chlorobenzene:
+:3 C6H5Cl + PCl3 + 6 Na → P(C6H5)3 + 6 NaCl
+
+Aryl bromides are widely used as fire-retardants. The most prominent member is tetrabromobisphenol-A, which is prepared by direct bromination of the diphenol. . 
+
+==References==
+
+

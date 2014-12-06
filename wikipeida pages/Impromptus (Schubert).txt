@@ -1,0 +1,85 @@
+[[Impromptus (Schubert)]]
+
+Franz Schubert's Impromptus are a series of eight pieces for solo piano composed in 1827. They were published in two sets of four impromptus each: the first was published in the composer's lifetime as Op. 90, and the second was published posthumously as Op. posth. 142. They are now catalogued as D. 899 and D. 935 respectively. They are considered to be among the most important examples of this popular early 19th-century genre. Ham, Ina (2005). Franz Schubert’s Impromptus D.899 and D.935: An Historical and Stylistic Study 
+
+Three other unnamed piano compositions (D. 946), written in May 1828, a few months before the composer's death, are known as both Impromptus and Klavierstücke ("piano pieces").
+
+The Impromptus are often considered companion pieces to the Six moments musicaux, and they are often recorded and published together.
+
+It has been said that Schubert was deeply influenced in writing these pieces by the Impromptus, Op. 7 (1822) of Jan Václav Voříšek and by the music of Voříšek's teacher Václav Tomášek. Grove Dictionary of Music and Musicians, 5th ed. 1954 Naxos 
+
+==Four Impromptus, D. 899 (Op. 90)==
+The Opus 90 impromptus consist of 4 typical Romantic-era pieces, each with distinct elements. The name Impromptus was given by the publisher. 
+
+===No. 1 in C minor===
+
+The first Impromptu, written in C minor, is a set of variations on two themes. It commences with two widely spaced G octaves, leaving the key of the piece ambiguous. The piece continues into a march-like melody played first without accompaniment. The melody is repeated with a chordal accompaniment. (At the end of this statement the key is revealed: after a rising bass, the C minor chord is played in root position.) The march theme is embellished, then leads slowly into the key of A-flat major, where an apparently new melody is introduced. This melody is actually based on the opening melody: the first three notes are spread out more in their intervals but the following three repeated notes remain. Its songlike quality, accompanied by triplets in the bass, contrasts with the march quality of the opening. An extension of this melody takes the final turn and repeats it several times in different registers. When the main theme returns for the first time, it has combined with the triplet pattern of the previous section. Later a new pattern with straight (non-triplet) semiquavers is used as accompaniment, and then an off-beat version asserts itself in quavers. This eventually leads into the extension of the second theme again, this time in G major, using the end of the theme's tonic chord as an effective dominant chord transition into the main theme. The theme gradually dies away and leads to C major, resolving the piece's tension into tranquility. This is the longest impromptu in this set.
+
+===No. 2 in E-flat major===
+
+Set in E-flat major, the piece begins with a lively scale-based and often chromatic melody in triplets; it is in compound ternary form (the A section is in ternary form itself). The middle subsection of the A section is in E-flat minor and is naturally darker than the opening though still very lyrical. The section ends with two oscillating figures which act as an important bridge both here and later. The first subsection repeats but moves quickly into a codetta which reasserts E-flat minor and the darker feeling of the middle subsection. A quick ascending scale leads to the B section in B minor (which however contrasting, is based rhythmically on the implied accents in the structure of the A section (123123123123)). This section is based on a figure alternating a widely spaced bare octave and an offbeat accented triplet. The alternation of octave and triplet becomes closer towards the end and the oscillating figures played at the end of the E-flat minor section return to lead back into the opening A section of the work. The Coda is a modified version of the B section, starting in B minor but alternating that key with E-flat minor, in which key the work ends. It is one of few pieces that begin in a major key and end in the parallel minor. 
+
+===No. 3 in G-flat major===
+
+This serenade is a classic example of Schubert's outstanding lyrical facility, as well as his penchant for long melodic lines. There is little interruption in the fluttering harp-like broken triad accompaniment, creating a tense contrast with the spacious and languid melody—an anticipation of Felix Mendelssohn's Songs Without Words. Without repeats, the melody develops into a shadowy and frequently modulating middle section before returning to its relaxed flow. Though written in G-flat major and 4/2 meter, the work was printed by the first publisher, almost 30 years later, in G major and 4/4 meter. It may have been one of the first pieces composed in this unusual key. The original version is now generally preferred.
+
+===No. 4 in A-flat major===
+
+The fourth Impromptu, in A-flat major, actually begins in A-flat minor, though this is written as A-flat major with accidentals. The opening theme consists of cascading arpeggios followed by murmuring chordal responses. These are repeated and developed, going through C-flat major and B minor before finally reaching A-flat major. There is a subordinate theme, accompanied by the arpeggio figure, varied with triplets. In the central section, in C-sharp minor, the arpeggios are replaced by a chordal accompaniment. This section ventures into the major mode towards its conclusion, but reverts to the minor. The opening section is repeated and the work ends in A-flat major. The tempo marking is Allegretto.
+
+==Four Impromptus, D. 935 (Op. posth. 142)==
+As the first and last pieces in this set are in the same key (F minor), and the set bears some resemblance to a 4-movement sonata, these Impromptus have been accused of being a sonata in disguise, notably by Robert Schumann and Alfred Einstein, who claim that Schubert called them Impromptus, and allowed them to be individually published to enhance their sales potential. Einstein However, this claim has been refuted by contemporary musicologists such as Charles Fisk, who established important differences between the set of Impromptus and Schubert's acknowledged multi-movement works. Fisk It is also believed that the set was originally intended to be a continuation of the previous set, as Schubert originally numbered them as Nos. 5–8. 
+
+===No. 1 in F minor===
+This Impromptu is written in rondo form, A1–B1–A2–B2–A3. The returning A section appears always in the tonic, F minor; the first B section, B1 is in A-flat major, the relative major, whereas B2 is in the tonic. This structure can also be interpreted as a sonata form without a development section, supporting the view of the four Impromptus as movements of a single sonata. The B episodes contain a passage invoking a unique pianistic effect: the left hand presents short melodic fragments in form of antecedent and consequent, steadily alternating between the upper (antecedent, creating a crossing of the hands) and lower (consequent) registers of the instrument; the right hand accompanies with an even flow of semiquaver arpeggios in the middle register; the sustain pedal further enriches the sonority, and the dynamics are mostly pianissimo, as often in Schubert's music.
+
+===No. 2 in A-flat major===
+This Impromptu is written in the standard minuet form. Its main section features a melody with chordal accompaniment. The opening bars of the melody are highly reminiscent of a similar theme from the opening of Beethoven's Piano Sonata in A-flat, Opus 26. Alfred Einstein has mentioned another similar theme by Beethoven – in the third movement of the Piano Trio, Op. 70, No. 2. The middle section of the Impromptu, marked Trio as standard in minuets, is contrasted in character with the main section. It is written in D-flat major, and features continuous triplet motion. The second part of the Trio moves to D-flat minor (written in the same key signature but with accidentals added), then climaxes on A major (written without a key signature), fortissimo, and finally calms down and repeats the major-mode first phrase.
+
+===No. 3 in B-flat major===
+
+This Impromptu in B-flat major is a theme with variations. The main theme resembles a theme from the incidental music that Schubert composed for the play Rosamunde, which also appears in the second movement of his 13th string quartet. The variations follow the classic pattern utilized and developed by Beethoven – elements include increasing subdivision and ornamentation, and a modulation prior to a return to the tonic for the final full variation – see the Arietta of Beethoven's Op. 111, and most prominently, the Diabelli Variations.
+
+===No. 4 in F minor===
+This Impromptu contains interesting hemiola effects (where two bars of three beats seem to become three bars of two beats), brilliant passagework as well as cross modulations that take this piece to keys not traditionally associated with F minor, such as A-flat minor (for instance, in bar 111), C-flat major (as in bar 142), and A major (bar 165). It is written roughly in Rondo form and contains a coda that further heightens the drama in this already intense piece. The work is the most technically demanding of the Impromptus, employing a wide variety of keyboard writing, including scale runs (at times in unison), arpeggios, broken chords, quick passages in thirds, and trills. Extreme harmonic and rhythmic effects, combined with demonically charming melodies, make this a dazzling and fascinating display of keyboard facility.
+
+==Drei Klavierstücke, D. 946==
+The Drei Klavierstücke D. 946, or "Three Piano Pieces", are solo pieces composed by Schubert in May 1828, just six months before his early death. They were conceived as a third set of four Impromptus, but only three were written. They were first published in 1868, edited by Johannes Brahms, although his name appears nowhere in the publication. Preface to G. Henle Verlag edition In comparison with the D. 899 and D. 935 sets, these works are largely neglected and are not often heard in the concert hall or recorded. There is space for doubts, though, as to whether these pieces actually constitute a cycle or they were arbitrarily united by Brahms (the third piece was written on different paper sheets than the first two even though there were empty sheets after the second one). For the same reasons, the dating of the third piece is rather problematic.
+Some musicologists refrain from naming these pieces Impromptus though, since whereas the Impromptus D. 899 and D. 935 tend to be closer to sonata allegro form, the construction of the pieces D. 946 is different and is rather closer to the Moments musicaux, both in how Schubert treats the inner sections of the pieces and how he introduces second themes. Preface by Walther Dürr to Bärenreiter edition 
+
+Pianists who have recorded the pieces include Imogen Cooper on Ottavo and Avie, Noël Lee on Disques Valois, András Schiff on Decca, Claudio Arrau, Alfred Brendel and Mitsuko Uchida on Philips, Wilhelm Kempff, Maria João Pires and Maurizio Pollini on Deutsche Grammophon, and Eliso Virsaladze on Live Classics; the British performer Peter Katin and also the Belgian pianist Jos Van Immerseel have recorded them on a period (early-nineteenth-century) instrument.
+
+===No. 1 in E-flat minor===
+The main section (allegro assai) is in 2/4 time, though, as it is largely in triplets, the effect is like 6/8 for much of the time. It soon moves to E-flat major. As originally written, the piece had two trios, the first in B major, andante in alla breve time, and the second in A-flat major, andantino in 2/4. Schubert crossed out the second, but it is not infrequently played also, as heard in the recordings by Arrau, Pires and Uchida.
+
+===No. 2 in E-flat major===
+This is the most commonly heard of the set and is a highly lyrical piece and very long if all repeats are observed. The first appearance of the main section and both trios are each in two sections, each repeated. The main section is an allegretto in 6/8 time. The first trio is in C minor and major (no change in meter or time signature) and the second in A-flat minor (l'istesso tempo in alla breve time).
+
+===No. 3 in C major===
+
+By far the shortest of the three, as it only includes one trio instead of two, this is a lively piece (allegro) in 2/4. The main section exhibits a great deal of syncopation. The trio is in two sections with repeats written out in a varied form. It is in D-flat major and 3/2 time with no change in tempo indication. There is a substantial coda, again with syncopation.
+
+==Cultural references==
+
+The song Questions on the 1976 album The Roaring Silence by progressive rock group Manfred Mann's Earth Band is based on the main theme of Schubert's Impromptu in G-flat major.
+
+For the film Gattaca, Michael Nyman arranged a version of the Impromptu in G-flat major, Op. 90, No. 3, for a genetically modified pianist with twelve fingers. One character says, "Twelve fingers or one, it's how you play." Another responds, "That piece can only be played with twelve."
+
+In the 2002 French film L'homme du train, the old Monsieur Manesquier (played by Jean Rochefort) is more than once depicted playing a part of the Impromptu in A-flat major, Op. 142, No. 2, on his grand piano.
+
+In Howard Jacobson's 2010 Man Booker Prize winning novel The Finkler Question, Impromptu Opus 90 No.3 is referred to as having been played by the character Libor's dead wife Malkie.
+
+Impromptus Nos. 1 and 3, D.899 appeared in Michael Haneke's Palme d'Or winning film, Amour. The pieces, played by Alexandre Tharaud, were released in a soundtrack album by EMI Classics. http://blogs.indiewire.com/theplaylist/michael-hanekes-amour-announced-as-austrias-oscar-entry-plus-details-for-alexandre-tharauds-score-20120905 
+
+==Notes==
+
+==References==
+* 
+* 
+
+==External links==
+
+* 
+*Performances of D. 935/1, D. 935/2, D. 935/3, and D. 935/4 by Charlie Albright from the Isabella Stewart Gardner Museum in MP3 format
+
+

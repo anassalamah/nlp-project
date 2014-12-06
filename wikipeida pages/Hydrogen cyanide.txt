@@ -1,0 +1,81 @@
+[[Hydrogen cyanide]]
+
+Hydrogen cyanide (HCN), sometimes called prussic acid, is an inorganic compound with chemical formula HCN. It is a colorless, extremely poisonous liquid that boils slightly above room temperature, at 25.6 °C. http://www.wolframalpha.com/input/?i=boiling+point+of+Hydrogen+cyanide HCN is produced on an industrial scale and is a highly valuable precursor to many chemical compounds ranging from polymers to pharmaceuticals.
+
+==Structure and general properties==
+Hydrogen cyanide is a linear molecule, with a triple bond between carbon and nitrogen. A minor tautomer of HCN is HNC, hydrogen isocyanide.
+
+Hydrogen cyanide is weakly acidic with a pKa of 9.2. It partially ionizes in water solution to give the cyanide anion, CN–. A solution of hydrogen cyanide in water, represented as HCN, is called hydrocyanic acid. The salts of the cyanide anion are known as cyanides. 
+
+HCN has a faint, bitter, almond-like odor that some people are unable to detect owing to a genetic trait. The volatile compound has been used as inhalation rodenticide and human poison, as well as for killing whales. Cyanide ions interfere with iron-containing respiratory enzymes.
+
+==History of discovery==
+The red colored ferricyanide ion, one component of Prussian blue
+Hydrogen cyanide was first isolated from a blue pigment (Prussian blue) which had been known from 1704 but whose structure was unknown. It is now known to be a coordination polymer with a complex structure and an empirical formula of hydrated ferric ferrocyanide. In 1752, the French chemist Pierre Macquer made the important step of showing that Prussian blue could be converted to iron oxide plus a volatile component and that these could be used to reconstitute it. Pierre-Joseph Macquer (presented: 1752 ; published: 1756) "Éxamen chymique de bleu de Prusse" (Chemical examination of Prussian blue), Mémoires de l'Académie royale des Sciences , pages 60-77. The new component was what we now know as hydrogen cyanide. Following Macquer's lead, it was first prepared from Prussian blue by the Swedish chemist Carl Wilhelm Scheele in 1782, See:
+* Carl W. Scheele (1782) "Försök, beträffande det färgande ämnet uti Berlinerblå" (Experiment concerning the coloring substance in Berlin blue), Kungliga Svenska Vetenskapsakademiens handlingar (Royal Swedish Academy of Science's Proceedings), 3: 264-275 (in Swedish).
+* Reprinted in Latin as: "De materia tingente caerulei berolinensis" in: Carl Wilhelm Scheele with Ernst Benjamin Gottlieb Hebenstreit (ed.) and Gottfried Heinrich Schäfer (trans.), Opuscula Chemica et Physica (Leipzig ("Lipsiae"), (Germany): Johann Godfried Müller, 1789), vol. 2, pages 148-174. and was eventually given the German name Blausäure (lit. "Blue acid") because of its acidic nature in water and its derivation from Prussian blue. In English it became known popularly as Prussic acid.
+
+In 1787 the French chemist Claude Louis Berthollet showed that Prussic acid did not contain oxygen, See:
+* Berthollet (presented: 1787 ; published: 1789)
+"Mémoire sur l'acide prussique" (Memoir on prussic acid), Mémoires de l'Académie Royale des Sciences, pages 148-161.
+* Reprinted in: Berthollet (1789) "Extrait d'un mémoire sur l'acide prussique" (Extract of a memoir on prussic acid), Annales de chimie 1: 30-39. an important contribution to acid theory, which had thitherto postulated that acids must contain oxygen (hence the name of oxygen itself, which is derived from Greek elements that mean "acid-former" and are likewise calqued into German as Sauerstoff). In 1811 Joseph Louis Gay-Lussac prepared pure, liquified hydrogen cyanide. Gay-Lussac (1811) "Note sur l'acide prussique" (Note on prussic acid), Annales de chimie, 44: 128 - 133. In 1815 Gay-Lussac deduced Prussic acid's chemical formula. Gay-Lussac (1815) "Recherche sur l'acide prussique" (Research on prussic acid) Annales de Chimie 95: 136-231. The radical cyanide in hydrogen cyanide was given its name from cyan, not only an English word for a shade of blue but the Greek word for blue, again owing to its derivation from Prussian blue.
+
+==Production and synthesis==
+Hydrogen cyanide forms in at least limited amounts from many combinations of hydrogen, carbon, and ammonia. Hydrogen cyanide is currently produced in great quantities by several processes, as well as being a recovered waste product from the manufacture of acrylonitrile. In 2006 between 500 million and 1 billion pounds were produced in the US. . EPA. Retrieved on 2013-01-31. 
+
+The most important process is the Andrussow oxidation invented by Leonid Andrussow at IG Farben in which methane and ammonia react in the presence of oxygen at about 1200 °C over a platinum catalyst: 
+:2 CH4 + 2 NH3 + 3 O2 → 2 HCN + 6 H2O
+The energy needed for the reaction is provided by the partial oxidation of methane and ammonia.
+
+Of lesser importance is the Degussa process (BMA process) in which no oxygen is added and the energy must be transferred indirectly through the reactor wall: 
+:CH4 + NH3 → HCN + 3H2
+This reaction is akin to steam reforming, the reaction of methane and water to give carbon monoxide and hydrogen.
+
+In the Shawinigan Process, hydrocarbons, e.g. propane, are reacted with ammonia.
+In the laboratory, small amounts of HCN are produced by the addition of acids to cyanide salts of alkali metals:
+:H+ + NaCN → HCN + Na+
+This reaction is sometimes the basis of accidental poisonings because the acid converts a nonvolatile cyanide salt into the gaseous HCN.
+
+===Historical methods of production===
+The demand for cyanides for mining operations in the 1890s was met by George Thomas Beilby, who patented a method to produce hydrogen cyanide by passing ammonia over glowing coal in 1892. This method was used until Hamilton Castner in 1894 developed a synthesis starting from coal, ammonia, and sodium yielding sodium cyanide, which reacts with acid to form gaseous HCN.
+
+==Applications==
+HCN is the precursor to sodium cyanide and potassium cyanide, which are used mainly in gold and silver mining and for the electroplating of those metals. Via the intermediacy of cyanohydrins, a variety of useful organic compounds are prepared from HCN including the monomer methyl methacrylate, from acetone, the amino acid methionine, via the Strecker synthesis, and the chelating agents EDTA and NTA. Via the hydrocyanation process, HCN is added to butadiene to give adiponitrile, a precursor to Nylon 66. 
+
+==Occurrence==
+HCN is obtainable from fruits that have a pit, such as cherries, apricots, apples, and bitter almonds, from which almond oil and flavoring are made. Many of these pits contain small amounts of cyanohydrins such as mandelonitrile and amygdalin, which slowly release hydrogen cyanide. One hundred grams of crushed apple seeds can yield about 70 mg of HCN. Some millipedes release hydrogen cyanide as a defense mechanism, as do certain insects, such as some burnet moths. Hydrogen cyanide is contained in the exhaust of vehicles, in tobacco and wood smoke, and in smoke from burning nitrogen-containing plastics. So-called "bitter" roots of the cassava plant may contain up to 1 gram of HCN per kilogram. 
+
+===HCN and the origin of life===
+Hydrogen cyanide has been discussed as a precursor to amino acids and nucleic acids. For example, HCN is proposed to have played a part in the origin of life. Although the relationship of these chemical reactions to the origin of life theory remains speculative, studies in this area have led to discoveries of new pathways to organic compounds derived from the condensation of HCN. 
+
+===HCN in space===
+
+HCN has been detected in the interstellar medium. Since then, extensive studies have probed formation and destruction pathways of HCN in various environments and examined its use as a tracer for a variety of astronomical species and processes. HCN can be observed from ground-based telescopes through a number of atmospheric windows. The J=1→0, J=3→2, J= 4→3, and J=10→9 pure rotational transitions have all been observed. 
+
+HCN is formed in interstellar clouds through one of two major pathways: via a neutral-neutral reaction (CH2 + N → HCN + H) and via dissociative recombination (HCNH+ + e− → HCN + H). The dissociative recombination pathway is dominant by 30%; however, the HCNH+ must be in its linear form. Dissociative recombination with its structural isomer, H2NC+, exclusively produces hydrogen isocyanide (HNC).
+
+HCN is destroyed in interstellar clouds through a number of mechanisms depending on the location in the cloud. In photon-dominated regions (PDRs), photodissociation dominates, producing CN (HCN + ν → CN + H). At further depths, photodissociation by cosmic rays dominate, producing CN (HCN + cr → CN + H). In the dark core, two competing mechanisms destroy it, forming HCN+ and HCNH+ (HCN + H+ → HCN+ + H; HCN + HCO+ → HCNH+ + CO). The reaction with HCO+ dominates by a factor of ~3.5. HCN has been used to analyze a variety of species and processes in the interstellar medium. It has been suggested as a tracer for dense molecular gas and as a tracer of stellar inflow in high-mass star-forming regions. Further, the HNC/HCN ratio has been shown to be an excellent method for distinguishing between PDRs and X-ray-dominated regions (XDRs). 
+
+==As a poison and chemical weapon==
+
+A hydrogen cyanide concentration of 300 mg/m3 in air will kill a human within 10–60 minutes. Environmental and Health Effects. Cyanidecode.org. Retrieved on 2012-06-02. A hydrogen cyanide concentration of 3500 ppm (about 3200 mg/m3) will kill a human in about 1 minute. The toxicity is caused by the cyanide ion, which halts cellular respiration by acting as a non-competitive inhibitor for an enzyme in mitochondria called cytochrome c oxidase.
+
+Hydrogen cyanide has been absorbed into a carrier for use as a pesticide. Under IG Farben's brand name Zyklon B (German >Cyclone B, with the B standing for Blausäure - "Prussic Acid"), it was used in the German concentration camp mass killing during the World War II (esp. in the Holocaust). The same product is currently made in the Czech Republic under the trademark "Uragan D2." Hydrogen cyanide was also the agent used in gas chambers employed in judicial execution in some U.S. states, where it was produced during the execution by the action of sulfuric acid on an egg-sized mass of potassium cyanide.
+
+Hydrogen cyanide is commonly listed amongst chemical warfare agents known as blood agents. As a substance listed under Schedule 3 of the Chemical Weapons Convention as a potential weapon which has large-scale industrial uses, manufacturing plants in signatory countries which produce more than 30 tonnes per year must be declared to, and can be inspected by, the Organisation for the Prohibition of Chemical Weapons. During the First World War, USA and Italy used hydrogen cyanide against the Central Powers in 1918. France had used it in combat already in 1916, but this proved to be ineffective due to physical conditions. Markus Schnedlitz (2008) Chemische Kampfstoffe: Geschichte, Eigenschaften, Wirkung. GRIN Verlag, ISBN 364023360-3, p. 13 
+
+Under the name prussic acid, HCN has been used as a killing agent in whaling harpoons. Poison Hand Darted Harpoons and Lances. 
+
+Hydrogen cyanide gas in air is explosive at concentrations over 5.6%. This is far above its toxicity level.
+
+==References==
+
+==External links==
+*Institut national de recherche et de sécurité (1997). "Cyanure d'hydrogène et solutions aqueuses". Fiche toxicologique n° 4, Paris:INRS, 5pp. (PDF file, in French)
+*International Chemical Safety Card 0492
+*Hydrogen cyanide and cyanides (CICAD 61)
+*National Pollutant Inventory: Cyanide compounds fact sheet
+*NIOSH Pocket Guide to Chemical Hazards
+*Department of health review
+
+

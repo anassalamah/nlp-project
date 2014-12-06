@@ -1,0 +1,140 @@
+[[Triton (moon)]]
+
+Triton is the largest moon of the planet Neptune, discovered on October 10, 1846, by English astronomer William Lassell. It is the only large moon in the Solar System with a retrograde orbit, which is an orbit in the opposite direction to its planet's rotation. At 2700 km in diameter, it is the seventh-largest moon in the Solar System. Because of its retrograde orbit and composition similar to Pluto's, Triton is thought to have been captured from the Kuiper belt. Triton has a surface of mostly frozen nitrogen, a mostly water ice crust, an icy mantle and a substantial core of rock and metal. The core makes up two-thirds of its total mass. Triton has a mean density of 2.061 g/cm3 and is composed of approximately 15–35% water ice. 
+
+Triton is one of the few moons in the Solar System known to be geologically active. As a consequence, its surface is relatively young, with a complex geological history revealed in intricate and mysterious cryovolcanic and tectonic terrains. Part of its crust is dotted with geysers thought to erupt nitrogen. Triton has a tenuous nitrogen atmosphere less than 1/70,000 the pressure of Earth's atmosphere at sea level. 
+
+== Discovery and naming ==
+
+William Lassell, the discoverer of Triton
+Triton was discovered by British astronomer William Lassell on October 10, 1846, just 17 days after the discovery of Neptune.
+
+A brewer by trade, Lassell began making mirrors for his amateur telescope in 1820. When John Herschel received news of Neptune's discovery, he wrote to Lassell suggesting he search for possible moons. Lassell did so and discovered Triton eight days later. Lassell also claimed to have discovered rings. Although Neptune was later confirmed to have rings, they are so faint and dark that it is doubted he actually saw them. 
+
+Triton is named after the Greek sea god Triton (Τρίτων), the son of Poseidon (the Greek god comparable to the Roman Neptune). The name was first proposed by Camille Flammarion in his 1880 book Astronomie Populaire, although it was not officially adopted until many decades later. Until the discovery of the second moon Nereid in 1949, Triton was commonly known as simply "the satellite of Neptune". Lassell did not name his own discovery, although he suggested names a few years after his subsequent discovery of an eighth moon of Saturn (Hyperion). The third and fourth moons of Uranus (Ariel and Umbriel), which Lassell discovered in 1851, were named by John Herschel. 
+
+== Orbit and rotation ==
+
+Triton is unique among all large moons in the Solar System for its retrograde orbit around its planet (i.e., it orbits in a direction opposite to the planet's rotation). Most of the outer irregular moons of Jupiter and Saturn also have retrograde orbits, as do some of Uranus's outer moons. However, these moons are all much more distant from their primaries, and are small in comparison; the largest of them (Phoebe) has only 8% of the diameter (and 0.03% of the mass) of Triton.
+
+Triton's orbit is associated with two tilts, the inclination of Neptune's spin to Neptune's orbit, 30°, and the inclination of Triton's orbit to Neptune's spin, 157° (an inclination over 90° indicates retrograde motion). Triton's orbit precesses forward relative to Neptune's spin with a period of about 678 Earth years (4.1 Neptunian years), making its Neptune-orbit-relative inclination vary between 127° and 173°. That inclination is currently 130°; Triton's orbit is now near its maximum departure from coplanarity with Neptune's.
+
+Triton is in synchronous rotation with Neptune; it keeps one face oriented toward the planet at all times. Its equator is almost exactly aligned with its orbital plane. At the present time, Triton's rotational axis is about 40° from Neptune's orbital plane, and hence at some point during Neptune's year each pole points fairly close to the Sun, almost like the poles of Uranus. As Neptune orbits the Sun, Triton's polar regions take turns facing the Sun, resulting in seasonal changes as one pole, then the other, moves into the sunlight. Such changes have recently been observed. 
+
+Triton's revolution around Neptune has become a nearly perfect circle with an eccentricity of almost zero. Viscoelastic damping from tides alone is not thought to be capable of circularizing Triton's orbit in the time since the origin of the system, and gas drag from a prograde debris disc is likely to have played a substantial role. Tidal interactions also cause Triton's orbit, already closer to Neptune than the Moon's to Earth, to slowly decay further; predictions are that some 3.6 billion years from now, Triton will pass within Neptune's Roche limit. This will result in either a collision with Neptune's atmosphere or the breakup of Triton, forming a ring system similar to that found around Saturn. 
+
+== Capture ==
+
+The Kuiper belt (green), in the Solar System's outskirts, is where Triton is thought to have originated.
+Moons in retrograde orbits cannot form out of the same region of the solar nebula as the planets they orbit, so Triton must have been captured from elsewhere. Triton might therefore have originated in the Kuiper belt, a ring of small icy objects extending outwards from just inside the orbit of Neptune to about 50 AU from the Sun. Thought to be the point of origin for the majority of short-period comets observed from Earth, it is also home to several large, planet-like bodies including Pluto, which is now recognized as the largest in a population of Kuiper belt objects (the plutinos) locked in orbital step with Neptune. Triton is only slightly larger than Pluto and nearly identical in composition, which has led to the hypothesis that the two share a common origin. 
+
+The proposed capture of Triton may explain several features of the Neptunian system, including the extremely eccentric orbit of Neptune's moon Nereid and the scarcity of moons as compared to the other gas giants. Triton's initially eccentric orbit would have intersected orbits of irregular moons and disrupted those of smaller regular moons, dispersing them through gravitational interactions. 
+
+Triton's eccentric post-capture orbit would have also resulted in tidal heating of its interior, which would have kept Triton liquid for a billion years; this inference is supported by evidence of differentiation in Triton's interior. This source of internal heat disappeared following circularization of the orbit.
+
+Two types of mechanisms have been proposed for Triton's capture. To be gravitationally captured by a planet, a passing body must lose sufficient energy to be slowed down to a speed less than that required to escape. An early theory of how Triton may have been slowed was by collision with another object, either one that happened to be passing by Neptune (which is unlikely), or a moon or proto-moon in orbit around Neptune (which is more likely). A more recent and now favored hypothesis suggests that, before its capture, Triton had a massive companion similar to Pluto's moon Charon with which it formed a binary. When this binary encountered Neptune, it interacted in such a way that orbital energy was transferred from Triton to its companion; the latter was expelled, whereas Triton became bound to Neptune. This hypothesis is supported by several lines of evidence, including binaries being very common among the large Kuiper belt objects. The event was brief but gentle, saving Triton from collisional disruption. Events like this may have been common during the formation of Neptune, or later when it migrated outward. 
+
+== Physical characteristics ==
+Triton's mass (blue), shown as a fraction of the total, dominates the Neptunian moon system, with all other moons combined comprising only one third of one percent. This imbalance may reflect the elimination of many of Neptune's original satellites following Triton's capture.
+Triton (lower left) compared to the Moon (upper left) and Earth (right), to scale.
+
+Triton is the seventh largest moon and sixteenth largest object in the Solar System, and is modestly larger than the dwarf planets Pluto and Eris. It comprises more than 99.5% of all the mass known to orbit Neptune, including the planet's rings and thirteen other known moons, and is also more massive than all known moons in the Solar System smaller than itself combined. It has a radius, density (2.061 g/cm3), temperature and chemical composition similar to those of Pluto. 
+
+As with Pluto, 55% of Triton's surface is covered with frozen nitrogen, with water ice comprising 15–35% and dry ice (frozen carbon dioxide) forming the remaining 10–20%. Trace ices include 0.1% methane and 0.05% carbon monoxide. There could also be ammonia on the surface if ammonia dihydrate is present as suspected in the lithosphere. Triton's density implies it is probably about 30–45% water ice, with the remainder being rocky material. Triton's surface area is 23 million km2, which is 4.5% of Earth, or 15.5% of Earth's land area. Triton has a considerably high albedo, reflecting 60–95% of the sunlight that reaches it. By comparison, the Moon reflects only 11%. Triton's reddish colour is thought to be the result of methane ice, which is converted to tholins under bombardment from ultraviolet radiation. 
+
+Because Triton's surface indicates a long history of melting, models of its interior posit that Triton is differentiated, like Earth, into a solid core, a mantle and a crust. Water, the most abundant volatile in the Solar System, comprises Triton's mantle, which lies over a core of rock and metal. There is enough rock in Triton's interior for radioactive decay to power convection in the mantle. The heat may even be sufficient to maintain a subterranean ocean similar to that which is hypothesized to exist underneath the surface of Europa. If present, a layer of liquid water would suggest the possibility of life. 
+
+== Atmosphere ==
+
+Artist's impression of Triton, showing its tenuous atmosphere just over the limb.
+
+Triton has a tenuous nitrogen atmosphere, with trace amounts of carbon monoxide and small amounts of methane near the surface. Like Pluto's atmosphere, the atmosphere of Triton is thought to have resulted from evaporation of nitrogen from its surface. The surface temperature is at least () because Triton's nitrogen ice is in the warmer, hexagonal crystalline state, and the phase transition between hexagonal and cubic nitrogen ice occurs at that temperature. An upper limit in the low 40s (K) can be set from vapor pressure equilibrium with nitrogen gas in Triton's atmosphere. This temperature range is colder than Pluto's average equilibrium temperature of (). Triton's surface atmospheric pressure is only about 1.4– (0.014–). 
+
+Clouds observed above Triton's limb by Voyager 2
+
+Turbulence at Triton's surface creates a troposphere (a "weather region") rising to an altitude of 8 km. Streaks on Triton's surface left by geyser plumes suggest that the troposphere is driven by seasonal winds capable of moving material of over a micrometre in size. Unlike other atmospheres, Triton's lacks a stratosphere, and instead has a thermosphere from altitudes of 8 to 950 km, and an exosphere above that. The temperature of Triton's upper atmosphere, at , is higher than that at the surface, due to heat absorbed from solar radiation and Neptune's magnetosphere. A haze permeates most of Triton's troposphere, thought to be composed largely of hydrocarbons and nitriles created by the action of sunlight on methane. Triton's atmosphere also possesses clouds of condensed nitrogen that lie between 1 and 3 km from the surface. 
+
+In 1997, observations from Earth were made of Triton's limb as it passed in front of stars. These observations indicated the presence of a denser atmosphere than was deduced from Voyager 2 data. Other observations have shown an increase in temperature by 5% from 1989 to 1998. These observations indicate Triton is approaching an unusually warm summer season that only happens once every few hundred years. Theories for this warming include a change of frost patterns on Triton's surface and a change in ice albedo, which would allow more heat to be absorbed. Another theory argues the changes in temperature are a result of deposition of dark, red material from geological processes. Because Triton's Bond albedo is among the highest within the Solar System, it is sensitive to small variations in spectral albedo. 
+
+== Surface features ==
+
+All detailed knowledge of the surface of Triton was acquired in a single encounter by the Voyager 2 spacecraft in 1989. The 40% of Triton's surface imaged by Voyager revealed blocky outcrops, ridges, troughs, furrows, hollows, plateaus, icy plains and few craters. Triton is relatively flat; its observed topography never varies beyond a kilometer. There are relatively few impact craters on Triton. Recent analysis of crater density and distribution has suggested that in geological terms, Triton's surface is extremely young, with regions varying from an estimated 50 million years old to just an estimated 6 million years old. 
+
+=== Cryovolcanism ===
+
+Dark streaks across Triton's south polar cap surface, thought to be dust deposits left by eruptions of nitrogen geysers
+
+Triton is geologically active; its surface is young and has relatively few impact craters. Although Triton is made of various ices, its subsurface processes are similar to those that produce volcanoes and rift valleys on Earth, but with water and ammonia lavas as opposed to liquid rock. Triton's entire surface is cut by complex valleys and ridges, probably the result of tectonics and icy volcanism. The vast majority of surface features on Triton are endogenic—the result of internal geological processes rather than external processes such as impacts. Most are volcanic and extrusive in nature, rather than tectonic. 
+
+The Voyager 2 probe observed a handful of geyser-like eruptions of invisible nitrogen gas and entrained dust from beneath the surface of Triton in plumes up to 8 km high. Triton is thus, along with Earth, Io, and Enceladus, one of the few bodies in the Solar System on which active eruptions of some sort have been observed. (Venus, Mars, Europa, Titan, and Dione may also be volcanically active.) The best-observed examples were named Hili and Mahilani (after a Zulu water sprite and a Tongan sea spirit, respectively). 
+
+All the geysers observed were located between 50° and 57°S, the part of Triton's surface close to the subsolar point. This indicates that solar heating, although very weak at Triton's great distance from the Sun, plays a crucial role. It is thought that the surface of Triton probably consists of a translucent layer of frozen nitrogen overlying a darker substrate, which creates a kind of "solid greenhouse effect". Solar radiation passes through the surface ice, slowly heating and vaporizing subsurface nitrogen until enough gas pressure accumulates for it to erupt through the crust. A temperature increase of just 4 K above the ambient surface temperature of 37 K could drive eruptions to the heights observed. Although commonly termed "cryovolcanic", this nitrogen plume activity is distinct from Triton's larger scale cryovolcanic eruptions, as well as volcanic processes on other worlds, which are powered by the internal heat of the body in question. Analogous plumes of gaseous CO2 are thought to erupt from the south polar cap of Mars each spring. 
+
+Each eruption of a Triton geyser may last up to a year, driven by the sublimation of about 100 e6m3 of nitrogen ice over this interval; dust entrained may be deposited up to 150 km downwind in visible streaks, and perhaps much farther in more diffuse deposits. Voyager's images of Triton's southern hemisphere show many such streaks of dark material. Between 1977 and the Voyager flyby in 1989, Triton shifted from a reddish colour, similar to Pluto, to a far paler hue, suggesting that in the intervening decade lighter nitrogen frosts had covered older reddish material. The eruption of volatiles from Triton's equator and their deposition at the poles may redistribute enough mass over the course of 10,000 years to cause polar wander. 
+
+=== Polar cap, plains and ridges ===
+
+Triton's bright south polar cap above a region of cantaloupe terrain
+
+The southern polar region of Triton is covered by a highly reflective cap of frozen nitrogen and methane sprinkled by impact craters and openings of geysers. Little is known about the north pole because it was on the night side during the Voyager 2 encounter. However, it is thought that Triton must also have a north polar cap. 
+
+The high plains found on Triton's eastern hemisphere, such as Cipango Planum, cover over and blot out older features, and are therefore almost certainly the result of icy lava washing over the previous landscape. The plains are dotted with pits, such as Leviathan Patera, which are probably the vents from which this lava emerged. The composition of the lava is unknown, although a mixture of ammonia and water is suspected. 
+
+Four roughly circular "walled plains" have been identified on Triton. They are the flattest regions so far discovered, with a variance in altitude of less than 200 m. They are thought to have formed from eruption of icy lava. The plains near Triton's eastern limb are dotted with black spots, the maculae. Each of the maculae comprises a dark central patch surrounded by a white halo of material. They all have similar diameters of between 20 and 30 km. Some speculate the maculae are outliers of the southern polar cap, which is in retreat in summer. 
+
+There are extensive ridges and valleys in complex patterns across Triton's surface, probably the result of freeze–thaw cycles. Many also appear to be tectonic in nature and may result from extension or strike-slip faulting. There are long double ridges of ice with central troughs bearing a strong resemblance to Europan lineae (although they have a larger scale ), and which may have a similar origin, possibly shear heating from strike-slip motion along faults caused by diurnal tidal stresses experienced before Triton's orbit was fully circularized. These faults with parallel ridges expelled from the interior cross complex terrain with valleys in the equatorial region. The ridges and furrows, or sulci, such as Yasu Sulci, Ho Sulci, and Lo Sulci, are thought to be of intermediate age in Triton's geological history, and in many cases to have formed concurrently. They tend to be clustered in groups or "packets". 
+
+=== Cantaloupe terrain ===
+
+Cantaloupe terrain viewed from 130,000 km by Voyager 2, with crosscutting Europa-like double ridges. Slidr Sulci (vertical) and Tano Sulci form the prominent "X".
+
+Triton's western hemisphere consists of a strange series of fissures and depressions known as "cantaloupe terrain" because of its resemblance to the skin of a cantaloupe melon. Although it has few craters, it is thought that this is the oldest terrain on Triton. It probably covers much of Triton's western half. 
+
+Cantaloupe terrain, which is mostly dirty water ice, is known to exist only on Triton. It contains depressions 30–40 km in diameter. The depressions (cavi) are probably not impact craters because they are all of similar size and have smooth curves. The leading hypothesis for their formation is diapirism, the rising of "lumps" of less dense material through a stratum of denser material. Alternate hypotheses include formation by collapses, or by flooding caused by cryovolcanism. 
+
+=== Impact craters ===
+
+Tuonela Planitia (left) and Ruach Planitia (center) are two of Triton's cryovolcanic "walled plains". The paucity of craters is evidence of extensive geologic activity.
+
+Due to constant erasure and modification by ongoing geological activity, impact craters on Triton's surface are relatively rare. A census of Triton's craters imaged by Voyager 2 found only 179 that were incontestably of impact origin, compared with 835 observed for Uranus' moon Miranda, which has only three percent of Triton's surface area. The largest crater observed on Triton thought to have been created by an impact is a 27 km-diameter feature called Mazomba. Although larger craters have been observed, they are generally thought to be volcanic in nature. 
+
+The few impact craters on Triton are almost all concentrated in the leading hemisphere—that facing the direction of the orbital motion—with the majority concentrated around the equator between 30° and 70° longitude, resulting from material swept up from orbit around Neptune. Because it orbits with one side permanently facing the planet, astronomers expect that Triton should have fewer impacts on its trailing hemisphere, as impacts on the leading hemisphere would be more frequent and more violent. However, as Voyager only imaged 40% of Triton's surface, this remains uncertain.
+
+== Observation and exploration ==
+
+Neptune (top) and Triton (bottom) three days after Voyager 2s flyby
+
+The orbital properties of Triton had been defined with high accuracy in the 19th century. It was found to have a retrograde orbit, at a very high angle of inclination to the plane of Neptune's orbit. The first detailed observations of Triton were not made until 1930. Little was known about the satellite until Voyager 2 arrived at the end of the 20th century. 
+
+Before the arrival of Voyager 2, astronomers suspected that Triton might have liquid nitrogen seas and a nitrogen/methane atmosphere with a density as much as 30% that of Earth. Like the famous overestimates of the atmospheric density of Mars, this was completely false. As with Mars, a denser atmosphere is postulated for its early history. 
+
+The first attempt to measure the diameter of Triton was made by Gerard Kuiper in 1954. He obtained a value of 3,800 km. Subsequent measurement attempts arrived at values ranging from 2,500 to 6,000 km, or from slightly smaller than our Moon to nearly half the diameter of Earth. Data from the approach of Voyager 2 to Neptune on August 25, 1989, led to a more accurate estimate of Triton's diameter (2,706 km). 
+
+In the 1990s, various observations from Earth were made of the limb of Triton using the occultation of nearby stars, which indicated the presence of an atmosphere and an exotic surface. The observations suggest that the atmosphere is denser than the Voyager 2 measurements had indicated. 
+
+New concepts for missions to the Neptune system to be conducted in the 2010s have been brought forward by NASA scientists on numerous occasions over the last decades. All of them identified Triton as being a prime target and a separate Triton lander comparable to the Huygens probe for Titan was frequently included in those plans. To date, however, no efforts aimed at Neptune and Triton went beyond the proposal phase and NASA's funding on missions to the outer solar system is currently focused on the Jupiter and Saturn systems. 
+
+== See also ==
+
+* List of geological features on Triton
+* Neptune's moons in fiction
+* Triton's sky
+
+== Notes ==
+
+== References ==
+
+== External links ==
+
+* Triton Profile at NASA's Solar System Exploration site
+* Triton page at The Nine Planets
+* Triton page (including labelled Triton map) at Views of the Solar System
+* Movie of Triton's rotation from the National Oceanic and Atmospheric Administration site
+* Triton images from Planetary Photojournal
+* Triton Nomenclature from the USGS Planetary Nomenclature web site
+* Paul Schenk's 3D images and flyover video of Triton
+*Ted Stryk processed Triton Cresent Triton
+
+ 
+
+

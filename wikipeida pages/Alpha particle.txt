@@ -1,0 +1,113 @@
+[[Alpha particle]]
+
+Alpha particles consist of two protons and two neutrons bound together into a particle identical to a helium nucleus. They are generally produced in the process of alpha decay, but may also be produced in other ways. Alpha particles are named after the first letter in the Greek alphabet, α. The symbol for the alpha particle is α or α2+. Because they are identical to helium nuclei, they are also sometimes written as or indicating a Helium ion with a +2 charge (missing its two electrons). If the ion gains electrons from its environment, the alpha particle can be written as a normal (electrically neutral) Helium atom .
+
+The nomenclature is not well defined, and thus not all high-velocity helium nuclei are considered by all authors as alpha particles. As with beta and gamma rays/particles, the name used for the particle carries some mild connotations about its production process and energy, but these are not rigorously applied. 
+ Some science authors may use doubly ionized helium nuclei () and alpha particles as interchangeable terms. Thus, alpha particles may be loosely used as a term when referring to stellar helium nuclei reactions (for example the alpha processes), and even when they occur as components of cosmic rays. A higher energy version of alphas than produced in alpha decay is a common product of an uncommon nuclear fission result called ternary fission. However, helium nuclei produced by particle accelerators (cyclotrons, synchrotrons, and the like) are less likely to be referred to as "alpha particles".
+
+Alpha particles, like helium nuclei, have a net spin of zero. Due to the mechanism of their production in standard alpha radioactive decay, alpha particles generally have a kinetic energy of about 5 MeV, and a velocity in the vicinity of 5% the speed of light (see discussion below for the limits of these figures in alpha decay). They are a highly ionizing form of particle radiation, and (when resulting from radioactive alpha decay) have low penetration depth. They are able to be stopped by a few centimeters of air, or by the skin. However, so-called long range alpha particles from ternary fission are three times as energetic, and penetrate three times as far. As noted, the helium nuclei that form 10-12% of cosmic rays are also usually of much higher energy than those produced by nuclear decay processes, and are thus capable of being highly penetrating and able to traverse the human body and also many meters of dense solid shielding, depending on their energy. To a lesser extent, this is also true of very high-energy helium nuclei produced by particle accelerators.
+
+When alpha particle emitting isotopes are ingested, they are far more dangerous than their half-life or decay rate would suggest, due to the high relative biological effectiveness of alpha radiation to cause biological damage, after alpha-emitting radioisotopes enter living cells. Ingested alpha emitter radioisotopes (such as transuranics or actinides) are an average of about 20 times more dangerous, and in some experiments up to 1000 times more dangerous, than an equivalent activity of beta emitting or gamma emitting radioisotopes.
+
+== Sources of alpha particles ==
+
+=== Alpha decay ===
+
+The most well-known source of alpha particles is alpha decay of heavier (> 106 u atomic weight) atoms. When an atom emits an alpha particle in alpha decay, the atom's mass number decreases by four due to the loss of the four nucleons in the alpha particle. The atomic number of the atom goes down by exactly two, as a result of the loss of two protons – the atom becomes a new element. Examples of this sort of nuclear transmutation are when uranium becomes thorium, or radium becomes radon gas, due to alpha decay.
+
+Alpha particles are commonly emitted by all of the larger radioactive nuclei such as uranium, thorium, actinium, and radium, as well as the transuranic elements. Unlike other types of decay, alpha decay as a process must have a minimum-size atomic nucleus that can support it. The smallest nuclei that have to date been found to be capable of alpha emission are the lightest nuclides of tellurium (element 52), with mass numbers between 106 and 110. The process of alpha decay sometimes leaves the nucleus in an excited state, wherein the emission of a gamma ray then removes the excess energy.
+
+==== Mechanism of production in alpha decay ====
+In contrast to beta decay, the fundamental interactions responsible for alpha decay are a balance between the electromagnetic force and nuclear force. Alpha decay results from the Coulomb repulsion between the alpha particle and the rest of the nucleus, which both have a positive electric charge, but which is kept in check by the nuclear force. In classical physics, alpha particles do not have enough energy to escape the potential well from the strong force inside the nucleus (this well involves escaping the strong force to go up one side of the well, which is followed by the electromagnetic force causing a repulsive push-off down the other side).
+
+However, the quantum tunnelling effect allows alphas to escape even though they do not have enough energy to overcome the nuclear force. This is allowed by the wave nature of matter, which allows the alpha particle to spend some of its time in a region so far from the nucleus that the potential from the repulsive electromagnetic force has fully compensated for the attraction of the nuclear force. From this point, alpha particles can escape, and in quantum mechanics, after a certain time, they do so.
+
+=== Ternary fission ===
+Especially energetic alpha particles deriving from a nuclear process are produced in the relatively rare (one in a few hundred) nuclear fission process of ternary fission. In this process, three charged particles are produced from the event instead of the normal two, with the smallest of the charged particles most probably (90% probability) being an alpha particle. Such alpha particles are termed "long range alphas" since at their typical energy of 16 MeV, they are at far higher energy than is ever produced by alpha decay. Ternary fission happens in both neutron-induced fission (the nuclear reaction that happens in a nuclear reactor), and also when fissionable and fissile actinides nuclides (i.e., heavy atoms capable of fission) undergo spontaneous fission as a form of radioactive decay. In both induced and spontaneous fission, the higher energies available in heavy nuclei result in long range alphas of higher energy than those from alpha decay.
+
+=== Accelerators ===
+Energetic helium nuclei may be produced by cyclotrons, synchrotrons, and other particle accelerators, but they are not normally referred to as "alpha particles."
+
+=== Solar core reactions ===
+As noted, helium nuclei may participate in nuclear reactions in stars, and occasionally and historically these have been referred to as alpha reactions (see for example triple alpha process).
+
+=== Cosmic rays ===
+In addition, extremely high energy helium nuclei sometimes referred to as alpha particles make up about 10 to 12% of cosmic rays. The mechanisms of cosmic ray production continue to be debated.
+
+== Energy and absorption ==
+The energy of the alpha emitted in alpha decay is mildly dependent on the half-life for the emission process, with many orders of magnitude differences in half-life being associated with energy changes of less than 50% (see alpha decay).
+The energy of alpha particles emitted varies, with higher energy alpha particles being emitted from larger nuclei, but most alpha particles have energies of between 3 and 7 MeV (mega-electron-volts), corresponding to extremely long and extremely short half-lives of alpha-emitting nuclides, respectively.
+
+This energy is a substantial amount of energy for a single particle, but their high mass means alpha particles have a lower speed (with a typical kinetic energy of 5 MeV; the speed is 15,000 km/s, which is 5% of the speed of light) than any other common type of radiation (β particles, neutrons, etc.) N.B. Gamma rays move at the speed of light (c). Beta particles often move at a large fraction of c, and exceed 0.5 c whenever their energy is > 64 keV, which it commonly is. Neutron velocity from nuclear reactions ranges from about 0.06 c for fission to as much as 0.17 c for fusion. Because of their charge and large mass, alpha particles are easily absorbed by materials, and they can travel only a few centimetres in air. They can be absorbed by tissue paper or the outer layers of human skin (about 40 micrometres, equivalent to a few cells deep).
+
+== Biological effects ==
+
+Because of the short range of absorption, alphas are not, in general, dangerous to life unless the source is ingested or inhaled, in which case they become extremely dangerous. Because of this high mass and strong absorption, if alpha-emitting radionuclides do enter the body (upon being inhaled, ingested, or injected, as with the use of Thorotrast for high-quality X-ray images prior to the 1950s), alpha radiation is the most destructive form of ionizing radiation. It is the most strongly ionizing, and with large enough doses can cause any or all of the symptoms of radiation poisoning. It is estimated that chromosome damage from alpha particles is anywhere from 10 to 1000 times greater than that caused by an equivalent amount of gamma or beta radiation, with the average being set at 20 times. The powerful alpha emitter polonium-210 (a milligram of 210Po emits as many alpha particles per second as 4.215 grams of 226Ra) is suspected of playing a role in lung cancer and bladder cancer related to tobacco smoking. 
+ 210Po was used to kill Russian dissident and ex-FSB officer Alexander V. Litvinenko in 2006. 
+
+== History of discovery and use ==
+Alpha radiation consists of helium-4 nucleus and is readily stopped by a sheet of paper. Beta radiation, consisting of electrons, is halted by an aluminium plate. Gamma radiation is eventually absorbed as it penetrates a dense material. Lead is good at absorbing gamma radiation, due to its density.
+
+An alpha particle is deflected by a magnetic field
+
+In the years 1899 and 1900, physicists Ernest Rutherford (working in McGill University in Montreal, Canada) and Paul Villard (working in Paris) separated radiation into three types: eventually named alpha, beta, and gamma by Rutherford, based on penetration of objects and deflection by a magnetic field. Rutherford distinguished and named α and β rays on page 116 of: E. Rutherford (1899) "Uranium radiation and the electrical conduction produced by it," Philosophical Magazine, Series 5, vol. 47, no. 284, pages 109-163. Rutherford named γ rays on page 177 of: E. Rutherford (1903) "The magnetic and electric deviation of the easily absorbed rays from radium," Philosophical Magazine, Series 6, vol. 5, no. 26, pages 177-187. Alpha rays were defined by Rutherford as those having the lowest penetration of ordinary objects.
+
+Rutherford's work also included measurements of the ratio of an alpha particle's mass to its charge, which led him to the hypothesis that alpha particles were doubly charged helium ions (later shown to be bare helium nuclei). In 1907, Ernest Rutherford and Thomas Royds finally proved that alpha particles were indeed helium ions. E. Rutherford and T. Royds (1908) "Spectrum of the radium emanation," Philosophical Magazine, Series 6, vol. 16, pages 313-317. To do this they allowed alpha particles to penetrate a very thin glass wall of an evacuated tube, thus capturing a large number of the hypothesized helium ions inside the tube. They then caused an electric spark inside the tube, which provided a shower of electrons that were taken up by the ions to form neutral atoms of a gas. Subsequent study of the spectra of the resulting gas showed that it was helium and that the alpha particles were indeed the hypothesized helium ions.
+
+Because alpha particles occur naturally, but can have energy high enough to participate in a nuclear reaction, study of them led to much early knowledge of nuclear physics. Rutherford used alpha particles emitted by radium bromide to infer that J. J. Thomson's Plum pudding model of the atom was fundamentally flawed. In Rutherford's gold foil experiment conducted by his students Hans Geiger and Ernest Marsden, a narrow beam of alpha particles was established, passing through very thin (a few hundred atoms thick) gold foil. The alpha particles were detected by a zinc sulfide screen, which emits a flash of light upon an alpha particle collision. Rutherford hypothesized that, assuming the "plum pudding" model of the atom was correct, the positively charged alpha particles would be only slightly deflected, if at all, by the dispersed positive charge predicted.
+
+It was found that some of the alpha particles were deflected at much larger angles than expected (at a suggestion by Rutherford to check it) and some even bounced almost directly back. Although most of the alpha particles went straight through as expected, Rutherford commented that the few particles that were deflected was akin to shooting a fifteen-inch shell at tissue paper only to have it bounce off, again assuming the "plum pudding" theory was correct. It was determined that the atom's positive charge was concentrated in a small area in its center, making the positive charge dense enough to deflect any positively charged alpha particles that came close to what was later termed the nucleus.
+
+Note: Prior to this discovery, it was not known that alpha particles are themselves atomic nuclei, nor was the existence of protons or neutrons known. After this discovery J.J. Thomson's "plum pudding" model was abandoned, and Rutherford's experiment led to the Bohr model (named for Niels Bohr) and later the modern wave-mechanical model of the atom.
+
+Energy-loss (Bragg curve) in air for typical alpha particle emitted through radioactive decay.
+
+ The trace of a single alpha particle obtained by nuclear physicist Wolfhart Willimczik with his spark chamber specially made for alpha particle.
+
+Rutherford went on to use alpha particles to accidentally produce what he later understood as a directed nuclear transmutation of one element to another, in 1917. Transmutation of elements from one to another had been understood since 1901 as a result of natural radioactive decay, but when Rutherford projected alpha particles from alpha decay into air, he discovered this produced a new type of radiation which proved to be hydrogen nuclei (Rutherford named these protons). Further experimentation showed the protons to be coming from the nitrogen component of air, and the reaction was deduced to be a transmutation of nitrogen into oxygen in the reaction
+
+:14N + α → 17O + p 
+
+This was the first-discovered nuclear reaction.
+
+To the pictures on the right: According to the energy-loss curve by Bragg it is recognizable that the alpha particle loses indeed more energy on the end of the trace. Magazine "nuclear energy" (III/18 (203) special edition, Volume 10, Issue 2 /1967. 
+
+==Anti-alpha particle==
+In 2011 members of the international STAR collaboration using the Relativistic Heavy Ion Collider at the U.S. Department of Energy's Brookhaven National Laboratory detected the antimatter partner of the helium nucleus, also known as the anti-alpha. Their result was published on April 24, 2011, in Nature. 
+. See also erratum in The experiment used gold ions moving at nearly the speed of light and colliding head on to produce the antiparticle. 
+ 
+
+== Applications ==
+* Most smoke detectors contain a small amount of the alpha emitter americium-241. The alpha particles ionize air between a small gap. A small current is passed through that ionized air. Smoke particles from fire that enter the air gap reduce the current flow, sounding the alarm. The isotope is extremely dangerous if inhaled or ingested, but the danger is minimal if the source is kept sealed. Many municipalities have established programs to collect and dispose of old smoke detectors, to keep them out of the general waste stream.
+* Alpha decay can provide a safe power source for radioisotope thermoelectric generators used for space probes and artificial heart pacemakers. Alpha decay is much more easily shielded against than other forms of radioactive decay. Plutonium-238, a source of alpha particles, requires only 2.5 mm of lead shielding to protect against unwanted radiation.
+* Static eliminators typically use polonium-210, an alpha emitter, to ionize air, allowing the "static cling" to more rapidly dissipate.
+* Researchers are currently trying to use the damaging nature of alpha emitting radionuclides inside the body by directing small amounts towards a tumor. The alphas damage the tumor and stop its growth while their small penetration depth prevents radiation damage of the surrounding healthy tissue. This type of cancer therapy is called unsealed source radiotherapy.
+
+== Alpha radiation and RAM errors ==
+
+In computer technology, dynamic random access memory (DRAM) "soft errors" were linked to alpha particles in 1978 in Intel's DRAM chips. The discovery led to strict control of radioactive elements in the packaging of semiconductor materials, and the problem is largely considered to be solved. 
+ 
+
+== See also ==
+* Beta particle
+* Helion, the nucleus of helium-3 rather than helium-4
+* Cosmic rays
+* List of alpha emitting materials
+* Nuclear physics
+* Particle physics
+* Radioactive isotope
+* rays:
+** γ Gamma ray
+** δ Delta ray
+** ε Epsilon radiation
+
+== References ==
+
+*
+
+== External links ==
+
+Alpha
+Alpha
+
+

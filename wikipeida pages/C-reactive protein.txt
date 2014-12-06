@@ -1,0 +1,92 @@
+[[C-reactive protein]]
+
+C-reactive protein (CRP) is an annular (ring-shaped), pentameric protein found in the blood plasma, the levels of which rise in response to inflammation (i.e., C-reactive protein is an acute-phase protein). Its physiological role is to bind to phosphocholine expressed on the surface of dead or dying cells (and some types of bacteria) in order to activate the complement system via the C1Q complex. 
+
+CRP is synthesized by the liver in response to factors released by macrophages and fat cells (adipocytes). It is a member of the pentraxin family of proteins. It is not related to C-peptide (insulin) or protein C (blood coagulation). C-reactive protein was the first pattern recognition receptor (PRR) to be identified. 
+
+==History and nomenclature==
+CRP was so named because it was first identified as a substance in the serum of patients with acute inflammation that reacted with the C-polysaccharide of Pneumococcus.
+
+Discovered by Tillett and Francis in 1930, it was initially thought that CRP might be a pathogenic secretion since it was elevated a variety of illnesses, including cancer. The later discovery of hepatic synthesis demonstrated that it is a native protein. 
+
+==Genetics and structure==
+The CRP gene is located on the first chromosome (1q21-q23). It is a member of the small pentraxins family. It has 224 amino acids, NCBI Entrez Protein #CAA39671 has a monomer molecular mass of 25106 Da, and has an annular pentameric discoid shape.
+
+==Function==
+
+CRP binds to the phosphocholine expressed on the surface of dead or dying cells and some bacteria. This activates the complement system, promoting phagocytosis by macrophages, which clears necrotic and apoptotic cells and bacteria.
+
+This so-called acute phase response occurs as a result of a rise in the concentration of IL-6, which is produced by macrophages as well as adipocytes in response to a wide range of acute and chronic inflammatory conditions such as bacterial, viral, or fungal infections; rheumatic and other inflammatory diseases; malignancy; and tissue injury and necrosis. These conditions cause release of interleukin-6 and other cytokines that trigger the synthesis of CRP and fibrinogen by the liver. . 
+
+CRP binds to phosphocholine on microbes. It is thought to assist in complement binding to foreign and damaged cells and enhances phagocytosis by macrophages (opsonin-mediated phagocytosis), which express a receptor for CRP. It plays a role in innate immunity as an early defense system against infections.
+
+CRP rises within two hours of the onset of inflammation, up to a 50,000-fold, and peaks at 48 hours. Its half-life of 48 hours is constant, and therefore its level is determined by the rate of production and hence the severity of the precipitating cause. CRP is thus a screen for inflammation.
+
+== Role ==
+
+===Diagnostic use===
+CRP is used mainly as a marker of inflammation. Apart from liver failure, there are few known factors that interfere with CRP production. 
+
+Measuring and charting CRP values can prove useful in determining disease progress or the effectiveness of treatments. ELISA, immunoturbidimetry, rapid immunodiffusion, and visual agglutination are all methods used to measure CRP.
+
+Reference ranges for blood tests, showing C-reactive protein in brown-yellow in center.
+
+A high-sensitivity CRP (hs-CRP) test measures low levels of CRP using laser nephelometry. The test gives results in 25 minutes with a sensitivity down to 0.04 mg/L.
+
+Normal concentration in healthy human serum is usually lower than 10 mg/L, slightly increasing with aging. Higher levels are found in late pregnant women, mild inflammation and viral infections (10–40 mg/L), active inflammation, bacterial infection (40–200 mg/L), severe bacterial infections and burns (>200 mg/L). 
+
+CRP is a more sensitive and accurate reflection of the acute phase response than the ESR (Erythrocyte Sedimentation Rate). ESR may be normal and CRP elevated. CRP returns to normal more quickly than ESR in response to therapy.
+
+Several studies investigated differential diagnostic values of CRP in a series of inflammatory disease ( including inflammatory bowel disease, Intestinal Lymphoma, Intestinal Tuberculosis and Behcet's Syndrome), and compared CRP to other inflammatory biomarkers, such as ESR and WBC. 
+
+=== Cancer ===
+The role of inflammation in cancer is not well understood. Some organs of the body show greater risk of cancer when they are chronically inflamed. 
+
+In a 2004 prospective cohort study on colon cancer risk associated with CRP levels, people with colon cancer had higher average CRP concentrations than people without colon cancer. It can be noted that the average CRP levels in both groups were well within the range of CRP levels usually found in healthy people. However, these findings may suggest that low inflammation level can be associated with a lower risk of colon cancer, concurring with previous studies that indicate anti-inflammatory drugs could lower colon cancer risk. 
+
+=== Cardiovascular disease ===
+
+Recent research suggests that patients with elevated basal levels of CRP are at an increased risk of diabetes, hypertension and cardiovascular disease. A study of over 700 nurses showed that those in the highest quartile of trans fat consumption had blood levels of CRP that were 73% higher than those in the lowest quartile. Although one group of researchers indicated that CRP may be only a moderate risk factor for cardiovascular disease, this study (known as the Reykjavik Study) was found to have some problems for this type of analysis related to the characteristics of the population studied, and there was an extremely long follow-up time, which may have attenuated the association between CRP and future outcomes. Koenig, Wolfgang (2006). "C-reactive protein - a critical cardiovascular risk marker". CRPhealth.com. Others have shown that CRP can exacerbate ischemic necrosis in a complement-dependent fashion and that CRP inhibition can be a safe and effective therapy for myocardial and cerebral infarcts; so far, this has been demonstrated in animal models only. 
+
+It has been hypothesized that patients with high CRP levels might benefit from use of statins. This is based on the JUPITER trial that found that elevated CRP levels without hyperlipidemia benefited. Statins were selected because they have been proven to reduce levels of CRP. Studies comparing effect of various statins in hs-CRP revealed similar effects of different statins. A subsequent trial however failed to find that CRP was useful for determining statin benefit. 
+
+In a meta-analysis of 20 studies involving 1,466 patients with coronary artery disease, CRP levels were found to be reduced after exercise interventions. Among those studies, higher CRP concentrations or poorer lipid profiles before beginning exercise were associated with greater reductions in CRP. 
+
+To clarify whether CRP is a bystander or active participant in atherogenesis, a 2008 study compared people with various genetic CRP variants. Those with a high CRP due to genetic variation had no increased risk of cardiovascular disease compared to those with a normal or low CRP. A study published in 2011 shows that CRP is associated with lipid responses to low-fat and high-polyunsaturated fat diets. 
+
+=== Fibrosis and inflammation ===
+
+Scleroderma, polymyositis, and dermatomyositis often elicit little or no CRP response. CRP levels also tend not to be elevated in SLE unless serositis or synovitis is present. Elevations of CRP in the absence of clinically significant inflammation can occur in renal failure. CRP level is an independent risk factor for atherosclerotic disease. Patients with high CRP concentrations are more likely to develop stroke, myocardial infarction, and severe peripheral vascular disease. Elevated level of CRP can also be observed in inflammatory bowel disease (IBD), including Crohn's disease and ulcerative colitis. 
+
+=== Obstructive sleep apnea ===
+
+C-reactive protein (CRP), a marker of systemic inflammation, is also increased in obstructive sleep apnea (OSA). CRP and interleukin-6 (IL-6) levels were significantly higher in patients with OSA compared to obese control subjects. Patients with OSA have higher plasma CRP concentrations that increased corresponding to the severity of their apnea-hypopnea index score. Treatment of OSA with CPAP (continuous positive airway pressure) significantly alleviated the effect of OSA on CRP and IL-6 levels. 
+
+=== Coronary heart disease risk===
+Arterial damage results from white blood cell invasion and inflammation within the wall. CRP is a general marker for inflammation and infection, so it can be used as a very rough proxy for heart disease risk. Since many things can cause elevated CRP, this is not a very specific prognostic indicator. Nevertheless, a level above 2.4 mg/L has been associated with a doubled risk of a coronary event compared to levels below 1 mg/L; however, the study group in this case consisted of patients who had been diagnosed with unstable angina pectoris; whether elevated CRP has any predictive value of acute coronary events in the general population of all age ranges remains unclear. Currently, C-reactive protein is not recommended as a cardiovascular disease screening test for average-risk adults without symptoms. 
+
+The American Heart Association and U.S. Centers for Disease Control and Prevention have defined risk groups as follows: 
+* Low Risk: less than 1.0 mg/L
+* Average risk: 1.0 to 3.0 mg/L
+* High risk: above 3.0 mg/L
+But hs-CRP is not to be used alone and should be combined with elevated levels of cholesterol, LDL-C, triglycerides, and glucose level. Smoking, hypertension and diabetes also increase the risk level of cardiovascular disease.
+
+==See also==
+* acute phase
+* erythrocyte sedimentation rate
+* immunology
+
+==Additional images==
+
+ Image:C-reactive protein.png|C-reactive protein
+
+==References==
+
+==External links==
+* 
+* Inflammation, Heart Disease and Stroke: The Role of C-Reactive Protein (American Heart Association)
+* 
+* CRP at Lab Tests Online
+* CRP: analyte monograph - The Association for Clinical Biochemistry and Laboratory Medicine
+
+

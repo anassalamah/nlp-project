@@ -1,0 +1,121 @@
+[[Meristem]]
+
+right
+
+A meristem is the tissue in most plants containing undifferentiated cells (meristematic cells), found in zones of the plant where growth can take place.
+
+Meristematic cells give rise to various organs of the plant and keep the plant growing. The shoot apical meristem (SAM) gives rise to organs like the leaves and flowers, while the root apical meristem (RAM) provides the meristematic cells for the future root growth. SAM and RAM cells divide rapidly and are considered indeterminate, in that they do not possess any defined end status. In that sense, the meristematic cells are frequently compared to the stem cells in animals, which have an analogous behavior and function.
+
+The term meristem was first used in 1858 by Karl Wilhelm von Nägeli (1817–1891) in his book Beiträge zur Wissenschaftlichen Botanik. Galun, Esra (2007). Plant Patterning: Structural and Molecular Genetic Aspects. World Scientific Publishing Company. p. 333. ISBN 9789812704085 It is derived from the Greek word merizein (μερίζειν), meaning to divide, in recognition of its inherent function.
+
+In general, differentiated plant cells cannot divide or produce cells of a different type. Therefore, cell division in the meristem is required to provide new cells for expansion and differentiation of tissues and initiation of new organs, providing the basic structure of the plant body.
+
+Meristematic cells are incompletely or not at all differentiated, and are capable of continued cellular division (youthful). Furthermore, the cells are small and protoplasm fills the cell completely. The vacuoles are extremely small. The cytoplasm does not contain differentiated plastids (chloroplasts or chromoplasts), although they are present in rudimentary form (proplastids). Meristematic cells are packed closely together without intercellular cavities. The cell wall is a very thin primary cell wall.
+
+Maintenance of the cells requires a balance between two antagonistic processes: organ initiation and stem cell population renewal.
+
+==Meristematic zones==
+Apical meristems are the completely undifferentiated (indeterminate) meristems in a plant. These differentiate into three kinds of primary meristems. The primary meristems in turn produce the two secondary meristem types. These secondary meristems are also known as lateral meristems because they are involved in lateral growth.
+
+At the meristem summit, there is a small group of slowly dividing cells, which is commonly called the central zone. Cells of this zone have a stem cell function and are essential for meristem maintenance. The proliferation and growth rates at the meristem summit usually differ considerably from those at the periphery.
+
+Meristems also are induced in the roots of legumes such as soybean, Lotus japonicus, pea, and Medicago truncatula after infection with soil bacteria commonly called Rhizobium. Cells of the inner or outer cortex in the so-called "window of nodulation" just behind the developing root tip are induced to divide. The critical signal substance is the lipo-oligosaccharide Nod-factor, decorated with side groups to allow specificity of interaction. The Nod factor receptor proteins NFR1 and NFR5 were cloned from several legumes including Lotus japonicus, Medicago truncatula and soybean (Glycine max). Regulation of nodule meristems utilizes long distance regulation commonly called "Autoregulation of Nodulation" (AON). This process involves a leaf-vascular tissue located LRR receptor kinases (LjHAR1, GmNARK and MtSUNN), CLE peptide signalling, and KAPP interaction, similar to that seen in the CLV1,2,3 system. LjKLAVIER also exhibits a nodule regulation phenotype though it is not yet known how this relates to the other AON receptor kinases. 
+
+==Apical meristems==
+Organisation of an apical meristem (growing tip) 1 - Central zone 2 - Peripheral zone
+3 - Medullary (i.e. central) meristem
+4 - Medullary tissue
+The apical meristem, or growing tip, is a completely undifferentiated meristematic tissue found in the buds and growing tips of roots in plants. Its main function is to begin growth of new cells in young seedlings at the tips of roots and shoots (forming buds, among other things). Specifically, an active apical meristem lays down a growing root or shoot behind itself, pushing itself forward. Apical meristems are very small, compared to the cylinder-shaped lateral meristems (see 'Secondary Meristems' below).
+
+Apical meristems are composed of several layers. The number of layers varies according to plant type. In general the outermost layer is called the tunica while the innermost layers are the corpus. In monocots, the tunica determine the physical characteristics of the leaf edge and margin. In dicots, layer two of the corpus determine the characteristics of the edge of the leaf. The corpus and tunica play a critical part of the plant physical appearance as all plant cells are formed from the meristems. Apical meristems are found in two locations: the root and the stem. Some Arctic plants have an apical meristem in the lower/middle parts of the plant. It is thought that this kind of meristem evolved because it is advantageous in Arctic conditions.
+
+===Shoot apical meristems===
+Shoot apical meristems of Crassula ovata (left). Fourteen days later, leaves have developed (right).
+
+The source of all above-ground organs. Cells at the shoot apical meristem summit serve as stem cells to the surrounding peripheral region, where they proliferate rapidly and are incorporated into differentiating leaf or flower primordia.
+
+The shoot apical meristem is the site of most of the embryogenesis in flowering plants. Primordia of leaves, sepals, petals, stamens and ovaries are initiated here at the rate of one every time interval, called a plastochron. It is where the first indications that flower development has been evoked are manifested. One of these indications might be the loss of apical dominance and the release of otherwise dormant cells to develop as auxillary shoot meristems, in some species in axils of primordia as close as two or three away from the apical dome. The shoot apical meristem consists of 4 distinct cell groups:
+* Stem cells
+* The immediate daughter cells of the stem cells
+* A subjacent organising centre
+* Founder cells for organ initiation in surrounding regions
+
+The four distinct zones mentioned above are maintained by a complex signalling pathway. In Arabidopsis thaliana, 3 interacting CLAVATA genes are required to regulate the size of the stem cell reservoir in the shoot apical meristem by controlling the rate of cell division. Fletcher, J. C (2002) Shoot and Floral Meristem Maintenance in Arabidopsis. Annu. Rev. Plant Biol. 2002. 53:45–66 CLV1 and CLV2 are predicted to form a receptor complex (of the LRR receptor like kinase family) to which CLV3 is a ligand. CLV3 shares some homology with the ESR proteins of maize, with a short 14 amino acid region being conserved between the proteins. J. Mark Cock and Sheila McCormick A Large Family of Genes That Share Homology with CLAVATA3 Plant Physiology, July 2001, Vol. 126, pp. 939–942 Karsten Oelkers, Nicolas Goffard, Georg F Weiller, Peter M Gresshoff, Ulrike Mathesius and Tancred Frickey Bioinformatic Analysis of the CLE signalling peptide family BMC Plant Biology 2008, 8:1 published 3.January 2008 Proteins that contain these conserved regions have been grouped into the CLE family of proteins. cock et al. Oelkers et al. 
+
+CLV1 has been shown to interact with several cytoplasmic proteins that are most likely involved in downstream signalling. For example, the CLV complex has been found to be associated with Rho/Rac small GTPase-related proteins. meristem review These proteins may act as an intermediate between the CLV complex and a mitogen-activated protein kinase (MAPK), which is often involved in signalling cascades. Valster, A. H. et al. (2000) Plant GTPases: the Rhos in bloom Trends in Cell Biology
+10, (4) 141-146 KAPP is a kinase-associated protein phosphatase that has been shown to interact with CLV1. Stone, J. M. et al. (1998) Control of Meristem Development by CLAVATA1 Receptor Kinase and Kinase-Associated Protein Phosphatase Interactions Plant Physiology 117: 1217-1225 KAPP is thought to act as a negative regulator of CLV1 by dephosphorylating it. 
+
+Another important gene in plant meristem maintenance is WUSCHEL (shortened to WUS), which is a target of CLV signalling. Mayer, K. F. X et al. (1998) Role of WUSCHEL in Regulating Stem Cell Fate
+in the Arabidopsis Shoot Meristem Cell, Vol. 95, 805–815 WUS is expressed in the cells below the stem cells of the meristem and its presence prevents the differentiation of the stem cells. CLV1 acts to promote cellular differentiation by repressing WUS activity outside of the central zone containing the stem cells. STM also acts to prevent the differentiation of stem cells by repressing the expression of Myb genes that are involved in cellular differentiation. 
+
+===Root apical meristems===
+10x microscope image of root tip with meristem 1 - quiescent center 2 - calyptrogen (live rootcap cells) 
+3 - rootcap 
+4 - sloughed off dead rootcap cells
+5 - procambium
+Unlike the shoot apical meristem, the root apical meristem produces cells in two dimensions. It is covered by the root cap, which protects the apical meristem from the rocks, dirt and pathogens. Cells are continuously sloughed off the outer surface of the root cap. The center of the root apical meristem is occupied by a quiescent center, which has low mitotic activity. Evidence suggests the quiescent center does function as the zone of initials. Infrequent division of initial cells in the quiescent center is the source of cells for the root apical meristem. These initial cells and tissue patterns become established in the embryo in the case of the primary root, and in the new lateral meristems in the case of secondary roots.
+
+===Intercalary meristem===
+In angiosperms, intercalary meristems occur only in monocot (in particular, grass) stems at the base of nodes and leaf blades. Horsetails also exhibit intercalary growth. Intercalary meristems are capable of cell division, and they allow for rapid growth and regrowth of many monocots. Intercalary meristems at the nodes of bamboo allow for rapid stem elongation, while those at the base of most grass leaf blades allow damaged leaves to rapidly regrow. This leaf regrowth in grasses evolved in response to damage by grazing herbivores, but is more familiar to us in response to lawnmowers.
+
+===Floral meristem===
+When plants begin the developmental process known as flowering, the shoot apical meristem is transformed into an inflorescence meristem, which goes on to produce the floral meristem, which produces the familiar sepals, petals, stamens, and carpels of the flower.
+
+In contrast to vegetative apical meristems and some exflorescence meristems, floral meristems are responsible for determinate growth, the limited growth of the flower to a particular size and form. The transition from shoot meristem to floral meristem requires floral meristem identity genes, that both specify the floral organs and cause the termination of the production of stem cells. AGAMOUS (AG) is a floral homeotic gene required for floral meristem termination and necessary for proper development of the stamens and carpels. AG is necessary to prevent the conversion of floral meristems to inflorescence shoot meristems, but is not involved in the transition from shoot to floral meristem. Mizukami, Y and Ma, H (1997) Determination of Arabidopsis Floral Meristem identity by Agamous The Plant Cell, Vol. 9, 393- 408 AG is turned on by the floral meristem identity gene LEAFY (LFY) and WUS and is restricted to the centre of the floral meristem or the inner two whorls. Lohmann, J. U. et al. (2001) A Molecular Link between Stem Cell Regulation and Floral Patterning in Arabidopsis Cell 105: 793-803 This way floral identity and region specificity is achieved. WUS activates AG by binding to a consensus sequence in the AG’s second intron and LFY binds to adjacent recognition sites. Once AG is activated it represses expression of WUS leading to the termination of the meristem. 
+
+Through the years, scientists have manipulated floral meristems for economics reasons. An example is the mutant tobacco plant "Maryland Mammoth." In 1936, the department of agriculture of Switzerland performed several scientific tests with this plant. "Maryland Mammoth" is peculiar in this sense that it grows much faster than other tobacco plants.
+
+===Apical dominance===
+Apical dominance is phenomenon where one meristem prevents or inhibits the growth of other meristems. As a result the plant will have one clearly defined main trunk. For example, in trees, the tip of the main trunk bears the dominant meristem. Therefore, the tip of the trunk grows rapidly and is not shadowed by branches. If the dominant meristem is cut off, one or more branch tips will assume dominance. The branch will start growing faster and the new growth will be vertical. Over the years, the branch may begin to look more and more like an extension of the main trunk. Often several branches will exhibit this behaviour after the removal of apical meristem, leading to a bushy growth.
+
+The mechanism of apical dominance is based on the plant hormone auxin. It is produced in the apical meristem and transported towards the roots in the cambium. If apical dominance is complete, it prevents any branches from forming as long as the apical meristem is active. If the dominance is incomplete, side branches will develop.
+
+Recent investigations into apical dominance and the control of branching have revealed a new plant hormone family termed strigolactones. These compounds were previously known to be involved in seed germination and communication with mycorrhizal fungi and are now shown to be involved in inhibition of branching. 
+
+===Diversity in meristem architectures===
+Is the mechanism of being indeterminate conserved in the SAMs of the plant world? The SAM contains a population of stem cells that also produce the lateral meristems while the stem elongates. It turns out that the mechanism of regulation of the stem cell number might indeed be evolutionarily conserved. The CLAVATA gene CLV2 responsible for maintaining the stem cell population in Arabidopsis thaliana is very closely related to the Maize gene FASCIATED EAR 2(FEA2) also involved in the same function. Similarly, in Rice, the FON1-FON2 system seems to bear a close relationship with the CLV signaling system in Arabidopsis thaliana. These studies suggest that the regulation of stem cell number, identity and differentiation might be an evolutionarily conserved mechanism in monocots, if not in angiosperms. Rice also contains another genetic system distinct from FON1-FON2, that is involved in regulating stem cell number. This example underlines the innovation that goes about in the living world all the time.
+
+===Role of the KNOX-family genes===
+Note the long spur of the above flower. Spurs attract pollinators and confer pollinator specificity. (Flower:Linaria dalmatica)
+Complex leaves of C. hirsuta are a result of KNOX gene expression
+Genetic screens have identified genes belonging to the KNOX family in this function. These genes essentially maintain the stem cells in an undifferentiated state. The KNOX family has undergone quite a bit of evolutionary diversification, while keeping the overall mechanism more or less similar. Members of the KNOX family have been found in plants as diverse as Arabidopsis thaliana, rice, barley and tomato. KNOX-like genes are also present in some algae, mosses, ferns and gymnosperms. Misexpression of these genes leads to formation of interesting morphological features. For example, among members of Antirrhinae, only the species of genus Antirrhinum lack a structure called spur in the floral region. A spur is considered an evolutionary innovation because it defines pollinator specificity and attraction. Researchers carried out transposon mutagenesis in Antirrhinum majus, and saw that some insertions led to formation of spurs that were very similar to the other members of Antirrhinae, indicating that the loss of spur in wild Antirrhinum majus populations could probably be an evolutionary innovation.
+
+The KNOX family has also been implicated in leaf shape evolution (See below for a more detailed discussion). One study looked at the pattern of KNOX gene expression in A. thaliana, that has simple leaves and Cardamine hirsuta, a plant having complex leaves. In A. thaliana, the KNOX genes are completely turned off in leaves, but in C.hirsuta, the expression continued, generating complex leaves. Also, it has been proposed that the mechanism of KNOX gene action is conserved across all vascular plants, because there is a tight correlation between KNOX expression and a complex leaf morphology. 
+
+==Primary meristems==
+Apical meristems may differentiate into three kinds of primary meristem:
+* Protoderm - lies around the outside of the stem and develops into the epidermis.
+* Procambium - lies just inside of the protoderm and develops into primary xylem and primary phloem. It also produces the vascular cambium, and cork cambium, secondary meristems. The cork cambium further differentiates into the phelloderm (to the inside) and the phellem, or cork (to the outside). All three of these layers (cork cambium, phellem and phelloderm) constitute the periderm. In roots, the procambium can also give rise to the pericycle, which produces lateral roots in eudicots. Evert, Ray, and Susan Eichhorn. Raven Biology of Plants. New York: W. H. Freeman and Company, 2013. Print. 
+* Ground meristem develops into the cortex and the pith. Composed of parenchyma, collenchyma and sclerenchyma cells. Evert, Ray, and Susan Eichhorn. Raven Biology of Plants. New York: W. H. Freeman and Company, 2013. Print. 
+
+These meristems are responsible for primary growth, or an increase in length or height, which were discovered by scientist Joseph D. Carr of North Carolina in 1943. 
+
+==Secondary meristems==
+There are two types of secondary meristems, these are also called the lateral meristems because they surround the established stem of a plant and cause it to grow laterally (i.e., larger in diameter).
+* Vascular cambium, which produces secondary xylem and secondary phloem. This is a process that may continue throughout the life of the plant. This is what gives rise to wood in plants. Such plants are called arborescent. This does not occur in plants that do not go through secondary growth (known as herbaceous plants).
+* Cork cambium, which gives rise to the periderm, which replaces the epidermis.
+
+==Indeterminate growth of meristems==
+Though each plant grows according to a certain set of rules, each new root and shoot meristem can go on growing for as long as it is alive. In many plants, meristematic growth is potentially indeterminate, making the overall shape of the plant not determinate in advance. This is the primary growth. Primary growth leads to lengthening of the plant body and organ formation. All plant organs arise ultimately from cell divisions in the apical meristems, followed by cell expansion and differentiation. Primary growth gives rise to the apical part of many plants.
+
+The growth of nitrogen fixing nodules on legume plants such as soybean and pea is either determinate or indeterminate. Thus, soybean (or bean and Lotus japonicus) produce determinate nodules (spherical), with a branched vascular system surrounding the central infected zone. Often, Rhizobium infected cells have only small vacuoles. In contrast, nodules on pea, clovers, and Medicago truncatula are indeterminate, to maintain (at least for some time) an active meristem that yields new cells for Rhizobium infection. Thus zones of maturity exist in the nodule. Infected cells usually possess a large vacuole. The plant vascular system is branched and peripheral.
+
+==Cloning==
+Under appropriate conditions, each shoot meristem can develop into a complete new plant or clone. Such new plants can be grown from shoot cuttings that contain an apical meristem. Root apical meristems are not readily cloned, however. This cloning is called asexual reproduction or vegetative reproduction and is widely practiced in horticulture to mass-produce plants of a desirable genotype. This process is also known as mericloning.
+
+Propagating through cuttings is another form of vegetative propagation that initiates root or shoot production from secondary meristematic cambial cells. This explains why basal 'wounding' of shoot-borne cuttings often aids root formation. 
+
+==See also==
+* Thallus
+*Stem cell
+
+==References==
+
+==Footnotes==
+
+* Plant Anatomy Laboratory from University of Texas; the lab of JD Mauseth. Micrographs of plant cells and tissues, with explanatory text.
+* 
+* Scofield and Murray (2006). The evolving concept of the meristem. Plant Molecular Biology 60:v–vii
+* Meristemania.org Research on meristems
+
+

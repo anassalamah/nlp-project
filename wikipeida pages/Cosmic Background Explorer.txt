@@ -1,0 +1,115 @@
+[[Cosmic Background Explorer]]
+
+The Cosmic Background Explorer (COBE), also referred to as Explorer 66, was a satellite dedicated to cosmology. Its goals were to investigate the cosmic microwave background radiation (CMB) of the universe and provide measurements that would help shape our understanding of the cosmos.
+
+This work provided evidence that supported the Big Bang theory of the universe: that the CMB was a near-perfect black-body spectrum and that it had very faint anisotropies. Two of COBE's principal investigators, George Smoot and John Mather, received the Nobel Prize in Physics in 2006 for their work on the project. According to the Nobel Prize committee, "the COBE-project can also be regarded as the starting point for cosmology
+as a precision science". 
+
+==History==
+In 1974, NASA issued an Announcement of Opportunity for astronomical missions that would use a small- or medium-sized Explorer spacecraft. Out of the 121 proposals received, three dealt with studying the cosmological background radiation. Though these proposals lost out to the Infrared Astronomical Satellite (IRAS), their strength made NASA further explore the idea. In 1976, NASA formed a committee of members from each of 1974's three proposal teams to put together their ideas for such a satellite. A year later, this committee suggested a polar-orbiting satellite called COBE to be launched by either a Delta rocket or the Space Shuttle. It would contain the following instruments: 
+
++Instruments Instrument Acronym Description Principal Investigator 
+ Differential Microwave Radiometer DMR a microwave instrument that would map variations (or anisotropies) in the CMB George Smoot 
+ Far-InfraRed Absolute Spectrophotometer FIRAS a spectrophotometer used to measure the spectrum of the CMB John Mather 
+ Diffuse InfraRed Background Experiment DIRBE a multiwavelength infrared detector used to map dust emission Mike Hauser 
+
+Launch of the COBE spacecraft November 18, 1989.
+
+NASA accepted the proposal provided that the costs be kept under $30 million, excluding launcher and data analysis. Due to cost overruns in the Explorer program due to IRAS, work on constructing the satellite at Goddard Space Flight Center (GSFC) did not begin until 1981. To save costs, the infrared detectors and liquid helium dewar on COBE would be similar to those used on IRAS.
+
+COBE was originally planned to be launched on a Space Shuttle mission STS-82-B in 1988 from Vandenberg Air Force Base, but the Challenger explosion delayed this plan when the Shuttles were grounded. NASA kept COBE's engineers from going to other space agencies to launch COBE, but eventually, a redesigned COBE was placed into sun-synchronous orbit on November 18, 1989 aboard a Delta rocket. A team of American scientists announced, on April 23, 1992, that they had found the primordial "seeds" (CMBE anisotropy) in data from COBE. The announcement was reported worldwide as a fundamental scientific discovery and ran on the front page of the New York Times.
+
+The Nobel Prize in Physics for 2006 was jointly awarded to John C. Mather, NASA Goddard Space Flight Center, and George F. Smoot, University of California, Berkeley, "for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation."
+
+== Spacecraft ==
+COBE was an Explorer class satellite, with technology borrowed heavily from IRAS, but with some unique characteristics.
+
+The need to control and measure all the sources of systematic errors required a rigorous and integrated design. COBE would have to operate for a minimum of 6 months, and constrain the amount of radio interference from the ground, COBE and other satellites as well as radiative interference from the Earth, Sun and Moon. The instruments required temperature stability and to maintain gain, and a high level of cleanliness to reduce entry of stray light and thermal emission from particulates.
+
+The need to control systematic error in the measurement of the CMB anisotropy and measuring the zodiacal cloud at different elongation angles for subsequent modeling required that the satellite rotate at a 0.8 rpm spin rate. The spin axis is also tilted back from the orbital velocity vector as a precaution against possible deposits of residual atmospheric gas on the optics as well against the infrared glow that would result from fast neutral particles hitting its surfaces at extremely high speed.
+
+left
+In order to meet the twin demands of slow rotation and three-axis attitude control, a sophisticated pair of yaw angular momentum wheels were employed with their axis oriented along the spin axis . These wheels were used to carry an angular momentum opposite that of the entire spacecraft in order to create a zero net angular momentum system.
+
+The orbit would prove to be determined based on the specifics of the spacecraft’s mission. The overriding considerations were the need for full sky coverage, the need to eliminate stray radiation from the instruments and the need to maintain thermal stability of the dewar and the instruments. A circular Sun-synchronous orbit satisfied all these requirements. A 900 km altitude orbit with a 99° inclination was chosen as it fit within the capabilities of either a Shuttle (with an auxiliary propulsion on COBE) or a Delta rocket. This altitude was a good compromise between Earth's radiation and the charged particle in Earth's radiation belts at higher altitudes. An ascending node at 6 p.m. was chosen to allow COBE to follow the boundary between sunlight and darkness on Earth throughout the year.
+
+The orbit combined with the spin axis made it possible to keep the Earth and the Sun continually below the plane of the shield, allowing a full sky scan every six months.
+
+The last two important parts pertaining to the COBE mission were the dewar and Sun-Earth shield. The dewar was a 650 liter superfluid helium cryostat designed to keep the FIRAS and DIRBE instruments cooled during the duration of the mission. It was based on the same design as one used on IRAS and was able to vent helium along the spin axis near the communication arrays. The conical Sun-Earth shield protected the instruments from direct solar and Earth based radiation as well as radio interference from Earth and the COBE's transmitting antenna. Its multilayer insulating blankets provided thermal isolation for the dewar. 
+
+== Scientific findings ==
+
+The famous map of the CMB anisotropy formed from data taken by the COBE spacecraft.
+
+The science mission was conducted by the three instruments detailed previously: DIRBE, FIRAS and the DMR. The instruments overlapped in wavelength coverage, providing consistency check on measurements in the regions of spectral overlap and assistance in discriminating signals from our galaxy, solar system and CMB. 
+
+COBE's instruments would fulfill each of their objectives as well as making observations that would have implications outside COBE’s initial scope.
+
+=== Black-body curve of CMB ===
+Data from COBE showed a perfect fit between the black body curve predicted by big bang theory and that observed in the microwave background.
+During the long gestation period of COBE, there were two significant astronomical developments. First, in 1981, two teams of astronomers, one led by David Wilkinson of Princeton and the other by Francesco Melchiorri of the University of Florence, simultaneously announced that they detected a quadrupole distribution of CMB using balloon-borne instruments. This finding would have been the detection of the black-body distribution of CMB that FIRAS on COBE was to measure.
+In particular, the Florence group claimed a detection of intermediate angular scale
+anisotropies at the level 100 microkelvins in agreement with later measurements made by the BOOMERanG experiment.
+Comparison of CMB results from COBE, WMAP and Planck - March 21, 2013. 
+However, a number of other experiments attempted to duplicate their results and were unable to do so. 
+
+Second, in 1987 a Japanese-American team led by Andrew Lange and Paul Richards of UC Berkeley and Toshio Matsumoto of Nagoya University made an announcement that CMB was not that of a true black body. In a sounding rocket experiment, they detected an excess brightness at 0.5 and 0.7 mm wavelengths.
+
+With these developments serving as a backdrop to COBE’s mission, scientists eagerly awaited results from FIRAS. The results of FIRAS were startling in that they showed a perfect fit of the CMB and the theoretical curve for a black body at a temperature of 2.7 K, thus proving the Berkeley-Nagoya results erroneous.
+
+FIRAS measurements were made by measuring the spectral difference between a 7° patch of the sky against an internal black body. The interferometer in FIRAS covered between 2 and 95 cm−1 in two bands separated at 20 cm−1. There are two scan lengths (short and long) and two scan speeds (fast and slow) for a total of four different scan modes. The data were collected over a ten-month period. 
+
+=== Intrinsic anisotropy of CMB ===
+Data obtained at each of the three DMR frequencies—31.5, 53, and 90 GHz—following dipole subtraction.
+The DMR was able to spend four years mapping the detectable anisotropy of cosmic background radiation as it was the only instrument not dependent on the dewar’s supply of helium to keep it cooled. This operation was able to create full sky maps of the CMB by subtracting out galactic emissions and dipole at various frequencies. The cosmic microwave background fluctuations are extremely faint, only one part in 100,000 compared to the 2.73 kelvin average temperature of the radiation field. The cosmic microwave background radiation is a remnant of the Big Bang and the fluctuations are the imprint of density contrast in the early universe. The density ripples are believed to have produced structure formation as observed in the universe today: clusters of galaxies and vast regions devoid of galaxies (NASA).
+
+=== Detecting early galaxies ===
+DIRBE also detected 10 new far-IR emitting galaxies in the region not surveyed by IRAS as well as nine other candidates in the weak far-IR that may be spiral galaxies.
+
+Galaxies that were detected at the 140 and 240 μm were also able to provide information on very cold dust (VCD). At these wavelengths, the mass and temperature of VCD can be derived.
+
+When these data were joined with 60 and 100 μm data taken from IRAS, it was found that the far-infrared luminosity arises from cold (≈17–22 K) dust associated with diffuse HI cirrus clouds, 15-30% from cold (≈19 K) dust associated with molecular gas, and less than 10% from warm (≈29 K) dust in the extended low-density HII regions. 
+
+=== DIRBE ===
+
+Model of the Galactic disk as seen edge-on from our position
+On top of the findings DIRBE had on galaxies, it also made two other significant contributions to science. 
+The DIRBE instrument was able to conduct studies on interplanetary dust (IPD) and determine if its origin was from asteroid or cometary particles. The DIRBE data collected at 12, 25, 50 and 100 μm were able to conclude that grains of asteroidal origin populate the IPD bands and the smooth IPD cloud. 
+
+The second contribution DIRBE made was a model of the Galactic disk as seen edge-on from our position. According to the model, if our Sun is 8.6 kpc from the Galactic center, then the sun is 15.6 pc above the midplane of the disk, which has a radial and vertical scale lengths of 2.64 and 0.333 kpc, respectively, and is warped in a way consistent with the HI layer. There is also no indication of a thick disk. See also 
+
+To create this model, the IPD had to be subtracted out of the DIRBE data. It was found that this cloud, which as seen from Earth is Zodiacal light, was not centered on the Sun, as previously thought, but on a place in space a few million kilometers away. This is due to the gravitation influence of Saturn and Jupiter. 
+
+=== Cosmological implications ===
+In addition to the science results detailed in the last section, there are numerous cosmological questions left unanswered by COBE’s results. A direct measurement of the extragalactic background light (EBL) can also provide important constraints on the integrated cosmological history of star formation, metal and dust production, and the conversion of starlight into infrared emissions by dust. 
+
+By looking at the results from DIRBE and FIRAS in the 140 to 5000 μm we can detect that the integrated EBL intensity is ≈16 nW/(m2·sr). This is consistent with the energy released during nucleosynthesis and constitutes about 20–50% of the total energy released in the formation of helium and metals throughout the history of the universe. Attributed only to nuclear sources, this intensity implies that more than 5–15% of the baryonic mass density implied by big bang nucleosynthesis analysis has been processed in stars to helium and heavier elements. 
+
+There were also significant implications into star formation. COBE observations provide important constraints on the cosmic star formation rate, and help us calculate the EBL spectrum for various star formation histories. Observation made by COBE require that star formation rate at redshifts of z ≈ 1.5 to be larger than that inferred from UV-optical observations by a factor of 2. This excess stellar energy must be mainly generated by massive stars in yet-undetected dust enshrouded galaxies or extremely dusty star forming regions in observed galaxies. The exact star formation history cannot unambiguously be resolved by COBE and further observations must be made in the future.
+
+On June 30, 2001, NASA launched a follow-up mission to COBE led by DMR Deputy Principal Investigator Charles L. Bennett. The Wilkinson Microwave Anisotropy Probe has clarified and expanded upon COBE's accomplishments. Following WMAP, the European Space Agency's probe, Planck has continued to increase the resolution at which the background has been mapped. 
+
+== See also ==
+* 9997 COBE—A minor planet named after the experiment.
+
+== Notes ==
+
+==References==
+* 
+* 
+* 
+
+== Further reading ==
+* 
+* 
+* WMAP
+
+== External links ==
+
+* NASA's website on COBE
+* NASA informational video prior to COBE launch
+* COBE Mission Profile by NASA's Solar System Exploration
+* APOD picture of the COBE dipole, showing the 600 km/s motion of the Earth relative to the cosmic background radiation
+* Cosmic Background Explorer article from Scholarpedia
+
+

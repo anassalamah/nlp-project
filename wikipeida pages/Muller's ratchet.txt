@@ -1,0 +1,30 @@
+[[Muller's ratchet]]
+
+Illustration of chromosome crossover during genetic recombination
+In evolutionary genetics, Muller's ratchet (named after Hermann Joseph Muller, by analogy with a ratchet effect) is the process by which the genomes of an asexual population accumulate deleterious mutations in an irreversible manner. (Muller's original 1932 paper) (original paper as cited by, e.g.: ; ) 
+
+Muller proposed this mechanism as a theory to explain the evolution of sex. Although Muller's ratchet is proposed to explain the success of sexual reproduction over asexual reproduction, the negative effect of accumulating irreversible deleterious mutations may not be prevalent in organisms which, while they reproduce asexually, also undergo other forms of recombination. This effect has also been observed in those regions of the genomes of sexual organisms which do not undergo recombination.
+
+==Origin of the term==
+Although Muller discussed the advantages of sexual reproduction in his 1932 talk, it does not contain the word "ratchet". Muller first introduced the term "ratchet" in his 1964 paper, and the phrase "Muller's ratchet" was coined by Joe Felsenstein in his 1974 paper, "The Evolutionary Advantage of Recombination". 
+
+==Explanation==
+Asexual reproduction compels genomes to be inherited as indivisible blocks so that once the least mutated genomes in an asexual population begin to carry at least one deleterious mutation, no genomes with fewer such mutations can be expected to be found in future generations (except as a result of back mutation). This results in an eventual accumulation of mutations known as genetic load. In theory, the genetic load carried by asexual populations eventually becomes so great that the population goes extinct. In sexual populations, the process of genetic recombination allows the genomes of the progeny to be different from the genomes of the parents. In particular, progeny genomes with fewer mutations can be generated from more highly mutated parental genomes by putting together in progeny genomes mutation-free portions of parental chromosomes.
+
+Among protists and prokaryotes there is a plethora of supposedly asexual organisms. More and more are being shown to exchange genetic information through a variety of mechanisms. In contrast, the genomes of mitochondria and chloroplasts do not recombine and would undergo Muller's ratchet were they not as small as they are (see Birdsell and Wills 93-95). Birdsell JA, Wills C (2003). The evolutionary origin and maintenance of sexual recombination: A review of contemporary models. Evolutionary Biology Series >> Evolutionary Biology, Vol. 33 pp. 27-137. MacIntyre, Ross J.; Clegg, Michael, T (Eds.), Springer. Hardcover ISBN 978-0306472619, ISBN 0306472619 Softcover ISBN 978-1-4419-3385-0. Indeed, the probability that the least mutated genomes in an asexual population end up carrying at least one (additional) mutation depends heavily on the genomic mutation rate and this increases more or less linearly with the size of the genome (more accurately, with the number of base pairs present in active genes). However, reductions in genome size, especially in parasites and symbionts, can also be caused by direct selection to get rid of genes that have become unnecessary. Therefore a smaller genome is not a sure indication of the action of Muller's Ratchet. (An article that discusses Muller's ratchet in the context of endosymbiotic bacteria.) 
+
+RNA viruses circumvent Muller's ratchet by having error-prone RNA-dependent RNA polymerases. When they replicate they produce a relatively large number of genome copies with mutations. This allows opportunities for mutations with negative effects to revert, and for adaptation to new hosts. For example, a chikungunya virus that was artificially selected for a high-fidelity polymerase was less fit in both the Aedes aegypti mosquito vector and laboratory mice. 
+
+In sexually reproducing organisms, non-recombining chromosomes or chromosomal regions such as the mammalian Y chromosome (with the exception of multi-copy sequences which do engage intrachromosomal recombination and gene conversion ) should also be subject to the effects of Muller's ratchet. Such non-recombining sequences tend to shrink and evolve quickly. However this fast evolution might also be due to these sequences' inability to repair DNA damage via template-assisted repair which is equivalent to an increase in the mutation rate for these sequences. It is not easy to ascribe cases of genome shrinkage or fast evolution to Muller's ratchet alone.
+
+Because Muller's ratchet relies on genetic drift, it turns faster in smaller populations and it is thought to set limits to the maximum size of asexual genomes and to the long-term evolutionary continuity of asexual lineages. However, some asexual lineages are thought to be quite ancient: Bdelloid rotifers, for example, appear to have been asexual for nearly 40 million years. 
+
+==See also==
+* Evolution of sexual reproduction
+* Genetic hitchhiking
+* Mutational meltdown
+* Hill-Robertson effect
+
+==References==
+
+

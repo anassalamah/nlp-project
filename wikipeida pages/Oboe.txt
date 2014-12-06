@@ -1,0 +1,214 @@
+[[Oboe]]
+
+The oboe is a family of double reed woodwind musical instruments. The most commonly used variant, the standard oboe, plays in the treble or soprano range. It is made from a wooden tube roughly 65 cm (25½ inches) long, with metal keys, a conical bore and flared bell. Sound is produced by blowing into the reed and vibrating a column of air. The distinctive oboe tone is versatile, and has been described as "bright". When the term oboe is used alone, it is generally taken to mean the standard treble instrument. 
+
+In English, prior to 1770, the standard instrument was called the hautbois, hoboy, or French hoboy (pronounced /ˈhəʊbɔɪ/, or "HOE-boy", borrowed from the French name, a compound word made of haut loud" and bois woodwind"). Marcuse 1975, 371. The spelling "oboe" was adopted into English c. 1770 from the Italian oboè, a transliteration in that language's orthography of the 17th-century pronunciation of the French name. A musician who plays the oboe is called an oboist.
+
+==Sound==
+In comparison to other modern woodwind instruments, the treble oboe has a clear and penetrating voice. The Sprightly Companion, an instruction book published by Henry Playford in 1695, describes the oboe as "Majestical and Stately, and not much Inferior to the Trumpet." More humorously, the voice is described in the play Angels in America as sounding like that of a duck if the duck were a songbird. Kushner 1993, 167: "The oboe: official instrument of the International Order of Travel Agents. If the duck was a songbird it would sing like this. Nasal, desolate, the call of migratory things." The timbre of the oboe is derived from the oboe's conical bore (as opposed to the generally cylindrical bore of flutes and clarinets). As a result, oboes are readily audible over other instruments in large ensembles.
+
+Music for the standard oboe is written in concert pitch (i.e., it is not a transposing instrument), and the instrument has a soprano range. Orchestras and concert bands frequently tune to a concert A played by the oboe. According to the League of American Orchestras, this is done because the pitch of the oboe is secure and its penetrating sound makes it ideal for tuning purposes. "About the Orchestra" American League of Orchestras, (accessed January 1, 2009). The pitch of the regular oboe is affected by the way in which the reed is made. The reed has a significant effect on the sound of the instrument. Variations in cane and other construction materials, the age of the reed, and differences in scrape and length will all affect the pitch of the instrument. German and French reeds, for instance, differ in many ways, causing the sound of the oboe to vary accordingly. Weather conditions such as temperature and humidity will also affect the pitch. Skilled oboists adjust their embouchure to compensate for these factors. Subtle manipulation of embouchure and air pressure allows the player to express timbre and dynamics. 
+
+ 
+
+== History ==
+The regular oboe first appeared in the mid-17th century, when it was called hautbois. This name was also used for its predecessor, the shawm, from which the basic form of the hautbois was derived. Burgess & Haynes 2004, 27 Major differences between the two instruments include the division of the hautbois into three sections, or joints (which allowed for more precise manufacture), and the elimination of the pirouette, the wooden ledge below the reed which allowed players to rest their lips.
+
+The exact date and place of origin of the hautbois are obscure, as are the individuals who were responsible. Circumstantial evidence, such as the statement by the flautist composer Michel de la Barre in his Memoire, points to members of the Philidor (Filidor) and Hotteterre families. The instrument may in fact have had multiple inventors. Burgess & Haynes 2004, 28 ff The hautbois quickly spread throughout Europe, including England, where it was called "hautboy", "hoboy", "hautboit", "howboye", and similar variants of the French name. Carse 1965, 120. It was the main melody instrument in early military bands, until it was succeeded by the clarinet. Burgess & Haynes 2004, 102. 
+
+The standard baroque oboe was generally made of boxwood and had three keys: a "great" key and two side keys (The side key was often doubled to facilitate use of either the right or left hand on the bottom holes). In order to produce higher pitches, the player had to "overblow", or increase the air stream to reach the next harmonic. Notable oboe-makers of the period are the Germans Jacob Denner and J.H. Eichentopf, and the English Thomas Stanesby (died 1734) and his son Thomas Jr (died 1754). The range for the baroque oboe comfortably extends from C4 to D6. With the resurgence of interest in early music in the mid 20th century, a few makers began producing copies to specifications taken from surviving historical instruments.
+
+Classical oboe, copy by Sand Dalton of an original by Johann Friedrich Floth, c. 1805
+
+=== Classical ===
+The classical period brought a regular oboe whose bore was gradually narrowed, and the instrument became outfitted with several keys, among them were those for the notes D, F, and G. A key similar to the modern octave key was also added called the "slur key", though it was at first used more like the "flick" keys on the modern German bassoon. Only later did French instrument makers redesign the octave key to be used in the manner of the modern key (i.e. held open for the upper register, closed for the lower). The narrower bore allowed the higher notes to be more easily played, and composers began to more often utilize the oboe's upper register in their works. Because of this, the oboe's tessitura in the Classical era was somewhat broader than that found in baroque works. The range for the Classical oboe extends from C4 to F6 (using the scientific pitch notation system), though some German and Austrian oboes were capable of playing one half-step lower. Classical-era composers who wrote concertos for oboe include Mozart (both the solo concerto in C major K. 314/285d and the lost original of Sinfonia Concertante in E-flat major K. 297b, as well as a fragment of F major concerto K. 417f), Haydn, (both the Sinfonia Concertante in B-flat Hob. I:105 and the spurious concerto in C major Hob. VIIg:C1), Beethoven (the F major concerto, Hess 12, of which only sketches survive, though the second movement was reconstructed in the late twentieth century), and numerous other composers including Johann Christian Bach, Johann Christian Fischer, Jan Antonín Koželuh, and Ludwig August Lebrun. Many solos exist for the regular oboe in chamber, symphonic, and operatic compositions from the Classical era.
+
+=== Viennese or Wiener oboe ===
+
+The Wiener oboe is a type of modern oboe that retains the essential bore and tonal characteristics of the historical oboe. The Akademiemodel Wiener Oboe, first developed in the late 19th century by Josef Hajek from earlier instruments by C. T. Golde of Dresden (1803–73), is now made by several makers such as André Constantinides, Karl Rado, Guntram Wolf, Christian Rauch and Yamaha. It has a wider internal bore, a shorter and broader reed and the fingering-system is very different than the Conservatoire oboe. In "The Oboe", Geoffrey Burgess and Bruce Haynes write "The differences are most clearly marked in the middle register, which is reedier and more pungent, and the upper register, which is richer in harmonics on the Viennese oboe". Burgess & Haynes 2004, 212. Guntram Wolf describes them: "From the concept of the bore, the Viennese oboe is the last representative of the historical oboes, adapted for the louder, larger orchestra, and fitted with an extensive mechanism. Its great advantage is the ease of speaking, even in the lowest register. It can be played very expressively and blends well with other instruments." The Viennese oboe is, along with the Vienna horn, perhaps the most distinctive member of the Wiener Philharmoniker instrumentarium.
+
+=== Conservatoire oboe=== 
+
+This oboe was developed further in the 19th century by the Triebert family of Paris. Using the Boehm flute as a source of ideas for key work, Guillaume Triebert and his sons, Charles and Frederic, devised a series of increasingly complex yet functional key systems. A variant form using large tone holes, the Boehm system oboe, was never in common use, though it was used in some military bands in Europe into the 20th century. F. Lorée of Paris made further developments to the modern instrument. Minor improvements to the bore and key work have continued through the 20th century, but there has been no fundamental change to the general characteristics of the instrument for several decades. Howe 2003. 
+
+The modern standard oboe is most commonly made from grenadilla, also known as African Blackwood, though some manufacturers also make oboes out of other members of the genus Dalbergia, which includes cocobolo, rosewood, and violetwood. Ebony (genus Diospyros) has also been used. Student model oboes are often made from plastic resin, to avoid instrument cracking to which wood instruments are prone, but also to make the instrument more economical. The oboe has an extremely narrow conical bore. It is played with a double reed consisting of two thin blades of cane tied together on a small-diameter metal tube (staple) which is inserted into the reed socket at the top of the instrument. The commonly accepted range for the oboe extends from B3 to about G6, over two and a half octaves, though its common tessitura lies from C4 to E6. Some student oboes only extend down to B3 (the key for B is not present). However this variant is becoming less common.
+
+A modern oboe with the "full conservatoire" ("conservatory" in the USA) or Gillet key system has 45 pieces of keywork, with the possible additions of a third octave key and alternate (left little finger) F- or C-key. The keys are usually made of nickel silver, and are silver- or occasionally gold-plated. Besides the full conservatoire system, oboes are also made using the English thumbplate system. Most have "semi-automatic" octave keys, in which the second octave action closes the first, and some have a fully automatic octave key system, as used on saxophones. Some full conservatory oboes have finger holes covered with rings rather than plates ("open-holed"), and most of the professional models have at least the right hand third key open-holed. Professional oboes used in the UK and Iceland frequently feature conservatoire system combined with a thumb plate. Releasing the thumb plate has the same effect as pressing down the right hand index finger key. This produces alternate options which eliminate the necessity for most of the common cross-intervals (intervals where two or more keys need to be released and pressed down simultaneously), but cross intervals are much more difficult to execute in such a way that the sound remains clear and continuous throughout the frequency change (a quality also called legato and often called-for in the oboe repertoire).
+
+== Other members of the oboe family ==
+The members of the oboe family from top: heckelphone, bass oboe, cor anglais, oboe d'amore, regular oboe, and piccolo oboe
+The standard oboe has several siblings of various sizes and playing ranges. The most widely known today is the cor anglais, or English horn, the tenor (or alto) member of the family. A transposing instrument; it is pitched in F, a perfect fifth lower than the oboe. The oboe d'amore, the alto (or mezzo-soprano) member of the family, is pitched in A, a minor third lower than the oboe. J.S. Bach made extensive use of both the oboe d'amore as well as the taille and oboe da caccia, Baroque antecedents of the cor anglais. Even less common is the bass oboe (also called baritone oboe), which sounds one octave lower than the oboe. Delius and Holst both scored for the instrument. Similar to the bass oboe is the more powerful heckelphone, which has a wider bore and larger tone than the baritone oboe. Only 165 heckelphones have ever been made. Not surprisingly, competent heckelphone players are difficult to find due to the extreme rarity of this particular instrument. Howe and Hurd 2004. The least common of all are the musette (also called oboe musette or piccolo oboe), the sopranino member of the family (it is usually pitched in E-flat or F above the oboe), and the contrabass oboe (typically pitched in C, two octaves deeper than the standard oboe).
+
+Folk versions of the oboe, sometimes equipped with extensive keywork, are found throughout Europe. These include the musette (France) and the Piston oboe and bombarde (Brittany), the piffaro and ciaramella (Italy), and the xirimia or chirimia (Spain). Many of these are played in tandem with local forms of bagpipe, particularly with the Italian zampogna or Breton biniou. Similar oboe-like instruments, most believed to derive from Middle Eastern models, are also found throughout Asia as well as in North Africa.
+
+== Reeds ==
+Oboist Albrecht Mayer preparing reeds for use. Most oboists scrape their own reeds to achieve the desired tone and response
+An oboe reed
+Most professional oboists make their own reeds since every oboist needs a slightly different reed to suit his or her individual needs. By making their own reeds, oboists can precisely control factors such as tone colour and tuning.
+Occasionally, novice oboists may begin with a Fibrecane reed, which is made of a synthetic material. Commercially available cane reeds are available in several degrees of hardness; a medium reed is usually used, and most beginners use medium-soft reeds. These reeds, like clarinet, saxophone, and bassoon reeds, are made from Arundo donax.
+As oboists gain more experience, they may start making their own reeds after the model of their teacher, or buying hand-made reeds (usually from a professional oboist) and using special tools including gougers, pre-gougers, guillotines, knives, and other tools to make the reed to their own liking.
+ Joppig 1988, 208–209. According to the late John Mack, former principal oboist of the Cleveland Orchestra, an oboe student must fill a laundry basket with finished reeds in order to master the art . Masterclass by John Mack, Aspen Music Festival and School, 2004 "Making good reeds requires years of practice, and the amateur is often well advised not to embark on making his own reeds, ... Orchestral musicians sometimes do this reeds, and co-principals in particular often earn a bit on the side in this way. ... Many professional musicians import their reed cane ... directly from the growers in southern France and split it vertically into three parts themselves. Oboes require thicknesses of about 10 millimetres, bassoons of 20 to 25 millimetres." This allows each player to adjust the reeds precisely for individual embouchure, oral cavity, oboe angle, and air support. The reed is considered the part of oboe playing that makes it so difficult because slight variations in temperature, altitude, weather, and climate will change a perfectly working reed into an unplayable collection of cane. The reed is in some points of view, the most important part of playing the oboe. The reed almost controls everything that comes out of the oboe, although the user of that oboe also contributes a significant amount of importance to the music too.
+
+== Notable classical works featuring the standard oboe ==
+:See also Oboe concerto.
+* Tomaso Albinoni, Oboe (and two-oboe) Concerti
+* Johann Sebastian Bach, Brandenburg concertos nos. 1 and 2, Concerto for Violin and oboe, lost oboe concerti, numerous oboe obbligato lines in the sacred and secular cantatas
+* Samuel Barber, Canzonetta, op. 48, for oboe and string orchestra (1977–78, orch. completed by Charles Turner)
+* Vincenzo Bellini, Concerto in E, for oboe and string orchestra (before 1825)
+* Luciano Berio, Sequenza VII (1969), also Chemins IV (on Sequenza VII), for oboe and string orchestra (1975)
+*Harrison Birtwistle, An Interrupted Endless Melody, for oboe and piano (1991)
+*Harrison Birtwistle, Pulse Sampler, for oboe and claves (1981)
+* Benjamin Britten, Six Metamorphoses after Ovid, op. 49, Temporal Variations, Two Insect Pieces, Phantasy Quartet, op. 2
+* Elliott Carter, Oboe Concerto (1986–87); Trilogy, for oboe and harp (1992); Quartet for oboe, violin, viola, and cello (2001)
+* Carlos Chávez, Upingos, for unaccompanied oboe
+* Domenico Cimarosa, Oboe Concerto in C major (arranged)
+* Madeleine Dring, Three Piece Suite arr. Roger Lord
+* Madeleine Dring, Trio for oboe, flute and piano
+* Henri Dutilleux, Les Citations for oboe, harpsichord, double bass and percussion (1991)
+* George Frideric Handel, The Arrival of the Queen of Sheba, Oboe Concerti and Sonatas
+* Joseph Haydn (spurious-possibly by Malzat), Oboe Concerto in C major
+* Hans Werner Henze, Doppio concerto, for oboe, harp, and string orchestra (1966)
+* Paul Hindemith, Sonata for Oboe and Piano
+* Heinz Holliger, Sonata, for unaccompanied oboe (1956–57/99); Mobile, for oboe and harp (1962); Trio, for oboe (doubling English horn), viola, and harp (1966); Studie über Mehrklänge, for unaccompanied oboe (1971); Sechs Stücke, for oboe (doubling oboe d’amore) and harp (1998–99)
+* Antonio Lotti, Concerto for oboe d'amore
+* Witold Lutosławski, Double Concerto for Oboe, Harp, and Chamber Orchestra
+* Bruno Maderna, 3 oboe concertos (1962–63) (1967) (1973); Grande aulodia, for flute, oboe, and orchestra (1970), Aulodia for Oboe d´amore (and guitar ad Libitum)
+* Alessandro Marcello, Concerto in D minor
+* Bohuslav Martinů, Concerto for Oboe and Small Orchestra
+* Olivier Messiaen, Concert à quatre
+* Darius Milhaud, Les rêves de Jacob, op. 294, for oboe, violin, viola, cello, and doublebass (1949); Sonatina, op. 337, for oboe and piano (1954)
+* Wolfgang Amadeus Mozart, Oboe Concerto in C major, Quartet in F major
+* Carl Nielsen, Two Fantasy Pieces for Oboe and Piano, op. 2
+* Antonio Pasculli, oboe concertos for oboe and piano/orchestra
+* Francis Poulenc, Oboe Sonata
+* Sergei Prokofiev, Quintet for Oboe, Clarinet, Violin, Viola and Bass op. 39 (1923) 
+* Maurice Ravel, Le Tombeau de Couperin
+* Edmund Rubbra, Oboe Sonata
+* Camille Saint-Saëns, Sonata for Oboe and Piano in D Major
+* Robert Schumann, Three Romances for oboe or violin and piano
+* Karlheinz Stockhausen, In Freundschaft, for oboe, Nr. 46⅔, Oboe for oboe and electronic music (from Orchester-Finalisten, scene 2 of Mittwoch aus Licht)
+* Richard Strauss, Oboe Concerto
+* Igor Stravinsky, Pastorale (transcribed in 1933 for Violin and Wind Quartet)
+* Toru Takemitsu, Distance for Oboe (and Sho libit. (1971)
+* Toru Takemitsu, Entre-Temps for Oboe and String Quartett (1981)
+* Tchaikovsky, Theme to Swan Lake
+* Georg Philipp Telemann, oboe concerti and sonatas, trio sonatas for oboe, recorder, and basso continuo
+* Antonio Vivaldi, at least 15 oboe concertos
+* Ralph Vaughan Williams, Concerto for Oboe and Strings, Ten Blake Songs for oboe and tenor
+*John Woolrich, Oboe Concerto (1996)
+* Jan Dismas Zelenka (1723) Concertanti, Oboe Trios and other works JD Zelenka 
+* Bernd Alois Zimmermann, Concerto for Oboe and Small Orchestra (1952)
+* Ellen Taaffe Zwilich, Oboe Concerto
+
+== Use in non-classical music ==
+
+=== Traditional and folk music ===
+Although folk oboes are still used in many European folk music traditions, the modern oboe has been little used in folk music. One exception was Derek Bell, harpist for the Irish group The Chieftains, who used the regular instrument in some performances and recordings. The United States contra dance band Wild Asparagus, based in western Massachusetts, also uses the oboe, played by David Cantieni. The folk musician Paul Sartin plays the oboe in several English folk bands including Faustus and Bellowhead. Welsh bagpipe player and bagpipe maker Jonathan Shorland plays a 'rustic oboe' similar to the Breton 'piston' with the bands Primeaval and Juice. He formerly played with Fernhill, who play traditional Welsh music. The popular traditional music of Brittany boasts a significant professional class of musicians playing increasingly sophisticated double reed instruments, supported by professional instrument makers, reed manufacturers and the educational system. The Breton 'Piston' Oboe and Bombard have expanded from traditional roles into genres as diverse as jazz, rock, and classical music.
+
+=== Jazz ===
+The oboe remains uncommon in jazz music, but there have been notable uses of the instrument. Some early bands in the 1920s and '30s, most notably that of Paul Whiteman, included it for coloristic purposes. The multi-instrumentalist Garvin Bushell (1902–1991) played the oboe in jazz bands as early as 1924 and used the instrument throughout his career, eventually recording with John Coltrane in 1961. Coltrane Discography Dave Wild Gil Evans featured oboe in sections of his famous Sketches of Spain collaboration with trumpeter Miles Davis. Though primarily a tenor saxophone and flute player, Yusef Lateef was among the first (in 1963) to use the oboe as a solo instrument in modern jazz performances and recordings. Composer and double bassist Charles Mingus gave the oboe a brief but prominent role (played by Dick Hafer) in his composition "I.X. Love" on the 1963 album Mingus Mingus Mingus Mingus Mingus. Marshall Allen occasionally played an oboe with Sun Ra.
+
+With the birth of Jazz fusion in the late 1960s, and its continuous development through the following decade, the oboe became somewhat more prominent, replacing on some occasions the saxophone as the focal point. The oboe was used with great success by the Welsh multi-instrumentalist Karl Jenkins in his work with the groups Nucleus and Soft Machine, and by the American woodwind player Paul McCandless, co-founder of the Paul Winter Consort and later Oregon. Romeo Penque also played the oboe on Roland Kirk's 1975 album Return of the 5000 Lb. Man, in the song "Theme for the Eulipions."
+
+The 1980s saw an increasing number of oboists try their hand at non-classical work, and many players of note have recorded and performed alternative music on oboe. Some present-day jazz groups influenced by classical music, such as the Maria Schneider Orchestra, feature the oboe.
+
+Since 1996, Jean-Luc Fillon is a prominent musician playing oboe (and English horn) at the international level in jazz music. Double reedist Charles Pillow also makes use of oboe and has made an instructional recording for jazz oboe. Charles Pillow jodyjazz.com 
+
+===Rock and pop===
+The oboe has been used sporadically in rock/pop recordings (The Carpenters "For All We Know" 1970,"Donovan Leitch" "Jennifer Juniper"1968), generally by studio musicians on recordings of specific songs.
+
+Peter Gabriel, during his period as lead singer in the progressive rock band Genesis, played oboe on some of the group's studio recordings. Andy Mackay played oboe for Roxy Music both in the studio and on stage.
+
+In the 2000s, Robbie J. de Klerk, the vocalist of the Dutch melodic doom/death metal band Another Messiah Another Messiah Encyclopaedia Metallum also played the oboe in most songs. In America, the band Hoboe defines itself as a rock band showcasing amplified oboe since 2000, fronted by oboist Zen Ben. Hoboe Hoboe.com Indie singer-songwriter and composer Sufjan Stevens, having studied the instrument in school, often includes the instrument in his arrangements and compositions, most frequently in his geographic tone-poems Illinois, Michigan, and his orchestral suite The BQE. Album Credits for Sufjan Stevens Allmusic.com 
+
+*For a historical sampling of songs featuring the oboe see Oboes in popular music
+
+=== Film music ===
+The oboe is frequently featured in film music, often to underscore a particularly poignant or sad scene, for example in the motion picture Born on the Fourth of July, where an oboe delicately takes the theme with a romantic and harmonic touch before the strings hand it over once again to the trumpet. One of the most prominent uses of the oboe in a film score is Ennio Morricone's "Gabriel's Oboe" theme from the 1986 film The Mission.
+
+It is featured as a solo instrument in the theme "Across the Stars" from the John Williams score to . The oboe is also used in "The Search" from the Basil Poledouris score to Conan The Barbarian.
+
+Ilaiyaraja, a famous Indian film music composer, has also used the oboe in much of his film music. Examples include "Dalapathi" (1991); the title track of "Aditya 369" (1991); “Pazhassiraja” (2009); and “Nandalaala”(2010). The oboe has also been used by more recent Indian music composers, such as A. R. Rahman, who has used it in the movie "Jodha Akbar" (2008).
+
+== Famous oboists ==
+
+== Oboe manufacturers ==
+
+* Barrington Instruments Inc. (Barrington, Illinois, USA)
+* Boosey and Hawkes (1851-1970s) (London, UK)
+* Buffet Crampon (Mantes-la-Ville, France)
+* Bulgheroni (Parè, Italy)
+* Cabart or Thibouville-Cabart (1869–1974, bought out by F. Lorée) (Paris, France)
+* Carmichael (UK)
+* Chauvet (until ~ 1975) (Paris, France)
+* Mark Chudnow (MCW, Sierra) (Napa, California, USA)
+* Constantinides (Pöggstall, Austria)
+* Covey (Blairsville, Georgia, USA)
+* Dupin (Moutfort, Luxembourg)
+* D.W.K (Seoul, Korea)
+* Fossati (incl. Tiery) (Paris, France)
+* Fox (South Whitley, Indiana, USA)
+* Frank (Berlin, Germany)
+* Heckel (until the 1960s) (Wiesbaden, Germany)
+* Thomas Hiniker Woodwinds (Rochester, Minnesota, USA)
+* Howarth (London, UK)
+* Incagnoli (Rome, Italy)
+* A. Jardé (prior to WWII) (Paris, France)
+* Josef (Okinawa and Tokyo, Japan)
+* V. Kohlert & Söhne (1840-1948 Graslitz, Czechoslovakia, 1948-1970s Kohlert & Co. Winnenden, Germany)
+* Kreul (incl. Mirafone) (Tübingen, Germany)
+
+* J. R. LaFleur (1865–1938, bought by Boosey & Hawkes) (London, UK)
+* Larilee Woodwind Corp. (USA) (Elkhart, Indiana, USA)
+* A. Läubin A. Laubin, Inc (incl. "A. Barré") (Peekskill, New York, USA)
+* G. LeBlanc (France-USA)
+* Linton (Elkhart, Indiana, USA)
+* F. Lorée Loree Paris (incl. Cabart) (Paris, France)
+* Louis (prior to WWII) (London, UK)
+* Malerne (until 1974, bought by Marigaux) (La Couture-Boussey, France)
+* Marigaux Marigaux (Mantes-la-Ville, France)
+* Markardt (until 1976, bought by Mönnig) (Erlbach, Germany)
+* Mollenauer (before WWII; now only recorders) (Fulda, Germany)
+* Gebr. Mönnig - Oscar Adler (Markneukirchen, Germany)
+* Orsi (Tradate, Italy)
+* John Packer (Taunton, UK)
+* Patricola (Castelnuovo Scrivia, Italy)
+* Püchner (Nauheim, Germany)
+* Karl Radovanovic (Vienna, Austria)
+* Rigoutat (incl. RIEC) (Saint-Maur-des-Fossés, France)
+* A. Robert (prior to WWII) (Paris, France)
+* Sand N. Dalton, Instrument Maker (Lopez Island WA, USA)
+* Selmer (incl. Bundy, Lesher, Omega, Signet) (France, USA)
+* Tom Sparkes (Hornsby, New South Wales, Australia)
+* Ward & Winterbourne (London, UK)
+* Guntram Wolf (Kronach, Germany)
+* Yamaha (Japan)
+
+== Notes ==
+
+== References ==
+* Baines, Anthony: 1967, Woodwind Instruments and Their History, third edition, with a foreword by Sir Adrian Boult. London: Faber and Faber.
+* Beckett, Morgan Hughes: 2008, "The Sensuous Oboe". Orange, CA: Scuffin University Press. ISBN 0-456-00432-7.
+* Burgess, Geoffrey, and Bruce Haynes: 2004, The Oboe. The Yale Musical Instrument Series. New Haven, Connecticut and London: Yale University Press. ISBN 0-300-09317-9.
+* Carse, Adam: 1965, Musical Wind Instruments: A History of the Wind Instruments Used in European Orchestras and Wind-Bands from the Later Middle Ages up to the Present Time New York: Da Capo Press. ISBN 0-306-80005-5.
+* Gioielli, Mauro: 1999. "La 'calamaula' di Eutichiano". Utriculus 8, no. 4 (32) (October–December): 44–45.
+* Harris-Warrick, Rebecca: 1990, "A Few Thoughts on Lully's hautbois" Early Music 18, no. 1 (February, "The Baroque Stage II"): 97-98+101-102+105-106.
+* Haynes, Bruce: 1985, Music for Oboe, 1650-1800: A Bibliography. Fallen Leaf Reference Books in Music, 8755-268X; no. 4. Berkeley, California: Fallen Leaf Press. ISBN 0-914913-03-4.
+* Haynes, Bruce: 1988, "Lully and the Rise of the Oboe as Seen in Works of Art". Early Music 16, no. 3 (August): 324–38.
+* Haynes, Bruce: 2001, The Eloquent Oboe: A History of the Hautboy 1640–1760. Oxford Early Music Series. Oxford and New York: Oxford University Press. ISBN 0-19-816646-X.
+* Howe, Robert: 2003, "The Boehm System Oboe and its Role in the Development of the Modern Oboe". Galpin Society Journal 56:27–60 +plates on 190–92.
+* Howe, Robert, and Peter Hurd: 2004, "The Heckelphone at 100". Journal of the American Musical Instrument Society 30:98–165.
+* Joppig, Gunther: 1988. The Oboe and the Bassoon, translated by Alfred Clayton. Portland: Amadeus Press. ISBN 0-931340-12-8.
+*Kushner, Tony: 1993. Angels in America: A Gay Fantasia on National Themes, single-volume edition. New York: Theatre Communications Group. ISBN 1-55936-107-7.
+* Marcuse, Sybil: 1975, Musical Instruments: A Comprehensive Dictionary Revised edition, The Norton Library, New York: W. W. Norton. ISBN 0-393-00758-8
+
+== External links ==
+
+*Peter Wuttke: The Haynes-Catalog bibliography of literature for oboe written between 1650 and 1800.
+*A Guide to Choosing an Oboe Student, intermediate & professional oboes explained.
+*Experiments in Jazz Oboe by Alison Wilson (archive link, was dead)
+*Oboist Liang Wang: His Reeds Come First NPR story by Debbie Elliott
+*
+*Oboe sound gallery of clips of dozens of prominent oboists in the United States, Europe, and Australia
+
+

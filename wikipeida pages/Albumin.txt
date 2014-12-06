@@ -1,0 +1,71 @@
+[[Albumin]]
+
+The albumins (formed from Latin: albumen "(egg) white; dried egg white") are a family of globular proteins, the most common of which is serum albumin. The albumin family consists of all proteins that are water-soluble, are moderately soluble in concentrated salt solutions, and experience heat denaturation. Albumins are commonly found in blood plasma, and are unique from other blood proteins in that they are not glycosylated. Substances containing albumins, such as egg white, are called albuminoids.
+
+A number of blood transport proteins are evolutionarily related, including serum albumin, alpha-fetoprotein, vitamin D-binding protein and afamin. 
+
+== Function ==
+Albumin is the main protein of human blood plasma. It binds water, cations (such as Ca2+, Na+ and K+), fatty acids, hormones, bilirubin, thyroxine (T4) and pharmaceuticals (including barbiturates) - its main function is to regulate the colloidal osmotic pressure of blood. Alpha-fetoprotein (alpha-fetoglobulin) is a fetal plasma protein that binds various cations, fatty acids and bilirubin. Vitamin D-binding protein binds to vitamin D and its metabolites, as well as to fatty acids. The biological role of afamin (alpha-albumin) has not yet been characterised.
+
+== Structure ==
+
+The 3D structure of human serum albumin has been determined by X-ray crystallography to a resolution of 2.5 Å. Albumin is a 65-70 kDa protein.
+
+Albumin comprises three homologous domains that assemble to form a heart-shaped molecule. Each domain is a product of two subdomains that possess common structural motifs. The principal regions of ligand binding to human serum albumin are located in hydrophobic cavities in subdomains IIA and IIIA, which exhibit similar chemistry. Structurally, the serum albumins are similar, each domain containing five or six internal disulfide bonds, as shown schematically below:
+
+ +---+ +----+ +-----+
+ | | | | | |
+ xxCxxxxxxxxxxxxxxxxCCxxCxxxxCxxxxxCCxxxCxxxxxxxxxCxxxxxxxxxxxxxxCCxxxxCxxxx
+ | | | | | |
+ +-----------------+ +------+ +---------------+
+
+C = cysteine, x = any amino acid
+
+== Types ==
+
+=== Serum albumin ===
+
+Serum albumin is the most abundant blood plasma protein and is produced in the liver and forms a large proportion of all plasma protein. The human version is human serum albumin, and it normally constitutes about 50% of human plasma protein. 
+
+Serum albumins are important in regulating blood volume by maintaining the oncotic pressure (also known as colloid osmotic pressure) of the blood compartment. They also serve as carriers for molecules of low water solubility this way isolating their hydrophobic nature, including lipid soluble hormones, bile salts, unconjugated bilirubin, free fatty acids (apoprotein), calcium, ions (transferrin), and some drugs like warfarin, phenobutazone, clofibrate & phenytoin. For this reason, it's sometimes referred as a molecular "taxi". Competition between drugs for albumin binding sites may cause drug interaction by increasing the free fraction of one of the drugs, thereby affecting potency.
+
+Specific types include:
+* human serum albumin
+* bovine serum albumin (cattle serum albumin) or BSA, often used in medical and molecular biology labs.
+
+Low albumin (hypoalbuminemia) may be caused by liver disease, nephrotic syndrome, burns, protein-losing enteropathy, malabsorption, malnutrition, late pregnancy, artefact, genetic variations and malignancy.
+
+High albumin (hyperalbuminemia) is almost always caused by dehydration. In some cases of retinol (Vitamin A) deficiency, the albumin level can be elevated to high-normal values (e.g., 4.9 g/dL). This is because retinol causes cells to swell with water (this is also the reason too much Vitamin A is toxic). 
+ 
+In lab experiments it has been shown that All-trans retinoic acid down regulates human albumin production 
+ 
+
+Normal range of human serum albumin in adults (> 3 y.o.) is 3.5 to 5 g/dL. For children less than three years of age, the normal range is broader, 2.9-5.5 g/dL. "Normal Ranges for Common Laboratory Tests." Rush University 
+
+Albumin binds to the cell surface receptor Albondin.
+
+=== Other types ===
+
+Other types include the storage protein ovalbumin in egg white, and different storage albumins in the seeds of some plants.
+* Note that the protein 'albumin' is spelled with an "i", while "albumen" with an "e", is the white of an egg, which contains (among other things) several dozen types of albumin (with an 'i'), mostly ovalbumin.
+
+== Medical uses ==
+For patients with low blood volume, there is no evidence that albumin reduces mortality when compared with cheaper alternatives such as normal saline, or that albumin reduces mortality in patients with burns and low albumin levels. Therefore, the Cochrane Collaboration recommends that it not be used, except in clinical trials. 
+
+In acoustic droplet vaporization (ADV), albumin is sometimes used as a surfactant. ADV has been proposed as a cancer treatment by means of occlusion therapy. 
+
+==See also==
+* Cohn process (human serum albumin purification method)
+* Serum albumin
+** Bovine serum albumin
+** Human serum albumin
+
+==References==
+
+==External links==
+
+* 
+* The Albumin website
+* Albumin binding prediction
+
+A

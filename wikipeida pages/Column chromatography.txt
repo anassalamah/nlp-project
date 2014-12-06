@@ -1,0 +1,104 @@
+[[Column chromatography]]
+
+A chemist in the 1950s using column chromatography. The Erlenmeyer receptacles are on the floor.
+Automated fraction collector and sampler for chromatographic techniques
+Column chromatography in chemistry is a method used to purify individual chemical compounds from mixtures of compounds. It is often used for preparative applications on scales from micrograms up to kilograms. The main advantage of column chromatography is the relatively low cost and disposability of the stationary phase used in the process. The latter prevents cross-contamination and stationary phase degradation due to recycling.
+
+The classical preparative chromatography column, is a glass tube with a diameter from 5 mm to 50 mm and a height of 5 cm to 1 m with a tap and some kind of a filter (a glass frit or glass wool plug – to prevent the loss of the stationary phase) at the bottom. Two methods are generally used to prepare a column: the dry method, and the wet method.
+:* For the dry method, the column is first filled with dry stationary phase powder, followed by the addition of mobile phase, which is flushed through the column until it is completely wet, and from this point is never allowed to run dry.
+:* For the wet method, a slurry is prepared of the eluent with the stationary phase powder and then carefully poured into the column. Care must be taken to avoid air bubbles. A solution of the organic material is pipetted on top of the stationary phase. This layer is usually topped with a small layer of sand or with cotton or glass wool to protect the shape of the organic layer from the velocity of newly added eluent. Eluent is slowly passed through the column to advance the organic material. Often a spherical eluent reservoir or an eluent-filled and stoppered separating funnel is put on top of the column.
+
+The individual components are retained by the stationary phase differently and separate from each other while they are running at different speeds through the column with the eluent. At the end of the column they elute one at a time. During the entire chromatography process the eluent is collected in a series of fractions. Fractions can be collected automatically by means of fraction collectors. The productivity of chromatography can be increased by running several columns at a time. In this case multi stream collectors are used. The composition of the eluent flow can be monitored and each fraction is analyzed for dissolved compounds, e.g. by analytical chromatography, UV absorption, or fluorescence. Colored compounds (or fluorescent compounds with the aid of an UV lamp) can be seen through the glass wall as moving bands.
+
+== Stationary phase ==
+
+Column chromatography proceeds by a series of steps.The stationary phase or adsorbent in column chromatography is a solid. The most common stationary phase for column chromatography is silica gel, followed by alumina. Cellulose powder has often been used in the past. Also possible are ion exchange chromatography, reversed-phase chromatography (RP), affinity chromatography or expanded bed adsorption (EBA). The stationary phases are usually finely ground powders or gels and/or are microporous for an increased surface, though in EBA a fluidized bed is used. There is an important ratio between the stationary phase weight and the dry weight of the analyte mixture that can be applied onto the column. For silica column chromatography, this ratio lies within 20:1 to 100:1, depending on how close to each other the analyte components are being eluted. Setting up a flash chromatography column 
+
+== Mobile phase (eluent) ==
+
+The mobile phase or eluent is either a pure solvent or a mixture of different solvents. It is chosen so that the retention factor value of the compound of interest is roughly around 0.2 - 0.3 in order to minimize the time and the amount of eluent to run the chromatography. The eluent has also been chosen so that the different compounds can be separated effectively. The eluent is optimized in small scale pretests, often using thin layer chromatography (TLC) with the same stationary phase.
+
+There is an optimum flow rate for each particular separation. A faster flow rate of the eluent minimizes the time required to run a column and thereby minimizes diffusion, resulting in a better separation. However, the maximum flow rate is limited because a finite time is required for analyte to equilibrate between stationary phase and mobile phase, see Van Deemter's equation. A simple laboratory column runs by gravity flow. The flow rate of such a column can be increased by extending the fresh eluent filled column above the top of the stationary phase or decreased by the tap controls. Faster flow rates can be achieved by using a pump or by using compressed gas (e.g. air, nitrogen, or argon) to push the solvent through the column (flash column chromatography). Still, W. C.; Kahn, M.; Mitra, A. J. Org. Chem. 1978, 43(14), 2923-2925. () 
+
+The particle size of the stationary phase is generally finer in flash column chromatography than in gravity column chromatography. For example, one of the most widely used silica gel grades in the former technique is mesh 230 – 400 (40 – 63 µm), while the latter technique typically requires mesh 70 – 230 (63 – 200 µm) silica gel. Normal phase column chromatography, Material Harvest 
+
+A spreadsheet that assists in the successful development of flash columns has been developed. The spreadsheet estimates the retention volume and band volume of analytes, the fraction numbers expected to contain each analyte, and the resolution between adjacent peaks. This information allows users to select optimal parameters for preparative-scale separations before the flash column itself is attempted. Fair, J. D.; Kormos, C. M. J. Chromatogr. A 2008, 1211(1-2), 49-54. () 
+
+== Automated systems ==
+An automated ion chromatography system.
+Column chromatography is an extremely time consuming stage in any lab and can quickly become the bottleneck for any process lab. Therefore, several manufacturers like Buchi, Teledyne Isco, have developed automated flash chromatography systems (typically referred to as LPLC, low pressure liquid chromatography, around 350 -) that minimize human involvement in the purification process. Automated systems will include components normally found on more expensive high performance liquid chromatography (HPLC) systems such as a gradient pump, sample injection ports, a UV detector and a fraction collector to collect the eluent. Typically these automated systems can separate samples from a few milligrams up to an industrial many kilogram scale and offer a much cheaper and quicker solution to doing multiple injections on prep-HPLC systems.
+
+The resolution (or the ability to separate a mixture) on an LPLC system will always be lower compared to HPLC, as the packing material in an HPLC column can be much smaller, typically only 5 micrometre thus increasing stationary phase surface area, increasing surface interactions and giving better separation. However, the use of this small packing media causes the high back pressure and is why it is termed high pressure liquid chromatography. The LPLC columns are typically packed with silica of around 50 micrometres, thus reducing back pressure and resolution, but it also removes the need for expensive high pressure pumps. Manufacturers are now starting to move into higher pressure flash chromatography systems and have termed these as medium pressure liquid chromatography (MPLC) systems which operate above 1 MPa.
+
+Typical set up for manual column chromatography.The software controlling an automated system will coordinate the components, allow a user to only collect the fractions that contain their target compound (assuming they are detectable on the system's detector) and help the user to find the resulting purified material within the fraction collector. The software will also save the resulting chromatograph from the process for archival and/or later recall purposes.
+
+A representative example of column chromatography as part of an undergraduate laboratory exercise is the separation of three components (out of 28) in the oil of spearmint: carvone, limonene and dehydrocarveol. Isolation of Three Components from Spearmint Oil: An Exercise in Column and Thin-Layer Chromatography Davies, Don R.; Johnson, Todd M. J. Chem. Educ. 2007 84 Abstract A microscale setup consisting of a Pasteur pipette as column with silica gel stationary phase can suffice. The starting eluent is hexane and solvent polarity is increased during the process by adding ethyl acetate.
+
+== Column chromatogram resolution calculation ==
+Powdery silicate for column chromatography
+Typically, column chromatography is set up with peristaltic pumps, flowing buffers and the solution sample through the top of the column. The solutions and buffers pass through the column where a fraction collector at the end of the column setup collects the eluted samples. Prior to the fraction collection, the samples that are eluted from the column pass through a detector such as a spectrophotometer or mass spectrometer so that the concentration of the separated samples in the sample solution mixture can be determined.
+
+For example, if you were to separate two different proteins with different binding capacities to the column from a solution sample, a good type of detector would be a spectrophotometer using a wavelength of 280 nm. The higher the concentration of protein that passes through the eluted solution through the column, the higher the absorbance of that wavelength.
+
+Because the column chromatography has a constant flow of eluted solution passing through the detector at varying concentrations, the detector must plot the concentration of the eluted sample over a course of time. This plot of sample concentration versus time is called a chromatogram.
+
+The ultimate goal of chromatography is to separate different components from a solution mixture. The resolution expresses the extent of separation between the components from the mixture. The higher the resolution of the chromatogram, the better the extent of separation of the samples the column gives. This data is a good way of determining the column’s separation properties of that particular sample. The resolution can be calculated from the chromatogram.
+
+The separate curves in the diagram represent different sample elution concentration profiles over time based on their affinity to the column resin. To calculate resolution, the retention time and curve width are required.
+
+Retention time: The time from the start of signal detection by the detector to the peak height of the elution concentration profile of each different sample.
+
+Curve width: The width of the concentration profile curve of the different samples in the chromatogram in units of time.
+
+A simplified method of calculating chromatogram resolution is to use the plate model. Harrison et al. Bioseparations Science and Engineering. Oxford University Press. New York, New York. 2003 The plate model assumes that the column can be divided into a certain number of sections, or plates and the mass balance can be calculated for each individual plate. This approach approximates a typical chromatogram curve as a Gaussian distribution curve. By doing this, the curve width is estimated as 4 times the standard deviation of the curve, 4σ. The retention time is the time from the start of signal detection to the time of the peak height of the Gaussian curve.
+
+From the variables in the figure above, the resolution, plate number, and plate height of the column plate model can be calculated using the equations:
+
+Resolution (Rs)
+
+ Rs = 2(tRB – tRA)/(wB + wA)
+Where:
+
+ tRB = retention time of solute B
+ tRA = retention time of solute A
+ wB = Gaussian curve width of solute B
+ wA = Gaussian curve width of solute A
+Plate Number (N):
+ N = (tR)2/(w/4)2
+Plate Height (H):
+ H = L/N
+Where L is the length of the column. 
+
+== Column adsorption equilibrium ==
+
+For an adsorption column, the column resin (the stationary phase) is composed of microbeads. Even smaller particles such as proteins, carbohydrates, metal ions, or other chemical compounds are conjugated onto the microbeads. Each binding particle that is attached to the microbead can be assumed to bind in a 1:1 ratio with the solute sample sent through the column that needs to be purified or separated.
+
+Binding between the target molecule to be separated and the binding molecule on the column beads can be modeled using a simple equilibrium reaction Keq = /() where Keq is the equilibrium constant, and are the concentrations of the target molecule and the binding molecule on the column resin, respectively. is the concentration of the complex of the target molecule bound to the column resin. 
+
+Using this as a basis, three different isotherms can be used to describe the binding dynamics of a column chromatography: linear, Langmuir, and Freundlich.
+
+The linear isotherm occurs when the solute concentration needed to be purified is very small relative to the binding molecule. Thus, the equilibrium can be defined as:
+
+ = Keq.
+
+For industrial scale uses, the total binding molecules on the column resin beads must be factored in because unoccupied sites must be taken into account. The Langmuir isotherm and Freundlich isotherm are useful in describing this equilibrium.
+Langmuir Isotherm:
+ = (KeqStot)/(1 + Keq), where Stot is the total binding molecules on the beads.
+
+Freundlich Isotherm:
+
+ = Keq1/n
+
+The Freundlich isotherm is used when the column can bind to many different samples in the solution that needs to be purified. Because the many different samples have different binding constants to the beads, there are many different Keq’s. Therefore, the Langmuir isotherm is not a good model for binding in this case. 
+
+== See also ==
+* Chromatography, an overview article covering all chromatographic techniques.
+* High performance liquid chromatography (HPLC) for column chromatography using high pressure.
+* Fast protein liquid chromatography (FPLC) for separation of proteins using column chromatography.
+
+== References ==
+
+== External links ==
+* Flash Column Chromatography Guide (pdf)
+
+

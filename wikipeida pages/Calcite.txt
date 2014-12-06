@@ -1,0 +1,78 @@
+[[Calcite]]
+
+Crystal structure of calcite
+Calcite is a carbonate mineral and the most stable polymorph of calcium carbonate (CaCO3). The other polymorphs are the minerals aragonite and vaterite. Aragonite will change to calcite at 380&ndash;470°C, and vaterite is even less stable.
+
+==Properties==
+
+Calcite crystals are trigonal-rhombohedral, though actual calcite rhombohedra are rare as natural crystals. However, they show a remarkable variety of habits including acute to obtuse rhombohedra, tabular forms, prisms, or various scalenohedra. Calcite exhibits several twinning types adding to the variety of observed forms. It may occur as fibrous, granular, lamellar, or compact. Cleavage is usually in three directions parallel to the rhombohedron form. Its fracture is conchoidal, but difficult to obtain.
+
+It has a defining Mohs hardness of 3, a specific gravity of 2.71, and its luster is vitreous in crystallized varieties. Color is white or none, though shades of gray, red, orange, yellow, green, blue, violet, brown, or even black can occur when the mineral is charged with impurities.
+
+Calcite is transparent to opaque and may occasionally show phosphorescence or fluorescence. A transparent variety called Iceland spar is used for optical purposes. Acute scalenohedral crystals are sometimes referred to as "dogtooth spar" while the rhombohedral form is sometimes referred to as "nailhead spar".
+
+Single calcite crystals display an optical property called birefringence (double refraction). This strong birefringence causes objects viewed through a clear piece of calcite to appear doubled. The birefringent effect (using calcite) was first described by the Danish scientist Rasmus Bartholin in 1669. At a wavelength of ~590 nm calcite has ordinary and extraordinary refractive indices of 1.658 and 1.486, respectively. Between 190 and 1700 nm, the ordinary refractive index varies roughly between 1.9 and 1.5, while the extraordinary refractive index varies between 1.6 and 1.4. 
+
+Calcite, like most carbonates, will dissolve with most forms of acid. Calcite can be either dissolved by groundwater or precipitated by groundwater, depending on several factors including the water temperature, pH, and dissolved ion concentrations. Although calcite is fairly insoluble in cold water, acidity can cause dissolution of calcite and release of carbon dioxide gas. Ambient carbon dioxide, due to its acidity, has a slight solubilizing effect on calcite. Calcite exhibits an unusual characteristic called retrograde solubility in which it becomes less soluble in water as the temperature increases. When conditions are right for precipitation, calcite forms mineral coatings that cement the existing rock grains together or it can fill fractures. When conditions are right for dissolution, the removal of calcite can dramatically increase the porosity and permeability of the rock, and if it continues for a long period of time may result in the formation of caves. On a landscape scale, continued dissolution of calcium carbonate-rich rocks can lead to the expansion and eventual collapse of cave systems, resulting in various forms of karst topography.
+
+==Use and applications==
+
+High-grade optical calcite was used in World War II for gun sights, specifically in bomb sights and anti-aircraft weaponry. Also, experiments have been conducted to use calcite for a cloak of invisibility. Microbiologically precipitated calcite has a wide range of applications, such as soil remediation, soil stabilization and concrete repair.
+
+==Natural occurrence==
+
+The largest documented single crystals of calcite originated from Iceland, measured 7×7×2 m and 6×6×3 m and weighed about 250 tons. 
+
+Calcite is a common constituent of sedimentary rocks, limestone in particular, much of which is formed from the shells of dead marine organisms. Approximately 10% of sedimentary rock is limestone.
+
+Calcite is the primary mineral in metamorphic marble. It also occurs as a vein mineral in deposits from hot springs, and it occurs in caverns as stalactites and stalagmites.
+
+Lublinite is a fibrous, efflorescent form of calcite. Lublinite at Mindat 
+
+Calcite may also be found in volcanic or mantle-derived rocks such as carbonatites, kimberlites, or rarely in peridotites.
+
+Calcite is often the primary constituent of the shells of marine organisms, e.g., plankton (such as coccoliths and planktic foraminifera), the hard parts of red algae, some sponges, brachiopods, echinoderms, some serpulids, most bryozoa, and parts of the shells of some bivalves (such as oysters and rudists). Calcite is found in spectacular form in the Snowy River Cave of New Mexico as mentioned above, where microorganisms are credited with natural formations. Trilobites, which became extinct a quarter billion years ago, had unique compound eyes that used clear calcite crystals to form the lenses. 
+
+== Calcite formation processes ==
+
+Calcite forms from a poorly ordered precursor (amorphous calcium carbonate, ACC). Rodriguez-Blanco, Juan Diego, Shaw, Sam. and Benning, Liane G. (2008) How to make ‘stable’ ACC: protocol and structural characterization. Mineralogical Magazine 72/1: 283-286. doi: 10.1180/minmag.2008.072.1.283 The crystallization process occurs in two stages; firstly, the ACC nanoparticles rapidly dehydrate and crystallize to form individual particles of vaterite; secondly, the vaterite transforms to calcite via a dissolution and reprecipitation mechanism with the reaction rate controlled by the surface area of calcite. Rodríguez-Blanco, Juan Diego; Shaw, Samuel; and Benning, Liane G. (2011) The kinetics and mechanisms of Amorphous Calcium Carbonate (ACC) crystallization to calcite, via vaterite. Nanoscale 3: 265-271. doi: 0.1039/C0NR00589D The second stage of the reaction is approximately 10 times slower than the ﬁrst. However, the crystallization of calcite has been observed to be dependent on the starting pH and presence of Mg in solution. Rodriguez-Blanco, Juan Diego; Bots, Pieter; Roncal-Herrero, Teresa; Shaw, Samuel; Benning, Liane G. (2012) The role of pH and Mg on the stability and crystallization of amorphous calcium carbonate. Journal of Alloys and Compounds 536/S1: S477-S479. doi:10.1016/j.jallcom.2011.11.057 A neutral starting pH during mixing promotes the direct transformation of ACC into calcite. Conversely, when ACC forms in a solution that starts with a basic initial pH, the transformation to calcite occurs via metastable vaterite, which forms via a spherulitic growth mechanism. Bots, Pieter; Rodriguez Blanco, Juan Diego; Roncal-Herrero, Teresa; Shaw, Samuel; Benning, Liane G. (2012) Mechanistic insights into the crystallization of amorphous calcium carbonate to vaterite. Crystal Growth and Design 12 (7), pp 3806–3814. doi: 10.1021/cg300676b In a second stage this vaterite transforms to calcite via a surface-controlled dissolution and recrystallization mechanism. Mg has a noteworthy effect on both the stability of ACC and its transformation to crystalline CaCO3, resulting in the formation of calcite directly from ACC, as this ion unstabilizes the structure of vaterite.
+
+==Calcite in Earth history==
+Calcite seas existed in Earth history when the primary inorganic precipitate of calcium carbonate in marine waters was low-magnesium calcite (lmc), as opposed to the aragonite and high-magnesium calcite (hmc) precipitated today. Calcite seas alternated with aragonite seas over the Phanerozoic, being most prominent in the Ordovician and Jurassic. Lineages evolved to use whichever morph of calcium carbonate was favourable in the ocean at the time they became mineralised, and retained this mineralogy for the remainder of their evolutionary history. Petrographic evidence for these calcite sea conditions consists of calcitic ooids, lmc cements, hardgrounds, and rapid early seafloor aragonite dissolution. The evolution of marine organisms with calcium carbonate shells may have been affected by the calcite and aragonite sea cycle. 
+
+==Gallery==
+
+Image:Calcite jaune.jpg|Doubly terminated calcite crystal.
+Image:Erbenochile eye.JPG|Trilobite eyes employed calcite.
+Image:CalciteEchinosphaerites.jpg|Calcite crystals inside a test of the cystoid Echinosphaerites aurantium (Middle Ordovician, northeastern Estonia).
+Image:Calcite-HUGE.jpg|Calcite rhomb from Iceberg claim, Dixon, New Mexico showing double refraction.
+Image:MississippianMarbleUT.JPG|Mississippian marble (made of calcite) in Big Cottonwood Canyon, Wasatch Mountains, Utah.
+Image:GeopetalCarboniferousNV.jpg|Thin section view of calcite crystals inside a recrystallized bivalve shell in a biopelsparite.
+Image:Calcite_Nb_Medford.jpg|Calcite containing niobium (giving it distinctive bluish color), from Medford Quarry, Maryland.
+Image:Calcite-183615.jpg|Nailhead spar calcite. 
+Image:Calcite-tch21c.jpg|Reddish rhombohedral calcite crystals from China. Its red color is due to the presence of iron.
+Image:Calcite LongWaveUV HAGAM.jpg|Calcite fluoresces pink under long wave ultraviolet light.
+Image:Calcite ShortwaveUV HAGAM.jpg|Calcite fluoresces blue under short wave ultraviolet light.
+
+==See also==
+
+*Iceland Spar
+*Ikaite, CaCO3·6H2O
+*List of minerals
+*Lysocline
+*Manganoan Calcite, (Ca,Mn)CO3
+*Monohydrocalcite, CaCO3·H2O
+*Ocean acidification
+*Ulexite aka "TV rock", another mineral with an optical property often illustrated in the same way.
+*Yule Marble
+
+==References==
+
+==Further reading==
+*Schmittner Karl-Erich and Giresse Pierre, 1999. "Micro-environmental controls on biomineralization: superficial processes of apatite and calcite precipitation in Quaternary soils", Roussillon, France. Sedimentology 46/3: 463–476.
+
+==External links==
+
+*Calcite information and images
+
+

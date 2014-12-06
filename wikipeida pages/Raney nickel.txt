@@ -1,0 +1,109 @@
+[[Raney nickel]]
+
+Dry activated Raney nickel.
+
+Raney nickel is a fine-grained solid composed mostly of nickel derived from a nickel-aluminium alloy. A variety of grades are known, but most are gray solids. Some are pyrophoric, most are used as air-stable slurries. Raney nickel is used as a reagent and as a catalyst in organic chemistry. It was developed in 1926 by American engineer Murray Raney for the hydrogenation of vegetable oils. See:
+* Raney, Murray, "Method of producing finely-divided nickel," U.S. patent 1,628,190 (filed: 14 May 1926 ; issued: 10 May 1927).
+* M. S. Wainwright, "3.2 Skeletal metal catalysts" in: Gerhard Ertl, Helmut Knözinger, and Jens Weitkamp, ed.s, Preparaton of Solid Catalysts (Weinheim, Federal Republic of Germany: Wiley-VCH Verlag, 1999), pages 28–29. Teng-Kuei Yang, Dong-Sheng Lee, Julia Haas "Raney Nickel" in Encyclopedia of Reagents for Organic Synthesis 2005 John Wiley, New York. 
+
+==Nomenclature==
+Since Raney is a registered trademark of W. R. Grace and Company, only those products by its Grace Division division are properly called "Raney nickel". The more generic terms "skeletal catalyst" or "sponge-metal catalyst" may be used to refer to catalysts with physical and chemical properties similar to those of Raney nickel. However, since the Grace company itself does not use any generic names for the catalysts it is supplying, "Raney" may become generic under US trademark law.
+
+==Preparation==
+
+===Alloy preparation===
+Raney nickel is pyrophoric and must be handled with care. This shipping container is filled with vermiculite to protect the sealed bottle inside.
+The Ni–Al alloy is prepared by dissolving nickel in molten aluminium followed by cooling ("quenching"). Depending on the Ni:Al ratio, quenching produces a number of different phases.
+During the quenching procedure, small amounts of a third metal, such as zinc or chromium, are added to enhance the activity of the resulting catalyst. This third metal is called a "promoter". The promoter changes the mixture from a binary alloy to a ternary alloy, which can lead to different quenching and leaching properties during activation.
+
+===Activation===
+In the activation process, the alloy, usually as a fine powder, is treated with a concentrated solution of sodium hydroxide. The simplified leaching reaction is given by the following chemical equation:
+
+:2 Al + 2 NaOH + 6 H2O → 2 Na + 3 H2
+The formation of sodium aluminate (Na) requires that solutions of high concentration of sodium hydroxide be used to avoid the formation of aluminium hydroxide, which otherwise would precipitate as bayerite. Hence sodium hydroxide solutions with concentrations of up to 5 molar are used. 
+
+The temperature used to leach the alloy has a marked effect on the properties of the catalyst. Commonly, leaching is conducted between 70 and 100 °C. The surface area of Raney nickel (and related catalysts in general) tends to decrease with increasing leaching temperature. This is due to structural rearrangements within the alloy that may be considered analogous to sintering, where alloy ligaments would start adhering to each other at higher temperatures, leading to the loss of the porous structure.
+
+During the activation process, Al is leached out of the NiAl3 and Ni2Al3 phases that are present in the alloy, while most of the Al remains, in the form of NiAl. The removal of Al from some phases but not others is known as "selective leaching". The NiAl phase has been shown to provide the structural and thermal stability of the catalyst. As a result, the catalyst is quite resistant to decomposition ("breaking down", commonly known as "aging"). This resistance allows Raney nickel to be stored and reused for an extended period; however, fresh preparations are usually preferred for laboratory use. For this reason, commercial Raney nickel is available in both "active" and "inactive" forms.
+
+Before storage, the catalyst can be washed with distilled water at ambient temperature to remove remaining sodium aluminate. Oxygen-free (degassed) water is preferred for storage to prevent oxidation of the catalyst, which would accelerate its aging process and result in reduced catalytic activity. 
+
+==Properties==
+Phase diagram of the Ni–Al system, showing relevant phases
+SEM of Raney nickel catalyst in which crystals of 1-50µm is seen.
+A close-up of Raney nickel. Small cracks of approximately 1-100 nm width are seen within the crystals, causing the increased surface area.
+
+Macroscopically, Raney nickel is a finely divided gray powder. Microscopically, each particle of this powder is a three-dimensional mesh, with pores of irregular size and shape of which the vast majority are created during the leaching process. Raney nickel is notable for being thermally and structurally stable, as well has having a large BET (Brunauer-Emmett-Teller) surface area. These properties are a direct result of the activation process and contribute to a relatively high catalytic activity.
+
+The surface area is typically determined via a BET measurement using a gas that will be preferentially adsorbed on metallic surfaces, such as hydrogen. Using this type of measurement, almost all the exposed area in a particle of the catalyst has been shown to have Ni on its surface. Since Ni is the active metal of the catalyst, a large Ni surface area implies a large surface is available for reactions to occur simultaneously, which is reflected in an increased catalyst activity. Commercially available Raney nickel has an average Ni surface area of 100 m2 per gram of catalyst. 
+
+A high catalytic activity, coupled with the fact that hydrogen is absorbed within the pores of the catalyst during activation, makes Raney nickel a useful catalyst for many hydrogenation reactions. Its structural and thermal stability (i.e., it does not decompose at high temperatures) allows its use under a wide range of reaction conditions. Additionally, the solubility of Raney nickel is negligible in most common laboratory solvents, with the exception of mineral acids such as hydrochloric acid, and its relatively high density (about 6.5 g/cm3) also facilitates its separation from a liquid phase after a reaction is completed.
+
+==Applications==
+Raney nickel is used in a large number of industrial processes and in organic synthesis because of its stability and high catalytic activity at room temperature. 
+
+===Industrial applications===
+A practical example of the use of Raney nickel in industry is shown in the following reaction, where benzene is reduced to cyclohexane. Reduction of the benzene ring is very hard to achieve through other chemical means, but can be effected by using Raney nickel. Other heterogeneous catalysts, such as those using platinum group elements, may be used instead, to similar effect, but these tend to be more expensive to produce than Raney nickel. The cyclohexane thus produced may be used in the synthesis of adipic acid, a raw material used in the industrial production of polyamides such as nylon. 
+
+Benzene is routinely reduced to cyclohexane using Raney nickel for the production of nylon.
+
+Other industrial applications of Raney nickel include the conversion of:
+*Dextrose to sorbitol; 
+*Nitro compounds to amines, for example, 2,4-dinitrotoluene to 2,4-toluenediamine; 
+*Nitriles to amines, for example, stearonitrile to stearylamine and adiponitrile to hexamethylenediamine; 
+*Olefins to paraffins, for example, sulfolene to sulfolane;
+*Acetylenes to paraffins, for example, 1,4-butynediol to 1,4-butanediol.
+
+===Applications in organic synthesis===
+
+====Desulfurization====
+Raney nickel is used in organic synthesis for desulfurization. For example, thioacetals will be reduced to hydrocarbons in the last step of the Mozingo reduction: 
+
+Example of desulfurization of thioacetals using Raney nickel
+
+Thiols, and sulfides can be removed from aliphatic, aromatic, or heteroaromatic compounds. Likewise, Raney nickel will remove the sulfur of thiophene to give a saturated alkane. 
+
+Reduction of thiophene by Raney nickel
+
+====Reduction of functional groups====
+
+It is typically used in the reduction of compounds with multiple bonds, such as alkynes, alkenes, nitriles, dienes, aromatics and carbonyl-containing compounds. Additionally, Raney nickel will reduce heteroatom-heteroatom bonds, such as hydrazines, nitro groups, and nitrosamines. It has also found use in the reductive alkylation of amines and the amination of alcohols.
+
+When reducing a carbon-carbon double bond, Raney nickel will add hydrogen in a syn fashion. 
+
+==Safety==
+Raney nickel is flammable.
+
+Nickel metal is classified as "Harmful".
+
+Due to its large surface area and high volume of contained hydrogen gas, dry, activated Raney nickel is a pyrophoric material that should be handled under an inert atmosphere. Raney nickel is typically supplied as a 50% slurry in water. Care should be taken never to expose Raney nickel to air. Even after reaction, Raney nickel contains significant amounts of hydrogen gas, and may spontaneously ignite when exposed to air. 
+
+Raney nickel will produce hazardous fumes when burning, so the use of a gas mask is recommended when extinguishing fires caused by it. Additionally, acute exposure to Raney nickel may cause irritation of the respiratory tract and nasal cavities, and causes pulmonary fibrosis if inhaled. Ingestion may lead to convulsions and intestinal disorders. It can also cause eye and skin irritation. Chronic exposure may lead to pneumonitis and other signs of sensitization to nickel, such as skin rashes ("nickel itch"). 
+
+Nickel is also rated as being a possible human carcinogen by the IARC (Group 2B, EU category 3) and teratogen, while the inhalation of fine aluminium oxide particles is associated with Shaver's disease. Care should be taken when handling these raw materials during laboratory preparation of Raney nickel.
+
+==Development==
+Murray Raney graduated as a mechanical engineer from the University of Kentucky in 1909. In 1915 he joined the Lookout Oil and Refining Company in Tennessee and was responsible for the installation of electrolytic cells for the production of hydrogen which was used in the hydrogenation of vegetable oils. During that time the industry used a nickel catalyst prepared from nickel(II) oxide. Believing that better catalysts could be produced, around 1921 he started to perform independent research while still working for Lookout Oil. In 1924 a 1:1 ratio Ni/Si alloy was produced, which after treatment with sodium hydroxide, was found to be five times more active than the best catalyst used in the hydrogenation of cottonseed oil. A patent for this discovery was issued in December 1925. (Raney's original nickel-silicon catalyst) 
+
+Subsequently, Raney produced a 1:1 Ni/Al alloy following a procedure similar to the one used for the nickel-silicon catalyst. He found that the resulting catalyst was even more active and filed a patent application in 1926. This is the preferred alloy composition for production of Raney nickel catalysts currently in use.
+
+Following the development of Raney nickel, other alloy systems with aluminium were considered, of which the most notable include copper, ruthenium and cobalt. Further research showed that adding a small amount of a third metal to the binary alloy would promote the activity of the catalyst. Some widely used promoters are zinc, molybdenum and chromium. An alternative way of preparing enantioselective Raney nickel has been devised by surface adsorption of tartaric acid. 
+
+==See also==
+*Nickel aluminide
+
+==References==
+
+==Further reading==
+
+;Preparation of Raney nickel
+*Mozingo, Ralph (1941). "Catalyst, Raney-Nickel, W-2". Org. Synth. 21, 15; Coll. Vol. 3, 181.
+*Billica, Harry R.; Adkins, Homer (1949). "Catalyst, Raney-Nickel, W-6". Org. Synth. 29, 24; Coll. Vol. 3, 176.
+
+==External links==
+
+*International Chemical Safety Card 0062
+*NIOSH Pocket Guide to Chemical Hazards
+*Grace Davison – Raney catalysts. Includes a history section.
+
+

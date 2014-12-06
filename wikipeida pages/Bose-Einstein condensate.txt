@@ -1,0 +1,339 @@
+[[Bose-Einstein condensate]]s can be contained inside [[carbon nanotube]]s. Would this be able to stop all types of radiation, if the condensate could be kept cold enough? [http://arxiv.org/abs/cond-mat/0310067] {{User:Eequor/Signature/Syllabic}} 15:09, 7 September 2005 (UTC)
+
+::::::That's an interesting way of going about it. I think. Sort of like shielding yourself with a black hole, without all the messy gravity. --[[User:Brasswatchman|Brasswatchman]] 19:57, September 7, 2005 (UTC)
+
+:::::: In such an arrangement, the nanotubes ought to be kept positively charged, in order to absorb [[beta particle]]s and prevent [[alpha particle]]s from sticking, no? Perhaps some sort of nanotube [[heat pump]] could be worked in to allow condensate to boil away energy in a controlled manner. {{User:Eequor/Signature/Syllabic}} 20:30, 7 September 2005 (UTC)
+
+:::::: That's a neat idea; I was thinking that something really dense like [[neutronium]] would do it, too&mdash;but it's a bit difficult to carry around. :D [[User:TenOfAllTrades|TenOfAllTrades]]([[User_talk:TenOfAllTrades|talk]]) 20:52, 7 September 2005 (UTC)
+
+::::::: Since it looks like this thread has just about bottomed out, just wanted to thank everyone for your help. It's been a fascinating discussion. Thanks again. --[[User:Brasswatchman|Brasswatchman]] 18:49, September 8, 2005 (UTC)
+
+:::::::: Let me add a few ideas before it's over: Some form of [[programmable matter]] might possibly be "tuned" to absorb certain radiation (as long as you don't mind stepping on [[Wil McCarthy]]'s toes); There should be a whole periodic table of elements with nuclei that contain different [[quark]]s (than the usual up and down quarks in normal atoms), which could have unknown radiation absorption characteristics; and there may be all sorts of [[exotic matter]] with unknown properties. Lots of room around the edges for SF, still. -- [[User:DrBob|DrBob]] 19:01, 8 September 2005 (UTC)
+
+:There's a neat idea. Thanks. --[[User:Brasswatchman|Brasswatchman]] 17:39, September 12, 2005 (UTC)
+
+== In Vivo 47th chromosome trials/studies worldwide ==
+
+Please direct me to the persons/companies currently involved with this apparently promising gene vector. Viral vectors are less desirable, but am still interested, esp. for ADL/AMN.
+
+Are you referring to this? [http://www.technologyreview.com/articles/03/04/innovation40403.asp?p=1 This article] describes development of an "artificial chromosome" as a vector for insertion of new genes. It names a couple of people and 2 companies involved in the research. [[User:Alteripse|alteripse]] 02:49, 6 September 2005 (UTC)
+
+== rounding to one decimal place ==
+
+whats the one decimal place of 11.35? and what the one decimal place of 11.45?
+[[User:218.111.213.149|218.111.213.149]] 03:33, 6 September 2005 (UTC)
+*Uh....11.4 and 11.5 respectively, I suppose. Is this a trick question? (I guess the answer would depend on which rounding method you use)--[[User:Inkypaws|inks]] 03:39, 6 September 2005 (UTC)
+
+*:Some rounding schemes insist that you do things differently if the digit next to the 5 is even or odd...as inks said. --[[User:HappyCamper|HappyCamper]] 03:50, 6 September 2005 (UTC)
+
+*::Yep, depends on the method. A (the most?) common method is [[round to even]] used to eliminate bias from always rounding 5's up. Using round to even the answers would both be 11.4. - [[User:Taxman|Taxman]] <sup><small>[[User talk:Taxman|Talk]]</sup></small> 15:51, September 6, 2005 (UTC)
+
+*Related question: 11.33444444445. Rounding to 2 d.p.; would it be 11.33 or 11.34? [[User:Nichalp|<font color="#0082B8">=Nichalp</font>]] [[User talk:Nichalp|<font color="#0082B8">Talk=</font>]] 07:54, September 6, 2005 (UTC)
+
+**11.33. Everything after the next digit is of no importance in the rounding schemes I've encountered up to now. If you want it rounded to x decimal places, you look at the (x+1)th and then round up or down. [[User:Nightstallion|&mdash;]] [[Image:Flag_of_Austria.png|15px]] [[User:Nightstallion|????????]] <sub>[[User_talk:Nightstallion|?–?]]</sub> [[Special:Watchlist|&mdash;]] 08:54, 6 September 2005 (UTC)
+
+== Chemical equation for combustion of coal ==
+
+Hi,
+Can someone please tell me the full chemical reaction for the burning of coal? And petrol if possible? Thanks! --[[User:Fir0002|Fir0002]] 09:46, September 6, 2005 (UTC)
+:Coal is mostly carbon, so the basic reaction is C + O<sub>2</sub> –> CO<sub>2</sub>. But incomplete combustion, and impurities in the coal (tar, sulfur, etc, etc), lead to the occurrence of thousands of other reactions, which is where all the smoke and stink come from. Petrol is mostly octane (C<sub>8</sub>H<sub>18</sub>), so the basic reaction is 2 C<sub>8</sub>H<sub>18</sub> + 25 O<sub>2</sub> –> 16 CO<sub>2</sub> + 18 H<sub>2</sub>O (I think that adds up!). Again, there's various minor components which produce the smells. Also the odd nitrogen molecule in the air gets caught up in the heat of the moment and burnt to nitrogen dioxide (more smells and pollution) - [[User:MPF|MPF]] 11:46, 6 September 2005 (UTC)
+::I think it is incorrect to say petrol ([[gasoline]]) is mostly octane. From that article it states that "The bulk of a typical gasoline consists of hydrocarbons with between 5 and 12 carbon atoms per molecule." and that [[octane rating]] is the term for the combustion properties of gasoline, but it doesn't necessarily mean there is any octane at all in the fuel, because other compounds can have a higher octane rating than [iso]octane. I don't know what the most common distribution of compounds in gasoline is though, and I also failed to find a more detailed distribution for [[diesel]] than is in the article. - [[User:Taxman|Taxman]] <sup><small>[[User talk:Taxman|Talk]]</sup></small> 18:38, September 6, 2005 (UTC)
+:Some of the stink of burning coal (and diesel fuel, too) comes from the combustion of sulfur compounds to produce various sulfur oxides (mostly sulfur dioxide: SO<sub>2</sub>). Sulfur dioxide, in addition to its unpleasant odour, is also a key contributor to [[acid rain]]&mdash;sulfur dioxide combined with atmospheric water vapour (H<sub>2</sub>O) forms [[sulfurous acid]]: H<sub>2</sub>SO<sub>3</sub>. Modern coal plants are equipped with scrubbers which absorb SO<sub>2</sub> by reaction with limestone (calcium carbonate: CaCO<sub>3</sub>). Many jurisdictions limit the amount of sulfur permitted in diesel fuel (in most of the United States and Canada, I think the current limit is 500 ppm, and there is a push to reduce that to 50 ppm in some areas.)
+:Actually SO<sub>2</sub> reacts with water to form [[sulphuric acid]], H<sub>2</sub>SO<sub>4</sub> which fails as acid rain. [[User:Rmhermen|Rmhermen]] 15:26, September 8, 2005 (UTC)
+::Thanks everyone for your help! --[[User:Fir0002|Fir0002]] 12:15, September 7, 2005 (UTC)
+
+Actually, I think SO<sub>2</sub> forms sulfurous acid H<sub>2</sub>SO<sub>3</sub> which is acid rain, but not as stable as
+H<sub>2</sub>SO<sub>4</sub>
+
+== Ozone depletion because of cooling of stratosphere ==
+
+Why would ozone levels be depleted if the stratosphere is cooled? --[[User:Fir0002|Fir0002]] 11:04, September 6, 2005 (UTC)
+:The two are not related - ozone depletion is due to catalytic decomposition of the ozone by various human-released pollutants such as [[CFC]]s. - [[User:MPF|MPF]] 11:53, 6 September 2005 (UTC)
+Because when the stratosphere cools, clouds of ice crystals can form. The surface of these crystal acts as a catalyst for some of the reactions which lead to destruction of stratospheric ozone. This is why the depletion in the ozone layer is greatest at the poles and during winter. [[User:Physchim62|Physchim62]] 21:42, 6 September 2005 (UTC)
+
+::THanks for your answers. I asked because it said [http://en.wikipedia.org/wiki/Global_warming#The_relation_between_global_warming_and_ozone_depletion here] that it enhanced the ozone depletion but not why. --[[User:Fir0002|Fir0002]] 11:59, September 7, 2005 (UTC)
+
+== The night sky, as seen from Mars ==
+
+Hi, I'm a long-time answerer, first-time question-asker. Poking around on the [http://www.jpl.nasa.gov JPL Nasa] site led me to wonder why I'd never seen any pictures taken of Mars' night sky as seen from the ground. What with the Viking landers/MERs and various other landers, you'd think someone would have taken a photo at night. Do these pictures exist, or is there some technical reason why it wouldn't work?
+
+Or is it all just a fake on a soundstage? :P
+--[[User:Sum0|Sum0]] 11:51, 6 September 2005 (UTC)
+
+:Judging by the Mars sunset pic [[:Image:MarsSunset.jpg]] being rather under-exposed, I'd say the camera on board is not sensitive enough to get a decent night photo. Or, perhaps more to the point, they've better things to do with the limited power resources available - a night photo might not teach us a lot. - [[User:MPF|MPF]] 11:59, 6 September 2005 (UTC)
+
+:There are night photographs, but they're not much use; you can't see much, really. The two rovers currently landed have produced a few, out of interest as much as anything else. [http://marsrovers.jpl.nasa.gov/gallery/press/spirit/20040311a.html this page] has a selection from one night session, including a starscape in Orion, a very faint image of Earth, and - of all things! - a streak which is probably the [[Viking 2]] orbiter.
+:::More recent analysis suggested it was a meteor, part of a Martian meteor shower. They didn't know for sure because it was a long exposure, so they didn't know if was a slow-moving orbiting satellite like Viking 2 or a fast-moving meteor. -- [[User:Curps|Curps]] 22:25, 14 September 2005 (UTC)
+:In addition, Mars landers are solar-powered, severely limiting the power budget for doing things at night, and they like to keep the instruments from doing anything much during the cold, cold nights. So that features in. [[User:Shimgray|Shimgray]] 13:13, 6 September 2005 (UTC)
+
+::Thanks for the replies, I thought it might be something like that. Incidentally, that picture of Earth is rather awe-inspiring when you consider it. --[[User:Sum0|Sum0]] 11:24, 7 September 2005 (UTC)
+
+:::[[Mars Global Surveyor]] has also imaged Earth, though this time from Mars orbit - it's even possible to discern continents! [http://www.msss.com/mars_images/moc/2003/05/22/] [[User:Shimgray|Shimgray]] 11:40, 7 September 2005 (UTC)
+
+::::See [[Astronomy on Mars]]. There's a photo of a meteor linked from there, and pictures of the Earth and Moon from Mars. Also [[Transit of Phobos from Mars]] and [[Transit of Deimos from Mars]]. The ''Spirit'' and ''Opportunity'' rover cameras aren't really designed for taking pictures of the night sky, too low-res. The Earth and Moon picture was taken by Mars Global Surveyor. Also this photo of Phobos and Deimos zipping through the Martian night sky: [http://marsrovers.jpl.nasa.gov/gallery/press/spirit/20050909a/phobos_deimos_585txt-A585R1_th265x228.gif]. The latter photo is part of a gallery of other photos, see [http://marsrovers.jpl.nasa.gov/gallery/press/spirit/20050909a.html]. -- [[User:Curps|Curps]] 22:15, 14 September 2005 (UTC)
+
+== Does anyone know what plant this is? ==
+
+[[Image:UnknownPlantCG1.jpg|thumb|200px|left|An unidentified plant. Maybe milkweed.]]
+[[Image:UnknownPlantCG2.jpg|thumb|200px|right|An unidentified plant. Maybe milkweed.]]
+
+I was at my local zoo with my cousin and her daughters, when we came across this plant. She suspected it might be milkweed, and her comment left me very curious. I snapped this picture for reference, then cropped it a bit. Can anyone either confirm or give a different id on this plant? [[User:CanadaGirl|CanadaGirl]] 13:58, 6 September 2005 (UTC)
+:Not knowing what local is for you, and not being a botanist, I can't be sure, but I'm pretty confident you are right. The pod in the right side of the middle of the photo seems convincing to me. A shot more of the top of the plant would be easier to tell for me. Were there [[Monarch butterfly|Monarchs]] nearby? - [[User:Taxman|Taxman]] <sup><small>[[User talk:Taxman|Talk]]</sup></small> 15:42, September 6, 2005 (UTC)
+
+:Local for me is southern Manitoba, Canada. I have added a wider shot of the same plant. I didn't notice if there were [[Monarch butterfly|Monarchs]]. Thanks for your help. [[User:CanadaGirl|CanadaGirl]] 15:52, 6 September 2005 (UTC)
+
+::Looks like Buttonbush ''Cephalanthus occidentalis'' ([[Rubiaceae]]) to me. We don't have a page on that yet (not even on the genus ''[[Cephalanthus]]'') - I'll write it if I may use the pic - [[User:MPF|MPF]] 18:15, 6 September 2005 (UTC) - Second thoughts - not convinced on Buttonbush any more - it doesn't quite match - [[User:MPF|MPF]] 18:30, 6 September 2005 (UTC)
+
+::Well that image doesn't seem to help any more, but [[Asclepias|milkweed]] still seems very plausible to me. Compare the pictures of the pods on the image in our article to those on yours. Based on those, I'd have a hard time believing it is anything different, but like I said, I'm no botanist. But if it is important, you could always take it to your local university botany/biology department and ask them. The people near that zoo exhibit should know too. I was thinking if it happened to be a monarch exhibit, milkweed would be a shoe in. Google searching for milkweed also showed that there is a lot more variation among the milkweed species than I was aware of. - [[User:Taxman|Taxman]] <sup><small>[[User talk:Taxman|Talk]]</sup></small> 18:24, September 6, 2005 (UTC)
+
+== Crab ==
+[[Image:BBayCrab.jpg|left|thumb|160px|Mystery crab]]
+
+'''''Moved from [[Wikipedia talk:WikiProject Tree of Life]]'''''
+
+It's a long shot but can anyone identify this crab, spotted on the south coast of New South Wales, Australia?--[[User:Petaholmes|nixie]] 11:42, 2 September 2005 (UTC)
+:<insert your own joke about crabs down under, I'm tired> - [[User:Taxman|Taxman]] <sup><small>[[User talk:Taxman|Talk]]</sup></small> 03:42, September 7, 2005 (UTC)
+
+== Heat damage to bottled water ==
+
+If I carry a bottle of water, that is still sealed, from the store, never been opened, on my bike, in Arizona, where summer temperatures can stay above 100 degrees for days, how long is that bottle of water still consumable?
+
+Jrb
+
+::At above 100°C, the water will boil, so the bottle may explode when sufficient pressure has built up. It will also be lethal for the cyclist. - [[User:MPF|MPF]] 18:37, 6 September 2005 (UTC)
+:::Arizona doesn't reach 100°C. Jrb is talking °F [[User:Theresa knott|Theresa Knott]] [[User talk:Theresa knott| (a tenth stroke)]] 20:19, 6 September 2005 (UTC)
+::::So what does that archaic F cr@p translate to in real money, then?? [[User:MPF|MPF]]
+:::::The [[Fahrenheit]] article gives the formula, but it's about 38°C - [[User:Taxman|Taxman]] <sup><small>[[User talk:Taxman|Talk]]</sup></small> 22:36, September 6, 2005 (UTC)
+: I would think an unopened [[bottled water|bottle of water]] from a store would remain [[potable]] pretty much indefinitely. [[Tap water]] stored in a water bottle, however, would remain potable for much less time, unless treated in some way. {{User:Eequor/Signature/Syllabic}} 15:35, 6 September 2005 (UTC)
+
+:Depends on your definition of consumable. At 100 degrees, the water certainly wouldn't be very refreshing. Depending on how you store the water bottle, solar heating could take it well above that. I'm assuming you are more worried about chemicals leaching from the plastic? I think all plastics used in water bottles are relatively benign, but if you look on the bottle for the specific type, and look for the heat decomposition of that type, you may find more useful information. Was there something other than that you were worried about? You may also want to look into something akin to a [[desert water bag]] [http://www.google.com/search?hl=en&lr=&rls=GGLD%2CGGLD%3A2003-37%2CGGLD%3Aen&q=%22desert+water+bag%22] that uses very effective [[evaporative cooling]]. - [[User:Taxman|Taxman]] <sup><small>[[User talk:Taxman|Talk]]</sup></small> 15:36, September 6, 2005 (UTC)
+
+:: Also effective may be freezing the water before you need it, depending on how long you'll be outside. The water will melt in the heat but remain cool while there is ice left. Note that the bottles must be emptied by at least a few inches before freezing, to prevent them from bursting. {{User:Eequor/Signature/Syllabic}} 17:14, 6 September 2005 (UTC)
+
+:In terms of degredation of the plastic, the two water bottles on my desk are both made of [[Polyethylene terephthalate]] (PET / PETE). The wikipedia article on PETE does mention that the plastic degrades with high temperatures, leading to the production of [[acetaldehyde]] - which is naturally occuring and, according to our article, harmless other than the possibility of hangover-like symptoms. [[User:Thryduulf|Thryduulf]] 15:51, 6 September 2005 (UTC)
+
+:: Additionally, "high temperatures" in this case are well over 100°F; PET decomposes around 300°C (572°F). Its [[melting point]] is somewhat lower (255°C, 491°F) &mdash; and of course the bottle would explode well before reaching this point &mdash; so at least temperature should not be a problem. [http://eiecomprod.shopforplastics.com/Ensinger/msds/ensitep.html] {{User:Eequor/Signature/Syllabic}} 16:16, 6 September 2005 (UTC)
+
+:::If it's not decomposing, what is the cause of the plastic/chemical taste from waterbottles that have been left in the sun? - [[User:Taxman|Taxman]] <sup><small>[[User talk:Taxman|Talk]]</sup></small> 18:27, September 6, 2005 (UTC)
+
+:::: That's probably due to the quality of the manufacturing process. Some chemical residue may end up in the plastic and leach out over time; PET is fairly permeable (enough so that various pollutants could get into the water as well, if the bottle is not stored in a clean place). Some companies make water bottles designed to prevent this sort of thing, such as the [[Platypus (water bottle)|Platypus]] [[brand]] (lined with [[polyethylene]]). [http://www.danshuman.com/salemcycle/taber/ac_acwb_i02969_ds.html] {{User:Eequor/Signature/Syllabic}} 18:40, 6 September 2005 (UTC)
+
+== inertial guidance systems ==
+
+I would like to know something about the usage of inertial guidance system.Can this system be used in a car for determining its position and speed?And what will be cost of using such an instrument in a car? And if it is not feasible for economical or technical reasons,is it possible to measure the position and direction of a car over a distance of 15-30kms fairly accurately so that it can be used to know the location of a car at any moment of time in a journey.Can we use speedometer or distance meter in a car to know the distance moved by the car and can we use steering wheel movements to determine the direction of car for this purpose or some kind of a sensor which can do this thing economically?
+--[[User:203.197.74.148|203.197.74.148]] 15:34, 6 September 2005 (UTC)
+Sumit Malhotra
+s_malhotra@iitb.ac.in
+:Inertial systems can do the job (they'd be more accurate than the speedo/steering method); however, [[GPS]] / [[DGPS]] is a better solution, in my opinion. &mdash;&nbsp;[[User:Lomn|Lomn]]&nbsp;|&nbsp;<small>[[User Talk:Lomn|Talk]]&nbsp;/&nbsp;[[User:Lomn/RfC|RfC]]</small> 22:09, 6 September 2005 (UTC)
+::Yeah, unless there was some compelling reason *not* to use satellite navigation it makes little sense. A high-quality electronic compass sensor would probably cost more than a GPS, given that you can get a GPS unit with a USB interface for well under 100 USD. --[[User:Robert Merkel|Robert Merkel]] 23:22, 6 September 2005 (UTC)
+:::I believe before GPS's Selective Availability was turned off (which made street-precise GPS available to the public), there were a few hybrid GPS/inertial nav. systems around. I remember hearing of a trial of one in Japan in the late 80s/early 90s. -- [[User:DrBob|DrBob]] 23:27, 6 September 2005 (UTC)
+::::Yeah, I remember them (and the joys of the US government playing silly buggers with GPS) too. If you're still interested in a hybrid system, marine autopilots are fitted with [[fluxgate compass]]es, and have been since before GPS existed. Some even have gyrocompasses. Marine fluxgates are not cheap (hundreds of USD); gyrocompasses are even more expensive. --[[User:Robert Merkel|Robert Merkel]] 08:23, 7 September 2005 (UTC)
+
+== medical doctor ==
+
+Hi! Can you help me find contact information for this very famous fertility doctor: Dr. Severino Antinori, in Rome, Italy? He appears in several of your articles, but there is no contact information for him--e.g., address, email, phone. Thanks.
+
+S. Ashe
+sashe@cerritos.edu
+562.621-1874
+*I'm sorry. Wikipedia doesn't include contact details for people. But if you know where he works, I would imagine his hospital/clinic can help you contact him. Such organizations usually have websites you can visit. - [[User:MacGyverMagic|Mgm]]|[[User talk:MacGyverMagic|<sup>(talk)</sup>]] 10:41, September 7, 2005 (UTC)
+
+A google search with Severino Antinori fertility yields dozens of stories about him. He has a fertility clinic (International Associated Research Centre for Human Reproduction, Italy) in Rome described as being "500 yards from the Vatican" (about 0.5 km). I found 2 links to his clinic's web page but neither seem to be currently valid. [http://www.raprui.org/~raporg/] and [www.raprui.it/home_i.html]. A report of his work is PMID 7782415. [[User:Alteripse|alteripse]] 10:55, 7 September 2005 (UTC)
+
+== The effect of human Bioenergy on the propagation of elastic waves ==
+
+Performing research on the human body and its radiation of energy fields. Frequently called the human Aura that is linked with the Chakra System. Elastic waves define a spectrum between ultraviolet and light.
+
+Any addition information in your encyclopedia on this subject?
+
+Thank you,
+
+Prof. J
+
+You can try [[aura (paranormal)]] - and note the references at the bottom of the article; these may be useful. You might also like to try our articles on [[Chakra]], [[Kirlian photography]]. All these articles have many useful links to other associated topics. [[User:Proto|Proto]]<small>&nbsp;[[User_talk:Proto|t]]&nbsp;[[Special:Contributions/Proto|c]]</small> 10:10, 7 September 2005 (UTC)
+
+And don't forget to submit your positive results for the [[James Randi]] million dollar prize! [[User:Alteripse|alteripse]] 11:02, 7 September 2005 (UTC)
+
+Or grow up and visit planet earth sometime, but until then do as alteripse says
+
+== Banana Peel? ==
+
+Is Banana peel actually especially slippery?
+
+Yes. As the outside of a banana peel (the more yellow side) is actually quite sticky (try rubbing your hand across it - there's a lot of friction there), and the whiter inside has (when still moist) a very low coefficient of [[friction]], when you put your foot on the peel, the friction of the yellow, outer side ensures your foot will stay on the peel, while the slippery inside will ensure you slide across the floor, and usually fall over. 
+
+However, for this to happen, three things need to occur: 1) The peel must have the slippery (inside) side on the floor, and the yellow outer peel facing upwards. 2) The floor the peel is on must be hard and relatively smooth (ie, a polished or tiled floor). 3) The peel must still be moist (ie, not been there for a while.
+
+So yes. A banana peel is especially slippery. [[User:Proto|Proto]]<small>&nbsp;[[User_talk:Proto|t]]&nbsp;[[Special:Contributions/Proto|c]]</small> 13:08, 7 September 2005 (UTC)
+
+:Best Reference Desk question and answer ever. [[User:Garrett Albright|Garrett Albright]] 14:32, 7 September 2005 (UTC)
+
+== Katrina Effect ==
+
+What is the Katrina Effect?
+The name applied to instances where political, military, and other officials respond
+very poorly and very late to a major disaster.
+
+:Did you answer your own question? Anyway, that's a [[neologism]] if I've ever heard one.
+
+:Try asking [[George W. Bush|this person]] for more details. [[User:MPF|MPF]]
+
+== CHEMISTRY ==
+
+how heat can turns solid matter into liquid matter in molecules reaction?
+
+''HOMEWORK QUESTION.'' Heat is energy. Molecules in a liquid are moving around more (have more energy) than molecules in a solid. Start with that. [[User:Garrett Albright|Garrett Albright]] 14:32, 7 September 2005 (UTC)
+
+== Earth air travel ==
+
+Suppose two points on earth equator surface which is 180° separated. And two planes is going at the same time from A to B with same speed, one move west and one move east. Are both planes going to be arrived at the same time or not? [[User:Roscoe x|roscoe_x]] 16:19, 7 September 2005 (UTC)
+
+:In theory, yes, the same time. In practice, the plane which goes over the western hemisphere may have to climb a little higher to avoid [[Cayambe (volcano)|Volcán Cayambe]] (4600m altitude on the equator), so might arrive slightly later. A more significant practical problem might be the weather, which could make it very difficult for the two planes to maintain identical ground speeds. - [[User:MPF|MPF]] 17:01, 7 September 2005 (UTC)
+
+:It depends on your assumptions. If the planes are travelling at the same speed relative to the ground, they will arrive at the same time. If they're moving at the same speed relative to the air, then it depends on [[trade winds]] and so on. If they're moving at the same speed relative to a co-moving Earth-centered [[inertial frame]], then the westward moving plane will get their first, since the Earth's rotation is moving point B towards the westward plane and away from the eastward one. -- [[User:DrBob|DrBob]] 17:26, 7 September 2005 (UTC)
+::To extend, in the third case, the eastward plane will "arrive" by way of the Earth catching up to the plane, assuming the plane is your standard sub-mach airliner or the like. &mdash; [[User:Lomn|Lomn]] | <small>[[User Talk:Lomn|Talk]] / [[User:Lomn/RfC|RfC]]</small> 20:52, 7 September 2005 (UTC)
+:::In the third case, could I suppose, if the plane has a speed of 800 km/h relative to ''co-moving earth-centered inertial frame''. w/o taking consideration of the wind blow and earth surface height, Could you count the time of arrival between these two airplanes?
+:::''or''
+:::In real flight, do we really have the third case? [[User:Roscoe x|roscoe_x]] 16:53, 8 September 2005 (UTC)
+
+::::Lorm makes a point I hadn't realized properly until I calculated it: In an ECI frame, any point on the Earth's equator is moving eastward at about 1674 km/h. So an eastward plane going 800 km/h (relative to an ECI frame) is actually moving backwards (relative to the Earth) at 874 km/h. So point B catches up to the plane from behind.
+::::The westward plane is going 1674 + 800 = 2474 km/h relative to the Earth. So to make the 20037 km trip (half the Earth's equatorial circumference), it takes about 8.1 hours.
+::::The "eastward" plane is actually going westwards at 874 km/h, so travels 20037 km in about 22.9 hours, for a difference of 14.8 hours.
+::::No, this case is nothing like a real flight. A real plane's speed is relative to the air, which is already spinning at (roughly) the same speed as the Earth. So wind is the important factor. I believe the [[trade wind]]s blow from the east (east-to-west), so the eastward plane will generally be slower than the westward one. -- [[User:DrBob|DrBob]] 17:50, 8 September 2005 (UTC)
+
+== Radioactive decay in molecules ==
+
+When an [[atom]] in a [[molecule]] undergoes [[radioactive decay]], what happens to the molecule? {{User:Eequor/Signature/Syllabic}} 16:30, 7 September 2005 (UTC)
+
+:Well I presume the other atoms in the molecule just float off and probably bond with other atoms/molecules is they are not stable. --[[User:bjwebb|ßjweþþ]] <small>([[User talk:Bjwebb|talk]])</small> 17:51, 7 September 2005 (UTC)
+
+:The charge on the atom would almost instantly change, but the exact effects would depend on the situation. In a metal, this would probably be no big deal as the extra electrons/holes would just flow freely around. In a crystal, you'd probably get something like this: Na<sub>22</sub><sup>+</sup>Cl<sup>-</sup> (sodium chloride) [[beta decay]]s to Ne<sub>22</sub>Cl<sup>-</sup>; the neon, being neutral, would float off freely, leaving a free chloride ion. If the original material was in solution, this would probably alter the [[pH]]. (Note: please feel free to fix my formatting, as I don't yet know how to use the &lt;math&gt; tags. The numbers in parentheses are isotopes, and the +/- show the charge). --[[User:David Wahler|David Wahler]] [[User talk:David Wahler|(talk)]] 20:12, 7 September 2005 (UTC)
+
+:The atom in question will usually escape from whatever molecule it was attached to. When the radioactive decay occurs momentum is conserved&mdash;the atom gets an equal push in the opposite direction when radiation is emitted. The amount of kinetic energy it gets is usually quite large compared to the binding energy that held it in the molecule. What gets left behind is usually going to be an [[ion]] or a [[free radical]] of some sort.
+:In nonconducting solid materials, this can result in charge separations: small regions of positive and negative charge that have no easy way of getting back together again. (These little charged regions can behave very differently from their surroundings. Sodium chloride turns pale orange when exposed to ionizing radiation, and fades to gray as the positive and negative charges gradually reunite. Different types of glass can turn brown, green, or violet. [[Potassium bromide]] turns a lovely blue colour.)
+:As noted above, electrons in metals slosh around fairly freely, so these charge separations disappear rapidly. [[User:TenOfAllTrades|TenOfAllTrades]]([[User_talk:TenOfAllTrades|talk]]) 12:33, 8 September 2005 (UTC)
+
+== differences and similarities ==
+
+hello!
+
+I am a Year 9 student at Tonbridge grammar school for girls and i am doing a project and i am in need of your help!
+
+i am trying to find out between the differences and similarities between the following:
+
+neon and argon
+neon and francium
+
+i would be grateful if you could give me a list of the similarities or point me in the right direction of finding the answers.
+
+thank-you
+charlotte
+
+p.s i do not know where to contact you so sorry if this is the wrong email place.
+
+:Hi! If you're not sure where to look, you can start with the articles on each of those substances: [[Neon]], [[Argon]] and [[Francium]]. You can also get to any of these articles by typing the name into the "search" box near the top-left hand corner of any Wikipedia page, and then clicking '''Go'''. --[[User:David Wahler|David Wahler]] [[User talk:David Wahler|(talk)]] 19:54, 7 September 2005 (UTC)
+
+:It should be noted that similarities tend to run vertically on the [[periodic table]]. Our article includes an excellent summary of element families that may point you in the right direction. &mdash; [[User:Lomn|Lomn]] | <small>[[User Talk:Lomn|Talk]] / [[User:Lomn/RfC|RfC]]</small> 21:00, 7 September 2005 (UTC)
+
+:Make sure to pay attention to what column the three elements are in. These columns have special names ([[noble gas]]es and [[alkali metal]]s) because they share a number of properties with other elements in the same column. This is historically how the organization of the periodic table was developed: by observing similarities between elements and grouping them accordingly. &mdash; [[User:Laurascudder|Laura Scudder]] | [[User talk:Laurascudder|Talk]] 21:06, 7 September 2005 (UTC)
+
+== motion sickness in games ==
+
+i was playing gta sa and was attacked by motion sickness. is this normal? --[[User:Phil 1970|Phil 1970]] 20:45, 7 September 2005 (UTC)
+:Before I continue, I'd like to point you to [[Wikipedia:Medical disclaimer]] - just in case.
+:I haven't played that particular game myself, but no, I don't think it is. It might just have been a freak occurence brought on by a number of outside factors, but if you're concerned or it happens again, I suggest you go see a doctor. --[[User:Pidgeot|Pidgeot]] <small>[[User_talk:Pidgeot|(t)]] [[Special:Contributions/Pidgeot|(c)]] [[Special:Emailuser/Pidgeot|(e)]]</small> 20:56, 7 September 2005 (UTC)
+
+:It's not too unusual. Motion sickness generally occurs because of a mismatch between what your eyes are seeing and what movements are detected by your inner ear (you can get the same effect in reverse by, say, reading a book in a moving car). First person shooters are a common culprit (for instance, bits of Half-Life 2 had to be redesigned because they were too nausea-inducing), though I could see GTA:SA giving the same effect. General advice is to play further back from the screen or monitor, so that you can see more of the surroundings (also, don't play in a dark room where all you can see is the screen). And take regular breaks, get up and walk around, etc., and don't play when tired. -- [[User:DrBob|DrBob]] 21:03, 7 September 2005 (UTC)
+
+:I once suffered from this while playing an old 3D game (I think it was [[heretic (computer game)|Heretic]] or [[Hexen]]). I think what caused this was that the 3D perspectgive was wrong. --[[User:R.Koot|R.Koot]] 00:29, 8 September 2005 (UTC)
+
+*A lot of games can trigger migraines for me -- and my symptoms include motion sickness-like symptoms (vertigo, wooziness, slight nausea). The first one I noticed it on was Doom; lots of games that use similar motion can do it. But some games do it with no obvious similarity. Only takes about 5 minutes of play on the worst ones, and I feel like crap for a day. --[[User:Jpgordon|jpgordon]][[User talk:Jpgordon|&#8711;&#8710;&#8711;&#8710;]] 00:54, 8 September 2005 (UTC)
+
+== Technetium and Promethium ==
+
+Note that both of these elements have no stable isotopes even though the ones next to them do.
+
+Also note that if the Rare Earth (Lanthanides) are extended in place of the third period of
+the transition elements, Promethium appears right under Technetium. Also note that both 
+atomic numbers are prime numbers whereas Manganese is not. Some discussion of if this is 
+just coincidence or if there is a story to tell there would be interesting to me.
+:I would expect it's mostly coincidence. A proper extension of the rare earth elements pushes everything further right so that Technetium and Promethium do ''not'' align vertically, if I recall correctly.
+:That said, it's been a long time since high school chemistry. &mdash; [[User:Lomn|Lomn]] | <small>[[User Talk:Lomn|Talk]] / [[User:Lomn/RfC|RfC]]</small> 21:14, 7 September 2005 (UTC)
+
+I dont' know what you mean by 'proper' A 'proper' arrangement of the elements is just as it is now, with the Rare Earths in
+their own group. I am suggesting an 'improper' arrangement, but one which is not random check this out.
+
+http://en.wikipedia.org/wiki/Periodic_table
+
+If you put Lanthanum under Yttrium, Cerium under Zirconium, et al, Promethium is under Technetium. Coincidence? Maybe.
+Awfully odd that the two light (relatively) unstable elements line up like that.
+
+== LCD & Plasma ==
+
+I want to know? LCD monitors are dangerous to the eyes?
+Robert Ackerman
+:They are less damaging than CRTs. But what exactly do you mean by "dangerous"? Is myopia a danger, or are you more concerned about, say, eyeball cancer?--[[User:Inkypaws|inks]] 23:36, 7 September 2005 (UTC)
+::The following caution about liquid crystal displays came with my digi camera - if the LCD cover is broken and the liquid leaks out, and gets into your eyes, then "take the '''urgent''' action indicated": "flush the affected eye with clean water for 15 minutes, and seek medical assistance". Also if swallowed, "drink large amounts of water and induce vomiting, then seek medical assistance". Seems a rather unlikely scenario, but clearly the liquid in an LCD is toxic enough to warrant the caution and advice for medical attention - [[User:MPF|MPF]] 00:29, 8 September 2005 (UTC)
+
+My first impression is that if there is even a remote chance of a problem, a company will put warnings up to mitigate
+any possible lawsuit.
+
+== ice cubes ==
+
+If I put two clouds of steam together, I end up with one cloud of steam. If I put two cups of water together, I end up with one cup of water. If I put two ice cubes together, I still have two ice cubes. What chemical/physical proces prevents solids from 'melting' together? --[[User:R.Koot|R.Koot]] 00:48, 8 September 2005 (UTC)
+
+:Steam and liquid water ''are'' the same thing. So the question simplifies to:
+:*What's the difference between the liquid and solid phases of water?
+
+:The answer is more mathematical than chemical/physical. In the (3D) interior of a ice cube the interactions between the molecules are weaker than in the (2D) surface (proof left up to the reader <tt>:-)</tt>. Oh yes, [[Wolfgang Pauli|Pauli]] speaked of the "surface hell".). So, the same forces/interactions that keep the cube solid/coese, keep one cube apart from the other. 
+
+:Err, sorry by my bad [[Engrish|English]], but hope this help. [[User:Mdob|User:Mdob]] | [[User talk:Mdob|Talk]] 01:15, 8 September 2005 (UTC)
+
+::This is basically the central problem of the study of [[adhesive]]s -- namely, what causes molecules to stick together strongly within objects, but not between objects at surfaces, and how can this behavior be changes? --[[User:David Wahler|David Wahler]] [[User_talk:David Wahler|<small>(talk)</small>]] 01:26, 8 September 2005 (UTC)
+
+:::Ice lumps can fuse together easily under pressure - see [[Glacier#Glacial motion]] for details - [[User:MPF|MPF]] 01:30, 8 September 2005 (UTC)
+
+::::Actually, IIRC, the [[Wolfgang Pauli|Pauli]] line was: "God abominates the surfaces" [[User:Mdob|User:Mdob]] | [[User talk:Mdob|Talk]] 23:54, 8 September 2005 (UTC)
+
+: In [[liquid]]s and [[gas]]es, the particles have enough freedom of movement to allow other particles to squeeze between them. In solids, the particles are nearly fixed in place and cannot move aside to admit more material. Thus, when two ice cubes are pushed together, the [[water]] [[molecule]]s would have to pass through each other for the ice cubes to move any farther.
+
+: However, a water molecule is surrounded by a cloud of negatively charged [[electron]]s. While the molecules are overall neutrally charged, the electron clouds will encounter each other first, and will repel each other according to the very powerful [[electromagnetic force]]. Only an extreme amount of [[pressure]] &mdash; or the energy involved in a [[chemical reaction]] &mdash; could overcome this repulsive force.
+
+: This doesn't prevent the ice cubes from freezing together ([[hydrogen bond]]ing) or from sticking together by [[vacuum cementation]] ([[Van der Waals force]]; both of these effects are also controlled by electromagnetism), but the water molecules cannot physically move through each other. {{User:Eequor/Signature/Syllabic}} 01:43, 8 September 2005 (UTC)
+
+Just to pick a nit, steam and liquid water are not the same. Steam is a gas. http://en.wikipedia.org/wiki/Steam
+You are probably thinking of mist, which is commonly called steam, but is not scientifically accurate.
+
+:Yeah, but I was thinking about water microdroplets (in [[Portuguese Language|Portuguese]]: (vapor/vapor d'água) wich I [[Engrish|mistranslated]] to steam). [[User:Mdob|User:Mdob]] | [[User talk:Mdob|Talk]] 23:54, 8 September 2005 (UTC)
+::"Just to pick a nit, steam and liquid water are not the same" - actually, wrong. Steam originally (earliest references circa 1000 AD) meant clouds of condensed water droplets, i.e., what was visible above a cooking pot. It is only in relatively recent times (since the industrial revolution) that it has secondarily also come to mean gaseous water above 100° - [[User:MPF|MPF]] 00:10, 10 September 2005 (UTC)
+
+==Question about scripting in Qbasic?==
+If you had to write a command to import numerical data from a .txt document, or something else like it, to be used in a qbasic program, how would you do it??
+any help would be appreciated, thank you in advance--[[User:64.12.117.12|64.12.117.12]] 02:10, 8 September 2005 (UTC)
+:You mean besides telling you to use a real language that isn't dead? :) I've long since forgotten any quickbasic I learned, but in a quick google search I found [http://www.petesqbsite.com/sections/tutorials/zines/basix/17-manipulating.html Manipulating External Files] on a qbasic tutorials site. - [[User:Taxman|Taxman]] <sup><small>[[User talk:Taxman|Talk]]</sup></small> 17:20, September 8, 2005 (UTC)
+:You'll probably want something like this:
+ OPEN "file.txt" FOR INPUT AS #1
+ DO WHILE NOT EOF(1)
+ LINE INPUT #1, s$
+ i=VAL(s$)
+ REM Process your entry here...
+ LOOP
+ CLOSE #1
+:This assumes you're going to process each number as you read it. If you want to read in everything at once, you'd have to use an array. Whether you'll need a dynamic or a static array depends on the format on the textfile.
+:You might be able to use <code>INPUT #1, i</code> instead of <code>LINE INPUT ... VAL(s$)</code>, but it's been quite a while since I used QBasic, so that approach might only be applicable to binary numbers. --[[User:Pidgeot|Pidgeot]] <small>[[User_talk:Pidgeot|(t)]] [[Special:Contributions/Pidgeot|(c)]] [[Special:Emailuser/Pidgeot|(e)]]</small> 17:50, 8 September 2005 (UTC)
+
+::INPUT will input numbers or text but it uses commas a delimiters, if I recall. It's generally the best way to deal with numerical info, though, because it saves you the step of converting the text into a number (and if it fails, it will fail spectacularly, rather than failing in a subtle way). --[[User:Fastfission|Fastfission]] 21:07, 11 September 2005 (UTC)
+
+== Pauli exclusion principle ==
+
+Why are [[helium-4]] atoms [[boson]]s? {{User:Eequor/Signature/Syllabic}} 02:38, 8 September 2005 (UTC)
+
+:A [[Helium-4]] [[nucleus]] contains 2 [[proton]]s and 2 [[neutron]]s, each of which is a fermion with [[spin (physics)|spin]] of ±½. As a whole, the nucleus will have a total spin of +2, +1, 0, -1 or -2 - in each case an [[integer]], so the nucleus is a [[boson]]. Compare a [[Helium-3]] nucleus, which contains 3 [[nucleon]]s, so the nucleus as a whole will have a total spin of 3/2, ½, -½ or -3/2 - in each case an [[half-integer]], so the nucleus is a [[fermion]]. HTH. Now ask why the [[electron]]s don't matter :) -- [[User:ALoan|ALoan]] [[User_talk:ALoan|(Talk)]] 11:37, 8 September 2005 (UTC)
+
+:: Ah, okay. The electrons don't matter because they have a total spin of 0, correct? Why are the individual protons, neutrons, and electrons able to occupy the same locations in a [[Bose-Einstein condensate]]? {{User:Eequor/Signature/Syllabic}} 14:12, 8 September 2005 (UTC)
+
+::: Well, actually, the electrons do matter. My answer above discussed the nucleus on its own, not the atom as a whole :) The electrons are also fermions, but there are two of them in a neutral Helium atom: together, the electrons will have a total spin of +1, 0, or -1, leaving He-4 a boson, and Helium a fermion (thinking further, given that the number of electrons equals the number of protons in any neutral atom, the number of neutrons is the only important factor: even → boson; odd → fermion).
+
+:::AFAIK, the atoms in a BEC don't end up at the same physical location (if nothing else, [[electrostatic]] forces ought to keep them apart): they are simply in the same [[quantum state]]. 
+
+:::Now we need a proper particle physicist to let us know that I have not just made all this up. I hope I haven't mixed together my

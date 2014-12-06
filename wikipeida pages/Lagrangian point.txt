@@ -1,0 +1,217 @@
+[[Lagrangian point]]
+
+A contour plot of the effective potential due to gravity and the centrifugal force of a two-body system in a rotating frame of reference. The arrows indicate the gradients of the potential around the five Lagrange points—downhill toward them (red) or away from them (blue). Counterintuitively, the L4 and L5 points are the high points of the potential. At the points themselves these forces are balanced.
+points equipotential.jpg|thumb|Visualisation of the relationship between the Lagrangian points (red) of a planet (blue) orbiting a star (yellow) anticlockwise, and the effective potential in the plane containing the orbit (grey rubber-sheet model with purple contours of equal potential). [http://iopscience.iop.org/0004-637X/603/1/283/fulltext/59132.text.html ZF Seidov, "The Roche Problem: Some Analytics", The Astrophysical Journal, 603:283-284, 2004 March 1 Click for animation. ]]
+
+The Lagrangian points (; also Lagrange points, L-points, or libration points) are the five positions in an orbital configuration where a small object affected only by gravity can theoretically be part of a constant-shape pattern with two larger objects (such as a satellite with respect to the Earth and Moon). The Lagrange points mark positions where the combined gravitational pull of the two large masses provides precisely the centripetal force required to orbit with them. A satellite at L1 would have the same angular velocity of the earth with respect to the sun and hence it would maintain the same position with respect to the sun as seen from the earth. Without the earth's gravitational influence, a satellite of the sun, at the distance of L1, would have to move at a higher angular velocity than that of the earth.
+
+Lagrangian points are the constant-pattern solutions of the restricted three-body problem. For example, given two massive bodies in orbits around their common barycenter, there are five positions in space where a third body, of comparatively negligible mass, could be placed so as to maintain its position relative to the two massive bodies. As seen in a rotating reference frame that matches the angular velocity of the two co-orbiting bodies, the gravitational fields of two massive bodies combined with the satellite's acceleration are in balance at the Lagrangian points, allowing the smaller third body to be relatively stationary with respect to the first two. "Lagrange Points" by Enrique Zeleny, Wolfram Demonstrations Project. 
+
+==History and concepts==
+The three collinear Lagrange points (L1, L2, L3) were discovered by Leonhard Euler a few years before Lagrange discovered the remaining two. (16MB) Leonhard Euler, De motu rectilineo trium corporum se mutuo attrahentium (1765) 
+
+In 1772, Joseph Louis Lagrange published an "Essay on the three-body problem". In the first chapter he considered the general three-body problem. From that, in the second chapter, he demonstrated two special constant-pattern solutions, the collinear and the equilateral, for any three masses, with circular orbits. Thence, if one mass is made negligible, one immediately gets the five positions now known as the Lagrange Points; but Lagrange himself apparently did not note that.
+
+In the more general case of elliptical orbits, there are no longer stationary points in the same sense: it becomes more of a Lagrangian “area”. The Lagrangian points constructed at each point in time, as in the circular case, form stationary elliptical orbits which are similar to the orbits of the massive bodies. This is due to Newton's second law (Force = Mass times Acceleration, or ), where p = mv (p the momentum, m the mass, and v the velocity) is invariant if force and position are scaled by the same factor. A body at a Lagrangian point orbits with the same period as the two massive bodies in the circular case, implying that it has the same ratio of gravitational force to radial distance as they do. This fact is independent of the circularity of the orbits, and it implies that the elliptical orbits traced by the Lagrangian points are solutions of the equation of motion of the third body. 
+
+Early in the 20th century, Trojan asteroids were discovered at the and Lagrange points of the Sun–Jupiter system.
+
+==Terminology==
+The five Sun–Earth Lagrangian points are called SEL1–SEL5, and similarly those of the Earth–Moon system EML1–EML5, etc.
+
+==The Lagrangian points==
+A diagram showing the five Lagrangian points in a two-body system with one body far more massive than the other (e.g. the Sun and the Earth). In such a system, – will appear to share the secondary's orbit, although in fact they are situated slightly outside it.
+The three-body problem can be visualized as a combination of the potentials due to the gravity of the two primary bodies along with the centrifugal effect from their rotation (Coriolis effects are dynamic and not shown). The Lagrange points can then be seen as the five places where the gradient on the resultant surface is zero (shown as blue lines) indicating that the forces are in balance there.
+The five Lagrangian points are labeled and defined as follows:
+
+======
+The point lies on the line defined by the two large masses M1 and M2, and between them. It is the most intuitively understood of the Lagrangian points: the one where the gravitational attraction of M2 partially cancels M1's gravitational attraction.
+
+: Example: An object which orbits the Sun more closely than the Earth would normally have a shorter orbital period than the Earth, but that ignores the effect of the Earth's own gravitational pull. If the object is directly between the Earth and the Sun, then the Earth's gravity weakens the force pulling the object towards the Sun, and therefore increases the orbital period of the object. The closer to Earth the object is, the greater this effect is. At the point, the orbital period of the object becomes exactly equal to the Earth's orbital period. is about 1.5 million kilometers from the Earth. 
+
+The location of L1 is the solution to the following equation balancing gravitation and centrifugal force:
+
+where r is the distance of the L1 point from the smaller object, R is the distance between the two main objects, and M1 and M2 are the masses of the large and small object, respectively. (The quantity in parenthesis on the right is the distance of L1 from the center of mass.) Solving this for r involves solving a quintic, but if the mass of the smaller object (M2) is much smaller than the mass of the larger object (M1) then and are at approximately equal distances r from the smaller object, equal to the radius of the Hill sphere, given by:
+
+: 
+
+This distance can be described as being such that the orbital period, corresponding to a circular orbit with this distance as radius around M2 in the absence of M1, is that of M2 around M1, divided by :
+
+: 
+
+The Sun–Earth is suited for making observations of the Sun–Earth system. Objects here are never shadowed by the Earth or the Moon. The first mission of this type was the International Sun Earth Explorer 3 (ISEE3) mission used as an interplanetary early warning storm monitor for solar disturbances. The feasibility of this orbit was the result of a PhD thesis by the astrodynamicist Robert W. Farquhar. Farquhar, R. W.: "The Control and Use of Libration-Point Satellites", Ph.D. Dissertation, Dept. of Aeronautics and Astronautics, Stanford University, Stanford, CA, 1968 Subsequently the Solar and Heliospheric Observatory (SOHO) was stationed in a Halo orbit at , and the Advanced Composition Explorer (ACE) in a Lissajous orbit, also at the point. WIND is also at .
+
+The Earth–Moon allows comparatively easy access to lunar and earth orbits with minimal change in velocity and has this as an advantage to position a half-way manned space station intended to help transport cargo and personnel to the Moon and back.
+
+In a binary star system, the Roche lobe has its apex located at ; if a star overflows its Roche lobe then it will lose matter to its companion star.
+
+The satellite ACE in an orbit around L1
+The L1 point is also important for scientific research satellites.
+
+====Spacecraft at Sun–Earth L1====
+International Sun Earth Explorer 3 (ISEE3) began its mission at the Sun–Earth L1 before leaving to intercept a comet. Sun-Earth L1 is also the point to which the Reboot ISEE3 mission is attempting to return the craft to as the first phase of the recovery mission. Solar and Heliospheric Observatory (SOHO) was stationed in a Halo orbit at , and the Advanced Composition Explorer (ACE) in a Lissajous orbit, also at the point. WIND is also at .
+
+======
+A diagram showing the Sun–Earth point, which lies well beyond the Moon's orbit around the Earth
+The point lies on the line through the two large masses, beyond the smaller of the two. Here, the gravitational forces of the two large masses balance the centrifugal effect on a body at .
+
+: Example: On the side of the Earth away from the Sun, the orbital period of an object would normally be greater than that of the Earth. The extra pull of the Earth's gravity decreases the orbital period of the object, and at the point that orbital period becomes equal to the Earth's.
+
+The Sun–Earth is a good spot for space-based observatories. Because an object around will maintain the same relative position with respect to the Sun and Earth, shielding and calibration are much simpler. It is, however, slightly beyond the reach of Earth's umbra, Angular size of the Sun at 1 AU + 930000 miles: 31.6', angular size of Earth at 930000 miles: 29.3' so solar radiation is not completely blocked. 
+Earth–Moon would be a good location for a communications satellite covering the Moon's far side.
+Earth–Moon would be "an ideal location" for a propellant depot as part of the proposed depot-based space transportation architecture. 
+ 
+
+The location of L2 is the solution to the following equation balancing gravitation and inertia:
+
+with parameters defined as for the L1 case. Again, if the mass of the smaller object (M2) is much smaller than the mass of the larger object (M1) then L2 is at approximately the radius of the Hill sphere, given by:
+
+: 
+
+====Examples====
+* Sun and Earth: 1,500,000 km from the Earth
+* Earth and Moon: 60,000 km from the Moon Zegler, Frank; Bernard Kutter (2010-09-02). "Evolving to a Depot-Based Space Transportation Architecture". AIAA SPACE 2010 Conference & Exposition. AIAA. p. 4. Retrieved 2011-08-30. "We can create an energy savings account by moving propellant to the earth-moon Lagrange points—especially L2. Located 60,000 km beyond the Moon, propellant or cargo cached at L2 is very nearly at earth escape energy. It takes only a small nudge to dislodge it from Earth's gravitational grasp. This has been known for decades and L2 is often called a gateway to the solar system." 
+
+====Spacecraft at Sun–Earth L2====
+Spacecraft at the Sun–Earth L2 are in a Lissajous orbit until decommissioned, when they are sent into a heliocentric graveyard orbit.
+*1 October 2001 – October 2010 — Wilkinson Microwave Anisotropy Probe 
+* July 2009 – 29 April 2013 — Herschel Space Observatory 
+* 3 July 2009 – 21 October 2013 — Space observatory Planck
+*25 August 2011 – April 2012 — Chang'e 2, from where it travelled to 4179 Toutatis and then into deep space.
+* January 2014 – 2018 — Gaia probe 
+* 2018 — James Webb Space Telescope will use a Halo orbit.
+
+===L3===
+The point lies on the line defined by the two large masses, beyond the larger of the two.
+
+: Example: in the Sun–Earth system exists on the opposite side of the Sun, a little outside the Earth's orbit but slightly closer to the Sun than the Earth is. (This apparent contradiction is because the Sun is also affected by the Earth's gravity, and so orbits around the two bodies' barycenter, which is, however, well inside the body of the Sun.) At the point, the combined pull of the Earth and Sun again causes the object to orbit with the same period as the Earth.
+
+The location of L3 is the solution to the following equation balancing gravitation and centrifugal force:
+
+with parameters defined as for the L1 and L2 cases except that r now indicates how much closer L3 is to the more massive object than the smaller object. If the mass of the smaller object (M2) is much smaller than the mass of the larger object (M1) then:
+
+: 
+
+The Sun–Earth point was a popular place to put a "Counter-Earth" in pulp science fiction and comic books. Once space-based observation became possible via satellites STEREO mission description by NASA, http://www.nasa.gov/mission_pages/stereo/main/index.html#.UuG0NxDb-kk and probes, it was shown to hold no such object. The Sun–Earth is unstable and could not contain an object, large or small, for very long. This is because the gravitational forces of the other planets are stronger than that of the Earth (Venus, for example, comes within 0.3 AU of this every 20 months).
+
+A spacecraft orbiting near Sun–Earth would be able to closely monitor the evolution of active sunspot regions before they rotate into a geoeffective position, so that a 7-day early warning could be issued by the NOAA Space Weather Prediction Center. Moreover, a satellite near Sun–Earth would provide very important observations not only for Earth forecasts, but also for deep space support (Mars predictions and for manned mission to near-Earth asteroids). In 2010, spacecraft transfer trajectories to Sun–Earth were studied and several designs were considered. 
+
+Scientists at the B612 Foundation are planning to use Venus's L3 point to position their planned Sentinel telescope, which aims to look back towards Earth's orbit and compile a catalogue of near-Earth asteroids. The Sentinel Mission, B612 Foundation. Retrieved Feb 2014. 
+
+One example of asteroids which visit an point is the Hilda family whose orbit brings them to the Sun–Jupiter point.
+
+=== and ===
+Gravitational accelerations at 
+The and points lie at the third corners of the two equilateral triangles in the plane of orbit whose common base is the line between the centers of the two masses, such that the point lies behind () or ahead () of the smaller mass with regard to its orbit around the larger mass.
+
+The reason these points are in balance is that, at and , the distances to the two masses are equal. Accordingly, the gravitational forces from the two massive bodies are in the same ratio as the masses of the two bodies, and so the resultant force acts through the barycenter of the system; additionally, the geometry of the triangle ensures that the resultant acceleration is to the distance from the barycenter in the same ratio as for the two massive bodies. The barycenter being both the center of mass and center of rotation of the three-body system, this resultant force is exactly that required to keep the smaller body at the Lagrange point in orbital equilibrium with the other two larger bodies of system. (Indeed, the third body need not have negligible mass). The general triangular configuration was discovered by Lagrange in work on the 3-body problem.
+
+ and are sometimes called triangular Lagrange points or Trojan points. The name Trojan points comes from the Trojan asteroids at the Sun–Jupiter and points, which themselves are named after characters from Homer's Iliad (the legendary siege of Troy). Asteroids at the point, which leads Jupiter, are referred to as the "Greek camp", while those at the point are referred to as the "Trojan camp". These asteroids are (largely) named after characters from the respective sides of the Trojan War.
+
+==== Examples ====
+* The Sun–Earth and points lie 60° ahead of and 60° behind the Earth as it orbits the Sun. The regions around these points contain interplanetary dust and at least one asteroid, , detected October 2010 by WISE and announced July 2011. Space.com: First Asteroid Companion of Earth Discovered at Last NASA—NASA's Wise Mission Finds First Trojan Asteroid Sharing Earth's Orbit 
+* The Earth–Moon and points lie 60° ahead of and 60° behind the Moon as it orbits the Earth. They may contain interplanetary dust in what is called Kordylewski clouds; however, the Hiten spacecraft's Munich Dust Counter (MDC) detected no increase in dust during its passes through these points.
+* The region around the Sun–Jupiter and points are occupied by the Trojan asteroids.
+* The region around the Sun–Neptune and points have trojan objects. 
+* Saturn's moon Tethys has two much smaller satellites at its and points named Telesto and Calypso, respectively.
+* Saturn's moon Dione has smaller moons Helene and Polydeuces at its and points, respectively.
+* One version of the giant impact hypothesis suggests that an object named Theia formed at the Sun–Earth or points and crashed into the Earth after its orbit destabilized, forming the Moon.
+
+== Stability ==
+Although the , , and points are nominally unstable, it turns out that it is possible to find (unstable) periodic orbits around these points, at least in the restricted three-body problem. These periodic orbits, referred to as "halo" orbits, do not exist in a full n-body dynamical system such as the Solar System. However, quasi-periodic (i.e. bounded but not precisely repeating) orbits following Lissajous-curve trajectories do exist in the n-body system. These quasi-periodic Lissajous orbits are what most of Lagrangian-point missions to date have used. Although they are not perfectly stable, a relatively modest effort at station keeping can allow a spacecraft to stay in a desired Lissajous orbit for an extended period of time. It also turns out that, at least in the case of Sun–Earth- missions, it is actually preferable to place the spacecraft in a large-amplitude (100000 –) Lissajous orbit, instead of having it sit at the Lagrangian point, because this keeps the spacecraft off the direct Sun–Earth line, thereby reducing the impact of solar interference on Earth–spacecraft communications. Another interesting and useful property of the collinear Lagrangian points and their associated Lissajous orbits is that they serve as "gateways" to control the chaotic trajectories of the Interplanetary Transport Network.
+
+In contrast to the collinear Lagrangian points, the triangular points ( and ) are stable equilibria, provided that the ratio of M1/M2 is greater than 24.96. Actually , Neil J. Cornish with input from Jeremy Goodman This is the case for the Sun–Earth system, the Sun–Jupiter system, and, by a smaller margin, the Earth–Moon system. When a body at these points is perturbed, it moves away from the point, but the factor opposite of that which is increased or decreased by the perturbation (either gravity or angular momentum-induced speed) will also increase or decrease, bending the object's path into a stable, kidney-bean-shaped orbit around the point (as seen in the rotating frame of reference). However, in the Earth–Moon case, the problem of stability is greatly complicated by the appreciable solar gravitational influence. "A Search for Natural or Artificial Objects Located at the Earth–Moon Libration Points" by Robert Freitas and Francisco Valdes, Icarus 42, 442-447 (1980) 
+In 2008 it was found that the and points in the Earth–Moon system would be stable for 1000 million years, even with perturbations from the sun, but because of smaller perturbations by the planets, orbits around these points can only last a few million years. "Solar and planetary destabilization of the Earth–Moon triangular Lagrangian points" by Jack Lissauer and John Chambers, Icarus, vol. 195, issue 1, May 2008, pp. 16-27. 
+
+==Intuitive explanation==
+
+Lagrangian points can be explained intuitively using the Earth–Moon system. 
+
+Lagrangian points through exist only in rotating systems, such as in the monthly orbiting of the Moon about the Earth. At these points, the combined attraction from the two masses is equivalent to what would be exerted by a single mass at the barycenter of the system, sufficient to cause a small body to orbit with the same period.
+
+Imagine a person swinging a stone at the end of a string. The string provides a tension force that continuously accelerates the stone toward the center. To an ant standing on the stone, however, it seems as if there is an opposite force trying to fling it directly away from the center. This apparent force is called the centrifugal force. It is actually simply the outward radial component of the stone's inertia caused by its swing. This same effect is present at the Lagrangian points in the Earth–Moon system, where the analogue of the string is the summed (or net) gravitational attraction of the two masses, and the stone is an asteroid or a spacecraft. The Earth–Moon system and the spacecraft all rotate about this combined center of mass, or barycenter. Because the Earth is much heavier than the Moon, the barycenter is located within the Earth (about 1700 km below the surface). Any object gravitationally held by the rotating Earth–Moon system will be attracted to the barycenter to an equal and opposite degree as its tendency to fly off into space.
+
+ is a bit farther from the (less massive) Moon and closer to the (more massive) Earth than the point where total gravity is zero. is slightly unstable (see stability, above) because drifting towards the Moon or Earth increases one gravitational attraction while decreasing the other, causing more drift.
+
+At Lagrangian points , , , and , a spacecraft's inertia to move away from the barycenter is balanced by the attraction of gravity toward the barycenter. and are slightly unstable because small changes in position upset the balance between gravity and inertia, allowing one or the other force to dominate, so that the spacecraft either flies off into space or spirals in toward the barycenter. Stability at and is explained by gravitational equilibrium: if the object were moved into a tighter orbit, it would orbit faster which would counteract the increase in gravity; if the object moves into a wider orbit, the gravity is lower, but it loses speed. The net result is that the object appears constantly to hover or orbit around the or point.
+
+The easiest way to understand the resulting stability is to say , , and positions are as stable as a ball balanced on the tip of a wedge would be stable: any disturbance will toss it out of equilibrium. The , and positions are stable as a ball at the bottom of a bowl would be stable: small perturbations will move it out of place, but it will drift back toward the center of the bowl.
+
+Note that from the perspective of the smaller-mass object—from the moon, in the preceding example—a spacecraft might appear to orbit in an irregular path about the or point, but from the perspective above the orbital plane, it becomes clear that both the smaller mass and the spacecraft are orbiting the larger mass (or more precisely, all of the objects are in orbit around the barycenter of the system); they simply have overlapping orbital paths. This point of view difference is illustrated clearly by animations in the 3753 Cruithne and Coriolis effect articles.
+
+==List of missions to Lagrangian points==
+Orbits around Lagrangian points offer unique advantages that have made them a good choice for performing certain spacecraft missions. For example the Sun–Earth point is useful for observations of the Sun, as the Sun is always visible without obstructions by the Earth or the Moon. The Sun–Earth point is useful for astronomy missions using space observatories, as from this point the Sun, Earth and Moon are relatively closely positioned together in the sky, and hence leave a large field of view without interference – this is especially helpful for infrared astronomy.
+
+Missions to Lagrangian points generally orbit the points rather than occupy them directly.
+
+Color key:
+:
+
+ &ndash; Mission at Lagrangian point completed successfully (or partially successfully) &ndash; Unflown, cancelled or failed mission 
+ &ndash; Mission en route or in progress (including mission extensions) &ndash; Planned mission 
+ 
+
+===Past and present missions===
+
+ Mission Lagrangian point Agency Description 
+ \"Lunar Far-Side Communication Satellites\" Earth–Moon NASA Proposed in 1968 for communications on the far side of the Moon during the Apollo program, mainly to enable an Apollo landing on the far side—both the satellites and the landing were never realized. 
+ Space colonization and manufacturing Earth–Moon or Gerard K. O'Neill / L5 Society First proposed in 1974 by Gerard K. O'Neill. 
+ International Sun–Earth Explorer 3 (ISEE-3) Sun–Earth NASA Launched in 1978, it was the first spacecraft to be put into orbit around a libration point, where it operated for four years in a halo orbit about the Sun–Earth point. After the original mission ended, it was commanded to leave in September 1982 in order to investigate comets and the Sun. Now in a heliocentric orbit and could be reactivated in 2014 when it makes a flyby of the Earth–Moon system. 
+ Hiten Earth–Moon and JAXA Swung through L4 and L5 in 1992; found no increase in dust levels. 
+ Advanced Composition Explorer (ACE) Sun–Earth NASA Launched 1997. Has fuel to orbit near the L1 until 2024. operational. 
+ Solar and Heliospheric Observatory (SOHO) Sun–Earth ESA, NASA Orbiting near the L1 since 1996. operational. 
+ WIND Sun–Earth NASA Arrived at L1 in 2004 with fuel for 60 yrs. operational. 
+ Wilkinson Microwave Anisotropy Probe (WMAP) Sun–Earth NASA Arrived at L2 in 2001. Mission ended 2010, then sent to solar orbit outside L2. http://map.gsfc.nasa.gov/news/events.html WMAP Ceases Communications 
+ Herschel Space Observatory Sun–Earth ESA Arrived at L2 July 2009. Ceased operation on 29 April 2013 and will be moved to a heliocentric orbit. 
+ Planck Space Observatory Sun–Earth ESA Arrived at L2 July 2009. Mission ended on 23 October 2013, Planck has been moved to a heliocentric parking orbit. 
+ Chang'e 2 Sun–Earth CNSA Original mission ended, left point for 4179 Toutatis at April 15, 2012. 
+ ARTEMIS mission extension of THEMIS Earth–Moon and NASA Mission consists of two spacecraft, which were the first spacecraft to reach Earth–Moon Lagrangian points. Both moved through Earth–Moon Lagrangian points, and are now in lunar orbit. 
+ Gravity Recovery and Interior Laboratory (GRAIL) Sun–Earth NASA Passed on its way to lunar orbit. 
+ Gaia Sun–Earth ESA Launched on 19 December 2013. 
+
+===Future and proposed missions===
+
+ Mission Lagrangian point Agency Description 
+ Deep Space Climate Observatory (DSCOVR) Sun–Earth NASA Launch planned for January 2015. 
+ LISA Pathfinder (LPF) Sun–Earth ESA, NASA launch is scheduled for July 2015. 
+ Solar-C Sun–Earth JAXA Possible mission after 2010. 
+ James Webb Space Telescope (JWST) Sun–Earth NASA, ESA, CSA launch is planned for October 2018. 
+ Euclid Sun–Earth ESA, NASA planned for launch in 2020. 
+ Wide Field Infrared Survey Telescope (WFIRST) Sun–Earth NASA, USDOE in a 'pre-formulation' phase until at least early 2016, possible launch in the early 2020s. 
+ Exploration Gateway Platform Earth–Moon NASA teams evaluating ISS-built Exploration Platform roadmap NASA Proposed in 2011. 
+
+==Natural examples==
+In the Sun–Jupiter system several thousand asteroids, collectively referred to as Jupiter trojans or "Trojan asteroids", are in orbits around the Sun–Jupiter and points. Recent observations suggest that the Sun–Neptune and points, known as the Neptune trojans, may be very thickly populated, containing large bodies an order of magnitude more numerous than the Jupiter trojans. Mars has three known co-orbital asteroids (5261 Eureka, , and ), all at its Lagrangian points. There is one known trojan for Earth as of July 2011. Clouds of dust, called Kordylewski clouds, even fainter than the notoriously weak gegenschein, may also be present in the and of the Earth–Moon system.
+
+The Saturnian moon Tethys has two smaller moons in its and points, Telesto and Calypso. The Saturnian moon Dione also has two Lagrangian co-orbitals, Helene at its point and Polydeuces at . The moons wander azimuthally about the Lagrangian points, with Polydeuces describing the largest deviations, moving up to 32 degrees away from the Saturn–Dione point. Tethys and Dione are hundreds of times more massive than their "escorts" (see the moons' articles for exact diameter figures; masses are not known in several cases), and Saturn is far more massive still, which makes the overall system stable.
+
+===Other co-orbitals===
+ is the first Earth trojan asteroid discovered. It was discovered by the Wide-field Infrared Survey Explorer in October, 2010. After evaluation of the collected data the trojan character of its motion was published in July 2011. has a diameter of 300 meters. Its path is around the Sun–Earth Lagrangian point.
+
+The Earth's companion object 3753 Cruithne is in a relationship with the Earth which is somewhat trojan-like, but different from a true trojan. This asteroid occupies one of two regular solar orbits, one of them slightly smaller and faster than the Earth's orbit, and the other slightly larger and slower. The asteroid periodically alternates between these two orbits due to close encounters with Earth. When the asteroid is in the smaller, faster orbit and approaches the Earth, it gains orbital energy from the Earth and moves up into the larger, slower orbit. It then falls farther and farther behind the Earth, and eventually Earth approaches it from the other direction. Then the asteroid gives up orbital energy to the Earth, and drops back into the smaller orbit, thus beginning the cycle anew. The cycle has no noticeable impact on the length of the year, because Earth's mass is over 20 billion () times more than 3753 Cruithne.
+
+Epimetheus and Janus, satellites of Saturn, have a similar relationship, though they are of similar masses and so actually exchange orbits with each other periodically. (Janus is roughly 4 times more massive but still light enough for its orbit to be altered.) Another similar configuration is known as orbital resonance, in which orbiting bodies tend to have periods of a simple integer ratio, due to their interaction.
+
+==See also==
+
+==Notes==
+
+==References==
+
+==External links==
+
+* Joseph-Louis, Comte Lagrange, from Oeuvres Tome 6, "Essai sur le Problème des Trois Corps"—Essai (PDF); source Tome 6 (Viewer)
+* "Essay on the Three-Body Problem" by J-L Lagrange, translated from the above, in http://www.merlyn.demon.co.uk/essai-3c.htm.
+* Considerationes de motu corporum coelestium—Leonhard Euler—transcription and translation at http://www.merlyn.demon.co.uk/euler304.htm.
+* What are Lagrange points?—European Space Agency page, with good animations
+* Explanation of Lagrange points—Prof. Neil J. Cornish
+* A NASA explanation—also attributed to Neil J. Cornish
+* Explanation of Lagrange points—Prof. John Baez
+* Geometry and calculations of Lagrange points—Dr J R Stockton
+* Locations of Lagrange points, with approximations—Dr. David Peter Stern
+* An online calculator to compute the precise positions of the 5 Lagrange points for any 2-body system—Tony Dunn
+* Astronomy cast—Ep. 76: Lagrange Points Fraser Cain and Dr. Pamela Gay
+* The Five Points of Lagrange by Neil deGrasse Tyson
+* Earth, a lone Trojan discovered
+
+

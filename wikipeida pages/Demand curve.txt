@@ -1,0 +1,93 @@
+[[Demand curve]]
+
+An example of a demand curve shifting. The shift from D1 To D2 means an increase in demand with consequences for the other variables 
+In economics, the demand curve is the graph depicting the relationship between the price of a certain commodity and the amount of it that consumers are willing and able to purchase at that given price. It is a graphic representation of a demand schedule. The demand curve for all consumers together follows from the demand curve of every individual consumer: the individual demands at each price are added together. 
+
+Demand curves are used to estimate behaviors in competitive markets, and are often combined with supply curves to estimate the equilibrium price (the price at which sellers together are willing to sell the same amount as buyers together are willing to buy, also known as market clearing price) and the equilibrium quantity (the amount of that good or service that will be produced and bought without surplus/excess supply or shortage/excess demand) of that market. Krugman, Paul, and Wells, Robin. Microeconomics. Worth Publishers, New York. 2005. In a monopolistic market, the demand curve facing the monopolist is simply the market demand curve.
+
+==Characteristics==
+According to convention, the demand curve is drawn with price on the vertical (y) axis and quantity on the horizontal (x) axis. The function actually plotted is the inverse demand function.
+
+The demand curve usually slopes downwards from left to right; that is, it has a negative association (for two theoretical exceptions, see Veblen good and Giffen good). The negative slope is often referred to as the "law of demand", which means people will buy more of a service, product, or resource as its price falls. The demand curve is related to the marginal utility curve, since the price one is willing to pay depends on the utility. However, the demand directly depends on the income of an individual while the utility does not. Thus it may change indirectly due to change in demand for other commodities.
+
+==Linear demand curve==
+
+The demand curve is often graphed as a straight line of the form Q = a - bP where a and b are parameters. The constant “a” “embodies” the effects of all factors other than price that affect demand. If income were to change, for example, the effect of the change would be represented by a change in the value of a and be reflected graphically as a shift of the demand curve. The constant “b” is the slope of the demand curve and shows how the price of the good affects the quantity demanded. Besanko and Braeutigam (2005) p/ 91. 
+
+The graph of the demand curve uses the inverse demand function in which price is expressed as a function of quantity. The standard form of the demand equation can be converted to the inverse equation by solving for P or P = a/b - Q/b. 
+
+More plainly, in the equation P = a - bQ, "a" is the intercept where quantity demanded is zero (where the demand curve intercepts the Y axis), "b" is the slope of the demand curve, "Q" is quantity and "P" is price.
+
+==Shift of a demand curve==
+The shift of a demand curve takes place when there is a change in any non-price determinant of demand, resulting in a new demand curve. Case, K.E., Fair, R.C. (1994). 'Demand, Supply, and Market Equilibrium', Chapter 4 in Principles of Economics, 3rd ed., Prentice Hall Englewood Cliffs, New Jersey Non-price determinants of demand are those things that will cause demand to change even if prices remain the same&mdash;in other words, the things whose changes might cause a consumer to buy more or less of a good even if the good's own price remained unchanged. http://www.harpercollege.edu/mhealy/eco212i/lectures/s&d/s&d.htm 
+Some of the more important factors are the prices of related goods (both substitutes and complements), income, population, and expectations. However, demand is the willingness and ability of a consumer to purchase a good under the prevailing circumstances; so, any circumstance that affects the consumer's willingness or ability to buy the good or service in question can be a non-price determinant of demand. As an example, weather could be a factor in the demand for beer at a baseball game. 
+
+When income increases, the demand curve for normal goods shifts outward as more will be demanded at all prices, while the demand curve for inferior goods shifts inward due to the increased attainability of superior substitutes. With respect to related goods, when the price of a good (e.g. a hamburger) rises, the demand curve for substitute goods (e.g. chicken) shifts out, while the demand curve for complementary goods (e.g. tomato sauce) shifts in (i.e. there is more demand for substitute goods as they become more attractive in terms of value for money, while demand for complementary goods contracts in response to the contraction of quantity demanded of the underlying good). 
+
+===Demand shifters===
+* Price of the product: Price of the product can effect individual demand.(If the price is high, demand will fall and if the price is less, low demand will rise)
+* Changes in disposable income, the magnitude of the shift also being related to the income elasticity of demand.
+* Changes in tastes and preferences - tastes and preferences are assumed to be fixed in the short-run. This assumption of fixed preferences is a necessary condition for aggregation of individual demand curves to derive market demand.
+*Changes in expectations.
+* Changes in the prices of related goods (substitutes and complements)
+* Population size and composition
+
+===Changes that decrease demand===
+
+Circumstances which can cause the demand curve to shift include:
+
+*decrease in price of a substitute
+*increase in price of a complement
+*decrease in consumer income if the good is a normal good
+*increase in consumer income if the good is an inferior good
+
+===Factors affecting market demand===
+
+Market or aggregate demand is the summation of individual demand curves. In addition to the factors which can affect individual demand there are three factors that can affect market demand (cause the market demand curve to shift): 
+
+* a change in the number of consumers,
+* a change in the distribution of tastes among consumers,
+* a change in the distribution of income among consumers with different tastes. Binger, B & Hoffman, E.: Microeconomics with Calculus, 2nd ed. Addison-Wesley 1998. A change in relative price changes the distribution of income which in turn changes the demand curve. 
+
+Some circumstances which can cause the demand curve to shift in include:
+
+*Decrease in price of a substitute
+*Increase in price of a complement
+*Decrease in income if good is normal good
+*Increase in income if good is inferior good
+
+==Movement along a demand curve==
+
+There is movement along a demand curve when a change in price causes the quantity demanded to change. It is important to distinguish between movement along a demand curve, and a shift in a demand curve. Movements along a demand curve happen only when the price of the good changes. Underwood, Instructor’s Manual, Microeconomics 5th ed. (Prentice-Hall 2001) at 5. When a non-price determinant of demand changes the curve shifts. These "other variables" are part of the demand function. They are "merely lumped into intercept term of a simple linear demand function." Thus a change in a non-price determinant of demand is reflected in a change in the x-intercept causing the curve to shift along the x axis. The x intercept is affected because the standard diagram uses the inverse demand function 
+
+==Discreteness of amounts==
+If a commodity is sold in whole units, and these are valuable for a consumer, then the individual demand curve can hardly be approximated by a continuous curve. It is a set function of the price, defined by a price above which no unit is bought, a price range for which one is bought, etc.
+
+==Units of measurement==
+
+If the local currency is dollars, for example, then the units of measurement of the variable "price" are "dollars per unit of the good" and the units of measurement of "quantity" are "units of the good per time (e.g., per week or per year). Thus quantity demanded is a flow variable.
+
+==Price elasticity of demand (PED)==
+
+PED is a measure of the sensitivity of the quantity variable, Q, to changes in the price variable, P. Elasticity answers the question of how much the quantity will change in percentage terms for a 1% change in the price, and is thus important in determining how revenue will change.
+
+The elasticity of demand indicates how sensitive the demand for a good is to a price change. If the PED is between zero and 1, demand is said to be inelastic; if PED equals 1, the demand is unitary elastic; and if the Price elasticity of demand is greater than 1, demand is elastic. A low coefficient implies that changes in price have little influence on demand. A high elasticity indicates that consumers will respond to a price rise by buying a lot less of the good and that consumers will respond to a price cut by buying a lot more...
+
+==Taxes and subsidies==
+A sales tax on the commodity does not directly change the demand curve, if the price axis in the graph represents the price including tax. Similarly, a subsidy on the commodity does not directly change the demand curve, if the price axis in the graph represents the price after deduction of the subsidy.
+
+If the price axis in the graph represents the price before addition of tax and/or subtraction of subsidy then the demand curve moves inward when a tax is introduced, and outward when a subsidy is introduced.
+
+==See also==
+
+* Demand (economics)
+* Feasibility condition
+* Supply and demand
+* Effect of taxes and subsidies on price
+* Price point
+* 
+* Inverse demand function
+
+== References ==
+
+

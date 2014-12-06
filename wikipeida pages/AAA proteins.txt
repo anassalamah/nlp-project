@@ -1,0 +1,68 @@
+[[AAA proteins]]
+
+For other uses see AAA (disambiguation)
+
+AAA or AAA+ is an abbreviation for ATPases Associated with diverse cellular Activities. They share a common conserved module of approximately 230 amino acid residues. This is a large, functionally diverse protein family belonging to the AAA+ superfamily of ring-shaped P-loop NTPases, which exert their activity through the energy-dependent remodeling or translocation of macromolecules. 
+
+AAA proteins couple chemical energy provided by ATP hydrolysis to conformational changes which are transduced into mechanical force exerted on a macromolecular substrate. 
+
+AAA proteins are functionally and organizationally diverse, and vary in activity, stability, and mechanism. Members of the AAA family are found in all organisms and they are essential for many cellular functions. They are involved in processes such as DNA replication, protein degradation, membrane fusion, microtubule severing, peroxisome biogenesis, signal transduction and the regulation of gene expression.
+
+== Structure and classification==
+The AAA+ domain contains two subdomains, an N-terminal alpha/beta domain that binds and hydrolyzes nucleotides (a Rossman fold) and a C-terminal alpha-helical domain. The N-terminal domain is 200-250 amino acids long and contains Walker A and Walker B motifs, and is shared in common with other P-loop NTPases, the superfamily which includes the AAA+ family. Most AAA+ proteins have additional domains that are used for oligomerization, substrate binding and/or regulation. These domains can lie N- or C-terminal to the AAA+ module.
+
+Some classes of AAA proteins have an N-terminal non-ATPase domain which is followed by either one or two AAA domains (D1 and D2). In some proteins with two AAA domains, both are evolutionarily well conserved (like in Cdc48/p97). In others, either the D2 domain (like in Pex1p and Pex6p) or the D1 domain (in Sec18p/NSF) is better conserved in evolution.
+
+While the classical AAA family was based on motifs, the family has been expanded using structural information and is now termed the AAA+ family. 
+
+== Evolutionary relationships ==
+
+AAA+ proteins are divided into seven basic clades, based on secondary structure elements included within or near the core AAA+ fold: clamp loader, initiator, classic, superfamily III helicase, HCLR, H2-insert, and PS-II insert. 
+
+== Quaternary structure ==
+
+AAA ATPases assemble into oligomeric assemblies (often homo-hexamers) that form a ring-shaped structure with a central pore. These proteins produce a molecular motor that couples ATP binding and hydrolysis to changes in conformational states that can be propagated through the assembly in order to act upon a target substrate, either translocating or remodelling the substrate. 
+
+The central pore may be involved in substrate processing. In the hexameric configuration, the ATP-binding site is positioned at the interface between the subunits. Upon ATP binding and hydrolysis, AAA enzymes undergo conformational changes in the AAA-domains as well as in the N-domains. These motions can be transmitted to substrate protein.
+
+== Molecular mechanism ==
+
+ATP hydrolysis by AAA+ ATPases is proposed to involve nucleophilic attack on the ATP gamma-phosphate by an activated water molecule, leading to movement of the N-terminal and C-terminal AAA+ subdomains relative to each other. This movement allows the exertion of mechanical force, amplified by other ATPase domains within the same oligomeric structure. The additional domains in the protein allow for regulation or direction of the force towards different goals. 
+
+== Prokaryotic AAAs ==
+
+AAA proteins are not restricted to eukaryotes. Prokaryotes have AAA which combine chaperone with proteolytic activity, for example in ClpAPS complex, which mediates protein degradation and recognition in E. coli. The basic recognition of proteins by AAAs is thought to occur through unfolded domains in the substrate protein. In HslU, a bacterial ClpX/ClpY homologue of the HSP100 family of AAA+ proteins, the N- and C-terminal subdomains move towards each other when nucleotides are bound and hydrolysed. The terminal domains are most distant in the nucleotide-free state and closest in the ADP-bound state. Thereby the opening of the central cavity is affected.
+
+== Functions ==
+AAA+ proteins are involved in protein degradation, membrane fusion, DNA replication, microtubule dynamics, intracellular transport, transcriptional activation, protein refolding, disassembly of protein complexes and protein aggregates. 
+
+=== Molecular motion ===
+
+Dyneins, one of the three major classes of motor protein, are AAA proteins which couple their ATPase activity to molecular motion along microtubules. 
+
+The AAA-type ATPase Cdc48p/p97 is perhaps the best-studied AAA protein. Misfolded secretory proteins are exported from the endoplasmic reticulum (ER) and degraded by the ER-associated degradation pathway (ERAD). Nonfunctional membrane and luminal proteins are extracted from the ER and degraded in the cytosol by proteasomes. Substrate retrotranslocation and extraction is assisted by the Cdc48p(Ufd1p/Npl4p) complex on the cytosolic side of the membrane. On the cytosolic side, the substrate is ubiquitinated by ER-based E2 and E3 enzymes before degradation by the 26S proteasome.
+
+=== Targeting to multivesicular bodies ===
+
+Multivesicular bodies are endosomal compartments that sort ubiquitinated membrane proteins by incorporating them into vesicles. This process involves the sequential action of three multiprotein complexes, ESCRT I to III (ESCRT standing for 'endosomal sorting complexes required for transport'). Vps4p is a AAA-type ATPase involved in this MVB sorting pathway. It had originally been identified as a ”class E” vps (vacuolar protein sorting) mutant and was subsequently shown to catalyse the dissociation of ESCRT complexes. Vps4p is anchored via Vps46p to the endosomal membrane. Vps4p assembly is assisted by the conserved Vta1p protein, which regulates its oligomerzation status and ATPase activity.
+
+=== Other functions ===
+
+AAA proteases use the energy from ATP hydrolysis to translocate a protein inside the protease for degradation.
+
+==Human proteins containing this domain ==
+AFG3L1; AFG3L2; AK6; ATAD1; ATAD2; ATAD2B; ATAD3A; ATAD3B;
+ATAD3C; BCS1L; CDC6; CHTF18; CINAP; FIGN; FIGNL1; FTSH;
+IQCA; KATNA1; KATNAL1; KATNAL2; LONP1; LONP2; NSF; NVL;
+Nbla10058; ORC1L; PEX1; PEX6; PSMC1; PSMC2; PSMC3; PSMC4;
+PSMC5; PSMC6; RFC1; RFC2; RFC4; RFC5; RUVBL1; RUVBL2;
+SPAF; SPAST; SPATA5L1; SPG7; TRIP13; VCP; VPS4A; VPS4B;
+WRNIP1; YME1L1;
+
+==Further reading==
+*
+*
+
+==References==
+
+

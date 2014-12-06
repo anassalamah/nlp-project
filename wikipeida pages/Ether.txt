@@ -1,0 +1,149 @@
+[[Ether]]
+
+The general structure of an ether
+Ethers are a class of organic compounds that contain an ether group — an oxygen atom connected to two alkyl or aryl groups — of general formula R–O–R'. A typical example is the solvent and anesthetic diethyl ether, commonly referred to simply as "ether" (CH3-CH2-O-CH2-CH3). Ethers are common in organic chemistry and pervasive in biochemistry, as they are common linkages in carbohydrates and lignin.
+
+==Structure and bonding==
+Ethers feature C-O-C linkage defined by a bond angle of about 110° and C-O distances of about 140 pm. The barrier to rotation about the C-O bonds is low. The bonding of oxygen in ethers, alcohols, and water is similar. In the language of valence bond theory, the hybridization at oxygen is sp3.
+
+Oxygen is more electronegative than carbon, thus the hydrogens alpha to ethers are more acidic than in simple hydrocarbons. They are far less acidic than hydrogens alpha to carbonyl groups (such as in ketones or aldehydes), however.
+
+:Depending on the groups at R and R', ethers are classified into two types:
+
+# Simple ethers or symmetrical ethers; e.g., Diethyl ether, dimethyl ether, etc.
+# Mixed ethers or asymmetrical ethers; e.g., Methyl ethyl ether, Methyl phenyl ether, etc.
+
+==Nomenclature==
+In the IUPAC nomenclature system, ethers are named using the general formula "alkoxyalkane", for example CH3-CH2-O-CH3 is methoxyethane. If the ether is part of a more complex molecule, it is described as an alkoxy substituent, so -OCH3 would be considered a "methoxy-" group. The simpler alkyl radical is written in front, so CH3-O-CH2CH3 would be given as methoxy(CH3O)ethane(CH2CH3).
+
+===Trivial Name===
+IUPAC rules are often not followed for simple ethers. The trivial names for simple ethers (i.e. those with none or few other functional groups) are a composite of the two substituents followed by "ether." Ethyl methyl ether (CH3OC2H5), diphenylether (C6H5OC6H5). As for other organic compounds, very common ethers acquired names before rules for nomenclature were formalized. Diethyl ether is simply called "ether," but was once called sweet oil of vitriol. Methyl phenyl ether is anisole, because it was originally found in aniseed. The aromatic ethers include furans. Acetals (α-alkoxy ethers R-CH(-OR)-O-R) are another class of ethers with characteristic properties.
+
+===Polyethers===
+Polyethers are compounds with more than one ether group.
+
+The crown ethers are examples of low-molecular weight polyethers. Some toxins produced by dinoflagellates such as brevetoxin and ciguatoxin are in a class known as cyclic or ladder polyethers.
+
+Polyether generally refers to polymers which contain the ether functional group in their main chain. The term glycol is reserved for low to medium range molar mass polymer when the nature of the end-group, which is usually a hydroxyl group, still matters. The term "oxide" or other terms are used for high molar mass polymer when end-groups no longer affect polymer properties.
+
+Aliphatic polyethers
+
+ Name of the polymers with low to medium molar mass Name of the polymers with high molar mass Preparation Repeating unit Examples of trade names 
+ Paraformaldehyde Polyoxymethylene (POM) or polyacetal or polyformaldehyde Step-growth polymerisation of formaldehyde -CH2O- Delrin from DuPont 
+ Polyethylene glycol (PEG) Polyethylene oxide (PEO) or polyoxyethylene (POE) Ring-opening polymerization of ethylene oxide -CH2CH2O- Carbowax from Dow 
+ Polypropylene glycol (PPG) Polypropylene oxide (PPO) or polyoxypropylene) (POP) Anionic ring-opening polymerization of propylene oxide -CH2CH(CH3)O- 
+ Polytetramethylene glycol (PTMG) or Polytetramethylene ether glycol (PTMEG) Polytetrahydrofuran (PTHF) Acid-catalyzed ring-opening polymerization of tetrahydrofuran Terathane from Invista and PolyTHF from BASF 
+
+Aromatic polyethers
+
+The phenyl ether polymers are a class of polyethers containing aromatic cycles in their main chain: Polyphenyl ether (PPE) and Poly(p-phenylene oxide) (PPO).
+
+===Related compounds===
+Many classes of compounds with C-O-C linkages are not considered ethers: Esters (R-C(=O)-O-R), hemiacetals (R-CH(-OH)-O-R), carboxylic acid anhydrides (RC(=O)-O-C(=O)R).
+
+==Physical properties==
+Ether molecules cannot form hydrogen bonds with each other, resulting in relatively low boiling points compared to those of the analogous alcohols. The difference, however, in the boiling points of the ethers and their isometric alcohols becomes lower as the carbon chains become longer, as the van der Waals interactions of the extended carbon chain dominates over the presence of hydrogen bonding.
+
+Ethers are slightly polar. The C-O-C bond angle in the functional group is about 110°, and the C-O dipoles do not cancel out. Ethers are more polar than alkenes but not as polar as alcohols, esters, or amides of comparable structure. However, the presence of two lone pairs of electrons on the oxygen atoms makes hydrogen bonding with water molecules possible.
+
+Cyclic ethers such as tetrahydrofuran and 1,4-dioxane are miscible in water because of the more exposed oxygen atom for hydrogen bonding as compared to linear aliphatic ethers.
+
+ Selected data about some alkyl ethers 
+ Ether Structure m.p. (°C) b.p. (°C) Solubility in 1 liter of H2O Dipole moment (D) 
+ Dimethyl ether CH3-O-CH3 
+ 
+ 70 g 1.30 
+ Diethyl ether CH3CH2-O-CH2CH3 
+ 34.4 69 g 1.14 
+ Tetrahydrofuran O(CH2)4 
+ 66.0 Miscible 1.74 
+ Dioxane O(C2H4)2O 11.8 101.3 Miscible 0.45 
+ 
+Other properties are:
+
+* The lower ethers are highly volatile and flammable.
+* Lower ethers also act as anaesthetics.
+* Ethers act as good organic solvents.
+
+==Reactions== 
+Structure of the polymeric diethyl ether peroxide
+Ethers are quite stable chemical compounds which do not react with bases, active metals, dilute acids, oxidising agents and reducing agents. Generally, they are of low chemical reactivity, but they are more reactive than alkanes (epoxides, ketals, and acetals are unrepresentative classes of ethers and are discussed in separate articles). Important reactions are listed below. Wilhelm Heitmann, Günther Strehlke, Dieter Mayer "Ethers, Aliphatic" in Ullmann's Encyclopedia of Industrial Chemistry" Wiley-VCH, Weinheim, 2002. 
+
+===Ether cleavage===
+see also: Ether cleavage
+
+Although ethers resist hydrolysis, their polar bonds are cloven by mineral acids such as hydrobromic acid and hydroiodic acid. Hydrogen chloride cleaves ethers only slowly. Methyl ethers typically afford methyl halides:
+:ROCH3 + HBr → CH3Br + ROH
+These reactions proceed via onium intermediates, i.e. +Br-.
+
+Some ethers undergo rapid cleavage with boron tribromide (even aluminium chloride is used in some cases) to give the alkyl bromide. Depending on the substituents, some ethers can be cloven with a variety of reagents, e.g. strong base.
+
+===Peroxide formation===
+When stored in the presence of air or oxygen, ethers tend to form explosive peroxides, such as diethyl ether peroxide. The reaction is accelerated by light, metal catalysts, and aldehydes. In addition to avoiding storage conditions likely to form peroxides, it is recommended, when an ether is used as a solvent, not to distill it to dryness, as any peroxides that may have formed, being less volatile than the original ether, will become concentrated in the last few drops of liquid.
+
+===Lewis bases===
+Ethers serve as Lewis bases and Bronsted bases. Strong acids protonate the oxygen to give "onium ions." For instance, diethyl ether forms a complex with boron trifluoride, i.e. diethyl etherate (BF3.OEt2). Ethers also coordinate to Mg(II) center in Grignard reagents.
+
+===Alpha-halogenation===
+This reactivity is akin to the tendency of ethers with alpha hydrogen atoms to form peroxides. Chlorine gives alpha-chloroethers.
+
+==Synthesis==
+Ethers can be prepared in the laboratory in several different ways.
+
+===Dehydration of alcohols===
+The Dehydration of alcohols affords ethers:
+: 2 R-OH → R-O-R + H2O at high temperature
+
+center
+
+ 
+This direct nucleophillic subsititution reaction requires elevated temperatures (about 125 °C). The reaction is catalyzed by acids, usually sulfuric acid. The method is effective for generating symmetrical ethers, but not unsymmetrical ethers, since either OH can be protonated, which would give a mixture of products. Diethyl ether is produced from ethanol by this method. Cyclic ethers are readily generated by this approach. Elimination reactions compete with dehydration of the alcohol:
+: R-CH2-CH2(OH) → R-CH=CH2 + H2O
+
+The dehydration route often requires conditions incompatible with delicate molecules. Several milder methods exist to produce ethers.
+
+===Williamson ether synthesis===
+Nucleophilic displacement of alkyl halides by alkoxides
+: R-ONa + R'-X → R-O-R' + NaX
+This reaction is called the Williamson ether synthesis. It involves treatment of a parent alcohol with a strong base to form the alkoxide, followed by addition of an appropriate aliphatic compound bearing a suitable leaving group (R-X). Suitable leaving groups (X) include iodide, bromide, or sulfonates. This method usually does not work well for aryl halides (e.g. bromobenzene (see Ullmann condensation below). Likewise, this method only gives the best yields for primary halides. Secondary and tertiary halides are prone to undergo E2 elimination on exposure to the basic alkoxide anion used in the reaction due to steric hindrance from the large alkyl groups.
+
+In a related reaction, alkyl halides undergo nucleophilic displacement by phenoxides. The R-X cannot be used to react with the alcohol. However, phenols can be used to replace the alcohol, while maintaining the alkyl halide. Since phenols are acidic, they readily react with a strong base like sodium hydroxide to form phenoxide ions. The phenoxide ion will then substitute the -X group in the alkyl halide, forming an ether with an aryl group attached to it in a reaction with an SN2 mechanism.
+
+: C6H5OH + OH- → C6H5-O- + H2O
+
+: C6H5-O- + R-X → C6H5OR
+
+===Ullmann condensation===
+The Ullmann condensation is similar to the Williamson method except that the substrate is an aryl halide. Such reactions generally require a catalyst, such as copper.
+
+===Electrophilic addition of alcohols to alkenes===
+Alcohols add to electrophilically activated alkenes.
+: R2C=CR2 + R-OH → R2CH-C(-O-R)-R2
+Acid catalysis is required for this reaction. Often, mercury trifluoroacetate (Hg(OCOCF3)2) is used as a catalyst for the reaction, generating an ether with Markovnikov regiochemistry. Using similar reactions, tetrahydropyranyl ethers are used as protective groups for alcohols.
+
+===Preparation of epoxides===
+
+Epoxides are typically prepared by oxidation of alkenes. The most important epoxide in terms of industrial scale is ethylene oxide, which is produced by oxidation of ethylene with oxygen. Other epoxides are produced by one of two routes:
+* By the oxidation of alkenes with a peroxyacid such as m-CPBA.
+* By the base intramolecular nucleophilic substitution of a halohydrin.
+
+==Important ethers==
+
+ Chemical structure of ethylene oxide Ethylene oxide The smallest cyclic ether. Also the simplest epoxide. 
+ Chemical structure of dimethyl ether Dimethyl ether An aerosol spray propellant. A potential renewable alternative fuel for diesel engines with a cetane rating as high as 56-57. 
+ Chemical structure of diethyl ether Diethyl ether A common low boiling solvent (b.p. 34.6 °C) and an early anaesthetic. Used as starting fluid for diesel engines. Also used as a refrigerant and in the manufacture of smokeless gunpowder, along with use in perfumery. 
+ Chemical structure of dimethoxyethane Dimethoxyethane (DME) A high boiling solvent (b.p. 85 °C): 
+ Chemical structure of dioxane Dioxane A cyclic ether and high boiling solvent (b.p. 101.1 °C). 
+ Chemical structure of THF Tetrahydrofuran (THF) A cyclic ether, one of the most polar simple ethers that is used as a solvent. 
+ Chemical structure of anisole Anisole (methoxybenzene) An aryl ether and a major constituent of the essential oil of anise seed. 
+ Chemical structure of 18-crown-6 Crown ethers Cyclic polyethers that are used as phase transfer catalysts. 
+ Chemical structure of polyethylene glycol Polyethylene glycol (PEG) A linear polyether, e.g. used in cosmetics and pharmaceuticals. 
+
+==References==
+
+==External links==
+* EFOA
+* ILPI page about ethers.
+* An Account of the Extraordinary Medicinal Fluid, called Aether, by M. Turner, circa 1788, from Project Gutenberg
+
+

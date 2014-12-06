@@ -1,0 +1,120 @@
+[[Gout]]
+
+Gout (also known as podagra when it involves the big toe) is a medical condition usually characterized by recurrent attacks of acute inflammatory arthritis—a red, tender, hot, swollen joint. The metatarsal-phalangeal joint at the base of the big toe is the most commonly affected (approximately 50% of cases). However, it may also present as tophi, kidney stones, or urate nephropathy. It is caused by elevated levels of uric acid in the blood. The uric acid crystallizes, and the crystals deposit in joints, tendons, and surrounding tissues.
+
+Clinical diagnosis may be confirmed by seeing the characteristic crystals in joint fluid. Treatment with nonsteroidal anti-inflammatory drugs (NSAIDs), steroids, or colchicine improves symptoms. Once the acute attack subsides, levels of uric acid are usually lowered via lifestyle changes, and in those with frequent attacks, allopurinol or probenecid provide long-term prevention.
+
+Gout has become more common in recent decades, affecting about 1–2% of the Western population at some point in their lives. The increase is believed due to increasing risk factors in the population, such as metabolic syndrome, longer life expectancy and changes in diet. Gout was historically known as "the disease of kings" or "rich man's disease."
+
+==Signs and symptoms==
+Gout presenting in the metatarsal-phalangeal joint of the big toe: Note the slight redness of the skin overlying the joint.
+Gout can present in a number of ways, although the most usual is a recurrent attack of acute inflammatory arthritis (a red, tender, hot, swollen joint). The metatarsal-phalangeal joint at the base of the big toe is affected most often, accounting for half of cases. Other joints, such as the heels, knees, wrists and fingers, may also be affected. Joint pain usually begins over 2–4 hours and during the night. The reason for onset at night is due to the lower body temperature then. Other symptoms may rarely occur along with the joint pain, including fatigue and a high fever. 
+
+Long-standing elevated uric acid levels (hyperuricemia) may result in other symptomatology, including hard, painless deposits of uric acid crystals known as tophi. Extensive tophi may lead to chronic arthritis due to bone erosion. Elevated levels of uric acid may also lead to crystals precipitating in the kidneys, resulting in stone formation and subsequent urate nephropathy. 
+
+==Cause==
+High levels of uric acid in the blood (hyperuricemia) is the underlying cause of gout. This can occur for a number of reasons, including diet, genetic predisposition, or underexcretion of urate, the salts of uric acid. Underexcretion of uric acid by the kidney is the primary cause of hyperuricemia in about 90% of cases, while overproduction is the cause in less than 10%. About 10% of people with hyperuricemia develop gout at some point in their lifetimes. The risk, however, varies depending on the degree of hyperuricemia. When levels are between 415 and 530 μmol/l (7 and 8.9 mg/dl), the risk is 0.5% per year, while in those with a level greater than 535 μmol/l (9 mg/dL), the risk is 4.5% per year. 
+
+===Lifestyle===
+Dietary causes account for about 12% of gout, and include a strong association with the consumption of alcohol, fructose-sweetened drinks, meat, and seafood. Other triggers include physical trauma and surgery. Studies in the early 2000s have found that other dietary factors once believed associated are, in fact, not, including the intake of purine-rich vegetables (e.g., beans, peas, lentils, and spinach) and total protein. With respect to risks related to alcohol, beer and spirits appear to have a greater risk than wine. 
+
+The consumption of coffee, vitamin C and dairy products, as well as physical fitness, appear to decrease the risk. This is believed partly due to their effect in reducing insulin resistance. 
+
+===Genetics===
+The occurrence of gout is partly genetic, contributing to about 60% of variability in uric acid level. Three genes called SLC2A9, SLC22A12 and ABCG2 have been found commonly to be associated with gout, and variations in them can approximately double the risk. Loss-of-function mutations in SLC2A9 and SLC22A12 cause hereditary hypouricaemia by reducing urate absorption and unopposed urate secretion. A few rare genetic disorders, including familial juvenile hyperuricemic nephropathy, medullary cystic kidney disease, phosphoribosylpyrophosphate synthetase superactivity, and hypoxanthine-guanine phosphoribosyltransferase deficiency as seen in Lesch-Nyhan syndrome, are complicated by gout. 
+
+===Medical conditions===
+Gout frequently occurs in combination with other medical problems. Metabolic syndrome, a combination of abdominal obesity, hypertension, insulin resistance and abnormal lipid levels, occurs in nearly 75% of cases. Other conditions commonly complicated by gout include: polycythemia, lead poisoning, renal failure, hemolytic anemia, psoriasis, and solid organ transplants. A body mass index greater than or equal to 35 increases a male's risk of gout threefold. Chronic lead exposure and lead-contaminated alcohol are risk factors for gout due to the harmful effect of lead on kidney function. Lesch-Nyhan syndrome is often associated with gouty arthritis.
+
+===Medication===
+Diuretics have been associated with attacks of gout. However, a low dose of hydrochlorothiazide does not seem to increase the risk. Other medicines that increase the risk include niacin and aspirin (acetylsalicylic acid). The immunosuppressive drugs ciclosporin and tacrolimus are also associated with gout, the former more so when used in combination with hydrochlorothiazide. 
+
+==Pathophysiology==
+Uric acid
+Gout is a disorder of purine metabolism, and occurs when its final metabolite, uric acid, crystallizes in the form of monosodium urate, precipitating in joints, on tendons, and in the surrounding tissues. These crystals then trigger a local immune-mediated inflammatory reaction, with one of the key proteins in the inflammatory cascade being interleukin 1β. An evolutionary loss of uricase, which breaks down uric acid, in humans and higher primates has made this condition common. 
+
+The triggers for precipitation of uric acid are not well understood. While it may crystallize at normal levels, it is more likely to do so as levels increase. Other factors believed important in triggering an acute episode of arthritis include cool temperatures, rapid changes in uric acid levels, acidosis, articular hydration, and extracellular matrix proteins, such as proteoglycans, collagens, and chondroitin sulfate. The increased precipitation at low temperatures partly explains why the joints in the feet are most commonly affected. Rapid changes in uric acid may occur due to a number of factors, including trauma, surgery, chemotherapy, diuretics, and stopping or starting allopurinol. Calcium channel blockers and losartan are associated with a lower risk of gout as compared to other medications for hypertension. 
+
+==Diagnosis==
+Gout on X-rays of a left foot. The typical location is the big toe joint. Note also the soft tissue swelling at the lateral border of the foot.
+Spiked rods of uric acid crystals from a synovial fluid sample photographed under a microscope with polarized light. Formation of uric acid crystals in the joints is associated with gout.
+
+Gout may be diagnosed and treated without further investigations in someone with hyperuricemia and the classic podagra. Synovial fluid analysis should be done, however, if the diagnosis is in doubt. X-rays, while useful for identifying chronic gout, have little utility in acute attacks. 
+
+===Synovial fluid===
+A definitive diagnosis of gout is based upon the identification of monosodium urate crystals in synovial fluid or a tophus. All synovial fluid samples obtained from undiagnosed inflamed joints should be examined for these crystals. Under polarized light microscopy, they have a needle-like morphology and strong negative birefringence. This test is difficult to perform, and often requires a trained observer. The fluid must also be examined relatively quickly after aspiration, as temperature and pH affect their solubility. 
+
+===Blood tests===
+Hyperuricemia is a classic feature of gout, but it occurs nearly half of the time without hyperuricemia, and most people with raised uric acid levels never develop gout. Thus, the diagnostic utility of measuring uric acid level is limited. Hyperuricemia is defined as a plasma urate level greater than 420 μmol/l (7.0 mg/dl) in males and 360 μmol/l (6.0 mg/dl) in females. Other blood tests commonly performed are white blood cell count, electrolytes, renal function, and erythrocyte sedimentation rate (ESR). However, both the white blood cells and ESR may be elevated due to gout in the absence of infection. A white blood cell count as high as 40.0×109/l (40,000/mm3) has been documented. 
+
+===Differential diagnosis===
+The most important differential diagnosis in gout is septic arthritis. This should be considered in those with signs of infection or those who do not improve with treatment. To help with diagnosis, a synovial fluid Gram stain and culture may be performed. Other conditions that look similar include pseudogout and rheumatoid arthritis. Gouty tophi, in particular when not located in a joint, can be mistaken for basal cell carcinoma, or other neoplasms. 
+
+==Prevention==
+Both lifestyle changes and medications can decrease uric acid levels. Dietary and lifestyle choices that are effective include reducing intake of food such as meat and seafood, consuming adequate vitamin C, limiting alcohol and fructose consumption, and avoiding obesity. A low-calorie diet in obese men decreased uric acid levels by 100 µmol/l (1.7 mg/dl). Vitamin C intake of 1,500 mg per day decreases the risk of gout by 45%. Coffee, but not tea, consumption is associated with a lower risk of gout. Gout may be secondary to sleep apnea via the release of purines from oxygen-starved cells. Treatment of apnea can lessen the occurrence of attacks. 
+
+==Treatment==
+The initial aim of treatment is to settle the symptoms of an acute attack. Repeated attacks can be prevented by different drugs used to reduce the serum uric acid levels. Ice applied for 20 to 30 minutes several times a day decreases pain. Options for acute treatment include nonsteroidal anti-inflammatory drugs (NSAIDs), colchicine and steroids, while options for prevention include allopurinol, febuxostat and probenecid. Lowering uric acid levels can cure the disease. Treatment of comorbidities is also important. 
+
+===NSAIDs===
+NSAIDs are the usual first-line treatment for gout, and no specific agent is significantly more or less effective than any other. Improvement may be seen within four hours, and treatment is recommended for one to two weeks. They are not recommended, however, in those with certain other health problems, such as gastrointestinal bleeding, renal failure, or heart failure. While indomethacin has historically been the most commonly used NSAID, an alternative, such as ibuprofen, may be preferred due to its better side effect profile in the absence of superior effectiveness. For those at risk of gastric side effects from NSAIDs, an additional proton pump inhibitor may be given. 
+
+===Colchicine===
+Colchicine is an alternative for those unable to tolerate NSAIDs. Its side effects (primarily gastrointestinal upset) limit its usage. Gastrointestinal upset, however, depends on the dose, and the risk can be decreased by using a smaller yet still effective dose. Colchicine may interact with other commonly prescribed drugs, such as atorvastatin and erythromycin, among others. 
+
+===Steroids===
+Glucocorticoids have been found as effective as NSAIDs and may be used if contraindications exist for NSAIDs. They also lead to improvement when injected into the joint; a joint infection must be excluded, however, as steroids worsens this condition. 
+
+===Pegloticase===
+Pegloticase (Krystexxa) was approved in the USA to treat gout in 2010. It is an option for the 3% of people who are intolerant to other medications. Pegloticase is administered as an intravenous infusion every two weeks, and has been found to reduce uric acid levels in this population. 
+
+===Prophylaxis===
+A number of medications are useful for preventing further episodes of gout, including xanthine oxidase inhibitor (including allopurinol and febuxostat) and uricosurics (including probenecid and sulfinpyrazone). They are not usually started until one to two weeks after an acute flare has resolved, due to theoretical concerns of worsening the attack, and are often used in combination with either an NSAID or colchicine for the first three to six months. They are not recommended until a person has had two attacks of gout, unless destructive joint changes, tophi, or urate nephropathy exist, as medications have not been found cost-effective until this point. Urate-lowering measures should be increased until serum uric acid levels are below 300–360 µmol/l (5.0–6.0 mg/dl), and are continued indefinitely. If these medications are being used chronically at the time of an attack, discontinuation is recommended. If levels cannot be brought below 6.0 mg/dl and there are recurrent attacks, this is deemed treatment failure or refractory gout. Overall, probenecid appears less effective than allopurinol. 
+
+Uricosuric medications are typically preferred if undersecretion of uric acid, as indicated by a 24-hour collection of urine results in a uric acid amount of less than 800 mg, is found. They are, however, not recommended if a person has a history of kidney stones. In a 24-hour urine excretion of more than 800 mg, which indicates overproduction, a xanthine oxidase inhibitor is preferred. 
+
+Xanthine oxidase inhibitors (including allopurinol and febuxostat) block uric acid production, and long-term therapy is safe and well tolerated, and can be used in people with renal impairment or urate stones, although allopurinol has caused hypersensitivity in a small number of individuals. In such cases, the alternative drug, febuxostat, has been recommended. 
+
+==Prognosis==
+Without treatment, an acute attack of gout usually resolves in five to seven days; however, 60% of people have a second attack within one year. Those with gout are at increased risk of hypertension, diabetes mellitus, metabolic syndrome, and renal and cardiovascular disease, and thus are at increased risk of death. This may be partly due to its association with insulin resistance and obesity, but some of the increased risk appears to be independent. 
+
+Without treatment, episodes of acute gout may develop into chronic gout with destruction of joint surfaces, joint deformity, and painless tophi. These tophi occur in 30% of those who are untreated for five years, often in the helix of the ear, over the olecranon processes, or on the Achilles tendons. With aggressive treatment, they may dissolve. Kidney stones also frequently complicate gout, affecting between 10 and 40% of people, and occur due to low urine pH promoting the precipitation of uric acid. Other forms of chronic renal dysfunction may occur. 
+
+File:Case 30-top.jpg|Nodules of the finger and helix of the ear representing gouty tophi
+Image:ChronicGout.jpg|Tophus of the knee
+Image:Case 30-bottom.jpg|Tophus of the toe, and over the external malleolus
+Image:Tophigout.JPG|Gout complicated by ruptured tophi (exudate tested positive for uric acid crystals)
+
+==Epidemiology==
+Gout affects around 1–2% of the Western population at some point in their lifetimes, and is becoming more common. Rates of gout have approximately doubled between 1990 and 2010. This rise is believed due to increasing life expectancy, changes in diet, and an increase in diseases associated with gout, such as metabolic syndrome and high blood pressure. A number of factors have been found to influence rates of gout, including age, race, and the season of the year. In men over the age of 30 and women over the age of 50, prevalence is 2%. 
+
+In the United States, gout is twice as likely in African American males as it is in European Americans. Rates are high among the peoples of the Pacific Islands and the Māori of New Zealand, but rare in Australian aborigines, despite a higher mean concentration of serum uric acid in the latter group. It has become common in China, Polynesia, and urban sub-Saharan Africa. Some studies have found attacks of gout occur more frequently in the spring. This has been attributed to seasonal changes in diet, alcohol consumption, physical activity, and temperature. 
+
+==History==
+Antonie van Leeuwenhoek described the microscopic appearance of uric acid crystals in 1679. 
+
+The word "gout" was initially used by Randolphus of Bocking, around 1200 AD. It is derived from the Latin word gutta, meaning "a drop" (of liquid). According to the Oxford English Dictionary, this is derived from humorism and "the notion of the 'dropping' of a morbid material from the blood in and around the joints". 
+
+Gout has, however, been known since antiquity. Historically, it has been referred to as "the king of diseases and the disease of kings" or "rich man's disease". The first documentation of the disease is from Egypt in 2,600 BC in a description of arthritis of the big toe. The Greek physician Hippocrates around 400 BC commented on it in his Aphorisms, noting its absence in eunuchs and premenopausal women. Aulus Cornelius Celsus (30 AD) described the linkage with alcohol, later onset in women, and associated kidney problems:
+Again thick urine, the sediment from which is white, indicates that pain and disease are to be apprehended in the region of joints or viscera... Joint troubles in the hands and feet are very frequent and persistent, such as occur in cases of podagra and cheiragra. These seldom attack eunuchs or boys before coition with a woman, or women except those in whom the menses have become suppressed... some have obtained lifelong security by refraining from wine, mead and venery. 
+
+In 1683, Thomas Sydenham, an English physician, described its occurrence in the early hours of the morning, and its predilection for older males:
+Gouty patients are, generally, either old men, or men who have so worn themselves out in youth as to have brought on a premature old age—of such dissolute habits none being more common than the premature and excessive indulgence in venery, and the like exhausting passions. The victim goes to bed and sleeps in good health. About two o'clock in the morning he is awakened by a severe pain in the great toe; more rarely in the heel, ankle or instep. The pain is like that of a dislocation, and yet parts feel as if cold water were poured over them. Then follows chills and shivers, and a little fever... The night is passed in torture, sleeplessness, turning the part affected, and perpetual change of posture; the tossing about of body being as incessant as the pain of the tortured joint, and being worse as the fit comes on. 
+
+The Dutch scientist Antonie van Leeuwenhoek first described the microscopic appearance of urate crystals in 1679. In 1848, English physician Alfred Baring Garrod realized this excess uric acid in the blood was the cause of gout. 
+
+==Other animals==
+Gout is rare in most other animals due to their ability to produce uricase, which breaks down uric acid. Humans and other great apes do not have this ability, thus gout is common. The Tyrannosaurus rex specimen known as "Sue", however, is believed to have suffered from gout. 
+
+==Research==
+A number of new medications are under study for treating gout, including anakinra, canakinumab, and rilonacept. A recombinant uricase enzyme (rasburicase) is available; its use, however, is limited, as it triggers an autoimmune response. Less antigenic versions are in development. 
+
+==References==
+
+==External links==
+ 
+* 
+
+ 
+
+

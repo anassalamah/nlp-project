@@ -1,0 +1,92 @@
+[[Azide-alkyne Huisgen cycloaddition]]
+
+The Azide-Alkyne Huisgen Cycloaddition is a 1,3-dipolar cycloaddition between an azide and a terminal or internal alkyne to give a 1,2,3-triazole. Rolf Huisgen 
+
+ was the first to understand the scope of this organic reaction. American chemist K. Barry Sharpless has referred to this cycloaddition as "the cream of the crop" of click chemistry 
+
+ and "the premier example of a click reaction." 
+
+Huisgen 1,3-dipolar cycloaddition
+
+In the reaction above Development and Applications of Click Chemistry Gregory C. Patton November 8, 2004 http://www.scs.uiuc.edu Online azide 2 reacts neatly with alkyne 1 to afford the triazole 3 as a mixture of 1,4-adduct and 1,5-adduct at 98 °C in 18 hours.
+
+The standard 1,3-cycloaddition between an azide 1,3-dipole and an alkene as dipolarophile has largely been ignored due to lack of reactivity as a result of electron-poor olefins and elimination side reactions. Some success has been found with non-metal-catalyzed cycloadditions, such as the reactions using dipolarophiles that are electron-poor olefins 
+
+ or alkynes. 
+
+Although azides are not the most reactive 1,3-dipole available for reaction, they are preferred for their relative lack of side reactions and stability in typical synthetic conditions.
+
+==Copper catalysis==
+A notable variant of the Huisgen 1,3-dipolar cycloaddition is the copper(I) catalyzed variant, no longer a true concerted cycloaddition, in which organic azides and terminal alkynes are united to afford 1,4-regioisomers of 1,2,3-triazoles as sole products (substitution at positions 1' and 4' as shown above). The copper(I)-catalyzed variant was first reported in 2002 in independent publications by Morten Meldal at the Carlsberg Laboratory in Denmark 
+ and Valery Fokin and K. Barry Sharpless at the Scripps Research Institute. 
+
+ 
+While the copper(I) catalyzed variant gives rise to a triazole from a terminal alkyne and an azide, formally it is not a 1,3-dipolar cycloaddition and thus should not be termed a Huisgen cycloaddition. This reaction is better termed the Copper(I)-catalyzed Azide-Alkyne Cycloaddition (CuAAC). 
+
+While the reaction can be performed using commercial sources of copper(I) such as cuprous bromide or iodide, the reaction works much better using a mixture of copper(II) (e.g. copper(II) sulfate) and a reducing agent (e.g. sodium ascorbate) to produce Cu(I) in situ. As Cu(I) is unstable in aqueous solvents, stabilizing ligands are effective for improving the reaction outcome, especially if tris-(benzyltriazolylmethyl)amine (TBTA) is used. The reaction can be run in a variety of solvents, and mixtures of water and a variety of (partially) miscible organic solvents including alcohols, DMSO, DMF, tBuOH and acetone. Owing to the powerful coordinating ability of nitriles towards Cu(I), it is best to avoid acetonitrile as the solvent. The starting reagents need not be completely soluble for the reaction to be successful. In many cases, the product can simply be filtered from the solution as the only purification step required.
+
+NH-1,2,3-triazoles are also prepared from alkynes in a sequence called the Banert cascade.
+
+The utility of the Cu(I) catalyzed click reaction has also been demonstrated in the polymerization reaction of a bis-azide and a bis-alkyne with copper(I) and TBTA to a conjugated fluorene based polymer. 
+ The degree of polymerization easily exceeds 50. With a stopper molecule such as phenyl azide, well-defined phenyl end-groups are obtained.
+
+click polymer
+
+The copper mediated azide-alkyne cycloaddition is receiving widespread use in material and surface sciences. Most variations in coupling polymers with other polymers or small molecules have been explored. Current shortcomings are that the terminal alkyne appears to participate in free radical polymerizations. This requires protection of the terminal alkyne with a trimethyl silyl protecting group and subsequent deprotection after the radical reaction are completed. Similarly the use of organic solvents, copper (I) and inert atmospheres to do the cycloaddition with many polymers makes the "click" label inappropriate for such reactions. An aqueous protocol for performing the cycloaddition with free radical polymers is highly desirable.
+
+The CuAAC click reaction also effectively couples polystyrene and bovine serum albumin (BSA). 
+ The result is an amphiphilic biohybrid. BSA contains a thiol group at Cys-34 which is functionalized with an alkyne group. In water the biohybrid micelles with a diameter of 30 to 70 nanometer form aggregates.
+
+===Copper Catalysts===
+The use of a Cu catalyst in water was an improvement over the same reaction first popularized by Rolf Huisgen in the 1970s, which he ran at elevated temperatures. 1,3-Dipolar Cycloaddition Chemistry, published by Wiley and updated in 2002 The traditional reaction is slow and thus requires high temperatures. However, the azides and alkynes are both kinetically stable. 
+
+As mentioned above, copper-catalysed click reactions work essentially on terminal alkynes. The Cu species undergo metal insertion reaction into the terminal alkynes. The Cu(I) species may either be introduced as preformed complexes, or are otherwise generated in the reaction pot itself by one of the following ways:
+* A Cu compound (in which copper is present in the +2 oxidation state) is added to the reaction in presence of a reducing agent (e.g. sodium ascorbate) which reduces the Cu from the (+2) to the (+1) oxidation state. The advantage of generating the Cu(I) species in this manner is it eliminates the need of a base in the reaction. Also the presence of reducing agent makes up for any oxygen which may have gotten into the system. Oxygen oxidises the Cu(I) to Cu(II) which impedes the reaction and results in low yields. One of the more commonly used Cu compounds is CuSO4
+* Oxidation of Cu(0) metal
+* Halides of copper may be used where solubility is an issue. However, the iodide and bromide Cu salts require either the presence of amines or higher temperatures.
+
+Commonly used solvents are polar aprotic solvents such as THF, DMSO, Acetonitrile, DMF as well as in non-polar aprotic solvents such as toluene. Neat solvents or a mixture of solvents may be used.
+
+DIPEA (N,N-Diisopropylethylamine) and Et3N (triethylamine) are commonly used bases. 
+
+=== Mechanism ===
+A mechanism for the reaction has been suggested based on density functional theory calculations. Copper is a 1st row transition metal. It has the electronic configuration 3d10 4s1. The copper (I) species generated in situ forms a pi complex with the triple bond of a terminal alkyne. In the presence of a base, the terminal hydrogen, being the most acidic is deprotonated first to give a Cu acetylide intermediate. Studies have shown that the reaction is second order with respect to Cu. It has been suggested that the transition state involves two copper atoms. One copper atom is bonded to the acetylide while the other Cu atom serves to activate the azide. The metal center coordinates with the electrons on the nitrogen atom. The azide and the acetylide are not coordinated to the same Cu atom in this case. The ligands employed are labile and are weakly coordinating. The azide displaces one ligand to generate a copper-azide-acetylide complex . At this point cyclisation takes place. This is followed by protonation; the source of proton being the hydrogen which was pulled off from the terminal acetylene by the base. The product is formed by dissociation and the catalyst ligand complex is regenerated for further reaction cycles. 
+
+The reaction is assisted by the copper, which, when coordinated with the acetylide lowers the pKa of the alkyne C-H by up to 9.8 units. Thus under certain conditions, the reaction may be carried out even in the absence of a base. 
+
+In the uncatalysed reaction the alkyne remains a poor electrophile. Thus high energy barriers lead to slow reaction rates. 
+Mechanism for Copper catalysed click chemistry
+
+===Ligand assistance===
+The ligands employed are usually labile i.e. they can be displaced easily. Though the ligand plays no direct role in the reaction the presence of a ligand has its advantages.
+The ligand protects the Cu ion from interactions leading to degradation and formation of side products and also prevents the oxidation of the Cu(I) species to the Cu(II). Furthermore, the ligand functions as a proton acceptor thus eliminating the need of a base. 
+
+== Ruthenium catalysis==
+The ruthenium-catalysed 1,3-dipolar azide-alkyne cycloaddition (RuAAC) gives the 1,5-triazole. 
+Unlike CuAAC in which only terminal alkynes reacted, in RuAAC both terminal and internal alkynes can participate in the reaction. This suggests that ruthenium acetylides are not involved in the catalytic cycle.
+
+The proposed mechanism suggests that in the first step, the spectator ligands undergo displacement reaction to produce an activated complex which is converted, via oxidative coupling of an alkyne and an azide to the ruthenium containing metallocyle (Ruthenacycle). The new C-N bond is formed between the more electronegative and less sterically demanding carbon of the alkyne and the terminal nitrogen of the azide. The metallacycle intermediate then undergoes reductive elimination releasing the aromatic triazole product and regenerating the catalyst or the activated complex for further reaction cycles.
+
+Cp*RuCl(PPh3)2, Cp*Ru(COD)and Cp* are commonly used ruthenium catalysts. Catalysts containing cyclopentadienyl(Cp) group are also used. However, better results are observed with the pentamethylcyclopentadienyl(Cp*) version. This may be due to the sterically demanding Cp* group which facilitates the displacement of the spectator ligands. 
+
+Mechanism for ruthenium-catalysed click chemistry
+
+== Silver catalysis==
+
+Recently, the discovery of a general Ag(I)-catalyzed azide–alkyne cycloaddition reaction (Ag-AAC) leading to 1,4-triazoles is reported. Mechanistic features are similar to the generally accepted mechanism of the copper(I)-catalyzed process. Interestingly, silver(I)-salts alone are not sufficient to promote the cycloaddition. However the ligated Ag(I) source has proven to be exceptional for AgAAC reaction. 
+
+ 
+ 
+
+ 
+Curiously, pre-formed silver acetylides do not react with azides; however, silver acetylides do react with azides under catalysis with copper(I). 
+
+ 
+
+==Cycloreversion==
+
+While 1,2,3-triazoles are thermally and kinetically stable, polymers containing triazoles are reported to undergo a mechanochemically-induced 1,3-dipolar cycloreversion using ultrasound. The resulting azide and alkyne can be cycloadded upon addition of CuI. 
+
+==References==
+
+

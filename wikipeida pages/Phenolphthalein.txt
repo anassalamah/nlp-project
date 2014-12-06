@@ -1,0 +1,59 @@
+[[Phenolphthalein]]
+
+Phenolphthalein is a chemical compound with the formula C20H14O4 and is often written as "HIn" or "phph" in shorthand notation. Often used in titrations, it turns colorless in acidic solutions and pink in basic solutions. If the concentration of indicator is particularly strong, it can appear purple.
+In strongly basic solutions, phenolphthalein's pink color undergoes a rather slow fading reaction and becomes completely colourless above 13.0 pH. The molecule has four forms:
+
+ Species H3In+ H2In In2− In(OH)3− 
+ Structure 100px 80px 80px 80px 
+ Model 80px 80px 80px 80px 
+ pH 13.0 
+ Conditions strongly acidic acidic or near-neutral basic strongly basic 
+ Color orange colorless pink to fuchsia colorless 
+ Image 100px 100px 
+
+The rather slow fading reaction that produces the colorless InOH3− ion is sometimes used in classes for the study of reaction kinetics.
+
+Phenolphthalein is insoluble in water and usually is dissolved in alcohols for use in experiments. It is a weak acid, which can lose H+ ions in solution. The phenolphthalein molecule is colorless, however, the phenolphthalein ion is pink. When a base is added to the phenolphthalein, the molecule ions' equilibrium shifts to the right, leading to more ionization as H+ ions are removed. This is predicted by Le Chatelier's principle.
+
+==Synthesis==
+Phenolphthalein is synthesized by condensation of phthalic anhydride with two equivalents of phenol under acidic conditions (hence the name). It was discovered in 1871 by Adolf von Baeyer. 
+:Synthesis of phenolphthalein
+
+==Uses==
+
+ Phenolphthalein (pH indicator) 
+ below pH 8.2 between pH 10.0 and 13.0 
+ colorless fuchsia 
+ 
+
+Phenolphthalein has been used for over a century as a laxative, but is now being removed from over-the-counter laxatives because of concerns over carcinogenicity. 
+
+Phenolphthalein is used in a test to identify substances that are thought to be, or to contain, blood. This test is commonly known as the Kastle-Meyer test. A dry sample is collected with a swab or filter paper. First a few drops of alcohol, then a few drops of phenolphthalein and finally a few drops of hydrogen peroxide are dripped onto the sample. If the sample contains hemoglobin, it will turn pink. This is considered a positive test and indicates that the sample contains hemoglobin and, therefore, is likely blood. This test is nondestructive to the sample; it can be kept and used in further tests at the lab. This test has the same reaction with blood from any animal, so further testing would be required to determine whether it originates from a human.
+
+Phenolphthalein is used in toys, for example as a component of disappearing inks, or disappearing dye on the Hollywood Hair Barbie hair. In the ink it is mixed with sodium hydroxide, which reacts with carbon dioxide in the air. This reaction leads to the pH falling below the color change threshold as hydrogen ions are released via the reaction:
+:OH−(aq) + CO2(g) → CO32−(aq) + H+(aq)
+
+To develop the hair and "magic" graphical patterns, the ink is sprayed with a solution of hydroxide, which leads to the appearance of the hidden graphics by the same mechanism described above for color change in alkaline solution. The pattern will eventually disappear by the same reaction with carbon dioxide detailed above. Thymolphthalein is used for the same purpose and in the same way, when blue color is desired. Toystore 
+
+Phenolphthalein is used as an acid or base indicator where in contact or presence of acid it will turn colorless and with base, it will turn into a pinkish violet color. It is also a component in universal indicator, a solution consisting of a mixture of pH indicators (usually 
+phenolphthalein, methyl red, bromothymol blue, and thymol blue). 
+
+The acid-base indication abilities of phenolphthalein also make it useful for testing for signs of carbonation reactions in concrete. Concrete has naturally high pH due to the calcium hydroxide formed when Portland cement reacts with water. The pH of the ionic water solution present in the pores of fresh concrete may be over 14. Normal carbonation of concrete occurs as the cement hydration products in concrete react with carbon dioxide in the atmosphere, and can reduce the pH to 8½ to 9, although that reaction usually is restricted to a thin layer at the surface. When a 1% phenolphthalein solution is applied to normal concrete it will turn bright pink. If the concrete has undergone carbonation, no color change will be observed.
+
+==Physiology==
+Despite concerns of its carcinogenicity, the use of phenolphthalein as a laxative is unlikely to cause ovarian cancer. Phenolphthalein has been found to inhibit human cellular calcium influx via store-operated calcium entry (SOCE) by inhibiting thrombin and thapsigargin, two activators of SOCE that increase intracellular free calcium. 
+
+==See also==
+*Bromothymol blue
+*Litmus
+*Methyl orange
+*pH indicator
+*Universal indicator
+
+==References==
+
+==External links==
+
+*Page on different titration indicators, including phenolphthalein
+
+

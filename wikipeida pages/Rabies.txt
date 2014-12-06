@@ -1,0 +1,161 @@
+[[Rabies]]
+
+Rabies (; from , "madness") is a viral disease that causes acute inflammation of the brain in humans and other warm-blooded animals. The time period between contracting the disease and the start of symptoms is usually one to three months; however it can vary from less than one week to more than one year. The time is dependent on the distance the virus must travel to reach the central nervous system. Early symptoms may include fever and tingling at the site of exposure. This is then followed by either violent movements, uncontrolled excitement, and fear of water or an inability to move parts of the body and confusion followed by loss of consciousness. In both cases once symptoms appear it nearly always results in death. 
+
+The disease is spread to humans from another animal, commonly by a bite or scratch. Infected saliva that comes into contact with any mucous membrane is also a risk. Globally most cases are the result of a dog bite, with this being the cause in more than 90% of cases in countries where dogs commonly have rabies. In the Americas, less than 5% of cases are from dogs, with bats being the most common cause. Rodents are very rarely infected. The rabies virus travels to the brain by following the peripheral nerves. The disease can also be diagnosed after the start of symptoms. 
+
+Animal control and vaccination programs have decreased the risk of rabies from dogs in a number of regions of the world. Immunizing people before they are exposed is recommended in those who are at high risk including those who work with bats or spend prolonged periods in areas of the world where the disease is common. In those who have been exposed to rabies, rabies vaccine and sometimes rabies immunoglobulin are effective in preventing disease if given before the start of symptoms. Washing bites and scratches for 15 minutes with soap and water also appears to be somewhat effective. Only a few people have survived a rabies infection and this was with extensive treatment. 
+
+Rabies causes about 26,000 to 55,000 deaths worldwide per year, more than 95% of which occur in Asia and Africa. It is present in more than 150 countries and more than 3 billion people live in regions of the world where it occurs. In most of Europe and Australia rabies is only present in bats. Many small island nations are entirely rabies free. 
+
+==Signs and symptoms==
+
+Person with rabies, 1959
+The period between infection and the first flu-like symptoms is typically 2 to 12 weeks. Incubation periods as short as four days and longer than six years have been documented, depending on the location and severity of the inoculating wound and the amount of virus introduced. Symptoms may soon expand to slight or partial paralysis, anxiety, insomnia, confusion, agitation, abnormal behavior, paranoia, terror, and hallucinations, progressing to delirium. The patient may suffer hydrophobia.
+
+Death almost invariably results 2 to 10 days after first symptoms. Survival is rare once symptoms have presented, even with the administration of proper and intensive care. Jeanna Giese, who in 2004 was the first patient treated with the Milwaukee protocol, became the first person ever recorded to have survived rabies without receiving successful post-exposure prophylaxis. An intention-to-treat analysis has since found this protocol has a survival rate of about 8%. 
+
+===Hydrophobia===
+Hydrophobia ("fear of water"), is the historic name for rabies. It refers to a set of symptoms in the later stages of an infection in which the victim has difficulty swallowing, shows panic when presented with liquids to drink, and can't quench his or her thirst. Saliva production is greatly increased, and attempts to drink, or even the intention or suggestion of drinking may cause excruciatingly painful spasms of the muscles in the throat and larynx.
+
+==Cause==
+TEM micrograph with numerous rabies virions (small, dark grey, rodlike particles) and Negri bodies (the larger pathognomonic cellular inclusions of rabies infection)
+Rabies is caused by a number of lyssaviruses including: rabies virus and Australian bat lyssavirus. 
+
+The rabies virus is the type species of the Lyssavirus genus, in the family Rhabdoviridae, order Mononegavirales. Lyssaviruses have helical symmetry, with a length of about 180 nm and a cross-section of about 75 nm. These viruses are enveloped and have a single-stranded RNA genome with negative sense. The genetic information is packed as a ribonucleoprotein complex in which RNA is tightly bound by the viral nucleoprotein. The RNA genome of the virus encodes five genes whose order is highly conserved: nucleoprotein (N), phosphoprotein (P), matrix protein (M), glycoprotein (G), and the viral RNA polymerase (L). 
+
+Once within a muscle or nerve cell, the virus undergoes replication. The trimeric spikes on the exterior of the membrane of the virus interact with a specific cell receptor, the most likely one being the acetylcholine receptor, acetyl. The cellular membrane pinches in a procession known as pinocytosis and allows entry of the virus into the cell by way of an endosome. The virus then uses the acidic environment, which is necessary, of that endosome and binds to its membrane simultaneously, releasing its five proteins and single strand RNA into the cytoplasm. 
+
+The L protein then transcribes five mRNA strands and a positive strand of RNA all from the original negative strand RNA using free nucleotides in the cytoplasm. These five mRNA strands are then translated into their corresponding proteins (P, L, N, G and M proteins) at free ribosomes in the cytoplasm. Some proteins require post-translative modifications. For example, the G protein travels through the rough endoplasmic reticulum, where it undergoes further folding, and is then transported to the Golgi apparatus, where a sugar group is added to it (glycosylation). 
+
+Where there are enough proteins, the viral polymerase will begin to synthesize new negative strands of RNA from the template of the positive strand RNA. These negative strands will then form complexes with the N, P, L and M proteins and then travel to the inner membrane of the cell, where a G protein has embedded itself in the membrane. The G protein then coils around the N-P-L-M complex of proteins taking some of the host cell membrane with it, which will form the new outer envelope of the virus particle. The virus then buds from the cell. 
+
+From the point of entry, the virus is neurotropic, traveling quickly along the neural pathways into the central nervous system, and then to other organs. The salivary glands receive high concentrations of the virus, thus allowing further transmission.
+
+===Transmission===
+
+Any warm-blooded animal, including humans, may become infected with the rabies virus and develop symptoms, although birds have only been known to be infected in experiments. The virus has even been adapted to grow in cells of poikilothermic ("cold-blooded") vertebrates. Most animals can be infected by the virus and can transmit the disease to humans. Infected bats, monkeys, raccoons, foxes, skunks, cattle, wolves, coyotes, dogs, mongooses (normally yellow mongoose) or cats present the greatest risk to humans.
+
+Rabies may also spread through exposure to infected domestic farm animals, groundhogs, weasels, bears, raccoons, skunks and other wild carnivorans. Small rodents, such as squirrels, hamsters, guinea pigs, gerbils, chipmunks, rats, and mice, and lagomorphs such as rabbits and hares, are almost never found to be infected with rabies and are not known to transmit rabies to humans. The Virginia opossum is resistant but not immune to rabies. 
+
+The virus is usually present in the nerves and saliva of a symptomatic rabid animal. The Merck Manual, 11th Edition (1983), p. 183 The Merck manual of Medical Information. Second Home Edition, (2003), p. 484. The route of infection is usually, but not always, by a bite. In many cases, the infected animal is exceptionally aggressive, may attack without provocation, and exhibits otherwise uncharacteristic behavior. This is an example of a viral pathogen modifying the behavior of its host to facilitate its transmission to other hosts.
+
+Transmission between humans is extremely rare. A few cases have been recorded through transplant surgery. 
+
+After a typical human infection by bite, the virus enters the peripheral nervous system. It then travels along the afferent nerves toward the central nervous system. During this phase, the virus cannot be easily detected within the host, and vaccination may still confer cell-mediated immunity to prevent symptomatic rabies. When the virus reaches the brain, it rapidly causes encephalitis, the prodromal phase, and is the beginning of the symptoms. Once the patient becomes symptomatic, treatment is almost never effective and mortality is over 99%. Rabies may also inflame the spinal cord, producing transverse myelitis. Joanne Lynn, M.D. (October 1997) Transverse Myelitis: Symptoms, Causes and Diagnosis The Transverse Myelitis Association 
+
+==Diagnosis==
+Rabies can be difficult to diagnose because, in the early stages, it is easily confused with other diseases or aggressiveness. The reference method for diagnosing rabies is the Fluorescent Antibody Test (FAT) which is recommended by World Health Organization (WHO). Dean, D. J., and M. K. Abelseth. "Laboratory techniques in rabies: the fluorescent antibody test." Monograph series. World Health Organization 23 (1973): 73. The FAT relies on the ability of a detector molecule (usually fluorescein isothiocyanate) coupled with a rabies specific antibody forming a conjugate to bind to and allow the visualisation of rabies antigen using fluorescent microscopy techniques. Microscopic analysis of samples is the only direct method that allows for the identification of rabies virus-specific antigen in a short time and at a reduced cost, irrespective of geographical origin and status of the host. It has to be regarded as the first step in diagnostic procedures for all laboratories. Autolysed samples can, however, reduce the sensitivity and specificity of the FAT. The RT PCR assays proved to be a sensitive and specific tool for routine diagnostic purposes, Tordo N, Bourhy H, Sacramento D (1995) PCR technology for lyssavirus diagnosis. In: Polymerase Chain Reaction (PCR) for Human Viral Diagnosis Clewley JP, ed. Boca Raton: CRC. pp 125–145. particularly in decomposed samples or archival specimens. The diagnosis can be reliably made from brain samples taken after death. The diagnosis can also be made from saliva, urine, and cerebrospinal fluid samples, but this is not as sensitive and reliable as brain samples. Cerebral inclusion bodies called Negri bodies are 100% diagnostic for rabies infection but are found in only about 80% of cases. If possible, the animal from which the bite was received should also be examined for rabies. 
+
+The differential diagnosis in a case of suspected human rabies may initially include any cause of encephalitis, in particular infection with viruses such as herpesviruses, enteroviruses, and arboviruses such as West Nile virus. The most important viruses to rule out are herpes simplex virus type one, varicella zoster virus, and (less commonly) enteroviruses, including coxsackieviruses, echoviruses, polioviruses, and human enteroviruses 68 to 71. 
+
+New causes of viral encephalitis are also possible, as was evidenced by the 1999 outbreak in Malaysia of 300 cases of encephalitis with a mortality rate of 40% caused by Nipah virus, a newly recognized paramyxovirus. Likewise, well-known viruses may be introduced into new locales, as is illustrated by the recent outbreak of encephalitis due to West Nile virus in the eastern United States. Epidemiologic factors, such as season, geographic location, and the patient's age, travel history, and possible exposure to bites, rodents, and ticks, may help direct the diagnosis.
+
+Cheaper rabies diagnosis will become possible for low-income settings: accurate rabies diagnosis can be done at a tenth of the cost of traditional testing using basic light microscopy techniques. 
+
+==Prevention==
+
+Almost all human cases of rabies were fatal until a vaccine was developed in 1885 by Louis Pasteur and Émile Roux. Their original vaccine was harvested from infected rabbits, from which the virus in the nerve tissue was weakened by allowing it to dry for five to 10 days. Similar nerve tissue-derived vaccines are still used in some countries, as they are much cheaper than modern cell culture vaccines. 
+
+The human diploid cell rabies vaccine was started in 1967. Less expensive purified chicken embryo cell vaccine and purified vero cell rabies vaccine are now available. A recombinant vaccine called V-RG has been used in Belgium, France, Germany, and the United States to prevent outbreaks of rabies in undomesticated animals. Immunization before exposure has been used in both human and nonhuman populations, where, as in many jurisdictions, domesticated animals are required to be vaccinated. 
+
+Recorded human deaths from rabies in the United States has dropped from 100 or more annually in the early 20th century to one or two per year due to widespread vaccination of domestic dogs and cats and the development of human vaccines and immunoglobulin treatments. Most deaths now result from bat bites, which may go unnoticed by the victim and hence untreated. 
+
+The Missouri Department of Health and Senior Services Communicable Disease Surveillance 2007 Annual Report states the following can help reduce the risk of contracting rabies: 
+
+* Vaccinating dogs, cats, rabbits, and ferrets against rabies
+* Keeping pets under supervision
+* Not handling wild animals or strays
+* Contacting an animal control officer upon observing a wild animal or a stray, especially if the animal is acting strangely
+* If bitten by an animal, washing the wound with soap and water for 10 to 15 minutes and contacting a healthcare provider to determine if post-exposure prophylaxis is required
+
+September 28 is World Rabies Day, which promotes the information, prevention, and elimination of the disease. 
+
+==Treatment==
+
+Treatment after exposure can prevent the disease if administered promptly, generally within 10 days of infection. Thoroughly washing the wound as soon as possible with soap and water for approximately five minutes is very effective in reducing the number of viral particles. 
+
+In the US, the Centers for Disease Control and Prevention recommends patients receive one dose of human rabies immunoglobulin (HRIG) and four doses of rabies vaccine over a 14-day period. "Use of a Reduced (4-Dose) Vaccine Schedule for Postexposure Prophylaxis to Prevent Human Rabies". Centers for Disease Control and Prevention (CDC). The immunoglobulin dose should not exceed 20 units per kilogram body weight. HRIG is expensive and constitutes most of the cost of postexposure treatment, ranging as high as several thousand dollars. As much as possible of this dose should be infiltrated around the bites, with the remainder being given by deep intramuscular injection at a site distant from the vaccination site. 
+
+The first dose of rabies vaccine is given as soon as possible after exposure, with additional doses on days three, seven and 14 after the first. Patients who have previously received pre-exposure vaccination do not receive the immunoglobulin, only the postexposure vaccinations on days 0 and 2.
+
+The pain and side effects of modern cell-based vaccines are similar to flu shots. The old nerve-tissue-based vaccinations that require multiple painful injections into the abdomen with a large needle are inexpensive, but are being phased out and replaced by affordable World Health Organization intradermal-vaccination regimens. 
+
+Intramuscular vaccination should be given into the deltoid, not gluteal area, which has been associated with vaccination failure due to injection into fat rather than muscle. In infants, the lateral thigh is used as for routine childhood vaccinations.
+
+Awakening to find a bat in the room, or finding a bat in the room of a previously unattended child or mentally disabled or intoxicated person, is regarded as an indication for post-exposure prophylaxis (PEP). The recommendation for the precautionary use of PEP in occult bat encounters where no contact is recognized has been questioned in the medical literature, based on a cost-benefit analysis. However, a 2002 study has supported the protocol of precautionary administering of PEP where a child or mentally compromised individual has been alone with a bat, especially in sleep areas, where a bite or exposure may occur without the victim being aware. Begun with little or no delay, PEP is 100% effective against rabies. In the case in which there has been a significant delay in administering PEP, the treatment should be administered regardless, as it may still be effective. 
+
+===Induced coma===
+
+In 2004, American teenager Jeanna Giese survived an infection of rabies unvaccinated. She was placed into an induced coma upon onset of symptoms and given ketamine, midazolam, ribavirin, and amantadine. Her doctors administered treatment based on the hypothesis that detrimental effects of rabies were caused by temporary dysfunctions in the brain and could be avoided by inducing a temporary partial halt in brain function that would protect the brain from damage while giving the immune system time to defeat the virus. After 31 days of isolation and 76 days of hospitalization, Giese was released from the hospital. She survived with all higher level brain functions, but an inability to walk and balance. On a podcast of NPR's Radiolab, Giese recounted, "I had to learn how to stand and then to walk, turn around, move my toes. I was really, after rabies, a new born baby who couldn't do anything. I had to relearn that all...mentally I knew how to do stuff but my body wouldn't cooperate with what I wanted it to do. It definitely took a toll on me psychologically. You know I'm still recovering. I'm not completely back. Stuff like balance and, um, I can't run normally." Rodney Versus Death - Radiolab 
+
+Giese's treatment regimen became known as the "Milwaukee protocol", which has since undergone revision with the second version omitting the use of ribavirin. Two of 25 patients survived when treated under the first protocol. A further 10 patients have been treated under the revised protocol, with a further two survivors. The anesthetic drug ketamine has shown the potential for rabies virus inhibition in rats, and is used as part of the Milwaukee protocol.
+
+On June 12, 2011, Precious Reynolds, an eight-year-old girl from Humboldt County, California, became the third reported person in the United States to have recovered from rabies without receiving PEP. 
+
+==Prognosis==
+In unvaccinated humans, rabies is almost always fatal after neurological symptoms have developed. 
+
+Vaccination after exposure, PEP, is highly successful in preventing the disease if administered promptly, in general within 6 days of infection. Begun with little or no delay, PEP is 100% effective against rabies. In the case of significant delay in administering PEP, the treatment still has a chance of success. 
+
+5 of the first 43 patients (12%) treated with the Milwaukee protocol survived, and those receiving treatment survived longer than those not receiving the treatment. 
+
+==Epidemiology==
+Rabies-free countries (in green) .
+
+In 2010, an estimated 26,000 people died from rabies, down from 54,000 in 1990. The majority of the deaths occurred in Asia and Africa. India has the highest rate of human rabies in the world, primarily because of stray dogs, whose number has greatly increased since a 2001 law forbade the killing of dogs. Effective control and treatment of rabies in India is also hindered by a form of mass hysteria or group delusion known as puppy pregnancy syndrome (PPS). Dog bite victims with PPS (both male and female) become convinced that puppies are growing inside them, and often seek help from faith healers rather than from conventional medical services. In cases where the bite was from a rabid dog, this decision can prove fatal. Dr. Nitai Kishore Marik, former district medical officer of West Midnapur, states "I have seen scores of cases of rabies that reached our hospitals very late because of the intervention of faith healers. We could not save those lives." Medicine challenges Indian superstition | Asia | DW.DE | 31.12.2012 An estimated 20,000 people die every year from rabies in India — more than a third of the global toll. , Vietnam had the second-highest rate, followed by Thailand; in these countries, the virus is primarily transmitted through canines (feral dogs and other wild canine species). Another source of rabies in Asia is the pet boom. In 2006 China introduced the "one-dog policy" in Beijing to control the problem. 
+
+The rabies virus survives in widespread, varied, rural fauna reservoirs. It is present in the animal populations of almost every country in the world except Australia and New Zealand. "Essential rabies maps". World Health Organization (WHO). Australian bat lyssavirus (ABLV), discovered in 1996, is similar to rabies and is believed to be prevalent in native bat populations. In some countries, such as those in western Europe and Oceania, rabies is considered to be prevalent among bat populations only.
+
+In Asia and in parts of the Americas and Africa, dogs remain the principal host. Mandatory vaccination of animals is less effective in rural areas. Especially in developing countries, pets may not be privately kept and their destruction may be unacceptable. Oral vaccines can be safely distributed in baits, a practice that has successfully reduced rabies in rural areas of Canada, France, and the United States. In Montréal, Quebec, Canada, baits are successfully used on raccoons in the Mont-Royal Park area. Vaccination campaigns may be expensive, and cost-benefit analysis suggests baits may be a cost-effective method of control. In Ontario, a dramatic drop in rabies was recorded when an aerial bait-vaccination campaign was launched. 
+
+Rabies is common among wild animals in the US. Bats, raccoons, skunks and foxes account for almost all reported cases (98% in 2009). Rabid bats are found in all 48 contiguous states. Other reservoirs are more limited geographically; for example, the raccoon rabies virus variant is only found in a relatively narrow band along the East Coast. Due to a high public awareness of the virus, efforts at vaccination of domestic animals and curtailment of feral populations, and availability of postexposure prophylaxis, incidents of rabies in humans are very rare. A total of 49 cases of the disease was reported in the country between 1995 and 2011; of these, 11 are thought to have been acquired abroad. Almost all domestically acquired cases are attributed to bat bites. 
+
+In Switzerland, the disease has been virtually eradicated after scientists placed chicken heads laced with live attenuated vaccine in the Swiss Alps. The foxes of Switzerland, proven to be the main source of rabies in the country, ate the chicken heads and immunized themselves. 
+
+==History==
+
+===Etymology===
+A woodcut from the Middle Ages showing a rabid dog.
+The term is derived from the Latin rabies, "madness". This, in turn, may be related to the Sanskrit rabhas, "to do violence". The Greeks derived the word lyssa, from lud or "violent"; this root is used in the name of the genus of rabies Lyssavirus. 
+
+===Impact===
+Because of its potentially violent nature, rabies has been known since circa 2000 B.C. The first written record of rabies is in the Mesopotamian Codex of Eshnunna (circa 1930 BC), which dictates that the owner of a dog showing symptoms of rabies should take preventive measure against bites. If another person were bitten by a rabid dog and later died, the owner was heavily fined. 
+
+Rabies was considered a scourge for its prevalence in the 19th century. In France and Belgium, where Saint Hubert was venerated, the "St Hubert's Key" was heated and applied to cauterize the wound. By an application of magical thinking, dogs were branded with the key in hopes of protecting them from rabies. The fear of rabies was almost irrational, due to the significant number of vectors (mostly rabid dogs) and the absence of any efficacious treatment. It was not uncommon for a person, showing no signs of the disease, bitten by a dog merely suspected of being rabid, to commit suicide or to be killed by others. This gave Louis Pasteur ample opportunity to test postexposure treatments from 1885. 
+In ancient medical times, the attachment of the tongue (the lingual frenulum, a mucous membrane) was cut and removed as this is where rabies was thought to originate. This practice ceased with the discovery of the actual cause of rabies. 
+
+==Other animals==
+
+Rabies is infectious to mammals; three stages are recognized. The first stage is a one- to three-day period characterized by behavioral changes and is known as the prodromal stage. The second is the excitative stage, which lasts three to four days. This stage is often known as "furious rabies" for the tendency of the affected animal to be hyper-reactive to external stimuli and bite at anything near. The third is the paralytic stage and is caused by damage to motor neurons. Incoordination is seen, owing to rear limb paralysis, and drooling and difficulty swallowing is caused by paralysis of facial and throat muscles. Death is usually caused by respiratory arrest. 
+
+==Research==
+Rabies has the advantage over other pseudotyping methods for gene delivery in that the cell-targeting (tissue tropism) is more specific for difficult-to-reach sites, such as the central nervous system without invasive delivery methods, as well as being capable of retrograde tracing (i.e., going against the flow of information at synapses) in neuronal circuits. 
+
+Recent evidence indicates artificially increasing the permeability of the blood–brain barrier, which normally does not allow most immune cells across, promotes viral clearance. 
+
+==See also==
+
+* Global Alliance for Rabies Control
+* Rabies in popular culture
+* World Rabies Day
+
+==References==
+
+==Further reading==
+*
+*
+*
+*
+*
+
+==External links==
+
+* Aerophobia and Hydrophobia in Rabies Videos
+* 
+* Virus Pathogen Database and Analysis Resource (ViPR): Rhabdoviridae
+* World Rabies Day
+
+ 
+
+

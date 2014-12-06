@@ -1,0 +1,192 @@
+[[Scarlet fever]]
+
+The rash of scarlet fever
+Red cheeks and pale area around the mouth in scarlet fever
+Characteristic red cheeks and rash of scarlet fever
+
+Scarlet fever (also called scarlatina in older literature) is an infectious disease which most commonly affects children. Symptoms include sore throat, fever and a characteristic red rash. 
+Scarlet fever is usually spread by inhalation. There is no vaccine, but the disease is effectively treated with antibiotics. Most of the clinical features are caused by erythrogenic toxin, a substance produced by the bacterium Streptococcus pyogenes (group A strep.) when it is infected by a certain bacteriophage.
+
+Before the availability of antibiotics, scarlet fever was a major cause of death. It also sometimes caused late complications, such as glomerulonephritis and endocarditis leading to heart valve disease, all of which were protracted and often fatal afflictions at the time.
+
+Strains of Group A Strep that produce the erythrogenic toxin are not inherently more dangerous than other strains that do not; they are merely more easily diagnosed because of the characteristic rash.
+
+==Pathophysiology==
+Scarlet fever is usually spread by the aerosol route (inhalation) but may also be spread by skin contact or by fomites. Although it is not normally considered a food-borne illness, an outbreak of scarlet fever due to infected chicken meat has been reported in China. 
+
+Asymptomatic carriage may occur in 15–20% of school-age children.
+
+The incubation period is 1–4 days.
+
+===Microbiology===
+The disease itself is caused by secretion of pyrogenic exotoxins by the infecting Streptococcus. Exotoxin A (speA) is probably the best studied of these toxins. It is carried by the bacteriophage T12 which integrates into the Streptococcal genome from where the toxin is transcribed. The phage itself integrates into a serine tRNA gene on the chromosome. 
+
+The T12 virus itself has not been placed into a taxon by the International Committee on Taxonomy of Viruses. It has a double stranded DNA genome and on morphological grounds appears to be a member of the Siphoviridae.
+
+The speA gene was cloned and sequenced in 1986. It is 753 base pairs in length and encodes a 29.244 kiloDalton (kDa) protein. The protein contains a putative 30 amino acid signal peptide: removal of the signal sequence gives a predicted molecular weight of 25.787 (kDa) for the secreted protein. Both a promoter and a ribosome binding site (Shine-Dalgarno sequence) are present upstream of the gene. A transcriptional terminator is located 69 bases downstream from the translational termination codon. The carboxy terminal portion of the protein exhibits extensive homology with the carboxy terminus of Staphylococcus aureus enterotoxins B and C1.
+
+Streptococcal phages other than T12 may also carry the speA gene. 
+
+===Panton-Valentine leukocidin===
+
+Panton–Valentine leukocidin (PVL) is a 2-component cytotoxin targeting human and rabbit neutrophils, monocytes or macrophages. Less than 5% of Staphylococcus aureus strains which have the PVL gene, produce this toxin as a virulence factor, and are responsible mainly for the skin infections and pneumonia and is associated with community-acquired Methicillin resistance. It is associated with exacerbated skin manifestations and inflammatory response in children with community-associated staphylococcal scarlet fever. 
+
+==Presentation==
+Scarlet fever is characterized by:
+
+*Sore throat
+*Fever
+*Bright red tongue with a "strawberry" appearance
+*Forchheimer spots (fleeting small, red spots on the soft palate)
+*Paranoia
+*Hallucinations
+*A characteristic rash, which:
+**is fine, red, and rough-textured
+**blanches upon pressure
+**appears 12–72 hours after the fever starts
+**generally begins on the chest and armpits and behind the ears. It may also appear in the groin
+**on the face, often shows as red cheeks with a characteristic pale area around the mouth (circumoral pallor)
+**is worse in the skin folds (so-called Pastia lines, where the rash runs together in the armpits and groin, appear and can persist after the rash is gone)
+**may spread to cover the uvula
+**begins to fade three to four days after onset and desquamation (peeling) begins. "This phase begins with flakes peeling from the face. Peeling from the palms and around the fingers occurs about a week later." Peeling also occurs in the axilla, the groin, and the tips of fingers and toes 
+
+===Rash===
+The rash is the most striking sign of scarlet fever. It usually appears first on the neck and face (often leaving a clear, unaffected area around the mouth). It looks like a bad sunburn with tiny bumps, and it may itch. It then spreads to the chest and back and finally to the rest of the body. In the body creases, especially around the axillae (underarms) and elbows, the rash forms the classic red streaks known as Pastia lines. On very dark skin, the streaks may appear darker than the rest of the skin. Areas of rash usually turn white (or paler brown, with dark complected skin) when pressed on. By the sixth day of the infection, the rash usually fades, but the affected skin may begin to peel.
+
+===Other features===
+Usually there are other symptoms that help to confirm a diagnosis of scarlet fever, including a reddened and sore throat, a fever at or above 101 °F, and swollen glands in the neck. Scarlet fever can also occur with a low fever. The tonsils and back of the throat may have a whitish coating, or appear red, swollen, and dotted with whitish or yellowish specks of pus. Early in the infection, the tongue may have a whitish or yellowish coating. Also, an infected person may have chills, body aches, nausea, vomiting, and loss of appetite.
+
+In rare cases, scarlet fever may develop from a streptococcal skin infection like impetigo. In these cases, the person may not get a sore throat.
+
+===Course===
+When scarlet fever occurs because of a throat infection, the fever typically subsides within 3 to 5 days, and the sore throat passes soon afterward. The scarlet-fever rash usually fades on the sixth day after sore-throat symptoms started, and begins to peel (as described above). The infection itself is usually cured with a 10-day course of antibiotics, but it may take a few weeks for tonsils and swollen glands to return to normal.
+
+==Diagnosis==
+Scarlet fever can be diagnosed by clinical signs and symptoms. Complete blood count (CBC) findings characteristic of Scarlet fever would show marked leukocytosis with neutrophilia and conservated or increased eosinophils, high erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) (both indications of inflammation), and elevation of antistreptolysin O titer. Blood culture is rarely positive but the streptococci can usually be demonstrated in throat culture.
+
+==Differential diagnosis==
+Cases need to be differentiated from Far East scarlet-like fever, an infectious disease first reported in the 1950s from Russia. Because its similar clinical presentation to scarlet fever it was initially thought to be caused by a Streptococcus. It is now known to be caused by a Gram negative bacillus—Yersinia pseudotuberculosis.
+
+Kawasaki's disease is another important differential, especially in its incomplete form. Scarlet fever appears similar to Kawasaki's disease in some aspects but lacks the eye signs or the swollen, red fingers and toes. However the signs of Kawasaki's disease may manifest over a few days, rather than at initial presentation. Complications of missed Kawasaki's disease are significant but rare and include a 1–2% death rate and coronary artery aneurysms.
+
+==Treatment==
+The treatment and course of scarlet fever are no different from those of any strep throat.
+
+===Antibiotic resistance===
+A drug-resistant strain of scarlet fever, resistant to macrolide antibiotics such as erythromycin, but retaining drug-sensitivity to beta-lactam antibiotics such as penicillin, emerged in Hong Kong in 2011, accounting for at least two deaths in that city—the first such in over a decade. About 60% of circulating strains of the Group A Streptococcus that cause scarlet fever in Hong Kong are resistant to macrolide antibiotics, says Professor Kwok-yung Yuen, head of Hong Kong University's microbiology department. Previously, observed resistance rates had been 10–30%; the increase is likely the result of overuse of macrolide antibiotics in recent years.
+
+===Vaccines===
+No vaccines are currently available to protect against S. pyogenes infection; the vaccine developed by George and Gladys Dick in 1924 was discontinued due to poor efficacy and the introduction of antibiotics. Difficulties in vaccine development include the considerable strain variety of S. pyogenes present in the environment and the amount of time and number of people needed for appropriate trials for safety and efficacy of any potential vaccine. 
+
+==Complications==
+The complications of scarlet fever include septic complications due to spread of streptococcus in blood, and immune-mediated complications due to an aberrant immune response. Septic complications—today rare—include ear and sinus infection, streptococcal pneumonia, empyema thoracis, meningitis and full-blown sepsis, upon which the condition may be called malignant scarlet fever.
+
+Immune complications include acute glomerulonephritis, rheumatic fever and erythema nodosum. The secondary scarlatinous disease, or secondary malignant syndrome of scarlet fever, includes renewed fever, renewed angina, septic ear, nose, and throat complications and kidney infection or rheumatic fever, and is seen around the eighteenth day of untreated scarlet fever.
+
+An association between scarlet fever and hepatitis has been recognized for several decades. The causal mechanism is unknown.
+
+==Epidemiology==
+This disease is most common in children; males and females are equally affected. By the age of 10 years most children have acquired protective antibodies and scarlet fever at this age or older is rare. 
+
+==History==
+It is unclear when a description of this disease was first recorded. Hippocrates, writing c. 400 BCE, described the condition of a patient with a sore throat and skin ulcers, but it is not entirely clear from his description whether the patient had scarlet fever. In the 10th/11th century, the physicians Rhazes, Ali Abbas and Avicenna described an illness that was measles-like, but with a more vivid colour and more dangerous. Again, it is not certain that these descriptions refer to scarlet fever.
+
+The first description of the disease in the medical literature appeared in the 1553 book De Tumoribus praeter Naturam by the Sicilian anatomist and physician Giovanni Filippo Ingrassia, where he referred to it as rossalia or rosania. It was redescribed by Johann Weyer during an epidemic in lower Germany between 1564 and 1565; he referred to it as scalatina anginosa. The first unequivocal description of scarlet fever appeared in a book by Joannes Coyttarus of Poitiers, De febre purpura epidemiale et contagiosa libri duo, which was published in 1578 in Paris. Daniel Sennert of Wittenberg described the classical 'scarlatinal desquamation' in 1572 and was also the first to describe the early arthritis, scarlatinal dropsy and ascites associated with the disease.
+
+In 1827, Bright was the first to recognise the involvement of the renal system in scarlet fever.
+
+The association between streptococci and disease was first described in 1874 by Billroth, discussing patients with wound infections. Billroth also coined the genus name Streptococcus. The organism was first cultured in 1883 by the German surgeon Friedrich Fehleisen. He cultured it from perierysipelas lesions. Rosenbach gave the organism its current name (Streptococcus pyogenes) in 1884.
+
+Also in 1884, the German physician Friedrich Loeffler was the first to show the presence of streptococci in the throats of patients with scarlet fever. Because not all patients with pharyngeal streptococci developed scarlet fever, these findings remained controversial for some time. 
+The association between streptocci and scarlet fever was confirmed by Alphonse Dochez, George and Gladys Dick in the early 1900s.
+
+Nil Filatow (in 1895) and Clement Dukes (in 1894) described an exantematous disease which they thought was a form of rubella, but in 1900 Dukes described it as a separate illness which came to be known as Dukes' disease, Filatov’s disease or fourth disease. However, in 1979, Keith Powell identified it as in fact the same illness as the form of scarlet fever that is caused by Staphylococcal exotoxin and is known as Staphylococcal scalded skin syndrome. 
+
+Scarlet fever serum from horses was used in the treatment of children beginning in 1900 and reduced mortality rates significantly.
+
+In 1906 the Austrian pediatrician Clemens von Pirquet postulated that disease-causing immune complexes were responsible for the nephritis that followed scarlet fever. 
+
+Bacteriophages were discovered in 1915 by Frederick Twort. His work was overlooked and phages were later rediscovered by Felix d'Herelle in 1917. The specific association of scarlet fever with the Group A streptococcus had to await the development of Lancefield's streptococcal grouping scheme in the 1920s. The Dicks showed that cell-free filtrates could induce the erythematous reaction characteristic of scarlet fever, proving that this reaction was due to a toxin. Karelitz and Stempien discovered that extracts from human serum globulin and placental globulin can be used as lightening agents for scarlet fever and this was used later as the basis for the Dick test. The association of scarlet fever and bacteriophages was described in 1926 by Cantucuzene and Boncieu. 
+
+The discovery of penicillin and its subsequent widespread use has significantly reduced the mortality of this once feared disease.
+
+The first toxin that causes this disease was cloned and sequenced in 1986 by Weeks and Ferretti. 
+
+===Dick Test and vaccine===
+
+The Dick Test was invented in 1924 and was used to identify those susceptible to scarlet fever. A broth culture filtrate from an erythrogenic toxin producing group A streptococci was injected intracutaneously into susceptible persons. In those susceptible erythematous and oedematous skin reactions developed by 24 hours after injection. A second injection of antitoxin into the site neutralized the reactions. Non-reactors were considered to have sufficient antibodies to the toxin and thus were not susceptible to scarlet fever.
+
+Gladys Henry Dick and George Frederick Dick developed a vaccine in 1924 that was later eclipsed by penicillin in the 1940s. Broth filtrates were used as the basis for the patent the Dicks took out on their vaccine in 1924 in the United Kingdom and in 1925 in the United States.
+
+Neither the vaccine nor the Dick Test is in use currently.
+
+==In fiction==
+Scarlet fever has been used as a plot device in a variety of fictional settings.
+
+===Opera===
+In Act II, Scene V of Rossini's opera, The Barber of Seville, Don Basilio is terrified and sent away to bed at a very crucial point in the plot under the false persuasion that he has contracted the dreaded "febbre scarlattina" (despite the fact that he is told he has turned yellow, rather than red).
+
+===Literature===
+In Mary Shelley's Frankenstein, Caroline Beaufort, Victor Frankenstein's mother, contracts scarlet fever from Elizabeth. The disease results in her death.
+
+Beth, the third sister in Little Women, contracts scarlet fever from a neighbour's child. The disease leaves her in poor health and she dies from illness four years later.
+
+Laura Ingalls Wilder wrote that her sister Mary Ingalls from the Little House on the Prairie books and the TV series, lost her sight from the effects of scarlet fever. However, modern doctors believe this to be a misdiagnosis. They believe Mary actually had meningitis and perhaps a stroke. 
+
+In the children's book The Velveteen Rabbit, a toy rabbit's owner contracts scarlet fever and all his toys, including the rabbit, are taken to be burned.
+
+Also in another children's book written by Enid Blyton Five Are Together Again, Joan the Kirrin family cook contracts scarlet fever and is taken away in an ambulance just as The Famous Five have arrived at Kirrin Cottage to start their school holiday.
+
+Scarlet fever was a major plot point in American Girl's Kit Kittredge short story Kit Uses Her Head, when Kit, along with her best friends Ruthie Smithens and Stirling Howard, were diagnosed with the disease.
+
+In Michelle Magorian's Goodnight Mister Tom, Tom's wife and son are diagnosed with scarlet fever, and die.
+
+===Film===
+Gene Wilder's character in See No Evil, Hear No Evil went deaf due to scarlet fever.
+
+In Osmosis Jones, the main antagonist, Thrax, is a Scarlet Fever virus intent on getting himself in the medical records by overheating Frank's body in record time.
+
+In Love's Everlasting Courage, Ellen Davis dies of scarlet fever.
+
+In the movie Anne of Avonlea, Gilbert Blythe (Anne's love interest) contracts scarlet fever from the hospital while studying medicine. During this time, Anne promises to marry him, which is said to be what helped him survive.
+
+In the 2004 movie Frankenstein, the mother dies of scarlet fever.
+
+In Gods and Generals, the little girl that Stonewall Jackson met, before the Battle of Chancellorsville, died of scarlet fever.
+
+In the 2013 movie World War Z, Scarlet Fever was offered as a "high mortality" bacterium to Gerry Lane (Brad Pitt) while visiting a WHO research facility in Cardiff, Wales.
+
+In the 2008 movie The Reader, young Michael Berg (played by David Kross) has scarlet fever at the age of 15.
+
+==Persons who suffered from scarlet fever==
+* Caroline Matilda of Great Britain (1751–1775), titular queen of Denmark, died from the disease at the age of 23
+* Thomas A. Edison, North American inventor; survived scarlet fever, but the disease may have caused his partial deafness 
+* Myron Floren, the accordionist on The Lawrence Welk Show had scarlet fever as a child; his accordion playing saved his life, as the exertion strengthened his heart back to pre-fever performance
+* Hazel Hall (1886–1924), a poet based in Portland, Oregon
+* Jean Harlow (1911-1937), contracted scarlet fever as a child at Camp Cha-Ton-Ka
+* Mary Ingalls (1865-1928), older sister of Laura Ingalls Wilder, who was reported by her sister to have lost her sight to scarlet fever
+* Helen Keller (1880–1968), famous American deaf-blind author and lecturer, was believed to have lost her vision and hearing as a result of contracting the disease at 19 months of age
+* Primo Levi (1919–1987), an Italian Jewish chemist and writer
+* August Lösch (1906–1945), German economist, died of scarlet fever just after World War II ended
+* Herman Melville (1817-1891), American writer and novelist, contracted scarlet fever when he was seven years old
+* Johann Strauss I, composer of waltzes and other light classics, died in Vienna in 1849 from scarlet fever contracted from one of his illegitimate children 
+* Maria Franziska von Trapp, the second daughter of Captain Georg von Trapp, suffered from scarlet fever and infected her mother Agathe Whitehead, who died from the disease; Maria von Trapp then entered the family, giving rise to the story behind The Sound of Music
+* Liu Tianhua (1895–1932), a Chinese musicologist died of scarlet fever in 1932 in Beijing
+* Konstantin Tsiolkovsky (1857–1935), Russian rocket scientist and pioneer of space exploration studies had scarlet fever as a child
+* Lope de Vega, the famous Spanish writer and poet died of scarlet fever in 1635
+
+==See also==
+* List of cutaneous conditions
+
+==References==
+
+==Further reading==
+* 
+
+==External links==
+
+* Scarlet Fever from PubMed Health
+
+ 
+
+

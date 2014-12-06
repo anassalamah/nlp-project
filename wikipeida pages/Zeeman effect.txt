@@ -1,0 +1,192 @@
+[[Zeeman effect]]
+
+The Zeeman effect (; ), named after the Dutch physicist Pieter Zeeman, is the effect of splitting a spectral line into several components in the presence of a static magnetic field. It is analogous to the Stark effect, the splitting of a spectral line into several components in the presence of an electric field. Also similar to the Stark effect, transitions between different components have, in general, different intensities, with some being entirely forbidden (in the dipole approximation), as governed by the selection rules.
+
+Since the distance between the Zeeman sub-levels is a function of the magnetic field, this effect can be used to measure the magnetic field, e.g. that of the Sun and other stars or in laboratory plasmas.
+The Zeeman effect is very important in applications such as nuclear magnetic resonance spectroscopy, electron spin resonance spectroscopy, magnetic resonance imaging (MRI) and Mössbauer spectroscopy. It may also be utilized to improve accuracy in atomic absorption spectroscopy.
+A theory about the magnetic sense of birds assumes that a protein in the retina is changed due to the Zeeman effect. The magnetic compass mechanisms of birds and rodents are based on different physical principles. Journal of the Royal Society 
+
+When the spectral lines are absorption lines, the effect is called inverse Zeeman effect.
+
+Zeeman splitting of the 5s level of Rb-87, including fine structure and hyperfine structure splitting. Here F = J + I, where I is the nuclear spin. (for Rb-87, I = 3/2)
+
+==Nomenclature==
+
+Historically, one distinguishes between the "normal" and an anomalous Zeeman effect that appears on transitions where the net spin of the electrons is not 0, the number of Zeeman sub-levels being even instead of odd if there is an uneven number of electrons involved. It was called "anomalous" because the electron spin had not yet been discovered, and so there was no good explanation for it at the time that Zeeman observed the effect.
+
+At higher magnetic fields the effect ceases to be linear. At even higher field strength, when the strength of the external field is comparable to the strength of the atom's internal field, electron coupling is disturbed and the spectral lines rearrange. This is called the Paschen-Back effect.
+
+In the modern scientific literature, these terms are rarely used, with a tendency to use just the "Zeeman effect".
+
+==Theoretical presentation==
+The total Hamiltonian of an atom in a magnetic field is
+
+:
+
+where is the unperturbed Hamiltonian of the atom, and is perturbation due to the magnetic field:
+
+:
+
+where is the magnetic moment of the atom. The magnetic moment consists of the electronic and nuclear parts; however, the latter is many orders of magnitude smaller and will be neglected here. Therefore,
+
+:
+
+where is the Bohr magneton, is the total electronic angular momentum, and is the Landé g-factor.
+The operator of the magnetic moment of an electron is a sum of the contributions of the orbital angular momentum and the spin angular momentum , with each multiplied by the appropriate gyromagnetic ratio:
+:
+
+where and (the latter is called the anomalous gyromagnetic ratio; the deviation of the value from 2 is due to Quantum Electrodynamics effects). In the case of the LS coupling, one can sum over all electrons in the atom:
+
+:
+
+where and are the total orbital momentum and spin of the atom, and averaging is done over a state with a given value of the total angular momentum.
+
+If the interaction term is small (less than the fine structure), it can be treated as a perturbation; this is the Zeeman effect proper. In the Paschen-Back effect, described below, exceeds the LS coupling significantly (but is still small compared to ). In ultrastrong magnetic fields, the magnetic-field interaction may exceed , in which case the atom can no longer exist in its normal meaning, and one talks about Landau levels instead. There are, of course, intermediate cases which are more complex than these limit cases.
+
+==Weak field (Zeeman effect)==
+If the spin-orbit interaction dominates over the effect of the external magnetic field, and are not separately conserved, only the total angular momentum is. The spin and orbital angular momentum vectors can be thought of as precessing about the (fixed) total angular momentum vector . The (time-)"averaged" spin vector is then the projection of the spin onto the direction of :
+
+:
+
+and for the (time-)"averaged" orbital vector:
+
+:
+
+Thus,
+
+:
+
+Using and squaring both sides, we get
+
+:
+and:
+using and squaring both sides, we get
+
+:
+
+Combining everything and taking , we obtain the magnetic potential energy of the atom in the applied external magnetic field,
+
+:
+
+where the quantity in square brackets is the Landé g-factor gJ of the atom ( and ) and is the z-component of the total angular momentum. 
+For a single electron above filled shells and , the Landé g-factor can be simplified into:
+
+:
+
+===Example: Lyman alpha transition in hydrogen===
+The Lyman alpha transition in hydrogen in the presence of the spin-orbit interaction involves the transitions
+
+: and 
+
+In the presence of an external magnetic field, the weak-field Zeeman effect splits the 1S1/2 and 2P1/2 levels into 2 states each () and the 2P3/2 level into 4 states (). The Landé g-factors for the three levels are:
+
+: for (j=1/2, l=0)
+
+: for (j=1/2, l=1)
+
+: for (j=3/2, l=1).
+
+Note in particular that the size of the energy splitting is different for the different orbitals, because the gJ values are different. On the left, fine structure splitting is depicted. This splitting occurs even in the absence of a magnetic field, as it is due to spin-orbit coupling. Depicted on the right is the additional Zeeman splitting, which occurs in the presence of magnetic fields.
+
+400 px
+
+==Strong field (Paschen-Back effect)==
+The Paschen-Back effect is the splitting of atomic energy levels in the presence of a strong magnetic field. This occurs when an external magnetic field is sufficiently large to disrupt the coupling between orbital () and spin () angular momenta. This effect is the strong-field limit of the Zeeman effect. When , the two effects are equivalent. The effect was named after the German physicists Friedrich Paschen and Ernst E. A. Back. Paschen, F., Back, E.: Liniengruppen magnetisch vervollständigt. Physica 1, 261–273 (1921). 
+
+When the magnetic-field perturbation significantly exceeds the spin-orbit interaction, one can safely assume . This allows the expectation values of and to be easily evaluated for a state . The energies are simply:
+
+:
+
+The above may be read as implying that the LS-coupling is completely broken by the external field. However and are still "good" quantum numbers. Together with the selection rules for an electric dipole transition, i.e., this allows to ignore the spin degree of freedom altogether. As a result, only three spectral lines will be visible, corresponding to the selection rule. The splitting is independent of the unperturbed energies and electronic configurations of the levels being considered. It should be noted that in general (if ), these three components are actually groups of several transitions each, due to the residual spin-orbit coupling.
+
+In general, one must now add spin-orbit coupling and relativistic corrections (which are of the same order, known as 'fine structure') as a perturbation to these 'unperturbed' levels. First order perturbation theory with these fine-structure corrections yields the following formula for the Hydrogen atom in the Paschen-Back limit: 
+:
+
+== Intermediate field for j = 1/2 ==
+In the magnetic dipole approximation, the Hamiltonian which includes both the hyperfine and Zeeman interactions is 
+:
+:
+
+To arrive at the Breit-Rabi formula we will include the hyperfine structure (interaction between the electron's spin and the magnetic moment of the nucleus), which is governed by the quantum number , where is the spin angular momentum operator of the nucleus. Alternatively, the derivation could be done with only. The constant is known as the zero field hyperfine constant and is given in units of Hertz. is the Bohr magneton. and are the electron and nuclear angular momentum operators. and can be found via a classical vector coupling model or a more detailed quantum mechanical calculation to be: 
+
+:
+:
+
+As discussed, in the case of weak magnetic fields, the Zeeman interaction can be treated as a perturbation to the basis. In the high field regime, the magnetic field becomes so large that the Zeeman effect will dominate, and we must use a more complete basis of or just since and will be constant within a given level. 
+ 
+To get the complete picture, including intermediate field strengths, we must consider eigenstates which are superpositions of the and basis states. For , the Hamiltonian can be solved analytically, resulting in the Breit-Rabi formula. Notably, the electric quadrapole interaction is zero for (), so this formula is fairly accurate.
+ 
+To solve this system, we note that at all times, the total angular momentum projection will be conserved. Furthermore, since between states will change between only . Therefore, we can define a good basis as: 
+
+:
+
+We now utilize quantum mechanical ladder operators, which are defined for a general angular momentum operator as
+
+:
+
+These ladder operators have the property
+:
+
+as long as lies in the range (otherwise, they return zero). Using ladder operators and 
+We can rewrite the Hamiltonian as 
+
+:
+
+Now we can determine the matrix elements of the Hamiltonian: 
+
+:
+:
+
+Solving for the eigenvalues of this matrix, (as can be done by hand, or more easily, with a computer algebra system) we arrive at the energy shifts: 
+
+:
+:
+
+where is the splitting (in units of Hz) between two hyperfine sublevels in the absence of magnetic field , 
+
+ is referred to as the 'field strength parameter' (Note: for the square root is an exact square, and should be interpreted as ). This equation is known as the Breit-Rabi formula and is useful for systems with one valence electron in an () level. Woodgate, Elementary Atomic Structure, section 9. first appeared in G. Breit and I. Rabi, Phys. rev. 38, 2082 (1931). 
+
+Note that index in should be considered not as total angular momentum of the atom but as asymptotic total angular momentum. It is equal to total angular momentum only if 
+otherwise eigenvectors corresponding different eigenvalues of the Hamiltonian are the superpositions of states with different but equal (the only exceptions are ).
+
+==Applications==
+
+===Astrophysics===
+Zeeman effect on a sunspot spectral line
+
+George Ellery Hale was the first to notice the Zeeman effect in the solar spectra, indicating the existence of strong magnetic fields in sunspots. Such fields can be quite high, on the order of 0.1 Tesla or higher. Today, the Zeeman effect is used to produce magnetograms showing the variation of magnetic field on the sun.
+
+===Laser Cooling===
+The Zeeman effect is utilized in many Laser cooling applications such as a Magneto-optical trap and the Zeeman slower.
+
+==See also==
+* Magneto-optic Kerr effect
+* Voigt effect
+* Faraday effect
+* Cotton-Mouton effect
+* Polarization spectroscopy
+* Zeeman energy
+*Lamb shift
+**Electron configuration says at subshell p (l=1), there are 3 energy level ml=-1,0,1, but we see only two p1/2 and p3/2. for subshell s(l=0), there is only 1 energy level (ml=0), but here we have 2. l corresponding to fine structure, ml corresponding to hyperfine structure.
+
+==References==
+
+===Historical===
+* (Chapter 16 provides a comprehensive treatment, as of 1935.)
+* 
+* 
+* 
+
+===Modern===
+*
+* 
+* 
+*
+*
+*
+
+== External links ==
+
+* Zeeman Effect Apparatus Manufacturer
+
+

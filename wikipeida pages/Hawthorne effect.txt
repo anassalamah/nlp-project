@@ -1,0 +1,80 @@
+[[Hawthorne effect]]
+
+Aerial view of the Hawthorne Works, circa 1920.
+The Hawthorne effect (also referred to as the observer effect) refers to a phenomenon whereby workers improve or modify an aspect of their behavior in response to the fact of change in their environment, rather than in response to the nature of the change itself. The "Hawthorne effect" study suggested that the novelty of having research conducted and the increased attention from such could lead to temporary increases in productivity.
+
+== History ==
+The term was coined in 1950 by Henry A. Landsberger when analysing earlier experiments from 1924–1932 at the Hawthorne Works (a Western Electric factory outside Chicago). The Hawthorne Works had commissioned a study to see if their workers would become more productive in higher or lower levels of light. The workers' productivity seemed to improve when changes were made, and slumped when the study ended. It was suggested that the productivity gain occurred as a result of the motivational effect on the workers of the interest being shown in them.
+
+This effect was observed for minute increases in illumination. In these lighting studies, light intensity was altered to examine its effect on worker productivity. Most industrial/occupational psychology and organizational behavior textbooks refer to the illumination studies. The Industrial Organization Psychologist, Volume 41, What We Teach Students About the Hawthorne Studies, Santa Clara University 2004 Only occasionally are the rest of the studies mentioned. What We Teach Students About the Hawthorne Studies: A Review of Content Within a Sample of Introductory I-O and OB Textbooks 
+
+Although illumination research of workplace lighting formed the basis of the Hawthorne effect, other changes such as maintaining clean work stations, clearing floors of obstacles, and even relocating workstations resulted in increased productivity for short periods. Thus the term is used to identify any type of short-lived increase in productivity. 
+ Henry A. Landsberger, Hawthorne Revisited, Ithaca, 1958.
+ 
+ Elton Mayo, Hawthorne and the Western Electric Company,
+ The Social Problems of an Industrial Civilisation,
+ Routledge, 1949.
+ 
+ 
+
+Interpretations and views vary. Parsons defines the Hawthorne effect as "the confounding that occurs if experimenters fail to realize how the consequences of subjects' performance affect what subjects do" performance is affected – possibly unconsciously – by possible positive or negative personal consequences not considered by the experimenter, George Elton Mayo describes it in terms of a positive emotional effect due to the perception of a sympathetic or interested observer, Clark and Sugrue (1991) say that uncontrolled novelty effects cause on average 30% of a standard deviation (SD) rise (i.e. 50%–63% score rise), which decays to small level after 8 weeks, Braverman argues that the studies really showed that the workplace was not "a system of bureaucratic formal organisation on the Weberian model, nor a system of informal group relations, as in the interpretation of Mayo and his followers but rather a system of power, of class antagonisms", and studies of the demand effect also suggests that people might take on pleasing the experimenter as a goal. 
+
+Evaluation of the Hawthorne effect continues in the present day. 
+
+=== Relay assembly experiments ===
+In one of the studies, experimenters chose two women as test subjects and asked them to choose four other workers to join the test group. Together the women worked in a separate room over the course of five years (1927–1932) assembling telephone relays.
+
+Output was measured mechanically by counting how many finished relays each worker dropped down a chute. This measuring began in secret two weeks before moving the women to an experiment room and continued throughout the study. In the experiment room, they had a supervisor who discussed changes with them and at times used their suggestions. Then the researchers spent five years measuring how different variables affected the group's and individuals' productivity. Some of the variables were:
+
+* giving two 5-minute breaks (after a discussion with them on the best length of time), and then changing to two 10-minute breaks (not their preference). Productivity increased, but when they received six 5-minute rests, they disliked it and reduced output.
+* providing food during the breaks
+* shortening the day by 30 minutes (output went up); shortening it more (output per hour went up, but overall output decreased); returning to the first condition (where output peaked).
+
+Changing a variable usually increased productivity, even if the variable was just a change back to the original condition. However it is said that this is the natural process of the human being to adapt to the environment without knowing the objective of the experiment occurring. Researchers concluded that the workers worked harder because they thought that they were being monitored individually.
+
+Researchers hypothesized that choosing one's own coworkers, working as a group, being treated as special (as evidenced by working in a separate room), and having a sympathetic supervisor were the real reasons for the productivity increase. One interpretation, mainly due to Elton Mayo, Mayo, Elton (1945) Social Problems of an Industrial Civilization. Boston: Division of Research, Graduate School of Business Administration, Harvard University, p. 64 was that "the six individuals became a team and the team gave itself wholeheartedly and spontaneously to cooperation in the experiment." (There was a second relay assembly test room study whose results were not as significant as the first experiment.)
+
+=== Bank wiring room experiments ===
+The purpose of the next study was to find out how payment incentives would affect productivity. The surprising result was that productivity actually decreased. Workers apparently had become suspicious that their productivity may have been boosted to justify firing some of the workers later on. 
+The study was conducted by Elton Mayo and W. Lloyd Warner between 1931 and 1932 on a group of fourteen men who put together telephone switching equipment. The researchers found that although the workers were paid according to individual productivity, productivity decreased because the men were afraid that the company would lower the base rate. Detailed observation of the men revealed the existence of informal groups or "cliques" within the formal groups. These cliques developed informal rules of behavior as well as mechanisms to enforce them. The cliques served to control group members and to manage bosses; when bosses asked questions, clique members gave the same responses, even if they were untrue. These results show that workers were more responsive to the social force of their peer groups than to the control and incentives of management.
+
+== Interpretation and criticism ==
+Richard Nisbett has described the Hawthorne effect as 'a glorified anecdote', saying that 'once you have got the anecdote, you can throw away the data.'" Other researchers have attempted to explain the effects with various interpretations.
+
+Adair warns of gross factual inaccuracy in most secondary publications on Hawthorne effect and that many studies failed to find it. He argues that it should be viewed as a variant of Orne's (1973) experimental demand effect. So for Adair, the issue is that an experimental effect depends on the participants' interpretation of the situation; this is why manipulation checks are important in social sciences experiments. So he thinks it is not awareness per se, nor special attention per se, but participants' interpretation that must be investigated in order to discover if/how the experimental conditions interact with the participants' goals. This can affect whether participants believe something, if they act on it or do not see it as in their interest, etc.
+
+Possible explanations for the Hawthorne effect include the impact of feedback and motivation towards the experimenter. Receiving feedback on their performance may improve their skills when an experiment provides this feedback for the first time. Research on the demand effect also suggests that people may be motivated to please the experimenter, at least if it does not conflict with any other motive. They may also be suspicious of the purpose of the experimenter. Therefore, Hawthorne effect may only occur when there is usable feedback or a change in motivation.
+
+Parsons defines the Hawthorne effect as "the confounding that occurs if experimenters fail to realize how the consequences of subjects' performance affect what subjects do" learning effects, both permanent skill improvement and feedback-enabled adjustments to suit current goals. His key argument is that in the studies where workers dropped their finished goods down chutes, the participants had access to the counters of their work rate. 
+
+Mayo contended that the effect was due to the workers reacting to the sympathy and interest of the observers. He does say that this experiment is about testing overall effect, not testing factors separately. He also discusses it not really as an experimenter effect but as a management effect: how management can make workers perform differently because they feel differently. A lot to do with feeling free, not feeling supervised but more in control as a group. The experimental manipulations were important in convincing the workers to feel this way: that conditions were really different. The experiment was repeated with similar effects on mica-splitting workers. 
+
+Richard E. Clark and Brenda M. Sugrue (1991, p. 333) in a review of educational research say that uncontrolled novelty effects cause on average 30% of a standard deviation (SD) rise (i.e. 50%–63% score rise), which decays to small level after 8 weeks. In more detail: 50% of a SD for up to 4 weeks; 30% of SD for 5–8 weeks; and 20% of SD for > 8 weeks, (which is < 1% of the variance). 
+
+Harry Braverman points out that the Hawthorne tests were based on industrial psychology and were investigating whether workers' performance could be predicted by pre-hire testing. The Hawthorne study showed "that the performance of workers had little relation to ability and in fact often bore an inverse relation to test scores...". Braverman argues that the studies really showed that the workplace was not "a system of bureaucratic formal organisation on the Weberian model, nor a system of informal group relations, as in the interpretation of Mayo and his followers but rather a system of power, of class antagonisms". This discovery was a blow to those hoping to apply the behavioral sciences to manipulate workers in the interest of management.
+
+The economists Steven Levitt and John A. List long pursued without success a search for the base data of the original illumination experiments, before running it to earth in a microfilm at the University of Wisconsin in Milwaukee in 2011. BBC Radio 4 programme More Or Less, "The Hawthorne Effect", broadcast 12 October 2013, presented by Tim Harford with contributions by John List Re-analysing it, they found that the variance in productivity could be fully accounted for by the fact that the lighting changes were made on Sundays and therefore followed by Mondays when workers' productivity was refreshed by a day off. This finding supported the analysis of an article by S R G Jones in 1992 examining the relay experiments. 
+
+It is also possible that the illumination experiments can be explained by a longitudinal learning effect. It is notable however that Parsons refuses to analyse the illumination experiments, on the grounds that they have not been properly published and so he cannot get at details, whereas he had extensive personal communication with Roethlisberger and Dickson. 
+
+Despite these alternative explanations, the Hawthorne effect has been well established in the empirical literature beyond the original studies. The output ("dependent") variables were human work, and the educational effects can be expected to be similar (but it is not so obvious that medical effects would be). The experiments stand as a warning about simple experiments on human participants viewed as if they were only material systems. There is less certainty about the nature of the surprise factor, other than it certainly depended on the mental states of the participants: their knowledge, beliefs, etc.
+
+== See also ==
+* Self-determination theory
+* John Henry effect
+* Reflexivity (social theory)
+* Pygmalion effect
+* Placebo effect
+* Social facilitation
+* Stereotype threat
+* Novelty effect
+* Demand characteristics
+
+==References==
+
+== External links ==
+*The Hawthorne, Pygmalion, placebo and other expectancy effects: some notes, by Stephen W. Draper, Department of Psychology, University of Glasgow.
+*BBC Radio 4: Mind Changers: The Hawthorne Effect
+*Harvard Business School and the Hawthorne Experiments (1924–1933), Harvard Business School.
+
+

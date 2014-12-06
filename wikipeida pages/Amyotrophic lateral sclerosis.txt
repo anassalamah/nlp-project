@@ -1,0 +1,219 @@
+[[Amyotrophic lateral sclerosis]]
+
+Amyotrophic lateral sclerosis (ALS)—also referred to as motor neurone disease (MND), Charcot disease, and, in the United States, Lou Gehrig's disease—is a neurodegenerative disease with various causes. It is characterised by muscle spasticity, rapidly progressive weakness due to muscle atrophy, difficulty in speaking (dysarthria), swallowing (dysphagia), and breathing (dyspnea). ALS is the most common of the five motor neuron diseases.
+
+==Signs and symptoms==
+The disorder causes muscle weakness and atrophy throughout the body due to the degeneration of the upper and lower motor neurons. Individuals affected by the disorder may ultimately lose the ability to initiate and control all voluntary movement, although bladder and bowel function and the muscles responsible for eye movement are usually spared until the final stages of the disease. 
+
+Cognitive function is generally spared for most patients, although some (about 5%) also develop frontotemporal dementia. A higher proportion of patients (30–50%) also have more subtle cognitive changes which may go unnoticed, but are revealed by detailed neuropsychological testing. Infrequently ALS coexists in individuals who also experience dementia, degenerative muscle disease, and degenerative bone disease as part of a syndrome called multisystem proteinopathy. Sensory nerves and the autonomic nervous system are generally unaffected, meaning the majority of people with ALS will maintain hearing, sight, touch, smell, and taste. http://www.ninds.nih.gov/disorders/amyotrophiclateralsclerosis/ 
+
+===Initial symptoms===
+The earliest symptoms of ALS are typically obvious weakness and/or muscle atrophy. Other presenting symptoms include trouble swallowing, cramping, or stiffness of affected muscles; muscle weakness affecting an arm or a leg; and/or slurred and nasal speech. The parts of the body affected by early symptoms of ALS depend on which motor neurons in the body are damaged first. About 75% of people contracting the disease experience "limb onset" ALS, i.e., first symptoms in the arms or legs. Patients with the leg onset form may experience awkwardness when walking or running or notice that they are tripping or stumbling, often with a "dropped foot" which drags gently along the ground. Arm-onset patients may experience difficulty with tasks requiring manual dexterity such as buttoning a shirt, writing, or turning a key in a lock. Occasionally, the symptoms remain confined to one limb for a long period of time or for the whole length of the illness; this is known as monomelic amyotrophy.
+
+About 25% of cases are "bulbar onset" ALS. These patients first notice difficulty speaking clearly or swallowing. Speech may become slurred, nasal in character, or quieter. Other symptoms include difficulty swallowing and loss of tongue mobility. A smaller proportion of patients experience "respiratory onset" ALS, where the intercostal muscles that support breathing are affected first. A small proportion of patients may also present with what appears to be frontotemporal dementia, but later progresses to include more typical ALS symptoms.
+
+Over time, patients experience increasing difficulty moving, swallowing (dysphagia), and speaking or forming words (dysarthria). Symptoms of upper motor neuron involvement include tight and stiff muscles (spasticity) and exaggerated reflexes (hyperreflexia) including an overactive gag reflex. An abnormal reflex commonly called Babinski's sign also indicates upper motor neuron damage. Symptoms of lower motor neuron degeneration include muscle weakness and atrophy, muscle cramps, and fleeting twitches of muscles that can be seen under the skin (fasciculations). Around 15–45% of patients experience pseudobulbar affect, a neurological disorder also known as "emotional lability", which consists of uncontrollable laughter, crying or smiling, attributable to degeneration of bulbar upper motor neurons resulting in exaggeration of motor expressions of emotion. To be diagnosed with ALS, patients must have signs and symptoms of both upper and lower motor neuron damage that cannot be attributed to other causes.
+
+===Progression===
+Although the order and rate of symptoms varies from person to person, eventually most patients are not able to walk or use their hands and arms. They also lose the ability to speak and swallow food, whilst most end on a portable ventilator, called a BiPAP. The rate of progression can be measured using an outcome measure called the "ALS Functional Rating Scale Revised (ALSFRS-R)", a 12-item instrument administered as a clinical interview or patient-reported questionnaire that produces a score between 48 (normal function) and 0 (severe disability). Though there is a high degree of variability and a small percentage of patients have much slower disease, on average, patients lose about 0.9 FRS point per month. A survey-based study amongst clinicians showed that they rated a 20% change in the slope of the ALSFRS-R would be clinically meaningful. Regardless of the part of the body first affected by the disease, muscle weakness and atrophy spread to other parts of the body as the disease progresses. In limb-onset ALS, symptoms usually spread from the affected limb to the opposite limb before affecting a new body region, whereas in bulbar-onset ALS symptoms typically spread to the arms before the legs.
+
+Disease progression tends to be slower in patients who are younger than 40 at onset, in amyotrophic lateral s... [Srp Arh Celok Lek. 1997 Jan-Feb&#93; - PubMed - NCBI are mildly obese, [http://hms.harvard.edu/news/mild-obesity-appears-improve-survival-als-patients-5-24-11 Mild Obesity Appears to Improve Survival in ALS Patients | HMS have disease restricted primarily to one limb, and those with primarily upper motor neuron symptoms. Conversely, progression is faster and prognosis poorer in patients with bulbar-onset disease, respiratory-onset disease, and frontotemporal dementia. 
+
+CX3CR1 allelic variants have also been shown to modify the survival time and the progression of patients. 
+
+===Late stages===
+Difficulty in chewing and swallowing makes eating very difficult and increases the risk of choking or of aspirating food into the lungs. In later stages of the disease, aspiration pneumonia can develop, and maintaining a healthy weight can become a significant problem that may require the insertion of a feeding tube. As the diaphragm and intercostal muscles of the rib cage that support breathing weaken, measures of lung function such as vital capacity and inspiratory pressure diminish. In respiratory onset ALS, this may occur before significant limb weakness is apparent. External ventilation machines that use the ventilation mode of bilevel positive airway pressure (BiPAP) are frequently used to support breathing, initially at night, and later during the daytime as well. The use of BPAP (more often referred to as non-invasive ventilation, NIV) is only a temporary remedy, however, and it is recommended that long before BPAP stops being effective, patients should decide whether to have a tracheotomy and long term mechanical ventilation. At this point, some patients choose palliative hospice care. Most people with ALS die of respiratory failure or pneumonia.
+
+Although respiratory support can ease problems with breathing and prolong survival, it does not affect the progression of ALS. Most people with ALS die from respiratory failure, usually within three to five years from the onset of symptoms. The median survival time from onset to death is around 39 months, and only 4% survive longer than 10 years. Physicist Stephen Hawking has lived with the disease for more than 50 years, though he is an unusual case. 
+
+In late stages the oculomotor nerve that controls the movements of the eye, can be affected as can the extraocular muscles. The eye movements remain unaffected largely until the later stages due to differences in the extraocular muscles compared to the skeletal muscles that are initially and readily affected.
+
+==Extraocular and skeletal motor units==
+
+Despite sharing fixed sequences of recruitment, extraocular muscles (EOMs) and skeletal muscles exhibit different characteristics. The following are characteristics of EOMs that differ from skeletal motor units. Kandel ER, Schwartz JH, Jessell TM. Principles of Neural Science. McGraw-Hill; 2000 
+*one neural fiber connects with only 1 or 2 muscle fibers
+*no ocular stretch reflexes, despite being rich in muscle spindles
+*no recurrent inhibition
+*no special fast-twitch or slow-twitch muscles
+*all eye motor neurons participate equally in all types of eye movements—not specialized for saccades or smooth pursuit
+
+There are also noted differences between healthy and affected EOMs. EOMs from postmortem donors preserved their cytoarchitecture, as compared to limb muscles. Healthy EOMs consist of a central global layer (GL) facing the globe and a thin orbital layer (OL) facing the walls of the orbit. Ahmadi M, Liu JX, Brännström T, Andersen PM, Stål P, Pedrosa-Domellöf F. Human extraocular muscles in ALS. Invest Ophthalmol Vis Sci. 2010;51(7):3494-501 EOMs affected by ALS preserve the GL and OL organization. EOMs possess the neurotrophic factors brain-derived neurotrophic factor (BDNF) and glial cell line-derived neurotrophic factor (GDNF), and these neuroprotective factors are also preserved in EOMs affected by ALS. Laminin is a structural protein typically found in the neuromuscular junction (NMJ). Lnα4 is a laminin isoform that is a hallmark of skeletal muscle NMJs. Liu JX, Brännström T, Andersen PM, Pedrosa-Domellöf F. Different Impact of ALS on Laminin Isoforms in Human Extraocular Muscles Versus Limb Muscles. Invest Ophthalmol Vis Sci. 2011 Patients with ALS showed preserved Lnα4 expression in EOM NMJs, but this expression was non-existent in limb muscle NMJs from the same patients. Preservation of laminin expression may play a role in preserving EOM integrity in ALS patients. Patients with sporadic ALS (sALS) have increased levels of intracelluar calcium, causing increased neurotransmitter release. Mosier DR, Siklós L, Appel SH. Resistance of extraocular motoneuron terminals to effects of amyotrophic lateral sclerosis sera. Neruology. 2000;54(1):252-5 Passive transfer of sera from sALS patients increases spontaneous transmitter release in spinal but not EOM terminals; therefore, it is assumed that EOMs are resistant to changes in physiologic conditions typically found in ALS.
+
+However, some effects of disease were noted. EOMs affected by ALS had a larger variation in fiber size compared to those in age-matched healthy controls. EOMs exhibited both clustered and scattered atrophic and hypertrophic fibers that are characteristic of disease; however, these muscles showed significantly less damage compared to limb muscles from the same donors. These EOMs also showed an increase in connective tissue and areas of fatty replacement in compensation of fiber loss and atrophy. Ophthalmoplegia, a loss of neurons in and around the ocular motor nuclei, has been noted in ALS patients. Cohen B, Caroscio J. Eye movements in amyotrophic lateral sclerosis. J Neural Transm Suppl. 1983;19:305-15 Additionally, there was altered myosin heavy chain content of the EOM fibers, with a loss of normal expression of MyHCslow tonic in the GL and the OL did not contain MyHCemb, which is normally expressed in this layer. This change may represent a change in innervation pattern that may include reinnervation by a different type of motor neuron or loss of multiple innervations. Changes in MyHCslow and MyHCemb are the only fiber changes seen in EOMs, leaving the EOM fiber composition relatively normal. Because EOMs are normally highly innervated, any denervation, is compensated for by neighbouring axons which preserve function. 
+
+===Eye movement impairment===
+Patients with ALS may have difficulty in generating voluntary saccades, fast movements of the eye. Saccade velocity is significantly slower in patients with ALS. Problems in generating smooth pursuit and convergence movements have also been noted in patients with ALS.< Testing the vestibulo-ocular reflex (VOR) should help in identifying these deficits in ALS patients. Electrooculography (EOG) is a technique that measures the resting potential of the retina. EOG findings in patients with ALS show progressive changes that correlate with disease progression, and provide a measurement for clinically evaluating the effects of disease progression on oculomotor activity. Additionally, EOG may allow earlier, subclinical, detection of oculomotor abnormalities in patients with ALS.
+
+The embryonic lineage of EOMs differs from that of somite-derived muscles. EOMs are unique because they continuously remodel through life and maintain a population of active satellite cells during aging. EOMs have significantly more myogenic precursor cells than limb skeletal muscles. 
+
+===Roles of lactate and cinnamate===
+Lactic acid is an end product of glycolysis and is known to cause muscle fatigue. Lactate dehydrogenase (LDH) is an enzyme that exerts its effects bidirectionally and is able to oxidize lactate into pyruvate so it can be used in the Kreb's Cycle. In EOM, lactate sustains muscle contraction during increased activity levels. EOM that have high LDH activity are thought to be resistant to ALS. 
+
+Cinnamate is a blocker of lactate transport and exogenous lactate on fatigue resistance. Cinnamate is able to cause fatigue in EOM, while decreasing EOM endurance and residual force; however, cinnamate has no effect on extensor digitorum longus muscle, a muscle in the leg. In contrast, replacing glucose with exogenous lactate increases fatiguability of EDL muscles but not EOM. Fatiguability in EOM was only found when a combination of exogenous lactacte plus cinnamate replaced glucose. 
+
+==Causes==
+
+===Genetics===
+
+There is a known hereditary factor in familial ALS, where the condition is known to run in families. A defect on chromosome 21, which codes for superoxide dismutase, is associated with approximately 20% of familial cases of ALS, or about 2% of ALS cases overall. This mutation is believed to be transmitted in an autosomal dominant manner, and has over a hundred different forms of mutation. The most common ALS-causing mutation is a mutant SOD1 gene, seen in North American patients; this is characterized by an exceptionally rapid progression from onset to death. The most common mutation found in Scandinavian countries, D90A-SOD1, is more slowly progressive than typical ALS and patients with this form of the disease survive for an average of 11 years. 
+
+In 2011, a genetic abnormality known as a hexanucleotide repeat was found in a region called C9orf72, which is associated with ALS combined with frontotemporal dementia ALS-FTD, and accounts for some 6% of cases of ALS among white Europeans. 
+
+The world's largest genetic study, called project MinE, initiated by two ALS patients is currently ongoing. It is a crowdfunded research project with many countries involved to discover more genes. Press release project MinE, june 21st 2013 : https://projectmine.com/contents/uploads/press-release-project-mine-21-06-2013.pdf 
+
+To date, a number of genetic mutations have been associated with various types of ALS. The currently known associations are as follows:
+
+ Type OMIM Gene Locus Remarks 
+ ALS1 SOD1 21q22.1 The most common form of familial ALS 
+ ALS2 ALS2 2q33.1 
+ ALS3 ? 18q21 
+ ALS4 SETX 9q34.13 
+ ALS5 ? 15q15.1–q21.1 Juvenile onset 
+ ALS6 FUS 16p11.2 
+ ALS7 ? 20p13 
+ ALS8 VAPB 20q13.3 
+ ALS9 ANG 14q11.2 
+ ALS10 TARDBP 1p36.2 
+ ALS11 FIG4 6q21 
+ ALS12 OPTN 10p13 
+ ALS13 ATXN2 12q24.12 
+ ALS14 VCP 9p13.3 recent new study shows strong link in ALS mechanism 
+ ALS15 UBQLN2 Xp11.23–p11.1 Described in one family 
+ ALS16 SIGMAR1 9p13.3 Juvenile onset, very rare, described only in one family 
+ ALS17 CHMP2B 3p11 Very rare, reported only in a handful of patients 
+ ALS18 PFN1 17p13.3 Very rare, described only in a handful of Chinese families 
+ ALS19 ERBB4 2q34 Very rare, as of late 2013 described only in four patients 
+ ALS20 HNRNPA1 12q13 Very rare, as of late 2013 described only in two patients 
+ ALS-FTD C9orf72 9p21.2 Accounts for around 6% of ALS cases among white Europeans 
+
+====SOD1====
+The precise cause of ALS is still not known, though a first important step toward determining the cause came in 1993 when scientists discovered that mutations in the gene that produces the Cu/Zn superoxide dismutase (SOD1) enzyme were associated with some cases (approximately 20%) of familial ALS. This enzyme is a powerful antioxidant that protects the body from damage caused by superoxide, a toxic free radical generated in the mitochondria. Free radicals are highly reactive molecules produced by cells during normal metabolism. Free radicals can accumulate and cause damage to both mitochondrial and nuclear DNA and proteins within cells. To date, over 110 different mutations in SOD1 have been linked with the disease, some of which have a very long clinical course (e.g. H46R), while others, such as A4V, being exceptionally aggressive. Evidence suggests that failure of defenses against oxidative stress up-regulates programmed cell death (apoptosis), among many other possible consequences. Although it is not yet clear how the SOD1 gene mutation leads to motor neuron degeneration, researchers have theorized that an accumulation of free radicals may result from the faulty functioning of this gene. Current research, however, indicates that motor neuron death is not likely a result of lost or compromised dismutase activity, suggesting mutant SOD1 induces toxicity in some other way (a gain of function). 
+
+Studies involving transgenic mice have yielded several theories about the role of SOD1 in mutant SOD1 familial amyotrophic lateral sclerosis. Mice lacking the SOD1 gene entirely do not customarily develop ALS, although they do exhibit an acceleration of age-related muscle atrophy (sarcopenia) and a shortened lifespan (see article on superoxide dismutase). This indicates that the toxic properties of the mutant SOD1 are a result of a gain in function rather than a loss of normal function. In addition, aggregation of proteins has been found to be a common pathological feature of both familial and sporadic ALS (see article on proteopathy). Interestingly, in mutant SOD1 mice (most commonly, the G93A mutant), aggregates (misfolded protein accumulations) of mutant SOD1 were found only in diseased tissues, and greater amounts were detected during motor neuron degeneration. It is speculated that aggregate accumulation of mutant SOD1 plays a role in disrupting cellular functions by damaging mitochondria, proteasomes, protein folding chaperones, or other proteins. Any such disruption, if proven, would lend significant credibility to the theory that aggregates are involved in mutant SOD1 toxicity. Critics have noted that in humans, SOD1 mutations cause only 2% or so of overall cases and the etiological mechanisms may be distinct from those responsible for the sporadic form of the disease. To date, the ALS-SOD1 mice remain the best model of the disease for preclinical studies but it is hoped that more useful models will be developed.
+
+There is an online database available which was designed to provide both the scientific community and the wider public with up-to-date information on ALS genetics. This is known as ALSOD - website originally designed for the SOD1 gene in 1999, but since upgraded to include over 40 ALS-related genes.
+
+===Other factors===
+Where no family history of the disease is present – i.e., in around 90% of cases – there is no known cause for ALS. Potential causes for which there is inconclusive evidence includes head trauma, military service, and participation in contact sports. More recently, some research has suggested that there may be a link between ALS and food contaminated by blue-green algae. 
+
+Studies also have focused on the role of glutamate in motor neuron degeneration. Glutamate is one of the chemical messengers or neurotransmitters in the brain. Scientists have found that, compared to healthy people, ALS patients have higher levels of glutamate in the serum and spinal fluid. Riluzole is currently the only FDA approved drug for ALS and targets glutamate transporters. It only has a modest effect on survival, however, suggesting that excess glutamate is not the sole cause of the disease.
+
+Certain studies suggested a link between sporadic ALS, specifically in athletes, and a diet enriched with branched-chain amino acids. BCAAs, a common dietary supplement among athletes, cause cell hyper-excitability resembling that usually observed in ALS patients. The proposed underlying mechanism is that cell hyper-excitability results in increased calcium absorption by the cell and thus brings about cell death of neuronal cells, which have particularly low calcium buffering capabilities. 
+
+ 
+ 
+
+There is evidence that superoxide dismutase 1 (SOD1) protein misfolding propagates between molecules in a similar fashion to prions. 
+
+Another very common cause of ALS is a lesion to the motor system in areas such as the frontotemporal lobes. Rosenbohm, A., Kassubek, J., Weydt, P., Marroquin, N., Volk, A., Kubisch, C., Huppertz, H., & Weber, M. (2014). Can lesions to the motor cortex induce amyotrophic lateral sclerosis? . J Neurol, 261, 283-290. Lesions in these areas often show signs of early deficit, which can be used to predict the loss of motor function, and result in the spread of ALS. The mechanisms of ALS are present long before any signs or symptoms become apparent. Walling, A. (1999). Amyotrophic lateral sclerosis: Lou Gehrig's disease. American Family Physician, 59(6), 1489-96. It is estimated that before any muscular atrophy becomes apparent during ALS, roughly one-third of the motor neurons must be destroyed. 
+
+Many other potential causes, including chemical exposure, electromagnetic field exposure, occupation, physical trauma, and electric shock, have been investigated but without consistent findings. 
+
+==Pathophysiology==
+The defining feature of ALS is the death of both upper and lower motor neurons in the motor cortex of the brain, the brain stem, and the spinal cord. Prior to their destruction, motor neurons develop protein-rich inclusions in their cell bodies and axons. This may be partly due to defects in protein degradation. These inclusions often contain ubiquitin, and generally incorporate one of the ALS-associated proteins: SOD1, TAR DNA binding protein (TDP-43, or TARDBP), or FUS.
+
+==Diagnosis==
+No test can provide a definite diagnosis of ALS, although the presence of upper and lower motor neuron signs in a single limb is strongly suggestive. Instead, the diagnosis of ALS is primarily based on the symptoms and signs the physician observes in the patient and a series of tests to rule out other diseases. Physicians obtain the patient's full medical history and usually conduct a neurologic examination at regular intervals to assess whether symptoms such as muscle weakness, atrophy of muscles, hyperreflexia, and spasticity are getting progressively worse.
+
+MRI (axial FLAIR) demonstrates increased T2 signal within the posterior part of the internal capsule, consistent with the clinical diagnosis of ALS.
+Because symptoms of ALS can be similar to those of a wide variety of other, more treatable diseases or disorders, appropriate tests must be conducted to exclude the possibility of other conditions. One of these tests is electromyography (EMG), a special recording technique that detects electrical activity in muscles. Certain EMG findings can support the diagnosis of ALS. Another common test measures nerve conduction velocity (NCV). Specific abnormalities in the NCV results may suggest, for example, that the patient has a form of peripheral neuropathy (damage to peripheral nerves) or myopathy (muscle disease) rather than ALS. The physician may order magnetic resonance imaging (MRI), a noninvasive procedure that uses a magnetic field and radio waves to take detailed images of the brain and spinal cord. Although these MRI scans are often normal in patients with ALS, they can reveal evidence of other problems that may be causing the symptoms, such as a spinal cord tumor, multiple sclerosis, a herniated disk in the neck, syringomyelia, or cervical spondylosis.
+
+Based on the patient's symptoms and findings from the examination and from these tests, the physician may order tests on blood and urine samples to eliminate the possibility of other diseases as well as routine laboratory tests. In some cases, for example, if a physician suspects that the patient may have a myopathy rather than ALS, a muscle biopsy may be performed.
+
+Infectious diseases such as human immunodeficiency virus (HIV), human T-cell leukaemia virus (HTLV), Lyme disease, syphilis and tick-borne encephalitis viruses can in some cases cause ALS-like symptoms. Neurological disorders such as multiple sclerosis, post-polio syndrome, multifocal motor neuropathy, CIDP, spinal muscular atrophy and spinal and bulbar muscular atrophy (SBMA) can also mimic certain facets of the disease and should be considered by physicians attempting to make a diagnosis.
+
+ALS must be differentiated from the "ALS mimic syndromes" which are unrelated disorders that may have a similar presentation and clinical features to ALS or its variants. Because of the prognosis carried by this diagnosis and the variety of diseases or disorders that can resemble ALS in the early stages of the disease, patients should always obtain a specialist neurological opinion, so that alternative diagnoses are clinically ruled out.
+
+However, most cases of ALS are readily diagnosed and the error rate of diagnosis in large ALS clinics is less than 10%. In one study, 190 patients who met the MND / ALS diagnostic criteria, complemented with laboratory research in compliance with both research protocols and regular monitoring. Thirty of these patients (16%) had their diagnosis completely changed, during the clinical observation development period. In the same study, three patients had a false negative diagnoses, myasthenia gravis (MG), an auto-immune disease. MG can mimic ALS and other neurological disorders leading to a delay in diagnosis and treatment. MG is eminently treatable; ALS is not. Myasthenic syndrome, also known as Lambert-Eaton syndrome (LES), can mimic ALS and its initial presentation can be similar to that of MG. 
+
+Current research focuses on abnormalities of neuronal cell metabolism involving glutamate and the role of potential neurotoxins and neurotrophic factors. 
+ 
+
+==Management==
+Riluzole (Rilutek) is the only treatment that has been found to improve survival but only to a modest extent. It lengthens survival by several months, and may have a greater survival benefit for those with a bulbar onset. It also extends the time before a person needs ventilation support. Riluzole does not reverse the damage already done to motor neurons, and people taking it must be monitored for liver damage (occurring in ~10% of people taking the drug). It is approved by Food and Drug Administration (FDA) and recommended by the National Institute for Clinical Excellence (NICE).
+
+Other treatments for ALS are designed to relieve symptoms and improve the quality of life for patients. This supportive care is best provided by multidisciplinary teams of health care professionals working with patients and caregivers to keep patients as mobile and comfortable as possible.
+
+===Medications===
+Medications may be used to help reduce fatigue, ease muscle cramps, control spasticity, and reduce excess saliva and phlegm. Drugs also are available to help patients with pain, depression, sleep disturbances, dysphagia, and constipation. Baclofen and diazepam are often prescribed to control the spasticity caused by ALS, and trihexyphenidyl or amitriptyline may be prescribed when ALS patients begin having trouble swallowing their saliva. 
+
+===Therapy===
+Physical therapists and occupational therapists play a large role in rehabilitation for individuals with ALS. Specifically, physical and occupational therapists can set goals and promote benefits for individuals with ALS by delaying loss of strength, maintaining endurance, limiting pain, preventing complications, and promoting functional independence. 
+
+Occupational therapy and special equipment such as assistive technology can also enhance patients' independence and safety throughout the course of ALS. Gentle, low-impact aerobic exercise such as performing activities of daily living (ADL's), walking, swimming, and stationary bicycling can strengthen unaffected muscles, improve cardiovascular health, and help patients fight fatigue and depression. Range of motion and stretching exercises can help prevent painful spasticity and shortening (contracture) of muscles. Physical and occupational therapists can recommend exercises that provide these benefits without overworking muscles. They can suggest devices such as ramps, braces, walkers, bathroom equipment (shower chairs, toilet risers, etc.) and wheelchairs that help patients remain mobile. Occupational therapists can provide or recommend equipment and adaptations to enable people to retain as much safety and independence in activities of daily living as possible.
+
+ALS patients who have difficulty speaking may benefit from working with a speech-language pathologist. These health professionals can teach patients adaptive strategies such as techniques to help them speak louder and more clearly. As ALS progresses, speech-language pathologists can recommend the use of augmentative and alternative communication such as voice amplifiers, speech-generating devices (or voice output communication devices) and/or low tech communication techniques such as alphabet boards or yes/no signals.
+
+===Nutrition===
+Patients and caregivers can learn from speech-language pathologists and nutritionists how to plan and prepare numerous small meals throughout the day that provide enough calories, fiber, and fluid and how to avoid foods that are difficult to swallow. Patients may begin using suction devices to remove excess fluids or saliva and prevent choking. Occupational therapists can assist with recommendations for adaptive equipment to ease the physical task of self-feeding. Speech language pathologists make food choice recommendations that are more conducive to their unique deficits and abilities. When patients can no longer get enough nourishment from eating, doctors may advise inserting a feeding tube into the stomach. The use of a feeding tube also reduces the risk of choking and pneumonia that can result from inhaling liquids into the lungs. The tube is not painful and does not prevent patients from eating food orally if they wish.
+
+Researchers have stated that "ALS patients have a chronically deficient intake of energy and recommended augmentation of energy intake" and that patients suffer from a severe loss of appetite. Both animal and human research suggest that ALS patients should be encouraged to consume as many calories as possible and not to restrict their calorie intake. As of 2012 there remained "a lack of robust evidence for interventions" for the management of weight loss. 
+
+Fruits and vegetables containing carotenoids.
+
+Research has found that people who ate fruits and vegetables containing carotenoids, an oxidative compound strengthen immune system response, had reduced chance of developing ALS. Argiroplis, Krista. "New Research: Eating More Fruits and Veggies Can Lower ALS Risk."Breakthrough ALS. Living with ALS, 18 Sep 2013. Web. 18 Feb 2014. . There are three primary carotenoids that act as oxidative compounds called beta-carotene, lycopene, and lutein found in fruits and vegetables each found in different foods like carrots, watermelon, and tomatoes. "Argiroplis">. 
+
+===Breathing support===
+When the muscles that assist in breathing weaken, use of ventilatory assistance (intermittent positive pressure ventilation (IPPV), bilevel positive airway pressure (BiPAP), or biphasic cuirass ventilation (BCV) may be used to aid breathing. Such devices artificially inflate the patient's lungs from various external sources that are applied directly to the face or body. When muscles are no longer able to maintain oxygen and carbon dioxide levels, these devices may be used full-time. BCV has the added advantage of being able to assist in clearing secretions by using high-frequency oscillations followed by several positive expiratory breaths. Patients may eventually consider forms of mechanical ventilation (respirators) in which a machine inflates and deflates the lungs. To be effective, this may require a tube that passes from the nose or mouth to the windpipe (trachea) and for long-term use, an operation such as a tracheotomy, in which a plastic breathing tube is inserted directly in the patient's windpipe through an opening in the neck.
+
+Patients and their families should consider several factors when deciding whether and when to use one of these options. Ventilation devices differ in their effect on the patient's quality of life and in cost. Although ventilation support can ease problems with breathing and prolong survival, it does not affect the progression of ALS. Patients need to be fully informed about these considerations and the long-term effects of life without movement before they make decisions about ventilation support. Some patients under long-term tracheotomy intermittent positive pressure ventilation with deflated cuffs or cuffless tracheotomy tubes (leak ventilation) are able to speak, provided their bulbar muscles are strong enough. This technique preserves speech in some patients with long-term mechanical ventilation. Other patients may be able to utilize a speaking valve such as a Passey-Muir Speaking Valve with the assistance and guidance of a speech-language pathologist.
+
+===Palliative care===
+Social workers and home care and hospice nurses help patients, families, and caregivers with the medical, emotional, and financial challenges of coping with ALS, particularly during the final stages of the disease. Social workers provide support such as assistance in obtaining financial aid, arranging durable power of attorney, preparing a living will, and finding support groups for patients and caregivers. Home nurses are available not only to provide medical care but also to teach caregivers about tasks such as maintaining respirators, giving feedings, and moving patients to avoid painful skin problems and contractures. Home hospice nurses work in consultation with physicians to ensure proper medication, pain control, and other care affecting the quality of life of patients who wish to remain at home. The home hospice team can also counsel patients and caregivers about end-of-life issues.
+
+==Epidemiology==
+ALS is one of the most common neuromuscular diseases worldwide, and people of all races and ethnic backgrounds are affected. One or two out of 100,000 people develop ALS each year. Amyotrophic lateral sclerosis affects approximately 30,000 Americans. ALS cases are estimated at 1.2-4.0 per 100,000 individuals in Caucasian populations with a lower rate in other ethnic populations. Gordon, Paul. “Amyotrophic Lateral Sclerosis. Pathophysiology, Diagnosis and Management.” CNS Drugs, 25.1 (2011):1-15. ALS most commonly strikes people between 40 and 60 years of age, but younger and older people can also develop the disease. Men are affected slightly more often than women.
+
+Although the incidence of ALS is thought to be regionally uniform, there are three regions in the West Pacific where there has in the past been an elevated occurrence of ALS. This seems to be declining in recent decades. The largest is the area of Guam inhabited by the Chamorro people, who have historically had a high incidence (as much as 143 cases per 100,000 people per year) of a condition called Lytico-Bodig disease which is a combination of symptoms similar to ALS, parkinsonism, and dementia. Lytico-Bodig disease has been linked to the consumption and topical use of cycad seeds and in particular, the chemical found in cycad seeds, β-methylamino-L-alanine (BMAA). Two more areas of increased incidence are West Papua and the Kii Peninsula of Japan, both with topical cycad seed use. 
+
+Although there have been reports of several "clusters" including three American football players from the San Francisco 49ers, more than fifty association football players in Italy, three association football-playing friends in the south of England, and reports of conjugal (husband and wife) cases in the south of France, these are statistically plausible chance events. Although many authors consider ALS to be caused by a combination of genetic and environmental risk factors, so far the latter have not been firmly identified, other than a higher risk with increasing age.
+
+==History==
+
++Timeline Year Event 
+ 1850 English scientist Augustus Waller describes the appearance of shriveled nerve fibers 
+ 1869 Charcot first describes ALS in scientific literature 
+ 1874 French doctor Jean-Martin Charcot writes a report about ALS. 
+ 1881 \"Amyotrophic Lateral Sclerosis\" is translated into English and published in a three-volume edition of Lectures on the Diseases of the Nervous System 
+ 1939 ALS becomes a cause célèbre in the United States when baseball legend Lou Gehrig's career—and, two years later, his life—is ended by the disease. He gives his farewell speech on 4 July 1939. 
+ 1950s ALS epidemic occurs among the Chamorro people on Guam 
+ 1991 Researchers link chromosome 21 to FALS (Familial ALS) 
+ 1993 SOD1 gene on chromosome 21 found to play a role in some cases of FALS 
+ 1996 Rilutek becomes the first FDA-approved drug for ALS 
+ 1998 The El Escorial criteria is developed as the standard for classifying ALS patient in clinical research 
+ 1999 The revised ALS Functional Rating Scale (ALSFRS-R) is published and soon becomes a gold standard measure for rating decline in ALS patient in clinical research 
+ 2011 Noncoding repeat expansions in C9ORF72 are found to be a major cause of ALS and frontotemporal dementia 
+
+===Etymology===
+Amyotrophic comes from the Greek language: A- means "no", myo refers to "muscle", and trophic means "nourishment"; amyotrophic therefore means "no muscle nourishment," which describes the characteristic atrophy of the sufferer's disused muscle tissue. Lateral identifies the areas in a person's spinal cord where portions of the nerve cells that are affected are located. As this area degenerates it leads to scarring or hardening ("sclerosis") in the region.
+
+==Clinical research==
+A number of clinical trials are underway globally for ALS; a comprehensive listing of trials in the US can be found at ClinicalTrials.gov.
+
+A phase II trial on tirasemtiv has been completed with a follow-on Phase IIb study in progress under the name "BENEFIT-ALS". Results of the first study are available here. http://www.cytokinetics.com/pdf/2013-MDA_Jinsy.pdf The current trial is an international, placebo-controlled, multi-center study on 680 participants. This makes it one of the largest studies to date. A phase II trial on Ozanezumab is in progress. It is a large multi-site international research project sponsored by GlaxoSmithKline (GSK).
+
+A phase II clinical trial is being conducted by BrainStorm Cell Therapeutics at the Hadassah Medical Center in Israel and interim results "demonstrated a tendency toward stabilization in some parameters in the ALS Functional Rating Scale." Patients in the trial have bone marrow stem cells removed and differentiated in a clean room into cells that express neurotropic factors. The cells are injected back into the same patient via an intrathecal injection and intramuscular injections. A second phase II trial is expected to open in the United States at several institutions including the Mayo Clinic. 
+
+==See also==
+* ALS Association
+* ALS Society of Canada
+* ALS Therapy Development Institute
+* Motor Neurone Disease Association
+* Muscular Dystrophy Association
+
+==References==
+
+==Further reading==
+
+* 
+* 
+* 
+
+* http://www.feinberg.northwestern.edu/news/2011/2011E-August/ALS_Breakthrough.html
+
+==External links==
+
+*ALSOD
+* Medline Plus article on ALS
+
+

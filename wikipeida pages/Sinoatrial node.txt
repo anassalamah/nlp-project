@@ -1,0 +1,61 @@
+[[Sinoatrial node]]
+
+The sinoatrial node (also commonly spelled sinuatrial node, abbreviated SA node or SAN, also called the sinus node) is the impulse-generating (pacemaker) tissue located in the right atrium of the heart, and thus the generator of normal sinus rhythm. 
+
+==Structure==
+The sinoatrial node is a group of cells positioned on the wall of the right atrium, near the entrance of the superior vena cava. These cells are specialized cardiomyocytes. Though they possess some contractile filaments, they do not contract robustly.
+
+===Histology===
+High magnification micrograph of sinoatrial node tissue and an adjacent nerve fibre. H&E stain.
+
+The sinoatrial node is submyocardial at the lateral aspect of the junction of the superior vena cava and right atrium. Its deep aspect abuts cardiac myocytes belonging to the right atrium. Its superficial aspect is covered by adipose tissue. The SA node fibres vaguely resemble cardiac myocytes; however, they are measurably thinner, more tortuous and stain less intensely (on H&E) than cardiac myocytes.
+
+===Innervation===
+The SA node is richly innervated by parasympathetic nervous system fibers (CN X: Vagus Nerve) and by sympathetic nervous system fibers (T1-4, Spinal Nerves). This unique anatomical arrangement makes the SA node susceptible to distinctly paired and opposed autonomic influences. 
+* Stimulation of the vagus nerves (the parasympathetic fibers) causes a decrease in the SA node rate (thereby decreasing the heart rate). Parasympathetic fibers cannot change the force of contraction, however, because they only innervate the SA node and AV node (which control heart rate only)***(NOTE: This statement is not entirely accurate. The following study: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2278718/ demonstrates how the parasympathetic nervous system, through the action of vagus nerve, exerts a negative inotropic effect upon the heart)
+* Stimulation via sympathetic fibers causes an increase in the SA node rate (thereby increasing the heart rate and force of contraction). Sympathetic fibers can increase the force of contraction because in addition to innervating the SA and AV nodes, they innervate the atria and ventricles themselves.
+
+===Blood supply===
+The SA node receives blood supply from the SA node artery (ramus nodi sinuatrialis). Anatomical dissection studies have shown that this supply may be branch of the right coronary artery in the majority (about 60-70%) of hearts, and a branch of the left coronary artery (usually the left circumflex artery) in about 20-30% of hearts. Rarer variants may include blood supply from both right and left coronary arteries or two branches of the right coronary artery. 
+
+==Function==
+
+===Pacemaking===
+Although all of the heart's cells have the ability to generate the electrical impulses (or action potentials) that trigger cardiac contraction, the sinoatrial node normally initiates it, simply because it generates impulses slightly faster than the other areas with pacemaker potential. Cardiomyocytes, like all muscle cells, have refractory periods following contraction during which additional contractions cannot be triggered; their pacemaker potential is overridden by the sinoatrial or atrioventricular nodes.
+ 
+In the absence of extrinsic neural and hormonal control, cells in the sinoatrial node (SA node), situated in the upper right corner of the heart, will naturally discharge (create action potentials) upwards of 100 beats/minute. AnatomySAnode Because the sinoatrial node is responsible for the rest of the heart's electrical activity, it is sometimes called the primary pacemaker.
+
+==Clinical significance==
+Sinus node dysfunction describes an irregular heartbeat caused by faulty electrical signals of the heart. When the heart's sinoatrial node is defective, the heart’s rhythms become abnormal – either too fast, too slow, or a combination. Sinus node dysfunction Mount Sinai Hospital, New York 
+
+Occlusion of the arterial blood supply to the SA node (most commonly due to a myocardial infarction) can therefore cause ischaemia and cell death in the SA node. This can disrupt the electrical pacemaker function of the SA node, and can result in sick sinus syndrome.
+
+If the SA node does not function, or the impulse generated in the SA node is blocked before it travels down the electrical conduction system, a group of cells further down the heart will become the heart's pacemaker. http://emedicine.medscape.com/article/155146-overview These cells form the atrioventricular node (AV node), which is an area between the atria and ventricles, within the atrial septum. If the AV node also fails, Purkinje fibers (or known by some as the bundle of His) are capable of acting as the pacemaker. The reason Purkinje cells do not normally control the heart rate is that they generate action potentials at a lower frequency than the AV or SA nodes.
+
+==History==
+The SAN was first described in 1907 by Arthur Keith and Martin Flack. 
+
+==Additional images==
+
+ Image:Reizleitungssystem 1.png|Heart; conduction system
+ Image:Gray501.png |Schematic representation of the atrioventricular bundle
+
+==See also==
+
+*Cardiology
+**Cardiac pacemaker
+**Electrical conduction system of the heart
+*Heart block
+*Sinus bradycardia
+*Sinus tachycardia
+
+==References==
+
+==External links==
+* 
+* - "The conduction system of the heart."
+* Diagram at gru.net
+* ()
+* http://www.healthyheart.nhs.uk/heart_works/heart03.shtml
+
+

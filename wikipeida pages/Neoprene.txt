@@ -1,0 +1,72 @@
+[[Neoprene]]
+
+A neck seal, wrist seal, manual vent, inflator, zip and fabric of a neoprene dry suit. Here the soft thin rubber-like seal material at neck and wrists is made from non-foam neoprene for elasticity; the blue area is a thin blue knit fabric laminated onto spongy foamed neoprene for insulation.
+
+Chemical structure of the repeating unit of polychloroprene
+Neoprene or polychloroprene is a family of synthetic rubbers that are produced by polymerization of chloroprene. Werner Obrecht, Jean-Pierre Lambert, Michael Happ, Christiane Oppenheimer-Stix, John Dunn and Ralf Krüger "Rubber, 4. Emulsion Rubbers" in Ullmann's Encyclopedia of Industrial Chemistry, 2012, Wiley-VCH, Weinheim. Neoprene exhibits good chemical stability, and maintains flexibility over a wide temperature range. It is used in a wide variety of applications, such as laptop sleeves, orthopedic braces (wrist, knee, etc.), electrical insulation, liquid and sheet applied elastomeric membranes or flashings, and automotive fan belts. 
+
+==Production==
+Neoprene is produced by free-radical polymerization of 2-chlorobutadiene. In commercial production, this polymer is prepared by free radical emulsion polymerization. Polymerization is initiated using potassium persulfate. Bifunctional nucleophiles, metal oxides (e.g. zinc oxide), and thioureas are used to crosslink individual polymer strands. Outside of Russia and China, about 300,000 tons of neoprene are produced annually. 
+
+:400px
+
+Neoprene can be produced in either closed-cell or open-cell form. The closed-cell form is waterproof, less compressible and more expensive. The open-cell form can be breathable. 
+
+ 
+
+==History==
+Neoprene was invented by DuPont scientists on April 17, 1930 after Dr Elmer K. Bolton of DuPont attended a lecture by Fr Julius Arthur Nieuwland, a professor of chemistry at the University of Notre Dame. Nieuwland's research was focused on acetylene chemistry and during the course of his work he produced divinyl acetylene, a jelly that firms into an elastic compound similar to rubber when passed over sulfur dichloride. After DuPont purchased the patent rights from the university, Wallace Carothers of DuPont took over commercial development of Nieuwland's discovery in collaboration with Nieuwland himself. Arnold Collins at DuPont focused on monovinyl acetylene and reacted the substance with hydrogen chloride gas, manufacturing chloroprene. John K. Smith. The Ten-Year Invention: Neoprene and Du Pont Research, 1930–1939. Technology and Culture 26(1):34-55 January 1985 
+
+DuPont first marketed the compound in 1931 under the trade name DuPrene, but its commercial possibilities were limited by the original manufacturing process, which left the product with a foul odor. A new process was developed, which eliminated the odor-causing byproducts and halved production costs, and the company began selling the material to manufacturers of finished end-products. To prevent shoddy manufacturers from harming the product's reputation, the trademark DuPrene was restricted to apply only to the material sold by DuPont. Since the company itself did not manufacture any DuPrene-containing end products, the trademark was dropped in 1937 and replaced with a generic name, neoprene, in an attempt "to signify that the material is an ingredient, not a finished consumer product." DuPont then worked extensively to generate demand for its product, implementing a marketing strategy that included publishing its own technical journal, which extensively publicized neoprene's uses as well as advertising other companies' neoprene-based products. By 1939, sales of neoprene were generating profits over $300,000 for the company. 
+
+==Applications==
+
+===General===
+Neoprene resists degradation more than natural or synthetic rubber. This relative inertness makes it well suited for demanding applications such as gaskets, hoses, and corrosion-resistant coatings. It can be used as a base for adhesives, noise isolation in power transformer installations, and as padding in external metal cases to protect the contents while allowing a snug fit. It resists burning better than exclusively hydrocarbon based rubbers, resulting in its appearance in weather stripping for fire doors and in combat related attire such as gloves and face masks. Because of its tolerance of extreme conditions, neoprene is used to line landfills. Neoprene's burn point is around 260°C (500°F). http://msds.dupont.com/msds/pdfs/EN/PEN_09004a35803d9eb8.pdf 
+
+===Civil engineering===
+Neoprene is used as a load bearing base, usually between two prefabricated reinforced concrete elements or steel plates as well to evenly guide tension from one element to another.
+
+===Aquatics===
+Neoprene is commonly used as a material for fly fishing waders, as it provides excellent insulation against cold. Neoprene waders are usually about 5 mm thick, and in the medium price range as compared to cheaper materials such as nylon and rubber. However, neoprene is less expensive than breathable fabrics. A foamed neoprene containing gas cells is used as an insulation material, most notably in wetsuits. Foamed neoprene is also used in other insulation and shock-protection (packing) applications. In its native state, neoprene is a very pliable rubber-like material, with no better insulating properties than rubber or other solid plastics. For diving and exposure protection applications, neoprene is manufactured by foaming the plastic with nitrogen gas, for the insulation properties of the tiny enclosed and separated gas bubbles (nitrogen is used for chemical convenience, not because it is superior to air as an insulator). The foam cells thus created also make the material quite buoyant, and the diver must compensate for this by wearing weights. Thick wet suits made at the extreme end of their cold water protection are usually made of 7 mm thick neoprene. Since foam neoprene contains gas pockets, the material compresses under water pressure, getting thinner at greater depths; a 7 mm neoprene wet suit offers much less exposure protection under 100 feet of water than at the surface. A recent advance in neoprene for wet suits is the "super-flex" variety, which mixes spandex into the neoprene for greater flexibility.
+
+As a result, wetsuit neoprene sheets are manufactured in different grades dependent on the application. Diving suit neoprene is denser and less flexible; this ensures its durability and reduces compression at depth. Sailing wetsuits are never exposed to large compressive forces and contain more gas, so are warmer for the same thickness. Competitive swimming wetsuits are made of the most expanded foam; they have to be very flexible to allow the swimmer unrestricted movement. The downside is that they are quite fragile.
+
+===Home accessories===
+Recently, neoprene has become a favorite material for lifestyle and other home accessories including laptop sleeves, tablet holders, remote controls and cycling chamois. In this market, it sometimes competes with LRPu (low-resilience polyurethane), which is a sturdier (more impact-resistant) but less-used material.
+
+===Sports===
+Also in recent years, Jug, an after-market inline skate liner manufacturer, have incorporated neoprene into the construction of some of their more popular product-lines, citing that neoprene adds reinforcement (ankle support) and guards against abrasions as few materials do. As a simple matter of durability and product lifespan, liners constructed with neoprene additives are typically more expensive than those that are not.
+
+In the equestrian world, it is used in cinches, saddle pads, bareback pads, and many other applications in all disciplines.
+
+It is often used in Airsoft as a protective garment, as it is thin enough to feel the hit, but thick enough to reduce the impact velocity, thus avoiding breakage of the skin by the pellet.
+
+Training knives and swords are made of Neoprene for safe self-defense instructions, practice, sparring, and martial arts demonstrations.
+
+Used in powerlifting and Olympic lifting. Commonly used are rehband 7mm knee and elbow sleeves. Also they are acceptable support in most powerlifting or strongman federations.
+
+===Music===
+A woman wearing neoprene leggings.
+Musical instrument maker Yamaha uses neoprene. Neoprene is also used for drum practice pads.
+
+===Hydroponic gardening===
+Hydroponic and aerated gardening systems make use of small neoprene inserts to hold plants in place while propagating cuttings, or using net cups. Inserts are relatively small, ranging in size from 1.5" to 5". Neoprene is a good choice for supporting plants because of its flexibility and softness, allowing plants to be held securely in place without the chance of causing damage to the stem. Neoprene root covers also help block out light from entering the rooting chamber of hydroponic systems, allowing for better root growth and to help deter the growth of algae.
+
+===Other===
+Neoprene is used for Halloween masks and masks used for face protection, for insulating CPU sockets, to make waterproof automotive seat covers, in liquid and sheet-applied elastomeric roof membranes or flashings, and in a neoprene-spandex mixture for manufacture of wheelchair positioning harnesses. Because of its chemical resistance and overall durability, neoprene is sometimes used in the manufacture of dishwashing gloves, especially as an alternative to latex. In fashion, neoprene has been used by designers such as Gareth Pugh, Balenciaga, Lanvin and Vera Wang.
+
+==Precautions==
+Some people are allergic to neoprene while others can get dermatitis from thioureas residues left from its production. The most common accelerator in the vulcanization of polychloroprene is ethylene thiourea (ETU), which has been classified as reprotoxic. The European rubber industry project called SafeRubber focuses an alternative to the use of ETU. http://www.saferubber.eu 
+
+Neoprene degrades in the presence of some fairly common chemicals, including hydrochloric acid, acetone, xylene, acetic acid, aqua regia, boric acid, liquid butane, hydrogen peroxide, iodine, kerosine, lacquer, lard, motor oil, nitric acid, palm oil, tallow, turpentine, urine, and most chlorine-based chemicals including household bleach. http://www.fluidproducts.com/PDFs/ChemicalResistance.pdf#page=8&zoom=auto,0,317 
+
+==See also==
+* Isoprene
+
+==References==
+
+==External links==
+*Historical Files on Neoprene are available at Hagley Museum and Library
+
+

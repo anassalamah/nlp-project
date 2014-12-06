@@ -1,0 +1,118 @@
+[[Simple harmonic motion]]
+
+In mechanics and physics, simple harmonic motion is a type of periodic motion where the restoring force is directly proportional to the displacement. It can serve as a mathematical model of a variety of motions, such as the oscillation of a spring. In addition, other phenomena can be approximated by simple harmonic motion, including the motion of a simple pendulum as well as molecular vibration. Simple harmonic motion is typified by the motion of a mass on a spring when it is subject to the linear elastic restoring force given by Hooke's Law. The motion is sinusoidal in time and demonstrates a single resonant frequency. In order for simple harmonic motion to take place, the net force of the object at the end of the pendulum must be proportional to the displacement.
+
+Simple harmonic motion provides a basis for the characterization of more complicated motions through the techniques of Fourier analysis.
+
+==Introduction==
+Simple harmonic motion shown both in real space and phase space. The orbit is periodic. (Here the velocity and position axes have been reversed from the standard convention in order to align the two diagrams)
+
+In the diagram a simple harmonic oscillator, comprising a weight attached to one end of a spring, is shown. The other end of the spring is connected to a rigid support such as a wall. If the system is left at rest at the equilibrium position then there is no net force acting on the mass. However, if the mass is displaced from the equilibrium position, a restoring elastic force which obeys Hooke's law is exerted by the spring.
+
+Mathematically, the restoring force F is given by
+:
+where F is the restoring elastic force exerted by the spring (in SI units: N), k is the spring constant (N·m−1), and x is the displacement from the equilibrium position (in m).
+
+For any simple harmonic oscillator:
+*When the system is displaced from its equilibrium position, a restoring force which resembles Hooke's law tends to restore the system to equilibrium.
+
+Once the mass is displaced from its equilibrium position, it experiences a net restoring force. As a result, it accelerates and starts going back to the equilibrium position. When the mass moves closer to the equilibrium position, the restoring force decreases. At the equilibrium position, the net restoring force vanishes. However, at x = 0, the mass has momentum because of the impulse that the restoring force has imparted. Therefore, the mass continues past the equilibrium position, compressing the spring. A net restoring force then tends to slow it down, until its velocity reaches zero, whereby it will attempt to reach equilibrium position again.
+
+As long as the system has no energy loss, the mass will continue to oscillate. Thus, simple harmonic motion is a type of periodic motion.
+
+==Dynamics of simple harmonic motion==
+For one-dimensional simple harmonic motion, the equation of motion, which is a second-order linear ordinary differential equation with constant coefficients, could be obtained by means of Newton's second law and Hooke's law.
+
+:
+where m is the inertial mass of the oscillating body, x is its displacement from the equilibrium (or mean) position, and k is the spring constant.
+
+Therefore,
+:
+
+Solving the differential equation above, a solution which is a sinusoidal function is obtained.
+:
+where
+:
+:
+:
+In the solution, c1 and c2 are two constants determined by the initial conditions, and the origin is set to be the equilibrium position. Each of these constants carries a physical meaning of the motion: A is the amplitude (maximum displacement from the equilibrium position), ω 2πf is the angular frequency, and φ is the phase.
+
+Using the techniques of differential calculus, the velocity and acceleration as a function of time can be found:
+:
+Speed: 
+:
+Maximum speed (at equilibrium point)
+:
+Maximum acceleration = (at extreme points)
+
+Acceleration can also be expressed as a function of displacement:
+:
+
+Then since ω 2πf,
+:
+
+and, since T 1/f where T is the time period,
+:
+
+These equations demonstrate that the simple harmonic motion is isochronous (the period and frequency are independent of the amplitude and the initial phase of the motion).
+
+==Energy of simple harmonic motion==
+The kinetic energy K of the system at time t is
+:
+and the potential energy is
+:
+The total mechanical energy of the system therefore has the constant value
+:
+
+==Examples==
+An undamped spring–mass system undergoes simple harmonic motion.
+The following physical systems are some examples of simple harmonic oscillator.
+
+===Mass on a spring===
+A mass m attached to a spring of spring constant k exhibits simple harmonic motion in closed space. The equation
+:
+shows that the period of oscillation is independent of both the amplitude and gravitational acceleration
+
+===Uniform circular motion===
+Simple harmonic motion can in some cases be considered to be the one-dimensional projection of uniform circular motion. If an object moves with angular speed ω around a circle of radius r centered at the origin of the x-y plane, then its motion along each coordinate is simple harmonic motion with amplitude r and angular frequency ω.
+
+===Mass on a simple pendulum===
+The motion of an undamped pendulum approximates to simple harmonic motion if the amplitude is very small relative to the length of the rod.
+
+In the small-angle approximation, the motion of a simple pendulum is approximated by simple harmonic motion. The period of a mass attached to a pendulum of length ℓ with gravitational acceleration g is given by
+:
+
+This shows that the period of oscillation is independent of the amplitude and mass of the pendulum but not the acceleration due to gravity (g), therefore a pendulum of the same length on the Moon would swing more slowly due to the Moon's lower gravitational field strength.
+
+This approximation is accurate only in small angles because of the expression for angular acceleration α being proportional to the sine of position:
+:
+where I is the moment of inertia. When θ is small, sin θ ≈ θ and therefore the expression becomes
+:
+which makes angular acceleration directly proportional to θ, satisfying the definition of simple harmonic motion.
+
+===Scotch yoke===
+
+A Scotch yoke mechanism can be used to convert between rotational motion and linear reciprocating motion. The linear motion can take various forms depending on the shape of the slot, but the basic yoke with a constant rotation speed produces a linear motion that is simple harmonic in form.
+
+==See also==
+*Isochronous
+*Uniform circular motion
+*Complex harmonic motion
+*Damping
+*Harmonic oscillator
+*Pendulum (mathematics)
+*Circle group
+
+==Notes==
+
+==References==
+*
+*
+*
+*
+
+==External links==
+*Simple Harmonic Motion from HyperPhysics
+*Java simulation of spring-mass oscillator
+
+

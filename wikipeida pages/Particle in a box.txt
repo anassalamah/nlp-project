@@ -1,0 +1,136 @@
+[[Particle in a box]]
+
+Some trajectories of a particle in a box according to Newton's laws of classical mechanics (A), and according to the Schrödinger equation of quantum mechanics (B-F). In (B-F), the horizontal axis is position, and the vertical axis is the real part (blue) and imaginary part (red) of the wavefunction. The states (B,C,D) are energy eigenstates, but (E,F) are not.
+
+In quantum mechanics, the particle in a box model (also known as the infinite potential well or the infinite square well) describes a particle free to move in a small space surrounded by impenetrable barriers. The model is mainly used as a hypothetical example to illustrate the differences between classical and quantum systems. In classical systems, for example a ball trapped inside a large box, the particle can move at any speed within the box and it is no more likely to be found at one position than another. However, when the well becomes very narrow (on the scale of a few nanometers), quantum effects become important. The particle may only occupy certain positive energy levels. Likewise, it can never have zero energy, meaning that the particle can never "sit still". Additionally, it is more likely to be found at certain positions than at others, depending on its energy level. The particle may never be detected at certain positions, known as spatial nodes.
+
+The particle in a box model provides one of the very few problems in quantum mechanics which can be solved analytically, without approximations. This means that the observable properties of the particle (such as its energy and position) are related to the mass of the particle and the width of the well by simple mathematical expressions. Due to its simplicity, the model allows insight into quantum effects without the need for complicated mathematics. It is one of the first quantum mechanics problems taught in undergraduate physics courses, and it is commonly used as an approximation for more complicated quantum systems. See also: the history of quantum mechanics.
+
+== One-dimensional solution ==
+The barriers outside a one-dimensional box have infinitely large potential, while the interior of the box has a constant, zero potential.
+The simplest form of the particle in a box model considers a one-dimensional system. Here, the particle may only move backwards and forwards along a straight line with impenetrable barriers at either end. Davies, p.4 
+The walls of a one-dimensional box may be visualised as regions of space with an infinitely large potential energy. Conversely, the interior of the box has a constant, zero potential energy. Actually, any constant, finite potential can be specified within the box. This merely shifts the energies of the states by . This means that no forces act upon the particle inside the box and it can move freely in that region. However, infinitely large forces repel the particle if it touches the walls of the box, preventing it from escaping. The potential energy in this model is given as
+:
+where is the length of the box and is the position of the particle within the box.
+
+=== Wavefunctions ===
+In quantum mechanics, the wavefunction gives the most fundamental description of the behavior of a particle; the measurable properties of the particle (such as its position, momentum and energy) may all be derived from the wavefunction. Davies, p. 1 
+The wavefunction can be found by solving the Schrödinger equation for the system
+:
+where is the reduced Planck constant, is the mass of the particle, is the imaginary unit and is time.
+
+Inside the box, no forces act upon the particle, which means that the part of the wavefunction inside the box oscillates through space and time with the same form as a free particle: Bransden and Joachain, p. 157 
+:
+where and are arbitrary complex numbers. The frequency of the oscillations through space and time are given by the wavenumber and the angular frequency respectively. These are both related to the total energy of the particle by the expression
+:
+which is known as the dispersion relation for a free particle. 
+
+Initial wavefunctions for the first four states in a one-dimensional particle in a box
+The size (or amplitude) of the wavefunction at a given position is related to the probability of finding a particle there by . The wavefunction must therefore vanish everywhere beyond the edges of the box. Also, the amplitude of the wavefunction may not "jump" abruptly from one point to the next. These two conditions are only satisfied by wavefunctions with the form
+:
+where is a positive integer. The wavenumber is restricted to certain, specific values given by Davies p. 5 
+:
+where is the size of the box. Negative values of are neglected, since they give wavefunctions identical to the positive solutions except for a physically unimportant sign change. 
+
+Finally, the unknown constant may be found by normalizing the wavefunction so that the total probability density of finding the particle in the system is 1. It follows that
+:
+Thus, A may be any complex number with absolute value √(2/L); these different values of A yield the same physical state, so A = √(2/L) can be selected to simplify.
+
+The above solution is for the specific case of a box situated between and . It's expected that the eigenvalues, i.e., the energy of the box should be the same regardless of its position in space, but changes. This is represented by a more general case of :
+
+:
+
+Where is the initial position. Notice that represents a phase shift in the wave function, and simplifies to the above case when . Also, the phase shift has no effect when solving the Schrödinger equation, thus not affecting the eigenvalue.
+
+The momentum wavefunction is proportional to the Fourier transform of the position wavefunction. With and ,
+
+:
+
+=== Position and momentum ===
+
+In classical physics, the particle can be detected anywhere in the box with equal probability. In quantum mechanics, however, the probability density for finding a particle at a given position is derived from the wavefunction as For the particle in a box, the probability density for finding the particle at a given position depends upon its state, and is given by
+:
+Thus, for any value of n greater than one, there are regions within the box for which , indicating that spatial nodes exist at which the particle cannot be found.
+
+In quantum mechanics, the average, or expectation value of the position of a particle is given by
+:
+For the steady state particle in a box, it can be shown that the average position is always , regardless of the state of the particle. For a superposition of states, the expectation value of the position will change based on the cross term which is proportional to .
+
+The variance in the position is a measure of the uncertainty in position of the particle:
+
+:
+
+The probability density for finding a particle with a given momentum is derived from the wavefunction as . As with position, the probability density for finding the particle at a given momentum depends upon its state, and is given by
+
+:
+
+where, again, . The expectation value for the momentum is then calculated to be zero, and the variance in the momentum is calculated to be:
+
+:
+
+The uncertainties in position and momentum ( and ) are defined as being equal to the square root of their respective variances, so that:
+
+:
+
+This product increases with increasing n, having a minimum value for n=1. The value of this product for n=1 is about equal to 0.568 which obeys the Heisenberg uncertainty principle, which states that the product will be greater than or equal to 
+
+=== Energy levels ===
+The energy of a particle in a box (black circles) and a free particle (grey line) both depend upon wavenumber in the same way. However, the particle in a box may only have certain, discrete energy levels.
+The energies which correspond with each of the permitted wavenumbers may be written as 
+:.
+The energy levels increase with , meaning that high energy levels are separated from each other by a greater amount than low energy levels are. The lowest possible energy for the particle (its zero-point energy) is found in state 1, which is given by Bransden and Joachain, p. 159 
+:
+The particle, therefore, always has a positive energy. This contrasts with classical systems, where the particle can have zero energy by resting motionless at the bottom of the box. This can be explained in terms of the uncertainty principle, which states that the product of the uncertainties in the position and momentum of a particle is limited by
+:
+It can be shown that the uncertainty in the position of the particle is proportional to the width of the box. Davies, p. 15 Thus, the uncertainty in momentum is roughly inversely proportional to the width of the box. The kinetic energy of a particle is given by , and hence the minimum kinetic energy of the particle in a box is inversely proportional to the mass and the square of the well width, in qualitative agreement with the calculation above. 
+
+==Higher-dimensional boxes==
+The wavefunction of a 2D well with nx=4 and ny=4
+If a particle is trapped in a two-dimensional box, it may freely move in the and -directions, between barriers separated by lengths and respectively. Using a similar approach to that of the one-dimensional box, it can be shown that the wavefunctions and energies are given respectively by
+:,
+:,
+where the two-dimensional wavevector is given by
+:.
+
+For a three dimensional box, the solutions are
+:,
+:,
+where the three-dimensional wavevector is given by
+:.
+
+In general for an n-dimensional box, the solutions are
+:
+
+An interesting feature of the above solutions is that when two or more of the lengths are the same (e.g. ), there are multiple wavefunctions corresponding to the same total energy. For example the wavefunction with has the same energy as the wavefunction with . This situation is called degeneracy and for the case where exactly two degenerate wavefunctions have the same energy that energy level is said to be doubly degenerate. Degeneracy results from symmetry in the system. For the above case two of the lengths are equal so the system is symmetric with respect to a 90° rotation.
+
+== Applications ==
+
+Because of its mathematical simplicity, the particle in a box model is used to find approximate solutions for more complex physical systems in which a particle is trapped in a narrow region of low electric potential between two high potential barriers. These quantum well systems are particularly important in optoelectronics, and are used in devices such as the quantum well laser, the quantum well infrared photodetector and the quantum-confined Stark effect modulator. It is also used to model a lattice in the Kronig-Penny model and for a finite metal with the free electron approximation
+
+== Relativistic Effects ==
+
+The probability density does not go to zero at the nodes if relativistic effects are taken into account. 
+
+==See also==
+* Finite potential well
+* Delta function potential
+* Gas in a box
+* Particle in a ring
+* Particle in a spherically symmetric potential
+* Quantum harmonic oscillator
+* Semicircle potential well
+* Configuration integral (statistical mechanics)
+
+== References ==
+
+== Bibliography ==
+*
+*
+*
+
+==External links==
+* Scienceworld (Infinite Potential Well)
+* 1-D quantum mechanics java applet simulates particle in a box, as well as other 1-dimensional cases.
+* 2-D particle in a box applet
+
+

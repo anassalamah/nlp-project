@@ -1,0 +1,119 @@
+[[Shock (circulatory)]]
+
+Circulatory shock, commonly known simply as shock, is a life-threatening medical condition that occurs due to inadequate substrate for aerobic cellular respiration. In the early stages this is generally an inadequate tissue level of oxygen. 
+
+The typical signs of shock are low blood pressure, a rapid heartbeat and signs of poor end-organ perfusion or "decompensation/peripheral shut down" (such as low urine output, confusion or loss of consciousness). There are times that a person's blood pressure may remain stable, but may still be in circulatory shock, so it is not always a sign. 
+
+Circulatory shock is not related to the emotional state of shock. Circulatory shock is a life-threatening medical emergency and one of the most common causes of death for critically ill people. Shock can have a variety of effects, all with similar outcomes, but all relate to a problem with the body's circulatory system. For example, shock may lead to hypoxemia (a lack of oxygen in arterial blood) or cardiac arrest. 
+
+One of the key dangers of shock is that it progresses by a positive feedback mechanism. Once shock begins, it tends to make itself worse, so immediate treatment of shock is critical to the survival of the sufferer. 
+
+==Signs and symptoms==
+The presentation of shock is variable with some people having only minimal symptoms such as confusion and weakness. While the general signs for all types of shock are low blood pressure, decreased urine output, and confusion, these may not always be present. While a fast heart rate is common, those on β-blockers, those who are athletic and in 30% of cases those with shock due to intra abdominal bleeding may have a normal or slow heart rate. Specific subtypes of shock may have additional symptoms.
+
+===Hypovolemic===
+
+Hypovolemia is a direct loss of effective circulating blood volume leading to:
+*A rapid, weak, thready pulse due to decreased blood flow combined with tachycardia
+*Cool, clammy skin due to vasoconstriction and stimulation of vasoconstriction
+*Rapid and shallow breathing due to sympathetic nervous system stimulation and acidosis
+*Hypothermia due to decreased perfusion and evaporation of sweat
+*Thirst and dry mouth, due to fluid depletion
+*Cold and mottled skin (Livedo reticularis), especially extremities, due to insufficient perfusion of the skin
+
+The severity of hemorrhagic shock can be graded on a 1-4 scale on the physical signs. This approximates to the effective loss of blood volume. The shock index (heart rate divided by systolic blood pressure) is a stronger predictor of the impact of blood loss than heart rate and blood pressure alone. This relationship has not been well established in pregnancy-related bleeding. 
+
+===Cardiogenic===
+Symptoms of cardiogenic shock include:
+*Distended jugular veins due to increased jugular venous pressure
+*Weak or absent pulse
+*Arrhythmia, often tachycardia
+*Pulsus paradoxus in case of tamponade
+
+===Distributive===
+
+Distributive shock includes infectious, anaphylactic, Endocrine and neurogenic causes. The SIRS features typically occur in early septic shock. 
+
+====Septic shock====
+*Systemic leukocyte adhesion to endothelial tissue 
+*Reduced contractility of the heart 
+*Activation of the coagulation pathways, resulting in disseminated intravascular coagulation 
+*Increased levels of neutrophils 
+Main manifestations are produced due to massive release of histamine which causes intense vasodilation.
+
+==Pathophysiology==
+Effects of inadequate perfusion on cell function.
+
+There are four stages of shock. As it is a complex and continuous condition there is no sudden transition from one stage to the next. At a cellular level shock is the process of oxygen demand becoming greater than oxygen supply. 
+
+===Initial===
+During this stage, the state of hypoperfusion causes hypoxia. Due to the lack of oxygen, the cells perform lactic acid fermentation. Since oxygen, the terminal electron acceptor in the electron transport chain is not abundant, this slows down entry of pyruvate into the Krebs cycle, resulting in its accumulation. Accumulating pyruvate is converted to lactate by lactate dehydrogenase and hence lactate accumulates (causing lactic acidosis).
+
+===Compensatory===
+This stage is characterised by the body employing physiological mechanisms, including neural, hormonal and bio-chemical mechanisms in an attempt to reverse the condition. As a result of the acidosis, the person will begin to hyperventilate in order to rid the body of carbon dioxide (CO2). CO2 indirectly acts to acidify the blood and by removing it the body is attempting to raise the pH of the blood. The baroreceptors in the arteries detect the resulting hypotension, and cause the release of epinephrine and norepinephrine. Norepinephrine causes predominately vasoconstriction with a mild increase in heart rate, whereas epinephrine predominately causes an increase in heart rate with a small effect on the vascular tone; the combined effect results in an increase in blood pressure. Renin-angiotensin axis is activated and arginine vasopressin (Anti-diuretic hormone; ADH) is released to conserve fluid via the kidneys. These hormones cause the vasoconstriction of the kidneys, gastrointestinal tract, and other organs to divert blood to the heart, lungs and brain. The lack of blood to the renal system causes the characteristic low urine production. However the effects of the Renin-angiotensin axis take time and are of little importance to the immediate homeostatic mediation of shock.
+
+===Progressive===
+Should the cause of the crisis not be successfully treated, the shock will proceed to the progressive stage and the compensatory mechanisms begin to fail. Due to the decreased perfusion of the cells, sodium ions build up within while potassium ions leak out. As anaerobic metabolism continues, increasing the body's metabolic acidosis, the arteriolar smooth muscle and precapillary sphincters relax such that blood remains in the capillaries. Kumar, Vinay; Abbas, Abul K.; Fausto, Nelson; & Mitchell, Richard N. (2007). Robbins Basic Pathology (8th ed.). Saunders Elsevier. pp. 102-103 ISBN 978-1-4160-2973-1 Due to this, the hydrostatic pressure will increase and, combined with histamine release, this will lead to leakage of fluid and protein into the surrounding tissues. As this fluid is lost, the blood concentration and viscosity increase, causing sludging of the micro-circulation. The prolonged vasoconstriction will also cause the vital organs to be compromised due to reduced perfusion. If the bowel becomes sufficiently ischemic, bacteria may enter the blood stream, resulting in the increased complication of endotoxic shock. 
+
+===Refractory===
+At this stage, the vital organs have failed and the shock can no longer be reversed. Brain damage and cell death are occurring, and death will occur imminently. One of the primary reasons that shock is irreversible at this point is that much cellular ATP has been degraded into adenosine in the absence of oxygen as an electron receptor in the mitochondrial matrix. Adenosine easily perfuses out of cellular membranes into extracellular fluid, furthering capillary vasodilation, and then is transformed into uric acid. Because cells can only produce adenosine at a rate of about 2% of the cell's total need per hour, even restoring oxygen is futile at this point because there is no adenosine to phosphorylate into ATP. 
+
+==Diagnosis==
+The first changes seen in shock is an increased cardiac output followed by a decrease in mixed venous oxygen saturation (SmvO2) as measured in the pulmonary artery via a pulmonary artery catheter. Central venous oxygen saturation (ScvO2) as measured via a central line correlates well with SmvO2 and are easier to acquire. If shock progresses anaerobic metabolism will begin to occur with an increased blood lactic acid as the result. While many laboratory tests are typically performed there is no test that either makes or excludes the diagnosis. A chest X-ray or emergency department ultrasound may be useful to determine volume state. 
+
+==Differential diagnosis==
+Shock is a common end point of many medical conditions. It has been divided into four main types based on the underlying cause: hypovolemic, distributive, cardiogenic and obstructive. A few additional classifications are occasionally used including: endocrinologic shock. 
+
+===Hypovolemic===
+Hypovolemic shock is the most common type of shock and is caused by insufficient circulating volume. Its primary cause is hemorrhage (internal and/or external), or loss of fluid from the circulation. Vomiting and diarrhea are the most common cause in children. With other causes including burns, environmental exposure and excess urine loss due to diabetic ketoacidosis and diabetes insipidus. 
+
+===Cardiogenic===
+Cardiogenic shock is caused by the failure of the heart to pump effectively. This can be due to damage to the heart muscle, most often from a large myocardial infarction. Other causes of cardiogenic shock include dysrhythmias, cardiomyopathy/myocarditis, congestive heart failure (CHF), contusio cordis, or cardiac valve problems. 
+
+===Obstructive===
+Obstructive shock is due to obstruction of blood flow outside of the heart. Several conditions can result in this form of shock.
+*Cardiac tamponade in which fluid in the pericardium prevents inflow of blood into the heart (venous return). Constrictive pericarditis, in which the pericardium shrinks and hardens, is similar in presentation.
+*Tension pneumothorax Through increased intrathoracic pressure, bloodflow to the heart is prevented (venous return).
+*Pulmonary embolism is the result of a thromboembolic incident in the blood vessels of the lungs and hinders the return of blood to the heart.
+*Aortic stenosis hinders circulation by obstructing the ventricular outflow tract
+
+===Distributive===
+Distributive shock is due to impaired utilization of oxygen and thus production of energy by the cell. Examples of this form of shock are:
+*Septic shock is the most common cause of distributive shock. Caused by an overwhelming systemic infection resulting in vasodilation leading to hypotension. Septic shock can be caused by Gram negative bacteria such as (among others) Escherichia coli, Proteus species, Klebsiella pneumoniae which release an endotoxin which produces adverse biochemical, immunological and occasionally neurological effects which are harmful to the body, and other Gram-positive cocci, such as pneumococci and streptococci, and certain fungi as well as Gram-positive bacterial toxins. Septic shock also includes some elements of cardiogenic shock. In 1992, the ACCP/SCCM Consensus Conference Committee defined septic shock: ". . .sepsis-induced hypotension (systolic blood pressure < 90 mmHg or a reduction of 40 mmHg from baseline) despite adequate fluid resuscitation along with the presence of perfusion abnormalities that may include, but are not limited to, lactic acidosis, oliguria, or an acute alteration in mental status. Patients who are receiving inotropic or vasopressor agents may have a normalized blood pressure at the time that perfusion abnormalities are identified."
+*Anaphylactic shock Caused by a severe anaphylactic reaction to an allergen, antigen, drug or foreign protein causing the release of histamine which causes widespread vasodilation, leading to hypotension and increased capillary permeability.
+*High spinal injuries may cause neurogenic shock. The classic symptoms include a slow heartrate due to loss of cardiac sympathetic tone and warm skin due to dilation of the peripheral blood vessels. (This term can be confused with spinal shock which is a recoverable loss of function of the spinal cord after injury and does not refer to the haemodynamic instability per se.)
+
+===Endocrine===
+Based on endocrine disturbances such as:
+*Hypothyroidism (Can be considered a form of Cardiogenic shock) in critically ill patients, reduces cardiac output and can lead to hypotension and respiratory insufficiency.
+*Thyrotoxicosis (Cardiogenic shock)
+**may induce a reversible cardiomyopathy.
+*Acute adrenal insufficiency (Distributive shock) is frequently the result of discontinuing corticosteroid treatment without tapering the dosage. However, surgery and intercurrent disease in patients on corticosteroid therapy without adjusting the dosage to accommodate for increased requirements may also result in this condition.
+*Relative adrenal insufficiency (Distributive shock) in critically ill patients where present hormone levels are insufficient to meet the higher demands
+
+==Management==
+The best evidence exists for the treatment of septic shock in adults and as the pathophysiology appears similar in children and other types of shock treatment this has been extrapolated to these areas. Management may include securing the airway via intubation to decrease the work of breathing, oxygen supplementation, intravenous fluids and a passive leg raise (not Trendelenburg position), and blood transfusions. It is important to keep the person warm as well as adequately manage pain and anxiety as these can increase oxygen consumption. 
+
+===Fluids===
+Aggressive intravenous fluids are recommended in most types of shock (e.g. 1-2 liter normal saline bolus over 10 minutes or 20ml/kg in a child) which is usually instituted as the person is being further evaluated. Which intravenous fluid is superior, colloids or crystalloids, remains undetermined. Thus as crystalloids are less expensive they are recommended. If the person remains in shock after initial resuscitation packed red blood cells should be administered to keep the hemoglobin greater than 100 gms/l. 
+
+For those with hemorrhagic shock the current evidence supports limiting the use of fluids for penetrating thorax and abdominal injuries allowing mild hypotension to persist (known as permissive hypotension). Targets include a mean arterial pressure of 60 mmHg, a systolic blood pressure of 70-90 mmHg, or until their adequate mentation and peripheral pulses. 
+
+===Medications===
+Vasopressors may be used if blood pressure does not improve with fluids. There is no evidence of superiority of one vasopressor over another. Vasopressors have not been found to improve outcomes when used for hemorrhagic shock from trauma but may be of use in neurogenic shock. Activated protein C (Xigris) while once aggressively promoted for the management of septic shock has been found not to improve survival and is associated with a number of complications. The use of sodium bicarbonate is controversial as it has not been shown to improve outcomes. If used at all it should only be considered if the pH is less than 7.0. 
+
+===Treatment goals===
+The goal of treatment is to achieve a urine output of greater than 0.5 ml/kg/h, a central venous pressure of 8-12 mmHg and a mean arterial pressure of 65-95 mmHg. In trauma the goal is to stop the bleeding which in many cases requires surgical interventions.
+
+==Epidemiology==
+Hemorrhagic shock occurs in about 1-2% of trauma cases. 
+
+==Prognosis==
+The prognosis of shock depends on the underlying cause and the nature and extent of concurrent problems. Hypovolemic, anaphylactic and neurogenic shock are readily treatable and respond well to medical therapy. Septic shock however, is a grave condition with a mortality rate between 30% and 50%. The prognosis of cardiogenic shock is even worse. 
+
+==History==
+In 1972 Hinshaw and Cox suggested the classification system for shock which is still used today. 
+
+==References==
+
+

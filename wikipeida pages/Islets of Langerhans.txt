@@ -1,0 +1,84 @@
+[[Islets of Langerhans]]
+
+This photograph shows a mouse pancreatic islet, an often spherical group of hormone-producing cells. Insulin is labelled here in green, glucagon in red, and the nuclei in blue.
+The diagram shows the structural differences between rat islets (top) and humans islets (bottom) as well as the ventral part (left) and the dorsal part (right) of the pancreas. Different cell types are colour-coded. Rodent islets, unlike the human ones, show the characteristic insulin core.
+A porcine islet of Langerhans. The left image is a brightfield image created using hematoxylin stain; nuclei are dark circles and the acinar pancreatic tissue is darker than the islet tissue. The right image is the same section stained by immunofluorescence against insulin, indicating beta cells.
+
+Illustration depicting pancreatic islet
+
+The islets of Langerhans are the regions of the pancreas that contain its endocrine (i.e., hormone-producing) cells. Discovered in 1869 by German pathological anatomist Paul Langerhans, the islets of Langerhans constitute approximately 1% to 2% of the mass of the pancreas.
+
+==Structure==
+
+There are about one million islets distributed throughout the pancreas of a healthy adult human, :914 each of which measures about 0.2 mm in diameter. :914 Each is separated from the surrounding pancreatic tissue by a thin fibrous connective tissue capsule which is continuous with the fibrous connective tissue that is interwoven throughout the rest of the pancreas. :914 The combined mass of the islets is 1 to 1.5 grams.
+
+===Histology===
+Hormones produced in the islets of Langerhans are secreted directly into the blood flow by (at least) five types of cells. In rat islets, endocrine cell subsets are distributed as follows: 
+
+* Alpha cells producing glucagon (15–20% of total islet cells)
+* Beta cells producing insulin and amylin (65–80%)
+* Delta cells producing somatostatin (3–10%)
+* PP cells (gamma cells) producing pancreatic polypeptide (3–5%)
+* Epsilon cells producing ghrelin (<1%)
+
+It has been recognized that the cytoarchitecture of pancreatic islets differs between species. 
+In particular, while rodent islets are characterized by a predominant proportion of insulin-producing beta cells in the core of the cluster and by scarce alpha, delta and PP cells in the periphery, human islets display alpha and beta cells in close relationship with each other throughout the cluster. 
+
+Islets can influence each other through paracrine and autocrine communication, and beta cells are coupled electrically to other beta cells (but not to other cell types).
+
+==Function==
+The paracrine feedback system of the islets of Langerhans has the following structure: 
+
+* Glucose/Insulin: activates beta cells and inhibits alpha cells
+* Glycogen/Glucagon: activates alpha cells which activates beta cells and delta cells
+* Somatostatin: inhibits alpha cells and beta cells
+
+A large number of G protein-coupled receptors (GPCRs) regulates the secretion of insulin, glucagon and somatostatin from pancreatic islets, "An atlas and functional analysis of G-protein coupled receptors in human islets of Langerhans.Amisten S, Salehi A, Rorsman P, Jones PM, Persaud SJ., Pharmacol Ther. 2013 May 18. PMID: 23694765 and some of these GPCRs are the targets of drugs used to treat type-2 diabetes (ref GLP-1 receptor agonists, DPPIV inhibitors).
+
+===Electrical activity===
+Electrical activity of pancreatic islets has been studied using patch clamp techniques. It has turned out that the behavior of cells in intact islets differs significantly from the behavior of dispersed cells. 
+
+==Clinical significance==
+===Diabetes===
+The islets of Langerhans contain beta cells, which secrete insulin, and play a significant role in diabetes.
+
+===Transplantation===
+Restoration of metabolic control via the transplantation of islets of Langerhans is an appealing approach. This can be achieved by transplantation of the pancreas as vascularized organ or of isolated pancreatic islets (islet cell clusters). Islet transplantation has emerged as a viable option for the treatment of insulin requiring diabetes in the early 1970s with steady progress over the last three decades. 
+
+Islet transplantation has the possibility of restoring beta cell function from diabetes, offering an alternative to a complete pancreas transplantation or an artificial pancreas. 
+
+Because the beta cells in the islets of Langerhans are selectively destroyed by an autoimmune process in type 1 diabetes, clinicians and researchers are actively pursuing islet transplantation as a means of restoring physiological beta cell function in patients with type 1 diabetes. 
+
+Recent clinical trials have shown that insulin independence and improved metabolic control can be reproducibly obtained after transplantation of cadaveric donor islets into patients with unstable type 1 diabetes. 
+
+Islet transplantation for type 1 diabetes currently requires potent immunosuppression to prevent host rejection of donor islets. 
+
+An alternative source of beta cells, such insulin-producing cells derived from adult stem cells or progenitor cells would contribute to overcoming the shortage of donor organs for transplantation. The field of regenerative medicine is rapidly evolving and offers great hope for the nearest future. However, type 1 diabetes is the result of the autoimmune destruction of beta cells in the pancreas. Therefore, an effective cure will require a sequential, integrated approach that combines adequate and safe immune interventions with beta cell regenerative approaches. 
+
+Another potential source of beta cells may be xenotransplantation. The most likely source for xenogeneic islets for transplantation into human under evaluation is the pig pancreas. Interestingly, human and porcine insulin differ only for one amino acid, and insulin extracted from porcine pancreata has been used for the treatment of patients with diabetes before the development of recombinant human insulin technology. Several studies in small and large animals models have shown that transplantation of islet cells across species is possible. However, several problems need to be overcome for porcine islet transplantation to become a viable clinical option. The immunogenicity of xenogeneic tissues may be different from and even stronger than allogeneic tissues. For instance, Galalpha1-3Galbeta1-4GlcNAc (alpha galactosidase, alpha-Gal) expressed on porcine cells represents a major barrier to xenotransplantation being the target of preformed antibodies present in human blood. 
+
+Remarkable progress has been recorded in the development of genetically modified pigs lacking or overexpressing molecules that may improve acceptance of transplanted tissues across into humans. Pigs lacking alpha-Gal or overexpressing human decay accelerating factor (hDAF), amongst others, have been generated to study the impact on transplanted outcome in nonhuman primate models. Another possible antigenic target is the Hanganutziu-Deichter antigen, a sialic acid found in pigs and not humans, which may contribute to immunogenicity of porcine islets. Another limitation is the risk for transmission of zoonotic infections from pigs to humans, particularly from porcine endogenous retro-viruses (PERV). Amongst the approaches proposed to overcome islet xenorejection is immunoisolation of the clusters using encapsulation techniques that may shield them from immune attack. Studies in rodents and large animals have shown great promise that justify cautious optimism for the near future. Nonrandomized, uncontrolled pilot clinical trials are ongoing in subject with insulin-requiring diabetes to test the efficacy of encapsulation techniques to protect xenogeneic islets in the absence of chronic anti-rejection drugs.
+
+==Gallery==
+
+Image:PancreaticPolypeptide.jpg | Mouse islet immunostained for pancreatic polypeptide
+Image:InsulinIHC.jpg | Mouse islet immunostained for insulin
+Image:Glucagon.jpg | Mouse islet immunostained for glucagon
+Image:Gray1105.png | Illustration of dog pancreas. 250x.
+
+==See also==
+* Betatrophin
+* Human anatomy
+* Pancreatic hormone
+*Neuroendocrine tumor
+
+==References==
+
+==External links==
+* "The Islets of Langerhans", Karolinska Institutet, Sweden
+* "Islets"
+* Islet Society
+* 
+* "Pancreas, human – H&E", Blue Histology – Accessory Digestive Glands, School of Anatomy and Human Biology,
+
+

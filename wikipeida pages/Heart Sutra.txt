@@ -1,0 +1,55 @@
+[[Heart Sutra]]
+
+Sanskrit text of the Heart Sūtra, in the Siddhaṃ script; replica of the 6th-century palm leaf manuscript preserved at Hōryū-ji monastery (梵本心経并尊勝陀羅尼)
+Chinese text of the Heart Sūtra, by Yuan Dynasty artist and calligrapher Zhao Mengfu (1254–1322 CE) 
+
+ 
+The Heart Sūtra ( ) is a famous sūtra in Mahāyāna Buddhism. Its Sanskrit title, , literally means "The Heart of the Perfection of Transcendent Wisdom." The Heart Sūtra is often cited as the best-known Pine 2004, pg. 16 and most popular Buddhist scripture of all. Pine 2004, pg. 18 Nattier 1992, pg. 153 
+
+==Introduction==
+The Heart Sūtra, belonging to the Perfection of Wisdom (Prajñāpāramitā) category of Mahāyāna Buddhism literature along with the Diamond Sūtra, is perhaps the most prominent representative of the genre.
+
+The Heart Sūtra is made up of 14 shlokas in Sanskrit, with each shloka containing 32 syllables. In the standard Chinese translation by Xuanzang, it has 260 Chinese characters. In English it is composed of sixteen sentences. Taisho Tripitaka Vol. T08 No. 251, attributed to Xuanzang. This makes it the shortest text in the Perfection of Wisdom genre, which contains scriptures in lengths up to 100,000 shlokas. According to Buddhist scholar and author Geshe Kelsang Gyatso in his commentary to the Heart Sūtra:
+
+The Essence of Wisdom Sutra (Heart Sūtra) is much shorter than the other Perfection of Wisdom sūtras but it contains explicitly or implicitly the entire meaning of the longer Sutras. Heart of Wisdom: An Explanation of the Heart Sutra, Tharpa Publications (4th. ed., 2001), page 2, ISBN 978-0-948006-77-7 
+
+This sutra is classified by Edward Conze as belonging to the third of four periods in the development of the Perfection of Wisdom canon, although because it contains a mantra (sometimes called a dharani), it does overlap with the final, tantric phase of development according to this scheme, and is included in the tantra section of at least some editions of the Kangyur. Conze 1960 Conze estimates the sutra's date of origin to be 350 CE; some others consider it to be two centuries older than that. Lopez 1988, pg. 5 Recent scholarship is unable to verify its existence before any date earlier than the 7th century CE. Nattier 1992 
+
+The Chinese version is frequently chanted (in the local pronunciation) by the Chan (Zen/Seon/Thiền) school during ceremonies in China, Japan, Korea, and Vietnam respectively. It is also significant to the Shingon Buddhist school in Japan, whose founder Kūkai wrote a commentary on it, and to the various Tibetan Buddhist schools, where it is studied extensively.
+
+The sūtra is in a small class of sūtras not attributed to the Buddha. In some versions of the text, starting with that of Fayue dating to about 735, Pine 2004 pg. 26 the Buddha confirms and praises the words of Avalokiteśvara, although this is not included in the preeminent Chinese version translated by Xuanzang. The Tibetan canon uses the longer version, although Tibetan translations without the framing text have been found at Dunhuang. The Chinese Buddhist canon includes both long and short versions, and both versions exist in Sanskrit. 
+
+==Origin and early translations==
+
+The earliest extant text of the Heart Sūtra is the palm-leaf manuscript found at the Horyuji Temple, and dated to 609 CE. It was one of two texts which formed the basis for a published edition by Max Müller (1881), and formed the basis of a published edition by Shaku Hannya (1923). (See image top right) However it is important to note that a comparison of the script with India manuscripts and inscriptions argues for a date in the 8th century for the Horyuji manuscript. Bühler (1881: 90) 
+
+A Chinese text attributed to Xuanzang and dated 649 CE is preserved in the Chinese Tripiṭaka. Stories exist of earlier translations but are likely to be apocryphal. In particular Edward Conze acknowledges that the text attributed to Kumarajīva is the work of his student. It is not mentioned a biography compiled in 519 CE. Conze 1967, pg. 154 John McRae and Jan Nattier have argued that this translation was created by someone else, much later, based on Kumarajiva's Large Sūtra. Nattier 1992, pp. 184-9 Zhi Qian's version, supposedly composed in 200-250 CE, was lost before the time of Xuanzang, who produced his own version in 649CE, which closely matches the one attributed to Kumarajiva. Pine 2004, pg. 22-26 Xuanzang's version is the first record of the title "Heart Sūtra" (心經 xīnjīng) being used for the text, Pine 2004, pg. 8 and Fukui Fumimasa has argued that 心經 actually means dhāraṇī scripture. Fukui 1987 Nattier 1992, pp. 175-6 According to Huili's biography, Xuanzang learned the sutra from an inhabitant of Sichuan, and subsequently chanted it during times of danger in his journey to the West. Nattier 1992, pp. 179-80 
+
+=== Critical editions ===
+There have been several critical editions of the Sanskrit text of the Heart Sūtra, but to date the definitive edition is Conze's, originally published in 1948, reprinted in 1967 and revised in 1973. Conze had access to 12 Nepalese manuscripts; seven mss. and inscriptions from China; two mss. from Japan; as well as several translations from the Chinese Canon and one from the Tibetan. Conze 1948: 49-50; 1967: 154 There is a great deal of variation across the manuscripts in the title, the maṅgala verses, and within the text itself. Many of the manuscripts are corrupt or simply carelessly copied.
+
+===Nattier hypothesis===
+However, based on textual patterns in the Sanskrit and Chinese versions of the Heart Sūtra and the Mahaprajnaparamita Sutra, scholar Jan Nattier has suggested that the earliest (shortest) version of the Heart Sūtra was probably first composed in China in the Chinese language from a mixture of material derived from the Chinese translation of the Large Perfection of Wisdom Sutra (cf. vol. 1-1, pg 64 of Takaysu 2007) and new composition, and that this assemblage was later translated into Sanskrit (or back-translated, in the case of most of the sūtra). She argues that the majority of the text was redacted from a Larger Sutra on the Perfection of Wisdom, which had originated with a Sanskrit Indian original, but that the "framing" passages (the introduction and concluding passages) were new compositions in Chinese by a Chinese author, and that the text was intended as a dharani rather than a sūtra. Buswell 2003, page 314 Pine 2004, pg. 23 The Chinese version of the core (i.e. the short version) of the Heart Sūtra matches a passage from the Large Sutra almost exactly, character by character; but the corresponding Sanskrit texts, while agreeing in meaning, differ in virtually every word. Nattier 1992, pp. 159, 167 Furthermore, Nattier argues that there is no evidence (such as a commentary) of a Sanskrit version before the 8th century CE, Nattier 1992, pg. 173 and she dates the first evidence (in the form of commentaries by Xuanzang's disciples Kuiji and Wonch'uk, and Dunhuang manuscripts) of Chinese versions to the 7th century CE. She considers attributions to earlier dates "extremely problematic". In any case, the corroborating evidence supports a Chinese version at least a century before a Sanskrit version. Nattier 1992, pp. 173-4 This theory has gained support amongst some other prominent scholars of Buddhism, but is by no means universally accepted. Pine 2004, pg. 25 
+
+===Title===
+The Zhi Qian version is titled Po-jo po-lo-mi shen-chou i chuan Nattier 1992, pg. 183 or Prajnaparamita Dharani; Pine 2004, pg. 20 the Kumarajiva version is titled Mo-ho po-jo po-lo-mi shen-chou i chuan or Maha Prajnaparamita Mahavidya Dharani. Xuanzang's translation was the first to use Hrdaya ("Heart") in the title. Pine 2004, pg. 36 
+
+Despite the common name Heart Sūtra, the word sūtra is not present in known Sanskrit manuscripts, which refer to it simply as prajñāpāramitāhṛdaya. Nattier 1992, pg. 200 Xuanzang's translation was also the first to call the text a sutra. No extant Sanskrit copies use this word, though it has become standard usage in Chinese and Tibetan, as well as English. Pine 2004, pg. 39 
+
+Some citations of Zhi Qian's and Kumarajiva's versions prepend moho (which would be maha in Sanskrit) to the title. Some Tibetan editions add bhagavatī, meaning "Victorious One" or "Conqueror", an epithet of Prajnaparamita as goddess. Pine 2004, pg. 35 
+
+In the Tibetan text the title is given first in Sanskrit and then in Tibetan:
+* Sanskrit: 
+* 
+
+In other languages, the title is frequently called Heart Sūtra in common-usage:
+* English: Heart of the Perfection of Wisdom
+* Chinese: xīn jīng ()
+* Japanese: Han-nya Shin-gyō ()
+* Korean: Panya Shimgyeong ()
+* Vietnamise:Bát-nhã tâm kinh(tiếng Hoa: 般若心經)
+
+==Text==
+Sanskrit manuscript of the Heart Sūtra, written in the Siddhaṃ script. Bibliothèque nationale de France
+
+Various commentators divide this text into different numbers of sections. Briefly, the sutra describes the experience of liberation of the bodhisattva of compassion, Avalokiteśvara, as a result of insight gained while engaged in deep meditation to awaken the faculty of prajña (wisdom). The insight refers to apprehension of the fundamental emptiness of all phenomena, known through and as the five aggregates of human existence (skandhas): form (rūpa), feeling (vedanā), volitions (samskārā), perceptions 

@@ -1,0 +1,172 @@
+[[Zebrafish]]
+
+The zebrafish (Danio rerio) is a tropical freshwater fish belonging to the minnow family (Cyprinidae) of the order Cypriniformes. Native to the Himalayan region, it is a popular aquarium fish, frequently sold under the trade name zebra danio. The zebrafish is also an important vertebrate model organism in scientific research. It is particularly notable for its regenerative abilities, and has been modified by researchers to produce several transgenic strains. 
+
+== Taxonomy ==
+The zebrafish is a derived member of the genus Danio, of the family Cyprinidae. It has a sister-group relationship with Danio kyathit. Zebrafish are also closely related to the genus Devario, as demonstrated by a phylogenetic tree of close species. The zebrafish was referred to in scientific literature as Brachydanio rerio for many years until its reassignment to the genus Danio. 
+
+== Distribution ==
+The zebrafish is native to the streams of the southeastern Himalayan region, and is found in parts of India, Pakistan, Bangladesh, Nepal, and Burma. The species arose in the Ganges region in eastern India, and commonly inhabits streams, canals, ditches, ponds, and slow-moving or stagnant water bodies, including rice fields. Zebrafish have been introduced to parts of the United States, presumably by deliberate release or by escape from fish farms. 
+
+== Description ==
+The zebrafish is named for the five uniform, pigmented, horizontal, blue stripes on the side of the body, which are reminiscent of a zebra's stripes, and which extend to the end of the caudal fin. Its shape is fusiform and laterally compressed, with its mouth directed upwards. The male is torpedo-shaped, with gold stripes between the blue stripes; the female has a larger, whitish belly and silver stripes instead of gold. Adult females exhibit a small genital papilla in front of the anal fin origin. The zebrafish can grow to 6.4 cm in length, although it seldom grows larger than 4 cm in captivity. Its lifespan in captivity is around two to three years, although in ideal conditions, this may be extended to five years. 
+
+== Reproduction ==
+A juvenile zebrafish.
+The approximate generation time for Danio rerio is three to four months. A male must be present for ovulation and spawning to occur. Females are able to spawn at intervals of two to three days, laying hundreds of eggs in each clutch. Upon release, embryonic development begins; absent sperm, growth stops after the first few cell divisions. Fertilized eggs almost immediately become transparent, a characteristic that makes D. rerio a convenient research model species. 
+Diagram showing the life cycle of a zebrafish from fertilization to adulthood.
+The zebrafish embryo develops rapidly – precursors to all major organs appear within 36 hours of fertilization, and hatching takes place 12–36 hours later, depending on the embryo's internal conditions and the external temperature, which is ideally 28.5 °C. Swimming and feeding behavior begin about 36 hours later. The sex of juveniles cannot be distinguished except by dissection, and sex determinants are not clearly understood.
+
+To encourage the fish to spawn, some researchers use a fish tank with a sliding bottom insert, which reduces the depth of the pool. The technique is most effective in the early morning, given that ovulation and spawning are enhanced by light. Researchers have been able to collect 10,000 embryos in 10 minutes using this method. Male zebrafish are furthermore known to respond to more pronounced markings on females, i.e., "good stripes", but in a group, males will mate with whichever females they can find. What attracts females is not currently understood. The presence of plants, even plastic plants, also apparently encourages spawning. 
+
+== Feeding ==
+Zebrafish are omnivorous, primarily eating zooplankton, phytoplankton, insects and insect larvae, although they can eat a variety of other foods, such as worms and small crustaceans, if their preferred food sources are not readily available. Most zebrafish accept common food flakes and tubifex worms in the aquarium.
+
+== Aquarium care ==
+Zebrafish are hardy fish and considered good for beginner aquarists. Their enduring popularity can be attributed to their playful disposition, as well as their rapid breeding, aesthetics, cheap price and broad availability. They also do well in schools or shoals of six or more, and interact well with other fish species in the aquarium. However, they are susceptible to Oodinium or velvet disease, microsporidia (Pseudoloma neurophilia), and Mycobacterium species. Given the opportunity, adults eat hatchlings, which may be protected by separating the two groups with a net, breeding box or separate tank.
+
+==Strains==
+In late 2003, transgenic zebrafish that express green, red, and yellow fluorescent proteins became commercially available in the United States. The fluorescent strains are tradenamed GloFish; other cultivated varieties include "golden", "sandy", "longfin" and "leopard".
+
+The leopard danio, previously known as Danio frankei, is a spotted colour morph of the zebrafish which arose due to a pigment mutation. Xanthistic forms of both the zebra and leopard pattern, along with long-finned subspecies, have been obtained via selective breeding programs for the aquarium trade. 
+
+=== Wild-type strains ===
+The Zebra Fish Information Network (ZFIN) provides up-to-date information about current known wild-type (WT) strains of D. rerio, some of which are listed below. 
+
+*AB (AB)
+*AB/C32 (AB/C32)
+*AB/TL (AB/TL)
+*AB/Tuebingen (AB/TU)
+*C32 (C32)
+*Cologne (KOLN)
+*Darjeeling (DAR)
+*Ekkwill (EKW)
+
+*HK/AB (HK/AB)
+*HK/Sing (HK/SING)
+*Hong Kong (HK)
+*India (IND)
+*Indonesia (INDO)
+*Nadia (NA)
+*RIKEN WT (RW)
+*Singapore (SING)
+
+*SJA (SJA)
+*SJD (SJD)
+*SJD/C32 (SJD/C32)
+*Tuebingen (TU)
+*Tupfel long fin (TL)
+*Tupfel long fin nacre (TLN)
+*WIK (WIK)
+*WIK/AB (WIK/AB)
+
+===Hybrids===
+Hybrids between different Danio species may be fertile: for example, between D. rerio and D. nigrofasciatus. 
+
+==In scientific research==
+Zebrafish chromatophores, shown here mediating background adaptation, are widely studied by scientists.
+A zebrafish pigment mutant (bottom) produced by insertional mutagenesis. A wild-type embryo (top) is shown for comparison. The mutant lacks black pigment in its melanocytes because it is unable to synthesize melanin properly.
+
+D. rerio is a common and useful model organism for studies of vertebrate development and gene function. Its use as a laboratory animal was pioneered by George Streisinger and colleagues at the University of Oregon. Its importance has been consolidated by successful large-scale forward genetic screens (commonly referred to as the Tübingen/Boston screens). The fish has a dedicated online database of genetic, genomic, and developmental information, the Zebrafish Information Network (ZFIN). D. rerio is also one of the few fish species to have been sent into space.
+
+Research with D. rerio has yielded advances in the fields of developmental biology, oncology, toxicology, reproductive studies, teratology, genetics, neurobiology, environmental sciences, stem cell research and regenerative medicine, and evolutionary theory. 
+
+===Model characteristics===
+As a model biological system, the zebrafish possesses numerous advantages for scientists. Its genome has been fully sequenced, and it has well-understood, easily observable and testable developmental behaviors. Its embryonic development is very rapid, and its embryos are relatively large, robust, and transparent, and able to develop outside their mother. Furthermore, well-characterized mutant strains are readily available.
+
+Other advantages include the species' nearly constant size during early development, which enables simple staining techniques to be used, and the fact that its two-celled embryo can be fused into a single cell to create a homozygous embryo. The zebrafish is also demonstrably similar to mammalian models and humans in toxicity testing, and exhibits a diurnal sleep cycle with similarities to mammalian sleep behavior. 
+
+===Regeneration===
+Zebrafish have the ability to regenerate their fins, skin, heart and, in larval stages, brain. Zebrafish heart muscle regeneration does not make use of stem cells; instead, mature heart muscle cells regress to a stem cell-like state and redifferentiate. In 2011, the British Heart Foundation ran an advertising campaign publicising their intention to study the applicability of this ability to humans, by raising £50 million in research funding. 
+
+Zebrafish have also been found to regenerate photoreceptor cells and retinal neurons following injury, which has been shown to be mediated by the dedifferentiation and proliferation of Müller glia. Researchers frequently amputate the dorsal and ventral tail fins and analyze their regrowth to test for mutations. It has been found that histone demethylation occurs at the site of the amputation, switching the zebrafish's cells to an "active", regenerative, stem cell-like state. In 2012, Australian scientists published a study revealing that zebrafish use a specialised protein, known as fibroblast growth factor, to ensure their spinal cords heal without glial scarring after injury. 
+
+In probing disorders of the nervous system, including neurodegenerative diseases, movement disorders, psychiatric disorders and deafness, researchers are using the zebrafish to understand how the genetic defects underlying these conditions cause functional abnormalities in the human brain, spinal cord and sensory organs. Researchers have also studied the zebrafish to gain new insights into the complexities of human musculoskeletal diseases, such as muscular dystrophy. Another focus of zebrafish research is to understand how a gene called Hedgehog, a biological signal that underlies a number of human cancers, controls cell growth. 
+
+===Genetics===
+
+====Gene expression====
+Due to their short lifecycles and relatively large clutch sizes, zebrafish are a useful model for genetic studies. A common reverse genetics technique is to reduce gene expression or modify splicing using Morpholino antisense technology. Morpholino oligonucleotides (MO) are stable, synthetic macromolecules that contain the same bases as DNA or RNA; by binding to complementary RNA sequences, they reduce the expression of specific genes. MO can be injected into one cell of an embryo after the 32-cell stage, reducing gene expression in only cells descended from that cell. However, cells in the early embryo (less than 32 cells) are interpermeable to large molecules, allowing diffusion between cells. 
+
+A known problem with gene knockdowns is that, because the genome underwent a duplication after the divergence of ray-finned fishes and lobe-finned fishes, it is not always easy to silence the activity one of the two gene paralogs reliably due to complementation by the other paralog. Despite the complications of the zebrafish genome, a number of commercially available global platforms exist for analysis of both gene expression by microarrays and promoter regulation using ChIP-on-chip. 
+
+====Genome sequencing====
+The Wellcome Trust Sanger Institute started the zebrafish genome sequencing project in 2001, and the full genome sequence of the Tuebingen reference strain is publicly available at the National Center for Biotechnology Information (NCBI)'s Zebrafish Genome Page. The zebrafish reference genome sequence is annotated as part of the Ensembl project, and is maintained by the Genome Reference Consortium. 
+
+In 2009, researchers at the Institute of Genomics and Integrative Biology in Delhi, India, announced the sequencing of the genome of a wild zebrafish strain, containing 1.7 billion genetic letters. "Decoding the Genome Mystery". Indian Express. July 5, 2009. Retrieved February 5, 2013. FishMap Zv8. Institute of Genomics and Integrative Biology (IGIB). Retrieved June 7, 2012. The genome of the wild zebrafish was sequenced at 39-fold coverage. Comparative analysis with the zebrafish reference genome revealed over 5 million single nucleotide variations and over 1.6 million insertion deletion variations. The zebrafish reference genome sequence was published by Kerstin Howe et al. in 2013. "The zebrafish reference genome sequence and its relationship to the human genome". Nature (doi:10.1038/nature12111). 2013. Retrieved June 16, 2013. 
+
+====Mitochondrial DNA====
+In October 2001, researchers from the University of Oklahoma published D. rerio's complete mitochondrial DNA sequence. Its length is 16,596 base pairs. This is within 100 base pairs of other related species of fish, and it is notably only 18 pairs longer than the goldfish (Carassius auratus) and 21 longer than the carp (Cyprinus carpio). Its gene order and content are identical to the common vertebrate form of mitochondrial DNA. It contains 13 protein-coding genes and a noncoding control region containing the origin of replication for the heavy strand. In between a grouping of five tRNA genes, a sequence resembling vertebrate origin of light strand replication is found. It is difficult to draw evolutionary conclusions because it is difficult to determine whether base pair changes have adaptive significance via comparisons with other vertebrates' nucleotide sequences. 
+
+====Pigmentation genes====
+In December 2005, a study of the golden strain identified the gene responsible for its unusual pigmentation as SLC24A5, a solute carrier that appeared to be required for melanin production, and confirmed its function with a Morpholino knockdown. The orthologous gene was then characterized in humans and a one base pair difference was found to strongly segregate fair-skinned Europeans and dark-skinned Africans. 
+
+====Transgenesis====
+Transgenesis is a popular approach to study the function of genes in zebrafish. Construction of transgenic zebrafish is rather easy by a method using the Tol2 transposon system. 
+
+====Transparent adult bodies====
+In 2008, researchers at Boston Children's Hospital developed a new strain of zebrafish, named Casper, whose adult bodies had transparent skin. This allows for detailed visualization of cellular activity, circulation, metastasis and many other phenomena. Because many gene functions are shared between fish and humans, the Casper strain is expected to yield insights into human diseases such as leukemia and other cancers. In January 2013, Japanese scientists genetically modified a transparent zebrafish specimen to produce a visible glow during periods of intense brain activity, allowing the fish's "thoughts" to be recorded as specific regions of its brain lit up in response to external stimuli. 
+
+====Use in environmental monitoring====
+In January 2007, Chinese researchers at Fudan University genetically modified zebrafish to detect oestrogen pollution in lakes and rivers, which is linked to male infertility. The researchers cloned oestrogen-sensitive genes and injected them into the fertile eggs of zebrafish. The modified fish turned green if placed into water that was polluted by oestrogen. "Fudan scientists turn fish into estrogen alerts". Xinhua. January 12, 2007. Retrieved November 15, 2012. 
+
+==In medical research==
+
+===Cancer===
+Zebrafish have been used to make several transgenic models of cancer, including melanoma, leukemia, pancreatic cancer and hepatocellular carcinoma. Zebrafish expressing mutated forms of either the BRAF or NRAS oncogenes develop melanoma when placed onto a p53 deficient background. Histologically, these tumors strongly resemble the human disease, are fully transplantable, and exhibit large-scale genomic alterations. The BRAF melanoma model was utilized as a platform for two screens published in March 2011 in the journal Nature. In one study, by Ceol, Houvras and Zon, the model was used as a tool to understand the functional importance of genes known to be amplified and overexpressed in human melanoma. One gene, SETDB1, markedly accelerated tumor formation in the zebrafish system, demonstrating its importance as a new melanoma oncogene. This was particularly significant because SETDB1 is known to be involved in the epigenetic regulation that is increasingly appreciated to be central to tumor cell biology.
+
+In another study, by White and Zon, an effort was made to therapeutically target the genetic program present in the tumor's origin neural crest cell using a chemical screening approach. This revealed that an inhibition of the DHODH protein (by a small molecule called leflunomide) prevented development of the neural crest stem cells which ultimately give rise to melanoma via interference with the process of transcriptional elongation. Because this approach would aim to target the "identity" of the melanoma cell rather than a single genetic mutation, leflunomide may have utility in treating human melanoma. 
+
+===Cardiovascular disease===
+In cardiovascular research, the zebrafish has been used to model blood clotting, blood vessel development, heart failure, and congenital heart and kidney disease. 
+
+===Immune system===
+In programmes of research into acute inflammation, a major underpinning process in many diseases, researchers have established a zebrafish model of inflammation, and its resolution. This approach allows detailed study of the genetic controls of inflammation and the possibility of identifying potential new drugs. 
+
+===Infectious diseases===
+As the immune system is relatively conserved between zebrafish and humans, many human infectious diseases can be modeled in zebrafish. Meeker, Nathan D.; Trede Nikolaus S. (2008). “Immunology and zebrafish: spawning new models of human disease”. Dev Comp Immunol 32: 745–757. doi: 10.1016/j.dci.2007.11.011. PMID: 18222541 Renshaw, S.A., Trede, N.S. (2012). “ A model 450 million years in the making: zebrafish and vertebrate immunity”. Dis Model Mech 5: 38–47. doi: 10.1242/dmm.007138. PMID: 22228790 Meijer, A.H.:Spaink, H.P.(2011). “Host–pathogen interactions made transparent with the zebrafish model”. Curr Drug Targets 12: 1000–1017. doi:10.2174/138945011795677809.PMID:21366518 Van der Vaart M: Spaink HP:Meijer AH (2012). “Pathogen recognition and activation of the innate immune response in zebra fish”. Adv Hematol. 2012:159807. doi: 10.1155/2012/159807. PMID: 22811714 The transparent early life stages are well suited for in vivo imaging and genetic dissection of host-pathogen interactions. Benard EL, van der Sar AM, Ellett F, Lieschke GJ, Spaink HP, Meijer AH.(2012). “Infection of zebrafish embryos with intracellular bacterial pathogens.” J Vis Exp. 2012 Mar 15;(61). pii: 3781. doi: 10.3791/3781. PMID: 22453760 Meijer AH, van der Vaart M, Spaink HP. (2014). “Real-time imaging and genetic dissection of host-microbe interactions in zebrafish." Cell Microbiol. 2013 Nov 5. doi: 10.1111/cmi.12236. PMID:24188444 Zebrafish models for a wide range of bacterial, viral and parasitic pathogens have already been established; for example, the zebrafish model for tuberculosis provides fundamental insights into the mechanisms of pathogenesis of mycobacteria. Ramakrishnan L. (2013). “Looking within the zebrafish to understand the tuberculous granuloma.” Adv Exp Med Biol. 2013;783:251-66. doi: 10.1007/978-1-4614-6111-1_13. PMID:23468113 Furthermore, robotic technology has been developed for high-throughput antimicrobial drug screening using zebrafish infection models. Spaink HP, Cui C, Wiweger MI, Jansen HJ, Veneman WJ, Marín-Juez R, de Sonneville J, Ordas A, Torraca V, van der Ent W, Leenders WP, Meijer AH, Snaar-Jagalska BE, Dirks RP. “Robotic injection of zebrafish embryos for high-throughput screening in disease models." Methods. 2013 Aug 15;62(3):246-54. doi: 10.1016/j.ymeth.2013.06.002. Epub 2013 Jun 11. PMID: 23769806 
+
+===Repairing retinal damage===
+Another notable characteristic of the zebrafish is that it possesses four types of cone cell, with ultraviolet-sensitive cells supplementing the red, green and blue cone cell subtypes found in humans. Zebrafish can thus observe a very wide spectrum of colours. The species is also studied to better understand the development of the retina; in particular, how the cone cells of the retina become arranged into the so-called 'cone mosaic'. Zebrafish, in addition to certain other teleost fish, are particularly noted for having extreme precision of cone cell arrangement. 
+
+This study of the zebrafish's retinal characteristics has also extrapolated into medical enquiry. In 2007, researchers at University College London grew a type of zebrafish adult stem cell found in the eyes of fish and mammals that develops into neurons in the retina. These could be injected into the eye to treat diseases that damage retinal neurons—nearly every disease of the eye, including macular degeneration, glaucoma, and diabetes-related blindness. The researchers studied Müller glial cells in the eyes of humans aged from 18 months to 91 years, and were able to develop them into all types of retinal neurons. They were also able to grow them easily in the lab. The stem cells successfully migrated into diseased rats' retinas, and took on the characteristics of the surrounding neurons. The team is working to develop the same approach in humans. 
+
+===Drug discovery===
+As demonstrated through ongoing research programmes, the zebrafish model enables researchers not only to identify genes that might underlie human disease, but also to develop novel therapeutic agents in drug discovery programmes. Zebrafish embryos have proven to be a rapid, cost-efficient, and reliable teratology assay model. 
+
+==See also==
+* Danionin
+* Japanese Brown Frog, which has been modified to develop translucent skin
+* List of freshwater aquarium fish species
+* ZebraBox, a specialised container for the scientific study of zebrafish
+
+==References==
+
+==Further reading==
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+==External links==
+
+* British Association of Zebrafish Husbandry
+* The Zebrafish Information Network (ZFIN)
+* The Zebrafish International Resource Center (ZIRC)
+* The China Zebrafish Resource Center (CZRC)
+* The Zebrafish Genome Sequencing Project at the Wellcome Trust Sanger Institute
+* FishMap: The Zebrafish Community Genomics Browser at the Institute of Genomics and Integrative Biology (IGIB)
+* WebHome Zebrafish GenomeWiki Beta Preview at the IGIB
+* Genome sequencing initiative at the IGIB
+* Danio rerio at Danios.info
+* Sanger Institute Zebrafish Mutation Resource
+* Zebrafish genome via Ensembl
+* FishforScience.com – using zebrafish for medical research
+* FishForPharma
+
+

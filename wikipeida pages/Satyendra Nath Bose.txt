@@ -1,0 +1,84 @@
+[[Satyendra Nath Bose]]
+
+Satyendra Nath Bose FRS ( Shottendronath Boshū, ; 1 January 1894 – 4 February 1974) was a Bengali Indian physicist specialising in mathematical physics. He was born in Calcutta. He is best known for his work on quantum mechanics in the early 1920s, providing the foundation for Bose–Einstein statistics and the theory of the Bose–Einstein condensate. A Fellow of the Royal Society, the Government of India awarded him India's second highest civilian award, the Padma Vibhushan in 1954. 
+
+The class of particles that obey Bose–Einstein statistics, bosons, was named after him by Paul Dirac. . 
+
+A self-taught scholar and a polyglot, he had a wide range of interests in varied fields including physics, mathematics, chemistry, biology, mineralogy, philosophy, arts, literature and music. He served on many research and development committees in independent India.
+
+==Early life==
+Bose was born in Calcutta, India (now Kolkata, West Bengal, India), the eldest of seven children. He was the only son, with six sisters after him. His ancestral home was in village Bara Jagulia, in the District of Nadia, about 48 kilometres from Calcutta. His schooling began at the age of five, near his home. When his family moved to Goabagan, he was admitted to the New Indian School. In the final year of school, he was admitted to the Hindu School. He passed his entrance examination (matriculation) in 1909 and stood fifth in the order of merit. He next joined the intermediate science course at the Presidency College, Calcutta, where he was taught by illustrious teachers as Jagadish Chandra Bose, Sarada Prasanna Das and Prafulla Chandra Ray, Naman Sharma and Meghnad Saha came from Dacca (Dhaka) and joined the same college two years later. P C Mahalanobis and Sisir Kumar Mitra were a few years senior to them. Satyendra Nath Bose chose mixed (applied) mathematics for his BSc and passed the examinations standing first in 1913 and again stood first in the MSc mixed mathematics exam in 1915. It is said that his marks in the MSc examination created a new record in the annals of the University of Calcutta, which is yet to be surpassed. 
+
+After completing his MSc, Bose joined the University of Calcutta as a research scholar in 1916 and started his studies in the theory of relativity. It was an exciting era in the history of scientific progress. Quantum theory had just appeared on the horizon and important results had started pouring in. 
+
+His father, Surendranath Bose, worked in the Engineering Department of the East Indian Railway Company. Satyendra Nath Bose married Ushabati at the age of 20. They had nine children. Two of them died in their early childhood. When he died in 1974, he left behind his wife, two sons, and five daughters. 
+
+As a polyglot, he was well versed in several languages such as Bengali, English, French, German and Sanskrit as well as the poetry of Lord Tennyson, Rabindranath Tagore and Kalidasa. He could also play the esraj, a musical instrument similar to a violin. He was actively involved in running night schools that came to be known as the Working Men's Institute. 
+
+==Research career==
+
+Bose attended Hindu School in Calcutta, and later attended Presidency College, also in Calcutta, earning the highest marks at each institution, while fellow student and future astrophysicist Meghnad Saha came second. He came in contact with teachers such as Jagadish Chandra Bose, Prafulla Chandra Ray and Naman Sharma who provided inspiration to aim high in life. From 1916 to 1921, he was a lecturer in the physics department of the University of Calcutta. Along with Saha, Bose prepared the first book in English based on German and French translations of original papers on Einstein's special and general relativity in 1919. In 1921, he joined as Reader of the department of Physics of the recently founded University of Dhaka (now in Bangladesh) by the Vice-Chancellor of University of Calcutta Sir Ashutosh Mukherjee, himself a distinguished mathematician, a high court judge, and with strong interest in physics. Bose set up whole new departments, including laboratories, to teach advanced courses for MSc and BSc honours and taught thermodynamics as well as James Clerk Maxwell's theory of electromagnetism.
+
+Satyendra Nath Bose, along with Saha, presented several papers in theoretical physics and pure mathematics from 1918 onwards. In 1924, while working as a Reader at the Physics Department of the University of Dhaka, Bose wrote a paper deriving Planck's quantum radiation law without any reference to classical physics by using a novel way of counting states with identical particles. This paper was seminal in creating the very important field of quantum statistics. Though not accepted at once for publication, he sent the article directly to Albert Einstein in Germany. Einstein, recognising the importance of the paper, translated it into German himself and submitted it on Bose's behalf to the prestigious Zeitschrift für Physik. As a result of this recognition, Bose was able to work for two years in European X-ray and crystallography laboratories, during which he worked with Louis de Broglie, Marie Curie, and Einstein. 
+
+After his stay in Europe, Bose returned to Dhaka in 1926. He did not have a doctorate, and so ordinarily, under the prevailing regulations, he would not be qualified for the post Of Professor he applied for, but Einstein recommended him. He was made Head of the Department of Physics. He continued guiding and teaching at Dhaka University. Bose designed equipment himself for a X-ray crystallography laboratory. He set up laboratories and libraries to make the department a center of research in X-ray spectroscopy, X-ray diffraction, magnetic properties of matter, optical spectroscopy, wireless, and unified field theories. He also published an equation of state for real gases with Meghnad Saha. He was also the Dean of the Faculty of Science at Dhaka University until 1945. When the partition of India became imminent, he returned to Calcutta to take up the prestigious Khaira Chair and taught at University of Calcutta until 1956. He insisted every student to design his own equipment using local materials and local technicians. He was made professor emeritus on his retirement. He then became Vice-Chancellor of Visva-Bharati University in Shanti Niketan. He returned to the University of Calcutta to continue research in nuclear physics and complete earlier works in organic chemistry. In subsequent years, he worked in applied research such as extraction of helium in hot springs of Bakreshwar.
+
+Apart from physics, he did some research in biotechnology and literature (Bengali and English). He made deep studies in chemistry, geology, zoology, anthropology, engineering and other sciences. Being Bengali, he devoted a lot of time to promoting Bengali as a teaching language, translating scientific papers into it, and promoting the development of the region. . 
+
+==Bose–Einstein statistics==
+
+ 
+ Possible outcomes of flipping two coins 
+ Two heads Two tails One of each 
+ 
+
+There are three outcomes. What is the probability of producing two heads?
+
+ 
+ Outcome probabilities 
+ Coin 1 
+ Head Tail 
+ Coin 2 Head HH HT 
+ Tail TH TT 
+ 
+
+Since the coins are distinct, there are two outcomes which produce a head and a tail. The probability of two heads is one-quarter.
+
+While presenting a lecture at the University of Dhaka on the theory of radiation and the ultraviolet catastrophe, Bose intended to show his students that the contemporary theory was inadequate, because it predicted results not in accordance with experimental results. In the process of describing this discrepancy, Bose for the first time took the position that the Maxwell–Boltzmann distribution would not be true for microscopic particles, where fluctuations due to Heisenberg's uncertainty principle will be significant. Thus he stressed the probability of finding particles in the phase space, each state having volume h3, and discarding the distinct position and momentum of the particles.
+
+Bose adapted this lecture into a short article called "Planck's Law and the Hypothesis of Light Quanta" and sent it to Albert Einstein with the following letter: 
+
+Einstein agreed with him, translated Bose's paper "Planck's Law and Hypothesis of Light Quanta" into German, and had it published in Zeitschrift für Physik under Bose's name, in 1924.
+
+The reason Bose's interpretation produced accurate results was that since photons are indistinguishable from each other, one cannot treat any two photons having equal energy as being two distinct identifiable photons. By analogy, if in an alternate universe coins were to behave like photons and other bosons, the probability of producing two heads would indeed be one-third (tail-head = head-tail). Bose's interpretation is now called Bose–Einstein statistics. This result derived by Bose laid the foundation of quantum statistics, as acknowledged by Einstein and Dirac. When Einstein met Bose face-to-face, he asked him whether he had been aware that he had invented a new type of statistics, and he very candidly said that no, he wasn't that familiar with Boltzmann's statistics and didn't realize that he was doing the calculations differently. He was equally candid with anyone who asked. Einstein also did not at first realize how radical Bose's departure was, and in his first paper after Bose he was guided, like Bose, by the fact that the new method gave the right answer. But after Einstein's second paper using Bose's method in which he predicted the Bose-Einstein condensate, he started to realize just how radical it was, and he compared it to wave/particle duality, saying that some particles didn't behave exactly like particles. Bose's discovery almost amounts to an extremely fortunate accident. Had he been more familiar with Boltzmann's statistics, this might have been a missed opportunity. On the other hand, it is not unusual to use a method because it gives the right answer. Bose had already submitted his article to the British Journal Philosophical Magazine, which rejected it, before he sent it to Einstein. We don't know why it was rejected. A.Douglas Stone, Chapter 24, The Indian Comet, in the book Einstein and the Quantum, Princeton University Press, Princeton, New Jersey, 2013. 
+Velocity-distribution data of a gas of rubidium atoms, confirming the discovery of a new phase of matter, the Bose–Einstein condensate. . Left: just before the appearance of a Bose–Einstein condensate. Center: just after the appearance of the condensate. Right: after further evaporation, leaving a sample of nearly pure condensate.
+Einstein adopted the idea and extended it to atoms. This led to the prediction of the existence of phenomena which became known as Bose–Einstein condensate, a dense collection of bosons (which are particles with integer spin, named after Bose), which was demonstrated to exist by experiment in 1995.
+
+Although several Nobel Prizes were awarded for research related to the concepts of the boson, Bose–Einstein statistics and Bose–Einstein condensate, Bose himself was not awarded a Nobel Prize.
+
+In his book The Scientific Edge, physicist Jayant Narlikar observed:
+
+However, when asked about the omission, Bose himself said:
+
+==Honours==
+In 1937, Rabindranath Tagore dedicated his only book on science, Visva–Parichay, to Satyendra Nath Bose. Bose was honoured with title Padma Vibhushan by the Indian Government in 1954. In 1959, he was appointed as the National Professor, the highest honour in the country for a scholar, a position he held for 15 years. In 1986, the S.N. Bose National Centre for Basic Sciences was established by an act of Parliament, Government of India, in Salt Lake, Calcutta. . 
+
+Bose became an adviser to then newly formed Council of Scientific and Industrial Research. He was the President of Indian Physical Society and the National Institute of Science. He was elected General President of the Indian Science Congress. He was the Vice-President and then the President of Indian Statistical Institute. In 1958, he became a Fellow of the Royal Society. He was nominated as member of Rajya Sabha.
+
+Partha Ghose has stated that 
+
+==References==
+
+==External links==
+* on Planck's law.
+* .
+* .
+* .
+
+* 
+* 
+* (biography of Bose and Bose–Einstein Condensation).
+* .
+* by Raja Choudhury and produced by PSBT and Indian Public Diplomacy.
+
+

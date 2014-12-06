@@ -1,0 +1,120 @@
+[[Acetone]]
+
+: This page refers to the chemical compound. For the slowcore band, see Acetone (band).
+
+Acetone (systematically named propanone) is the organic compound with the formula (CH3)2CO. It is a colorless, mobile, flammable liquid, and is the simplest ketone.
+
+Acetone is miscible with water and serves as an important solvent in its own right, typically for cleaning purposes in the laboratory. About 6.7 million tonnes were produced worldwide in 2010, mainly for use as a solvent and production of methyl methacrylate and bisphenol A. Acetone, World Petrochemicals report, January 2010 Stylianos Sifniades, Alan B. Levy, "Acetone" in Ullmann's Encyclopedia of Industrial Chemistry, Wiley-VCH, Weinheim, 2005. It is a common building block in organic chemistry. Familiar household uses of acetone are as the active ingredient in nail polish remover and as paint thinner.
+
+Acetone is produced and disposed of in the human body through normal metabolic processes. It is normally present in blood and urine. People with diabetes produce it in larger amounts. Reproductive toxicity tests show that it has low potential to cause reproductive problems. Pregnant women, nursing mothers and children have higher levels of acetone. American Chemistry Council, Acetone VCCEP Submission, September 10, 2003, page 9 Ketogenic diets that increase acetone in the body are used to reduce epileptic attacks in infants and children who suffer from recalcitrant refractory epilepsy.
+
+==Metabolism==
+
+===Biosynthesis===
+Small amounts of acetone are produced in the body by the decarboxylation of ketone bodies. Certain dietary patterns, including prolonged fasting and high-fat low-carbohydrate dieting, can produce ketosis, in which acetone is formed in body tissue. Certain health conditions, such as alcoholism and diabetes, can produce ketoacidosis, uncontrollable ketosis that leads to a sharp, and potentially fatal, increase in the acidity of the blood. Since it is a byproduct of fermentation, acetone is a byproduct of the distillery industry.
+
+===Metabolic use===
+Although some biochemistry textbooks and current research publications indicate that acetone cannot be metabolized, there is in fact evidence to the contrary, some dating back thirty years. Acetone can be produced from the oxidation of ingested isopropanol, or from the spontaneous/enzymatic breakdown of acetoacetate in ketotic individuals. It can then be metabolized either by CYP2E1 via methylglyoxal to D-lactate and pyruvate, and ultimately glucose/energy, or by a different pathway via propylene glycol to pyruvate, lactate, acetate (usable for energy) and propionaldehyde. 
+
+==Production==
+In 2010, the worldwide production capacity for acetone was estimated at 6.7 million tonnes per year. With 1.56 million tonnes per year, the United States had the highest production capacity, followed by Taiwan and mainland China. The largest producer of acetone is INEOS Phenol, owning 17% of the world's capacity, with also significant capacity (7–8%) by Mitsui, Sunoco and Shell in 2010. INEOS Phenol also owns the world's largest production site (420,000 tonnes/annum) in Beveren (Belgium). Spot price of acetone in summer 2011 was 1100–1250 USD/tonne in the United States. Acetone (US Gulf) Price Report – Chemical pricing information. ICIS Pricing. Retrieved on 2012-11-26. 
+
+===Current method===
+Acetone is produced directly or indirectly from propylene. Approximately 83% of acetone is produced via the cumene process; as a result, acetone production is tied to phenol production. In the cumene process, benzene is alkylated with propylene to produce cumene, which is oxidized by air to produce phenol and acetone:
+
+:Overview of the cumene process
+
+Other processes involve the direct oxidation of propylene (Wacker-Hoechst process), or the hydration of propylene to give 2-propanol, which is oxidized to acetone. 
+
+===Older methods===
+Previously, acetone was produced by the dry distillation of acetates, for example calcium acetate in ketonic decarboxylation. 
+: Ca(CH3COO)2 → CaO(s) + CO2(g) + (CH3)2CO (v)
+
+Before that, during World War I acetone was produced using acetone-butanol-ethanol fermentation with Clostridium acetobutylicum bacteria, which was developed by Chaim Weizmann (later the first president of Israel) in order to help the British war effort in the preparation of Cordite. This acetone-butanol-ethanol fermentation was eventually abandoned when newer methods with better yields were found. 
+
+==Uses==
+About a third of the world's acetone is used as a solvent, and a quarter is consumed as acetone cyanohydrin a precursor to methyl methacrylate. 
+
+===Solvent===
+Acetone is a good solvent for many plastics and some synthetic fibers. It is used for thinning polyester resin, cleaning tools used with it, and dissolving two-part epoxies and superglue before they harden. It is used as one of the volatile components of some paints and varnishes. As a heavy-duty degreaser, it is useful in the preparation of metal prior to painting. It is also useful for high reliability soldering applications to remove rosin flux after soldering is complete; this helps to prevent the Rusty bolt effect.
+
+Acetone is used as a solvent by the pharmaceutical industry and as a denaturant in denatured alcohol. 
+Acetone is also present as an excipient in some pharmaceutical drugs. Inactive Ingredient Search for Approved Drug Products, FDA/Center for Drug Evaluation and Research 
+
+Although itself flammable, acetone is used extensively as a solvent for the safe transporting and storing of acetylene, which cannot be safely pressurized as a pure compound. Vessels containing a porous material are first filled with acetone followed by acetylene, which dissolves into the acetone. One liter of acetone can dissolve around 250 liters of acetylene. Mine Safety and Health Administration (MSHA) – Safety Hazard Information – Special Hazards of Acetylene. Msha.gov. Retrieved on 2012-11-26. History – Acetylene dissolved in acetone. Aga.com. Retrieved on 2012-11-26. 
+
+===Chemical intermediate===
+Acetone is used to synthesize methyl methacrylate. It begins with the initial conversion of acetone to acetone cyanohydrin:
+:(CH3)2CO + HCN → (CH3)2C(OH)CN
+
+In a subsequent step, the nitrile is hydrolyzed to the unsaturated amide, which is esterified:
+:(CH3)2C(OH)CN + CH3OH → CH2=(CH3)CCO2CH3 + NH3
+
+The third major use of acetone (about 20%) is synthesizing bisphenol A. Bisphenol A is a component of many polymers such as polycarbonates, polyurethanes, and epoxy resins. The synthesis involves the condensation of acetone with phenol:
+:(CH3)2CO + 2 C6H5OH → (CH3)2C(C6H4OH)2 + H2O
+
+Many millions of kilograms of acetone are consumed in the production of the solvents methyl isobutyl alcohol and methyl isobutyl ketone. These products arise via an initial aldol condensation to give diacetone alcohol. 
+:2 (CH3)2CO → (CH3)2C(OH)CH2C(O)CH3
+
+===Laboratory===
+In the laboratory, acetone is used as a polar, aprotic solvent in a variety of organic reactions, such as SN2 reactions. The use of acetone solvent is critical for the Jones oxidation. It does not form an azeotrope with water (see azeotrope (data)). What is an Azeotrope?. Solvent—recycling.com. Retrieved on 2012-11-26. It is a common solvent for rinsing laboratory glassware because of its low cost and volatility. Despite its common use as a supposed drying agent, it is not effective except by bulk displacement and dilution. Acetone can be cooled with dry ice to −78 °C without freezing; acetone/dry ice baths are commonly used to conduct reactions at low temperatures. Acetone is fluorescent under ultraviolet light, and its vapor may be used as a fluorescent tracer in fluid flow experiments. 
+
+===Medical and cosmetic uses===
+Acetone is used in a variety of general medical and cosmetic applications and is also listed as a component in food additives and food packaging.
+Dermatologists use acetone with alcohol for acne treatments to peel dry skin.
+
+Acetone is commonly used in chemical peeling. Common agents used today for chemical peels are salicylic acid, glycolic acid, 30% salicylic acid in ethanol, and trichloroacetic acid (TCA). Prior to chemexfoliation, the skin is cleaned and excess fat removed in a process called defatting. Acetone, Septisol, or a combination of these agents is commonly used in this process.
+
+===Domestic and other niche uses===
+Acetone is often the primary component in cleaning agents such as nail polish remover. Acetone is a component of superglue remover and easily removes residues from glass and porcelain. Make-up artists use acetone to remove skin adhesive from the netting of wigs and moustaches by immersing the item in an acetone bath, then removing the softened glue residue with a stiff brush.
+
+This chemical is also used as an artistic agent; when rubbed on the back of a laser print or photocopy placed face-down on another surface and burnished firmly, the toner of the image transfers to the destination surface.
+
+Acetone can also be used in combination with automatic transmission fluid to create an effective penetrating oil. Brake fluid is sometimes used in place of ATF. These mixtures (usually 1:1) can be useful in loosening rusted or stuck bolts.
+
+==Safety==
+
+===Flammability===
+The most hazardous property of acetone is its extreme flammability. At temperatures greater than acetone's flash point of -20 C, air mixtures of between 2.5% and 12.8% acetone, by volume, may explode or cause a flash fire. Vapors can flow along surfaces to distant ignition sources and flash back. Static discharge may also ignite acetone vapors, though acetone has a very high ignition initiation energy point and therefore accidental ignition is rare. Even pouring or spraying acetone over red-glowing coal will not ignite it, due to the high concentration of vapour and the cooling effect of evaporation of the liquid. Acetone MSDS. Hazard.com (1998-04-21). Retrieved on 2012-11-26. It auto-ignites at 465 C. Auto-ignition temperature is also dependent upon the exposure time, thus at some tests it is quoted as 525 °C. Also, industrial acetone is likely to contain a small amount of water which also inhibits ignition.
+
+===Acetone peroxide===
+
+When oxidized, acetone forms acetone peroxide as a byproduct, which is a highly unstable, primary high explosive compound. It may be formed accidentally, e.g. when waste hydrogen peroxide is poured into waste solvent containing acetone. Due to its instability, it is rarely used, despite its easy chemical synthesis.
+
+===Health information===
+Acetone has been studied extensively and is generally recognized to have low acute and chronic toxicity if ingested and/or inhaled. Inhalation of high concentrations (around 9200 ppm) in the air caused irritation of the throat in humans in as little as 5 minutes. Inhalation of concentrations of 1000 ppm caused irritation of the eyes and of the throat in less than 1 hour; however, the inhalation of 500 ppm of acetone in the air caused no symptoms of irritation in humans even after 2 hours of exposure. Acetone is not currently regarded as a carcinogen, a mutagenic chemical or a concern for chronic neurotoxicity effects. 
+
+Acetone can be found as an ingredient in a variety of consumer products ranging from cosmetics to processed and unprocessed foods. Acetone has been rated as a GRAS (generally recognized as safe) substance when present in beverages, baked foods, desserts, and preserves at concentrations ranging from 5 to 8 mg/L. Additionally, a joint U.S-European study found that acetone's "health hazards are slight".
+
+====Toxicology====
+Acetone is believed to exhibit only slight toxicity in normal use, and there is no strong evidence of chronic health effects if basic precautions are followed. Basic Information on Acetone. Ccohs.ca (1999-02-19). Retrieved on 2012-11-26. 
+
+At very high vapor concentrations, acetone is irritating and, like many other solvents, may depress the central nervous system. It is also a severe irritant on contact with eyes, and a potential pulmonary aspiration risk. In one documented case, ingestion of a substantial amount of acetone led to systemic toxicity, although the patient eventually fully recovered. Some sources estimate LD50 for human ingestion at 1.159 g/kg; LD50 inhalation by mice is given as 44 g/m3, over 4 hours. Safety (MSDS) data for propanone. Msds.chem.ox.ac.uk. Retrieved on 2012-11-26. 
+
+Acetone has been shown to have anticonvulsant effects in animal models of epilepsy, in the absence of toxicity, when administered in millimolar concentrations. It has been hypothesized that the high-fat low-carbohydrate ketogenic diet used clinically to control drug-resistant epilepsy in children works by elevating acetone in the brain. 
+
+* EPA EPCRA Delisting (1995). EPA removed acetone from the list of "toxic chemicals" maintained under Section 313 of the Emergency Planning and Community Right to Know Act (EPCRA). In making that decision, EPA conducted an extensive review of the available toxicity data on acetone and found that acetone "exhibits acute toxicity only at levels that greatly exceed releases and resultant exposures", and further that acetone "exhibits low toxicity in chronic studies".
+
+* Genotoxicity. Acetone has been tested in more than two dozen in vitro and in vivo assays. These studies indicate that acetone is not genotoxic.
+
+* Carcinogenicity. EPA in 1995 concluded, "There is currently no evidence to suggest a concern for carcinogenicity". (EPCRA Review, described in Section 3.3). NTP scientists have recommended against chronic toxicity/carcinogenicity testing of acetone because "the prechronic studies only demonstrated a very mild toxic response at very high doses in rodents".
+
+* Neurotoxicity and Developmental Neurotoxicity. The neurotoxic potential of both acetone and isopropanol, the metabolic precursor of acetone, have been extensively studied. These studies demonstrate that although exposure to high doses of acetone may cause transient central nervous system effects, acetone is not a neurotoxicant. A guideline developmental neurotoxicity study has been conducted with isopropanol, and no developmental neurotoxic effects were identified, even at the highest dose tested. (SIAR, pp. 1, 25, 31).
+
+* Environmental. When the EPA exempted acetone from regulation as a volatile organic compound (VOC) in 1995, EPA stated that this exemption would "contribute to the achievement of several important environmental goals and would support EPA's pollution prevention efforts". 60 Fed. Reg. 31,634 (June 16, 1995). 60 Fed. Reg. 31,634 (June 16, 1995). EPA noted that acetone could be used as a substitute for several compounds that are listed as hazardous air pollutants (HAP) under section 112 of the Clean Air Act.
+
+==Environmental effects==
+Although acetone occurs naturally in the environment in plants, trees, volcanic gases, forest fires, and as a product of the breakdown of body fat, Acetone, Agency for Toxic Substances and Disease Registry ToxFAQs, 1995 the majority of the acetone released into the environment is of industrial origin. Acetone evaporates rapidly, even from water and soil. Once in the atmosphere, it has a 22-day half-life and is degraded by UV light via photolysis (primarily into methane and ethane. ) Consumption by microorganisms contributes to the dissipation of acetone in soil, animals, or waterways. The LD50 of acetone for fish is 8.3 g/L of water (or about 1%) over 96 hours, and its environmental half-life in water is about 1 to 10 days. Acetone may pose a significant risk of oxygen depletion in aquatic systems due to the microbial consumption. Safety Data Sheet Acetone. jmloveridge.com. Retrieved on 2012-11-26. 
+
+==References==
+
+==External links==
+
+*
+*NIOSH Pocket Guide to Chemical Hazards
+*Acetone Safety Data Sheet (SDS)
+*Hazardous substances databank entry at the national library of medicine
+*
+*Calculation of vapor pressure, liquid density, dynamic liquid viscosity, surface tension of acetone
+
+

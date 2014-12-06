@@ -1,0 +1,125 @@
+[[Acne vulgaris]]
+
+Acne vulgaris (or simply acne) is a common human skin disease, characterized by areas of seborrhea (scaly red skin), comedones (blackheads and whiteheads), papules (pinheads), nodules (large papules), pimples, and possibly scarring. Aside from scarring, its main effects are psychological, such as reduced self-esteem and in very extreme cases, depression or suicide. One study has estimated the incidence of suicidal ideation in patients with acne as 7.1%. 
+
+In adolescence, acne is usually caused by an increase in androgens such as testosterone, which occurs during puberty, regardless of sex. Acne more often affects skin with a greater numbers of oil glands; these areas include the face, the upper part of the chest, and the back. Severe acne is inflammatory, but acne can also manifest in noninflammatory forms. The skin changes are caused by changes in pilosebaceous units, skin structures consisting of a hair follicle and its associated sebaceous gland, changes that require androgen stimulation.
+
+Many different treatments exist. Eating fewer simple carbohydrates like sugar may help. Medications for acne include: benzoyl peroxide, antibiotics (either topical or by pill), retinoids, antiseborrheic medications, anti-androgen medications, hormonal treatments, salicylic acid, alpha hydroxy acid, azelaic acid, nicotinamide, and keratolytic soaps. Early and aggressive treatment is advocated by some to lessen the overall long-term impact to individuals. 
+
+Acne occurs most commonly during adolescence, affecting an estimated 80–90% of teenagers in the Western world. Lower rates are reported in some rural societies. In 2010 it was estimated to be the 8th most common disease globally affecting 650 million people. For most people, acne diminishes over time and tends to disappear – or at the very least decreases – by age 25. There is, however, no way to predict how long it will take to disappear entirely, and some individuals will carry this condition well into their thirties, forties, and beyond. Anderson, Laurence. 2006. Looking Good, the Australian guide to skin care, cosmetic medicine and cosmetic surgery. AMPCo. Sydney. ISBN 0-85557-044-X. 
+
+==Signs and symptoms==
+Typical features of acne include: seborrhea (increased oil-sebum secretion), comedones, papules, pustules, nodules (large papules), and possibly scarring. The appearance of acne varies with skin color. It may result in psychological and social problems. 
+
+Some of the large nodules were previously called "cysts" and the term nodulocystic has been used to describe severe cases of inflammatory acne. The "cysts", or boils that accompany cystic acne, can appear on the buttocks, groin, and armpit area, and anywhere else where sweat collects in hair follicles and perspiration ducts. Boils (Skin Abscesses), medicinenet.com Cystic acne affects deeper skin tissue than does common acne. 
+
+===Scars===
+Acne scars are the result of inflammation within the dermis brought on by acne. The scar is created by the wound trying to heal itself resulting in too much collagen in one spot. Physical acne scars are often referred to as "ice pick" scars. This is because the scars tend to cause an indentation in the skin's surface. There is a range of treatments available. Although quite rare, the medical condition atrophia maculosa varioliformis cutis also results in "acne-like" depressed scars on the face.
+
+*Ice pick scars: Deep pits, that are the most common and a classic sign of acne scarring.
+*Box car scars: Angular scars that usually occur on the temple and cheeks, and can be either superficial or deep, these are similar to chickenpox scars.
+*Rolling scars: Scars that give the skin a wave-like appearance.
+*Hypertrophic scars: Thickened, or keloid scars.
+
+===Pigmentation===
+Pigmented scars is a slightly misleading term, as it suggests a change in the skin's pigmentation and that they are true scars; however, neither is true. Pigmented scars are usually the result of nodular or cystic acne (the painful 'bumps' lying under the skin). They often leave behind an inflamed red mark. Often, the pigmentation scars can be avoided simply by avoiding aggravation of the nodule or cyst. Pigmentation scars nearly always fade with time taking between three months to two years to do so, although they can last indefinitely if untreated.
+
+Image:Cysticacne.JPG|A severe case of cystic acne
+Image:Backacne.JPG|Cystic acne on the back.
+Image:AcneVulgarisUSMIL.jpg|Different types of Acne Vulgaris: A: Cystic acne on the face, B: Subsiding tropical acne of trunk, C: Extensive acne on chest and shoulders.
+
+==Cause==
+
+===Hormonal===
+Hormonal activity, such as menstrual cycles and puberty, may contribute to the formation of acne. During puberty, an increase in sex hormones called androgens cause the follicular glands to grow larger and make more sebum; A similar increase in androgens occurs during pregnancy, also leading to increased sebum production. Use of anabolic steroids may have a similar effect. 
+Several hormones have been linked to acne: the androgens testosterone, dihydrotestosterone (DHT) and dehydroepiandrosterone sulfate (DHEAS), as well as insulin-like growth factor 1 (IGF-I).
+
+Development of acne vulgaris in later years is uncommon, although the incidence of rosacea, which may have a similar presentation, is increased in older age groups. True acne vulgaris in adult women may be a feature of an underlying condition such as pregnancy, or disorders such as polycystic ovary syndrome, hirsutism, or Cushing's syndrome. Menopause-associated acne (known as acne climacterica) occurs as production of the natural anti-acne ovarian hormones estradiol and progesterone fail, permitting the acnegenic hormone testosterone to exert its effects unopposed.
+
+===Genetic===
+The predisposition for specific individuals to acne is likely explained by a genetic component, which has been supported by twin studies as well as studies that have looked at rates of acne among first degree relatives. The genetics of acne susceptibility is likely polygenic, as the disease does not follow classic Mendelian inheritance pattern. There are multiple candidates for genes which are possibly related to acne, including polymorphisms in TNF-alpha, IL-1 alpha, CYP1A1 among others. 
+
+===Psychological===
+While the connection between acne and stress has been debated, scientific research indicates that "increased acne severity" is "significantly associated with increased stress levels." The National Institutes of Health (USA) list stress as a factor that "can cause an acne flare." National Institute of Arthritis and Musculoskeletal and Skin Diseases, National Institutes of Health (January 2006). "Questions and Answers about Acne" , p. 5. 
+
+===Infectious===
+Propionibacterium acnes (P. acnes) is the anaerobic bacterium species that is widely concluded to cause acne, though Staphylococcus aureus has been universally discovered to play some role since normal pores appear colonized only by P. acnes. Regardless, there are specific clonal sub-strains of P. acnes associated with normal skin health and others with long-term acne problems. It is as yet inconclusive whether any of these undesirable strains evolve on-site in the adverse conditions or are all pathogenically acquired, or possibly both depending on the individual patient. These strains either have the capability of changing, perpetuating, or adapting to, the abnormal cycle of inflammation, oil production, and inadequate sloughing activities of acne pores. At least one particularly virulent strain, though, has been circulating around Europe for at least 87 years. In vitro, resistance of P. acnes to commonly used antibiotics has been increasing, as well. It is unclear if the parasitic mite Demodex, has an effect. 
+
+===Diet===
+The relationship between diet and acne is unclear as there is no good quality evidence. However, a high glycemic load diet is associated with worsening acne. There is also a positive association between the consumption of milk and a greater rate and severity of acne. Other associations such as chocolate and salt are not supported by the evidence. Chocolate does contain a varying amount of sugar that can lead to a high glycemic load and it can be made with or without milk. There may be a relationship between acne and insulin metabolism and one trial found a relationship between acne and obesity. 
+
+==Pathophysiology==
+Acne develops as a result of blockages in the follicles. Hyperkeratinization and formation of a plug of keratin and sebum (a microcomedo) is the earliest change. Enlargement of sebaceous glands and an increase in sebum production occur with increased androgen (DHEA-S) production at adrenarche. The microcomedo may enlarge to form an open comedo (blackhead) or closed comedo. Comedones are the direct result of sebaceous glands' becoming clogged with sebum, a naturally occurring oil, and dead skin cells. In these conditions, the naturally occurring largely commensal bacterium Propionibacterium acnes can cause inflammation, leading to inflammatory lesions (papules, infected pustules, or nodules) in the dermis around the microcomedo or comedone, which results in redness and may result in scarring or hyperpigmentation. 
+
+== Diagnosis ==
+There are multiple scales for grading the severity of acne vulgaris, Leeds, Cook's and Pillsbury scales obtained from here three of these being:
+*Leeds acne grading technique: Counts and categorises lesions into inflammatory and non-inflammatory (ranges from 0–10.0).
+*Cook's acne grading scale: Uses photographs to grade severity from 0 to 8 (0 being the least severe and 8 being the most severe).
+*Pillsbury scale: Simply classifies the severity of the acne from 1 (least severe) to 4 (most severe).
+
+===Differential diagnosis===
+Other similar conditions include: rosacea, folliculitis, keratosis pilaris, perioral dermatitis, and angiofibromas among others. 
+
+==Management==
+Many different treatments exist for acne including benzoyl peroxide, antibiotics, retinoids, antiseborrheic medications, anti-androgen medications, hormonal treatments, salicylic acid, alpha hydroxy acid, azelaic acid, nicotinamide, and keratolytic soaps. They are believed to work in at least four different ways, including the following: normalizing shedding and sebum production into the pore to prevent blockage, killing P. acnes, anti-inflammatory effects, and hormonal manipulation. 
+
+===Medications===
+
+====Benzoyl peroxide====
+Benzoyl peroxide cream
+Benzoyl peroxide is a first-line treatment for mild and moderate acne due to its effectiveness and mild side-effects (mainly irritant dermatitis). It works against P. acnes, helps prevent formation of comedones, and has anti-inflammatory properties. Benzoyl peroxide normally causes dryness of the skin, slight redness, and occasional peeling when side effects occur. This topical does increase sensitivity to the sun as indicated on the package, so sunscreen use is often advised during the treatment to prevent sunburn. Benzoyl peroxide has been found to be nearly as effective as antibiotics with all concentrations being equally effective. Unlike antibiotics, benzoyl peroxide does not appear to generate bacterial resistance. Benzoyl peroxide is often combined with antibiotics.
+
+====Antibiotics====
+Antibiotics are reserved for more severe cases and decrease acne due to their antimicrobial activity against P. acnes in conjunction with anti-inflammatory properties. With increasing resistance of P. acnes worldwide, they are becoming less effective. Commonly used antibiotics, either applied topically or taken orally, include erythromycin (category B), clindamycin (category B), metronidazole (category B), and tetracyclines such as doxycycline and minocycline. Topical erythromycin and clindamycin are considered safe to use as acne treatment during pregnancy (category B) due to negligible systemic absorption. Nadifloxacin (category N), and dapsone (category C) are other topical antibiotics that may be used to treat acne in pregnant women, but have received less extensive study. 
+
+====Salicylic acid====
+Salicylic acid (category C) helps to lessen acne due to its bacteriostatic and keratolytic properties. Additionally, salicylic acid can open obstructed skin pores and promotes shedding of epithelial skin cells. Hyperpigmentation of the skin has been observed in individuals with darker skin types who use salicylic acid. 
+
+====Hormones====
+In females, acne can be improved with the use of any combined oral contraceptive. The combinations that contain third or fourth generation progestins such as desogestrel, norgestimate or drospirenone may theoretically be more beneficial. Anti-androgen agents including androgen receptor blockers such as cyproterone or spironolactone have also been used successfully to treat acne. Hormonal therapies should not be used to treat during pregnancy or lactation as they have been associated with certain birth defects such as hypospadias and feminization of the male fetus. 
+
+====Topical retinoids====
+Topical retinoids are medications that possess anti-inflammatory properties and work by normalizing the follicle cell life cycle. This class includes tretinoin (category C), adapalene (category C), and tazarotene (category X). Like isotretinoin, they are related to vitamin A, but are administered topically and generally have much milder side effects. They can, however, cause significant irritation of the skin. The retinoids appear to influence the cell life cycle in the follicle lining. This helps prevent the hyperkeratinization of these cells that can create a blockage. Retinol, a form of vitamin A, has similar, but milder, effects and is used in many over-the-counter moisturizers and other topical products. Topical retinoids often cause an initial flare-up of acne and facial flushing.
+
+====Oral retinoids====
+Isotretinoin is very effective for severe acne as well as moderate acne refractory to other treatments. Improvement is typically seen after one to two months of use. After a single course, about 80% of people report an improvement with more than 50% reporting complete remission. About 20% of people require a second course. A number of adverse effects may occur including: dry skin, nose bleeds, muscle pains, increased liver enzymes, and increased lipid levels in the blood. If used during pregnancy there is a high risk of abnormalities in the baby and thus women of child bearing age are required to use effective birth control. There is no clear evidence that use of oral retinoids increases the risk of psychiatric side effects such as depression and suicidality. 
+
+====Combination therapy====
+Combination therapy using medications of different classes together, each with a different mechanism of action, has been demonstrated to be a more efficacious approach to acne treatment than monotherapy. Frequently used combinations include the following: antibiotic + benzoyl peroxide, antibiotic + topical retinoid, or topical retinoid + benzoyl peroxide. 
+
+===Procedures===
+Comedo extraction may help those with comedones that do not improve with standard treatment, at least temporarily. A procedure with high patient satisfaction for immediate relief is the injection of corticosteroids into the inflamed acne comedone. There is no evidence that microdermabrasion is effective. 
+
+, evidence for light therapy and lasers is insufficient to recommend them for routine use. Light therapy is an expensive treatment modality and while it appears to provide short term benefit, there is a lack of long term outcome data or data in those with severe acne. 
+
+Laser surgery can be used to reduce the scars left behind by acne. 
+
+For people with cystic acne, boils can be drained through surgical lancing. 
+
+===Alternative medicine===
+Numerous natural products have been investigated for treating people with acne. Azelaic acid has been shown effective for mild-to-moderate acne when applied topically at a 20% concentration. Application twice daily for six months is necessary, and treatment is as effective as topical benzoyl peroxide 5%, isotretinoin 0.05%, and erythromycin 2%. Azelaic acid may cause skin irritation but is otherwise very safe. A topical application of tea tree oil has been suggested. 
+
+==Prognosis==
+Acne usually improves around the age of 20 but may persist into adulthood. Permanent scarring may occur. 
+
+==Epidemiology==
+Globally acne affects approximately 650 million people, or about 9.4% of the population, as of 2010. It affects almost 90% of people in Western societies during their teenage years and may persist into adulthood. Post-adolescent acne (acne after age 25) has an incidence of 54% in women and 40% in men. Acne vulgaris has a lifetime prevalence of 85%. About 20% have moderate or severe cases. Rates appear to be lower in rural societies and it may not occur in the non-Westernized people of Papua New Guinea and Paraguay. It is slightly more common in females than males (9.8% versus 9.0%). In those over 40 years old, 1% of males and 5% of females still have problems. It affects people of all ethnic groups, and it is not clear if race affects rates of disease. 
+
+Acne affects 40 to 50 million people in the United States (16%) and approximately 3 to 5 million in Australia (23%). In the United States, acne tends to be more severe in Caucasians than people of African descent. 
+
+==History==
+* Ancient Egypt, Ancient Greece and Ancient Rome: Sulfur was used to treat acne. 
+* 1920s: Benzoyl peroxide was used as a medication to treat acne. 
+* 1970s: Tretinoin (original Trade Name Retin A) was found to be an effective treatment for acne. This preceded the development of oral isotretinoin (sold as Accutane and Roaccutane) in 1980. Also, antibiotics such as minocycline are used as treatments for acne.
+* 1980s: Accutane is introduced in the United States, and later found to be a teratogen, highly likely to cause birth defects if taken during pregnancy. In the United States, more than 2,000 women became pregnant while taking the drug between 1982 and 2003, with most pregnancies ending in abortion or miscarriage. About 160 babies with birth defects were born. 
+
+==Research==
+A vaccine against inflammatory acne has been tested successfully in mice, but has not yet been proven to be effective in humans. 
+
+In 2007 the first genome sequencing of a P. acnes bacteriophage (PA6) occurred which "should greatly enhance the development of a potential bacteriophage therapy to treat acne and, therefore, overcome the significant problems associated with long-term antibiotic therapy and bacterial resistance." 
+
+==References==
+
+==External links==
+
+

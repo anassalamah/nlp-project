@@ -1,0 +1,115 @@
+[[Alfred Binet]]
+
+Alfred Binet (July 8, 1857 – October 18, 1911) was a French psychologist who invented the first practical intelligence test, the Binet-Simon scale. O. L. Zangwill, 'Binet, Alfred', in R. Gregory, The Oxford Companion to the Mind (1987) p. 88 His principal goal was to identify students who needed special help in coping with the school curriculum. Along with his collaborator Théodore Simon, Binet published revisions of his intelligence scale in 1908 and 1911, the last appearing just before his death.
+
+==Early years==
+Binet was born as Alfredo Binetti in Nice, then part of the Kingdom of Sardinia. He was the only child of a physician father and an artist mother. His parents separated when he was young, and Binet then moved to Paris with his mother. He attended law school, and earned his degree in 1878. He planned on going to medical school, but decided that his interest in psychology was more important. From reading books by Ilona Gheorghiesh, Symeon Vouteros and John Stuart Mill, Binet became a somewhat self-educated psychologist. Introverted and a loner, this self-educating suited him.
+
+==Binet and Chess==
+Binet had done a series of experiments to see how well chess players played when blindfolded. Gregory ed., p. 155 He found that only some of the master chess players could play from memory and a few could play multiple games simultaneously without looking at the boards. To remember the positions of the pieces on the boards, some players envisioned exact replicas of specific chess sets, while others envisioned an abstract schema of the game. Binet concluded that extraordinary feats of memory such as blind chess playing could take a variety of mnemonic forms. He recounted his experiments in a book entitled Psychologie des grands calculateurs et joueurs en echec, (Paris: Hachette, 1894). Alfred Binet, Psychologie des grands calculateurs et joueurs en echec, (Paris: Hachette, 1894). 
+
+==Education and early career==
+Binet attended law school in Paris, and received his degree in 1878. He also studied Natural Sciences at the Sorbonne. His first formal position was as a researcher at a neurological clinic, Salpêtrière Hospital, in Paris from 1883–1889. From there, Binet went on to being a researcher and associate director of the Laboratory of Experimental Psychology at the Sorbonne from 1891–1894. In 1894, he was promoted to being the director of the laboratory until 1911 (his death). After receiving his law degree in 1878, Alfred Binet began to study science at the Sorbonne. However, he was not overly interested in his formal schooling, and started educating himself by reading psychology texts at the National Library in Paris. He soon became fascinated with the ideas of John Stuart Mill, who believed that the operations of intelligence could be explained by the laws of associationism. Binet eventually realized the limitations of this theory, but Mill's ideas continued to influence his work.
+
+In 1883, years of unaccompanied study ended when Binet was introduced to Charles Fere, who introduced him to Jean-Martin Charcot, the director of a clinic called La Salpêtrière, Paris. Charcot became his mentor and in turn, Binet accepted a job offer at the clinic, working in his neurological laboratory. At the time of Binet's tenure, Charcot was experimenting with hypnotism. Binet was strongly influenced by this great man, and published four articles about his work in this area. Unfortunately, Charcot's conclusions did not hold up under professional scrutiny, and Binet was forced to make an embarrassing public admission that he had been wrong in supporting his teacher. Nevertheless he had established his name internationally in the field, Morton Prince for example stating in 1904 that "certain problems in subconscious automatism will always be associated with the names of Breuer and Freud in Germany, Janet and Alfred Binet in France". Henri Ellenberger, The Discovery of the Unconscious (1970) p. 791 
+
+When his involvement with hypnosis waned as a result of failure to establish professional acceptance, he turned to the study of development spurred on by the birth of his two daughters, Marguerite and Armande (born in 1885 and 1887, respectively), calling Armande a subjectivist and Marguerite an objectivist, and developing the concepts of introspection and externospection in an anticipation of Carl Jung's psychological types. Ellenberger, p. 702-3 In the 21 year period following his shift in career interests, Binet "published more than 200 books, articles, and reviews in what now would be called experimental, developmental, educational, social, and differential psychology" (Siegler, 1992). Bergin and Cizek (2001) suggest that this work may have influenced Jean Piaget, who later studied with Binet's collaborator Théodore Simon in 1920. Binet's research with his daughters helped him to further refine his developing conception of intelligence, especially the importance of attention span and suggestibility in intellectual development.
+
+Despite Binet's extensive research interests and wide breadth of publications, today he is most widely known for his contributions to intelligence. Wolf (1973) postulates that this is the result of his not being affiliated with a major university. Because Binet did not have any formalized graduate study in psychology, he did not hold a professorship with a prestigious institution where students and funds would be sure to perpetuate his work (Siegler, 1992). Additionally, his more progressive theories did not provide the practical utility that his intelligence scale would evoke.
+
+Binet and his coworker Fere discovered what they called transfer and they also recognized perceptual and emotional polarization. Binet and Fere thought their findings were a phenomenon and of utmost importance. After investigations by many, the two men were forced to admit that they were wrong about their concepts of transfer and polarization. Basically, their patients had known what was expected, what was supposed to happen, and so they simply assented. Binet had risked everything on his experiment and its results, and this failure took a toll on him.
+
+In 1890, Binet resigned from La Salpêtrière and never mentioned the place or its director again. His interests then turned toward the development of his children, Madeleine and Armande, who were two years apart. This research presages that done by Jean Piaget just a short time later, regarding the development of cognition in children.
+
+A job presented itself for Binet in 1891 at the Laboratory of Physiological Psychology at the Sorbonne. He worked for a year without pay and by 1894, he took over as the director. This was a position that Binet held until his death, and it enabled him to pursue his studies on mental processes. While directing the Laboratory, Theodore Simon applied to do doctoral research under Binet's supervision. This was the beginning of their long, fruitful collaboration. During this time he also co-founded the French journal of psychology, L'Annee psychologique, serving as the director and editor-in-chief.
+
+==Later career and the Binet-Simon Test==
+In 1899, Binet was asked to be a member of the Free Society for the Psychological Study of the Child. French education changed greatly during the end of the nineteenth century, because of a law that passed which made it mandatory for children ages six to fourteen to attend school. This group to which Binet became a member hoped to begin studying children in a scientific manner. Binet and many other members of the society were appointed to the Commission for the Retarded. The question became "What should be the test given to children thought to possibly have learning disabilities, that might place them in a special classroom?" Binet made it his problem to establish the differences that separate the normal child from the abnormal, and to measure such differences. L'Etude experimentale de l'intelligence (Experimental Studies of Intelligence) was the book he used to describe his methods and it was published in 1903.
+
+Development of more tests and investigations began soon after the book, with the help of a young medical student named Theodore Simon. Simon had nominated himself a few years before as Binet's research assistant and worked with him on the intelligence tests that Binet is known for, which share Simon's name as well. In 1905, a new test for measuring intelligence was introduced and simply called the Binet–Simon scale. In 1908, they revised the scale, dropping, modifying, and adding tests and also arranging them according to age levels from three to thirteen.
+
+In 1904 a French professional group for child psychology, La Société Libre pour l'Etude Psychologique de l'Enfant, was called upon by the French government to appoint a commission on the education of retarded children. The commission was asked to create a mechanism for identifying students in need of alternative education. Binet, being an active member of this group, found the impetus for the development of his mental scale.
+
+Binet and Simon, in creating what historically is known as the Binet-Simon Scale, comprised a variety of tasks they thought were representative of typical children's abilities at various ages. This task-selection process was based on their many years of observing children in natural settings. They then tested their measurement on a sample of fifty children, ten children per five age groups. The children selected for their study were identified by their school teachers as being average for their age. The purpose of this scale of normal functioning, which would later be revised twice using more stringent standards, was to compare children's mental abilities relative to those of their normal peers (Siegler, 1992).
+
+The scale consisted of thirty tasks of increasing difficulty. The easier ones could be done by everyone. Some of the simplest test items assessed whether or not a child could follow a beam of light or talk back to the examiner. Slightly harder tasks required children to point to various named body parts, repeat back a series of 2 digits, repeat simple sentences, and to define words like house, fork or mama. More difficult test items required children to state the difference between pairs of things, reproduce drawings from memory or to construct sentences from three given words such as "Paris, river and fortune." The hardest test items included asking children to repeat back 7 random digits, find three rhymes for the French word "obéisance" and to answer questions such as "My neighbor has been receiving strange visitors. He has received in turn a doctor, a lawyer, and then a priest. What is taking place?" (Fancher, 1985). 
+
+Reproduction of an item from the 1908 Binet-Simon intelligence scale, showing three pairs of pictures, about which the tested child was asked, "Which of these two faces is the prettier?" Reproduced from the article "A Practical Guide for Administering the Binet-Simon Scale for Measuring Intelligence" by J. W. Wallace Wallin in the March 1911 issue of the journal The Psychological Clinic (volume 5 number 1), public domain.
+
+For the practical use of determining educational placement, the score on the Binet-Simon scale would reveal the child's mental age. For example, a 6 year-old child who passed all the tasks usually passed by 6 year-olds—but nothing beyond—would have a mental age that exactly matched his chronological age, 6.0. (Fancher, 1985).
+
+Binet was forthright about the limitations of his scale. He stressed the remarkable diversity of intelligence and the subsequent need to study it using qualitative, as opposed to quantitative, measures. Binet also stressed that intellectual development progressed at variable rates and could be influenced by the environment; therefore, intelligence was not based solely on genetics, was malleable rather than fixed, and could only be found in children with comparable backgrounds (Siegler, 1992). Given Binet's stance that intelligence testing was subject to variability and was not generalizable, it is important to look at the metamorphosis that mental testing took on as it made its way to the U.S.
+
+While Binet was developing his mental scale, the business, civic, and educational leaders in the U.S. were facing issues of how to accommodate the needs of a diversifying population, while continuing to meet the demands of society. There arose the call to form a society based on meritocracy (Siegler,1992) while continuing to underline the ideals of the upper class. In 1908, H.H. Goddard, a champion of the eugenics movement, found utility in mental testing as a way to evidence the superiority of the white race. After studying abroad, Goddard brought the Binet-Simon Scale to the United States and translated it into English.
+
+Following Goddard in the U.S. mental testing movement was Lewis Terman, who took the Simon-Binet Scale and standardized it using a large American sample. The new Standford-Binet scale was no longer used solely for advocating education for all children, as was Binet's objective. A new objective of intelligence testing was illustrated in the Stanford-Binet manual with testing ultimately resulting in "curtailing the reproduction of feeble-mindedness and in the elimination of an enormous amount of crime, pauperism, and industrial inefficiency (p.7)" Terman, L., Lyman, G., Ordahl, G., Ordahl, L., Galbreath, N., & Talbert, W. (1916). The Stanford Revision and Extension of the Binet-Simon Scale for Measuring Intelligence. Baltimore: Warwick & York.(White, 2000).
+
+It follows that we should question why Binet did not speak out concerning the newfound uses of his measure. Siegler (1992) pointed out that Binet was somewhat of an isolationist in that he never traveled outside of France and he barely participated in professional organizations. Additionally, his mental scale was not adopted in his own country during his lifetime and therefore was not subjected to the same fate. Finally, when Binet did become aware of the "foreign ideas being grafted on his instrument" he condemned those who with 'brutal pessimism' and 'deplorable verdicts' were promoting the concept of intelligence as a single, unitary construct (White, 2000).
+
+He did many studies of children. His experimental subjects ranged from 3 to 18 years old. Binet published the third version of the Binet-Simon scale shortly before his death in 1911. The Binet-Simon scale was and is hugely popular around the world, mainly because of the vast literature it has fostered, as well as its relative ease of administration.
+
+Since his death, many people in many ways have honored Binet, but two of these stand out. In 1917, the Free Society for the Psychological Study of the Child, to whom Binet became a member in 1899 and which prompted his development of the intelligence tests, changed their name to La Societe Alfred Binet, in memory of the renowned psychologist. The second honor was not until 1984, when the journal Science 84 picked the Binet-Simon scale, as one of twenty of this century's most significant developments or discoveries.
+
+He studied sexual behavior, coining the term erotic fetishism to describe individuals whose sexual interests in nonhuman objects, such as articles of clothing, and linking this to the after-effects of early impressions in an anticipation of Freud. Sigmund Freud, On Sexuality (PFL 7) p. 67 
+
+He also studied abilities of Valentine Dencausse, the most famous chiromancer in Paris in those days.
+
+==Publications==
+* La psychologie du raisonnement; Recherches expérimentales par l'hypnotisme (Paris, Alcan, 1886; English translation, 1899). Published in English as The psychology of reasoning, based on experimental researches in hypnotism (Chicago, Open court publishing company, 1899).
+* Le magnétisme animal (Paris, F. Alcan, 1887). Published in English as Animal Magnetism (New York, D. Appleton and company, 1888)
+* Perception intérieure (1887).
+* Etudes de psychologie expérimentale (1888).
+* Les altérations de la personnalité (Paris: F. Alcan, 1892). Published in English as Alterations of personality (New York : D. Appleton and company, 1896).
+* Introduction à la psychologie expérimentale (1894; with co-authors).
+* On Double Consciousness (1896).
+* Binet, A. & Henri, V. La fatigue intellectuelle (Paris, Schleicher frères, 1898).
+* La Suggestibilité (Paris: Schleicher, 1900).
+* Etude expérimentale de l'intelligence (1903).
+* L'âme et le corps (1905). Published in English as The Mind and the Brain (London: Kegan Paul, Trench, Trübner & co. ltd.).
+* Les révélations de l'écriture d'après un contrôle scientifique (Paris: Félix Alcan, 1906).
+* Binet, A. & Simon, T. Les enfants anormaux (Paris, A. Colin, 1907). Published in English as Mentally defective children (1907).
+* Les idées modernes sur les enfants (Paris, E. Flammarion, 1909).
+* L'intelligence des imbecile (L'année psychologique, 15, 1–147, 1909). Published in English as The intelligence of the feeble-minded (Baltimore: Williams & Wilkins company, 1916).
+
+Alfred Binet was one of the founding editors of L'année psychologique, a yearly volume comprising original articles and reviews of the progress of psychology still in print.
+
+==See also==
+
+* Stanford-Binet IQ test
+
+==References==
+
+==Bibliography==
+* 
+* 
+* Klein, Alexandre (2011) d’Alfred Binet, Volume 2 – L’émergence de la psychologie scientifique (1884–1911). Nancy : Presses Universitaires de Nancy. http://www.lcdpu.fr/livre/?GCOI=27000100152160
+* Klein, Alexandre (2011) "Les apports de la correspondance d’Alfred Binet à l’histoire de la psychologie", Recherches & éducations, Hors-série Centenaire Binet, 53–75. http://rechercheseducations.revues.org/index803.html
+* Klein, Alexandre d'Alfred Binet -Jean Larguier des Bancels, Nancy, PUN, 2008. http://www.lcdpu.fr/livre/?GCOI=27000100578310
+* Klein, Alexandre (2009) "La philosophie scientifique d'Alfred Binet", Revue d'Histoire des sciences, 2009/5, http://www.cairn.info/resume.php?ID_ARTICLE=RHS_622_0373
+* Klein, Alexandre (2008) "Les écritures du moi en histoire des sciences : les apports de la correspondance d’Alfred Binet", Jahrbuch für Europäische Wissenschaftskultur (Yearbook for European Culture of Science), Bd. 4 (2008), p. 101–115.
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+==External links==
+
+* Short biography, bibliography, and links on digitized sources in the Virtual Laboratory of the Max Planck Institute for the History of Science
+* Human Intelligence: Alfred Binet
+* 
+* 
+* The Mind and the Brain by Alfred Binet
+* 
+* New Methods for the Diagnosis of the Intellectual Level of Subnormals by Alfred Binet
+* Le Magnetisme Animal by Alfred Binet
+
+

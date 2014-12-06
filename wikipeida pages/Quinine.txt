@@ -1,0 +1,121 @@
+[[Quinine]]
+
+Quinine (, or ) is a natural white crystalline alkaloid having antipyretic (fever-reducing), antimalarial, analgesic (painkilling), and anti-inflammatory properties and a bitter taste. It is a stereoisomer of quinidine, which, unlike quinine, is an antiarrhythmic. Quinine contains two major fused-ring systems: the aromatic quinoline and the bicyclic quinuclidine.
+
+Quinine occurs naturally in the bark of the cinchona tree, though it has also been synthesized in the laboratory. The medicinal properties of the cinchona tree were originally discovered by the Quechua, who are indigenous to Peru and Bolivia; later, the Jesuits were the first to bring cinchona to Europe.
+
+Quinine was the first effective Western treatment for malaria caused by Plasmodium falciparum, appearing in therapeutics in the 17th century. It is pre-dated as a malarial treatment by the Chinese herbalist's use of Artemisia Annua, described in a 4th-century text, a plant from which the antimalarial drug Artemisinin was derived. It remained the antimalarial drug of choice until the 1940s, when other drugs such as chloroquine that have fewer unpleasant side effects replaced it. Since then, many effective antimalarials have been introduced, although quinine is still used to treat the disease in certain critical circumstances, such as severe malaria, and in impoverished regions due to its low cost. Quinine is available with a prescription in the United States and over-the-counter, in minute quantities, in tonic water. Quinine is also used to treat lupus and arthritis. Quinine was also frequently prescribed in the US as an off-label treatment for nocturnal leg cramps, but this has become less prevalent due to a Food and Drug Administration statement warning against the practice. 
+
+Quinine is highly fluorescent (quantum yield ~0.58) in 0.1 M sulfuric acid solution and it is widely used as a standard for fluorescence quantum yield measurement. Joseph R. Lakowicz. Principles of Fluorescence Spectroscopy 3rd edition. Springer (2006). ISBN 978-0387-31278-1. Chapter 2. page 54. Quinine sulfate ogi.edu. Retrieved 16 August 2013 
+It is on the World Health Organization's List of Essential Medicines, a list of the most important medication needed in a basic health system. 
+
+==Medical uses==
+As of 2006, quinine is no longer recommended by the WHO as first-line treatment for malaria, and should be used only when artemisinins are not available. 
+
+Quinine is a basic amine and is always presented as a salt. Various existing preparations include the hydrochloride, dihydrochloride, sulfate, bisulfate and gluconate. This makes quinine dosing complicated, since each of the salts has a different weight.
+
+The following amounts of each salt form contain equal amounts of quinine:
+* quinine base 100 mg
+* quinine bisulfate 169 mg
+* quinine dihydrochloride 122 mg
+* quinine hydrochloride 111 mg
+* quinine sulfate (actually (quinine)2H2SO4∙2H2O) 121 mg
+* quinine gluconate 160 mg
+
+All quinine salts may be given orally or intravenously (IV); quinine gluconate may also be given intramuscularly (IM) or rectally (PR). The main problem with the rectal route is the dose can be expelled before it is completely absorbed; in practice, this is corrected by giving a half dose again.
+
+In the United States, quinine sulfate is commercially available in 324-mg tablets under the brand name Qualaquin; the adult dose is two tablets every eight hours. No injectable preparation of quinine is licensed in the US; quinidine is used instead. 
+
+==Adverse effects==
+
+Quinine can, in therapeutic doses, cause cinchonism; in rare cases, it may even cause death (usually by pulmonary edema). The development of mild cinchonism is not a reason for stopping or interrupting quinine therapy, and the patient should be reassured. Blood glucose levels and electrolyte concentrations must be monitored when quinine is given by injection. The patient should ideally be in cardiac monitoring when the first quinine injection is given (these precautions are often unavailable in developing countries where malaria is endemic).
+
+Cinchonism is much less common when quinine is given by mouth, but oral quinine is not well tolerated (quinine is exceedingly bitter and many patients will vomit after ingesting quinine tablets): Other drugs such as Fansidar (sulfadoxine with pyrimethamine) or Malarone (proguanil with atovaquone) are often used when oral therapy is required. Quinine ethyl carbonate is tasteless and odourless, but is available commercially only in Japan. Blood glucose, electrolyte and cardiac monitoring are not necessary when quinine is given by mouth.
+
+Quinine can cause paralysis if accidentally injected into a nerve. It is extremely toxic in overdose, and the advice of a poisons specialist should be sought immediately.
+
+Quinine in some cases can lead to constipation, Optically active isomers of quinine and quinidine and their respective biological action Accessed 26/1/2009 erectile dysfunction, or diarrhea.
+
+The New York Times Magazine described a case presenting with fever, hypotension, and blood abnormalities mimicking septic shock, which was judged to be an adverse reaction to quinine. Sanders, L. "Poison Pill", The New York Times Magazine, 4/13/2008. 
+
+===Non-abortifacient===
+Despite popular belief, quinine is not an effective abortifacient (a substance that may induce abortion) (in the US, quinine is listed as pregnancy category D http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=8546 ). Pregnant women who take toxic doses of quinine will suffer from renal failure before experiencing any kind of quinine-induced abortion. Indeed, quinine is the only drug recommended by the WHO as first-line treatment for uncomplicated malaria in pregnancy. 
+
+===Disease interactions===
+Quinine can cause hemolysis in G6PD deficiency (an inherited deficiency), but this risk is small and the physician should not hesitate to use quinine in patients with G6PD deficiency when there is no alternative. Quinine can also cause drug-induced immune thrombocytopenic purpura. Symptoms can be severe enough to require hospitalization and platelet transfusion, with several cases known to have resulted in death. "NPS warns on quinine". Auspharm e News, 6 January 2010. 
+
+Quinine can cause abnormal heart rhythms, and should be avoided if possible in patients with atrial fibrillation, conduction defects or heart block.
+
+===Hearing impairment===
+Some studies have related the use of quinine and hearing impairment, particularly high-frequency loss. Although some studies suggest that this high-frequency hearing impairment is reversible, it has not been conclusively established whether such impairment is temporary or permanent. 
+
+==Mechanism of action==
+As with other quinoline antimalarial drugs, the mechanism of action of quinine has not been fully resolved. The most widely accepted hypothesis of its action is based on the well-studied and closely related quinoline drug, chloroquine. This model involves the inhibition of hemozoin biocrystallization in Heme Detoxification pathway, which facilitates the aggregation of cytotoxic heme. Free cytotoxic heme accumulates in the parasites, causing their deaths.
+
+==Regulation==
+===United States===
+From 1969 to 1992, the US Food and Drug Administration (FDA) received 157 reports of health problems related to quinine use, including 23 which had resulted in death. In 1994, the FDA banned the use of over-the-counter quinine as a treatment for nocturnal leg cramps. Pfizer Pharmaceuticals had been selling the brand name Legatrin for this purpose. Doctors may still prescribe quinine, but the FDA has ordered firms to stop marketing unapproved drug products containing quinine. The FDA is also cautioning consumers about off-label use of quinine to treat leg cramps. Quinine is approved for treatment of malaria, but is also commonly prescribed to treat leg cramps and similar conditions. Because malaria is life-threatening, the risks associated with quinine use are considered acceptable when used to treat that affliction. 
+
+Though Legatrin was banned by the FDA for the treatment of leg cramps, drug manufacturer URL Mutual has branded a quinine-containing drug named Qualaquin. It is marketed as a treatment for malaria and is sold in the United States only by prescription.
+In 2004, the CDC reported only 1,347 confirmed cases of malaria in the United States. 
+
+==Nonmedical uses==
+In some areas, nonmedical use of quinine is regulated. For example, in the United States and Germany, quinine is limited to between 83 and 85 parts per million. 
+
+===Beverages===
+
+Quinine is a flavour component of tonic water and bitter lemon. On the soda gun behind many bars, tonic water is designated by the letter "Q" representing quinine. According to tradition, the bitter taste of antimalarial quinine tonic led British colonials in India to mix it with gin, thus creating the gin and tonic cocktail, which is still popular today in many parts of the world, especially the UK, United States, Canada, Australia, and New Zealand. In France, quinine is an ingredient of an apéritif known as quinquina or "Cap Corse". In Spain, quinine ("Peruvian bark") is sometimes blended into sweet Malaga wine when it is known as "Malaga Quina". In Italy, the traditional flavoured wine Barolo Chinato is infused with quinine and local herbs and is served as a digestif. In Canada and Italy, quinine is an ingredient in the carbonated chinotto beverages Brio and San Pellegrino chinotto. In Scotland, the company A.G. Barr uses quinine as an ingredient in the carbonated and caffeinated beverage Barr's Irn-Bru. In the United Kingdom, Australia, New Zealand, South Africa and Egypt, quinine is an ingredient in Schweppes and other brands of Indian Tonic Water mixer drink called 'Dry Lemon'. Schweppes and a few other drinks makers also produce Bitter Lemon, a pale green mixer drink containing quinine. In Uruguay and Argentina, quinine is an ingredient of a Pepsico Inc. tonic water named Paso de los Toros. In Denmark, it is used as an ingredient in the carbonated sports drink Faxe Kondi made by Royal Unibrew. In the US, quinine is listed as an ingredient in some Diet Snapple flavors, including Cranberry Raspberry.
+
+===Scientific===
+Tonic water, in normal light and ultraviolet "black light"
+Because of its relatively constant and well-known fluorescence quantum yield, quinine is used in photochemistry as a common fluorescence standard.
+The UV absorption peaks around 350 nm (in UVA). Fluorescent emission peaks at around 460 nm (bright blue/cyan hue). 
+
+Quinine (and quinidine) are used as the chiral moiety for the ligands used in Sharpless asymmetric dihydroxylation as well as for numerous other chiral catalyst backbones.
+
+The bark of Remijia contains 0.5–2% of quinine. The bark is cheaper than bark of Cinchona, and as it has an intense taste it is used for making tonic water. 
+
+===Other===
+Quinine is sometimes used as a cutting agent in street drugs such as cocaine and heroin. Microgram Bulletin, Volume 42, Number 10, October 2009, Page 79. Retrieved 22 September 2012. 
+
+Quinine is used as a treatment for Cryptocaryon irritans (commonly referred to as white spot, crypto or marine ich) infection of marine aquarium fish. Porritt, M., Cryptocaryon irritans, Reef Culture Magazine, 1. Retrieved 9th Jul 2009 
+
+==History==
+Quinine History of quinine: Friedrich A. Flückiger and Daniel Hanbury, Pharmacographia: A history of the principal drugs of vegetable origin, met with in Great Britain and British India (London, England: Macmillan and Co., 1874), pages 302-331: Cortex Cinchonæ. is an effective muscle relaxant, long used by the Quechua, who are indigenous to Peru, to halt shivering due to low temperatures. The Peruvians would mix the ground bark of cinchona trees with sweetened water to offset the bark's bitter taste, thus producing tonic water.
+19th-century illustration of Cinchona calisaya
+Quinine has been used in unextracted form by Europeans since at least the early 17th century. It was first used to treat malaria in Rome in 1631. During the 17th century, malaria was endemic to the swamps and marshes surrounding the city of Rome. Malaria was responsible for the deaths of several popes, many cardinals and countless common Roman citizens. Most of the priests trained in Rome had seen malaria victims and were familiar with the shivering brought on by the febrile phase of the disease. The Jesuit brother Agostino Salumbrino (1561–1642), an apothecary by training who lived in Lima, observed the Quechua using the bark of the cinchona tree for that purpose. While its effect in treating malaria (and hence malaria-induced shivering) was unrelated to its effect in controlling shivering from rigors, it was still a successful medicine for malaria. At the first opportunity, Salumbrino sent a small quantity to Rome to test as a malaria treatment. In the years that followed, cinchona bark, known as Jesuit's bark or Peruvian bark, became one of the most valuable commodities shipped from Peru to Europe. When King Charles II was cured of malaria at the end of the 17th Century with quinine, it became popular in London. It remained the antimalarial drug of choice until the 1940s, when other drugs took over. 
+
+The form of quinine most effective in treating malaria was found by Charles Marie de La Condamine in 1737. de la Condamine (1738) "Sur l'arbre du quinquina" (On the quinquina tree) Histoire de l'Académie royale des Sciences, pages 226-243. See also: Joseph de Jussieu, Description de l'arbre à quinquina: mémoire inédit de Joseph de Jussieu (1737) (Description of the quinquina tree: unpublished memoir of Joseph de Jussieu (1737)). De Jussieu accompanied de la Condamine on the latter's expedition to Peru. Quinine was isolated and named in 1820 by French researchers Pierre Joseph Pelletier and Joseph Bienaimé Caventou. Pelletier and Caventou (1820) "Suite: Des recherches chimiques sur les quinquinas" (Continuation: Chemical research on quinquinas), Annales de Chimie et de Physique, vol. 15, pages 337-365. The authors name quinine on page 348: "..., nous avons cru devoir la nommer quinine, pour la distinguer de la cinchonine par un nom qui indique également son origine." (..., we thought that we should name it "quinine" in order to distinguish it from cinchonine by means of a name that also indicates its origin.) The name was derived from the original Quechua (Inca) word for the cinchona tree bark, quina or quina-quina, which means "bark of bark" or "holy bark". Prior to 1820, the bark was first dried, ground to a fine powder, and then mixed into a liquid (commonly wine) which was then drunk. Large-scale use of quinine as a prophylaxis started around 1850.
+
+Quinine also played a significant role in the colonization of Africa by Europeans. Quinine had been said to be the prime reason Africa ceased to be known as the "white man's grave". A historian has stated, "it was quinine's efficacy that gave colonists fresh opportunities to swarm into the Gold Coast, Nigeria and other parts of west Africa". Also cites 
+
+To maintain their monopoly on cinchona bark, Peru and surrounding countries began outlawing the export of cinchona seeds and saplings beginning in the early 19th century. The Dutch government persisted in its attempt to smuggle the seeds, and by the 1930s Dutch plantations in Java were producing 22 million pounds of cinchona bark, or 97% of the world's quinine production. During World War II, Allied powers were cut off from their supply of quinine when the Germans conquered the Netherlands and the Japanese controlled the Philippines and Indonesia. The United States had managed to obtain four million cinchona seeds from the Philippines and began operating cinchona plantations in Costa Rica. Nonetheless, such supplies came too late; tens of thousands of US troops in Africa and the South Pacific died due to the lack of quinine. Despite controlling the supply, the Japanese did not make effective use of quinine, and thousands of Japanese troops in the southwest Pacific died as a result. 
+
+===Synthetic quinine===
+
+Robert B. Woodward
+Cinchona trees remain the only economically practical source of quinine. However, under wartime pressure, research towards its synthetic production was undertaken. A formal chemical synthesis was accomplished in 1944 by American chemists R.B. Woodward and W.E. Doering. 
+ Since then, several more efficient quinine total syntheses have been achieved, but none of them can compete in economic terms with isolation of the alkaloid from natural sources. The first synthetic organic dye, mauveine, was discovered by William Henry Perkin in 1856 while he was attempting to synthesize quinine.
+
+==See also==
+* History of malaria
+* Luis Jerónimo de Cabrera, 4th Count of Chinchón and Jesuit's bark, for the story of its introduction into Europe
+* Warburg's tincture
+* Chloroquine
+
+==References==
+
+==Further reading==
+* 
+* Hobhouse, Henry. Seeds of Change Six Plants that Transformed Mankind. 2005. ISBN 1-59376-049-3.
+* Stockwell, J. R. "Aeromedical considerations of malaria prophylaxis with mefloquine hydrochloride". Aviation, Space, and Environmental Medicine 1982; 3(10):1011–3.
+* 
+* 
+* The Lords of Industry, Modern History Sourcebook: Henry Demarest Lloyd: North American Review 331 (June 1884)
+
+==External links==
+* Quinine at the International Programme on Chemical Safety
+* Catalytic Asymmetric Synthesis of Quinine and Quinidine
+* Summary article on history of Quinine in the Chemical and Engineering News
+
+

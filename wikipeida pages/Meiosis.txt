@@ -1,0 +1,262 @@
+[[Meiosis]]
+
+Events involved in meiosis: chromosomal crossover.
+The two grey chromosomes represent one set and the two red chromosomes another set, each set originally from one of the two parents.
+
+Meiosis is a special type of cell division necessary for sexual reproduction in eukaryotes, such as animals, plants and fungi. The number of sets of chromosomes in the cell undergoing meiosis is reduced to half the original number, typically from two sets (diploid) to one set (haploid). The cells produced by meiosis are either gametes (the usual case in animals) or otherwise usually spores from which gametes are ultimately produced (the case in land plants). In many organisms, including all animals and land plants (but not some other groups such as fungi), gametes are called sperm in males and egg cells or ova in females. Since meiosis has halved the number of sets of chromosomes, when two gametes fuse during fertilisation, the number of sets of chromosomes in the resulting zygote is restored to the original number.
+
+Meiotic division occurs in two stages, meiosis I and meiosis II, dividing the cells once at each stage. Before meiosis begins, during S phase of the cell cycle, the DNA of each chromosome is replicated, so that each chromosome has two sister chromatids; a diploid organism now has a tetraploid DNA amount in the cell. The first stage of meiosis begins with a cell that has (if it is from a diploid organism) two copies of each type of chromosome, one from each of the mother and father, called homologous chromosomes, each of which has two sister chromatids. The homologous chromosomes pair up and may exchange genetic material with each other in a process called crossing over. Each pair then separates as two cells are formed, each with one chromosome (two chromatids) from every homologous pair.
+
+In the second stage, each chromosome splits into two; each half, each sister chromatid, is separated into two new cells, which are haploid. This occurs in both of the cells formed in meiosis I. Therefore from each original cell, four genetically distinct haploid cells are produced. These cells can mature into gametes.
+
+==Overview==
+While the process of meiosis bears a number of similarities with the 'life-cycle' cell division process of mitosis, it differs in two important respects:
+
+ 
+ recombination meiosis shuffles the genes between the two chromosomes in each pair (one received from each parent), producing chromosomes with new genetic combinations in every gamete generated 
+ mitosis does not shuffle the genes, producing chromosomes pairs identical to those in the parent cell. 
+ 
+ chromosome count meiosis produces four genetically unique cells, each with half the number of chromosomes as in the parent 
+ mitosis produces the two genetically identical cells, each with the same number of chromosomes as in the parent 
+ 
+
+Meiosis begins with one diploid cell containing two copies of each chromosome—one from the organism's mother and one from its father. The cell divides twice, potentially producing up to four haploid cells containing one copy of each chromosome. ("Potentially" because in some cases, such as the formation of oocytes in mammals, only one of the possible four haploid cells survives.) In animals the haploid cell resulting from meiosis is a male or female gamete. Each of the resulting chromosomes in the gamete cells is a unique mixture of maternal and paternal DNA, resulting in offspring that are genetically distinct from either parent. This gives rise to genetic diversity in sexually reproducing populations. This genetic diversity can provide the variation of physical and behavioural attributes (phenotypes) upon which natural selection can act.
+
+It is also noteworthy that during meiosis, specific genes are more highly transcribed, and these are called the meiome, the term used in functional genomics for the meiotic transcriptome. http://www.horticulture.umn.edu/Changbin_Chen.html http://www.agwine.adelaide.edu.au/plant/pbg/gm/ Meiosis is a key feature for all sexually reproducing eukaryotes in which homologous chromosome pairing, synapse and recombination occur. In addition to strong meiotic stage-specific expression of mRNA (the meiome), however, there are also pervasive translational controls (e.g. selective usage of preformed mRNA), regulating the ultimate meiotic stage-specific protein expression of genes during meiosis. Thus, both the meiome and translational controls determine the broad restructuring of meiotic cells needed to carry out meiosis.
+
+Prior to the meiosis process the cell's chromosomes are duplicated by a round of DNA replication, creating from the maternal and paternal versions of each chromosome (homologs) two exact copies, sister chromatids, attached at the centromere region. In the beginning of meiosis, the maternal and paternal homologs pair with each other. Then they typically exchange parts by homologous recombination leading to crossovers of DNA between the maternal and paternal versions of the chromosome. Spindle fibers bind to the centromeres of each pair of homologs and arrange the pairs at the spindle equator. Then the fibers pull the recombined homologs to opposite poles of the cell. As the chromosomes move away from the center the cell divides into two daughter cells, each containing a haploid number of chromosomes composed of two chromatids.
+
+After the recombined maternal and paternal homologs have separated into the two daughter cells, a second round of cell division occurs. There meiosis ends as the two sister chromatids making up each homolog are separated and move into one of the four resulting gamete cells. Upon fertilization, for example when a sperm enters an egg cell, two gamete cells produced by meiosis fuse. The gamete from the mother and the gamete from the father each contribute one half of the set of chromosomes that make up the new offspring's genome.
+
+Meiosis uses many of the same mechanisms as mitosis, the type of cell division used by eukaryotes like plants and animals to split one cell into two identical daughter cells. In all plants and in many protists meiosis results in the formation of spores: haploid cells that can divide vegetatively without undergoing fertilization. Some eukaryotes, like bdelloid rotifers, do not have the ability to carry out meiosis and have acquired the ability to reproduce by parthenogenesis.
+
+Meiosis does not occur in archaea or bacteria, which generally reproduce via asexual processes such as binary fission. However, a similar "sexual" process, known as bacterial transformation, involves transfer of DNA from one bacterium to another and recombination of these DNA molecules of different parental origin.
+
+==History==
+Meiosis was discovered and described for the first time in sea urchin eggs in 1876 by the German biologist Oscar Hertwig. It was described again in 1883, at the level of chromosomes, by the Belgian zoologist Edouard Van Beneden, in Ascaris worms' eggs. The significance of meiosis for reproduction and inheritance, however, was described only in 1890 by German biologist August Weismann, who noted that two cell divisions were necessary to transform one diploid cell into four haploid cells if the number of chromosomes had to be maintained. In 1911 the American geneticist Thomas Hunt Morgan observed crossover in Drosophila melanogaster meiosis and provided the first genetic evidence that genes are transmitted on chromosomes.
+
+The term meiosis was introduced to biology by J.B. Farmer and J.E.S. Moore in 1905:
+We propose to apply the terms Maiosis or Maiotic phase to cover the whole series of nuclear changes included in the two divisions that were designated as Heterotype and Homotype by Flemming. J.B. Farmer and J.E.S. Moore, Quarterly Journal of Microscopic Science 48:489 (1905) as quoted in the Oxford English Dictionary, Third Edition, June 2001, s.v. 
+It is derived from the Greek word 'lessening'.
+
+==Occurrence in eukaryotic life cycles==
+Gametic life cycle.
+Zygotic life cycle.
+
+Meiosis occurs in eukaryotic life cycles involving sexual reproduction, consisting of the constant cyclical process of meiosis and fertilization. This takes place alongside normal mitotic cell division. In multicellular organisms, there is an intermediary step between the diploid and haploid transition where the organism grows. The organism will then produce the germ cells that continue in the life cycle. The rest of the cells, called somatic cells, function within the organism and will die with it.
+
+Cycling meiosis and fertilization events produces a series of transitions back and forth between alternating haploid and diploid states. The organism phase of the life cycle can occur either during the diploid state (gametic or diploid life cycle), during the haploid state (zygotic or haploid life cycle), or both (sporic or haplodiploid life cycle, in which there are two distinct organism phases, one during the haploid state and the other during the diploid state). In this sense there are three types of life cycles that utilize sexual reproduction, differentiated by the location of the organisms phase(s).
+
+In the gametic life cycle or " diplontic life cycle", of which humans are a part, the organism is diploid, grown from a diploid cell called the zygote. The organism's diploid germ-line stem cells undergo meiosis to create haploid gametes (the spermatozoa for males and ova for females), which fertilize to form the zygote. The diploid zygote undergoes repeated cellular division by mitosis to grow into the organism. Mitosis is a related process to meiosis that creates two cells that are genetically identical to the parent cell.
+
+In the zygotic life cycle the organism is haploid instead, spawned by the proliferation and differentiation of a single haploid cell called the gamete. Two organisms of opposing gender contribute their haploid gametes to form a diploid zygote. The zygote undergoes meiosis immediately, creating four haploid cells. These cells undergo mitosis to create the organism. Many fungi and many protozoa are members of the zygotic life cycle. 
+
+Finally, in the sporic life cycle, the living organism alternates between haploid and diploid states. Consequently, this cycle is also known as the alternation of generations. The diploid organism's germ-line cells undergo meiosis to produce spores. The spores proliferate by mitosis, growing into a haploid organism. The haploid organism's gamete then combines with another haploid organism's gamete, creating the zygote. The zygote undergoes repeated mitosis and differentiation to become a diploid organism again. The sporic life cycle can be considered a fusion of the gametic and zygotic life cycles.
+
+==Process==
+
+A diagram of the meiotic phases
+
+Because meiosis is a "one-way" process, it cannot be said to engage in a cell cycle as mitosis does. However, the preparatory steps that lead up to meiosis are identical in pattern and name to the interphase of the mitotic cell cycle.
+
+Interphase is divided into three phases:
+*Growth 1 (G1) phase: This is a very active period, where the cell synthesizes its vast array of proteins, including the enzymes and structural proteins it will need for growth. In G1 stage each of the chromosomes consists of a single (very long) molecule of DNA. In humans, at this point cells are 46 chromosomes, 2N, identical to somatic cells.
+*Synthesis (S) phase: The genetic material is replicated: each of its chromosomes duplicates, so that each of the 46 chromosomes becomes a complex of two identical sister chromatids. The cell is still considered diploid because it still contains the same number of centromeres. The identical sister chromatids have not yet condensed into the densely packaged chromosomes visible with the light microscope. This will take place during prophase I in meiosis.
+*Growth 2 (G2) phase: G2 phase as seen before mitosis is not present in Meiosis. Actually, the first four stages of prophase I in many respects correspond to the G2 phase of mitotic cell cycle.
+Interphase is followed by meiosis I and then meiosis II. Meiosis I consists of separating the pairs of homologous chromosome, each made up of two sister chromatids, into two cells. One entire haploid content of chromosomes is contained in each of the resulting daughter cells; the first meiotic division therefore reduces the ploidy of the original cell by a factor of 2. 
+
+Meiosis II consists of decoupling each chromosome's sister strands (chromatids), and segregating the individual chromatids into haploid daughter cells. The two cells resulting from meiosis I divide during meiosis II, creating 4 haploid daughter cells. Meiosis I and II are each divided into prophase, metaphase, anaphase, and telophase stages, similar in purpose to their analogous subphases in the mitotic cell cycle. Therefore, meiosis includes the stages of meiosis I (prophase I, metaphase I, anaphase I, telophase I), and meiosis II (prophase II, metaphase II, anaphase II, telophase II).
+
+Meiosis generates genetic diversity in two ways: (1) independent alignment and subsequent separation of homologous chromosome pairs during the first meiotic division allows a random and independent selection of each chromosome segregates into each gamete; and (2) physical exchange of homologous chromosomal regions by homologous recombination during prophase I results in new combinations of DNA within chromosomes.
+
+==Phases==
+Meiosis is divided into meiosis I and meiosis II which are further divided into Karyokinesis I and Cytokinesis I & Karyokinesis II and Cytokinesis II respectively.
+
+===Meiosis I===
+Meiosis I separates homologous chromosomes, producing two haploid cells (N chromosomes, 23 in humans), and thus meiosis I is referred to as a reductional division. A regular diploid human cell contains 46 chromosomes and is considered 2N because it contains 23 pairs of homologous chromosomes. However, after meiosis I, although the cell contains 46 chromatids, it is only considered as being N, with 23 chromosomes. This is because later, in Anaphase I, the sister chromatids will remain together as the spindle fibers pull the pair toward the pole of the new cell. In meiosis II, an equational division similar to mitosis will occur whereby the sister chromatids are finally split, creating a total of 4 haploid cells (23 chromosomes, N) - two from each daughter cell from the first division. 
+
+====Prophase I====
+It is the longest phase of meiosis. During prophase I, DNA is exchanged between homologous chromosomes in a process called homologous recombination. This often results in chromosomal crossover. The new combinations of DNA created during crossover are a significant source of genetic variation, and may result in beneficial new combinations of alleles. The paired and replicated chromosomes are called bivalents or tetrads, which have two chromosomes and four chromatids, with one chromosome coming from each parent. The process of pairing the homologous chromosomes is called synapsis. At this stage, non-sister chromatids may cross-over at points called chiasmata (plural; singular chiasma). 
+
+=====Leptotene=====
+The first stage of prophase I is the leptotene stage, also known as leptonema, from Greek words meaning "thin threads". In this stage of prophase I, individual chromosomes—each consisting of two sister chromatids—change from the diffuse state they exist in during the cell's period of growth and gene expression, and condense into visible strands within the nucleus. However the two sister chromatids are still so tightly bound that they are indistinguishable from one another. During leptotene, lateral elements of the synaptonemal complex assemble. Leptotene is of very short duration and progressive condensation and coiling of chromosome fibers takes place.
+
+=====Zygotene=====
+The zygotene stage, also known as zygonema, from Greek words meaning "paired threads", occurs as the chromosomes approximately line up with each other into homologous chromosome pairs. This is called the bouquet stage because of the way the telomeres cluster at one end of the nucleus. At this stage, the synapsis (pairing/coming together) of homologous chromosomes takes place, facilitated by assembly of central element of the synaptonemal complex. Pairing is brought about in a zipper-like fashion and may start at the centromere (procentric), at the chromosome ends (proterminal), or at any other portion (intermediate). Individuals of a pair are equal in length and in position of the centromere. Thus pairing is highly specific and exact. The paired chromosomes are called bivalent or tetrad chromosomes.
+
+=====Pachytene=====
+The pachytene (pronounced ) stage, also known as pachynema, from Greek words meaning "thick threads", is the stage when chromosomal crossover (crossing over) occurs. Nonsister chromatids of homologous chromosomes may exchange segments over regions of homology. Sex chromosomes, however, are not wholly identical, and only exchange information over a small region of homology. At the sites where exchange happens, chiasmata form. The exchange of information between the non-sister chromatids results in a recombination of information; each chromosome has the complete set of information it had before, and there are no gaps formed as a result of the process. Because the chromosomes cannot be distinguished in the synaptonemal complex, the actual act of crossing over is not perceivable through the microscope, and chiasmata are not visible until the next stage.
+
+=====Diplotene=====
+During the diplotene stage, also known as diplonema, from Greek words meaning "two threads", the synaptonemal complex degrades and homologous chromosomes separate from one another a little. The chromosomes themselves uncoil a bit, allowing some transcription of DNA. However, the homologous chromosomes of each bivalent remain tightly bound at chiasmata, the regions where crossing-over occurred. The chiasmata remain on the chromosomes until they are severed in anaphase I.
+
+In human fetal oogenesis all developing oocytes develop to this stage and stop before birth. This suspended state is referred to as the dictyotene stage and remains so until puberty.
+
+=====Diakinesis=====
+Chromosomes condense further during the diakinesis stage, from Greek words meaning "moving through". This is the first point in meiosis where the four parts of the tetrads are actually visible. Sites of crossing over entangle together, effectively overlapping, making chiasmata clearly visible. Other than this observation, the rest of the stage closely resembles prometaphase of mitosis; the nucleoli disappear, the nuclear membrane disintegrates into vesicles, and the meiotic spindle begins to form.
+
+=====Synchronous processes=====
+During these stages, two centrosomes, containing a pair of centrioles in animal cells, migrate to the two poles of the cell. These centrosomes, which were duplicated during S-phase, function as microtubule organizing centers nucleating microtubules, which are essentially cellular ropes and poles. The microtubules invade the nuclear region after the nuclear envelope disintegrates, attaching to the chromosomes at the kinetochore. The kinetochore functions as a motor, pulling the chromosome along the attached microtubule toward the originating centriole, like a train on a track. There are four kinetochores on each tetrad, but the pair of kinetochores on each sister chromatid fuses and functions as a unit during meiosis I. Raven, Peter H.; Johnson, George B.; Mason, Kenneth A.; Losos, Jonathan & Singer, Susan. Biology, 8th ed. McGraw-Hill 2007. 
+
+Microtubules that attach to the kinetochores are known as kinetochore microtubules. Other microtubules will interact with microtubules from the opposite centriole: these are called nonkinetochore microtubules or polar microtubules. A third type of microtubules, the aster microtubules, radiates from the centrosome into the cytoplasm or contacts components of the membrane skeleton.
+
+====Metaphase I====
+Homologous pairs move together along the metaphase plate:
+As kinetochore microtubules from both centrioles attach to their respective kinetochores, the homologous chromosomes align along an equatorial plane that bisects the spindle, due to continuous counterbalancing forces exerted on the bivalents by the microtubules emanating from the two kinetochores of homologous chromosomes. The physical basis of the independent assortment of chromosomes is the random orientation of each bivalent along the metaphase plate, with respect to the orientation of the other bivalents along the same equatorial line. 
+
+====Anaphase I====
+Kinetochore (bipolar spindles) microtubules shorten, severing the recombination nodules and pulling homologous chromosomes apart. Since each chromosome has only one functional unit of a pair of kinetochores, whole chromosomes are pulled toward opposing poles, forming two haploid sets. Each chromosome still contains a pair of sister chromatids. During this time disjunction occurs, which is one of the processes leading to genetic diversity as each chromosome can end up in either of the daughter cells. Nonkinetochore microtubules lengthen, pushing the centrioles farther apart. The cell elongates in preparation for division down the center. 
+
+====Telophase I====
+The first meiotic division effectively ends when the chromosomes arrive at the poles. Each daughter cell now has half the number of chromosomes but each chromosome consists of a pair of chromatids. The microtubules that make up the spindle network disappear, and a new nuclear membrane surrounds each haploid set. The chromosomes uncoil back into chromatin. Cytokinesis, the pinching of the cell membrane in animal cells or the formation of the cell wall in plant cells, occurs, completing the creation of two daughter cells. Sister chromatids remain attached during telophase I.
+
+Cells may enter a period of rest known as interkinesis or interphase II. No DNA replication occurs during this stage.
+
+===Meiosis II===
+Meiosis II is the second part of the meiotic process, also known as equational division. Mechanically, the process is similar to mitosis, though its genetic results are fundamentally different. The end result is production of four haploid cells (23 chromosomes, N in humans) from the two haploid cells (23 chromosomes, N * each of the chromosomes consisting of two sister chromatids) produced in meiosis I. The four main steps of Meiosis II are: Prophase II, Metaphase II, Anaphase II, and Telophase II.
+
+In prophase II we see the disappearance of the nucleoli and the nuclear envelope again as well as the shortening and thickening of the chromatids. Centrioles move to the polar regions and arrange spindle fibers for the second meiotic division. 
+
+In metaphase II, the centromeres contain two kinetochores that attach to spindle fibers from the centrosomes (centrioles) at each pole. The new equatorial metaphase plate is rotated by 90 degrees when compared to meiosis I, perpendicular to the previous plate.
+
+This is followed by anaphase II, where the centromeres are cleaved, allowing microtubules attached to the kinetochores to pull the sister chromatids apart. The sister chromatids by convention are now called sister chromosomes as they move toward opposing poles.
+
+The process ends with telophase II, which is similar to telophase I, and is marked by uncoiling and lengthening of the chromosomes and the disappearance of the spindle. Nuclear envelopes reform and cleavage or cell wall formation eventually produces a total of four daughter cells, each with a haploid set of chromosomes.
+
+Meiosis is now complete and ends up with four new daughter cells.
+
+==Origin and function==
+
+Meiosis is ubiquitous among eukaryotes. It occurs in single-celled organisms such as yeast, as well as in multicellular organisms, such as humans. Eukaryotes arose from prokaryotes more than 1.5 billion years ago, and the earliest eukaryotes were likely single-celled organisms. To understand meiosis in eukaryotes, it is necessary to understand (1) how meiosis arose in single celled eukaryotes, and (2) the function of mitosis.
+
+===Origin===
+
+There are two conflicting theories on how meiosis arose. One is that meiosis evolved from bacterial sex (called transformation) during the evolution of eukaryotes. The other is that meiosis arose from mitosis.
+
+====Theory that meiosis evolved from bacterial sex (transformation)====
+
+In prokaryotic sex, DNA from one bacterium is released into the surrounding medium, is then taken up by another bacterium and its information integrated into the DNA of the recipient bacterium. This process is called transformation. One theory on how meiosis arose is that it evolved from transformation. By this view, the evolutionary transition from prokaryotic sex to eukaryotic sex was continuous.
+
+Transformation, like meiosis, is a complex process requiring the function of numerous gene products. The ability to undergo natural transformation among bacterial species is widespread. At least 67 prokaryote species (in seven different phyla) are known to be competent for transformation. A key similarity between bacterial sex and eukaryotic sex is that DNA originating from two different individuals (parents) join up so that homologous sequences are aligned with each other, and this is followed by exchange of genetic information (a process called genetic recombination). After the new recombinant chromosome is formed it is passed on to progeny.
+ 
+When genetic recombination occurs between DNA molecules originating from different parents, the recombination process is catalyzed in prokaryotes and eukaryotes by enzymes that have similar functions and that are evolutionarily related. One of the most important enzymes catalyzing this process in bacteria is referred to as RecA, and this enzyme has two functionally similar counterparts that act in eukaryotic meiosis, Rad51 and Dmc1.
+
+Support for the theory that meiosis arose from bacterial transformation comes from the increasing evidence that early diverging lineages of eukaryotes have the core genes for meiosis. This implies that the precursor to meiosis was already present in the bacterial ancestor of eukaryotes. For instance the common intestinal parasite Giardia intestinalis, a simple eukaryotic protozoan was, until recently, thought to be descended from an early diverging eukaryotic lineage that lacked sex. However, it has since been shown that G. intestinalis contains within its genome a core set of genes that function in meiosis, including five genes that function only in meiosis. In addition, G. intestinalis was recently found to undergo a specialized, sex-like process involving meiosis gene homologs. This evidence, and other similar examples, suggest that a primitive form of meiosis, was present in the common ancestor of all eukaryotes, an ancestor that arose from antecedent bacteria. 
+
+====Theory that meiosis evolved from mitosis====
+
+Mitosis is the process in eukaryotes for duplicating chromosomes and segregating each of the two copies into each of the two daughter cells upon somatic cell division (that is, during all cell divisions in eukaryotes, except those involving meiosis that give rise to haploid gametes). In mitosis, chromosome number is ordinarily not reduced. The alternate theory on the origin of meiosis is that meiosis evolved from mitosis. On this theory, early eukaryotes evolved mitosis first, but lacked meiosis and thus had not yet evolved the eukaryotic sexual cycle. Only after mitosis became established did meiosis and the eukaryotic sexual cycle evolve. The fundamental features of meiosis, on this theory, were derived from mitosis.
+
+Support for the idea that meiosis arose from mitosis is the observation that some features of meiosis, such as the meiotic spindles that draw chromosome sets into separate daughter cells upon cell division, and processes regulating cell division employ the same, or similar, molecular machinery as employed in mitosis.
+ 
+However, there is no compelling evidence for a period in the early evolution of eukaryotes during which meiosis and accompanying sexual capability was suspended. Presumably such a suspension would have occurred while the evolution of mitosis proceeded from the more primitive chromosome replication/segregation processes in ancestral bacteria until mitosis was established.
+
+In addition, as noted by Wilkins and Holliday, there are four novel steps needed in meiosis that are not present in mitosis. These are: (1) pairing of homologous chromosomes, (2) extensive recombination between homologs; (3) suppression of sister chromatid separation in the first meiotic division; and (4) avoiding chromosome replication during the second meiotic division. They note that the simultaneous appearance of these steps appears to be impossible, and the selective advantage for separate mutations to cause these steps is problematic, because the entire sequence is required for reliable production of a set of haploid chromosomes.
+
+====Sharing of components during the evolution of meiosis and mitosis====
+
+On the view that meiosis arose from bacterial transformation, during the early evolution of eukaryotes, mitosis and meiosis could have evolved in parallel, with both processes using common molecular components. On this view, mitosis evolved from the molecular machinery used by bacteria for DNA replication and segregation, and meiosis evolved from the bacterial sexual process of transformation, but meiosis also made use of the evolving molecular machinery for DNA replication and segregation.
+
+===Function===
+
+Single-celled eukaryotes (protists) generally can reproduce asexually (vegetative reproduction) or sexually, depending on conditions. Asexual reproduction involves mitosis, and sexual reproduction involves meiosis. When sex is not an obligate part of reproduction, it is referred to as facultative sex. Present-day protists, generally, are facultative sexual organisms, as are many bacteria. The earliest form of sexual reproduction in eukaryotes was probably facultative, like that of present-day protists. To understand the function of meiosis in facultative sexual protists, we next consider under what circumstances these organisms switch from asexual to sexual reproduction, and what function this transition may serve.
+
+====Stress induces the eukaryotic sexual cycle in protists====
+
+Abundant evidence indicates that facultative sexual protists tend to undergo sexual reproduction under stressful conditions. For instance, the budding yeast Saccharomyces cerevisiae reproduces mitotically (asexually) as diploid cells when nutrients are abundant, but switches to meiosis (sexual reproduction) under starvation conditions. The unicellular green alga, Chlamydomonas reinhardi grows as vegetative cells in nutrient rich growth medium, but depletion of a source of nitrogen in the medium leads to gamete fusion, zygote formation and meiosis. The fissioning yeast Schizosaccharomyces pombe, treated with H2O2 to cause oxidative stress, substantially increases the proportion of cells which undergo meiosis. The simple multicellular eukaryote Volvox carteri undergoes sex in response to oxidative stress or stress from heat shock. These examples, and others, indicate that, in protists and simple multicellular eukaryotes, meiosis is an adaptation to deal with stress.
+
+====Stress induces sex in bacteria====
+
+Bacterial sex (transformation) also appears to be an adaptation to stress. For instance, transformation occurs near the end of logarithmic growth, when amino acids become limiting in Bacillus subtilis, or in Haemophilus influenzae when cells are grown to the end of logarithmic phase. In Streptococcus mutans and other streptococci, transformation is associated with high cell density and biofilm formation. In Streptococcus pneumoniae, transformation is induced by the DNA damaging agent mitomycin C. These, and other, examples indicate that bacterial transformation, like eukaryote meiosis in protists, is an adaptation to stressful conditions. This observation suggests that the natural selection pressures maintaining meiosis in protists are similar to the selective pressures maintaining bacterial transformation. This similarity further indicates continuity, rather than a gap, in the evolution of sex from bacteria to eukaryotes.
+
+====Theory that DNA repair is the adaptive advantage of meiosis====
+
+Stress is, however, a general concept. What is it specifically about stress that needs to be overcome by meiosis? And what is the specific benefit provided by meiosis that enhances survival under stressful conditions?
+
+Again there are two contrasting theories. In one theory, meiosis is primarily an adaptation for repairing DNA damage. Environmental stresses often lead to oxidative stress within the cell, which is well known to cause DNA damage through the production of reactive forms of oxygen, known as reactive oxygen species (ROS). DNA damages, if not repaired, can kill a cell by blocking DNA replication, or transcription of essential genes.
+
+When only one strand of the DNA is damaged, the lost information (nucleotide sequence) can ordinarily be recovered by repair processes that remove the damaged sequence and fill the resulting gap by copying from the opposite intact strand of the double helix. However, ROS also cause a type of damage that is difficult to repair, referred to as double-strand damage. One common example of double-strand damage is the double-strand break. In this case, genetic information (nucleotide sequence) is lost from both strands in the damaged region, and proper information can only be obtained from another intact chromosome homologous to the damage chromosome. The process that the cell uses to accurately accomplish this type of repair is called recombinational repair.
+ 
+Meiosis is distinct from mitosis in that a central feature of meiosis is the alignment of homologous chromosomes followed by recombination between them. The two chromosomes which pair are referred to as non-sister chromosomes, since they did not arise simply from the replication of a parental chromosome. Recombination between non-sister chromosomes at meiosis is known to be a recombinational repair process that can repair double-strand breaks and other types of double-strand damage. In contrast, recombination between sister chromosomes cannot repair double-strand damages arising prior to the replication which produced them. Thus on this view, the adaptive advantage of meiosis is that it facilitates recombinational repair of DNA damage that is otherwise difficult to repair, and that occurs as a result of stress, particularly oxidative stress. http://www.hummingbirds.arizona.edu/Faculty/Michod/Downloads/IGE%20review%20sex.pdf If left unrepaired, this damage would likely be lethal to gametes and inhibit production of viable progeny.
+
+Even in multicellular eukaryotes, such as humans, oxidative stress is a problem for cell survival. In this case, oxidative stress is a byproduct of oxidative cellular respiration occurring during metabolism in all cells. In humans, on average, about 50 DNA double-strand breaks occur per cell in each cell generation. Meiosis, which facilitates recombinational repair between non-sister chromosomes, can efficiently repair these prevalent damages in the DNA passed on to germ cells, and consequently prevent loss of fertility in humans. Thus on the theory that meiosis arose from bacterial transformation, recombinational repair is the selective advantage of meiosis in both single celled eukaryotes and muticellular eukaryotes, such as humans.
+
+====Theory that genetic diversity is the adaptive advantage of sex====
+
+On the other view, stress is a signal to the cell that it is experiencing a change in the environment to a more adverse condition. Under this new condition, it may be beneficial to produce progeny that differ from the parent in their genetic make up. Among these varied progeny, some may be more adapted to the changed condition than their parents. Meiosis generates genetic variation in the diploid cell, in part by the exchange of genetic information between the pairs of chromosomes after they align (recombination). Thus, on this view, the advantage of meiosis is that it facilitates the generation of genomic diversity among progeny, allowing adaptation to adverse changes in the environment.
+
+However, as also pointed out by Otto and Gerstein, in the presence of a fairly stable environment, individuals surviving to reproductive age have genomes that function well in their current environment. They raise the question of why such individuals should risk shuffling their genes with those of another individual, as occurs during meiotic recombination? Considerations such as this have led many investigators to question whether genetic diversity is the adaptive advantage of sex.
+
+===Summary===
+
+The two contrasting views on the origin of meiosis are (1) that it evolved from the bacterial sexual process of transformation and (2) that it evolved from mitosis. The two contrasting views on the fundamental adaptive function of meiosis are: (1) that it is primarily an adaptation for repairing damage in the DNA to be transmitted to progeny and (2) that it is primarily an adaptation for generating genetic variation among progeny. At present, these differing views on the origin and benefit of meiosis are not resolved among biologists.
+
+==Meiosis facilitates stable sexual reproduction==
+
+Without the halving of ploidy, or chromosome count, fertilization would result in zygotes that have twice the number of chromosomes as the zygotes from the previous generation. Successive generations would have an exponential increase in chromosome count. In organisms that are normally diploid, polyploidy, the state of having three or more sets of chromosomes, results in extreme developmental abnormalities or lethality. BIL 104 - Lecture 15 Polyploidy is poorly tolerated in most animal species. Plants, however, regularly produce fertile, viable polyploids. Polyploidy has been implicated as an important mechanism in plant speciation.
+
+==Nondisjunction==
+
+The normal separation of chromosomes in meiosis I or sister chromatids in meiosis II is termed disjunction. When the separation is not normal, it is called nondisjunction. This results in the production of gametes which have either too many or too few of a particular chromosome, and is a common mechanism for trisomy or monosomy. Nondisjunction can occur in the meiosis I or meiosis II, phases of cellular reproduction, or during mitosis.
+
+This is a cause of several medical conditions in humans, including but not limited to:
+* Down Syndrome - trisomy of chromosome 21
+* Patau Syndrome - trisomy of chromosome 13
+* Edward Syndrome - trisomy of chromosome 18
+* Klinefelter Syndrome - extra X chromosomes in males - i.e. XXY, XXXY, XXXXY, etc.
+* Turner Syndrome - lacking of one X chromosome in females - i.e. X0
+* Triple X syndrome - an extra X chromosome in females
+* XYY Syndrome - an extra Y chromosome in males.
+
+==Meiosis in mammals==
+In females, meiosis occurs in cells known as oogonia (singular: oogonium). Each oogonium that initiates meiosis divides twice, unequally in each case. The first division results in a small "first polar body" and a much larger daughter cell. The daughter cell then divides again to form a small "second polar body" and a larger ovum. Since the first polar body normally disintegrates rather than dividing again, meiosis in female mammals results in three products, the oocyte and two polar bodies. However, before these divisions occur, these cells stop at the diplotene stage of meiosis I and lie dormant within a protective shell of somatic cells called the follicle. Follicles begin growth at a steady pace in a process known as folliculogenesis, and a small number enter the menstrual cycle. Menstruated oocytes continue meiosis I and arrest at meiosis II until fertilization. The process of meiosis in females occurs during oogenesis, and differs from the typical meiosis in that it features a long period of meiotic arrest known as the dictyate stage and lacks the assistance of centrosomes. 
+
+In males, meiosis occurs during spermatogenesis in the seminiferous tubules of the testicles. Meiosis during spermatogenesis is specific to a type of cell called spermatocytes that will later mature to become spermatozoa.
+
+In female mammals, meiosis begins immediately after primordial germ cells migrate to the ovary in the embryo, but in the males, meiosis begins later, at the time of puberty. It is retinoic acid, derived from the primitive kidney (mesonephros) that stimulates meiosis in ovarian oogonia. Tissues of the male testis suppress meiosis by degrading retinoic acid, a stimulator of meiosis. This is overcome at puberty when cells within seminiferous tubules called Sertoli cells start making their own retinoic acid. Sensitivity to retinoic acid is also adjusted by proteins called nanos and DAZL. 
+
+==Meiosis in plants and animals==
+Meiosis occurs in all animals and plants. The end result, the production of gametes with half the number of chromosomes as the parent cell, is the same, but the detailed process is different. In animals, meiosis produces gametes directly. In land plants and some algae, there is an alternation of generations such that meiosis in the diploid sporophyte generation produces haploid spores. These spores multiply by mitosis, developing into the haploid gametophyte generation, which then gives rise to gametes directly (i.e. without further meiosis). In both animals and plants, the final stage is for the gametes to fuse, restoring the original number of chromosomes. 
+
+==Meiosis vs. mitosis==
+In order to understand meiosis, a comparison to mitosis is helpful. The table below shows the differences between meiosis and mitosis. 
+
+ Meiosis Mitosis 
+ End result Normally four cells, each with half the number of chromosomes as the parent Two cells, having the same number of chromosomes as the parent 
+ Function Sexual reproduction, production of gametes (sex cells) Cellular reproduction, growth, repair, asexual reproduction 
+ Where does it happen? Animals, fungi, plants, protists All eukaryotic organisms 
+ Steps Prophase I, Metaphase I, Anaphase I, Telophase I, Prophase II, Metaphase II, Anaphase II, Telophase II Prophase, Metaphase, Anaphase, Telophase 
+ Genetically same as parent? No Usually 
+ Crossing over happens? Yes, in Prophase I Sometimes 
+ Pairing of homologous chromosomes? Yes No 
+ Cytokinesis Occurs in Telophase I and Telophase II Occurs in Telophase 
+ Centromeres split Does not occur in Anaphase I, but occurs in Anaphase II Occurs in Anaphase 
+ 
+
+==See also==
+*Coefficient of coincidence
+*DNA repair
+*Evolution of sexual reproduction
+*Fertilization
+*Genetic recombination
+*Mitosis
+*Multigene family
+*Oxidative stress
+*Synizesis (biology)
+
+==References==
+
+===Cited texts===
+* 
+
+== External links ==
+
+* Meiosis Flash Animation
+* Animations from the U. of Arizona Biology Dept.
+* Meiosis at Kimball's Biology Pages
+* Khan Academy, video lecture
+* CCO The Cell-Cycle Ontology
+* Stages of Meiosis animation
+* Meiosis - cell division video
+
+

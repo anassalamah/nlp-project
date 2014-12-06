@@ -1,0 +1,71 @@
+[[Piano Sonata No. 29 (Beethoven)]]
+
+Ludwig van Beethoven's Piano Sonata No. 29 in B-flat major, Op. 106 (known as the Große Sonate für das Hammerklavier, or more simply as the Hammerklavier) is a piano sonata widely considered to be one of the most important works of the composer's third period and among the greatest piano sonatas. It is widely considered to be Beethoven's technically most challenging piano composition and one of the most challenging solo works in the classical piano repertoire. 
+
+==Composition==
+Dedicated to his patron, the Archduke Rudolf, the sonata was written primarily from the summer of 1817 to the late autumn of 1818, towards the end of a fallow period in Beethoven's compositional career. It represents the spectacular emergence of many of the themes that were to recur in Beethoven's late period: the reinvention of traditional forms, such as sonata form; a brusque humour; and a return to pre-classical compositional traditions, including an exploration of modal harmony and reinventions of the fugue within classical forms.
+
+The Hammerklavier also set a precedent for the length of solo compositions (performances typically take about 45 minutes). While orchestral works such as symphonies and concerti had often contained movements of 15 or even 20 minutes for many years, few single movements in solo literature had a span such as the Hammerklaviers Adagio sostenuto.
+
+The sonata's name comes from Beethoven's later practice of using German rather than Italian words for musical terminology. (Hammerklavier literally means "hammer-keyboard", and is still today the German name for the fortepiano, the predecessor of the modern pianoforte.) It comes from the title page of the work, "Große Sonate für das Hammerklavier", which means "Grand sonata for the fortepiano". The more sedate Sonata No. 28 in A, Op. 101 has the same description, but the epithet has come to apply to the Sonata No. 29 only.
+
+The work also makes extensive use of the una corda pedal, with Beethoven giving for his time unusually detailed instructions when to use it.
+
+==Structure==
+The piece contains four movements, a structure often used by Beethoven, and imitated by contemporaries such as Schubert, in contrast to the more usual three or two movements of Mozart's and Haydn's sonatas.
+
+In addition to the thematic connections within the movements and the use of traditional Classical formal structures, Charles Rosen has described how much of the piece is organized around the motif of a descending third (major or minor). This descending third is quite ubiquitous throughout the work, but most clearly recognizable in the following sections: the opening fanfare of the Allegro; in the Scherzo's imitation of the aforementioned fanfare, as well as in its trio theme; in bar two of the Adagio; and in the Fugue in both its introductory bass octave-patterns and in the main subject, as the seven-note runs which end up on notes descended by thirds. It is perhaps the first major piano work (if not work of any instrumentation) to so thoroughly incorporate a Baroque contrapuntal style (the fugue) within an originally Classical structure (the sonata form).
+
+===I. Allegro===
+The opening bars of the Hammerklavier sonata
+Duration of roughly 9–12 minutes.
+
+The first movement opens with a series of fortissimo B-flat major chords, which form much of the basis of the first subject. After the first subject is spun out for a while, the opening set of fortissimo chords are stated again, this time followed by a similar rhythm on the unexpected chord of D major. This ushers in the more lyrical second subject in the submediant (that is, a minor third below the tonic), G major. A third and final musical subject appears after this, which hints at G minor by chromatic alterations of the third scale degree, as well as the minor subdominant C minor. The exposition ends with a largely stepwise figure in the treble clef in a high register, while the left hand moves in an octave-outlining accompaniment in eighth notes. The development section opens with a statement of this final figure, except with alterations from the major subdominant to the minor, which fluidly modulates to E-flat major. Directly after, the exposition's first subject is composed in fugato and features an incredible display of musical development. The fugato ends with a section featuring non-fugal imitation between registers, eventually resounding in repeated D major chords. The final section of the development begins with a chromatic alteration of D natural to D-sharp. The music progresses to the alien key of B major, in which the third and first subjects of the exposition are played. The retransition is brought about by a sequence of rising intervals that get progressively higher, until the first theme is stated again in the home key of B-flat, signalling the beginning of the recapitulation. In keeping with Beethoven's exploration of the potentials of sonata form, the recapitulation avoids a full harmonic return to B-flat until long after the return to the first theme. The movement ends with a coda, and the final notes feature one of the rare fortississimo (ƒƒƒ) indications in Beethoven's work.
+
+===II. Scherzo: Assai vivace===
+Duration of 2.5–3.5 minutes.
+
+The brief second movement includes a great variety of harmonic and thematic material. The scherzo's theme – which Rosen calls a humorous form The Classical Style, Expanded Edition, p. 423 of the first movement's first subject – is at once playful, lively, and pleasant. The scherzo, in B-flat major, maintains the standard ternary form by repeating the sections an octave higher in the treble clef. The trio, marked "semplice", is in the parallel minor, B-flat minor, but the effect is more shadowy than dramatic. Following this dark interlude, Beethoven inserts a more intense presto section in 2/4 meter, still in the minor, which eventually segues back to the scherzo. After a varied reprise of the scherzo's first section, a coda with a meter change to cut time follows. This coda plays with the semitonal relationship between B-flat and B-natural, and briefly returns to the first theme before dying away.
+
+===III. Adagio sostenuto===
+Duration of 13¾–20 minutes.
+
+The sonata-form slow movement, centered on F-sharp minor, has been called, among other things, a "mausoleum of collective sorrow," Wilhelm von Lenz, quoted in The NPR Guide to Building a Classical CD Collection. Ted Libbey. ISBN 0-7611-0487-9. p. 379. and is notable for its ethereality and great length as a slow movement (e.g. Wilhelm Kempff played for approximately 16 minutes and Christoph Eschenbach 25 minutes) that finally ends with a Picardy third. Paul Bekker called the movement "the apotheosis of pain, of that deep sorrow for which there is no remedy, and which finds expression not in passionate outpourings, but in the immeasurable stillness of utter woe". Bekker, Paul (1925). Beethoven (translated and adapted by Mildred Mary Bozman). J.M. Dent & Sons, Ltd. p. 134. Wilhelm Kempff described it as "the most magnificent monologue Beethoven ever wrote". Schumann, Karl. Beethoven's Viceroy at the Keyboard In Celebration of Wilhelm Kempff's Centenary: His 1951-1956 Recordings of Beethoven's 32 Piano Sonatas. 
+
+Structurally, it follows traditional Classical-era sonata form, but the recapitulation of the main theme is varied to include extensive figurations in the right hand that anticipate some of the techniques of Romantic piano music. NPR's Ted Libbey writes, "An entire line of development in Romantic music—passing through Schubert, Chopin, Schumann, Brahms, and even Liszt—springs from this music." Libbey, Ted. The NPR Guide to Building a Classical CD Collection. ISBN 0-7611-0487-9. 
+
+===IV. Introduzione: Largo...Prestissimo - Fuga: Allegro risoluto===
+Duration of roughly 12 minutes.
+
+The movement begins with a slow introduction that serves to transition from the third movement. To do so, it modulates from B-flat minor to B major to A major, which modulates to B-flat major for the fugue. Dominated by falling thirds in the bass line, the music three times pauses on a pedal and engages in speculative contrapuntal experimentation, in a manner foreshadowing the quotations from the first three movements of the Ninth Symphony in the opening of the fourth movement of that work.
+
+After a final modulation to B-flat major, the main substance of the movement appears: a titanic three-voice fugue in triple meter. The subject of the fugue can be divided itself into three parts: (i) a tenth leap followed by a trill to the tonic, (ii) a 7-note scale figure repeated descending by a third, and (iii) a tail semiquaver passage marked by many chromatic passing tones, whose development becomes the main source for the movement's unique dissonance. Marked "with some licenses" ("con alcune licenze"), the fugue, one of Beethoven's greatest contrapuntal achievements, as well as making incredible demands on the performer, moves through a number of contrasting sections and includes a number of "learned" contrapuntal devices, often, and significantly, wielded with a dramatic fury and dissonance inimical to their conservative and academic associations. Some examples: augmentation of the fugue theme and countersubject in a sforzando marcato at bars 96-117, the massive stretto of the tenth leap and trill which follows, a contemplative episode beginning at bar 152 featuring the subject in retrograde, leading to an exploration of the theme in inversion at bar 209. Willi Apel, "Retrograde," Harvard Dictionary of Music (Cambridge, Harvard University Pres, 1969), p. 728. 
+
+A second, contrasting idyllic subject is introduced at bar 250, which becomes a bass cantus firmus, heard against parts of the first theme. The penultimate episode investigates the implications of sounding the main subject, countersubject and their inversions simultaneously in stretto. A lengthy coda in B-flat ends the work, the tenth leap and trill rising up the B-flat scale to arrive at two conventional dominant-tonic cadences which sound nevertheless strangely unstable.
+
+This fugue, which Stravinsky called both inexhaustible and exhausting, ranks alongside the last movement of Piano Sonata No. 31, Op. 110, the "Et Vitam Venturi" fugue in the Missa solemnis, Op. 123, and the Große Fuge, Op. 133, as Beethoven's most daring and extensive late explorations of the contrapuntal art.
+
+== Influence ==
+
+The work, particularly the last movement, had more or less to wait until the twentieth century before its significance was realised (possibly due to the difficulty of gaining a technically competent performance). Even as progressive a musician as Richard Wagner, who appreciated the work and fully admired the late string quartets, held reservations for what he perceived as a lack of succinctness in its composition. 
+
+In the twentieth century, Pierre Boulez's Piano Sonata No. 2 applies a serial syntax to the playing style of a Beethoven piano sonata. 
+
+==Orchestration==
+The composer Felix Weingartner produced an orchestration of the sonata. In 1878, Nietzsche had suggested such an orchestration:In the lives of great artists, there are unfortunate contingencies which, for example, force the painter to sketch his most significant picture as only a fleeting thought, or which forced Beethoven to leave us only the unsatisfying piano reduction of a symphony in certain great piano sonatas (the great B flat major). In such cases, the artist coming after should try to correct the great men's lives after the fact; for example, a master of all orchestral effects would do so by restoring to life the symphony that had suffered an apparent pianistic death. Human, All Too Human, § 173 
+
+==References==
+ 
+
+==Further reading==
+Extensive discussion and analysis is given in Charles Rosen's book The Classical Style (2nd ed., 1997, New York: Norton): ISBN 0-393-31712-9).
+
+==External links==
+*Part 1 and part 2 of a lecture by András Schiff on Beethoven's piano sonata op. 106
+*The William and Gayle Cook Music Library at the Indiana University School of Music has posted the score for the sonata.
+*For a public domain recording of this sonata visit Musopen
+*
+
+Piano Sonata 29
+
+

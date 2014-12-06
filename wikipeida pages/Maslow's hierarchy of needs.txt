@@ -1,0 +1,111 @@
+[[Maslow's hierarchy of needs]]
+
+hierarchy of needs.svg|thumb|right|450px|An interpretation of Maslow's hierarchy of needs, represented as a pyramid with the more basic needs at the bottom [https://web.archive.org/web/20100211014419/http://honolulu.hawaii.edu/intranet/committees/FacDevCom/guidebk/teachtip/maslow.htm Maslow's Hierarchy of Needs ]]
+Maslow's hierarchy of needs is a theory in psychology proposed by Abraham Maslow in his 1943 paper "A Theory of Human Motivation" in Psychological Review. Maslow, A.H. (1943). A theory of human motivation. Psychological Review, 50(4), 370–96. Retrieved from http://psychclassics.yorku.ca/Maslow/motivation.htm Maslow subsequently extended the idea to include his observations of humans' innate curiosity. His theories parallel many other theories of human developmental psychology, some of which focus on describing the stages of growth in humans. Maslow used the terms Physiological, Safety, Belongingness and Love, Esteem, Self-Actualization and Self-Transcendence needs to describe the pattern that human motivations generally move through.
+
+Maslow studied what he called exemplary people such as Albert Einstein, Jane Addams, Eleanor Roosevelt, and Frederick Douglass rather than mentally ill or neurotic people, writing that "the study of crippled, stunted, immature, and unhealthy specimens can yield only a cripple psychology and a cripple philosophy." 
+Maslow studied the healthiest 1% of the college student population. Mittelman, W. (1991). Maslow's study of self-actualization: A reinterpretation. Journal of Humanistic Psychology, 31(1), 114–135. doi: 10.1177/0022167891311010 
+
+Maslow's theory was fully expressed in his 1954 book Motivation and Personality. Maslow, A. (1954). Motivation and personality. New York, NY: Harper. While the hierarchy remains a very popular framework in sociology research, management training and secondary and higher psychology instruction, it has largely been supplanted by attachment theory in graduate and clinical psychology and psychiatry. 
+
+== Hierarchy ==
+
+Maslow's hierarchy of needs is often portrayed in the shape of a pyramid with the largest, most fundamental levels of needs at the bottom and the need for self-actualization at the top. While the pyramid has become the de facto way to represent the hierarchy, Maslow himself never used a pyramid to describe these levels in any of his writings on the subject.
+
+The most fundamental and basic four layers of the pyramid contain what Maslow called "deficiency needs" or "d-needs": esteem, friendship and love, security, and physical needs. If these "deficiency needs" are not met – with the exception of the most fundamental (physiological) need – there may not be a physical indication, but the individual will feel anxious and tense. Maslow's theory suggests that the most basic level of needs must be met before the individual will strongly desire (or focus motivation upon) the secondary or higher level needs. Maslow also coined the term Metamotivation to describe the motivation of people who go beyond the scope of the basic needs and strive for constant betterment. Goble, F. (1970). The third force: The psychology of Abraham Maslow. Richmond, CA: Maurice Bassett Publishing. pp. 62. 
+
+The human mind and brain are complex and have parallel processes running at the same time, thus many different motivations from various levels of Maslow's hierarchy can occur at the same time. Maslow spoke clearly about these levels and their satisfaction in terms such as "relative," "general," and "primarily." Instead of stating that the individual focuses on a certain need at any given time, Maslow stated that a certain need "dominates" the human organism. Maslow, A. (1954). Motivation and personality. New York, NY: Harper Thus Maslow acknowledged the likelihood that the different levels of motivation could occur at any time in the human mind, but he focused on identifying the basic types of motivation and the order in which they should be met.
+
+=== Physiological needs ===
+
+Physiological needs are the physical requirements for human survival. If these requirements are not met, the human body cannot function properly and will ultimately fail. Physiological needs are thought to be the most important; they should be met first.
+
+Air, water, and food are metabolic requirements for survival in all animals, including humans. Clothing and shelter provide necessary protection from the elements. While maintaining an adequate birth rate shapes the intensity of the human sexual instinct, sexual competition may also shape said instinct. 
+
+=== Safety needs ===
+
+With their physical needs relatively satisfied, the individual's safety needs take precedence and dominate behavior. In the absence of physical safety – due to war, natural disaster, family violence, childhood abuse, etc. – people may (re-)experience post-traumatic stress disorder or transgenerational trauma. In the absence of economic safety – due to economic crisis and lack of work opportunities – these safety needs manifest themselves in ways such as a preference for job security, grievance procedures for protecting the individual from unilateral authority, savings accounts, insurance policies, reasonable disability accommodations, etc. This level is more likely to be found in children because they generally have a greater need to feel safe.
+
+Safety and Security needs include:
+
+* Personal security
+* Financial security
+* Health and well-being
+* Safety net against accidents/illness and their adverse impacts
+
+=== Love and belonging ===
+
+After physiological and safety needs are fulfilled, the third level of human needs is interpersonal and involves feelings of belongingness. This need is especially strong in childhood and can override the need for safety as witnessed in children who cling to abusive parents. Deficiencies within this level of Maslow's hierarchy – due to hospitalism, neglect, shunning, ostracism, etc. – can impact the individual's ability to form and maintain emotionally significant relationships in general, such as:
+
+* Friendship
+* Intimacy
+* Family
+
+According to Maslow, humans need to feel a sense of belonging and acceptance among their social groups, regardless if these groups are large or small. For example, some large social groups may include clubs, co-workers, religious groups, professional organizations, sports teams, and gangs. Some examples of small social connections include family members, intimate partners, mentors, colleagues, and confidants. Humans need to love and be loved – both sexually and non-sexually – by others. Many people become susceptible to loneliness, social anxiety, and clinical depression in the absence of this love or belonging element. This need for belonging may overcome the physiological and security needs, depending on the strength of the peer pressure.
+
+=== Esteem ===
+
+All humans have a need to feel respected; this includes the need to have self-esteem and self-respect. Esteem presents the typical human desire to be accepted and valued by others. People often engage in a profession or hobby to gain recognition. These activities give the person a sense of contribution or value. Low self-esteem or an inferiority complex may result from imbalances during this level in the hierarchy. People with low self-esteem often need respect from others; they may feel the need to seek fame or glory. However, fame or glory will not help the person to build their self-esteem until they accept who they are internally. Psychological imbalances such as depression can hinder the person from obtaining a higher level of self-esteem or self-respect.
+
+Most people have a need for stable self-respect and self-esteem. Maslow noted two versions of esteem needs: a "lower" version and a "higher" version. The "lower" version of esteem is the need for respect from others. This may include a need for status, recognition, fame, prestige, and attention. The "higher" version manifests itself as the need for self-respect. For example, the person may have a need for strength, competence, mastery, self-confidence, independence, and freedom. This "higher" version takes precedence over the "lower" version because it relies on an inner competence established through experience. Deprivation of these needs may lead to an inferiority complex, weakness, and helplessness.
+
+Maslow states that while he originally thought the needs of humans had strict guidelines, the "hierarchies are interrelated rather than sharply separated". This means that esteem and the subsequent levels are not strictly separated; instead, the levels are closely related.
+
+=== Self-actualization ===
+
+"What a man can be, he must be." Maslow, A. (1954). Motivation and personality. New York, NY: Harper. pp. 91. This quotation forms the basis of the perceived need for self-actualization. This level of need refers to what a person's full potential is and the realization of that potential. Maslow describes this level as the desire to accomplish everything that one can, to become the most that one can be. Maslow, A. (1954). Motivation and personality. New York, NY: Harper. pp. 92. Individuals may perceive or focus on this need very specifically. For example, one individual may have the strong desire to become an ideal parent. In another, the desire may be expressed athletically. For others, it may be expressed in paintings, pictures, or inventions. Maslow, A. (1954). Motivation and personality. New York, NY: Harper. pp. 93. As previously mentioned, Maslow believed that to understand this level of need, the person must not only achieve the previous needs, but master them.
+
+== Research ==
+
+Recent research appears to validate the existence of universal human needs, although the hierarchy proposed by Maslow is called into question. Villarica, H. (2011, Aug 17). Maslow 2.0: A new and improved recipe for happiness. The Atlantic. Retrieved from http://www.theatlantic.com/life/archive/2011/08/maslow-20-a-new-and-improved-recipe-for-happiness/243486/#.TkvKIRv8USE.facebook Tay, L., & Diener, E. (2011). Needs and subjective well-being around the world. Journal of Personality and Social Psychology, 101(2), 354–365. doi: 10.1037/a0023779 Other research indicates that Maslow's explanations of the hierarchy of human motivation reflect a binary pattern of growth as seen in math. The individual's awareness of first, second, and third person perspectives, and of each one's input needs and output needs, moves through a general pattern that is basically the same as Maslow's. Cronburg, T. (2010). Maslow 2.0 human hierarchy of needs . Retrieved from 
+
+Following World War II, the unmet needs of homeless and orphaned children presented difficulties that were often addressed with the help of attachment theory, which was initially based on Maslow and others' developmental psychology work by John Bowlby. Originally dealing primarily with maternal deprivation and concordant losses of essential and primal needs, attachment theory has since been extended to provide explanations of nearly all the human needs in Maslow's hierarchy, from sustenance and mating to group membership and justice. While Maslow's hierarchy remains a very popular framework in sociology research and secondary and postsecondary psychology instruction, it has largely been supplanted by attachment theory in graduate and clinical psychology and psychiatry. 
+
+== Criticism ==
+
+In their extensive review of research based on Maslow's theory, Wahba and Bridwell found little evidence for the ranking of needs that Maslow described or for the existence of a definite hierarchy at all. Wahba, M. A., & Bridwell, L. G. (1976). Maslow reconsidered: A review of research on the need hierarchy theory. Organizational Behavior and Human Performance, 15(2), 212–240. doi: 10.1016/0030-5073(76)90038-6 
+
+The order in which the hierarchy is arranged (with self-actualization described as the highest need) has been criticized as being ethnocentric by Geert Hofstede. Hofstede, G. (1984). The cultural relativity of the quality of life concept. Academy of Management Review, 9(3), 389–398. Retrieved from http://www.nyegaards.com/yansafiles/Geert%20Hofstede%20cultural%20attitudes.pdf Maslow's hierarchy of needs fails to illustrate and expand upon the difference between the social and intellectual needs of those raised in individualistic societies and those raised in collectivist societies. The needs and drives of those in individualistic societies tend to be more self-centered than those in collectivist societies, focusing on improvement of the self, with self-actualization being the apex of self-improvement. In collectivist societies, the needs of acceptance and community will outweigh the needs for freedom and individuality. Cianci, R., & Gambrel, P. A. (2003). Maslow's hierarchy of needs: Does it apply in a collectivist culture. Journal of Applied Management and Entrepreneurship, 8(2), 143–161. The term "Self-actualization" may not universally convey Maslow's observations; this motivation refers to focusing on becoming the best person that one can possibly strive for in the service of both the self and others. Maslow's term of self-actualization might not properly portray the full extent of this level; quite often, when a person is at the level of self-actualization, much of what they accomplish in general may benefit others or, "the greater self".
+
+The position and value of sex on the pyramid has also been a source of criticism regarding Maslow's hierarchy. Maslow's hierarchy places sex in the physiological needs category along with food and breathing; it lists sex solely from an individualistic perspective. For example, sex is placed with other physiological needs which must be satisfied before a person considers "higher" levels of motivation. Some critics feel this placement of sex neglects the emotional, familial, and evolutionary implications of sex within the community, although others point out that this is true of all of the basic needs. Kenrick, D. (2010, May 19). Rebuilding Maslow's pyramid on an evolutionary foundation. Psychology Today. Retrieved from http://www.psychologytoday.com/blog/sex-murder-and-the-meaning-life/201005/rebuilding-maslow-s-pyramid-evolutionary-foundation Kenrick, D. T., Griskevicius, V., Neuberg, S. L., & Schaller, M. (2010). Renovating the pyramid of needs: Contemporary extensions built upon ancient foundations. Perspectives on Psychological Science, 5, 292. doi: 10.1177/1745691610369469 
+
+== Changes to the hierarchy by circumstance ==
+
+The higher-order (self-esteem and self-actualization) and lower-order (physiological, safety, and love) needs classification of Maslow's hierarchy of needs is not universal and may vary across cultures due to individual differences and availability of resources in the region or geopolitical entity/country.
+
+In one study, exploratory factor analysis (EFA) of a thirteen item scale showed there were two particularly important levels of needs in the US during the peacetime of 1993 to 1994: survival (physiological and safety) and psychological (love, self-esteem, and self-actualization). In 1991, a retrospective peacetime measure was established and collected during the Persian Gulf War and US citizens were asked to recall the importance of needs from the previous year. Once again, only two levels of needs were identified; therefore, people have the ability and competence to recall and estimate the importance of needs. For citizens in the Middle East (Egypt and Saudi Arabia), three levels of needs regarding importance and satisfaction surfaced during the 1990 retrospective peacetime. These three levels were completely different from those of the US citizens.
+
+Changes regarding the importance and satisfaction of needs from the retrospective peacetime to the wartime due to stress varied significantly across cultures (the US vs. the Middle East). For the US citizens, there was only one level of needs since all needs were considered equally important. With regards to satisfaction of needs during the war, in the US there were three levels: physiological needs, safety needs, and psychological needs (social, self-esteem, and self-actualization). During the war, the satisfaction of physiological needs and safety needs were separated into two independent needs while during peacetime, they were combined as one. For the people of the Middle East, the satisfaction of needs changed from three levels to two during wartime. Tang, T. L., & West, W. B. (1997). The importance of human needs during peacetime, retrospective peacetime, and the Persian Gulf War. International Journal of Stress Management, 4(1), 47–62. Tang, T. L., & Ibrahim, A. H. (1998). Importance of human needs during retrospective peacetime and the Persian Gulf War: Mid-eastern employees. International Journal of Stress Management, 5(1), 25–37. Retrieved from http://www.springerlink.com/content/h1q9vg84760uhh5u/ Tang, T. L., Ibrahim, A. H., & West, W. B. (2002). Effects of war-related stress on the satisfaction of human needs: The United States and the Middle East. International Journal of Management Theory and Practices, 3(1), 35–53. 
+
+A 1981 study looked at how Maslow's hierarchy might vary across age groups. Goebel, B. L., & Brown, D. R. (1981). Age differences in motivation related to Maslow's need hierarchy. Developmental Psychology, 17, 809–815. doi: 10.1037/0012-1649.17.6.809 A survey asked participants of varying ages to rate a set number of statements from most important to least important. The researchers found that children had higher physical need scores than the other groups, the love need emerged from childhood to young adulthood, the esteem need was highest among the adolescent group, young adults had the highest self-actualization level, and while old age had the highest level of security, it was needed across all levels comparably. The authors argued that this suggested Maslow's hierarchy may be limited as a theory for developmental sequence since the sequence of the love need and the self-esteem need should be reversed according to age.
+
+== See also ==
+
+* Energy hierarchy
+* Engel's law, an economic model for how well basic needs are met 
+* ERG theory, which further expands and explains Maslow's theory
+* Fundamental human needs, Manfred Max-Neef's model
+* John Curtis Gowan
+* Juan Antonio Pérez López, spontaneous and rational motivation　
+* Metamotivation
+* Murray's psychogenic needs
+* Need theory
+* Need
+
+== Further reading ==
+
+* 
+*Kress, Oliver (1993)."A new approach to cognitive development: ontogenesis and the process of initiation". Evolution and Cognition 2(4): 319-332.
+
+== References ==
+
+== External links ==
+
+* A Theory of Human Motivation, original 1943 article by Maslow.
+* Maslow's Hierarchy of Needs, Teacher's Toolbox. A video overview of Maslow's work by Geoff Petty.
+* A Theory of Human Motivation: Annotated.
+* Theory and biography including detailed description and examples of self-actualizers.
+* Maslow's Hierarchy of Needs, Valdosta.
+* Abraham Maslow by C George Boheree
+
+

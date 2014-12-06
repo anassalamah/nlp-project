@@ -1,0 +1,138 @@
+[[Ferrofluid]]
+
+Ferrofluid on glass, with a magnet underneath.
+Steve Papell invented ferrofluid for NASA in 1963
+A ferrofluid (portmanteau of ferromagnetic and fluid) is a liquid which becomes strongly magnetized in the presence of a magnetic field.
+Ferrofluid was invented in 1963 by NASA's Steve Papell as a liquid rocket fuel that could be drawn toward a pump inlet in a weightless environment by applying a magnetic field. US Patent # 3215572 filed Oct 9, 1963 https://www.google.com/patents/US3215572 
+Ferrofluid has been submersed in sugar water. Sugar has been added to increase the density of the water to the point where the ferrofluid appears weightless
+
+Ferrofluids are colloidal liquids made of nanoscale ferromagnetic, or ferrimagnetic, particles suspended in a carrier fluid (usually an organic solvent or water). Each tiny particle is thoroughly coated with a surfactant to inhibit clumping. Large ferromagnetic particles can be ripped out of the homogeneous colloidal mixture, forming a separate clump of magnetic dust when exposed to strong magnetic fields. The magnetic attraction of nanoparticles is weak enough that the surfactant's Van der Waals force is sufficient to prevent magnetic clumping or agglomeration. Ferrofluids usually do not retain magnetization in the absence of an externally applied field and thus are often classified as "superparamagnets" rather than ferromagnets.
+
+The difference between ferrofluids and magnetorheological fluids (MR fluids) is the size of the particles. The particles in a ferrofluid primarily consist of nanoparticles which are suspended by Brownian motion and generally will not settle under normal conditions. MR fluid particles primarily consist of micrometre-scale particles which are too heavy for Brownian motion to keep them suspended, and thus will settle over time because of the inherent density difference between the particle and its carrier fluid. These two fluids have very different applications as a result.
+
+==Description==
+Ferrofluid is the oily substance collecting at the poles of the magnet which is underneath the white dish.
+
+Ferrofluids are composed of nanoscale particles (diameter usually 10 nanometers or less) of magnetite, hematite or some other compound containing iron. This is small enough for thermal agitation to disperse them evenly within a carrier fluid, and for them to contribute to the overall magnetic response of the fluid. This is similar to the way that the ions in an aqueous paramagnetic salt solution (such as an aqueous solution of copper(II) sulfate or manganese(II) chloride) make the solution paramagnetic. The composition of a typical ferrofluid is about 5% magnetic solids, 10% surfactant and 85% carrier, by volume. Helmenstine, Anne Marie. How to Make Liquid Magnets . chemistry.about.com 
+
+Particles in ferrofluids are dispersed in a liquid, often using a surfactant, and thus ferrofluids are colloidal suspensions – materials with properties of more than one state of matter. In this case, the two states of matter are the solid metal and liquid it is in. Vocabulary List. Education.jlab.org. Retrieved on 2011-11-23. This ability to change phases with the application of a magnetic field allows them to be used as seals, lubricants, and may open up further applications in future nanoelectromechanical systems.
+
+True ferrofluids are stable. This means that the solid particles do not agglomerate or phase separate even in extremely strong magnetic fields. However, the surfactant tends to break down over time (a few years), and eventually the nano-particles will agglomerate, and they will separate out and no longer contribute to the fluid's magnetic response.
+
+The term magnetorheological fluid (MRF) refers to liquids similar to ferrofluids (FF) that solidify in the presence of a magnetic field. Magnetorheological fluids have micrometre scale magnetic particles that are one to three orders of magnitude larger than those of ferrofluids.
+
+However, ferrofluids lose their magnetic properties at sufficiently high temperatures, known as the Curie temperature.
+
+===Normal-field instability===
+When a paramagnetic fluid is subjected to a strong vertical magnetic field, the surface forms a regular pattern of peaks and valleys. This effect is known as the normal-field instability. The instability is driven by the magnetic field; it can be explained by considering which shape of the fluid minimizes the total energy of the system. Andelman & Rosensweig, pp. 20–21. 
+
+From the point of view of magnetic energy, peaks and valleys are energetically favorable. In the corrugated configuration, the magnetic field is concentrated in the peaks; since the fluid is more easily magnetized than the air, this lowers the magnetic energy. In consequence the spikes of fluid ride the field lines out into space until there is a balance of the forces involved. Andelman & Rosensweig pp. 21, 23; Fig. 11 
+
+At the same time the formation of peaks and valleys is resisted by gravity and surface tension. It costs energy to move fluid out of the valleys and up into the spikes, and it costs energy to increase the surface area of the fluid. In summary, the formation of the corrugations increases the surface free energy and the gravitational energy of the liquid, but reduces the magnetic energy. The corrugations will only form above a critical magnetic field strength, when the reduction in magnetic energy outweighs the increase in surface and gravitation energy terms. Andelman & Rosensweig p. 21 
+
+Ferrofluids have an exceptionally high magnetic susceptibility and the critical magnetic field for the onset of the corrugations can be realised by a small bar magnet.
+
+Macrophotograph of ferrofluid influenced by a magnet.
+
+===Common ferrofluid surfactants===
+The surfactants used to coat the nanoparticles include, but are not limited to:
+
+* oleic acid
+* tetramethylammonium hydroxide
+* citric acid
+* soy lecithin
+
+These surfactants prevent the nanoparticles from clumping together, ensuring that the particles do not form aggregates that become too heavy to be held in suspension by Brownian motion. The magnetic particles in an ideal ferrofluid do not settle out, even when exposed to a strong magnetic, or gravitational field. A surfactant has a polar head and non-polar tail (or vice versa), one of which adsorbs to a nanoparticle, while the non-polar tail (or polar head) sticks out into the carrier medium, forming an inverse or regular micelle, respectively, around the particle. Electrostatic repulsion then prevents agglomeration of the particles.
+
+While surfactants are useful in prolonging the settling rate in ferrofluids, they also prove detrimental to the fluid's magnetic properties (specifically, the fluid's magnetic saturation). The addition of surfactants (or any other foreign particles) decreases the packing density of the ferroparticles while in its activated state, thus decreasing the fluid's on-state viscosity, resulting in a "softer" activated fluid. While the on-state viscosity (the "hardness" of the activated fluid) is less of a concern for some ferrofluid applications, it is a primary fluid property for the majority of their commercial and industrial applications and therefore a compromise must be met when considering on-state viscosity versus the settling rate of a ferrofluid.
+
+A ferrofluid in a magnetic field showing normal-field instability caused by a neodymium magnet beneath the dish
+
+==Applications==
+
+===Electronic devices===
+
+Ferrofluids are used to form liquid seals around the spinning drive shafts in hard disks. The rotating shaft is surrounded by magnets. A small amount of ferrofluid, placed in the gap between the magnet and the shaft, will be held in place by its attraction
+to the magnet. The fluid of magnetic particles forms a barrier which prevents debris from entering the interior of the hard drive. According to engineers at Ferrotec, ferrofluid seals on rotating shafts typically withstand 3 to 4 psi; additional seals can be stacked to form assemblies capable of higher pressures.
+
+===Mechanical engineering===
+Ferrofluids have friction-reducing capabilities. If applied to the surface of a strong enough magnet, such as one made of neodymium, it can cause the magnet to glide across smooth surfaces with minimal resistance.
+
+===Spacecraft propulsion===
+Ferrofluids can be made to self-assemble nanometer-scale needle-like sharp tips under the influence of a magnetic field. When they reach a critical thinness, the needles begin emitting jets that might be used in the future as a thruster mechanism to propel small satellites such as CubeSats. Raval, Siddharth (2013). Novel Thrusters Being Developed for Nanosats. Space Safety Magazine. Available: http://www.spacesafetymagazine.com/2013/10/17/novel-thrusters-developed-nanosats/ Accessed: 10/17/2013. 
+
+=== Materials science ===
+Ferrofluids can be used to image magnetic domain structures on the surface of ferromagnetic materials using a technique developed by Francis Bitter. Mee, C. D. (1950). The Mechanism of Colloid Agglomeration in the Formation of Bitter Patterns. Proceedings of the Physical Society. Section A, 63(8), 922. doi:10.1088/0370-1298/63/8/122 
+
+===Analytical instrumentation===
+Ferrofluids have numerous optical applications because of their refractive properties; that is, each grain, a micromagnet, reflects light. These applications include measuring specific viscosity of a liquid placed between a polarizer and an analyzer, illuminated by a helium–neon laser.
+
+===Medical applications===
+Almost all applications in medicine exploit the extreme relative size difference between magnetic nanoparticles and living cells. The applications presented in this section make use of ferrofluids composed of iron oxide nanoparticles and are called SPION, short for superparamagnetic iron oxide nanoparticles.
+
+The first application is magnetic drug targeting. In this process the drugs would be enclosed by a layer of ferrofluid in some way. The combination would be injected into an area of the patient's body that required the drug treatment. The drugs would then be held in the desired location by a magnetic field and allowed to act for a time period (approximately 1 hour). The field would then be turned off and the drugs would be allowed to disperse through the body. This process would drastically decrease the necessary dose for a treatment down to a level at which there would be no adverse side effects once the drug is released from the magnetic field. The motivation behind this type of treatment is for it to be used for drugs with adverse side effects, i.e. chemotherapy. 
+
+The second application is an experimental cancer treatment called targeted magnetic hyperthermia. This process takes advantage of the ability of the nanoparticles to convert electromagnetic energy into thermal energy or heat. Here, ferrofluid is injected into a target tissue, usually a cancerous tumor. An oscillatory magnetic field is focused on the location, allowing the ferrofluid to vibrate. The vibration increases thermal energy at a frequency that does not allow the surrounding water to heat up. The fluid can reach a temperature that kills the desired cells without damaging surrounding tissue. 
+
+The third application is for ferrofluid to be used to as an enhanced contrast agent in magnetic resonance imaging (MRI). MRI images depend on the difference in magnetic relaxation times of different tissues to provide contrast. If biocompatible ferrofluids can be selectively absorbed by some kind of tissue, then those tissues that would not normally have high resolution would. Also, developing a method for different tissues to uptake different amounts of ferrofluid would give the tissues drastically different relaxation times, and thus very sharp contrast and high resolution. One example of this method being utilized was with trials involving Dextran coated iron oxide particles. The coated particles are taken up by the reticuloendothelial system of many healthy cells, but not cancer cells. This would allow very good resolution of cancer cells. 
+
+The fourth and final application being discussed is a process called magnetic separation of cells. This technique calls for magnetic particles to be uptaken by a desired biological entity similar to the above method for MRI. Then once the particles are saturated inside a target tissue, a magnetic field gradient is used to pull said entity away from its native environment. One example of this procedure being of great use is separating bone marrow from cancerous portions of a sample in order to re-implant the marrow back into the person. 
+
+===Heat transfer===
+An external magnetic field imposed on a ferrofluid with varying susceptibility (e.g., because of a temperature gradient) results in a nonuniform magnetic body force, which leads to a form of heat transfer called thermomagnetic convection. This form of heat transfer can be useful when conventional convection heat transfer is inadequate; e.g., in miniature microscale devices or under reduced gravity conditions.
+
+Ferrofluids are commonly used in loudspeakers to remove heat from the voice coil, and to passively damp the movement of the cone. They reside in what would normally be the air gap around the voice coil, held in place by the speaker's magnet. Since ferrofluids are paramagnetic, they obey Curie's law, thus become less magnetic at higher temperatures. A strong magnet placed near the voice coil (which produces heat) will attract cold ferrofluid more than hot ferrofluid thus forcing the heated ferrofluid away from the electric voice coil and toward a heat sink. This is an efficient cooling method which requires no additional energy input. 
+
+Ferrofluids of suitable composition can exhibit extremely large enhancement in thermal conductivity (k; ~300% of the base fluid thermal conductivity). The large enhancement in k is due to the efficient transport of heat through percolating nanoparticle paths. Special magnetic nanofluids with tunable thermal conductivity to viscosity ratio can be used as multifunctional ‘smart materials’ that can remove heat and also arrest vibrations (damper). Such fluids may find applications in microfluidic devices and microelectromechanical systems (MEMS). 
+
+===Optics===
+Research is under way to create an adaptive optics shape-shifting magnetic mirror from ferrofluid for Earth-based astronomical telescopes. 
+
+Optical filters are used to select different wavelengths of light. The replacement of filters is cumbersome, especially when the wavelength is changed continuously with tunable-type lasers. Optical filters tunable for different wavelengths by varying the magnetic field can be built using ferrofluid emulsion. 
+
+===Art===
+Some art and science museums have special devices on display that use magnets to make ferrofluids move around specially shaped surfaces in a fountain show-like fashion to entertain guests. Sachiko Kodama is known for her ferrofluid art.
+
+The Australian electronic rock band Pendulum used ferrofluid for the music video for the track, Watercolour. The design house Krafted London was responsible for the ferrofluid FX in the video. The post-metal band Isis also uses a ferrofluid in the music-video for 20 Minutes/40 Years.
+
+Martin Frey, a German designer and technologist, built the pixel-based ferrofluid display SnOil in 2005. The device consists of a 12×12 matrix of electromagnets, allowing the apparatus to display text and run simple games. SnOil - A Physical Display Based on Ferrofluid. freymartin.de 
+
+CZFerro, an American art studio, began using ferrofluid in its productions in 2008. The works consist of ferrofluid displayed in a unique suspension solution. These works are often used as conversation pieces for offices and homes.
+
+== See also ==
+
+* Smart fluid
+* Magnetic field viewing film
+* Magnetorheological fluid
+* Electrorheological fluid
+* Magnetohydrodynamics
+* Magnetic ionic liquid
+* Plasma physics
+* Fluid mechanics
+* Continuum mechanics
+
+== References ==
+
+==Bibliography==
+
+* 
+* 
+
+== External links ==
+
+* How ferrofluid works video
+* A comparison of ferrofluid and MR fluid (at the bottom of the page)
+* Chemistry comes alive: Ferrofluid
+* Research project about ferrofluides
+* Flow behavior of ferrofluids
+* MIT Explores Ferrofluid Applications
+* Ferrofluid Sculptures by Sachiko Kodama (Google Video)
+* Daniel Rutter has some fun with Ferrofluid
+* High pressure valve
+* Ferrofluid Sculptures FLYP Media video story on Sachiko Kodama, an artist who works with ferrofluid.
+* Liquid seal for Sterling piston (video)
+* FerroFluid Synthesis
+* Interdisciplinary education group: Ferrofluids (contains videos and a lab for synthesis of ferrofluid)
+* Synthesis of an Aqueous Ferrofluid — instructions in PDF and DOC format
+
+

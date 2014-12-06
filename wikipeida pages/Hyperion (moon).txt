@@ -1,0 +1,64 @@
+[[Hyperion (moon)]]
+
+Hyperion (; Greek: Ὑπερίων), also known as Saturn VII, is a moon of Saturn discovered by William Cranch Bond, George Phillips Bond and William Lassell in 1848. It is distinguished by its irregular shape, its chaotic rotation, and its unexplained sponge-like appearance. It was the first non-round moon to be discovered.
+
+== Name ==
+The moon is named after Hyperion, the Titan god of watchfulness and observation – the elder brother of Cronus, the Greek equivalent of Saturn – in Greek mythology. It is also designated Saturn VII. The adjectival form of the name is Hyperionian.
+
+Hyperion's discovery came shortly after John Herschel had suggested names for the seven previously-known satellites of Saturn in his 1847 publication Results of Astronomical Observations made at the Cape of Good Hope. William Lassell, who saw Hyperion two days after William Bond, had already endorsed Herschel's naming scheme and suggested the name Hyperion in accordance with it. 
+ He also beat Bond to publication. 
+ 
+
+== Physical characteristics ==
+
+=== Shape ===
+Hyperion is one of the largest bodies known to be highly irregularly shaped (non-ellipsoidal, i.e. not in hydrostatic equilibrium) in the Solar System. The only larger moon known to be irregular in shape is Neptune's moon Proteus. Hyperion has about 15% of the mass of Mimas, the least massive ellipsoidal body. The largest crater on Hyperion is approximately in diameter and deep. A possible explanation for the irregular shape is that Hyperion is a fragment of a larger body that was broken up by a large impact in the distant past. 
+ A proto-Hyperion could have been from 350 to 1000 km in diameter. Over about 1,000 years, ejecta from a presumed Hyperion breakup would have impacted Titan at low speeds, building up volatiles in the atmosphere of Titan. 
+True-color image of Hyperion, taken by the Cassini spacecraft.
+
+=== Composition ===
+Like most of Saturn's moons, Hyperion's low density indicates that it is composed largely of water ice with only a small amount of rock. It is thought that Hyperion may be similar to a loosely accreted pile of rubble in its physical composition. However, unlike most of Saturn's moons, Hyperion has a low albedo (0.2–0.3), indicating that it is covered by at least a thin layer of dark material. This may be material from Phoebe (which is much darker) that got past Iapetus. Hyperion is redder than Phoebe and closely matches the color of the dark material on Iapetus.
+
+Hyperion has a porosity of about 0.46. 
+
+=== Surface features ===
+
+Voyager 2 passed through the Saturn system but photographed Hyperion only from a distance. It discerned individual craters and an enormous ridge but was not able to make out the texture of the moon's surface. Early images from the Cassini orbiter suggested an unusual appearance, but it was not until Cassinis first targeted flyby of Hyperion on 25 September 2005 that the moon's oddness was revealed in full.
+
+Hyperion's surface is covered with deep, sharp-edged craters that give it the appearance of a giant sponge. Dark material fills the bottom of each crater. The reddish substance contains long chains of carbon and hydrogen and appears very similar to material found on other Saturnian satellites, most notably Iapetus.
+
+The latest analyses of data obtained by NASA's Cassini spacecraft during its flybys of Hyperion in 2005 and 2006 show that about 40 percent of the moon is empty space. It was suggested in July 2007 that this porosity allows craters to remain nearly unchanged over the eons. The new analyses also confirmed that Hyperion is composed mostly of water ice with very little rock. "We find that water ice is the main constituent of the surface, but it's dirty water ice," said Dale Cruikshank, a researcher at the NASA Ames Research Center. 
+ 
+
+== Rotation ==
+
+Hyperion with image processing to bring out details. Taken by the Cassini space probe.
+
+The Voyager 2 images and subsequent ground-based photometry indicate that Hyperion's rotation is chaotic, that is, its axis of rotation wobbles so much that its orientation in space is unpredictable. Hyperion is the only moon in the Solar System known to rotate chaotically. It is also the only regular planetary natural satellite in the Solar System known not to be tidally locked.
+
+Hyperion is unique among the large moons in that it is very irregularly shaped, has a fairly eccentric orbit, and is near a much larger moon, Titan. These factors combine to restrict the set of conditions under which a stable rotation is possible. The 3:4 orbital resonance between Titan and Hyperion may also make a chaotic rotation more likely. The fact that its rotation is not locked probably accounts for the relative uniformity of Hyperion's surface, in contrast to many of Saturn's other moons which have contrasting trailing and leading hemispheres. 
+ 
+
+== Exploration ==
+Hyperion has been imaged several times from moderate distances by the Cassini orbiter. The first close targeted fly-by occurred at a distance of 500 km on 26 September 2005. Cassini made another close approach to Hyperion on 25 August 2011. Cassini's next flyby occurred on 16 September 2011, when it passed at 58000 km. 
+
+== See also ==
+* Hyperion in fiction
+
+== Notes ==
+
+== References ==
+
+== External links ==
+
+* Cassini mission Hyperion page
+* Hyperion Profile at NASA's Solar System Exploration site
+* The Planetary Society: Hyperion
+* NASA: Saturn's Hyperion, A Moon With Odd Craters
+* Cassini images of Hyperion
+* Images of Hyperion at JPL's Planetary Photojournal
+* Hyperion nomenclature from the USGS planetary nomenclature page
+
+ 
+
+

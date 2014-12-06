@@ -1,0 +1,105 @@
+[[Monoclonal antibody therapy]]
+
+Each antibody binds only one specific antigen.
+Monoclonal antibody therapy is the use of monoclonal antibodies (or mAb) to specifically bind to target cells or proteins. This may then stimulate the patient's immune system to attack those cells. It is possible to create a mAb specific to almost any extracellular/ cell surface target, and thus there is a large amount of research and development currently being undertaken to create monoclonals for numerous serious diseases (such as rheumatoid arthritis, multiple sclerosis, Alzheimer's disease and different types of cancers). There are a number of ways that mAbs can be used for therapy. For example: mAb therapy can be used to destroy malignant tumor cells and prevent tumor growth by blocking specific cell receptors. Variations also exist within this treatment, e.g. radioimmunotherapy, where a radioactive dose localizes on target cell line, delivering lethal chemical doses to the target. 
+
+==Structure and function of human and therapeutic antibodies==
+
+Immunoglobulin G (IgG) antibodies are large heterodimeric molecules, approximately 150 kDa and are composed of two different kinds of polypeptide chain, called the heavy (~50kDa) and the light chain (~25kDa). There are two types of light chains, kappa (κ) and lambda (λ). By cleavage with enzyme papain, the Fab (fragment-antigen binding) part can be separated from the Fc (fragment constant) part of the molecule (see image). The Fab fragments contain the variable domains, which consist of three antibody hypervariable amino acid domains responsible for the antibody specificity embedded into constant regions. There are four known IgG subclasses all of which are involved in Antibody-dependent cellular cytotoxicity. 
+
+The immune system responds to the environmental factors it encounters on the basis of discrimination between self and non-self. Tumor cells are not specifically targeted by one's immune system since tumor cells are the patient's own cells.
+Tumor cells, however are highly abnormal, and many display unusual antigens that are either inappropriate for the cell type, its environment, or are only normally present during the organisms' development (e.g. fetal antigens). 
+
+Other tumor cells display cell surface receptors that are rare or absent on the surfaces of healthy cells, and which are responsible for activating cellular signal transduction pathways that cause the unregulated growth and division of the tumor cell. Examples include ErbB2, a constitutively active cell surface receptor that is produced at abnormally high levels on the surface of approximately 30% of breast cancer tumor cells. Such breast cancer is known a HER2 positive breast cancer. 
+
+Antibodies are a key component of the adaptive immune response, playing a central role in both in the recognition of foreign antigens and the stimulation of an immune response to them. The advent of monoclonal antibody technology has made it possible to raise antibodies against specific antigens presented on the surfaces of tumors. 
+
+==Origins of monoclonal antibody therapy==
+Monoclonal antibodies for cancer. ADEPT, antibody directed enzyme prodrug therapy; ADCC, antibody dependent cell-mediated cytotoxicity; CDC, complement dependent cytotoxicity; MAb, monoclonal antibody; scFv, single-chain Fv fragment. Modified from 
+
+Immunotherapy developed as a technique with the discovery of the structure of antibodies and the development of hybridoma technology, which provided the first reliable source of monoclonal antibodies. These advances allowed for the specific targeting of tumors both in vitro and in vivo. Initial research on malignant neoplasms found MAb therapy of limited and generally short-lived success with malignancies of the blood. Furthermore treatment had to be specifically tailored to each individual patient, thus proving to be impracticable for the routine clinical setting.
+
+Throughout the progression of monoclonal drug development there have been four major antibody types developed: murine, chimeric, humanised and human.
+
+Initial therapeutic antibodies were simple murine analogues, which contributed to the early lack of success. It has since been shown that these antibodies have: a short half-life in vivo (due to immune complex formation), limited penetration into tumour sites, and that they inadequately recruit host effector functions. To overcome these difficulties the technical issues initially experienced had to be surpassed. Chimeric and humanized antibodies have generally replaced murine antibodies in modern therapeutic antibody applications. Hybridoma technology has been replaced by recombinant DNA technology, transgenic mice and phage display. Understanding of proteomics has proven essential in identifying novel tumour targets.
+
+===Murine monoclonal antibodies (suffix -omab)===
+Initially, murine antibodies were obtained by hybridoma technology, for which Kohler and Milstein received a Nobel prize. However the dissimilarity between murine and human immune systems led to the clinical failure of these antibodies, except in some specific circumstances. Major problems associated with murine antibodies included reduced stimulation of cytotoxicity and the formation complexes after repeated administration, which resulted in mild allergic reactions and sometimes anaphylactic shock. 
+
+===Chimeric and humanized monoclonal antibodies (suffixes -ximab, -zumab respectively)===
+To reduce murine antibody immunogenicity, murine molecules were engineered to remove immunogenic content and to increase their immunologic efficiency. This was initially achieved by the production of chimeric and humanized antibodies. Chimeric antibodies are composed of murine variable regions fused onto human constant regions. Human gene sequences, taken from the kappa light chain and the IgG1 heavy chain, results in antibodies that are approximately 65% human. This reduces immunogenicity, and thus increases serum half-life.
+
+Humanised antibodies are produced by grafting murine hypervariable regions on amino acid domains into human antibodies. This results in a molecule of approximately 95% human origin. However it has been shown in several studies that humanised antibodies bind antigen much more weakly than the parent murine monoclonal antibody, with reported decreases in affinity of up to several hundredfold. Increases in antibody-antigen binding strength have been achieved by introducing mutations into the complementarity determining regions (CDR), using techniques such as chain-shuffling, randomization of complementarity determining regions and generation of antibody libraries with mutations within the variable regions by error-prone PCR, E. coli mutator strains, and site-specific mutagenesis. 
+
+===Human monoclonal antibodies (suffix -umab)===
+Human monoclonal antibodies are produced using transgenic mice or phage display libraries. Human monoclonal antibodies are produced by transferring human immunoglobulin genes into the murine genome, after which the transgenic mouse is vaccinated against the desired antigen, leading to the production of monoclonal antibodies., allowing the transformation of murine antibodies in vitro into fully human antibodies. 
+
+The heavy and light chains of human IgG proteins are expressed in structural polymorphic (allotypic) forms. Human IgG allotype has been considered as one of the many factors that can contribute to immunogenicity. The general scheme of a monoclonal antibody development program is described in. 
+
+== Targeted conditions ==
+===Cancer===
+Anti-cancer monoclonal antibodies can be targeted against malignant cells by several mechanisms:
+
+*Radioimmunotherapy (RIT) involves the use of radioactively conjugated murine antibodies against cellular antigens. Most research currently involved their application to lymphomas, as these are highly radio-sensitive malignancies. To limit radiation exposure, murine antibodies were especially chosen, as their high immunogenicity promotes rapid clearance from the body. Tositumomab is an example used for non-Hodgkins lymphoma.
+
+*Antibody-directed enzyme prodrug therapy (ADEPT) involves the application of cancer associated monoclonal antibodies which are linked to a drug-activating enzyme. Subsequent systemic administration of a non-toxic agent results in its conversion to a toxic drug, and resulting in a cytotoxic effect which can be targeted at malignant cells. The clinical success of ADEPT treatments has been limited to date. However it holds great promise, and recent reports suggest that it will have a role in future oncological treatment.
+
+*Immunoliposomes are antibody-conjugated liposomes. Liposomes can carry drugs or therapeutic nucleotides and when conjugated with monoclonal antibodies, may be directed against malignant cells. Although this technique is still in its infancy, significant advances have been made. Immunoliposomes have been successfully used in vivo to achieve targeted delivery of tumour-suppressing genes into tumours, using an antibody fragment against the human transferrin receptor. Tissue-specific gene delivery using immunoliposomes has also been achieved in brain, and breast cancer tissue. 
+
+===Autoimmune diseases===
+Monoclonal antibodies used for autoimmune diseases include infliximab and adalimumab, which are effective in rheumatoid arthritis, Crohn's disease and ulcerative Colitis by their ability to bind to and inhibit TNF-α. Basiliximab and daclizumab inhibit IL-2 on activated T cells and thereby help preventing acute rejection of kidney transplants. Omalizumab inhibits human immunoglobulin E (IgE) and is useful in moderate-to-severe allergic asthma.
+
+==FDA approved therapeutic antibodies==
+
+The first FDA-approved therapeutic monoclonal antibody was a murine IgG2a CD3 specific transplant rejection drug, OKT3 (also called muromonab), in 1986. This drug found use in solid organ transplant recipients who became steroid resistant. Hundreds of therapies are undergoing clinical trials. Most are concerned with immunological and oncological targets.
+
+ Example FDA approved therapeutic monoclonal antibodies Antibody Brand name Company Approval date Type Target Indication(Targeted disease) 
+ Abciximab ReoPro Eli Lilly 1994 chimeric inhibition of glycoprotein IIb/IIIa Cardiovascular disease 
+ Adalimumab Humira Abbott_Laboratories 2002 human inhibition of TNF-α signaling Several auto-immune disorders 
+ Alemtuzumab Campath Genzyme 2001 humanized CD52 Chronic lymphocytic leukemia 
+ Basiliximab Simulect Novartis 1998 chimeric IL-2Rα receptor (CD25) Transplant rejection 
+ Belimumab Benlysta GlaxoSmithKline 2011 human inihibition of B- cell activating factor Systemic lupus erythematosus 
+ Bevacizumab Avastin Genentech/Roche 2004 humanized Vascular endothelial growth factor (VEGF) Colorectal cancer, Age related macular degeneration (off-label) 
+ Brentuximab vedotin Adcetris 2011 Chimeric CD30 Anaplastic large cell lymphoma (ALCL) and Hodgkin lymphoma 
+ Canakinumab Ilaris Novartis 2009 Human IL-1β Cryopyrin-associated periodic syndrome (CAPS) 
+ Cetuximab Erbitux Bristol-Myers Squibb/Eli Lilly/Merck KGaA 2004 chimeric epidermal growth factor receptor Colorectal cancer, Head and neck cancer 
+ Certolizumab pegol Cimzia UCB (company) 2008 humanized inhibition of TNF-α signaling Crohn's disease 
+ Daclizumab Zenapax Genentech/Roche 1997 humanized IL-2Rα receptor (CD25) Transplant rejection 
+ Denosumab Prolia, Xgeva Amgen 2010 Human RANK Ligand inhibitor Postmenopausal osteoporosis, Solid tumor`s bony metasteses 
+ Eculizumab Soliris Alexion Pharmaceuticals 2007 humanized Complement system protein C5 Paroxysmal nocturnal hemoglobinuria 
+ Efalizumab Raptiva Genentech/Merck Serono 2002 humanized CD11a Psoriasis 
+ Gemtuzumab Mylotarg Wyeth 2000 humanized CD33 Acute myelogenous leukemia (with calicheamicin) 
+ Golimumab Simponi Johnson & Johnson/Merck & Co, Inc. 2009 Human TNF-alpha inihibitor Rheumatoid arthritis, Psoriatic arthritis, and Ankylosing spondylitis 
+ Ibritumomab tiuxetan Zevalin Spectrum Pharmaceuticals, Inc. 2002 murine CD20 Non-Hodgkin lymphoma (with yttrium-90 or indium-111) 
+ Infliximab Remicade Janssen Biotech, Inc./Merck & Co 1998 chimeric inhibition of TNF-α signaling Several autoimmune disorders 
+ Ipilimumab ( MDX-101 ) Yervoy 2011 Human blocks CTLA-4 Melanoma 
+ Muromonab-CD3 Orthoclone OKT3 Janssen-Cilag 1986 murine T cell CD3 Receptor Transplant rejection 
+ Natalizumab Tysabri Biogen Idec/Élan 2006 humanized alpha-4 (α4) integrin, Multiple sclerosis and Crohn's disease 
+ Ofatumumab Arzerra 2009 Human CD20 Chronic lymphocytic leukemia 
+ Omalizumab Xolair Genentech/Novartis 2004 humanized immunoglobulin E (IgE) mainly allergy-related asthma 
+ Palivizumab Synagis MedImmune 1998 humanized an epitope of the RSV F protein Respiratory Syncytial Virus 
+ Panitumumab Vectibix Amgen 2006 human epidermal growth factor receptor Colorectal cancer 
+ Ranibizumab Lucentis Genentech/Novartis 2006 humanized Vascular endothelial growth factor A (VEGF-A) Macular degeneration 
+ Rituximab Rituxan, Mabthera Biogen Idec/Genentech 1997 chimeric CD20 Non-Hodgkin lymphoma 
+ Tocilizumab ( or Atlizumab ) Actemra and RoActemra 2010 Humanised Anti- IL-6R Rheumatoid arthritis 
+ Tositumomab Bexxar GlaxoSmithKline 2003 murine CD20 Non-Hodgkin lymphoma 
+ Trastuzumab Herceptin Genentech 1998 humanized ErbB2 Breast cancer 
+
+Recently, the bispecific antibodies, a novel class of therapeutic antibodies, have yielded promising results in clinical trials. In April 2009, the bispecific antibody catumaxomab was approved in the European Union. 
+
+==Economics==
+Since 2000, the therapeutic market for monoclonal antibodies has grown exponentially. The current “big 5” therapeutic antibodies on the market are bevacizumab, trastuzumab (both oncology), adalimumab, infliximab (both autoimmune and inflammatory disorders, ‘AIID’) and rituximab (oncology and AIID) accounted for 80% of revenues in 2006. In 2007, eight of the 20 best-selling biotechnology drugs in the U.S. are therapeutic monoclonal antibodies. This rapid growth in demand for monoclonal antibody production has been well accommodated by the industrialization of mAb manufacturing. 
+
+==See also==
+*Antigen 5T4
+*Immunotherapy
+*Immunoconjugate
+*Nomenclature of monoclonal antibodies
+*List of monoclonal antibodies
+
+==References==
+
+==External links==
+* Cancer Management Handbook: Principles of Oncologic Pharmacotherapy 
+
+

@@ -1,0 +1,149 @@
+[[Hepatitis]]
+
+Hepatitis (plural: hepatitides) is a medical condition defined by the inflammation of the liver and characterized by the presence of inflammatory cells in the tissue of the organ. The name is from the Greek hêpar (), the stem of which is hēpat- (), meaning of the liver, and suffix -itis, meaning "inflammation" (c. 1727). The condition can be self-limiting (healing on its own) or can progress to fibrosis (scarring) and cirrhosis.
+
+Hepatitis may occur with limited or no symptoms, but often leads to jaundice, poor appetite and malaise. Hepatitis is acute when it lasts less than six months and chronic when it persists longer. Worldwide, hepatitis viruses are the most common cause of the condition, but hepatitis can be caused by other infections, toxic substances (notably alcohol, certain medications, some industrial organic solvents and plants), and autoimmune diseases.
+
+== Signs and symptoms ==
+A person with jaundice
+
+=== Acute ===
+Initial features are of nonspecific flu-like symptoms, common to almost all acute viral infections and may include malaise, muscle and joint aches, fever, nausea or vomiting, diarrhea, and headache. More specific symptoms, which can be present in acute hepatitis from any cause, are: profound loss of appetite, aversion to smoking among smokers, dark urine, yellowing of the eyes and skin and abdominal discomfort. Physical findings are usually minimal, apart from jaundice, tender enlargement of the liver, enlarged lymph nodes in 5%, and enlargement of the spleen. Acute viral hepatitis is more likely to be asymptomatic in children. Symptomatic individuals may present after a convalescent stage of 7 to 10 days, with the total illness lasting weeks. 
+
+A small proportion of people with acute hepatitis progress to acute liver failure, in which the liver is unable to remove harmful substances from the blood (leading to confusion and coma due to hepatic encephalopathy) and produce blood proteins (leading to peripheral edema and bleeding). 
+
+=== Chronic ===
+Chronic hepatitis may cause nonspecific symptoms such as malaise, tiredness and weakness, and often leads to no symptoms at all. It is commonly identified on blood tests performed either for screening or to evaluate nonspecific symptoms. The presence of jaundice indicates advanced liver damage. On physical examination there may be enlargement of the liver. 
+
+Extensive damage to and scarring of liver (i.e. cirrhosis) leads to weight loss, easy bruising and bleeding, peripheral edema (swelling of the legs) and accumulation of ascites (fluid in the abdomen). Eventually, cirrhosis may lead to various complications: esophageal varices (enlarged veins in the wall of the esophagus that can cause life-threatening bleeding), hepatic encephalopathy (confusion and coma) and hepatorenal syndrome (kidney dysfunction).
+
+Acne, abnormal menstruation, lung scarring, inflammation of the thyroid gland and kidneys may be present in women with autoimmune hepatitis. 
+
+== Causes ==
+
+Viral hepatitis is the most common cause of hepatitis worldwide. The most common causes of viral hepatitis are the five unrelated hepatotropic viruses hepatitis A, hepatitis B, hepatitis C, hepatitis D (which requires hepatitis B to cause disease), and hepatitis E. Other common causes of non-viral hepatitis include toxic and drug-induced, alcoholic, autoimmune, fatty liver, and metabolic disorders. Less commonly some bacterial, parasitic, fungal, mycobacterial and protozoal infections can cause hepatitis. Additionally, certain complications of pregnancy and decreased blood flow to the liver can induce hepatitis. Cholestasis (obstruction of bile flow) due to hepatocellular dysfunction, biliary tract obstruction, or biliary atresia can result in liver damage and hepatitis. 
+
+=== Alcoholic hepatitis ===
+
+Excessive alcohol consumption is a significant cause of hepatitis and liver damage (cirrhosis). Alcoholic hepatitis usually develops over years-long exposure to alcohol. Alcohol intake in excess of 80 grams of alcohol a day in men and 40 grams a day in women is associated with development of alcoholic hepatitis. Alcoholic hepatitis can vary from mild asymptomatic disease to severe liver inflammation and liver failure. Symptoms and physical exam findings are similar to other causes of hepatitis. Laboratory findings are significant for elevated transaminases, usually with elevation of aspartate transaminase (AST) in a 2:1 ratio to alanine transaminase (ALT). 
+
+Alcoholic hepatitis may lead to cirrhosis and is more common in patients with long-term alcohol consumption and those infected with hepatitis C. Patients who drink alcohol to excess are also more often than others found to have hepatitis C. The combination of hepatitis C and alcohol consumption accelerates the development of cirrhosis. 
+
+=== Toxic and drug-induced hepatitis ===
+
+A large number of medications and other chemical agents can cause hepatitis. In the United States acetaminophen, antibiotics, and central nervous system medications are among the most common causes of drug-induced hepatitis. Acetaminophen, also known as paracetamol, is the leading cause of acute liver failure in the United States. Herbal remedies and dietary supplements may also cause hepatitis, and these are the most common causes of drug-induced hepatitis in Korea. Risk factors for drug-induced hepatitis include: increasing age, female sex, and previous drug-induced hepatitis. Genetic variability is increasingly understood as a key predisposing risk factor to drug-induced hepatitis. 
+
+Toxins and medications can cause liver injury through a variety of mechanisms, including direct cell damage, disrupting cell metabolism, and inducing structural changes. Some medications, like acetaminophen, cause predictable dose-related liver damage, whereas others cause idiosyncratic reactions that vary among individuals. 
+
+Exposure to other hepatotoxins can occur accidentally or intentionally through ingestion, inhalation, and skin absorption. Occupational exposure may occur in many work fields and can present acutely or insidiously. Mushroom poisoning is a common toxic exposure that may result in hepatitis. 
+
+=== Autoimmune ===
+
+Autoimmune hepatitis is a chronic disease caused by an abnormal immune response against liver cells. The disease is thought to have a genetic predisposition as it is associated with certain human leukocyte antigens. The symptoms of autoimmune hepatitis are similar to other hepatitides and may have a fluctuating course from mild to very severe. Women with the disease may have abnormal menstruation or become amenorrheic. The disease occurs in people of all ages but most commonly in young women. Many people with autoimmune hepatitis have other autoimmune diseases. 
+
+=== Non-alcoholic fatty liver disease ===
+
+Non-alcoholic fatty liver disease (NAFLD) is the occurrence of fatty liver in people who have little or no history of alcohol use. In the early stage there are usually no symptoms, as the disease progresses symptoms typical of chronic hepatitis may develop. NAFLD is associated with metabolic syndrome, obesity, diabetes, and hyperlipidemia. Severe NAFLD leads to inflammation, fibrosis, and cirrhosis, a state referred to as non-alcoholic steatohepatitis (NASH). Diagnosis requires excluding other causes of hepatitis, including excessive alcohol intake. While imaging can show fatty liver, only liver biopsy can demonstrate inflammation and fibrosis characteristic of NASH. NASH is recognized as the third most common cause of liver disease in the United States. 
+
+=== Ischemic hepatitis ===
+
+Injury to liver cells due to insufficient blood or oxygen results in ischemic hepatitis (or liver shock). The condition is most often associated with heart failure but can also be caused by shock or sepsis. Blood testing of a person with ischemic hepatitis will show very high levels of transaminase enzymes (AST and ALT). The condition usually resolves if the underlying cause is treated successfully. Ischemic hepatitis rarely causes permanent liver damage. 
+
+=== Giant cell hepatitis ===
+
+Giant cell hepatitis is a rare form of hepatitis that predominantly occurs in newborns and children. Diagnosis is made on the basis of the presence of multinucleated hepatocyte giant cells on liver biopsy. The cause of giant cell hepatitis is unknown but the condition is associated with viral infection, autoimmune disorders, and drug toxicity. 
+
+== Mechanism ==
+
+The specific mechanism varies and depends on the underlying cause for the condition. In viral hepatitis, the presence of the virus in the liver cells causes the immune system to attack the liver, resulting in inflammation and impaired function. In autoimmune hepatitis, the immune system attacks the liver due to the autoimmune disease. Some hepatitis, often including hepatitis caused by alcoholism, fat deposits accumulate in the liver, resulting in fatty liver disease, also called steatohepatitis. 
+
+== Diagnosis ==
+Diagnosis is made by assessing an individual's symptoms, physical exam, and medical history, in conjunction with blood tests, liver biopsy, and imaging. Blood testing includes blood chemistry, liver enzymes, serology and nucleic acid testing. Abnormalities in blood chemistry and enzyme results may be indicative of certain etiologies or stages of hepatitis. Imaging can identify steatosis of the liver but liver biopsy is required to demonstrate fibrosis and cirrhosis. A biopsy is unnecessary if the clinical, laboratory, and radiologic data suggests cirrhosis. Furthermore, there is a small but significant risk to liver biopsy, and cirrhosis itself predisposes for complications caused by liver biopsy. 
+
+ Liver chemistry test Clinical implication of abnormality 
+ Alanine transaminase (ALT) Hepatocellular damage 
+ Aspartate transaminase (AST) Hepatocellular damage 
+ Bilirubin Cholestasis 
+ Alkaline phosphatase Cholestasis 
+ Prothrombin time Impaired synthetic function 
+ Albumin Impaired synthetic function 
+ Gamma-glutamyl transpeptidase (GGT) Cholestasis 
+ Bile acids Cholestasis 
+ Lactate dehydrogenase Hepatocellular damage 
+
+=== Viral hepatitis ===
+
+Viral hepatitis is mostly diagnosed through clinical laboratory testing. Some of these tests react with the virus or parts of the virus, such as the Hepatitis B surface antigen test or nucleic acid tests. Many of the tests are serological tests that react to the antibodies formed by the immune system. For some major causes of viral hepatitis, such as Hepatitis B, there are multiple serological tests used that provide additional information for diagnosis. 
+
+=== Differential diagnosis ===
+
+Several diseases can present with signs, symptoms, and/or liver function test abnormalities similar to hepatitis. In severe cases of alpha 1-antitrypsin deficiency (A1AD), excess protein in liver cells causes and inflammation and cirrhosis. Some metabolic disorders cause damage to the liver through a variety of mechanisms. In hemochromatosis and Wilson's disease toxic accumulation of dietary minerals results in inflammation and cirrhosis. 
+
+=== Pathology ===
+
+The liver, like all organs, responds to injury in a limited number of ways and a number of patterns have been identified. Liver biopsies are rarely performed for acute hepatitis and because of this the histology of chronic hepatitis is better known than that of acute hepatitis.
+
+==== Acute ====
+
+In acute hepatitis the lesions (areas of abnormal tissue) predominantly contain diffuse sinusoidal and portal mononuclear infiltrates (lymphocytes, plasma cells, Kupffer cells) and swollen hepatocytes. Acidophilic cells (Councilman bodies) are common. Hepatocyte regeneration and cholestasis (canalicular bile plugs) typically are present. Bridging hepatic necrosis (areas of necrosis connecting two or more portal tracts) may also occur. There may be some lobular disarray. Although aggregates of lymphocytes in portal zones may occur these are usually neither common nor prominent. The normal architecture is preserved. There is no evidence of fibrosis or cirrhosis (fibrosis plus regenerative nodules). In severe cases prominent hepatocellular necrosis around the central vein (zone 3) may be seen.
+
+In submassive necrosis – a rare presentation of acute hepatitis – there is widespread hepatocellular necrosis beginning in the centrizonal distribution and progressing towards portal tracts. The degree of parenchymal inflammation is variable and is proportional to duration of disease. Two distinct patterns of necrosis have been recognised: (1) zonal coagulative necrosis or (2) panlobular (nonzonal) necrosis. Numerous macrophages and lymphocytes are present. Necrosis and inflammation of the biliary tree occurs. Hyperplasia of the surviving biliary tract cells may be present. Stromal haemorrhage is common.
+
+The histology may show some correlation with the cause:
+
+*Zone 1 (periportal) occurs in phosphorus poisoning or eclampsia.
+*Zone 2 (midzonal) – rare – is seen in yellow fever.
+*Zone 3 (centrilobular) occurs with ischemic injury, toxic effects, carbon tetrachloride exposure or chloroform ingestion. Drugs such as acetaminophen may be metabolized in zone 1 to toxic compounds that cause necrosis in zone 3.
+
+Where patients have recovered from this condition, biopsies commonly show multiacinar regenerative nodules (previously known as adenomatous hyperplasia). 
+
+Massive hepatic necrosis is also known and is usually rapidly fatal. The pathology resembles that of submassive necrosis but is more markered in both degree and extent.
+
+==== Chronic ====
+
+Chronic hepatitis has been better studied and several conditions have been described.
+
+Chronic hepatitis with piecemeal (periportal) necrosis (or interface hepatitis) with or without fibrosis (formerly chronic active hepatitis) is any case of hepatitis occurring for more than 6 months with portal based inflammation, fibrosis, disruption of the terminal plate, and piecemeal necrosis. This term has now been replaced by the diagnosis of 'chronic hepatitis'.
+
+Chronic hepatitis without piecemeal necrosis (formerly called chronic persistent hepatitis) has no significant periportal necrosis or regeneration with a fairly dense mononuclear portal infiltrate. Councilman bodies are frequently seen within the lobule. Instead it includes persistent parenchymal focal hepatocyte necrosis (apoptosis) with mononuclear sinusoidal infiltrates.
+
+The older terms have been deprecated because the conditions are now understood as being able to alter over time so that what might have been regarded as a relatively benign lesion could still progress to cirrhosis. The simpler term chronic hepatitis is now preferred in association with the causative agent (when known) and a grade based on the degree of inflammation, piecemeal or bridging necrosis (interface hepatitis) and the stage of fibrosis. Several grading systems have been proposed but none have been adopted universally.
+
+Cirrhosis is a diffuse process characterized by regenerative nodules that are separated from one another by bands of fibrosis. It is the end stage for many chronic liver diseases. The pathophysiological process that results in cirrhosis is as follows: hepatocytes are lost through a gradual process of hepatocellular injury and inflammation. This injury stimulates a regenerative response in the remaining hepatocytes. The fibrotic scars limit the extent to which the normal architecture can be reestablished as the scars isolate groups of hepatocytes. This results in nodules formation. Angiogenisis (new vessel formation) accompanies scar production which results in the formation of abnormal channels between the central hepatic veins and the portal vessels. This in turn causes shunting of blood around the regenerating parenchyma. Normal vascular structures including the sinusoidal channels may be obliterated by fibrotic tissue leading to portal hypertension. The overall reduction in hepatocyte mass, in conjunction with the portal blood shunting, prevents the liver from accomplishing its usual functions – the filtering of blood from the gastrointestinal tract and serum protein production. These changes give rise to the clinical manifestations of cirrhosis.
+
+==== Specific causes ====
+
+Most of the causes of hepatitis cannot be distinguished on the basis of the pathology but some do have particular features that are suggestive of a particular diagnosis.
+
+The presence of micronodular cirrhosis, Mallory bodies and fatty change within a single biopsy are highly suggestive of alcoholic injury. Perivenular, pericellular fibrosis (known as 'chicken wire fibrosis' because of its appearance on trichrome or van Gieson stains) with partial or complete obliteration of the central vein is also very suggestive of alcohol abuse.
+
+Cardiac, ischemic and venous outflow obstruction all cause similar patterns. The sinusoids are often dilated and filled with erythrocytes. The liver cell plates may be compressed. Coagulative necrosis of the hepatocytes can occur around the central vein. Hemosiderin and lipochrome laden macrophages and inflammatory cells may be found. At the edge of the fibrotic zone cholestasis may be present. The portal tracts are rarely significantly involved until late in the course.
+
+Biliary tract disease including primary biliary cirrhosis, sclerosing cholangitis, inflammatory changes associated with idiopathic inflammatory bowel disease and duct obstruction have similar histology in their early stages. Although these diseases tend to primarily involve the biliary tract they may also be associated with chronic inflammation within the liver and difficult to distinguish on histological grounds alone. The fibrotic changes associated with these disease principally involve the portal tracts with cholangiole proliferation, portal tract inflammation with neutrophils surrounding the cholangioles, disruption of the terminal plate by mononuclear inflammatory cells and occasional hepatocyte necrosis. The central veins are either not involved in the fibrotic process or become involved only late in the course of the disease. Consequently the central–portal relationships are minimally distorted. Where cirrhosis is present it tends to be in the form of a portal–portal bridging fibrosis.
+
+Hepatitis E causes different histological patterns that depend on the host's background. In immunocompetent patients the typical pattern is of severe intralobular necrosis and acute cholangitis in the portal tract with numerous neutrophils. This normally resolves without sequelae. Disease is more severe in those with preexisting liver disease such as cirrhosis. In the immunocompromised patients chronic infection may result with rapid progression to cirrhosis. The histology is similar to that found in hepatitis C virus with dense lymphocytic portal infiltrate, constant piecemeal necrosis and fibrosis.
+
+== Prognosis ==
+
+The outcome of hepatitis depends heavily on the disease or condition that is causing the symptoms. For some causes, such as subclinical Hepatitis A infection, the person may not experience any symptoms and will recover without any long term effects. For other causes hepatitis can result in irreparable damage to the liver and require a liver transplant. A subset referred to in a 1993 classification as "hyperacute" liver failure can happen in less than a week. 
+
+The liver can regenerate damaged cells. Chronic damage to the liver can result in the formation of scar tissue called fibrosis and can result in nodules that block the liver from functioning properly; this condition is called cirrhosis and is not reversible. Cirrhosis may indicate a liver transplant is necessary. Another complication of chronic hepatitis is liver cancer, specifically hepatocellular carcinoma. 
+
+== Prevention ==
+
+=== Vaccines ===
+
+Vaccines are available to prevent hepatitis A and B. Hepatitis A immunity is achieved in 99-100% of persons receiving the two-dose inactivated virus vaccine. The hepatitis A vaccine is not approved for children under one year of age. Vaccines to prevent hepatitis B have been available since 1986 and have been incorporated into at least 177 national immunization programs for children. Immunity is achieved in greater than 95% of children and young adults receiving the three-dose recombinant virus vaccine. Vaccination within 24 hours of birth can prevent transmission from an infected mother. Adults over 40 years of age have decreased immune response to the vaccine. The World Health Organization recommends vaccination of all children, particularly newborns in countries where hepatitis B is common to prevent transmission from the mother to child. 
+
+== See also ==
+* World Hepatitis Day
+
+== References ==
+
+== External links ==
+* WHO fact sheet of hepatitis
+* Viral Hepatitis at the Centers for Disease Control
+
+ 
+
+

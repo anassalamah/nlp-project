@@ -1,0 +1,174 @@
+[[Rh blood group system]]
+
+The Rh (Rhesus) blood group system (including the Rh factor) is one of thirty-three current human blood group systems. It is the most important blood group system after ABO. At present, the Rh blood group system consists of 50 defined blood-group antigens, among which the five antigens D, C, c, E, and e are the most important. The commonly used terms Rh factor, Rh positive and Rh negative refer to the D antigen only. Besides its role in blood transfusion, the Rh blood group system—specifically, the D antigen—is used to determine the risk of hemolytic disease of the newborn (or erythroblastosis fetalis) as prevention is the best approach to the management of this condition. As part of prenatal care, a blood test may be used to find out the blood type of a fetus. If the Rh antigen is lacking, the blood is called Rh-negative. If the antigen is present, it is called Rh-positive.
+When the mother is Rh-negative and the father is Rh-positive, the fetus can inherit the Rh factor from the father. This makes the fetus Rh-positive too. Problems can arise when the fetus’s blood has the Rh factor and the mother’s blood does not.
+
+A mother who is Rh-negative may develop antibodies to an Rh-positive baby. If a small amount of the baby’s blood mixes with the mother's blood, which often happens in such situations, the mother's body may respond as if it were allergic to the baby. The mother's body may make antibodies to the Rh antigens in the baby’s blood. This means the mother has become sensitized and her antibodies may cross the placenta and attack the baby’s blood. Such an attack breaks down the fetus’s red blood cells, creating anemia (a low number of red blood cells). This condition is called hemolytic disease or hemolytic anemia. It can become severe enough to cause serious illness, brain damage, or even death in the fetus or newborn.
+Sensitization can occur any time the fetus’s blood mixes with the mother’s blood. It can occur if an Rh-negative woman has had a spontaneous or undetected miscarriage of a Rhesus positive fetus.
+
+==Rh factor==
+An individual either has, or does not have, the "Rhesus factor" on the surface of their red blood cells. This term strictly refers only to the most immunogenic D antigen of the Rh blood group system, or the Rh− blood group system. The status is usually indicated by Rh positive (Rh+ does have the D antigen) or Rh negative (Rh− does not have the D antigen) suffix to the ABO blood type. However, other antigens of this blood group system are also clinically relevant. These antigens are listed separately (see below: Rh nomenclature). In contrast to the ABO blood group, immunization against Rh can generally only occur through blood transfusion or placental exposure during pregnancy in women.
+
+==History of discoveries==
+In 1939, Philip Levine and Rufus Stetson published in a first case report the clinical consequences of non-recognized Rh factor, hemolytic transfusion reaction and hemolytic disease of the newborn in its most severe form. It was recognized that the serum of the reported woman agglutinated with red blood cells of about 80% of the people although the then known blood groups, in particular ABO were matched. No name was given to this agglutinin when described for the first time. In 1940, Karl Landsteiner and Alexander S. Wiener reported a serum that also reacted with about 85% of different human red blood cells. This serum was produced by immunizing rabbits with red blood cells from Rhesus macaque. The antigen that induced this immunization was designated by them as Rh factor "to indicate that rhesus blood had been used for the production of the serum." 
+
+Based on the serologic similarities Rh factor was later also used for antigens, and anti-Rh for antibodies, found in humans such as the previously described by Levine and Stetson. Although differences between these two sera were shown already in 1942 and clearly demonstrated in 1963, the already widely used term "Rh" was kept for the clinically described human antibodies which are different from the ones related to the Rhesus monkey. This real factor found in Rhesus macaque was classified in the Landsteiner-Wiener antigen system (antigen LW, antibody anti-LW) in honor of the discoverers. 
+It was recognized that the Rh factor was just one in a system of various antigens. Based on different models of genetic inheritance, two different terminologies were developed; both of them are still in use.
+
+The clinical significance of this highly immunizing D antigen (i.e. Rh factor) was soon realized. Some keystones were to recognize its importance for blood transfusion including reliable diagnostic tests, and hemolytic disease of the newborn including exchange transfusion and very importantly the prevention of it by screening and prophylaxis.
+
+The discovery of fetal cell-free DNA in maternal circulation by Holzgrieve et al. led to the noninvasive genotyping of fetal Rh genes in many countries.
+
+==Rh nomenclature==
+The Rh blood group system has two sets of nomenclatures: one developed by Ronald Fisher and R.R. Race, the other by . Both systems reflected alternative theories of inheritance. The Fisher-Race system, which is more commonly in use today, uses the CDE nomenclature. This system was based on the theory that a separate gene controls the product of each corresponding antigen (e.g., a "D gene" produces D antigen, and so on). However, the d gene was hypothetical, not actual.
+
+The Wiener system used the Rh–Hr nomenclature. This system was based on the theory that there was one gene at a single locus on each chromosome, each contributing to production of multiple antigens. In this theory, a gene R1 is supposed to give rise to the “blood factors” Rh0, rh’, and hr” (corresponding to modern nomenclature of the D, C and e antigens) and the gene r to produce hr’ and hr” (corresponding to modern nomenclature of the c and e antigens). 
+
+Notations of the two theories are used interchangeably in blood banking (e.g., Rho(D) meaning RhD positive). Wiener's notation is more complex and cumbersome for routine use. Because it is simpler to explain, the Fisher-Race theory has become more widely used.
+
+DNA testing has shown that both theories are partially correct. There are in fact two linked genes, the RHD gene which produces a single immune specificity (anti-D) and the RHCE gene with multiple specificities (anti-C, anti-c, anti-E, anti-e). Thus, Wiener's postulate that a gene could have multiple specificities (something many did not give credence to originally) has been proven correct. On the other hand, Wiener's theory that there is only one gene has proven incorrect, as has the Fischer-Race theory that there are three genes, rather than the 2. The CDE notation used in the Fisher-Race nomenclature is sometimes rearranged to DCE to more accurately represent the co-location of the C and E encoding on the RhCE gene, and to make interpretation easier.
+
+==Rh system antigens==
+The proteins which carry the Rh antigens are transmembrane proteins, whose structure suggest that they are ion channels. The main antigens are D, C, E, c and e, which are encoded by two adjacent gene loci, the RHD gene which encodes the RhD protein with the D antigen (and variants) and the RHCE gene which encodes the RhCE protein with the C, E, c and e antigens (and variants). There is no d antigen. Lowercase "d" indicates the absence of the D antigen (the gene is usually deleted or otherwise nonfunctional).
+
+Rh phenotypes are readily identified by identifying the presence or absence of the Rh surface antigens. As can be seen in the table below, most of the Rh phenotypes can be produced by several different Rh genotypes. The exact genotype of any individual can only be identified by DNA analysis. Regarding patient treatment, only the phenotype is usually of any clinical significance to ensure a patient is not exposed to an antigen they are likely to develop antibodies against. A probable genotype may be speculated on, based on the statistical distributions of genotypes in the patient's place of origin.
+
++Rh phenotypes and genotypes Phenotype expressed on cell Genotype expressed in DNA Prevalence (%) † 
+ Fisher-Race notation Wiener notation 
+ D+ C+ E+ c+ e+ (RhD+) Dce/DCE R0RZ 0.0125 
+ Dce/dCE R0rY 0.0003 
+ DCe/DcE R1R2 11.8648 
+ DCe/dcE R1r’’ 0.9992 
+ DcE/dCe R2r’ 0.2775 
+ DCE/dce RZr 0.1893 
+ D+ C+ E+ c+ e− (RhD+) DcE/DCE R2RZ 0.0687 
+ DcE/dCE R2rY 0.0014 
+ DCE/dcE RZr’’ 0.0058 
+ D+ C+ E+ c− e+ (RhD+) DCe/dCE R1rY 0.0042 
+ DCE/dCe RZr’ 0.0048 
+ DCe/DCE R1RZ 0.2048 
+ D+ C+ E+ c− e− (RhD+) DCE/DCE RZRZ 0.0006 
+ DCE/dCE RZrY <0.0001 
+ D+ C+ E− c+ e+ (RhD+) Dce/dCe R0r’ 0.0505 
+ DCe/dce R1r 32.6808 
+ DCe/Dce R1R0 2.1586 
+ D+ C+ E− c− e+ (RhD+) DCe/DCe R1R1 17.6803 
+ DCe/dCe R1r’ 0.8270 
+ D+ C− E+ c+ e+ (RhD+) DcE/Dce R2R0 0.7243 
+ Dce/dcE R0r’’ 0.0610 
+ DcE/dce R2r 10.9657 
+ D+ C− E+ c+ e− (RhD+) DcE/DcE R2R2 1.9906 
+ DcE/dcE R2r’’ 0.3353 
+ D+ C− E− c+ e+ (RhD+) Dce/Dce R0R0 0.0659 
+ Dce/dce R0r 1.9950 
+ D− C+ E+ c+ e+ (RhD−) dce/dCE rrY 0.0039 
+ dCe/dcE r’r’’ 0.0234 
+ D− C+ E+ c+ e− (RhD−) dcE/dCE r’’rY 0.0001 
+ D− C+ E+ c− e+ (RhD−) dCe/dCE r’rY 0.0001 
+ D− C+ E+ c− e− (RhD−) dCE/dCE rYrY <0.0001 
+ D− C+ E− c+ e+ (RhD−) dce/dCe rr’ 0.7644 
+ D− C+ E− c− e+ (RhD−) dCe/dCe r’r’ 0.0097 
+ D− C− E+ c+ e+ (RhD−) dce/dcE rr’’ 0.9235 
+ D− C− E+ c+ e− (RhD−) dcE/dcE r’’r’’ 0.0141 
+ D− C− E− c+ e+ (RhD−) dce/dce rr 15.1020 
+
+† Figures taken from a study performed in 1948 on a sample of 2000 people in the United Kingdom. Note that the R0 haplotype is much more common in people of sub-Saharan African origin.
+
+ Rh phenotypes in patients and donors in Turkey 
+ Rh Phenotype CDE Patients (%) Donors (%) 
+ Rr CcDe 37.4 33.0 
+ RR CcDEe 35.7 30.5 
+ RR CDe 5.7 21.8 
+ rr ce 10.3 11.6 
+ Rr cDEe 6.6 10.4 
+ RR cDe 2.8 2.7 
+ RR cDE 2.8 2.4 
+ rr’’ cEe – 0.98 
+ RR CDE – 0.03 
+ rr’ Cce 0.8 – 
+
+==Hemolytic disease of the newborn==
+
+The hemolytic condition occurs when there is an incompatibility between the blood types of the mother and the fetus. There is also potential incompatibility if the mother is Rh negative and the father is positive. When any incompatibility is detected, the mother often receives an injection at 28 weeks gestation and at birth to avoid the development of antibodies toward the fetus. These terms do not indicate which specific antigen-antibody incompatibility is implicated. The disorder in the fetus due to Rh D incompatibility is known as erythroblastosis fetalis.
+
+:* Hemolytic comes from two words: "hemo" (blood) and "lysis" (destruction) or breaking down of red blood cells
+:* Erythroblastosis refers to the making of immature red blood cells
+:* Fetalis refers to the fetus.
+
+When the condition is caused by the Rh D antigen-antibody incompatibility, it is called Rh D Hemolytic disease of the newborn (often called Rhesus disease or Rh disease for brevity). Here, sensitization to Rh D antigens (usually by feto-maternal transfusion during pregnancy) may lead to the production of maternal IgG anti-D antibodies which can pass through the placenta. This is of particular importance to D negative females at or below childbearing age, because any subsequent pregnancy may be affected by the Rhesus D hemolytic disease of the newborn if the baby is D positive. The vast majority of Rh disease is preventable in modern antenatal care by injections of IgG anti-D antibodies (Rho(D) Immune Globulin). The incidence of Rhesus disease is mathematically related to the frequency of D negative individuals in a population, so Rhesus disease is rare in old-stock populations of Africa and the eastern half of Asia, and the Indigenous peoples of Oceania and the Americas, but more common in other genetic groups, most especially Western Europeans, but also other West Eurasians, and to a lesser degree, native Siberians, as well as those of mixed-race with a significant or dominant descent from those (e.g. the vast majority of Latin Americans and Central Asians).
+
+*Symptoms and signs in the fetus:
+** Enlarged liver, spleen, or heart and fluid buildup in the fetus' abdomen seen via ultrasound.
+
+*Symptoms and signs in the newborn:
+** Anemia that creates the newborn's pallor (pale appearance).
+** Jaundice or yellow discoloration of the newborn's skin, sclera or mucous membrane. This may be evident right after birth or after 24–48 hours after birth. This is caused by bilirubin (one of the end products of red blood cell destruction).
+** Enlargement of the newborn's liver and spleen.
+** The newborn may have severe edema of the entire body.
+** Dyspnea or difficulty breathing.
+
+==Population data==
+The frequency of Rh factor blood types and the RhD neg allele gene differs in various populations.
+
+ Population data for the Rh D factor and the RhD neg allele Population Rh(D) Neg Rh(D) Pos Rh(D) Neg alleles 
+ Basque people 21–36% 65% approx 60% 
+ other Europeans 16% 84% 40% 
+ African American approx 7% 93% approx 26% 
+ Native Americans approx 1% 99% approx 10% 
+ African descent less 1% over 99% 3% 
+ Asian less 1% over 99% 1% 
+
+==Inheritance==
+A child will be Rh negative if both its parents are Rh negative. Otherwise the child may be Rh positive or Rh negative. 
+
+The D antigen is inherited as one gene (RHD) (on the short arm of the first chromosome, p36.13–p34.3) with various alleles. Though very much simplified, one can think of alleles that are positive or negative for the D antigen. The gene codes for the RhD protein on the red cell membrane. D− individuals who lack a functional RHD gene do not produce the D antigen, and may be immunized by D+ blood.
+
+The epitopes for the next 4 most common Rh antigens, C, c, E and e are expressed on the highly similar RhCE protein that is genetically encoded in the RHCE gene, also found on chromosome 1. It has been shown that the RHD gene arose by duplication of the RHCE gene during primate evolution. Mice have just one RH gene. 
+
+The RHAG gene, responsible for encoding Rh-associated glycoprotein (RhAG) is found on chromosome 6a.
+
+The polypeptides produced from the RHD and RHCE genes form a complex on the red blood cell membrane with the Rh-associated glycoprotein. Mais, DD. ASCP Quick Compendium of Clinical Pathology, 2nd Ed. Chicago, ASCP Press, 2009. 
+
+==Function==
+On the basis of structural homology it has been proposed that the product of RHD gene, the RhD protein, is a membrane transport protein of uncertain specificity (CO2 or NH3) and unknown physiological role. The three-dimensional structure of the related RHCG protein and biochemical analysis of the RhD protein complex indicates that the RhD protein is one of three subunits of an ammonia transporter. Three recent studies have reported a protective effect of the RhD-positive phenotype, especially RhD heterozygosity, against the negative effect of latent toxoplasmosis on psychomotor performance in infected subjects. RhD-negative compared to RhD-positive subjects without anamnestic titres of anti-Toxoplasma antibodies have shorter reaction times in tests of simple reaction times. And conversely, RhD-negative subjects with anamnestic titres (i.e. with latent toxoplasmosis) exhibited much longer reaction times than their RhD-positive counterparts. The published data suggested that only the protection of RhD-positive heterozygotes was long term in nature; the protection of RhD-positive homozygotes decreased with duration of the infection while the performance of RhD-negative homozygotes decreased immediately after the infection.
+
+==Origin of RHD polymorphism==
+
+For a long time, the origin of RHD polymorphism was an evolutionary enigma. Before the advent of modern medicine, the carriers of the rarer allele (e.g. RhD-negative women in a population of RhD positives or RhD-positive men in a population of RhD negatives) were at a disadvantage as some of their children (RhD-positive children born to preimmunised RhD-negative mothers) were at a higher risk of fetal or newborn death or health impairment from hemolytic disease. It was suggested that higher tolerance of RhD-positive heterozygotes against Toxoplasma-induced impairment of reaction time and Toxoplasma-induced increase of risk of traffic accident could counterbalance the disadvantage of the rarer allele and could be responsible both for the initial spread of the RhD allele among the RhD-negative population and for a stable RhD polymorphism in most human populations. It was also suggested that differences in the prevalence of Toxoplasma infection between geographical regions (0–95%) could also explain the striking variation in the frequency of RhD-negative alleles between populations. According to some parasitologists it is possible that the better psychomotor performance of RhD-negative subjects in the Toxoplasma-free population could be the reason for spreading of the “d allele” (deletion) in the European population. In contrast to the situation in Africa and certain (but not all) regions of Asia, the abundance of wild cats (definitive hosts of Toxoplasma gondii) in Europe was very low before the advent of the domestic cat.
+
+==Weak D==
+
+In serologic testing, D positive blood is easily identified. Units which are D negative are often retested to rule out a weaker reaction. This was previously referred to as Du, which has been replaced. By definition, weak D phenotype is characterized by negative reaction with anti-D reagent at immediate spin (IS), negative reaction after 37 °C incubation, and positive reaction at anti-human globulin (AHG) phase. Weak D phenotype can occur in several ways. In some cases, this phenotype occurs because of an altered surface protein that is more common in people of European descent. An inheritable form also occurs, as a result of a weakened form of the R0 gene. Weak D may also occur as "C in trans", whereby a C gene is present on the opposite chromosome to a D gene (as in the combination R0r', or "Dce/dCe"). The testing is difficult, since using different anti-D reagents, especially the older polyclonal reagents, may give different results.
+
+The practical implication of this is that people with this sub-phenotype will have a product labeled as "D positive" when donating blood. When receiving blood, they are sometimes typed as a "D negative", though this is the subject of some debate. Most "Weak D" patients can receive "D positive" blood without complications. However, it is important to correctly identify the ones that have to be considered D+ or D−. This is important, since most blood banks have a limited supply of "D negative" blood and the correct transfusion is clinically relevant. In this respect, genotyping of blood groups has much simplified this detection of the various variants in the Rh blood group system.
+
+== Partial D ==
+It is important to differentiate weak D (due to a quantitative difference in the D antigen) from partial D (due to a qualitative difference in the D antigen). Simply put, the weak D phenotype is due to a reduced number of D antigens on a red blood cell. In contrast, the partial D phenotype is due to an alteration in D-epitopes. Thus, in partial D, the number of D antigens is not reduced but the protein structure is altered. These individuals, if alloimmunized to D, can produce an anti-D antibody. Therefore, partial D patients who are donating blood should be labeled as D-positive but, if receiving blood, they should be labeled as D-negative and receive D-negative units. 
+
+In the past, partial D was called 'D mosaic' or 'D variant.' Different partial D phenotypes are defined by different D epitopes on the outer surface of the red blood cell membrane. More than 30 different partial D phenotypes have been described. 
+
+== Rh null phenotype ==
+Rh null individuals have no Rh antigens (no Rh or RhAG) on their red blood cells. As a consequence of the absence of Rh antigens, Rh null red blood cells also lack LW and Fy5 and show weak expression of S, s, and U antigens.
+
+Red blood cells lacking Rh/RhAG proteins have structural abnormalities (such as stomatocytosis) which can result in hemolytic anemia. 
+
+==Other Rh group antigens==
+
+Currently, 50 antigens have been described in the Rh group system; among those described here, the D, C, c, E and e antigens are the most important. The others are much less frequently encountered or are rarely clinically significant. Each is given a number, though the highest assigned number (CEST or RH57 according to the ISBT terminology) is not an accurate reflection of the antigens encountered since many (e.g. Rh38) have been combined, reassigned to other groups, or otherwise removed. 
+
+== Rh antibodies ==
+Rh antibodies are IgG antibodies which are acquired through exposure to Rh-positive blood (generally either through pregnancy or transfusion of blood products). The D antigen is the most immunogenic of all the non-ABO antigens. Approximately 80% of individuals who are D-negative and exposed to a single D-positive unit will produce an anti-D antibody. The percentage of alloimmunization is significantly reduced in patients who are actively exsanguinating (some say to approx 15%) Roback et al. AABB Technical Manual, 16th Ed. Bethesda, AABB Press, 2008. 
+
+All Rh antibodies except D display dosage (antibody reacts more strongly with red cells homozygous for an antigen than cells heterozygous for the antigen (EE stronger reaction vs Ee).
+
+Rh antibodies are capable of causing hemolytic transfusion reactions with extravascular hemolysis. They may also result in severe hemolytic disease of the fetus and newborn (HDFN or HDN).
+
+If anti-E is detected, the presence of anti-c should be strongly suspected (due to combined genetic inheritance). It is therefore common to select c-negative and E-negative blood for transfusion patients who have an anti-E. Anti-c is a common cause of delayed hemolytic transfusion reactions. 
+
+==References==
+
+==External links==
+* Rh at BGMUT Blood Group Antigen Gene Mutation Database at NCBI, NIH
+*Article commemorating the first appearance of the Rh factor in the New York Times
+
+

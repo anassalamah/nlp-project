@@ -1,0 +1,117 @@
+[[Xenopus]]
+
+Xenopus (Gk., ξενος, xenos=strange, πους, pous=foot) is a genus of highly aquatic frogs native to sub-Saharan Africa. Twenty species are in the Xenopus genus. They are known collectively as African clawed frogs or platannas. African Clawed Frog Wiki 
+The best-known species belonging to this genus is Xenopus laevis, which is commonly studied as a model organism for developmental biology, cell biology, toxicology, and neuroscience. Wallingford, J., Liu, K., and Zheng, Y. 2010. Current Biology v. 20, p. R263-4 Harland, R.M. and Grainger, R.M. 2011. Trends in Genetics v. 27, p 507-15 
+
+==Characteristics==
+
+===Description===
+All species of Xenopus have flattened, somewhat egg-shaped and streamlined bodies, and very slippery skin (because of a protective mucus covering). The frog's skin is smooth, but with a lateral line sensory organ that has a stitch-like appearance. The frogs are all excellent swimmers and have powerful, fully webbed toes, though the fingers lack webbing. Three of the toes on each foot have conspicuous black claws.
+
+The frog's eyes are on top of the head, looking upwards. The pupils are circular. They have no moveable eyelids, tongues (rather it is completely attached to the floor of the mouth ) or eardrums (similarly to the common Suriname toad ). Passmore, N. I. & Carruthers, V. C. (1979). South African Frogs, p.42-43. Witwatersrand University Press, Johannesburg. ISBN 0-85494-525-3. 
+
+Internally, they are somewhat unique in that, unlike most amphibians, they have no haptoglobin in their blood. 
+
+===Behaviour===
+Xenopus species are entirely aquatic, though they have been observed migrating on land to nearby bodies of water during times of drought. They are usually found in lakes, rivers, swamps, and man-made reservoirs. 
+
+Adult frogs are usually both predators and scavengers, and since their tongues are unusable, the frogs use their small fore limbs to aid in the feeding process. Since they also lack vocal sacs, they make clicking sounds under water (again similar to Pipa pipa). The Xenopus species are also active during the twilight (or crepuscular) hours. 
+
+During breeding season, the males develop ridge-like nuptial pads (black in color) on their fingers to aid in grasping the female. The frogs' mating embrace is inguinal, meaning the male grasps the female around her waist. 
+
+==Species==
+A Xenopus laevis female with a batch of freshly laid eggs and a Xenopus tropicalis male
+
+*X. amieti (volcano clawed frog)
+*X. andrei (Andre's clawed frog)
+*X. borealis (Marsabit clawed frog)
+*X. boumbaensis (Mawa clawed frog)
+*X. clivii (Eritrea clawed frog)
+*X. fraseri (Fraser's clawed frog or Fraser's platanna)
+*X. gilli (Cape platanna)
+*X. itombwensis (Itombwe Massif clawed frog)
+*X. laevis (African clawed frog or common platanna)
+*X. largeni (Largen's clawed frog)
+*X. lenduensis (Lendu Plateau clawed frog)
+*X. longipes (Lake Oku clawed frog)
+*X. muelleri (Müller's platanna)
+*X. petersii (Peters' platanna)
+*X. pygmaeus (Bouchia clawed frog)
+*X. ruwenzoriensis (Uganda clawed frog)
+*X. tropicalis (western clawed frog)
+*X. vestitus (Kivu clawed frog)
+*X. victorianus (Lake Victoria clawed frog)
+*X. wittei (De Witte's clawed frog)
+
+==Xenopus as a model organism for biomedical research ==
+Like many other anurans, they are often used in laboratory as research subjects. 
+Xenopus embryos and eggs are a popular model system for a wide variety of biological studies. This animal is used because of its powerful combination of experimental tractability and close evolutionary relationship with humans, at least compared to many model organisms. 
+
+Xenopus has long been an important tool for in vivo studies in molecular, cell, and developmental biology of vertebrate animals. However, the wide breadth of Xenopus research stems from the additional fact that cell-free extracts made from Xenopus are a premier in vitro system for studies of fundamental aspects of cell and molecular biology. Thus, Xenopus is the only vertebrate model system that allows for high-throughput in vivo analyses of gene function and high-throughput biochemistry. Finally, Xenopus oocytes are a leading system for studies of ion transport and channel physiology. 
+
+The community-maintained model organism database for Xenopus is Xenbase 
+
+== Investigations of human disease genes using Xenopus ==
+
+All modes of Xenopus research (embryos, cell-free extracts, and oocytes) are commonly used in direct studies of human disease genes. Xenopus embryos for in vivo studies of human disease gene function: Xenopus embryos are large and easily manipulated, and moreover, thousands of embryos can be obtained in a single day. Indeed, Xenopus was the first vertebrate animal for which methods were developed to allow rapid analysis of gene function using misexpression (by mRNA injection ). Injection of mRNA in Xenopus that led to the cloning of interferon. Moreover, the use of morpholino-antisense oligonucleotides for gene knockdowns in vertebrates, which is now widely used, was first developed by Janet Heasman using Xenopus. 
+
+In recent years, these approaches have played in important role in studies of human disease genes. The mechanism of action for several genes mutated in human cystic kidney disorders (e.g. nephronophthisis) have been extensively studied in Xenopus embryos, shedding new light on the link between these disorders, ciliogenesis and Wnt signaling. Xenopus embryos have also provided a rapid test bed for validating newly discovered disease genes. For example, studies in Xenopus confirmed and elucidated the role of PYCR1 in cutis laxa with progeroid features. 
+
+Transgenic Xenopus for studying transcriptional regulation of human disease genes: Xenopus embryos develop rapidly, so transgenesis in Xenopus is a rapid and effective method for analyzing genomic regulatory sequences. In a recent study, mutations in the SMAD7 locus were revealed to associate with human colorectal cancer. Interestingly, the mutations lay in conserved, but noncoding sequences, suggesting these mutations impacted the patterns of SMAD7 transcription. To test this hypothesis, the authors used Xenopus transgenesis, and revealed this genomic region drove expression of GFP in the hindgut. Moreover, transgenics made with the mutant version of this region displayed substantially less expression in the hindgut. 
+
+Xenopus cell-free extracts for biochemical studies of proteins encoded by human disease genes: A unique advantage of the Xenopus system is that cytosolic extracts contain both soluble cytoplasmic and nuclear proteins (including chromatin proteins). This is in contrast to cellular extracts prepared from somatic cells with already distinct cellular compartments. Xenopus egg extracts have provided numerous insights into the basic biology of cells with particular impact on cell division and the DNA transactions associated with it (see below).
+
+Studies in Xenopus egg extracts have also yielded critical insights into the mechanism of action of human disease genes associated with genetic instability and elevated cancer risk, such as ataxia telangiectasia, BRCA1 inherited breast and ovarian cancer, Nbs1 Nijmegen breakage syndrome, RecQL4 Rothmund-Thomson syndrome, c-Myc oncogene and FANC proteins (Fanconi anemia). 
+ 
+
+Xenopus oocytes for studies of gene expression and channel activity related to human disease: Yet another strength of Xenopus is the ability to rapidly and easily assay the activity of channel and transporter proteins using expression in oocytes. This application has also led to important insights into human disease, including studies related to trypanosome transmission, Epilepsy with ataxia and sensorineural deafness Catastrophic cardiac arrhythmia (Long-QT syndrome) and Megalencephalic leukoencephalopathy. 
+
+== Investigation of fundamental biological processes using Xenopus==
+
+Signal transduction: Xenopus embryos and cell-free extracts are widely used for basic research in signal transduction. In just the last few years, Xenopus embryos have provided crucial insights into the mechanisms of TGF-beta and Wnt signal transduction. For example, Xenopus embryos were used to identify the enzymes that control ubiquitination of Smad4, Cell. 2009. 136,123-35 and to demonstrate direct links between TGF-beta superfamily signaling pathways and other important networks, such as the MAP kinase pathway Science. 2007. 315, 840-3 and the Wnt pathway. Cell. 2007. 131, 980-993 Moreover, new methods using egg extracts revealed novel, important targets of the Wnt/GSK3 destruction complex. PNAS. 2009. 106, 5165-5170 
+
+Cell division: Xenopus egg extracts have allowed the study of many complicated cellular events in vitro. Because egg cytosol can support successive cycling between mitosis and interphase in vitro, it has been critical to diverse studies of cell division. For example, the small GTPase Ran was first found to regulate interphase nuclear transport, but Xenopus egg extracts revealed the critical role of Ran GTPase in mitosis independent of its role in interphase nuclear transport. Nature. 2006 440, 697-701 Similarly, the cell-free extracts were used to model nuclear envelope assembly from chromatin, revealing the function of RanGTPase in regulating nuclear envelope reassembly after mitosis. Science 2006 311, 1887-1893 More recently, using Xenopus egg extracts, it was possible to demonstrate the mitosis-specific function of the nuclear lamin B in regulating spindle morphogenesis Nat. Cell Biol. 2009. 11, 247-256 and to identify new proteins that mediate kinetochore attachment to microtubules. Cell. 2007. 130, 893-905 
+
+Embryonic development: Xenopus embryos are widely used in developmental biology. A summary of recent advances made by Xenopus research in recent years would include:
+
+#Epigenetics of cell fate specification Dev. Cell. 2009. 17, 425-434 
+#microRNA in germ layer patterning and eye development Dev. Cell. 2009. 16, 517-527; Genes & Dev. 2009. 23, 1046-1051 
+#Link between Wnt signaling and telomerase Nature. 2009. 460, 66-72 
+#Development of the vasculature Cell. 2008.135, 1053-64 
+#Gut morphogenesis Genes & Dev. 2008. 22, 3050-3063 
+#Contact inhibition and neural crest cell migration Nature. 2008. 146, 957-961 
+
+DNA replication: Xenopus cell-free extracts also support the synchronous assembly and the activation of origins of DNA replication. They have been instrumental in characterizing the biochemical function of the prereplicative complex, including MCM proteins. Mol. Cell. 2008. 32, 862-9; EMBO J. 2009. 28, 3005-14 
+
+DNA damage response: Cell-free extracts have been instrumental to unravel the signaling pathways activated in response to DNA double-strand breaks (ATM), replication fork stalling (ATR) or DNA interstrand crosslinks (FA proteins and ATR). Notably, several mechanisms and components of these signal transduction pathways were first identified in Xenopus. Mol Cell. 2009. 35,704-15; Cell. 2008. 134, 969-80; Genes Dev. 2007. 21, 898-903 
+
+Apoptosis: Xenopus oocytes provide a tractable model for biochemical studies of apoptosis. Recently, oocytes were used recently to study the biochemical mechanisms of caspase-2 activation; importantly, this mechanism turns out to be conserved in mammals. Dev Cell. 2009. 16, 856-66 
+
+Regenerative medicine: In recent years, tremendous interest in developmental biology has been stoked by the promise of regenerative medicine. Xenopus has played a role here, as well. For example, expression of seven transcription factors in pluripotent Xenopus cells rendered those cells able to develop into functional eyes when implanted into Xenopus embryos, providing potential insights into the repair of retinal degeneration or damage. PLoS Biology. 2009. 7, e1000174 In a vastly different study, Xenopus embryos was used to study the effects of tissue tension on morphogenesis, Dev Cell. 2009. 16, 421-432 an issue that will be critical for in vitro tissue engineering.
+
+Physiology: The directional beating of multiciliated cells is essential to development and homeostasis in the central nervous system, the airway, and the oviduct. Interestingly, the multiciliated cells of the Xenopus epidermis have recently been developed as the first in vivo test-bed for live-cell studies of such ciliated tissues, and these studies have provided important insights into the biomechanical and molecular control of directional beating. Nat Genet. 2008. 40, 871-9; Nature. 2007. 447, 97-101 
+
+== Use of Xenopus for small molecule screens to develop novel therapeutics ==
+
+Because huge amounts of material are easily obtained, all modalities of Xenopus research are now being used for small-molecule based screens.
+
+Chemical genetics of vascular growth in Xenopus tadpoles: Given the important role of neovascularization in cancer progression, Xenopus embryos were recently used to identify new small molecules inhibitors of blood vessel growth. Notably, compounds identified in Xenopus were effective in mice. Blood. 2009. 114, 1110-22; Blood. 2008. 112, 1740-9 
+Notably, frog embryos figured prominently in a study that used evolutionary principles to identify a novel vascular disrupting agent that may have chemotherapeutic potential. PloS Biol. 2012. V. 10, P e1001379 That work was featured in the New York Times Science Times 
+
+In vivo testing of potential endocrine disruptors in transgenic Xenopus embryos: Endocrine disrupting chemicals released into the environment pose a potential public health risk, but our ability to identify such compounds in vitro vastly outstrips our ability to monitor the in vivo effects of such chemicals. A high-throughput assay for thyroid disruption has recently been developed using transgenic Xenopus embryos. Environ. Sci. Technol. 2007. 41, 5908-14 
+
+Small molecule screens in Xenopus egg extracts: Egg extracts provide ready analysis of molecular biological processes and can rapidly screened. This approach was used to identify novel inhibitors of proteasome-mediated protein degradation and DNA repair enzymes. Nat Chem Biol. 2008. 4, 119-25; Int. J. Cancer. 2009. 124, 783-92 
+
+== Use of Xenopus tropicalis for genetic studies ==
+
+While Xenopus laevis is the most commonly used species for developmental biology studies, genetic studies, especially forward genetic studies, can be complicated by their pseudotetraploid genome. Xenopus tropicalis provides a simpler model for genetic studies, having a diploid genome.
+
+== Use of Morpholino knockdown techniques for gene knockdown in Xenopus ==
+
+Morpholino oligos are also used in both X. laevis and X. tropicalis to probe the function of a protein by observing the results of eliminating the protein's activity, for example, as was done to screen a set of X. tropicalis genes, published in 2006. 
+
+==References==
+
+==External links==
+*Xenbase ~ A Xenopus laevis and tropicalis Web Resource
+

@@ -1,0 +1,66 @@
+[[Ludwig Prandtl]]
+
+Ludwig Prandtl (4 February 1875 &ndash; 15 August 1953) was a German engineer. He was a pioneer in the development of rigorous systematic mathematical analyses which he used for underlying the science of aerodynamics, which have come to form the basis of the applied science of aeronautical engineering. In the 1920s he developed the mathematical basis for the fundamental principles of subsonic aerodynamics in particular; and in general up to and including transonic velocities. His studies identified the boundary layer, thin-airfoils, and lifting-line theories. The Prandtl number was named after him.
+
+==Early years==
+Prandtl was born in Freising, near Munich, in 1875. His mother suffered from a lengthy illness and, as a result, Ludwig spent more time with his father, a professor of engineering. His father also encouraged him to observe nature and think about his observations.
+
+He entered the Technische Hochschule Munich in 1894 and graduated with a Ph.D. under guidance of Professor August Foeppl in six years. His work at Munich had been in solid mechanics, and his first job was as an engineer designing factory equipment. There, he entered the field of fluid mechanics where he had to design a suction device. After carrying out some experiments, he came up with a new device that worked well and used less power than the one it replaced.
+
+==Later years==
+In 1901 Prandtl became a professor of fluid mechanics at the technical school in Hannover, now the Technical University Hannover. It was here that he developed many of his most important theories. In 1904 he delivered a groundbreaking paper, Fluid Flow in Very Little Friction, in which he described the boundary layer and its importance for drag and streamlining. The paper also described flow separation as a result of the boundary layer, clearly explaining the concept of stall for the first time. Several of his students made attempts at closed-form solutions, but failed, and in the end the approximation contained in his original paper remains in widespread use.
+
+The effect of the paper was so great that Prandtl became director of the Institute for Technical Physics at the University of Göttingen later in the year. Over the next decades he developed it into a powerhouse of aerodynamics, leading the world until the end of World War II. In 1925 the university spun off his research arm to create the Kaiser Wilhelm Institute for Flow Research (now the Max Planck Institute for Dynamics and Self-Organization).
+
+Following earlier leads by Frederick Lanchester from 1902&ndash;1907, Prandtl worked with Albert Betz and Max Munk on the problem of a useful mathematical tool for examining lift from "real world" wings. The results were published in 1918&ndash;1919, known as the Lanchester-Prandtl wing theory. He also made specific additions to study cambered airfoils, like those on World War I aircraft, and published a simplified thin-airfoil theory for these designs. This work led to the realization that on any wing of finite length, wing-tip effects became very important to the overall performance and characterization of the wing. Considerable work was included on the nature of induced drag and wingtip vortices, which had previously been ignored. These tools enabled aircraft designers to make meaningful theoretical studies of their aircraft before they were built.
+
+Ludwig Prandtl 1904 with his fluid test channel
+
+Prandtl and his student Theodor Meyer developed the first theories of supersonic shock waves and flow in 1908. The Prandtl-Meyer expansion fans allowed for the construction of supersonic wind tunnels. He had little time to work on the problem further until the 1920s, when he worked with Adolf Busemann and created a method for designing a supersonic nozzle in 1929. Today, all supersonic wind tunnels and rocket nozzles are designed using the same method. A full development of supersonics would have to wait for the work of Theodore von Kármán, a student of Prandtl at Göttingen.
+
+In 1922 Prandtl, together with Richard von Mises, founded the GAMM (the International Association of Applied Mathematics and Mechanics). and was its chairman from 1922 until 1933. Until 1945 he also worked closely with the RLM.
+
+Other work examined the problem of compressibility at high subsonic speeds, known as the Prandtl-Glauert correction. This became very useful during World War II as aircraft began approaching supersonic speeds for the first time. He also worked on meteorology, plasticity and structural mechanics.
+
+Prandtl's life was marked by overtones of naïveté. At the age of thirty-four, he decided it was time to marry, so he went to his old professor, August Föppl, to ask his daughter's hand in marriage. But Prandtl didn't say which daughter. The professor and his wife had a hurried discussion and wisely decided it should be the older one. That was fine. The marriage was a long and happy one. 
+
+==Death and afterwards==
+Prandtl worked at Göttingen until he died on August 15, 1953. His work in fluid dynamics is still used today in many areas of aerodynamics and chemical engineering. He is often referred to as the father of modern aerodynamics.
+
+The crater Prandtl on the far side of the Moon is named in his honor.
+
+The Ludwig-Prandtl-Ring is awarded by Deutsche Gesellschaft für Luft- und Raumfahrt in his honor for outstanding contribution in the field of aerospace engineering.
+
+==Notable students==
+*Hubert Ludwieg
+*Hermann Schlichting
+*Theodore von Kármán
+*Reinhold Rudenberg
+*Paul Richard Heinrich Blasius
+*Adolf Busemann
+*Walter Tollmien
+*Max Munk
+*Jakob Ackeret
+
+==Books==
+*Paul Peter Ewald, Theodor Pöschl, Ludwig Prandtl; authorized translation by J. Dougall and W.M. Deans The Physics of Solids and Fluids: With Recent Developments Blackie and Son (1930).
+*Ludwig Prandtl, Essentials of Fluid Dynamics, Hafner Publications, New York (1952).
+
+==See also==
+* Tesla turbine
+* Prandtl-Glauert singularity
+* Prandtl-Glauert method
+* Prandtl-Meyer function
+
+==Notes==
+
+==External links==
+
+*
+* Ludwig Prandtl's Biography in German, ISBN 3-938616-34-2, 256 pages
+* Ludwig Prandtl's Boundary Layer
+* Video recording of the E. Bodenschatz's lecture on life and work of Ludwig Prandtl
+
+ 
+
+

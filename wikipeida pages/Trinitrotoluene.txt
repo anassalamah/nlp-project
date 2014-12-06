@@ -1,0 +1,103 @@
+[[Trinitrotoluene]]
+
+Trinitrotoluene (TNT), or more specifically 2,4,6-trinitrotoluene, is a chemical compound with the formula C6H2(NO2)3CH3. This yellow-colored solid is sometimes used as a reagent in chemical synthesis, but it is best known as a useful explosive material with convenient handling properties. The explosive yield of TNT is considered to be the standard measure of strength of bombs and other explosives. In chemistry, TNT is used to generate charge transfer salts.
+
+==History==
+Trinitrotoluene melting at 81 °C
+M107 artillery shells. All are labelled to indicate a filling of "Comp B" (mixture of TNT and RDX) and have fuzes fitted
+Breakdown of production by branch of TNT in the German army between 1941 and the first quarter of 1944 by thousands of tons per month
+Detonation of the 500-ton TNT explosive charge as part of Operation Sailor Hat in 1965. The white blast-wave is visible on the water surface and a shock condensation cloud is visible overhead.
+World War I-era HE artillery shell for a 9.2 inch howitzer. The red band indicates it is filled and the green band (marked "Trotyl") indicates that the filling is TNT
+TNT was first prepared in 1863 by German chemist Julius Wilbrand and originally used as a yellow dye. Its potential as an explosive was not appreciated for several years mainly because it was so difficult to detonate and because it was less powerful than alternatives. TNT can be safely poured when liquid into shell cases, and is so insensitive that in 1910, it was exempted from the UK's Explosives Act 1875 and was not considered an explosive for the purposes of manufacture and storage. 
+
+The German armed forces adopted it as a filling for artillery shells in 1902. TNT-filled armour-piercing shells would explode after they had penetrated the armour of British capital ships, whereas the British lyddite-filled shells tended to explode upon striking armour, thus expending much of their energy outside the ship. The British started replacing lyddite with TNT in 1907.
+
+The United States Navy continued filling armor piercing shells with explosive D after some other nations had switched to TNT; but began filling naval mines, bombs, depth charges, and torpedo warheads with burster charges of crude grade B TNT with the color of brown sugar and requiring an explosive booster charge of granular crystallized grade A TNT for detonation. High explosive shells were filled with grade A TNT, which became preferred for this other use as industrial chemical capacity became available for removing xylene and similar hydrocarbons from the toluene feedstock and other nitrotoluene isomer byproducts from the nitrating reactions. 
+
+TNT is still widely used by the United States military, as well as construction companies around the world. The majority of TNT currently used by the US military is manufactured by Radford Army Ammunition Plant near Radford, Virginia.
+
+==Preparation==
+In industry, TNT is produced in a three-step process. First, toluene is nitrated with a mixture of sulfuric and nitric acid to produce mononitrotoluene (MNT). The MNT is separated and then renitrated to dinitrotoluene or DNT. In the final step, the DNT is nitrated to trinitrotoluene or TNT using an anhydrous mixture of nitric acid and oleum. Nitric acid is consumed by the manufacturing process, but the diluted sulfuric acid can be reconcentrated and reused. Subsequent to nitration, TNT is stabilized by a process called sulfitation, where the crude TNT is treated with aqueous sodium sulfite solution in order to remove less stable isomers of TNT and other undesired reaction products. The rinse water from sulphitation is known as red water and is a significant pollutant and waste product of TNT manufacture. 
+ 
+
+Control of nitrogen oxides in feed nitric acid is very important because free nitrogen dioxide can result in oxidation of the methyl group of toluene. This reaction is highly exothermic and carries with it the risk of a runaway reaction leading to an explosion.
+
+In the laboratory, 2,4,6-trinitrotoluene is produced by a two step process. A nitrating mixture of concentrated nitric and sulfuric acids is used to nitrate toluene to a mixture of mono- and di-nitrotoluene isomers, with cooling to maintain careful temperature control. The nitrated toluenes are then separated, washed with dilute sodium bicarbonate to remove oxides of nitrogen, and then carefully nitrated with a mixture of fuming nitric acid and sulfuric acid. Towards the end of the nitration, the mixture is heated on a steam bath. The trinitrotoluene is separated, washed with a dilute solution of sodium sulfite and then recrystallized from alcohol.
+
+==Applications==
+TNT is one of the most commonly used explosives for military and industrial applications. It is valued partly because of its insensitivity to shock and friction, which reduces the risk of accidental detonation, compared to other more sensitive high explosives such as nitroglycerin. TNT melts at 80 °C (176 °F), far below the temperature at which it will spontaneously detonate, allowing it to be poured as well as safely combined with other explosives. TNT neither absorbs nor dissolves in water, which allows it to be used effectively in wet environments. Additionally, it is stable compared to other high explosives.
+
+In order to initiate an explosion, TNT must first be detonated using a pressure wave from a more sensitive explosive called a detonator. One such detonator is lead azide (Pb(N3)2) which explodes when struck or if an electric discharge is passed through it.
+
+Although blocks of TNT are available in various sizes (e.g. 250 g, 500 g, 1,000 g), it is more commonly encountered in synergistic explosive blends comprising a variable percentage of TNT plus other ingredients. Examples of explosive blends containing TNT include:
+* Amatex: (ammonium nitrate and RDX) 
+* Amatol:(ammonium nitrate )
+* Ammonal: (ammonium nitrate and aluminium powder plus sometimes charcoal).
+* Baratol: ( barium nitrate and wax Explosives - Compounds )
+* Composition B ( RDX and paraffin wax Military Specification MIL-C-401 )
+* Composition H6
+* Cyclotol (RDX) 
+* Ednatol
+* Hexanite DEPARTMENT OF THE TREASURY:Bureau of Alcohol, Tobacco and Firearms GlobalSecurity.org Retrieved 2011-12-02 (hexanitrodiphenylamine &#91;secondary source&#93; webpages:submarine torpedo explosive Retrieved 2011-12-02 scribd.com website showing copy of a North American Intelligence document see:page 167 Retrieved 2011-12-02 ).
+* Minol
+* Octol
+* Pentolite
+* Picratol
+* Tetrytol
+* Torpex
+* Tritonal
+
+==Explosive character==
+Upon detonation, TNT decomposes as follows:
+: 2 C7H5N3O6 → 3 N2 + 5 H2O + 7 CO + 7 C
+: 2 C7H5N3O6 → 3 N2 + 5 H2 + 12 CO + 2 C
+
+The reaction is exothermic but has a high activation energy. Because of the production of carbon, TNT explosions have a sooty appearance. Because TNT has an excess of carbon, explosive mixtures with oxygen-rich compounds can yield more energy per kilogram than TNT alone. During the 20th century, amatol, a mixture of TNT with ammonium nitrate was a widely used military explosive.
+
+Detonation of TNT can be done using a high velocity initiator or by efficient concussion. Merck Index, 13th Edition, 9801 
+
+For many years, TNT used to be the reference point for the Figure of Insensitivity. TNT has a rating of exactly 100 on the F of I scale. The reference has since been changed to a more sensitive explosive called RDX, which has an F of I of 80.
+
+==Energy content==
+
+TNT is reported to contain 2.8 mega joules per kilogram explosive energy. The actual heat of combustion is 14.5 megajoules per kilogram, which requires that some of the carbon in TNT react with atmospheric oxygen, which does not occur in the initial event. The explosive energy utilized by NIST is 4184 J/g (4.184 MJ/kg). NIST Guide for the Use of the International System of Units (SI): Appendix B8—Factors for Units Listed Alphabetically The energy density of TNT is used as a reference-point for many other types of explosives, including nuclear weapons, the energy content of which is measured in kilotons (~4.184 terajoules) or megatons (~4.184 peta joules) of TNT equivalent.
+
+For comparison, gunpowder contains 3 megajoules per kilogram, dynamite contains 7.5 megajoules per kilogram, and gasoline contains 47.2 megajoules per kilogram (though gasoline requires an oxidant, so an optimized gasoline and O2 mixture contains 10.4 megajoules per kilogram).
+
+==Detection==
+Various methods can be used to detect TNT including optical and electrochemical sensors and explosive-sniffing dogs.
+
+In 2013, researchers from the Indian Institutes of Technology using noble-metal quantum clusters could detect TNT at the sub-zeptomolar (10−18 mol/m3) level. 
+
+==Safety and toxicity==
+TNT is poisonous, and skin contact can cause skin irritation, causing the skin to turn a bright yellow-orange color. During the First World War, munition workers who handled the chemical found that their skin turned bright yellow, which resulted in their acquiring the nickname "canary girls" or simply "canaries."
+
+People exposed to TNT over a prolonged period tend to experience anemia and abnormal liver functions. Blood and liver effects, spleen enlargement and other harmful effects on the immune system have also been found in animals that ingested or breathed trinitrotoluene. There is evidence that TNT adversely affects male fertility. Toxicological Profile for 2,4,6-Trinitrotoluene TNT is listed as a possible human carcinogen, with carcinogenic effects demonstrated in animal experiments (rat), although effects upon humans so far amount to none to IRIS of March 15, 2000.
+ from U.S. Environmental Protection Agency's Integrated Risk Information System (IRIS) within the NLM Hazardous Substances Databank – Trinitrotoluene Consumption of TNT produces red urine through the presence of breakdown products and not blood as sometimes believed. 
+
+Some military testing grounds are contaminated with TNT. Wastewater from munitions programs including contamination of surface and subsurface waters may be colored pink because of the presence of TNT. Such contamination, called "pink water", may be difficult and expensive to remedy.
+
+TNT is prone to exudation of dinitrotoluenes and other isomers of trinitrotoluene. Even small quantities of such impurities can cause such effect. The effect shows especially in projectiles containing TNT and stored at higher temperatures, e.g. during summer. Exudation of impurities leads to formation of pores and cracks (which in turn cause increased shock sensitivity). Migration of the exudated liquid into the fuze screw thread can form fire channels, increasing the risk of accidental detonations; fuze malfunction can result from the liquids migrating into its mechanism. The chemistry of explosives Calcium silicate is mixed with TNT to mitigate the tendency towards exudation. 
+
+== Bio degradation ==
+
+The ligninolytic physiological phase and manganese peroxidase system of fungi can cause a very limited amount of mineralization of TNT in a liquid culture; though not in soil. An organism capable of the remediation of large amounts of TNT in soil has yet to be discovered. Both wild and transgenic plants can phytoremediate explosives from soil and water. 
+
+==See also==
+* TNT equivalent
+* RE factor
+* Explosives used during WW II
+* Dynamite (Difference from TNT)
+* IMX-101
+* Table of explosive detonation velocities
+
+==References==
+
+==External links==
+* Dynamite and TNT at The Periodic Table of Videos (University of Nottingham)
+* free software website sonicbomb.com containing a video bank and additionally pages for discussion of nuclear device testing Video showing detonation on 2005-12-20 : Operation Blowdown
+* youtube.com video showing the shockwave and typical black smoke cloud from detonation of 160 kilograms of pure TNT
+* liveleak.com video of demolition training using half pound blocks of pure TNT
+* CDC - NIOSH Pocket Guide to Chemical Hazards
+
+

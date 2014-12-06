@@ -1,0 +1,70 @@
+[[Clayton Antitrust Act]]
+
+The Clayton Antitrust Act of 1914 (, codified at , ), was a part of United States antitrust law with the goal of adding further substance to the U.S. antitrust law regime; the Clayton Act sought to prevent anticompetitive practices in their incipiency. That regime started with the Sherman Antitrust Act of 1890, the first Federal law outlawing practices considered harmful to consumers (monopolies, cartels, and trusts). The Clayton Act specified particular prohibited conduct, the three-level enforcement scheme, the exemptions, and the remedial measures. 
+
+Like the Sherman Act, much of the substance of the Clayton Act has been developed and animated by the U.S. courts, particularly the Supreme Court.
+
+==Background==
+
+Since the Sherman Act 1890, courts in the United States had interpreted the law on cartels as applying against trade unions. This had created an impossible situation for workers, who needed to organize so as to rebalance the unequal bargaining power against their employers. The Sherman Act had also triggered the largest wave of mergers in US history, as businesses realized that instead of creating a cartel they could simply fuse into a single corporation, and have all the benefits of market power that a cartel could bring. At the end of the Taft administration, and the start of the Woodrow Wilson administration, a Commission on Industrial Relations was established. During its proceedings, and in anticipation of its first report on the 23 October 1914, legislation was introduced by Alabama Democrat Henry De Lamar Clayton Jr. in the U.S. House of Representatives. The Clayton Act passed by a vote of 277 to 54 on June 5, 1914. Though the Senate passed its own version on September 2, 1914, by a vote of 46-16, the final version of the law (written after deliberation between Senate and the House), did not pass the Senate until October 5 and the House until October 8 of the same year.
+
+==Contents==
+The Clayton Act made both substantive and procedural modifications to federal antitrust law. Substantively, the act seeks to capture anticompetitive practices in their incipiency by prohibiting particular types of conduct, not deemed in the best interest of a competitive market. There are 4 sections of the bill that proposed substantive changes in the antitrust laws by way of supplementing the Sherman Act of 1207. In those sections, the Act thoroughly discusses the following four principles of economic trade and business:
+
+* price discrimination between different purchasers if such a discrimination substantially lessens competition or tends to create a monopoly in any line of commerce (Act Section 2, codified at ;
+* sales on the condition that (A) the buyer or lessee not deal with the competitors of the seller or lessor ("exclusive dealings") or (B) the buyer also purchase another different product ("tying") but only when these acts substantially lessen competition (Act Section 3, codified at );
+* mergers and acquisitions where the effect may substantially lessen competition (Act Section 7, codified at ) or where the voting securities and assets threshold is met (Act Section 7a, codified at );
+* any person from being a director of two or more competing corporations, if those corporations would violate the anti-trust criteria by merging (Act Section 8; codified 1200 at ).
+
+===Comparisons to other acts===
+
+Unilateral price discrimination is clearly outside the reach of Section 1 of the Sherman Act, which only extended to "concerted activities" (agreements). Exclusive dealing, tying, and mergers are all agreements, and theoretically, within the reach of Section 1 of the Sherman Act. Likewise, mergers that create monopolies would be actionable under Sherman Act Section 2.
+
+Section 7 of the Clayton Act allows greater regulation of mergers than just Sherman Act Section 2, since it does not require a merger-to-monopoly before there is a violation. It allows the Federal Trade Commission and Department of Justice to regulate all mergers, and gives the government discretion whether to give approval to a merger or not, which it still commonly does today. The government often employs the Herfindahl-Hirschman Index (HHI) test for market concentration to determine whether the merger is presumptively anticompetitive; if the HHI level for a particular merger exceeds a certain level, the government will investigate further to determine its probable competitive impact.
+
+===Section 7===
+Section 7 elaborates on specific and crucial concepts of the Clayton Act; "holding company" defined as a "common and favorite method of promoting monopoly", Martin, David Dale, Mergers and the Clayton Act, University of California, Berkeley and Los Angeles, 1959 but more precisely as "a company whose primary purpose is to hold stocks of other companies" Martin, David Dale, Mergers and the Clayton Act, University of California, Berkeley and Los Angeles, 1959 which the government saw as an abomination and a mere corporated form of the 'old fashioned' trust.
+
+Another important factor to consider is the amendment passed in Congress on Section 7 of the Clayton Act in 1950. This original position of the US government on mergers and acquisitions was strengthened by the Celler-Kefauver amendments of 1950, so as to cover asset as well as stock acquisitions.
+
+===Pre-merger notification===
+Section 7a, , requires that companies notify the Federal Trade Commission and the Assistant Attorney General of the United States Department of Justice Antitrust Division of any contemplated mergers and acquisitions that meet or exceed certain thresholds. Pursuant to the Hart–Scott–Rodino Antitrust Improvements Act, section 7A(a)(2) requires the Federal Trade Commission to revise those thresholds annually, based on the change in gross national product, in accordance with Section 8(a)(5) and take effect 30 days after publication in the Federal Register. (For example, see and 16 C.F.R. 801.)
+
+===Section 8===
+Section 8 of the Act refers to the prohibition of one person of serving as director of two or more corporations if the certain threshold values are met, which are required to be set by regulation of the Federal Trade Commission, revised annually based on the change in gross national product, pursuant to the Hart–Scott–Rodino Antitrust Improvements Act. (For example, see .)
+
+===Other===
+Because the act singles out exclusive dealing and tying arrangements, one may assume they would be subject to heightened scrutiny, perhaps they would even be illegal per se. That remains true for tying, under the authority of Jefferson Parish Hospital District. However, when exclusive dealings are challenged under Clayton-3 (or Sherman-1), they are treated under the rule of reason. Under the 'rule of reason', the conduct is only illegal, and the plaintiff can only prevail, upon proving to the court that the defendants are doing substantial economic harm.
+
+==Exemptions==
+An important difference between the Clayton Act and its predecessor, the Sherman Act, is that the Clayton Act contained safe harbors for union activities. Section 6 of the Act (codified at ) exempts labor unions and agricultural organizations, saying ‘that the labor of a human being is not a commodity or article of commerce, and permit labor organizations to carry out their legitimate objective’. Therefore, boycotts, peaceful strikes, peaceful picketing, and collective bargaining are not regulated by this statute. Injunctions could be used to settle labor disputes only when property damage was threatened.
+
+Major League Baseball is another company exempt from the Clayton Antitrust Act due to the national heritage associated with it. (Federal Baseball Club of Baltimore, Inc. v. National League of Professional Baseball Clubs, et al. 259 U.S. 200 (1922))
+
+==Enforcement==
+Procedurally, the Act empowers private parties injured by violations of the Act to sue for treble damages under Section 4 and injunctive relief under Section 16. The Supreme Court has expressly ruled that the "injunctive relief" clause in Section 16 includes the implied power to force defendants to divest assets. California v. American Stores Co., . 
+
+Under the Clayton Act, only civil suits could be brought to the court's attention and a provision "permits a suit in the federal courts for three times the actual damages caused by anything forbidden in the antitrust laws", including court costs and attorney's fees.
+
+The Act is enforced by the Federal Trade Commission, which was also created and empowered during the Wilson Presidency by the Federal Trade Commission Act, and also the Antitrust Division of the U.S. Department of Justice.
+
+==Legacy==
+The Clayton Act of 1914 reformed and emphasized certain concepts of the Sherman Act of 1890 that are still active today in a growing interconnected market and merging of the industries.
+
+==See also==
+* Celler–Kefauver Act
+* Hart–Scott–Rodino Antitrust Improvements Act
+* Internet Freedom and Nondiscrimination Act of 2006
+* Robinson–Patman Act
+* Sherman Antitrust Act
+*United States v. Continental Can Co.
+
+==Notes==
+
+==External links==
+*Brief History of the Federal Trade Commission (PDF)
+* 
+*Why Did The Clayton Act Pass? An Analysis of the Interest Group Hypothesis (PDF)
+*Full Text of the Clayton Antitrust Act
+
+

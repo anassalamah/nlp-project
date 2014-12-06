@@ -1,0 +1,88 @@
+[[Hermann Emil Fischer]]
+
+Hermann Emil Louis Fischer (9 October 1852 – 15 July 1919) was a German chemist and 1902 recipient of the Nobel Prize in Chemistry. He also discovered the Fischer esterification. He developed the Fischer projection, a symbolic way of drawing asymmetric carbon atoms.
+
+==Biography==
+
+===Early years===
+Fischer was born in Euskirchen, near Cologne, the son of a businessman. After graduating he wished to study natural sciences, but his father compelled him to work in the family business until determining that his son was unsuitable. Fischer then attended the University of Bonn in 1871, but switched to the University of Strasbourg in 1872. He earned his doctorate in 1874 under Adolf von Baeyer with his study of phthalein and was appointed to a position at the university.
+
+===Academic career===
+In 1875 von Baeyer was asked to succeed Liebig at the University of Munich and Fischer went there with him to become an assistant in organic chemistry.
+
+In 1878 Fischer qualified as a Privatdozent at Munich, where he was appointed Associate Professor of Analytical Chemistry in 1879. In the same year he was offered, but refused, the Chair of Chemistry at Aachen.
+
+In 1881 he was appointed Professor of Chemistry at the University of Erlangen and in 1883 he was asked by the Badische Anilin- und Soda-Fabrik to direct its scientific laboratory. Fischer, however, whose father had now made him financially independent, preferred academic work.
+
+In 1885 he was asked to become Professor of Chemistry at the University of Würzburg and here he remained until 1892, when he was asked to succeed A. W. Hofmann in the Chair of Chemistry at the University of Berlin. Here he remained until his death in 1919 from chronic phenylhydrazine poisoning.
+
+===Research work===
+left
+In 1875 Fischer discovered phenylhydrazine while working in Stassburg with von Baeyer. Fischer, E. (1875) "Ueber aromatische Hydrazinverbindungen" (On aromatic hydrazine compounds), Berichte der deutschen chemischen Gesellschaft, 8: 589-594. (This compound would play a critical role in Fischer's later research on sugars.) While he was at Munich, Fischer continued to work on the hydrazines and, working there with his cousin Otto Fischer, who had followed him to Munich, he and Otto worked out a new theory of the constitution of the dyes derived from triphenylmethane, proving this by experimental work to be correct.
+
+At Erlangen, Fischer studied the active principles of tea, coffee and cocoa, namely, caffeine and theobromine, and established the constitution of a series of compounds in this field, eventually synthesizing them.
+
+The work, however, on which Fischer's fame chiefly rests, was his studies of the purines and the sugars. This work, carried out between 1882 and 1906 showed that various substances, little known at that time, such as adenine, xanthine, in vegetable substances, caffeine and, in animal excrement, uric acid and guanine, all belonged to one homogeneous family and could be derived from one another and that they corresponded to different hydroxyl and amino derivatives of the same fundamental system formed by a bicyclic nitrogenous structure into which the characteristic urea group entered. This parent substance, which at first he regarded as being hypothetical, he called purine in 1884, and he synthesized it in 1898. Numerous artificial derivatives, more or less analogous to the naturally-occurring substances, came from his laboratory between 1882 and 1896.
+
+In 1884 Fischer began his great work on the sugars, which transformed the knowledge of these compounds and welded the new knowledge obtained into a coherent whole. Even before 1880, the aldehyde formula of glucose had been indicated, but Fischer established it by a series of transformations such as oxidation into aldonic acid and the action of phenylhydrazine which he had discovered and which made possible the formation of the phenylhydrazones and the osazones. By passage to a common osazone, he established the relation between glucose, fructose and mannose, which he discovered in 1888. In 1890, by epimerization between gluconic and mannonic acids, he established the stereochemical and isomeric nature of the sugars, and between 1891 and 1894 he established the stereochemical configuration of all the known sugars and exactly foretold the possible isomers, by an ingenious application of the theory of the asymmetrical carbon atom of Van't Hoff and Le Bel, published in 1874. Reciprocal syntheses between different hexoses by isomerization and then between pentoses, hexoses, and heptoses by reaction of degradation and synthesis proved the value of the systematics he had established. His greatest success was his synthesis of glucose, fructose and mannose in 1890, starting from glycerol.
+
+This monumental work on the sugars, carried out between 1884 and 1894, was extended by other work, the most important being his studies of the glucosides.
+
+Between 1899 and 1908 Fischer made his great contributions to knowledge of the proteins. He sought effective analytical methods of separating and identifying the individual amino acids, discovering a new type, the cyclic amino acids: proline and hydroxyproline. He also studied the synthesis of proteins by obtaining the various amino acids in an optically active form in order to unite them. He was able to establish the type of bond that would connect them together in chains, namely, the peptide bond, and by means of this he obtained the dipeptides and later the tripeptides and polypeptides. In 1901 he discovered, in collaboration with Ernest Fourneau, the synthesis of the dipeptide, glycylglycine, and in that year he also published his work on the hydrolysis of casein. Amino acids occurring in nature were prepared in the laboratory and new ones were discovered. His synthesis of the oligopeptides culminated in an octodecapeptide, which had many characteristics of natural proteins. This and his subsequent work led to a better understanding of the proteins and laid the foundations for later studies of them.
+
+In addition to his work in the fields already mentioned, Fischer also studied the enzymes and the chemical substances in the lichens which he found during his frequent holidays in the Black Forest, and also substances used in tanning and, during the final years of his life, the fats. In 1890, he also proposed a "Lock and Key Model" to visualize the substrate and enzyme interaction. Though, later studies did not support this model in all enzymatic reactions.
+
+Fischer is noted for his work on sugars among other work the organic synthesis of (+) glucose and purines (including the first synthesis of caffeine).
+
+Fischer was also instrumental in the discovery of barbiturates, a class of sedative drugs used for insomnia, epilepsy, anxiety, and anesthesia. Along with the physician Josef von Mering, he helped to launch the first barbiturate sedative, barbital, in 1904. 
+
+===Personal life===
+At the age of 18, before he went to the University of Bonn, Fischer suffered from gastritis, which attacked him again towards the end of his tenure of the Chair at Erlangen and caused him to refuse a tempting offer to follow Victor Meyer at the Federal Technical University at Zurich and to take a year's leave of absence before he went, in 1888, to Würzburg. 
+Throughout his life he was well served by his excellent memory, which enabled him, although he was not a naturally good speaker, to memorize manuscripts of lectures that he had written.
+
+He was particularly happy at Würzburg where he enjoyed walks among the hills and he also made frequent visits to the Black Forest. His administrative work, especially when he went to Berlin, revealed him as a tenacious campaigner for the establishment of scientific foundations, not only in chemistry, but in other fields of work as well. His keen understanding of scientific problems, his intuition and love of truth and his insistence on experimental proof of hypotheses, marked him as one of the truly great scientists of all time.
+
+In 1888 Fischer married Agnes Gerlach, daughter of Joseph von Gerlach, Professor of Anatomy at Erlangen. His wife died seven years after their marriage. They had three sons, one of whom was killed in World War I; another committed suicide at the age of 25 as a result of compulsory military training. In 1919 in Berlin, Fischer, like his son, committed suicide. The oldest son, Poster next to bust of Fischer, Biosciences Library, UC Berkeley Hermann Otto Laurenz Fischer, was Professor of Biochemistry in the University of California at Berkeley from 1948 until his death in 1960. 
+
+==Honours, awards, and legacy==
+Monument to Hermann Emil Fischer in Berlin
+Fischer was made a Prussian Geheimrat (Excellenz), and held honorary doctorates of the Universities of Christiania, Cambridge (England), Manchester and Brussels. In 1897 he put forward the idea to create the International Atomic Weights Commission. He was also awarded the Prussian Order of Merit and the Maximilian Order for Arts and Sciences. In 1902 he was awarded the Nobel Prize in Chemistry for his work on sugar and purine synthesis.
+
+Many names of chemical reactions and concepts are named after him:
+
+* Fischer indole synthesis
+* Fischer projection
+* Fischer oxazole synthesis
+* Fischer peptide synthesis
+* Fischer phenylhydrazine and oxazone reaction
+* Fischer reduction
+* Fischer-Speier esterification
+* Fischer glycosidation
+
+When Fischer died in 1919, the Emil Fischer Memorial Medal was instituted by the German Chemical Society.
+
+Note that the Fischer-Tropsch process is named after Franz Emil Fischer a chemist who was no relation, head of the Institut fuer Kohlenforschung in Muelheim.
+
+== See also==
+*List of chemists
+
+== Notes ==
+
+== References ==
+
+*
+* 
+*
+
+==External links==
+* Nobel Lecture Syntheses in the Purine and Sugar Group from Nobelprize.org website
+* Biography Biography from Nobelprize.org website
+* Eminent Chemists of Our Time By Benjamin Harrow pages 216–239, published 1920 by Von Nostrand Company at books.google.com.
+* Guide to the Emil Fischer Papers at The Bancroft Library
+* Text-book of Physiological Chemistry in Thirty Lectures by Emil Abderhalden, translated by William Thomas Hall and George Defren; published 1908 by Wiley Company, has many technical references to Fischer's work in Chemistry.
+* American Journal of Diseases of Children 1911 volume 2 by the American Medical Association also refers to Fischer's work.
+* An Introduction to the History of Medicine: With Medical Chronology by Fielding Hudson Garrison, page 708 refers to Fischer and Merings discovery of the drugs veronal(1904) and proponal(1905), published 1921 by Saunders Company.
+* 1914 Year Book of the American Pharmaceutical Association, page 438 abstracts Fischer and Strauss's work on Phenol-Glucosides – Synthetic Production from Berlin d.D Chem. Germany, page 45(1912) No. 12.
+* 
+
+

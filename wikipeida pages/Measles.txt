@@ -1,0 +1,161 @@
+[[Measles]]
+
+Measles, also known as morbilli, English measles, or rubeola (and not to be confused with rubella or roseola) is an infection of the respiratory system, immune system and skin caused by a virus, specifically a paramyxovirus of the genus Morbillivirus. Symptoms usually develop 7–14 days (average 10–12) after exposure to an infected person and the initial symptoms usually include a high fever (often > 40 °C °F), Koplik's spots (spots in the mouth, these usually appear 1–2 days prior to the rash and last 3–5 days), malaise, loss of appetite, hacking cough (although this may be the last symptom to appear), runny nose and red eyes. After this comes a spot-like rash that covers much of the body. The course of measles, provided there are no complications, such as bacterial infections, usually lasts about 7–10 days. 
+
+Measles is spread through respiration (contact with fluids from an infected person's nose and mouth, either directly or through aerosol transmission), and is highly contagious—90% of people without immunity sharing living space with an infected person will catch it. An asymptomatic incubation period occurs nine to twelve days from initial exposure. The period of infectivity has not been definitively established, some saying it lasts from two to four days prior, until two to five days following the onset of the rash (i.e., four to nine days infectivity in total), whereas others say it lasts from two to four days prior until the complete disappearance of the rash. The rash usually appears between 2–3 days after the onset of illness. 
+
+==Signs and symptoms==
+Skin of a patient after 3 days of measles infection.
+Presentation of “Koplik's spots” on the third pre-eruptive day, indicative of the beginning onset of measles.
+The classic signs and symptoms of measles include four-day fevers [ the 4 D's ] and the three Cs—cough, coryza (head cold), and conjunctivitis (red eyes)—along with fever and rashes. The fever may reach up to 40 C. Koplik's spots seen inside the mouth are pathognomonic (diagnostic) for measles, but are not often seen, even in confirmed cases of measles, because they are transient and may disappear within a day of arising. Their recognition, before the affected person reaches maximum infectivity can be used to reduce spread of epidemics. 
+
+The characteristic measles rash is classically described as a generalized, maculopapular, erythematous rash that begins several days after the fever starts. It starts on the back of the ears and, after a few hours, spreads to the head and neck before spreading to cover most of the body, often causing itching. The measles rash appears two to four days after the initial symptoms and lasts for up to eight days. The rash is said to "stain", changing color from red to dark brown, before disappearing. NHS UK: Symptoms of measles. Last reviewed: 26/01/2010. 
+
+===Complications===
+Complications with measles are relatively common, ranging from mild and less serious complications such as diarrhea to more serious ones such as pneumonia (either direct viral pneumonia or secondary bacterial pneumonia), otitis media, acute encephalitis (and very rarely SSPE—subacute sclerosing panencephalitis), and corneal ulceration (leading to corneal scarring). Complications are usually more severe in adults who catch the virus. The death rate in the 1920s was around 30% for measles pneumonia. 
+
+Between 1987 and 2000, the case fatality rate across the United States was 3 measles-attributable deaths per 1000 cases, or 0.3%. 
+ 
+In underdeveloped nations with high rates of malnutrition and poor healthcare, fatality rates have been as high as 28%. In immunocompromised persons (e.g., people with AIDS) the fatality rate is approximately 30%. 
+
+==Cause==
+
+Measles is caused by the measles virus, a single-stranded, negative-sense, enveloped RNA virus of the genus Morbillivirus within the family Paramyxoviridae. The virus was first isolated in 1954 by Nobel Laureate John F. Enders and Thomas Peebles, who were careful to point out that the isolations were made from patients who had Koplik's spots. Humans are the natural hosts of the virus; no other animal reservoirs are known to exist. This highly contagious virus is spread by coughing and sneezing via close personal contact or direct contact with secretions.
+
+Risk factors for measles virus infection include the following:
+
+*Children with immunodeficiency due to HIV or AIDS, leukemia, alkylating agents, or corticosteroid therapy, regardless of immunization status 
+*Travel to areas where measles is endemic or contact with travelers to endemic areas 
+*Infants who lose passive antibody before the age of routine immunization 
+
+Risk factors for severe measles and its complications include the following:
+
+*Malnutrition 
+*Underlying immunodeficiency 
+*Pregnancy 
+*Vitamin A deficiency 
+
+==Diagnosis==
+Clinical diagnosis of measles requires a history of fever of at least three days, with at least one of the three C's (cough, coryza, conjunctivitis). Observation of Koplik's spots is also diagnostic of measles. 
+
+Alternatively, laboratory diagnosis of measles can be done with confirmation of positive measles IgM antibodies or isolation of measles virus RNA from respiratory specimens. In patients where phlebotomy is not possible, saliva can be collected for salivary measles-specific IgA testing. Positive contact with other patients known to have measles adds strong epidemiological evidence to the diagnosis. The contact with any infected person in any way, including semen through sex, saliva, or mucus, can cause infection. 
+
+==Prevention==
+Rates of measles vaccination worldwide
+Measles cases reported in the United States.
+Measles cases reported in England and Wales.
+In developed countries, children are immunized against measles by the age of 18 months, generally as part of a three-part MMR vaccine (measles, mumps, and rubella). The vaccination is generally not given earlier than this because sufficient antimeasles immunoglobulins (antibodies) are acquired via the placenta from the mother during pregnancy may persist to prevent the vaccine viruses from being effective. A second dose is usually given to children between the ages of four and five, to increase rates of immunity. Vaccination rates have been high enough to make measles relatively uncommon. Adverse reactions to vaccination are rare, with fever and pain at the injection site being the most common. Life-threatening adverse reactions occur in less than one per million vaccinations (<0.0001%). 
+
+In developing countries where measles is highly endemic, WHO doctors recommend two doses of vaccine be given at six and nine months of age. The vaccine should be given whether the child is HIV-infected or not. The vaccine is less effective in HIV-infected infants than in the general population, but early treatment with antiretroviral drugs can increase its effectiveness. Measles vaccination programs are often used to deliver other child health interventions, as well, such as bed nets to protect against malaria, antiparasite medicine and vitamin A supplements, and so contribute to the reduction of child deaths from other causes. UNICEF Joint Press Release 
+
+Unvaccinated populations are at risk for the disease. Traditionally low vaccination rates in northern Nigeria dropped further in the early 2000s when radical preachers promoted a rumor that polio vaccines were a Western plot to sterilize Muslims and infect them with HIV. The number of cases of measles rose significantly, and hundreds of children died. This could also have had to do with the aforementioned other health-promoting measures often given with the vaccine.
+
+Claims of a connection between the MMR vaccine and autism were raised in a 1998 paper in The Lancet, a respected British medical journal. Later investigation by Sunday Times journalist Brian Deer discovered the lead author of the article, Andrew Wakefield, had multiple undeclared conflicts of interest, 
+
+ and had broken other ethical codes. The Lancet paper was later fully retracted, and Wakefield was found guilty by the General Medical Council of serious professional misconduct in May 2010, and was struck off the Medical Register, meaning he could no longer practise as a doctor in the UK. 
+
+The GMC's panel also considered two of Wakefield's colleagues: John Walker-Smith was also found guilty and struck off the Register; Simon Murch "was in error" but acted in good faith, and was cleared. Walker-Smith was later cleared and reinstated after winning an appeal; the appeal court's finding was based on the panel's conduct of the case, and gave no support to the MMR-autism hypothesis, which the official judgement described as lacking support from any respectable body of opinion. The research was declared fraudulent in 2011 by the BMJ. Scientific evidence provides no support for the hypothesis that MMR plays a role in causing autism. 
+
+The autism-related MMR study in Britain caused use of the vaccine to plunge, and measles cases came back: 2007 saw 971 cases in England and Wales, the biggest rise in occurrence in measles cases since records began in 1995. A 2005 measles outbreak in Indiana was attributed to children whose parents refused vaccination, as was another outbreak in 2008 in San Diego. 
+Centers for Disease Control and Prevention (CDC) reported that the three biggest outbreaks of measles in 2013 are attributed to clusters of unvaccinated people due to their philosophical or religious beliefs. As of August 2013, three pockets of outbreak, New York City; North Carolina and Texas contributed to 64% of the 159 cases of measles occurred in 16 states. This high number makes it on track to be the most cases since measles was considered eliminated in USA in 2000. 
+
+==Treatment==
+There is no specific treatment for measles. Most patients with uncomplicated measles will recover with rest and supportive treatment. It is, however, important to seek medical advice if the patient becomes more unwell, as they may be developing complications.
+
+Some patients will develop pneumonia as a sequel to the measles. Other complications include ear infections, bronchitis, and encephalitis. Acute measles encephalitis has a mortality rate of 15%. While there is no specific treatment for measles encephalitis, antibiotics are required for bacterial pneumonia, sinusitis, and bronchitis that can follow measles.
+
+All other treatment addresses symptoms, with ibuprofen or paracetamol to reduce fever and pain and, if required, a fast-acting bronchodilator for cough. As for aspirin, some research has suggested a correlation between children who take aspirin and the development of Reye syndrome. Some research has shown aspirin may not be the only medication associated with Reye, and even antiemetics have been implicated, with the point being the link between aspirin use in children and Reye's syndrome development is weak at best, if not actually nonexistent. Nevertheless, most health authorities still caution against the use of aspirin for any fevers in children under 16. "Epidemiologic evidence indicates that aspirin (salicylate) is the major preventable risk factor for Reye's syndrome. The mechanism by which aspirin and other salicylates trigger Reye's syndrome is not completely understood." 
+
+The use of vitamin A in treatment has been investigated. A systematic review of trials into its use found no significant reduction in overall mortality, but it did reduce mortality in children aged under two years. A specific drug treatment for measles ERDRP-0519 has shown promising results in animal studies, but has not yet been tested in humans. Will an anti-viral drug put paid to measles? New Scientist 16 April 2014 
+
+==Prognosis==
+The majority of patients survive measles, though in some cases, complications may occur, which may include bronchitis, and—in about 1 in 100,000 cases “Sub acute sclerosing panencephalitis” —panencephalitis, which is usually fatal. “NINDS Subacute Sclerosing Panencephalitis Information Page” The patient may spread the disease to an immunocompromised patient, for whom the risk of death is much higher, due to complications such as giant cell pneumonia. Acute measles encephalitis is another serious risk of measles virus infection. It typically occurs two days to one week after the breakout of the measles exanthem and begins with very high fever, severe headache, convulsions and altered mentation. A patient may become comatose, and death or brain injury may occur. 
+
+==Epidemiology==
+Disability-adjusted life year for measles per 100,000 inhabitants in 2002.
+
+Measles is extremely infectious and its continued circulation in a community depends on the generation of susceptible hosts by birth of children. In communities which generate insufficient new hosts the disease will die out. This concept was first recognized in measles by Bartlett in 1957, who referred to the minimum number supporting measles as the Critical community size. Analysis of outbreaks in island communities suggested that the CCS for measles is c. 250,000. 
+ 
+In 2011, the WHO estimated that there were about 158,000 deaths caused by measles. This is down from 630,000 deaths in 1990. In developed countries,death occurs about 1 in 1,000 cases (0.1%). In populations with high levels of malnutrition and a lack of adequate healthcare, mortality can be as high as 10%. In cases with complications, the rate may rise to 20–30%. Measles, World Health Organization Fact sheet N°286. Retrieved June 28, 2012. Updated February 2014 Increased immunization has led to a 78% drop in measles deaths which made up 25% of the decline in mortality in children under five. 
+
+ style=\"margin-left:1em;\" | Reported cases of disease, WHO statistics WHO: Global summary on measles, 2006 Measles Surveillance Data after WHO, last updated 2014-3-6 [http://www.who.int/immunization/monitoring_surveillance/burden/vpd/surveillance_type/active/big_measlesreportedcases6months_PDF.pdf Measles reported cases by WHO in 2014 Số người chết và mắc bệnh theo quốc gia, last update 2014-4-7 by WHO 
+ WHO-Region 1980 1990 2000 2005 2014 
+ African Region 1,240,993 481,204 520,102 316,224 12,125 
+ Region of the Americas 257,790 218,579 1,755 19 3,100 
+ Eastern Mediterranean Region 341,624 59,058 38,592 15,069 2,214 
+ European Region 851,849 234,827 37,421 37,332 2,430 
+ South-East Asia Region 199,535 224,925 61,975 83,627 1,540 
+ Western Pacific Region 1,319,640 155,490 176,493 128,016 34,310 
+ Worldwide 4,211,431 1,374,083 836,338 580,287 55,719 
+
+Even in countries where vaccination has been introduced, rates may remain high. In Ireland, vaccination was introduced in 1985. There were 99,903 cases that year. Within two years, the number of cases had fallen to 201, but this fall was not sustained. Measles is a leading cause of vaccine-preventable childhood mortality. Worldwide, the fatality rate has been significantly reduced by a vaccination campaign led by partners in the Measles Initiative: the American Red Cross, the United States Centers for Disease Control and Prevention (CDC), the United Nations Foundation, UNICEF and the WHO. Globally, measles fell 60% from an estimated 873,000 deaths in 1999 to 345,000 in 2005. Estimates for 2008 indicate deaths fell further to 164,000 globally, with 77% of the remaining measles deaths in 2008 occurring within the Southeast Asian region. WHO Weekly Epidemiology Record, 4th December 2009 WHO.int 
+
+In 2006–07 there were 12,132 cases in 32 European countries: 85% occurred in five countries: Germany, Italy, Romania, Switzerland and the UK. 80% occurred in children and there were 7 deaths. 
+
+Five out of six WHO regions have set goals to eliminate measles, and at the 63rd World Health Assembly in May 2010, delegates agreed a global target of a 95% reduction in measles mortality by 2015 from the level seen in 2000, as well as to move towards eventual eradication. However, no specific global target date for eradication has yet been agreed to as of May 2010. 
+
+On January 22, 2014, the World Health Organization and the Pan American Health Organization declared and certified Colombia free of the measles while becoming the first Latin American country to abolish the infection within its borders. Colombia, libre de sarampión y rubéola - Noticias de Salud, Educación, Turismo, Ciencia, Ecología y Vida de hoy - ELTIEMPO.COM Colombia fue declarada libre de sarampión y rubéol | ELESPECTADOR.COM 
+
+In Vietnam, in the Measles Epidemic in the beginning of 2014, unto April 19 had 8,500 measles cases, 114 fatalities. 
+
+==History and culture==
+
+===History===
+The Antonine Plague, 165–180 AD, also known as the Plague of Galen, who described it, was probably smallpox or measles. The disease killed as many as one-third of the population in some areas, and decimated the Roman army. Plague in the Ancient World Estimates of the timing of evolution of measles seem to suggest this plague was something other than measles. The first scientific description of measles and its distinction from smallpox and chickenpox is credited to the Persian physician Rhazes (860–932), who published The Book of Smallpox and Measles. Given what is now known about the evolution of measles, this account is remarkably timely.
+16th century Aztec drawing of someone with measles
+Measles is an endemic disease, meaning it has been continually present in a community, and many people develop resistance. In populations not exposed to measles, exposure to the new disease can be devastating. In 1529, a measles outbreak in Cuba killed two-thirds of the natives who had previously survived smallpox. Two years later, measles was responsible for the deaths of half the population of Honduras, and had ravaged Mexico, Central America, and the Inca civilization. 
+ 
+
+In roughly the last 150 years, measles has been estimated to have killed about 200 million people worldwide. Torrey EF and Yolken RH. 2005. Their bugs are worse than their bite. Washington Post, April 3, p. B01. During the 1850s, measles killed a fifth of Hawaii's people. Migration and Disease. Digital History. In 1875, measles killed over 40,000 Fijians, approximately one-third of the population. Fiji School of Medicine In the 19th century, the disease decimated the Andamanese population. Measles hits rare Andaman tribe. BBC News. May 16, 2006. In 1954, the virus causing the disease was isolated from an 11-year old boy from the United States, David Edmonston, and adapted and propagated on chick embryo tissue culture. To date, 21 strains of the measles virus have been identified. While at Merck, Maurice Hilleman developed the first successful vaccine. Licensed vaccines to prevent the disease became available in 1963. "Measles Prevention: Recommendations of the Immunization Practices Advisory Committee (ACIP)". Centers for Disease Control and Prevention (CDC). An improved measles vaccine became available in 1968. Measles: Questions and Answers, Immunization Action Coalition. 
+
+===Recent outbreaks===
+
+Hilleman's measles vaccine is estimated to prevent 1 million deaths every year. "[http://www.washingtonpost.com/wp-dyn/articles/A48244-2005Apr12.html Maurice R. Hilleman Dies; Created Vaccines". The Washington Post. April 13, 2005. ]]
+In 2007, a large outbreak in Japan caused a number of universities and other institutions to close in an attempt to contain the disease. 
+
+Many children in ultra-Orthodox Jewish communities were affected due to low vaccination coverage. As of 2008, the disease is endemic in the United Kingdom, with 1,217 cases diagnosed in 2008, 
+and epidemics have been reported in Austria, Italy and Switzerland. Eurosurveillance—View Article 
+
+On February 19, 2009, 505 measles cases were reported in twelve provinces in northern Vietnam, with Hanoi accounting for 160 cases. A high rate of complications, including meningitis and encephalitis, has worried health workers, and the U.S. CDC recommended all travelers be immunized against measles. AmCham Vietnam | Public Notice: Measles immunization recommendation. 
+
+Beginning in April 2009 there was a large outbreak of measles in Bulgaria, with over 24,000 cases including 24 deaths. From Bulgaria, the strain was carried to Germany, Turkey, Greece, Macedonia, and other European countries. 
+
+Beginning in September 2009, Johannesburg, South Africa reported about 48 cases of measles. Soon after the outbreak, the government ordered all children to be vaccinated. Vaccination programs were then initiated in all schools, and parents of young children were advised to have them vaccinated. Many people were not willing to have the vaccination done, as it was believed to be unsafe and ineffective. The Health Department assured the public that their program was indeed safe. Speculation arose as to whether or not new needles were being used. By mid-October, there were at least 940 recorded cases, and four deaths. 
+
+In early 2010, there was a serious outbreak of measles in the Philippines with 742 cases, leaving four unvaccinated children dead in the capital city of Manila. 
+
+As of May 2011, over 17,000 cases of measles have so far been reported from France between January 2008 and April 2011, including 2 deaths in 2010 and 6 deaths in 2011. Over 7,500 of these cases fell in the first three months of 2011, and Spain, Turkey, Macedonia, and Belgium have been among the other European countries reporting further smaller outbreaks. The French outbreak has been specifically linked to a further outbreak in Quebec in 2011, where 327 cases have been reported between January and June 1, 2011, and the European outbreaks in general have also been implicated in further small outbreaks in the USA, where 40 separate importations from the European region had been reported between January 1 and May 20. 
+
+Some experts stated that the persistence of the disease in Europe could be a stumbling block to global eradication. It has proven difficult to vaccinate a sufficient number of children in Europe to eradicate the disease, because of opposition on philosophical or religious grounds, or fears of side-effects, or because some minority groups are hard to reach, or simply because parents forget to have their children vaccinated. Vaccination is not mandatory in some countries in Europe, in contrast to the United States and many Latin American countries, where children must be vaccinated before they enter school. 
+
+In March 2013, an epidemic was declared in Swansea, Wales, UK with 1,219 cases and 88 hospitalizations to date. A 25-year-old male had measles at the time of death and died from giant cell pneumonia caused by the disease. There have been growing concerns that the epidemic could spread to London and infect many more people due to poor MMR uptake, prompting the Department of Health to set up a mass vaccination campaign targeted at one million school children throughout England. 
+
+In late 2013, it was reported in the Philippines that 6,497 measles cases occurred which resulted in 23 deaths. 
+
+In 2014 many unvaccinated US citizens visiting the Philippines, and other countries, contracted measles, resulting in 288 cases being recorded in the United States in the first five months of 2014, a twenty year high. 
+
+====The Americas====
+Indigenous measles was declared to have been eliminated in North, Central, and South America; the last endemic case in the region was reported on November 12, 2002, with only northern Argentina and rural Canada, particularly in Ontario, Quebec, and Alberta, having minor endemic status. North York: Measles outbreak may bring new strategy, May 2008 Outbreaks are still occurring, however, following importations of measles viruses from other world regions. In June 2006, an outbreak in Boston resulted after a resident became infected in India. 
+
+Between January 1 and April 25, 2008, a total of 64 confirmed measles cases were preliminarily reported in the United States to the CDC, JS Online: Measles outbreak brewing, city health officials say the most reported by this date for any year since 2001. Of the 64 cases, 54 were associated with importation of measles from other countries into the United States, and 63 of the 64 patients were unvaccinated or had unknown or undocumented vaccination status. By July 9, 2008, a total of 127 cases were reported in 15 states (including 22 in Arizona), making it the largest U.S. outbreak since 1997 (when 138 cases were reported). Most of the cases were acquired outside of the United States and afflicted individuals who had not been vaccinated. By July 30, 2008, the number of cases had grown to 131. Of these, about half involved children whose parents rejected vaccination. The 131 cases occurred in seven different outbreaks. There were no deaths, and 15 hospitalizations. Eleven of the cases had received at least one dose of measles vaccine. Children who were unvaccinated or whose vaccination status was unknown accounted for 122 cases. Some of these were under the age when vaccination is recommended, but in 63 cases, the vaccinations had been refused for religious or philosophical reasons. 
+
+In March 2014 Fraser Valley British Columbia Canada there was an outbreak spreading to Burnaby BC. 
+
+== See also ==
+*Pulse vaccination strategy
+*Critical community size
+*Vaccine-naive
+
+==References==
+
+==External links==
+
+*WHO.int—'Initiative for Vaccine Research (IVR): Measles', World Health Organization (WHO)
+*Measles FAQ from Centers for Disease Control and Prevention in the United States
+*Case of an adult male with measles (facial photo)
+*Clinical pictures of measles
+* Virus Pathogen Database and Analysis Resource (ViPR): Paramyxoviridae
+
+ 
+
+

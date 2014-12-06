@@ -1,0 +1,5 @@
+[[Edmond Halley]]
+| discovery_date = 1758 (first ''predicted'' perihelion)
+| designations = Halley's Comet, Comet Halley
+| epoch = 2449400.5 <br /> (17 February 1994)
+| aphelion = 35.0823

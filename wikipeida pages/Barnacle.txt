@@ -1,0 +1,110 @@
+[[Barnacle]]
+
+A barnacle is a type of arthropod constituting the infraclass Cirripedia in the subphylum Crustacea, and is hence related to crabs and lobsters. Barnacles are exclusively marine, and tend to live in shallow and tidal waters, typically in erosive settings. They are sessile (non-motile) suspension feeders, and have two nektonic (active swimming) larval stages. Around 1,220 barnacle species are currently known. The name "Cirripedia" is Latin, meaning "curl-footed".
+
+==Ecology==
+higher resolution)]]
+Barnacles are encrusters, attaching themselves permanently to a hard substrate. The most common, "acorn barnacles" (Sessilia), are sessile, growing their shells directly onto the substrate. The order Pedunculata ("goose barnacles" and others) attach themselves by means of a stalk. 
+
+Most barnacles are suspension feeders; they dwell continually in their shell – which is usually constructed of six plates – and reach into the water column with modified legs. These feathery appendages beat rhythmically to draw plankton and detritus into the shell for consumption. 
+
+Other members of the class have quite a different mode of life. For example, members of the genus Sacculina are parasitic, dwelling within crabs. 
+
+Although they have been found at water depths up to 600 m, most barnacles inhabit shallow waters, with 75% of species living in water depths of less than 100 m, and 25% inhabiting the intertidal zone. Within the intertidal zone, different species of barnacle live in very tightly constrained locations, allowing the exact height of an assemblage above or below sea level to be precisely determined. 
+
+Since the intertidal zone periodically desiccates, barnacles are well adapted against water loss. Their calcite shells are impermeable, and they possess two plates which they can slide across their aperture when not feeding. These plates also protect against predation. 
+
+Barnacles and limpets compete for space in the intertidal zone.
+Barnacles are displaced by limpets and mussels, which compete for space. They also have numerous predators. They employ two strategies to overwhelm their competitors: "swamping" and fast growth. In the swamping strategy, vast numbers of barnacles settle in the same place at once, covering a large patch of substrate, allowing at least some to survive in the balance of probabilities. Fast growth allows the suspension feeders to access higher levels of the water column than their competitors, and to be large enough to resist displacement; species employing this response, such as the aptly named Megabalanus, can reach 7 cm in length; other species may grow larger still (Austromegabalanus psittacus).
+
+Competitors may include other barnacles, and there is (disputed) evidence that balanoid barnacles competitively displaced chthalamoid barnacles. Balanoids gained their advantage over the chthalamoids in the Oligocene, when they evolved a tubular skeleton. This provides better anchorage to the substrate, and allows them to grow faster, undercutting, crushing and smothering the latter group. 
+
+Among the most common predators on barnacles are whelks. They are able to grind through the calcareous exoskeletons of barnacles and feed on the softer inside parts. Mussels also prey on barnacle larvae. Another predator on barnacles is the starfish species Pisaster ochraceus. 
+
+==Adult anatomy==
+Goose barnacles, with their cirri extended for feeding
+Free-living barnacles are attached to the substratum by cement glands that form the base of the first pair of antennae; in effect, the animal is fixed upside down by means of its forehead. In some barnacles, the cement glands are fixed to a long muscular stalk, but in most they are part of a flat membrane or calcified plate. A ring of plates surrounds the body, homologous with the carapace of other crustaceans. These consist of the rostrum, two lateral plates, two carino-laterals and a carina. Let's learn about the body structure of a barnacle Retrieved 2011-11-28. In sessile barnacles, the apex of the ring of plates is covered by an operculum, which may be recessed into the carapace. The plates are held together by various means, depending on species, in some cases being solidly fused.
+
+Inside the carapace, the animal lies on its back, with its limbs projecting upwards. Segmentation is usually indistinct, and the body is more or less evenly divided between the head and thorax, with little, if any, abdomen. Adult barnacles have few appendages on the head, with only a single, vestigial, pair of antennae, attached to the cement gland. There are six pairs of thoracic limbs, referred to as "cirri", which are feathery and very long, being used to filter food from the water and move it towards the mouth.
+
+Barnacles have no true heart, although a sinus close to the oesophagus performs similar function, with blood being pumped through it by a series of muscles. The blood vascular system is minimal. Similarly, they have no gills, absorbing oxygen from the water through their limbs and the inner membrane of the carapace. The excretory organs of barnacles are maxillary glands.
+
+The main sense of barnacles appears to be touch, with the hairs on the limbs being especially sensitive. The adult also has a single eye, although this is probably only capable of sensing the difference between light and dark. This eye is derived from the primary naupliar eye. 
+
+===Parasitic barnacles===
+The anatomy of parasitic barnacles is generally simpler than that of their free-living relatives. They have no carapace or limbs, having only an unsegmented sac-like body. Such barnacles feed by extending thread-like rhizomes of living cells into the host's body from their point of attachment. 
+
+==Life cycle==
+Barnacles have two distinct larval stages, the nauplius and the cyprid, before developing into a mature adult.
+
+===Nauplius===
+Nauplius larva of Elminius modestus
+A fertilised egg hatches into a nauplius: a one-eyed larva comprising a head and a telson, without a thorax or abdomen. This undergoes 6 months of growth, passing through five instars, before transforming into the cyprid stage. Nauplii are typically initially brooded by the parent, and released after the first moult as larvae that swim freely using setae. 
+
+===Cyprid===
+
+The cyprid larva is the last larval stage before adulthood. It is a non-feeding stage whose role is to find a suitable place to settle, since the adults are sessile. The cyprid stage lasts from days to weeks. It explores potential surfaces with modified antennules; once it has found a potentially suitable spot, it attaches head-first using its antennules, and a secreted glycoproteinous substance. Larvae assess surfaces based upon their surface texture, chemistry, relative wettability, colour and the presence/absence and composition of a surface biofilm; swarming species are also more likely to attach near to other barnacles. As the larva exhausts its finite energy reserves, it becomes less selective in the sites it selects. It cements itself permanently to the substrate with another proteinacous compound, and then undergoes metamorphosis into a juvenile barnacle. 
+
+===Adult===
+Typical acorn barnacles develop six hard calcareous plates to surround and protect their bodies. For the rest of their lives they are cemented to the ground, using their feathery legs (cirri) to capture plankton.
+
+Once metamorphosis is over and they have reached their adult form, barnacles will continue to grow by adding new material to their heavily calcified plates. These plates are not moulted; however, like all ecdysozoans, the barnacle itself will still molt its cuticle. In A. J. Southward (ed.), 1987. 
+
+===Sexual reproduction===
+Most barnacles are hermaphroditic, although a few species are gonochoric or androdioecious. The ovaries are located in the base or stalk, and may extend into the mantle, while the testes are towards the back of the head, often extending into the thorax. Typically, recently molted hermaphroditic individuals are receptive as females. Self-fertilization, although theoretically possible, has been experimentally shown to be rare in barnacles. In A. J. Southward (ed.), 1987. 
+
+The sessile lifestyle of barnacles makes sexual reproduction difficult, as the organisms cannot leave their shells to mate. To facilitate genetic transfer between isolated individuals, barnacles have extraordinarily long penises. Barnacles probably have the largest penis to body size ratio of the animal kingdom. 
+
+Barnacles can also reproduce through a method called spermcasting, in which the male barnacle releases his sperm into the water and females pick it up and fertilise their eggs. 
+
+==Fossil record==
+Miocene (Messinian) Megabalanus, smothered by sand and fossilised
+The geological history of barnacles can be traced back to animals such as Priscansermarinus from the Middle Cambrian (on the order of ), In A. J. Southward (ed.), 1987. although they do not become common as skeletal remains in the fossil record until the Neogene (last 20 million years). In part their poor skeletal preservation is due to their restriction to high-energy environments, which tend to be erosional – therefore it is more common for their shells to be ground up by wave action than for them to reach a depositional setting. Trace fossils of acrothoracican barnacle borings (Rogerella) are common in the fossil record from the Devonian to the Recent.
+
+Barnacles can play an important role in estimating palæo-water depths. The degree of disarticluation of fossils suggests the distance they have been transported, and since many species have narrow ranges of water depths, it can be assumed that the animals lived in shallow water and broke up as they were washed down-slope. The completeness of fossils, and nature of damage, can thus be used to constrain the tectonic history of regions. 
+
+==History of taxonomy==
+Balanus improvisus, one of the many barnacle taxa erected by Charles Darwin
+Barnacles were originally classified by Linnaeus and Cuvier as Mollusca, but in 1830 John Vaughan Thompson published observations showing the metamorphosis of the nauplius and cypris larvae into adult barnacles, and noted how these larvae were similar to those of crustaceans. In 1834 Hermann Burmeister published further information, reinterpreting these findings. The effect was to move barnacles from the phylum of Mollusca to Articulata, showing naturalists that detailed study was needed to reevaluate their taxonomy. 
+
+Charles Darwin took up this challenge in 1846, and developed his initial interest into a major study published as a series of monographs in 1851 and 1854. Darwin undertook this study at the suggestion of his friend Joseph Dalton Hooker, in order to thoroughly understand at least one species before making the generalisations needed for his theory of evolution by natural selection. 
+
+==In human culture==
+Barnacles slowly reclaim pilings along the Siuslaw River in Oregon
+Barnacles are of economic consequence as they often attach themselves to man-made structures, sometimes to the structure's detriment. Particularly in the case of ships, they are classified as fouling organisms. 
+
+Some barnacles are considered edible by humans, and goose barnacles (e.g. Pollicipes pollicipes), in particular, are a delicacy in Spain and Portugal. The resemblance of this barnacle's fleshy stalk to a goose's neck gave rise in ancient times to the notion that geese, or at least certain seagoing species of wild goose, literally grew from the barnacle. Indeed, the word "barnacle" originally referred to a species of goose, the Barnacle goose Branta leucopsis, whose eggs and young were rarely seen by humans because it breeds in the remote Arctic. "...all the evidence shows that the name was originally applied to the bird which had the marvellous origin, not to the shell..." Oxford English Dictionary, 2nd Edition, 1989 
+
+The picoroco barnacle is used in Chilean cuisine and is one of the ingredients in curanto.
+
+==Classification==
+Semibalanus balanoides (Thoracica: Sessilia) feeding
+Some authorities regard Cirripedia as a full class or subclass, and the orders listed above are sometimes treated as superorders. In 2001, Martin and Davis placed Cirripedia as an infraclass of Thecostraca and divided it into six orders: 
+
+Infraclass Cirripedia Burmeister, 1834
+* Superorder Acrothoracica Gruvel, 1905
+** Order Pygophora Berndt, 1907
+** Order Apygophora Berndt, 1907
+* Superorder Rhizocephala Müller, 1862
+** Order Kentrogonida Delage, 1884
+** Order Akentrogonida Häfele, 1911
+* Superorder Thoracica Darwin, 1854
+** Order Pedunculata Lamarck, 1818
+** Order Sessilia Lamarck, 1818
+
+==References==
+
+===Bibliography===
+*
+
+==External links==
+
+* Barnacles from the Marine Education Society of Australasia
+* Barnacles in Spain Article on barnacles in Spain, and their collection and gastronomy.
+*
+*
+*
+
+ 
+
+

@@ -1,0 +1,269 @@
+[[Hopi language]]
+
+Hopi (Hopi: Hopílavayi) is a Uto-Aztecan language spoken by the Hopi people (a Pueblo group) of northeastern Arizona, USA, although today some Hopi are monolingual English speakers.
+
+The use of the language has gradually declined over the course of the 20th century. In 1990, it was estimated that more than 5,000 people could speak Hopi as a native language (approximately 75% of the population); at least 40 of them were monolingual in Hopi.
+
+== Teaching and language revitalization efforts ==
+The Hopi people are teaching the children the language to be passed on for future generations. 
+Many Hopi children are being raised in the language. A comprehensive Dictionary: Hopìikwa Lavàytutuveni|Hopi-English dictionary] edited by Emory Sekaquaptewa and others has been published, and a group called the Hopi Literacy Project has focused its attention on promoting the language. As of 2013, "a pilot language revitalization project, the Hopi Lavayi Nest Model Program, for families with children birth through 5," is being planned for the village of Sipaulovi." 
+
+== Language variation ==
+
+Benjamin Whorf identifies four varieties (dialects) of Hopi:
+
+* First Mesa (or Whorf's Polacca)
+* Mishongnovi (or Whorf's Toreva)
+* Shipaulovi (or Whorf's Sipaulovi)
+* Third Mesa (or Whorf's Oraibi)
+
+First Mesa is spoken on First Mesa (which is the eastern mesa) in Polacca village in Walpi pueblo and in other neighboring communities. Polacca is at the base of First Mesa, unlike the other villages, which are on the top of the mesa. Polacca is shared by Hopi and Tewa peoples. A community of Arizona Tewa live on First Mesa, and its members speak Tewa, in addition to a variety of Hopi and English and Spanish.
+
+Mishongnovi is spoken on Second Mesa (which is the central mesa) in Mishongnovi village. Mishongnovi has few speakers compared to First and Third Mesa dialects. Shipaulovi is also spoken on Second Mesa in Shipaulovi village, which is close to Mishongnovi village. Whorf notes that other villages on Second Mesa are of unknown dialectal affiliation.
+
+An introductory textbook (Kalectaca 1978) has been written by a Shongopavi speaker. Shongopavi is another village on the Second Mesa, but its relation to other dialects has not been analyzed. The Third Mesa dialect is spoken on Third Mesa (which is the western mesa) at Oraibi village and in neighboring communities, as well as in Moenkopi village, which lies off Third Mesa and at a distance west of it.
+
+The first published analysis of the Hopi language is Benjamin Whorf's study of Mishongnovi Hopi. His work was based primarily on a single off-reservation informant, but it was later checked by other reservation speakers. In his study, he states that Mishongnovi is the most archaic and phonemically complex of the dialects. The Third Mesa dialect preserves some older relics that have been lost in Mishongnovi.
+
+Malotki (1983) reports that Third Mesa speakers of younger generations have lost the labialization feature of w on the different subject subordinator -qw after the vowels a, i, e, u where they have -q instead. This loss of labialization is also found on the simultaneity marker where younger speakers have -kyang against older -kyangw. In words with kw or ngw in the syllable coda, the labialization is also lost: naksu (younger) vs. nakwsu (older) "he started out", hikni (younger) vs. kikwni (older) "he will drink", tuusungti (younger) vs. tuusungwti (older) "he got frozen".
+
+== Language contact ==
+Hopi is part of the Pueblo linguistic area (a Sprachbund) along with members of the Tanoan family, the Keresan languages, Zuni, and Navajo.
+
+Hopi speakers have traditionally used Hopi as the language of communication with Zuni. They have also been in close contact with a Tanoan language for over 300 years since the Arizona Tewa, who speak Tewa, moved from the Galisteo Basin following the Pueblo Revolt to reside on First Mesa. The Arizona Tewa have traditionally acted as translators for the Hopi-speaking Tewa, Hopi, Navajo, Spanish, and English.
+
+The Hopi had cursory contact with Spanish beginning with the explorers in 1540. In 1629 a small group of Franciscan missionaries started arriving in Hopi territory, building a church the following year. They remained there until 1680 when the Pueblo Revolt occurred and the Hopi expelled the Spanish from the region. Both the practices of the Spanish when there, and the stories of negative experiences of Puebloan refugees from the Rio Grande region, contributed to a Hopi attitude where acculturation was resisted or rejected.
+
+A number of studies (Dockstader 1955, Hymes 1956, Kennard 1963, Hill 1997) have focused on loanwords (words borrowed into Hopi from other languages).
+
+== Phonology ==
+
+=== Vowels ===
+
+There are six basic vowels Four Hopi vowels are pronounced similarly to English vowels while two — ö and u — are quite different. in Hopi in a skewed system.
+
+:
+ Front Non-front 
+ unrounded rounded unrounded rounded 
+ High i [] u [] 
+ Mid ö [] o [] 
+ Low e [] a [] 
+
+The vowel "ö" in Hopi is pronounced by rounding the vowel found in words like English pet. It then becomes more equivalent to the IPA sound .
+
+For the Hopi sound "u", it is necessary to unround the vowel and articulate further forward in the mouth. This adjustment is closest to the IPA vowel .
+
+=== Consonants ===
+
+Hopi dialects differ in their number of consonants. Below are two separate inventories of the Third Mesa and Mishongnovi dialects. The Third Mesa inventory has orthographic symbols and IPA transcriptions of those symbols when the IPA symbol differs from the orthographic symbol.
+
+ Third Mesa Hopi Labial Alveolar Post-alveolar Palatal Velar Glottal 
+ fronted neutral backed 
+ plain fricated labial plain 
+ Stop p t ts ky kw k q ’ The glottal stop is found much more frequently in Hopi than in English, particularly at the beginning of a word, before the final consonant, or at the ends of words after a vowel. 
+ Fricative voiceless s h 
+ voiced v r 
+ Nasal m n ngy ngw ng 
+ Approximant l y w 
+
+ Mishongnovi Hopi Labial Alveolar Post-alveolar Palatal Velar Glottal 
+ fronted neutral backed 
+ plain fricated labial plain 
+ Stop plain 
+ preaspirated 
+ Fricative voiceless 
+ voiced 
+ Nasal voiceless 
+ voiced 
+ Approximant voiceless 
+ voiced 
+
+As seen above, the Mishongnovi dialect has a larger number of consonants when compared with the Third Mesa dialect. The additional consonants are a series of preaspirated stops and a series of voiceless sonorants.
+
+The voiced labial fricative v varies (idiolectal free variation) between labiodental and bilabial . Before a consonant (word-medially) and at the end of words, it is not voiced although its realization is dependant upon dialect. Third Mesa speakers have a voiceless bilabial stop . Mishongnovi speakers have a voiceless labial syllable-finally.
+
+The alveolar sibilants ts and s are apical. In some Third Mesa speakers, they are palatalized to and which sound similar to laminal and . In Mishongnovi, ts is palatalized when at the beginning of syllables and non-palatalized elsewhere.
+
+Hopi has a number of stop contrasts at the velar place of articulation that occur before the low vowel a. Elsewhere, the contrasts are neutralized. The velar in environments of neutralization is called "neutral" k by Jeanne (1978). Before the front vowels i and e, it is palatalized with a fronted articulation and following palatal glide . Thus, ki and ke are respectively and . Before the back vowels u and o, k is a typically velar: ku as , ko . Before the mid vowels ö, k has a backed articulation: kö as . Before a, however, the fronted velar with following palatal glide and the backed velar contrast. Complicating this pattern are words borrowed from Spanish that have a velar followed by a low vowel. With the addition of these loanwords, a third velar contrast has been introduced into Hopi. Words with this borrowed velar are "neutral" and typically velar in articulation. Thus, there is a distinction between kya and qa in native words both of which are distinct from ka in loanwords. The precise phonetics of the these k consonants is unclear due to vague descriptions in the literature. Voegelin (1956) suggests that the fronted ky is distinguished more by presence of the palatal glide than by the difference in the articulatory position of the dorsal contact. He also mentions that the backed q is "not-so-far-back". This suggests that q is post-velar and not quite uvular. Malotki (1983) describes the ky and (Spanish) k as palatal and q (and qw) as velar. Whorf (1946) describes k (= ky) as palatal with palatal glide before some vowels, Spanish ḳ as "ordinary k", and q as velar. Whorf's letter to Clyde Kluckhohn in Kluckhohn & MacLeish (1955) describes q as being like Arabic or Nootka q, which suggests a uvular articulation. Whorf's phonemicization of Mishongnovi posits k occurring before i, u, e, o, a (with a fronted allophone before i, e, a); backed q occurring before e, ö, a; and borrowed ḳ before a in Spanish loans.
+
+Similarly to ky and q, Hopi has a fronted dorsal nasal ngy and a backed dorsal nasal ng. The fronted nasal is palatal . The backed nasal is described as velar in Third Mesa speech and thus forms a "neutral" series with "neutral" k. In Mishongnovi speech, Whorf describes the backed nasal as having the more rear articulation of q: .
+
+The retroflex r varies between a retroflex fricative and a flap although the fricative realization is much more common. In Mishongnovi, r is only weakly fricative. In syllable coda position, r is devoiced to a voiceless fricative .
+
+The preaspirated stops and voiceless sonorants of Mishongnovi only occur in syllable coda position. However, they do contrast with plain stops and voiced sonorants in this position. Whorf notes that the preaspirated stops also contrast with a similar sequence of + stop.
+
+=== Syllable structure ===
+
+The most common syllable clusters are CV and CVC.
+
+The CVCC cluster is very rare due to limited number of CC combinations in the language. This also makes it unusual to find the intersyllabic clusters C-C and CC-C.
+
+=== Stress ===
+
+The stress pattern in Hopi follows a simple rule that applies to nearly all words.
+
+* In words with one or two vowels, the first vowel is stressed.
+* Where there are more than two vowels, the first vowel is stressed if it is long or it is directly followed by two consonants. Otherwise, the second vowel is stressed.
+
+Some exceptions to this rule are sikisve "car", wehekna "spill" and warikiwta ""running". We would expect the second vowel to be stressed but in fact the first one is stressed in these examples.
+
+=== Tone ===
+
+The Third Mesa dialect of Hopi has developed tone on long vowels, diphthongs, and vowel + sonorant sequences. This dialect has either falling tones or level tones.
+
+The falling tone (high-low) in the Third Mesa dialect corresponds to either a vowel + preaspirated consonant, a vowel + voiceless sonorant, or a vowel + h sequence in the Second Mesa dialect recorded by Whorf.
+
+== Morphology ==
+
+=== Suffixes ===
+
+Hopi uses suffixes for a variety of purposes. Some examples are:
+
+suffix purpose example meaning 
+ mi to, towards itamumi towards us 
+ ni future tuuvani will throw 
+ ngwu habitual suffix tuuvangwu usually throws 
+ pe location Ismo'walpe at Ismo'wala 
+ q distance suffix atkyamiq all the way to the bottom 
+ 
+
+Hopi also has free postpositions:
+
+akw with (instrumental) 
+ angkw from 
+ ep at/in/on 
+ 
+
+Nouns are marked as oblique by either the suffixes -t for simple nouns or -y for dual nouns (those referring to exactly two individuals), possessed nouns or plural nouns.
+
+Some examples are shown below:
+
+nominative oblique meaning 
+ himutski himutskit shrub 
+ iisaw iisawuy coyote 
+ itam itamuy we/us 
+ nuva nuvat snow 
+ nu' nuy I/me 
+ paahu paahut spring water 
+ pam put he/she/it 
+ puma pumuy they 
+ tuuwa tuuwat sand 
+ um ung you 
+
+Verbs are also marked by suffixes but these are not used in a regular pattern. For example the suffixes -lawu and -ta are both used to make a simple verb into a durative one (implying the action is ongoing and not yet complete) but it is hard to predict which suffix applies to which verbs. Second language learners of Hopi usually simply learn this by rote.
+
+There are some gender specific terms in Hopi:
+
+male speech female speech meaning 
+ a'ni hin'ur very 
+ kwakwhay askwali thank you 
+ 
+
+=== Morphological processes ===
+
+* Elision - when the stress-shift would cause a clipped vowel not in the first syllable to have a low stress, that vowel is elided.
+
+* Lenition - initial p becomes v when it becomes internal to a word or when the word is preceded by another word used as an adjectival or an incorporated verbal modifier.
+
+* Reduplication - stem-initial CV, stem-final CV and word-final V are reduplicated.
+
+== Syntax ==
+
+=== Word Order ===
+
+The simplest type of sentence in Hopi consists of simply a subject and a predicate, such as 'Maana wuupa' (the girl is tall).
+
+However, many Hopi sentences also include an object which is inserted between the subject and the verb. Thus, Hopi is a subject–object–verb language.
+
+=== Case Marking ===
+
+Nouns are marked as nominative or oblique as shown above.
+
+Pronouns are also marked as either nominative or oblique. For example, the singular subject pronoun you in Hopi is um and the form for the singular object pronoun is ung.
+
+Demonstratives are marked by case in Hopi, shown here first in their nominative form and then in their oblique form:
+
+iˈ/it - this
+
+pam/put - that (closer object)
+
+miˈ/mit - that (further object)
+
+ima/imuy - these
+
+puma/pumuy - those (closer object)
+
+mima/mimuy - those (further object)
+
+=== Number ===
+Hopi has plural verbs. Dual noun subjects take the dual suffix -vit but singular verbs. Hopi does not have dual pronouns; instead, the plural pronouns may be used with singular verbs for a dual meaning. Noun and verb plurality is indicated, among other devices, by partial reduplication, marked in the gloss below with a tilde (~).)
+
+ Noun subject Pronoun subject 
+ Sg taaqa nøøsa ni’ nøøsa 
+ a man ate I ate 
+ Du taaqa-vit nøøsa itam nøøsa 
+ two men ate we two ate 
+ Pl taa~taqt nøø~nøsa itam nøø~nøsa 
+ several men ate we all ate 
+
+== Writing System ==
+
+Hopi is written using the Latin alphabet. The vowel letters correspond to the phonemes of Hopi as follows: a , e , i , o , u and ö ). Long vowels are written double: aa, ee, ii, oo, uu, öö.
+
+Consonants are: ’ , h , k , ky , kw , l , m , n , ng , ngw , ngy , p , q , qw , r , s , t , ts , v , w , y .
+
+Falling accent is marked with a grave `: tsiròot 'birds'.
+
+To distinguish certain consonants written as digraphs from similar looking phonemes meeting across syllable boundaries, a fullstop is used: kwaahu 'eagle' but kuk.wuwàaqe 'to follow tracks'.
+
+== Metalinguistics ==
+
+Benjamin Lee Whorf, a well-known linguist and to this day one of the foremost authorities on the relationships obtaining between southwestern and Central American languages, used the Hopi language to exemplify his argument that one's world-view is affected by one's language and vice-versa. Among Whorf's best-known claims was that Hopi had “no words, grammatical forms, construction or expressions that refer directly to what we call “time.” Carroll, John B. (ed.)(1956). Language Thought and Reality: Selected Writings of Benjamin Lee Whorf. MIT Press, Boston, Massachusetts. ISBN 0-262-73006-5, ISBN 978-0-262-73006-8 Whorf's statement has been misunderstood to mean that Hopi has no concept of duration or succession of time, but in fact he meant only that the Hopi have no conception of time as an object or substance that may be divided and subdivided . Furthermore, according to John A. Lucy, many of Whorf's critics have failed to read his writings accurately, preferring instead to proffer uncharitable caricatures of his arguments. Lucy, John (1992). Language Diversity and Thought: A Reformulation of the Linguistic Relativity Hypothesis. Cambridge University Press, Cambridge, UK. The existence of temporal concepts in the Hopi language was extensively documented by Ekkehart Malotki, Malotki, 1983 while other linguists and philosophers are skeptical of Whorf's broader argument and his findings on Hopi have been disputed or rejected by some. 
+
+== See also ==
+* 
+* Qatsi trilogy
+
+== Notes ==
+
+== Bibliography ==
+
+* Brew, J. O. (1979). Hopi prehistory and history to 1850. In A. Ortiz (Ed.), Handbook of North American Indians: Southwest (Vol. 9, pp. 514–523). Washington, D.C.: Smithsonian Institution.
+* Connelly, John C. (1979). Hopi social organization. In A. Ortiz (Ed.), Handbook of North American Indians: Southwest (Vol. 9, pp. 539–553). Washington, D.C.: Smithsonian Institution.
+* 
+* Harrington, John P. (1913). fieldnotes based on work with a speaker of Oraibi Hopi. (National Anthropological Archives, Smithsonian Institution).
+* Hill, Kenneth C. (1997). Spanish loanwords in Hopi. In J. H. Hill, P. J. Mistry, & L. Campbell (Eds.), The life of language: Papers in linguistics in honor of William Bright (pp. 19–24). Trends in linguistics: Studies and monographs (No. 108). Berlin: Mouton de Gruyter.
+* Hopi Dictionary Project (University of Arizona Bureau of Applied Research in Anthropology). (1998). Hopi dictionary: Hopìikwa Lavàytutuveni: A Hopi-English dictionary of the Third Mesa dialect with an English-Hopi finder list and a sketch of Hopi grammar. Tucson, Arizona: University of Arizona Press. ISBN 0-8165-1789-4
+* 
+* Jeanne, LaVerne Masayesva. (1978). Aspects of Hopi grammar. (Doctoral dissertation, MIT). hdl.handle.net/1721.1/16325
+* 
+* Kalectaca, Milo. (1978). Lessons in Hopi. Tucson, Arizona: University of Arizona Press.
+* 
+* Kennard, Edward A.; & Albert Yava. (1999). Field Mouse Goes to War: Tusan Homichi Tuwvöta. Palmer Lake, Colorado: Filter Press.
+* 
+* Lucy, John. (1992). Language Diversity and Thought: A Reformulation of the Linguistic Relativity Hypothesis. Cambridge University Press, Cambridge, UK
+* 
+* Malotki, Ekkehart. (1983). Hopi time: A linguistic analysis of the temporal concepts in the Hopi language. Trends in linguistics: Studies and monographs (No. 20). Mouton De Gruyter.
+* Seaman, P. David. (1977). Hopi Linguistics: An Annotated Bibliography. Anthropological Linguistics, 19 (2), 78-97. http://www.jstor.org/stable/30027313
+* Seqaquaptewa, E. (1994). Iisaw niqw tsaayantotaqam tsiròot. Santa Fe, NM: Clear Light.
+* Seqaquaptewa, E. (1994). Iisaw niqw yöngösonhoya. Santa Fe, NM: Clear Light.
+* Stephen, Alexander M. (1936). Hopi journal of Alexander M. Stephen. Parsons, E. C. (Ed.). Columbia University contributions to anthropology (No. 23). New York: Columbia University Press.
+* 
+* 
+* Whorf, Benjamin Lee. (1936). on Hopi grammar and pronunciation; Mishongnovi forms. In E. C. Parsons (Ed.), Hopi journal of Alexander M. Stephen (Vol. 2, pp. 1198–1326). Columbia University contributions to anthropology (No. 23). New York: Columbia University Press.
+* 
+* 
+* Whorf, Benjamin Lee. (1941). The relation of habitual thought and behavior to language. In L. Spier, A. I. Hallowell, & S. S. Newman (Eds.), Language, culture, and personality: Essays in memory of Edward Sapir (pp. 75–93). Menasha, WI: Sapir Memorial Publication Fund.
+* Whorf, Benjamin Lee. (1946). The Hopi language, Toreva dialect. In C. Osgood (Ed.), Linguistic structures of native America (pp. 158–183). Viking Fund publications in anthropology (No. 6). New York: The Viking Fund, Inc.
+* 
+* 
+* Whorf, Benjamin Lee. (1956). Discussion of Hopi linguistics. In J. B. Carroll (Ed.), Language, thought, and reality: Selected writings of Benjamin L. Whorf (pp. 102–111). New York: John Wiley.
+
+== External links ==
+* Hopi Swadesh list of basic vocabulary words (from Wiktionary's Swadesh-list appendix)
+* Hopi: Survey of an Uto-Aztecan Language
+* Hopi -na (LaVerne Jeanne and Kenneth L. Hale)
+* Lessons in the Hopi language by the University of Arizona Press (free downloadable PDF)
+* How to count in Hopi
+
+

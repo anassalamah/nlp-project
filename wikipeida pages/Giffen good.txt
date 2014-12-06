@@ -1,0 +1,69 @@
+[[Giffen good]]
+
+In economics and consumer theory, a Giffen good is a product that people consume more of as the price rises—violating the law of demand. Normally, as the price of goods rises, the substitution effect makes consumers purchase less of it, and more of substitute goods. In the Giffen goods situation, the income effect dominates, leading people to buy more of the goods, even as its price rises.
+
+==Analysis==
+Types of goods in economics
+Evidence for the existence of Giffen goods is limited, but microeconomic mathematical models explain how such a thing could exist. Giffen goods are named after Scottish economist Sir Robert Giffen, to whom Alfred Marshall attributed this idea in his book Principles of Economics. Giffen first proposed the paradox from his observations of the purchasing habits of the Victorian era poor.
+
+For most products, demand curve has negative slope (slope, that is constant in case of a straight demand function, must not be confused with price elasticity of demand, that varies depending on the point of the curve on which it is calculated and is not therefore constant even along a straight demand curve; see the mathematical definition for more). In other words, price and quantity demanded pull in opposite directions; if price goes up, then quantity demanded goes down. Giffen goods are an exception to this. The slope of their demand curve is positive. When price goes up, the quantity demanded also goes up. To be a true Giffen goods, the good's price must be the only thing that changes to produce a change in quantity demand. A Giffen goods should not be confused with products bought as status symbols or for conspicuous consumption (Veblen goods).
+
+The classic example given by Marshall is of inferior quality staple foods, whose demand is driven by poverty that makes their purchasers unable to afford superior foodstuffs. As the price of the cheap staple rises, they can no longer afford to supplement their diet with better foods, and must consume more of the staple food.
+
+There are three necessary preconditions for this situation to arise:
+# the good in question must be an inferior good,
+# there must be a lack of close substitute goods, and
+# the goods must constitute a substantial percentage of the buyer's income, but not such a substantial percentage of the buyer's income that none of the associated normal goods are consumed.
+If precondition #1 is changed to "The goods in question must be so inferior that the income effect is greater than the substitution effect" then this list defines necessary and sufficient conditions. The last condition is a condition on the buyer rather than the goods itself, and thus the phenomenon is also called a "Giffen behavior".
+
+This can be illustrated with a diagram. Initially the consumer has the choice between spending their income on either commodity Y or commodity X as defined by line segment MN (where M = total available income divided by the price of commodity Y, and N = total available income divided by the price of commodity X). The line MN is known as the consumer's budget constraint. Given the consumer's preferences, as expressed in the indifference curve I0, the optimum mix of purchases for this individual is point A.
+
+A price drop for commodity X causes two effects. The reduced price alters relative prices in favour of commodity X, known as the substitution effect. This is illustrated by a movement down the indifference curve from point A to point B (a pivot of the budget constraint about the original indifference curve). At the same time, the price reduction increases consumer purchasing power, known as the income effect (an outward shift of the budget constraint). This is illustrated by the shifting out of the dotted line to MP (where P = income divided by the new price of commodity X). The substitution effect (point A to point B) raises the quantity demanded of commodity X from Xa to Xb while the income effect lowers the quantity demanded from Xb to Xc. The net effect is a reduction in quantity demanded from Xa to Xc making commodity X a Giffen good by definition. Any good where the income effect more than compensates for the substitution effect is a giffen good.
+
+==Empirical evidence==
+Evidence for the existence of Giffen goods has generally been limited. A 2002 preliminary working paper by Robert Jensen and Nolan Miller of Harvard University made the claim that rice and wheat/noodles are Giffen goods in parts of China by tracking prices of goods. A further 2007 working paper by the same authors (now published in the September 2008 issue of American Economic Review) experimentally demonstrated the existence of Giffen goods among humans at the household level by directly subsidizing purchases of rice and wheat flour for extremely poor families. It is easier to find Giffen effects where the number of goods available is limited, as in an experimental economy: DeGrandpre et al. (1993) provide such an experimental demonstration. In 1991, Battalio, Kagel, and Kogut proved that quinine water is a Giffen good for some lab rats. Kagel, John Henry; Battalio, Raymond Charles; Green, Leonard (1995). Economic choice theory: an experimental analysis of animal behavior. New York: Cambridge University Press, pp. 25-28. However, they were only able to show the existence of a Giffen good at an individual level and not the market level.
+
+All Giffen goods are inferior goods, but not all inferior goods are Giffen goods.
+
+Giffen goods are difficult to find because the definition requires a number of observable conditions. One reason for the difficulty in finding Giffen goods that is Giffen originally envisioned a specific situation faced by individuals in poverty. Modern consumer behaviour research methods often deal in aggregates that average out income levels, and are too blunt an instrument to capture these specific situations. Complicating the matter are the requirements for limited availability of substitutes, as well as that the consumers are not so poor that they can only afford the inferior good. For this reason, many text books use the term Giffen paradox rather than Giffen good.
+
+Some types of premium goods (such as expensive French wines, or celebrity-endorsed perfumes) are sometimes called Giffen goods—via the claim that lowering the price of these high status goods decreases demand because they are no longer perceived as exclusive or high status products. However, the perceived nature of such high status goods changes significantly with a substantial price drop. This disqualifies them from being considered Giffen goods, because the Giffen goods analysis assumes that only the consumer's income or the relative price level changes, not the nature of the good itself. If a price change modifies consumers' perception of the good, they should be analysed as Veblen goods. Some economists question the empirical validity of the distinction between Giffen and Veblen goods, arguing that whenever there is a substantial change in the price of a good its perceived nature also changes, since price is a large part of what constitutes a product. However the theoretical distinction between the two types of analysis remains clear. Which one should apply to any actual case is an empirical matter.
+
+==Great Famine in Ireland==
+Potatoes during the Irish Great Famine were long considered the only example of a Giffen good. However, Gerald P. Dwyer and Cotton M. Lindsey debunked this idea in their 1984 article Robert Giffen and the Irish Potato, where they showed the contradicting nature of the Giffen "legend" with respect to historical evidence.
+
+The Giffen nature of the Irish potato was also later discredited by Sherwin Rosen of the University of Chicago in his 1999 paper Potato Paradoxes. Rosen showed that the phenomenon could be explained by a normal demand model.
+
+A working paper from Cambridge University claims to have evidence that bacon pigs showed Giffen style behaviour during the Irish Famine but that potatoes did not. 
+
+==Other proposed examples==
+Some suggest that a number of other goods might be Giffen. While the arguments are theoretically sound (i.e., they accord with Marshall's basic intuition), in each case the supporting empirical evidence has been found unconvincing.
+
+Anthony Bopp (1983) proposed that kerosene, a low-quality fuel used in home heating, was a Giffen good. Schmuel Baruch and Yakar Kanai (2001) suggested that shochu, a Japanese distilled beverage, "might" be a Giffen good. In both cases, the authors offered supporting econometric evidence. However, the empirical evidence has been generally considered incomplete. In a 2005 article, Sasha Abramsky of The Nation conjectured that gasoline, in certain circumstances, may act as a Giffen good. However, no supporting evidence was offered, and evidence from the large increases in oil prices in 2008 would suggest that quantity demanded for gasoline did actually fall as a result of increased prices. Of course, the lack of evidence at the aggregate level does not rule out that the proposed goods may have been Giffen for certain groups of consumers—in particular for poor consumers.
+
+The Great Recession has raised the possibility that very safe financial assets (Treasuries, cash, gold) become Giffen goods in liquidity trap scenarios or during bad economic times. As investors fear lower returns in equities and other investments they minimize risk by purchasing more of a low return, higher price asset that is considered safer. 
+
+==See also==
+*Capital good
+*Consumer choice
+*Inferior good
+*Normal good
+*Price elasticity of demand
+*Supply and demand
+
+==References==
+
+==Further reading==
+* 
+* 
+* 
+* 
+* 
+
+==External links==
+* Alfred Marshall Principles of Economics Bk.III,Ch.VI in paragraph III.VI.17
+* The Last Word on Giffen Goods?
+* Giffen good
+* What Do Prostitutes and Rice Have in Common?
+
+

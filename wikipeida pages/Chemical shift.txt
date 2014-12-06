@@ -1,0 +1,8 @@
+[[Chemical shift]]
+
+In nuclear magnetic resonance (NMR) spectroscopy, the chemical shift is the resonant frequency of a nucleus relative to a standard. Often the position and number of chemical shifts are diagnostic of the structure of a molecule. Spectrometric Identification of organic Compounds Silverstein, Bassler, Morrill 4th Ed. ISBN 047109700 Organic Spectroscopy William Kemp 3rd Ed. ISBN 0-333-41767-4 Basic 1H - 13C-NMR spectroscopy Metin Balei ISBN 0-444-51811-8 Chemical shifts are also used to describe signals in other forms of spectroscopy such as photoemission spectroscopy.
+
+Some atomic nuclei possess a magnetic moment (nuclear spin), which gives rise to different energy levels and resonance frequencies in a magnetic field. The total magnetic field experienced by a nucleus includes local magnetic fields induced by currents of electrons in the molecular orbitals (note that electrons have a magnetic moment themselves). The electron distribution of the same type of nucleus (e.g. 1H, 13C, 15N) usually varies according to the local geometry (binding partners, bond lengths, angles between bonds, ...), and with it the local magnetic field at each nucleus. This is reflected in the spin energy levels (and resonance frequencies). The variations of nuclear magnetic resonance frequencies of the same kind of nucleus, due to variations in the electron distribution, is called the chemical shift. The size of the chemical shift is given with respect to a reference frequency or reference sample (see also chemical shift referencing), usually a molecule with a barely distorted electron distribution.
+
+==Operating frequency==
+The operating (or Larmor) frequency

@@ -1,0 +1,68 @@
+[[Zinc]]
+
+Zinc, in commerce also spelter, is a metallic chemical element; it has the symbol Zn and atomic number 30. It is the first element of group 12 of the periodic table. In some respects zinc is chemically similar to magnesium: its ion is of similar size and its only common oxidation state is +2. Zinc is the 24th most abundant element in the Earth's crust and has five stable isotopes. The most common zinc ore is sphalerite (zinc blende), a zinc sulfide mineral. The largest mineable amounts are found in Australia, Asia, and the United States. Zinc production includes froth flotation of the ore, roasting, and final extraction using electricity (electrowinning).
+
+Brass, which is an alloy of copper and zinc, has been used since at least the 10th century BC in Judea and by the 7th century BC in Ancient Greece. Zinc metal was not produced on a large scale until the 12th century in India and was unknown to Europe until the end of the 16th century. The mines of Rajasthan have given definite evidence of zinc production going back to 6th century BC. To date, the oldest evidence of pure zinc comes from Zawar, in Rajasthan, as early as the 9th century AD when a distillation process was employed to make pure zinc. Alchemists burned zinc in air to form what they called "philosopher's wool" or "white snow".
+
+The element was probably named by the alchemist Paracelsus after the German word Zinke. German chemist Andreas Sigismund Marggraf is normally given credit in the western world for discovering pure metallic zinc in 1746. Work by Luigi Galvani and Alessandro Volta uncovered the electrochemical properties of zinc by 1800. Corrosion-resistant zinc plating of iron (hot-dip galvanizing) is the major application for zinc. Other applications are in batteries, small non-structural castings, and alloys, such as brass. A variety of zinc compounds are commonly used, such as zinc carbonate and zinc gluconate (as dietary supplements), zinc chloride (in deodorants), zinc pyrithione (anti-dandruff shampoos), zinc sulfide (in luminescent paints), and zinc methyl or zinc diethyl in the organic laboratory.
+
+Zinc is an essential mineral of "exceptional biologic and public health importance". Zinc deficiency affects about two billion people in the developing world and is associated with many diseases. In children it causes growth retardation, delayed sexual maturation, infection susceptibility, and diarrhea, contributing to the death of about 800,000 children worldwide per year. Enzymes with a zinc atom in the reactive center are widespread in biochemistry, such as alcohol dehydrogenase in humans. electronic-book ISBN 978-94-007-5561-1 electronic-
+ Consumption of excess zinc can cause ataxia, lethargy and copper deficiency.
+
+==Characteristics==
+
+===Physical properties===
+Zinc, also referred to in nonscientific contexts as spelter, is a bluish-white, lustrous, diamagnetic metal, though most common commercial grades of the metal have a dull finish. It is somewhat less dense than iron and has a hexagonal crystal structure. 
+
+The metal is hard and brittle at most temperatures but becomes malleable between 100 and 150 °C. Above 210 °C, the metal becomes brittle again and can be pulverized by beating. Zinc is a fair conductor of electricity. For a metal, zinc has relatively low melting (419.5 °C, 787.1 F) and boiling points (907 °C). Its melting point is the lowest of all the transition metals aside from mercury and cadmium. 
+
+Many alloys contain zinc, including brass, an alloy of copper and zinc. Other metals long known to form binary alloys with zinc are aluminium, antimony, bismuth, gold, iron, lead, mercury, silver, tin, magnesium, cobalt, nickel, tellurium and sodium. While neither zinc nor zirconium are ferromagnetic, their alloy exhibits ferromagnetism below 35 K. 
+
+A bar of zinc generates a characteristic sound when bent, similar to tin cry.
+
+===Occurrence===
+
+Zinc makes up about 75 ppm (0.0075%) of the Earth's crust, making it the 24th most abundant element. Soil contains 5–770 ppm of zinc with an average of 64 ppm. Seawater has only 30 ppb zinc and the atmosphere contains 0.1–4 µg/m3. 
+
+alt=A black shiny lump of solid with uneven surface.
+The element is normally found in association with other base metals such as copper and lead in ores. Zinc is a chalcophile, meaning the element has a low affinity for oxides and prefers to bond with sulfides. Chalcophiles formed as the crust solidified under the reducing conditions of the early Earth's atmosphere. Sphalerite, which is a form of zinc sulfide, is the most heavily mined zinc-containing ore because its concentrate contains 60–62% zinc. 
+
+Other minerals from which zinc is extracted include smithsonite (zinc carbonate), hemimorphite (zinc silicate), wurtzite (another zinc sulfide), and sometimes hydrozincite (basic zinc carbonate). With the exception of wurtzite, all these other minerals were formed as a result of weathering processes on the primordial zinc sulfides. 
+
+Identified world zinc resources total about 1.9 billion tonnes. Large deposits are in Australia, Canada and the United States with the largest reserves in Iran. At the current rate of consumption, these reserves are estimated to be depleted sometime between 2027 and 2055. About 346 million tonnes have been extracted throughout history to 2002, and one estimate found that about 109 million tonnes of that remains in use. 
+
+===Isotopes===
+
+Five isotopes of zinc occur in nature. 64Zn is the most abundant isotope (48.63% natural abundance). This isotope has such a long half-life, at , that its radioactivity can be ignored. Similarly, (0.6%), with a half-life of is not usually considered to be radioactive. The other isotopes found in nature are (28%), (4%) and (19%).
+
+Several dozen radioisotopes have been characterized. , which has a half-life of 243.66 days, is the most long-lived radioisotope, followed by with a half-life of 46.5 hours. Zinc has 10 nuclear isomers. 69mZn has the longest half-life, 13.76 h. The superscript m indicates a metastable isotope. The nucleus of a metastable isotope is in an excited state and will return to the ground state by emitting a photon in the form of a gamma ray. has three excited states and has two. The isotopes , , and each have only one excited state. 
+
+The most common decay mode of a radioisotope of zinc with a mass number lower than 66 is electron capture. The decay product resulting from electron capture is an isotope of copper. 
+
+: + → 
+
+The most common decay mode of a radioisotope of zinc with mass number higher than 66 is beta decay (β–), which produces an isotope of gallium. 
+: → + + 
+
+==Compounds and chemistry==
+
+===Reactivity===
+Zinc has an electron configuration of 3d104s2 and is a member of the group 12 of the periodic table. It is a moderately reactive metal and strong reducing agent. The surface of the pure metal tarnishes quickly, eventually forming a protective passivating layer of the basic zinc carbonate, , by reaction with atmospheric carbon dioxide. This layer helps prevent further reaction with air and water.
+
+Zinc burns in air with a bright bluish-green flame, giving off fumes of zinc oxide. Zinc reacts readily with acids, alkalis and other non-metals. Extremely pure zinc reacts only slowly at room temperature with acids. Strong acids, such as hydrochloric or sulfuric acid, can remove the passivating layer and subsequent reaction with water releases hydrogen gas. 
+
+The chemistry of zinc is dominated by the +2 oxidation state. When compounds in this oxidation state are formed the outer shell s electrons are lost, which yields a bare zinc ion with the electronic configuration 3d10. In aqueous solution an octahedral complex, is the predominant species. The volatilization of zinc in combination with zinc chloride at temperatures above 285 °C indicates the formation of , a zinc compound with a +1 oxidation state. No compounds of zinc in oxidation states other than +1 or +2 are known. Calculations indicate that a zinc compound with the oxidation state of +4 is unlikely to exist. 
+
+Zinc chemistry is similar to the chemistry of the late first-row transition metals nickel and copper, though it has a filled d-shell, so its compounds are diamagnetic and mostly colorless. The ionic radii of zinc and magnesium happen to be nearly identical. Because of this some of their salts have the same crystal structure and in circumstances where ionic radius is a determining factor zinc and magnesium chemistries have much in common. Otherwise there is little similarity. Zinc tends to form bonds with a greater degree of covalency and it forms much more stable complexes with N- and S- donors. Complexes of zinc are mostly 4- or 6- coordinate although 5-coordinate complexes are known. 
+
+See also Clemmensen reduction.
+
+===Zinc(I) compounds===
+Zinc(I) compounds are rare, and requires bulky ligands to stabilize the low oxidation state. Most zinc(I) compounds contains formally the 2+ core, which is analogous to the 2+ dimeric cation present in mercury(I) compounds. The diamagnetic nature of the ion confirms its dimeric structure. The first zinc(I) compound containing the Zn—Zn bond, (η5-C5Me5)2Zn2, is also the first dimetallocene. The 2+ ion rapidly disproportionates into zinc metal and zinc(II), and has only been obtained as a yellow glass formed by cooling a solution of metallic zinc in molten ZnCl2. 
+
+===Zinc (II) compounds===
+alt=Sheets of zinc acetate formed by slow evaporation
+alt=White lumped powder on a glass plate
+Binary compounds of zinc are known for most of the metalloids and all the nonmetals except the noble gases. The oxide ZnO is a white powder that is nearly insoluble in neutral aqueous solutions, but is amphoteric, dissolving in both strong basic and acidic solutions. The other chalcogenides (ZnS, ZnSe, and ZnTe) have varied applications in electronics and optics. Pnictogenides (nitride|], phosphide|], arsenide|] and antimonide|]), the peroxide (peroxide|]), the hydride (hydride|]), and the carbide () are also known. Of the four halides, fluoride|] has the most ionic character, whereas the others (chloride|], bromide|], and iodide|]) have relatively low melting points and are considered to have more covalent character. 
+
+In weak basic solutions containing ions, the hydroxide hydroxide|] forms as a white precipitate. In stronger alkaline solutions, this hydroxide is dissolved to form zincates 

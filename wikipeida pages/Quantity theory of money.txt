@@ -1,0 +1,126 @@
+[[Quantity theory of money]]
+
+In monetary economics, the quantity theory of money states that money supply has a direct, proportional relationship with the price level. While mainstream economists agree that the quantity theory holds true in the long run, there is still disagreement about its applicability in the short run. Critics of the theory argue that money velocity is not stable and, in the short-run, prices are sticky, so the direct relationship between money supply and price level does not hold.
+
+Alternative theories include the real bills doctrine and the more recent fiscal theory of the price level.
+
+== Origins and development of the quantity theory ==
+
+The quantity theory descends from Copernicus, Nicolaus Copernicus (1517), memorandum on monetary policy. followers of the School of Salamanca, Jean Bodin, Jean Bodin, Responses aux paradoxes du sieur de Malestroict (1568). and various others who noted the increase in prices following the import of gold and silver, used in the coinage of money, from the New World. The “equation of exchange” relating the supply of money to the value of money transactions was stated by John Stuart Mill John Stuart Mill (1848), Principles of Political Economy. who expanded on the ideas of David Hume. David Hume (1748), “Of Interest,” "Of Interest" in Essays Moral and Political. The quantity theory was developed by Simon Newcomb, Simon Newcomb (1885), Principles of Political Economy. Alfred de Foville, Alfred de Foville (1907), La Monnaie. Irving Fisher, Irving Fisher (1911), The Purchasing Power of Money, and Ludwig von Mises von Mises, Ludwig Heinrich; Theorie des Geldes und der Umlaufsmittel [The Theory of Money and Credit] in the latter 19th and early 20th century.
+
+Karl Marx modified it by arguing that the Labor Theory of Value requires that prices, under equilibrium conditions, are determined by socially necessary labor time needed to produce the commodity and that quantity of money was a function of the quantity of commodities, the prices of commodities, and the velocity. Capital Vol I, Chapter 3, B. The Currency of Money Marx did not reject the basic concept of the Quantity Theory of Money but rejected the classical notion based on precious metals.
+
+John Maynard Keynes, like Marx, accepted the theory in general and wrote... Also like Marx he believed that the theory was misrepresented. Where Marx argues that the amount of money in circulation is determined by the quantity of goods times the prices of goods Keynes argued the amount of money was determined by the purchasing power or aggregate demand. He wrote In the Tract on Monetary Reform (1924), Tract on Monetary Reform, London, United Kingdom: Macmillan, 1924 Keynes developed his own quantity equation: n = p(k + rk'),where n is the number of "currency notes or other forms of cash in circulation with the public", p is "the index number of the cost of living", and r is "the proportion of the bank's potential liabilities (k') held in the form of cash." Keynes also assumes "...the public,(k') including the business world, finds it convenient to keep the equivalent of k consumption in cash and of a further available k' at their banks against cheques..." So long as k, k', and r do not change, changes in n cause proportional changes in p. "Keynes' Theory of Money and His Attack on the Classical Model", L. E. Johnson, R. Ley, & T. Cate (International Advances in Economic Research, November 2001) 
+
+Keynes however notes...
+
+Keynes thus accepts the Quantity Theory as accurate over the long-term but not over the short term. Keynes remarks that contrary to contemporaneous thinking, velocity and output were not stable but highly variable and as such, the quantity of money was of little importance in driving prices. “The Counter-Revolution in Monetary Theory”, Milton Friedman (IEA Occasional Paper, no. 33 Institute of Economic Affairs. First published by the Institute of Economic Affairs, London, 1970.) Friedman notes the similarities between his views and those of Keynes when he wrote...
+
+Friedman notes that Keynes shifted the focus away from the quantity of money (Fisher's M and Keynes' n) and put the focus on price and output. Friedman writes...
+
+The Monetarist counter-position was that contrary to Keynes, velocity was not a passive function of the quantity of money but it can be an independent variable. Friedman wrote:
+
+Thus while Marx, Keynes, and Friedman all accepted the Quantity Theory, they each placed different emphasis as to which variable was the driver in changing prices. Marx emphasized production, Keynes income and demand, and Friedman the quantity of money.
+
+Academic discussion remains over the degree to which different figures developed the theory. For instance, Bieda argues that Copernicus's observation
+
+amounts to a statement of the theory, while other economic historians date the discovery later, to figures such as Jean Bodin, David Hume, and John Stuart Mill. 
+
+== Equation of exchange ==
+In its modern form, the quantity theory builds upon the following definitional relationship.
+:
+where
+: is the total amount of money in circulation on average in an economy during the period, say a year.
+: is the transactions velocity of money, that is the average frequency across all transactions with which a unit of money is spent. This reflects availability of financial institutions, economic variables, and choices made as to how fast people turn over their money.
+: and are the price and quantity of the i-th transaction.
+: is a column vector of the , and the superscript T is the transpose operator.
+: is a column vector of the .
+
+Mainstream economics accepts a simplification, the equation of exchange:
+:
+where
+: is the price level associated with transactions for the economy during the period
+: is an index of the real value of aggregate transactions.
+
+The previous equation presents the difficulty that the associated data are not available for all transactions. With the development of national income and product accounts, emphasis shifted to national-income or final-product transactions, rather than gross transactions. Economists may therefore work with the form
+:
+where
+: is the velocity of money in final expenditures.
+: is an index of the real value of final expenditures.
+
+As an example, might represent currency plus deposits in checking and savings accounts held by the public, real output (which equals real expenditure in macroeconomic equilibrium) with the corresponding price level, and the nominal (money) value of output. In one empirical formulation, velocity was taken to be “the ratio of net national product in current prices to the money stock”. 
+
+Thus far, the theory is not particularly controversial, as the equation of exchange is an identity. A theory requires that assumptions be made about the causal relationships among the four variables in this one equation. There are debates about the extent to which each of these variables is dependent upon the others. Without further restrictions, the equation does not require that a change in the money supply would change the value of any or all of , , or . For example, a 10% increase in could be accompanied by a change of 1/(1 + 10%) in , leaving unchanged. The quantity theory postulates that the primary causal effect is an effect of M on P.
+
+== Cambridge approach ==
+
+Economists Alfred Marshall, A.C. Pigou, and John Maynard Keynes (before he developed his own, eponymous school of thought) associated with Cambridge University, took a slightly different approach to the quantity theory, focusing on money demand instead of money supply. They argued that a certain portion of the money supply will not be used for transactions; instead, it will be held for the convenience and security of having cash on hand. This portion of cash is commonly represented as k, a portion of nominal income (). The Cambridge economists also thought wealth would play a role, but wealth is often omitted for simplicity. The Cambridge equation is thus:
+
+:
+
+Assuming that the economy is at equilibrium (), is exogenous, and k is fixed in the short run, the Cambridge equation is equivalent to the equation of exchange with velocity equal to the inverse of k:
+
+:
+
+The Cambridge version of the quantity theory led to both Keynes's attack on the quantity theory and the Monetarist revival of the theory. Froyen, Richard T. Macroeconomics: Theories and Policies. 3rd Edition. Macmillan Publishing Company: New York, 1990. p. 70-71. 
+
+== Quantity theory and evidence==
+
+As restated by Milton Friedman, the quantity theory emphasizes the following relationship of the nominal value of expenditures and the price level to the quantity of money :
+
+:
+:
+
+The plus signs indicate that a change in the money supply is hypothesized to change nominal expenditures and the price level in the same direction (for other variables held constant).
+
+Friedman described the empirical regularity of substantial changes in the quantity of money and in the level of prices as perhaps the most-evidenced economic phenomenon on record. Milton Friedman (1987), “quantity theory of money”, , v. 4, p. 15. 
+Empirical studies have found relations consistent with the models above and with causation running from money to prices. The short-run relation of a change in the money supply in the past has been relatively more associated with a change in real output than the price level in (1) but with much variation in the precision, timing, and size of the relation. For the long-run, there has been stronger support for (1) and (2) and no systematic association of and . Summarized in Friedman (1987), “quantity theory of money”, pp. 15-17. 
+
+=== Principles ===
+
+The theory above is based on the following hypotheses:
+# The source of inflation is fundamentally derived from the growth rate of the money supply.
+# The supply of money is exogenous.
+# The demand for money, as reflected in its velocity, is a stable function of nominal income, interest rates, and so forth.
+# The mechanism for injecting money into the economy is not that important in the long run.
+# The real interest rate is determined by non-monetary factors: (productivity of capital, time preference).
+
+=== Decline of money-supply targeting ===
+An application of the quantity-theory approach aimed at removing monetary policy as a source of macroeconomic instability was to target a constant, low growth rate of the money supply. Friedman (1987), “quantity theory of money”, p. 19. Still, practical identification of the relevant money supply, including measurement, was always somewhat controversial and difficult. As financial intermediation grew in complexity and sophistication in the 1980s and 1990s, it became more so. As a result, some central banks, including the U.S. Federal Reserve, which had targeted the money supply, reverted to targeting interest rates. But monetary aggregates remain a leading economic indicator. NA (2005), How Does the Fed Determine Interest Rates to Control the Money Supply?”, Federal Reserve Bank of San Francisco. February, with "some evidence that the linkages between money and economic activity are robust even at relatively short-run frequencies." R.W. Hafer and David C. Wheelock (2001), “The Rise and Fall of a Policy Rule: Monetarism at the St. Louis Fed, 1968-1986”, Federal Reserve Bank of St. Louis, Review, January/February, p. 19. 
+
+==Criticisms==
+John Maynard Keynes criticized the quantity theory of money in The General Theory of Employment, Interest and Money. Keynes had originally been a proponent of the theory, but he presented an alternative in the General Theory. Keynes argued that price level was not strictly determined by money supply. Changes in the money supply could have effects on real variables like output. Minsky, Hyman P. John Maynard Keynes, McGraw-Hill. 2008. p.2. 
+
+Ludwig von Mises agreed that there was a core of truth in the Quantity Theory, but criticized its focus on the supply of money without adequately explaining the demand for money. He said the theory "fails to explain the mechanism of variations in the value of money". Ludwig von Mises (1912), “The Theory of Money and Credit (Chapter 8, Sec 6)”. 
+
+== See also ==
+
+*Classical dichotomy
+*Demand for money
+*Equation of exchange
+*Income velocity of money
+*Liquidity preference
+*Monetae cudendae ratio
+*Monetarism
+*Monetary inflation
+*Monetary policy
+*Neutrality of money
+
+===Alternative theories===
+* Benjamin Anderson (critic of mainstream variant)
+* Fiscal theory of the price level
+* Real bills doctrine
+
+== References ==
+
+==Further reading==
+* Friedman, Milton (1987 ). “quantity theory of money”, , v. 4, pp. 3–20. Abstract. Arrow-page searchable preview at John Eatwell et al.(1989), Money: The New Palgrave, pp. 1–40.
+* Laidler, David E.W. (1991). The Golden Age of the Quantity Theory: The Development of Neoclassical Monetary Economics, 1870-1914. Princeton UP. Description and review.
+* Mises, Ludwig Heinrich Edler von; Human Action: A Treatise on Economics (1949), Ch. XVII “Indirect Exchange”, §4. “The Determination of the Purchasing Power of Money”.
+
+== External links ==
+* The Quantity Theory of Money from John Stuart Mill through Irving Fisher from the New School
+*“Quantity theory of money” at Formularium.org — calculate M, V, P and Q with your own values to understand the equation
+*How to Cure Inflation (from a Quantity Theory of Money perspective) from Aplia Econ Blog
+
+

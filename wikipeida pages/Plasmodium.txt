@@ -1,0 +1,402 @@
+[[Plasmodium]]
+
+:A plasmodium is also the macroscopic form of slime moulds.
+
+Plasmodium is a large genus of parasitic protozoa. Infection with these protozoans is known as malaria, a deadly disease widespread in the tropics. The parasite always has two hosts in its life cycle: a
+mosquito vector and a vertebrate host.
+
+The life-cycle is very complex, involving a sequence of different stages both in the vector and the host. These stages include sporozoites which are injected by the mosquito vector into the host's blood; latent hypnozoites which may rest undetected in the liver for up to 30 years; merosomes and merozoites which infect the red cells (erythrocytes) of the blood; trophozoites which grow in the red cells, and schizonts which divide there, producing more merozoites which leave to infect more red cells; and male and female sexual forms, gametocytes, which are taken up by other mosquitoes. In the mosquito's midgut, the gametocytes develop into gametes which fertilize each other to form motile zygotes which escape the gut, only to grow into new sporozoites which move to the mosquito's salivary glands, from where they are injected into the mosquito's next host, infecting it and restarting the cycle.
+
+The genus Plasmodium was first described in 1885. It now contains about 200 species divided into several subgenera; as of 2006 the taxonomy was shifting, and species from other genera are likely to be added to Plasmodium. At least ten species infect humans; other species infect other animals, including birds, reptiles and rodents, while 29 species infect non-human primates. The parasite is thought to have originated from Dinoflagellates, photosynthetic protozoa.
+
+The most common forms of human malaria are caused by Plasmodium falciparum, Plasmodium vivax, Plasmodium ovale, and Plasmodium malariae. P. falciparum malaria, common in sub-Saharan Africa, is especially dangerous.
+
+==Taxonomy and host range ==
+
+The genus Plasmodium was created in 1885 by Marchiafava and Celli and there are over 200 species recognized. New species continue to be described. 
+
+, the genus is in need of reorganization as it has been shown that parasites belonging to the genera Haemocystis and Hepatocystis appear to be closely related to Plasmodium. It is likely that other species such as Haemoproteus meleagridis will be included in this genus once it is revised.
+
+Host range among the mammalian orders is non uniform. At least 29 species infect non-human primates; rodents outside the tropical parts of Africa are rarely affected; a few species are known to infect bats, porcupines and squirrels; carnivores, insectivores and marsupials are not known to act as hosts.
+
+In 1898 Ronald Ross demonstrated the existence of Plasmodium in the wall of the midgut and salivary glands of a Culex mosquito. For this discovery he won the Nobel Prize in 1902. However credit must also be given to the Italian professor Giovanni Battista Grassi, who showed that human malaria could only be transmitted by Anopheles mosquitoes. For some species the vector may not be a mosquito.
+
+Mosquitoes of the genera Culex, Anopheles, Culiseta, Mansonia and Aedes may act as vectors. The known vectors for human malaria (more than 100 species) belong to the genus Anopheles. Bird malaria is commonly carried by species belonging to the genus Culex. Only female mosquitoes bite. Aside from blood both sexes live on nectar, but one or more blood meals are needed by the female for egg laying, because there is very little protein in nectar.
+
+==Life cycle==
+
+The life cycle of malaria parasites. A mosquito causes an infection by a bite. First, sporozoites enter the bloodstream, and migrate to the liver. They infect liver cells, where they multiply into merozoites, rupture the liver cells, and return to the bloodstream. Then, the merozoites infect red blood cells, where they develop into ring forms, trophozoites and schizonts that in turn produce further merozoites. Sexual forms are also produced, which, if taken up by a mosquito, will infect the insect and continue the life cycle.
+
+The life cycle of Plasmodium is very complex. Sporozoites from the saliva of a biting female mosquito are transmitted to either the blood or the lymphatic system of the recipient. The sporozoites then migrate to the liver and invade hepatocytes. This latent or dormant stage of the Plasmodium sporozoite in the liver is called the hypnozoite.
+
+The development from the hepatic stages to the erythrocytic stages has been obscure. In 2006 it was shown that the parasite buds off the hepatocytes in merosomes containing hundreds or thousands of merozoites. These merosomes have been subsequently shown to lodge in the pulmonary capillaries and to disintegrate there slowly over 48–72 hours releasing merozoites. Erythrocyte invasion is enhanced when blood flow is slow and the cells are tightly packed: both of these conditions are found in the alveolar capillaries.
+
+Within the erythrocytes the merozoite grow first to a ring-shaped form and then to a larger trophozoite form. In the schizont stage, the parasite divides several times to produce new merozoites, which leave the red blood cells and travel within the bloodstream to invade new red blood cells. Most merozoites continue this replicative cycle, but some merozoites differentiate into male or female sexual forms (gametocytes) (also in the blood), which are taken up by the female mosquito.
+
+In the mosquito's midgut, the gametocytes develop into gametes and fertilize each other, forming motile zygotes called ookinetes. The ookinetes penetrate and escape the midgut, then embed themselves onto the exterior of the gut membrane. Here they divide many times to produce large numbers of tiny elongated sporozoites. These sporozoites migrate to the salivary glands of the mosquito where they are injected into the blood of the next host the mosquito bites. The sporozoites move to the liver where they repeat the cycle.
+
+The pattern of alternation of sexual and asexual reproduction is common in parasitic species. The evolutionary advantages of this type of life cycle were recognised by Mendel. Under favourable conditions, asexual reproduction is superior to sexual as the parent is well adapted to its environment and its descendents share all its genes. Transferring to a new host or in times of stress, sexual reproduction is generally superior as it shuffles the genes of two parents, producing a variety of individuals, some of which will be better adapted to the new environment.
+
+Reactivation of the hypnozoites has been reported for up to 30 years after the initial infection in humans. The factors precipating this reactivation are not known. In the species Plasmodium malariae, Plasmodium ovale and Plasmodium vivax hypnozoites have been shown to occur. Reactivation does not occur in infections with Plasmodium falciparum. It is not known if hypnozoite reactivaction may occur with any of the remaining species that infect humans but this is presumed to be the case.
+
+== Evolution ==
+
+This life cycle is best understood in terms of its evolution.
+
+The Apicomplexa — the phylum to which Plasmodium belongs — are thought to have originated within the Dinoflagellates — a large group of photosynthetic protozoa. It is thought that the ancestors of the Apicomplexa were originally prey organisms that evolved the ability to invade the intestinal cells and subsequently lost their photosynthetic ability. Some extant dinoflagelates, however, can invade the bodies of jellyfish and continue to photosynthesize, which is possible because jellyfish bodies are almost transparent. In other organisms with opaque bodies this ability would most likely rapidly be lost.
+
+It is thought that Plasmodium evolved from a parasite spread by the orofaecal route which infected the intestinal wall. At some point this parasite evolved the ability to infect the liver. This pattern is seen in the genus Cryptosporidium to which Plasmodium is distantly related. At some later point this ancestor developed the ability to infect blood cells and to survive and infect mosquitoes. Once mosquito transmission was firmly established the previous orofecal route of transmission was lost.
+
+Current (2007) theory suggests that the genera Plasmodium, Hepatocystis and Haemoproteus evolved from Leukocytozoon species. Parasites of the genus Leukocytozoan infect white blood cells (leukocytes), liver and spleen cells and are transmitted by 'black flies' (Simulium species) — a large genus of flies related to the mosquitoes.
+
+Leukocytes, hepatocytes and most spleen cells actively phagocytose particulate matter making entry into the cell easier for the parasite. The mechanism of entry of Plasmodium species into erythrocytes is still very unclear taking as it does less than 30 seconds. It is not yet known if this mechanism evolved before mosquitoes became the main vectors for transmission of Plasmodium. 
+ 
+Plasmodium evolved about 130 million years ago. This period coincided with the rapid spread of the angiosperms (flowering plants). This expansion in the angiosperms is thought to be due to at least one genomic duplication event. It seems probable that the increase in the number of flowers led to an increase in the number of mosquitoes and their contact with vertebrates.
+
+Mosquitoes evolved in what is now South America about 230 million years ago. There are over 3500 species recognised but to date their evolution has not been well worked out so a number of gaps in our knowledge of the evolution of Plasmodium remain. It seems probable that birds were the first group infected by Plasmodium followed by the reptiles — probably the lizards. At some point primates and rodents became infected. The remaining species infected outside these groups seem likely to be due to relatively recent events.
+
+, DNA sequences are available from fewer than sixty species, and most of these are from species infecting either rodent or primate hosts. The evolution proposed here should be regarded as speculative and subject to revision as data becomes available.
+
+== Molecular biology ==
+Plasmodium is a Eukaryote, an organism whose cells have a nucleus, but with unusual features
+All the species examined to date have 14 chromosomes, one mitochondrion and one plastid (an organelle similar to a chloroplast). The chromosomes vary from 500 kilobases to 3.5 megabases in length. It is presumed that this is the pattern throughout the genus. The plastid, unlike those found in algae, is not photosynthetic. Its function is not known but there is some suggestive evidence that it may be involved in reproduction.
+
+On a molecular level, the parasite damages red blood cells using plasmepsin enzymes — aspartic acid proteases which degrade hemoglobin.
+
+== Taxonomy ==
+
+Plasmodium belongs to the family Plasmodiidae (Levine, 1988), order Haemosporidia and phylum Apicomplexa. There are 450 recognised species in this order. Many species of this order are undergoing reexamination of their taxonomy with DNA analysis. It seems likely that many of these species will be reassigned after these studies have been completed. For this reason the entire order is outlined here.
+ 
+* Genus Plasmodium
+**Subgenus Asiamoeba (lizards)
+**Subgenus Bennettinia (birds)
+**Subgenus Carinamoeba (reptiles)
+**Subgenus Giovannolaia (birds)
+**Subgenus Haemamoeba (birds)
+**Subgenus Huffia (birds)
+**Subgenus Lacertamoeba (reptiles)
+**Subgenus Laverania (higher primates)
+**Subgenus Novyella (birds)
+**Subgenus Paraplasmodium (lizards)
+**Subgenus Plasmodium (monkeys, higher primates)
+**Subgenus Sauramoeba (reptiles)
+**Subgenus Vinckeia (non-primate mammals)
+* Genus Polychromophilus
+* Genus Rayella
+* Genus Saurocytozoon
+
+The genera Plasmodium, Fallisia and Saurocytozoon all cause malaria in lizards. All are carried by Diptera (true two-winged flies). Pigment is absent in the Garnia. Non pigmented gametocytes are typically the only forms found in Saurocytozoon: pigmented forms may be found in the leukocytes occasionally. Fallisia produce non pigmented asexual and gametocyte forms in leukocytes and thrombocytes.
+
+=== Subgenera ===
+
+The full taxonomic name of a species includes the subgenus but this is often omitted. The full name indicates some features of the morphology and type of host species.
+
+The only two species in the sub genus Laverania are P. falciparum and P. reichenowi.
+
+Species infecting monkeys and apes (the higher primates) with the exceptions of P. falciparum and P. reichenowi are classified in the subgenus Plasmodium.
+
+Parasites infecting other mammals including lower primates (lemurs and others) are classified in the subgenus Vinckeia. The distinction between P. falciparum and P. reichenowi and the other species infecting higher primates was based on morphological findings but have since been confirmed by DNA analysis. Vinckeia, while previously considered to be something of a taxonomic 'rag bag', has been recently shown to form a coherent grouping. The remaining groupings here are based on the morphology of the parasites. Revisions to this system are likely as more species are subject to DNA analysis.
+
+The four subgenera Giovannolaia, Haemamoeba, Huffia and Novyella were created by Corradetti et al. for the known avian malarial species. A fifth — Bennettinia — was created in 1997 by Valkiunas. The relationships between the subgenera are a matter of current investigation. Martinsen et al 's recent (2006) paper outlines what was known at the time. 
+
+, P. juxtanucleare is the only known member of the subgenus Bennettinia.
+
+Unlike the mammalian and bird malarias those affecting reptiles have been more difficult to classify. In 1966 Garnham classified those with large schizonts as Sauramoeba, those with small schizonts as Carinamoeba and the single then known species infecting snakes (Plasmodium wenyoni) as Ophidiella. He was aware of the arbitrariness of this system and that it might not prove to be biologically valid. Telford in 1988 used this scheme as the basis for the accepted (2007) system. 
+
+Classification criteria
+
+Avian species:
+
+Species in the subgenus Bennettinia have the following characteristics:
+*Schizonts contain scant cytoplasm, are often round, do not exceed the size of the host nucleus and stick to it. 
+*Gametocytes while varying in shape tend to be round or oval, do not exceed the size of the nucleus and stick to it.
+
+Species in the subgenus Giovannolaia have the following characteristics:
+*Schizonts contain plentiful cytoplasm, are larger than the host cell nucleus and frequently displace it. They are found only in mature erythrocytes. 
+*Gametocytes are elongated. 
+*Exoerythrocytic schizogony occurs in the mononuclear phagocyte system.
+
+Species in the subgenus Haemamoeba have the following characteristics:
+*Mature schizonts are larger than the host cell nucleus and commonly displace it. 
+*Gametocytes are large, round, oval or irregular in shape and are substantially larger than the host nucleus.
+
+Species in the subgenus Huffia have the following characteristics:
+*Mature schizonts, while varying in shape and size, contain plentiful cytoplasm and are commonly found in immature erthryocytes. 
+*Gametocytes are elongated.
+
+Species in the subgenus Novyella have the following characteristics:
+*Mature schisonts are either smaller than or only slightly larger than the host nucleus. They contain scanty cytoplasm. 
+*Gametocytes are elongated. Sexual stages in this subgenus resemble those of Haemoproteus.
+*Exoerythrocytic schizogony occurs in the mononuclear phagocyte system
+
+Reptile species:
+
+Species in the subgenus Carinamoeba infect lizards. Their schizonts normally give rise to less than 8 merozoites, unlike those in the subgenus Sauramoeba which also infect lizards, but whose schizonts normally give rise to more than 8 merozoites.
+
+*The erythrocytes of both reptiles and birds retain their nucleus, unlike those of mammals. The reason for the loss of the nucleus in mammalian erythocytes remains unknown. 
+*The presence of elongated gametocytes in several of the avian subgenera and in Laverania in addition to a number of clinical features suggested that these might be closely related. This is no longer thought to be the case.
+*The subgenera Haemamoeba, Huffia, and Bennettinia appear to be monphylitic. Novyella appears to be well defined with occasional exceptions. The subgenus Giovannolaia needs revision. 
+ 
+Ophidiella was a subgenus created by Garnham in 1966 for the species infecting snakes. it was no longer in use.
+
+=== Species infecting humans ===
+
+Red blood cell infected with malaria
+
+The species of Plasmodium that infect humans include:
+*Plasmodium falciparum (the cause of malignant tertian malaria)
+*Plasmodium vivax (the most frequent cause of benign tertian malaria)
+*Plasmodium ovale (the other, less frequent, cause of benign tertian malaria)
+*Plasmodium malariae (the cause of benign quartan malaria)
+*Plasmodium knowlesi
+*Plasmodium brasilianum
+*Plasmodium cynomolgi
+*Plasmodium cynomolgi bastianellii
+*Plasmodium inui
+*Plasmodium rhodiani
+*Plasmodium schweitzi
+*Plasmodium semiovale
+*Plasmodium simium
+
+The first four listed here are the most common species that infect humans. Nearly all human deaths from malaria are caused by the first species, P. falciparum, mainly in sub-Saharan Africa. With the use of the polymerase chain reaction additional species have been and are still being identified that infect humans.
+
+One possible experimental infection has been reported with Plasmodium eylesi. Fever and low grade parasitemia were apparent at 15 days. The volunteer (Dr Bennett) had previously been infected by Plasmodium cynomolgi and the infection was not transferable to a gibbon (P. eylesi 's natural host) so this cannot be regarded as definitive evidence of its ability to infect humans. A second case has been reported that may have been a case of P. eylesi but the author was not certain of the infecting species. 
+ 
+A possible infection with Plasmodium tenue has been reported. This report described a case of malaria in a three-year-old black girl from Georgia, US, who had never been outside the US. She suffered from both P. falciparum and P. vivax malaria and while forms similar to those described for P. tenue were found in her blood even the author was skeptical about the validity of the diagnosis.
+
+Confusingly, P. tenue was proposed in the same year (1914) for a species found in birds. The human species is now considered probably a misdiagnosis, and the bird species is described on the P. tenue page.
+
+The only known host of P. falciparum and P, malariae is humans. P. vivax however can infect chimpanzees. Infection tends to be low grade but may be persistent and remain as source of parasites for humans for some time. P. vivax can also infect orangutans. 
+
+'P. ovale can be transmitted to chimpanzees. P. ovale has an unusual distribution, being found in Africa, the Philippines and New Guinea. In spite of its admittedly poor transmission to chimpanzees given its discontigous spread, it is suspected that P. ovale is a zoonosis with an as yet unidentified host. If so, the host is likely to be a primate. The remaining species capable of infecting humans all have other primate hosts.
+
+Plasmodium shortii and Plasmodium osmaniae are now considered junior synonyms of Plasmodium inui
+ 
+Taxonomy in parasitology before DNA based methods was always problematic, and revisions are continuing, leaving many obsolete names for Plasmodium species that infect humans. 
+
+ Obsolete names for Plasmodium species infecting humans 
+ P. camerense P. causiasium P. golgi P. immaculatum P. laverani var. tertium P. laverani var. quartum P. malariae var. immaculatum P. malariae var. incolor P. malariae var. irregularis P. malariae var. parva P. malariae var. quartanae P. malariae var. quotidianae P. perniciosum P. pleurodyniae P. praecox P. quartana P. quotidianum P. sedecimanae P. tenue P. undecimanae P. vegesio-tertaniae P. vivax-minuta 
+
+=== Infections in primates ===
+
+The species that infect primates other than humans include: P. bouillize, P. brasilianum, P. bucki, P. cercopitheci,P. coatneyi, P. coulangesi, P. cynomolgi, P. eylesi, P. fieldi, P. foleyi, P. fragile, P. girardi, P. georgesi, P. gonderi, P. hylobati, P. inui, P. jefferyi, P. joyeuxi, P. knowlesi, P. lemuris, P. percygarnhami, P. petersi, P. reichenowi, P. rodhaini, P. sandoshami, P. semnopitheci, P. silvaticum, P. simiovale, P. simium, P. uilenbergi, P. vivax and P. youngei.
+ 
+Most if not all Plasmodium species infect more than one host: the host records shown here should be regarded as incomplete.
+
+ Host records 
+ *P. bouillize — Cercopithecis campbelli *P. brasilianum — Alouatta fusca, Alouatta palliata, Alouatta seniculus straminea, Alouatta villosa, several night monkey (Aotus) species, Ateles fusciceps, Ateles geoffroyi, Ateles geoffroyi grisescens, Ateles paniscus, Ateles paniscus paniscus, Ateles paniscus chamek, Brachyteles arachnoides, Callicebus moloch ornatus, Callicebus torquatus, Cebus albifrons, Cebus apella, Cebus capucinus, Cebus capucinus capucinus, Cebus capucinus imitator, Chiropotes chiropotes, Lagothrix cana, Lagothrix infumata, Lagothrix lagotricha, Saimiri boliviense and Saimiri sciureus. *P. bucki — Lemur macaco macaco *P. cercopitheci — Cercopithecis nictitans *P. coatneyi — several macaque species: Macaca fascicularis and Macaca irus. *P. coulangesi — Lemur macaco macaco *P. cynomolgi — Macaca arctoides, Macaca cyclopis, Macaca fascicularis, Macaca mulatta, Macaca nemestrina, Macaca radiata, Macaca sinica, orangutans (Pongo), Presbytis cristatus and Presbytis entellus *P. eylesi — several gibbon (Hylobates) species including Hylobates lar *P. fieldi — Macaca fascicularis and Macaca nemestrina *P. foleyi — Lemur fulvus rufus *P. fragile — several macaque species — Macaca fascicularis, Macaca mulatta, Macaca radiata, and Macaca sinica *P. georgesi — Cercocebus albigena *P. girardi — Lemur fulvus rufus, Lemur macaco macaco *P. gonderi — Mangabeys: Cercocebus albigena, Cercocebus aterrimus, Cercocebus atys, Cercocebus galeritus agilus and drills (Mandrillus leucophaeus) *P. hylobati — several gibbon (Hylobates) species including Hylobates lar and Hylobates moloch *P. inui — the Celebes black ape (Cynopithecus niger), Macaca fascicularis, Macaca mulatta, Macaca nemestrina, Macaca radiata and several Presbytis species *P. jefferyi — several gibbon (Hylobates) species *P. joyeuxi — Cercopithecis callitricus *P. knowlesi — Macaca fascicularis, Macaca nemestrina, and Presbytis malalophus *P. knowlesi edesoni — the Javanese long-tailed macaque (Macaca irus) *P. lemuris — the lemur Lemur collaris, Lemur macaco macaco *P. percygarnhami — Lemur macaco macaco *P. petersi — Cercocebus albigena *P. pitheci — orangutans (Pongo pygmaeus) *P. reichenowi — chimpanzee (Pan) species and gorilla (Gorilla) species *P. rodhaini — chimpanzee (Pan) species and gorilla (Gorilla) species *P. sandoshami — the Malayan flying lemur (Cynocephalus variegatus) *P. semnopitheci — Semnopithecus entellus *P. schwetzi — chimpanzee (Pan) species and gorilla (Gorilla) species *P. semiovale — Macaca sinica *P. shortii — Macaca radiata, and Macaca sinica *P. silvaticum — orangutans (Pongo pygmaeus) *P. simium — the woolly spider monkey (Brachyteles arachnoides) and several howler monkeys (Alouatta) species including Alouatta fusca *P. uilenbergi — Lemur fulvus fulvus *P. vivax — orangutans (Pongo species), chimpanzees (Pan) monkeies (Saimiri boliviensis, Aotus lemurinus griseimambra ) and tamarins (Saguinus mystax and Saguinus fuscicollis) *P. youngei — the white handed gibbon (Hylobates lar) 
+
+ Primate mosquito vectors 
+ *Anopheles albimanus — P. vivax *Anopheles culicifacies — P. vivax *Anopheles dirus — P. cynomolgi, P. inui, P. vivax *Anopheles farauti — P. coatneyi, P. vivax *Anopheles freeborni — P. vivax *Anopheles funestus — P. falciparum *Anopheles gambiae — P. falciparum, P. vivax *Anopheles latens — P. knowlesi *Anopheles maculatus — P. youngei, P. vivax *Anopheles maculipennis — P. vivax *Anopheles punctipennis — P. vivax *Anopheles quadrimaculatus — P. vivax *Anopheles stephensi — P. cynomogli, P. inui, P. vivax *Anopheles sundaicus — P. youngei *Anopheles tessellatus — P. falciparum, P. vivax 
+
+=== Subspecies infecting primates===
+
+*P. cynomolgi — P. cynomolgi bastianelli and P. cynomolgi ceylonensis.
+*P. inui — P. inui inui and P. inui shortii
+*P. knowlesi — P. knowlesi edesoni and P. knowlesi knowlesi.
+*P. vivax — P. vivax hibernans, P. vivax chesson and P. vivax multinucleatum.
+
+The evolution of these species is still being worked out and the relationships given here should be regarded as tentative. This grouping, while originally made on morphological grounds, now has considerable support at the DNA level.
+
+*P. brasilianum, P. inui and P. rodhaini are similar to P. malariae
+*P. cynomolgi, P. fragile, P. knowlesi, P. simium and P. schwetzi are similar to P. vivax
+*P. fieldi and P. simiovale are similar to P. ovale
+*P. falciparum is closely related to P. reichenowi.
+*P. kochi has been described as a parasite of monkeys. This species is classified as Hepatocystis kochi. This may be subject to revision.
+*P. brasilianum and P. rodhaini seem likely to be the same species as P. malariae.
+*P. lemuris may actually belong to the Haemoproteus genus. Clarification of this point awaits DNA examination.
+*P. shortii is regarded as a junior synonym of P. inui.
+
+== Infections in non-primate mammals ==
+
+The subgenus Vinckeia was created by Garnham to accommodate the mammalian parasites other than those infecting primates. Species infecting lemurs have also been included in this subgenus.
+
+P. aegyptensis, P. bergei, P. chabaudi, P. inopinatum, P. yoelli and P. vinckei infect rodents. P. bergei, P. chabaudi, P. yoelli and P. vinckei have been used to study malarial infections in the laboratory. Other members of this subgenus infect other mammalian hosts.
+
+Host records
+*P. aegyptensis — Egyptian grass rat (Arvicanthis noloticus) 
+*P. atheruri — African porcupine (Atherurus africanus), large vesper mouse (Calomys callosus) and Meriones unguiculatus
+*P. berghei — the thicket rat (Grammomys surdaster)
+*P. booliati — Malayan giant flying squirrel 
+*P. brodeni — elephant shrews (Petrodomus teradactylus)
+*P. bubalis — water buffaloes (Bubalus bubalis)
+*P. caprae — domestic goat (Capra hircus)
+*P. cephalophi — the antelope (Cephalophus grimmi) and the grey duiker (Sylvicapra grimmia) 
+*P. cyclopsi — the bat (Hipposideros cyclops) 
+*P. odocoilei — white tailed deer (Odocoileus virginianus)
+*P. sandoshami — the Sunda flying lemur (Galeopterus variegatus)
+*P. traguli — the mouse deer
+*P. tyrio — the anteater (Manus pentadactyla)
+*P. voltaicum — the fruit bat (Roussettus smithi)
+*P. watteni — Formosan giant flying squirrel (Petaurista petaurista grandis) 
+
+Vectors
+
+*Anopheles stephensi — P. atheruri, P berghei, P. chabaudi, P. yoelii
+
+Subspecies
+
+*P. berghei — P. berghei yoelii
+*P. chabaudi — P. chabaudi adami and P. chabaudi chabaudi
+*P. melanipherum — P. melanipherum monosoma
+*P. vinkei — P. vinckei brucechwatti, P. vinckei petteri and P. vinckei vinckei.
+*P. yoellii — P. yoelli nigeriensis and P. yoelli yoelli.
+
+Calomys callosus seems unlikely to be a natural host for P. atheruri, as P. atheruri is found in Africa and Calomys callosus in South America.
+
+Less well documented species
+
+The species listed here from Courtney et al. should be regarded as dubious.
+
+* P. achromaticum — the bat (Achromaticatus vesperuginis)
+* P. brodini — the jumping rat (Petrodromus tetradactylus)
+* P. melanipherum — Schreiber's bat (Miniopterus schreibersi)
+* P. melanipherum monosoma — the bat (Vesperugo abramus)
+* P. murinum — the bat (Vespertilio murinus)
+
+P. epomophori of the bat (Hypsignathus monstruosus) has been reclassified as Hepatocystis epomophori.
+
+== Infections in birds ==
+
+Species in five of these subgenera infect birds — Bennettinia, Giovannolaia, Haemamoeba, Huffia and Novyella. Giovannolaia appears to be a polyphytic group and may be sudivided in the future. 
+ 
+Parasite listing
+ 
+Species infecting birds include: P. accipiteris, P. alloelongatum, P. anasum, P. ashfordi, P. bambusicolai, P. bigueti, P. biziurae, P. buteonis, P. cathemerium, P. circumflexum, P. coggeshalli, P. corradettii, P. coturnix, P. dissanaikei, P. durae, P. elongatum, P. fallax, P forresteri, P. gallinacium, P. garnhami, P. giovannolai, P. griffithsi, P. gundersi, P. guangdong, P. hegneri, P. hermani, P. hexamerium, P. huffi, P. jiangi, P. juxtanucleare, P. kempi, P. lophurae, P.lutzi, P. matutinum, P. nucleophilum, P. papernai, P. paranucleophilum, P. parvulum, P. pediocetti, P. paddae, P. pinotti, P. polare, P. relictum, P. rouxi, P. tenue, P. tejerai, P. tumbayaensis and P. vaughani.
+
+ Avian host records 
+ *P. accipiteris — Levant sparrowhawk (Accipiter brevipes) *P. alloelongatum — Levant sparrowhawk (Accipiter brevipes) *P. ashfordi — great reed warblers (Acrocephalus arundinaceus) *P. bigueti — the house sparrow (Passer domesticus) *P. biziurae — the musk duck (Biziura lobata) *P. buteonis — common buzzard (Buteo buteo) *P. cathemerium — red-winged blackbird (Agelaius phoeniceusp), great horned owl (Bubo virginianus), house finch (Carpodacus mexicanus), blue jay (Cyanocitta cristata), blue tit (Cyanistes caeruleus), wood thrush (Hylocichla mustelina), song sparrow (Melospiza melodia), Northern Mockingbird (Mimus polyglottos leucopterus), cowbirds (Molothrus ater ater), house sparrow (Passer domesticus), magpies (Pica pica budsonia), bronze grackle (Quiscalus quiscuia aeneus), finch (Richmondena cardinalis), canary (Serinus canaria), starling (Sturnus vulgaris), house wren (Troglodytes aedon), robin (Turdus migratorius), white-throated sparrow (Zonotrichia albicollis) *P. circumflexum — sharp-shinned hawk, (Accipiter striatus) helmeted guineafowls, (Numida meleagris), red-winged blackbird (Agelaius phoeniceus), blue jay (Cyanocitta cristata), Cape May warbler (Dendroica tigrina), gray cat bird (Dumella carolinensis), juncos (Junco hyemalis byemalls), song sparrow (Melospiza melodia), cowbirds (Molothrus ater ater, chestnut-tailed starling (Sturnus malabaricus), finch (Richmondena cardinalis cardinalis), trumpeter swans (Olor buccinator), brown thrasher (Toxostomar ufum), robin (Turdus migratorius), white-throated sparrow (Zonotrichia albicollis) *P. dissanaikei — Ross-ringed parakeet (Psittacula krameri manillensis) *P. durae — turkeys (Meleagris species), the common peafowl (Pavo cristatus), francolins (Franoclinus leucoscepus and Franoclinus levialanti levialanti), Japanese quail (Coturnix japonica) and Lady Amherst pheasents (Chrysophus amherstiae) *P. elongatum — great reed warblers (Acrocephalus arundinaceus ), red-tailed hawk (Buteo jamaicensis), bobwhite quail (Colinus virginianus virginianus), bald eagle (Haliaeetus leucocephalus), honeycreeper (Loxops parva), eastern screech owl (Otus asio), black-footed penguins (Spheniscus demersus), *P. fallax — pygmy owl (Glaucidium passerinum), turkeys (Meleagris species), the helmeted guineafowl (Numida meleagris) *P. forresteri — eastern screech-owls (Otus asio), great horned owls (Bubo virginianus), barred owls (Strix varia), bald eagles (Haliaeetus leucocephalus), red-shouldered hawks (Buteo lineatus), broad-winged hawks (Buteo platypterus) and red-tailed hawks (Buteo jamaicensis) *P. gallinaceum — red junglefowl (Gallus gallus) *P. garnhami — the rain quail (Coturnix coromendalica) *P. giovannolai — red-billed choughs (Pyrrhocorax pyrrhocorax), the blackbird (Turdus merula) *P. griffithsi — wild turkeys (Meleagris gallopavo intermedia) *P. gundersi — Owls (Otus asio) *P. guangdong — Red-whiskered Bulbul (Pycnonotus jocosus) *P. hegneri — common teal (Anas crecca) *P. hermani — turkeys (Meleagris gallopavo) and bobwhites (Colinus virginianus) *P. hexamerium — bluebirds *P. jiangi — the red-whiskered bulbul (Pycnonotus jocosus) *P. juxtanucleare — red junglefowl (Gallus gallus), black-footed penguins (Spheniscus demersus), white eared-pheasant (Crossoptilon crossoptilon) *P. kempi — turkeys (Meleagris gallopavo), bobwhites (Colinus virginianus), chukars (Alectoris graeca), guinea fowl (Numida meleagris), peacocks (Pavo cristatus) and canaries (Serinus canaria). Mallards (Anas platyrhynchos) and domestic geese (Anser anser) may be transiently infected. *P. loprae — Peking duck (Anas platyrhynchos) *P. matutinum — pigeons and doves (Colubma species) *P. nucleophilium — great tit (Parus major), gray catbird (Dumetella carolinensis) *P. nucleophilum toucani — Swainson's Toucan (Ramphastos swainsonii) *P. octamerium — pintail whydah bird (Vidua macroura) *P. paddae — the Java Sparrow (Padda oryzivora) *P. paranucleophilum — South American tanager *P. parvulum — vanga species *P. pedioecetii — lesser prairie-chicken (Tympanuchus pallidicinctus), Darwin's Nothura (Nothura darwinii), grouse *P. pinotti — the Bananaquit (Coereba flaveola), Euneornis campestris, Loxipasser anoxanthus, the black-faced Grassquit (Tiaris bicolor) *P. polare — Bald Eagle (Haliaeetus leucocephalus), the Barn Swallow (Hirundo rustica), yellow wagtails (Motacilla flava) and cliff swallows (Petrochelidon pyrrhonota) *P. relictum — the little night owl (Athene noctua), blue quails (Coturnix chinensis), blue tit (Cyanistes caeruleus),Gyr falcons (Falco rusticolus), red-backed shrike (Lanius collurio), Hawaiian honeycreepers, yellow wagtails (Motacilla flava), the house sparrow (Passer domesticus), red-billed choughs (Pyrrhocorax pyrrhocorax), the tree sparrow (Passer montanus), the great tit (Parus major), the bearded tit (Panurus biarmicus), Magellanic penguins (Spheniscus magellanicus), black-footed penguins (Spheniscus demersus), pheasents (Tragopan satyra), Turdus jamaicensis, the yellow-faced Grassquit (Tiaris olivacea) *P. rouxi — partridges *P. tenue — a babbler (Garrulax canorus taewanus) and the Pekin Robin (Leiothrix luteus) *P. tejerai — domestic turkeys (Meleagris gallopavo) *P. tumbayaensis — the thrush (Planethicus anthracinus) *P. vaughani — blue jay (Cyanocitta cristata), robins (Erithacus rubecula), red-billed Leiothrix (Leiothrix lutea), Loxigilla violacea, starlings (Sturnus vulgaris), juncos (Junco hyemalis hyemalis), the house sparrow (Passer domesticus), eastern meadowlark (Sturnella magna), starling (Sturnus vulgaris), Black-faced Grassquit (Tiaris bicolor) and White-eyed Thrush (Turdus jamaicensis) 
+
+=== Vectors of avian malaria ===
+
+Aedes species:
+*Aedes aegypti — P. gallinacium
+
+Culex species:
+*Culex fatigans — P. relictum
+*Culex pipiens — P. cathermerium, P. paddae
+*Culex pipiens pipiens — P. kempi
+*Culex nigripalpus — P. elongatum, P. hermani
+*Culex quinquefasciatus — P. relictum
+*Culex restuans — P. elongatum
+*Culex salinarius — P. elongatum, P. hermani
+*Culex stigmatastoma — P. relictum
+*Culex tarsalis — P. kempi, P. hexamerium, P. relictum
+
+Mansonia species:
+*Mansionia crassipes — P. gallinacium
+
+=== Subspecies of avian malaria ===
+
+*P. relictum has been divided into subspecies: P. relictum capistranoae, P. relicturn matutinum and P. relictum relictum.
+ 
+*P. nucleophilum has at least one subspecies — P. nucleophilum toucani
+ 
+Interelatedness
+ 
+*P. durae is related to P. asanum, P. circumflexum, P. fallax, P. formosanum, P. gabaldoni, P. hegneri, P. lophrae, P. lophrae, P. pediocetti, P. pinotti, and P. polare.
+ 
+*P. gallinacium is related to P. griffithsi
+ 
+*P. relictum is related to P. cathemerium, P. giovannolai and P. matutinum. P. relictum may be difficult to distinguish from P. giovannolai on either morphological grounds or on the basis of host species.
+ 
+*P. hexamerium is related to P. vaughni.
+ 
+*P. ashfordi is related to P. vaughni.
+
+*P. relictum is known to infect over 70 bird families and 359 wild bird species so the record here should be regarded as incomplete. Additional host species can be found under the link Plasmodium relictum. It is likely that this species has been responsible for more bird extinctions than any other protist.
+*P. vaughani is the second commonest species of avian malaria parasites after P. relictum.
+*P. inconstans, P. irae, P. praecox, P. subpraecox and P. wasielewski have been re classified as P. relictum. P. subpraecox was described by Grassi and Feletti in 1892. P. wasielewski was described by Brumpt in 1909.
+*P. elongatum infects 21 bird families and 59 species of bird. Additional host species are given under the link P. elongatum.
+*P. dominicana is species known only from fossil amber. It is thought to have been a species infecting birds.
+*The taxonomic status of P. corradettii (Laird, 1998) is regarded as dubious and may be revised.
+*P. huffi may be the same species as P. nucleophilum toucani.
+*P. oti is now regarded as the same species as P. hexamerium.
+*There are 13 species recognised in the subgenus Novyella all of which are listed here.
+
+A number of additional species have been described in birds — P. centropi, P. chloropsidis, P. gallinuae, P. herodialis, P. heroni, P. mornony, P. pericorcoti and P. ploceii — but the suggested speciation was based at least in part on the idea — 'one host — one species'. It has not been possible to reconcile the descriptions with any of the recognised species and these are not regarded as valid species. As further investigations are made into this genus these species may be resurrected.
+
+A species P. japonicum has been reported but this appears to be the only report of this species and it should therefore be regarded of dubious validity.
+
+== Infections in reptiles ==
+
+Species in the subgenera Asiamoeba, Carinamoeba, Lacertaemoba, Paraplasmodium and Sauramoeba infect reptiles. 
+ 
+Over 90 species and subspecies of Plasmodium infect lizards and they have been reported from over 3200 species of lizard and 29 species of snake. Only three species — P. pessoai, P. tomodoni and P. wenyoni — infect snakes.
+
+Species infecting reptiles include: P. achiotense, P. aeuminatum, P. agamae, P. arachniformis, P. attenuatum,P. aurulentum, P. australis, P. azurophilum, P. balli, P. basilisci, P. beebei, P. beltrani , P. brumpti, P. brygooi, P. chiricahuae, P. circularis, P. cnemaspi, P. cnemidophori, P. colombiense, P. cordyli, P. diminutivum, P. diploglossi, P. egerniae, P. fairchildi, P. floridense, P. gabaldoni, P. giganteum, P. gologoense, P. gracilis, P. guyannense, P. heischi, P. holaspi, P. icipeensis, P. iguanae, P. josephinae, P. kentropyxi, P. lacertiliae, P. lainsoni, P. lepidoptiformis, P. lionatum, P. loveridgei, P. lygosomae, P. mabuiae, P. mackerrasae, P. maculilabre, P. marginatum, P. mexicanum, P. michikoa, P. minasense, P. pelaezi, P. pessoai, P. pifanoi, P. pitmani, P. rhadinurum, P. sasai,P. saurocaudatum, P. scorzai, P. siamense, P. robinsoni, P. sasai, P. scorzai, P. tanzaniae, P. tomodoni, P. torrealbai, P. tribolonoti, P. tropiduri, P. uluguruense, P. uzungwiense, P. vacuolatum, P. vastator, P. volans, P. wenyoni and P. zonuriae.
+
+ Host records 
+ *P. agamae — the rainbow lizard (Agama agama) *P. attenuatum — Ameiva ameiva *P. arachniformis — chameleons *P. aurulentum — neotropical forest gecko (Thecadactylus rapicaudus) *P. azurophilum — anole lizards (Anolis gingivinus, Anolis gundlachi, Anolis sabanus) *P. bailli — Anolis lizards (Anolis limifrons, Anolis lionotus and Anolis poecilopus) *P. basilisci — the strpped basilisk (Basiliscus vittatus) *P. beebei — the gekko (Gonatodes taniae) *P. brygooi — short-horned chameleon (Chamaeleo brevicornis) *P. chiricahuae — fence lizard (Sceloporus jarrovi) *P. circularis — Australian skink (Egernia stokesii) *P. cnemaspi — African gecko (Cnemaspis africana) *P. cnemidophori — Ameiva ameiva *P. colombiense — Anolis lizard (Anolis auratus) *P. diploglossi — Anguid lizard (Diploglossus fasciatus) *P. draconis — the flying lizard (Draco volans) *P. egerniae — the land mullet (Egernia major) *P. fairchildi — Anolis lizard Anolis cupreus *P. floridense — anole lizards (Anolis biporcatus, Anolis carolinensis, Anolis frenatus, Anolis gingivinus, Anolis gundlachi, Anolis limifrons, Anolis pentaprion, Anolis sabanus and Anolis sagrei) *P. giganteum — the rainbow lizard (Agama agama), the African tropical lizard (Agama cyanogaster) *P. gologoense — chameleons *P. gracilis — skink (Tribolonotus gracilis) *P. guyannense — the iguanid lizard (Plica plica) *P. heischi — skinks (Mabuya striata) *P. holaspi — African flying lizard (Holaspis guentheri) *P. iguanae — Iguana iguana iguana *P. kentropyxi — teiid lizard (Kentropyx calcarata) *P. lacertiliae — crocodile skink (Tribolonotus species) *P. lainsoni — the gekko (Phyllodactylus ventralis) *P. lepidoptiformis — teiid lizard (Kentropyx calcarata) *P. lionatum — the flying gecko (Ptychozoon lionatum) *P. loveridgei — African gecko (Lygodactylus picturatus) *P. lygosomae — skink (Lygosoma moco) *P. mabuiae — African skink (Mabuya quinquetaeiata) *P. mackerrasae — Australian skinks (Egernia cunninghami, Egernia stokesii and Egernia striolata) *P. maculilabre — African skink (Mabuya species) *P. marginatum — Anolis lizard (Anolis frenatus) *P. mexicanum — fence lizards (Sceloporus occidentalis) *P. michikoa — chameleons *P. minasense — African skink (Mabuya agilis) *P. minasense anolisi — anolis lizards (Anolis cybotes, Anolis distichus, Anolis frenatus and Anolis limifrons) *P. minasense calcaratae — teiid lizard (Kentropyx calcarata) *P. minasense capitoi — Anolis lizard (Anolis capito) *P. minasense carinii — iguanid lizard (Iguana iguana) *P. minasense diminutivum — dwarf tegu lizard (Ameiva ameiva) *P. minasense minasense — African skink (Mabuya mabouya) *P. minasense plicae — olive tree runner lizard (Plica umbra) *P. minasense tegui — blue tengu lizard (Tupinambis teguixin) *P. pelaezi — the iguanid lizard (Urosaurus bicarinatus bicarinatus) *P. pessoai — snakes (Spilotes pullatus and Lachesis muta) *P. pifanoi — the green ameiva lizard (Ameiva ameiva) and a teiid lizard (Kentropyx calcarata) *P. pitmani — African skink (Mabuya species) *P. rhadinurum — Iguana iguana iguana *P. robinsoni — the Parson's Chameleon (Chamaelo parsoni crucifer) *P. sasai — Japanese lacertids (Takydromus tachydromoides and Takydromus smaragdinus) *P. saurocaudatum — the many-lined sun skink (Mabuya multifasciata) *P. scorzai — the gekko Phyllodactylus ventralis *P. siamense — lizards. *P. tanzaniae — chameleons *P. tomodoni — snakes *P. torrealbai — Anolis lizards *P. tribolonoti — skinks (Tribolonotus gracilis) *P. tropiduri — iguanid lizard (Tropidurus torquatus), Anolis lizards (Anolis biporcatus,Anolis cybotes, Anolis frenatus, Anolis limifrons, Anolis lionotus, Anolis pentaprion and Anolis poecilopus), teiid lizard (Kentropyx calcarata) *P. tropiduri aquaticum — Anolis lizards (Anolis lionotus and Anolis poecilopus) *P. tropiduri panamense — Anolis lizard (Anolis biporcatus) *P. tropiduri tropiduri — Tropidurus hispidus *P. robinsoni — the red-headed rock agama lizard (Agama agama) *P. uluguruense — African gecko (Hemidactylus platycephalus) *P. uzungwiense — chameleons *P. vacuolatum — the rainforest lizard (Plica umbra) *P. vastator — the flying lizard (Draco volans) *P. volans — the flying lizard (Draco volans) *P. wenyoni — snakes 
+
+Vectors
+ 
+*P. agamae — Lutzomyia or Culicoides species
+ 
+Culex:
+ 
+*Culex fatigans — P. rhadinurum
+ 
+Aedes:
+ 
+*Aedes aegypti — P. rhadinurum
+ 
+Subspecies
+ 
+*P. fairchildi — P. fairchildi fairchildi and P. fairchildi hispaniolae
+ 
+*P. lygosomae — P. lygosomae nucleoversans and P. lygosomae nucleoversans
+ 
+*P. minasense — P. minasense anolisi, P. minasense capitoi, P. minasense carinii,
+
+P. minasense diminutivum, P. minasense minasense, P. minasense plicae, and P. minasense tegui. An additional subspecies P. minasense calcaratae has also been described. 
+ 
+- 
+*P. traguli — P. traguli traguli and P. traguli memmina.
+ 
+*P. tropiduri — P. tropiduri aquaticum, P. tropiduri panamense and P. tropiduri tropiduri. 
+ 
+Interrelatedness
+ 
+*P. floridense is closely related to P. tropiduri and P. minasense
+
+== Species reclassified into other genera ==
+
+ the following species are regarded as belonging to the genus Hepatocystis rather than Plasmodium.
+ 
+*Plasmodium epomophori
+*Plasmodium kochi
+*Plasmodium limnotragi Van Denberghe 1937
+*Plasmodium pteropi Breinl 1911 
+*Plasmodium ratufae Donavan 1920
+*Plasmodium vassali Laveran 1905
+*Plasmodium gonatodi has been reclassified as a species of Garnia and has been renamed Garnia gonatodi.
+
+== General references ==
+
+The standard reference books for the identification of Plasmodium species are:
+ 
+*
+ 
+* This book remains the standard reference work on malarial species classification.
+ 
+*
+ 
+Other useful references include
+ 
+* 
+* 
+* 
+ 
+
+Some history of malaria — 
+
+== References ==
+
+==External links==
+
+ 
+* Malaria Atlas Project
+*
+
+

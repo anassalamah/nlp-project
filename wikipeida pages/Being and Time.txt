@@ -1,0 +1,107 @@
+[[Being and Time]]
+
+Being and Time () is a 1927 book by the German philosopher Martin Heidegger. Although written quickly, and though Heidegger never completed the project outlined in the introduction, it remains his most important work and has profoundly influenced 20th-century philosophy, particularly existentialism, hermeneutics and deconstruction. The book is dedicated to Edmund Husserl "in friendship and admiration".
+
+==Heidegger's original project==
+Being and Time was originally intended to consist of two major parts, each part consisting of three divisions. Sein und Zeit, pp. 39–40. Heidegger was forced to prepare the book for publication when he had completed only the first two divisions of part one. The remaining divisions planned for Being and Time (particularly the divisions on time and being, Immanuel Kant, and Aristotle) were never published, although in many respects they were addressed in one form or another in Heidegger's other works. In terms of structure, Being and Time remains as it was when it first appeared in print; it consists of the lengthy two-part introduction, followed by Division One, the "Preparatory Fundamental Analysis of Dasein," and Division Two, "Dasein and Temporality."
+
+==Introductory summary==
+
+===Being===
+On the first page of Being and Time, Heidegger describes the project in the following way: "our aim in the following treatise is to work out the question of the sense of being and to do so concretely." "Die konkrete Ausarbeitung der Frage nach dem Sinn von “Sein” ist die Absicht der folgenden Abhandlung." Sein und Zeit, p. 1. Heidegger claims that traditional ontology has prejudicially overlooked this question, dismissing it as overly general, undefinable, or obvious. Ibid., pp. 2–4. 
+
+Instead Heidegger proposes to understand being itself, as distinguished from any specific entities (beings). In other words, being is distinguished from beings such as physical objects or even, as Heidegger explains in his discussion of the "worldhood of the World," that entire collection of things that constitutes the physical universe. To preserve Heidegger's distinction, translators usually render "Sein" as "being", the gerund of "to be", and "Seiend" (singlular) and "Seiendes" (plural) as the verb-derived noun "a being" and "beings," and occasionally, perhaps preferably, as "an entity" and "entities"." "'Being' is not something like a being." "'Sein' ist nicht so etwas wie Seiendes." Sein und Zeit, p. 4. Being, Heidegger claims, is "what determines beings as beings, that in terms of which beings are already understood." "...das Sein, das, was Seiendes als Seiendes bestimmt, das, woraufhin Seiendes, mag es wie immer erörtert werden, je schon verstanden ist," ibid., p. 6. Heidegger is seeking to identify the criteria or conditions by which any specific entity can show up at all (see world disclosure). In English, using the word "existence" instead of "being" might seem more natural and less confusing, but Heidegger, who stresses the importance of the origins of words, uses his understanding of grammar to assist in his investigation of "being," and he reserves the word "existence" to describe that defining type of being that Dasein (human consciousness) has. 
+
+If we grasp Being, we will clarify the meaning of being, or "sense" of being ("Sinn des Seins"), where by "sense" Heidegger means that "in terms of which something becomes intelligible as something." "aus dem her etwas als etwas verständlich wird," Sein und Zeit, p. 151. According to Heidegger, as this sense of being precedes any notions of how or in what manner any particular being or beings exist, it is pre-conceptual, non-propositional, and hence pre-scientific. Ibid., pp. 8–9. Thus, in Heidegger's view, fundamental ontology would be an explanation of the understanding preceding any other way of knowing, such as the use of logic, theory, specific ontology Ibid., p. 12. or act of reflective thought. At the same time, there is no access to being other than via beings themselves—hence pursuing the question of being inevitably means asking about a being with regard to its being. Ibid., p. 7. Heidegger argues that a true understanding of being (Seinsverständnis) can only proceed by referring to particular beings, and that the best method of pursuing being must inevitably, he says, involve a kind of hermeneutic circle, that is (as he explains in his critique of prior work in the field of hermeneutics), it must rely upon repetitive yet progressive acts of interpretation. "The methodological sense of phenomenological description is interpretation." "der methodische Sinn der Phänomenologischen Deskription ist Auslegung," ibid., p. 37. 
+
+===Dasein===
+Thus the question Heidegger asks in the introduction to Being and Time is: what is the being that will give access to the question of the meaning of Being? Heidegger's answer is that it can only be that being for whom the question of Being is important, the being for whom Being matters. As this answer already indicates, the being for whom Being is a question is not a what, but a who. Heidegger calls this being Dasein (an ordinary German word literally meaning "being-there" i.e. existence), and the method pursued in Being and Time consists in the attempt to delimit the characteristics of Dasein, in order thereby to approach the meaning of Being itself through an interpretation of the temporality of Dasein. Dasein is not "man," but is nothing other than "man"—it is this distinction that enables Heidegger to claim that Being and Time is something other than philosophical anthropology.
+
+Heidegger's account of Dasein passes through a dissection of the experiences of Angst and mortality, and then through an analysis of the structure of "care" as such. From there he raises the problem of "authenticity," that is, the potentiality or otherwise for mortal Dasein to exist fully enough that it might actually understand being. Heidegger is clear throughout the book that nothing makes certain that Dasein is capable of this understanding.
+
+===Time===
+Finally, this question of the authenticity of individual Dasein cannot be separated from the "historicality" of Dasein. On the one hand, Dasein, as mortal, is "stretched along" between birth and death, and thrown into its world, that is, thrown into its possibilities, possibilities which Dasein is charged with the task of assuming. On the other hand, Dasein's access to this world and these possibilities is always via a history and a tradition—this is the question of "world historicality," and among its consequences is Heidegger's argument that Dasein's potential for authenticity lies in the possibility of choosing a "hero."
+
+Thus, more generally, the outcome of the progression of Heidegger's argument is the thought that the being of Dasein is time. Nevertheless, Heidegger concludes his work with a set of enigmatic questions foreshadowing the necessity of a destruction (that is, a transformation) of the history of philosophy in relation to temporality—these were the questions to be taken up in the never completed continuation of his project:
+
+The existential and ontological constitution of the totality of Dasein is grounded in temporality. Accordingly, a primordial mode of temporalizing of ecstatic temporality itself must make the ecstatic project of being in general possible. How is this mode of temporalizing of temporality to be interpreted? Is there a way leading from primordial time to the meaning of being? Does time itself reveal itself as the horizon of being? Ibid., p. 437. 
+
+==Phenomenology in Heidegger and Husserl==
+Although Heidegger describes his method in Being and Time as phenomenological, the question of its relation to the phenomenology of Husserl is complex. The fact that Heidegger believes that ontology includes an irreducible hermeneutic (interpretative) aspect, for example, might be thought to run counter to Husserl's claim that phenomenological description is capable of a form of scientific positivity. On the other hand, however, several aspects of the approach and method of Being and Time seem to relate more directly to Husserl's work.
+
+The central Husserlian concept of the directedness of all thought—intentionality—for example, while scarcely mentioned in Being and Time, has been identified by some with Heidegger's central notion of "Sorge" (Cura, care or concern). However, for Heidegger, theoretical knowledge represents only one kind of intentional behaviour, and he asserts that it is grounded in more fundamental modes of behaviour and forms of practical engagement with the surrounding world. Whereas a theoretical understanding of things grasps them according to "presence," for example, this may conceal that our first experience of a being may be in terms of its being "ready-to-hand." Thus, for instance, when someone reaches for a tool such as a hammer, their understanding of what a hammer is is not determined by a theoretical understanding of its presence, but by the fact that it is something we need at the moment we wish to do hammering. Only a later understanding might come to contemplate a hammer as an object.
+
+==Hermeneutics==
+The total understanding of being results from an explication of the implicit knowledge of being that inheres in Dasein. Philosophy thus becomes a form of interpretation, but since there is no external reference point outside being from which to begin this interpretation, the question becomes to know in which way to proceed with this interpretation. This is the problem of the "hermeneutic circle," and the necessity for the interpretation of the meaning of being to proceed in stages: this is why Heidegger's technique in Being and Time is sometimes referred to as hermeneutical phenomenology.
+
+This interpretative aspect of Heidegger's project had a profound influence on the hermeneutic approach of his student Hans-Georg Gadamer.
+
+==Destruction of metaphysics==
+As part of his ontological project, Heidegger undertakes a reinterpretation of previous Western philosophy. He wants to explain why and how theoretical knowledge came to seem like the most fundamental relation to being. This explanation takes the form of a destructuring (Destruktion) of the philosophical tradition, an interpretative strategy that reveals the fundamental experience of being at the base of previous philosophies that had become entrenched and hidden within the theoretical attitude of the metaphysics of presence. This Destruktion is not simply a negative operation but rather a positive transformation, or recovery.
+
+In Being and Time Heidegger briefly undertakes a destructuring of the philosophy of René Descartes, but the second volume, which was intended to be a Destruktion of Western philosophy in all its stages, was never written. In later works Heidegger uses this approach to interpret the philosophies of Aristotle, Kant, Georg Wilhelm Friedrich Hegel, and Plato, among others.
+
+This aspect of Heidegger's work exerted a profound influence on Jacques Derrida, although there are also important differences between Heidegger's Destruktion and Derrida's deconstruction.
+
+==Translations==
+
+So far, there are complete translations of Sein und Zeit in several languages: Arabic, Bulgarian, Chinese, Croatian, Czech, Danish, Dutch, English, Finnish, French, Georgian, Greek, Hungarian, Italian, Japanese, Korean, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Slovenian, Spanish, Swahili, Swedish, and Turkish.
+
+==Related work==
+Being and Time is the towering achievement of Heidegger's early career, but there are other important works from this period:
+*The publication in 1992 of the early lecture course, Platon: Sophistes (Plato's Sophist, 1924), made clear the way in which Heidegger's reading of Aristotle's Nicomachean Ethics was crucial to the formulation of the thought expressed in Being and Time.
+*The lecture course, Prolegomena zur Geschichte des Zeitbegriffs (History of the Concept of Time: Prolegomena, 1925), was something like an early version of Being and Time.
+*The lecture courses immediately following the publication of Being and Time, such as Die Grundprobleme der Phänomenologie (The Basic Problems of Phenomenology, 1927), and Kant und das Problem der Metaphysik (Kant and the Problem of Metaphysics, 1929), elaborated some elements of the destruction of metaphysics which Heidegger intended to pursue in the unwritten second part of Being and Time.
+
+Although Heidegger never completed the project outlined in Being and Time, later works explicitly addressed the themes and concepts of Being and Time. Most important among the works which do so are the following:
+*Heidegger's inaugural lecture upon his return to Freiburg, "Was ist Metaphysik?" ("What Is Metaphysics?", 1929), was an important and influential clarification of what Heidegger meant by being, non-being, and nothingness.
+*Einführung in die Metaphysik (An Introduction to Metaphysics), a lecture course delivered in 1935, is identified by Heidegger, in his preface to the seventh German edition of Being and Time, as relevant to the concerns which the second half of the book would have addressed.
+*Beiträge zur Philosophie (Vom Ereignis) (Contributions to Philosophy Enowning, composed 1936–38, published 1989), perhaps Heidegger's most sustained attempt at reckoning with the legacy of Being and Time.
+*Zeit und Sein ("Time and Being"), a lecture delivered at the University of Freiburg on January 31, 1962. This was Heidegger's most direct confrontation with Being and Time. It was followed by a seminar on the lecture, which took place at Todtnauberg on September 11–13, 1962, a summary of which was written by Alfred Guzzoni. Both the lecture and the summary of the seminar are included in Zur Sache des Denkens (1969; translated as On Time and Being York: Harper & Row, 1972).
+
+==Influence==
+Being and Time influenced many philosophers and writers, among them Hannah Arendt, Leo Strauss, Alexandre Kojève, Hans-Georg Gadamer, Giorgio Agamben, Jean-Paul Sartre, Emmanuel Levinas, Maurice Merleau-Ponty, Alain Badiou, Herbert Marcuse, Jacques Derrida, Michel Foucault and Bernard Stiegler. More specifically, several important philosophical works were directly influenced by Being and Time, although in very different ways in each case. Most notable among the works influenced by Being and Time are the following:
+*and Nothingness: An Essay on Phenomenological Ontology|Being and Nothingness] (1943), by Jean-Paul Sartre
+*Truth and Method (1960), by Hans-Georg Gadamer
+*Totality and Infinity (1961), by Emmanuel Levinas
+*Difference and Repetition (1968), by Gilles Deleuze
+*Being and Event (1988), by Alain Badiou
+*Technics and Time, 1 (1994), by Bernard Stiegler
+
+==References==
+
+ 
+
+==Bibliography==
+
+===Primary literature===
+*Martin Heidegger, Sein und Zeit, in Heidegger's Gesamtausgabe, volume 2, ed. F.-W. von Herrmann, 1977, XIV, 586p.
+*Martin Heidegger, Being and Time, trans. by John Macquarrie & Edward Robinson (London: SCM Press, 1962).
+*Martin Heidegger, Being and Time, trans. by Joan Stambaugh (Albany: State University of New York Press, 1996).
+*Martin Heidegger, Being and Time, trans. by Joan Stambaugh, revised by Dennis J. Schmidt (Albany: State University of New York Press, 2010).
+
+===Secondary literature===
+*Robert Bernasconi, "'The Double Concept of Philosophy' and the Place of Ethics in Being and Time," Heidegger in Question: The Art of Existing (New Jersey: Humanities Press, 1993).
+* William D. Blattner, Heidegger's Temporal Idealism (Cambridge: Cambridge University Press, 1999).
+* Lee Braver. A Thing of This World: a History of Continental Anti-Realism. Northwestern University Press: 2007.
+* Richard Capobianco, Engaging Heidegger with a Foreword by William J. Richardson. University of Toronto Press, 2010.
+* Taylor Carman, Heidegger's Analytic: Interpretation, Discourse, and Authenticity in "Being and Time" (Cambridge: Cambridge University Press, 2003).
+*Jacques Derrida, "Ousia and Gramme: Note on a Note from Being and Time," Margins of Philosophy (Chicago: University of Chicago Press, 1982).
+*Hubert Dreyfus, Being-in-the-World: A Commentary on Heidegger's Being and Time, Division I (Cambridge, Massachusetts, & London: MIT Press, 1990).
+* Hubert Dreyfus, podcast of Philosophy 185 Fall 2007 Heidegger, UC Berkeley
+* Hubert Dreyfus, podcast of Philosophy 189 Spring 2008 Heidegger, UC Berkeley
+*Christopher Fynsk, Heidegger: Thought and Historicity (Ithaca & London: Cornell University Press, 1993, expanded edn.), ch. 1.
+*Michael Gelven, A Commentary on Heidegger's "Being and Time" (Northern Illinois University Press; Revised edition, 1989).
+*Magda King, A Guide to Heidegger’s Being and Time, edited by John Llewelyn (Albany: State University of New York Press, 2001).
+*Theodore Kisiel, The Genesis of Heidegger's Being and Time (Berkeley & Los Angeles: University of California Press, 1993).
+* James Luchte, Heidegger's Early Thought: The Phenomenology of Ecstatic Temporality (London: Bloomsbury Publishing. 2008).
+*William McNeill, The Glance of the Eye: Heidegger, Aristotle, and the Ends of Theory (Albany: State University of New York Press, 1999), ch. 3–4.
+*Jean-Luc Nancy, "The Decision of Existence," The Birth to Presence (Stanford: Stanford University Press, 1993).
+* Cristian Ciocan (ed.), Translating Heidegger's Sein und Zeit, Studia Phaenomenologica V (2005)
+* William J. Richardson, Heidegger: Through Phenomenology to Thought. Martinus Nijhoff, 1963.
+
+==External links==
+*Being and time, excerpts on Google books
+* Arne D. Naess, Jr., Being and time on Encyclopædia Britannica
+
+

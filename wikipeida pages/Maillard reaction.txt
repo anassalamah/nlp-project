@@ -1,0 +1,94 @@
+[[Maillard reaction]]
+
+The crusts of most breads, such as this brioche, are golden-brown due to the Maillard reaction
+
+The Maillard reaction ( ; ) is a chemical reaction between amino acids and reducing sugars that gives browned foods their desirable flavor. Seared steaks, pan-fried dumplings, breads, and many other foods make use of the effect. It is named after French chemist Louis-Camille Maillard, who first described it in 1912 while attempting to reproduce biological protein synthesis. 
+
+The reaction is a form of nonenzymatic browning which typically proceeds rapidly from around 140 to. At higher temperatures, caramelization and subsequently pyrolysis become more pronounced.
+
+The reactive carbonyl group of the sugar reacts with the nucleophilic amino group of the amino acid, and forms a complex mixture of poorly characterized molecules responsible for a range of odors and flavors. This process is accelerated in an alkaline environment (e.g., lye applied to darken pretzels), as the amino groups (RNH3+) are deprotonated and, hence, have an increased nucleophilicity. The type of the amino acid determines the resulting flavor. This reaction is the basis of the flavoring industry. At high temperatures, acrylamide can be formed. 
+
+In the process, hundreds of different flavor compounds are created. These compounds, in turn, break down to form yet more new flavor compounds, and so on. Each type of food has a very distinctive set of flavor compounds that are formed during the Maillard reaction. It is these same compounds that flavor scientists have used over the years to make reaction flavors.
+
+== History ==
+In 1912 Maillard published a paper trying to explain what happens when amino acids react with sugars at elevated temperatures. However, it was chemist John E. Hodge, working at the U.S. Department of Agriculture in Peoria, Illinois, who published a paper in 1953 that established a mechanism for the Maillard reaction. 
+ 
+ 
+
+== Foods and products with Maillard reactions ==
+6-Acetyl-2,3,4,5-tetrahydropyridine
+2-Acetylpyrroline
+
+The Maillard reaction is responsible for many colors and flavors in foods:
+
+* The browning of various meats like steak, when seared and grilled.
+* Toasted bread.
+* The darkened crust of baked goods like Pretzels and Bread.
+* The golden-brown color of French Fries.
+* Malted barley as in malt whiskey or beer.
+* Dried or condensed milk.
+* Roasted coffee.
+* Dulce de leche.
+* Maple syrup.
+
+6-Acetyl-2,3,4,5-tetrahydropyridine is responsible for the biscuit or cracker-like flavor present in baked goods like bread, popcorn, and tortilla products. The structurally related compound 2-acetyl-1-pyrroline has a similar smell, and occurs also naturally without heating and gives varieties of cooked rice and the spice pandan (Pandanus amaryllifolius) their typical smells. Both compounds have odor thresholds below 0.06 ng/l. 
+Pork browned using maillard reaction
+French fries 
+
+The browning reactions that occur when meat is roasted or seared are complicated, and occur mostly by Maillard browning McGee, Harold (2004). On Food and Cooking: The Science and Lore of the Kitchen, pp. 778–9. Scribner, New York. ISBN 978-0-684-80001-1. with contributions from other chemical reactions, including the breakdown of the tetrapyrrole rings of the muscle protein myoglobin.
+
+Caramelization is an entirely different process from Maillard browning, though the results of the two processes are sometimes similar to the naked eye (and tastebuds). Caramelization may sometimes cause browning in the same foods in which the Maillard reaction occurs, but the two processes are distinct. They both are promoted by heating, but the Maillard reaction involves amino acids, as discussed above, whereas caramelization is simply the pyrolysis of certain sugars. The following things are a result of the Maillard browning reaction:
+
+* Caramel made from milk and sugar, especially in candies: Milk is high in protein (amino acids), and browning of food involving this complex ingredient would most likely include Maillard reactions. See references below.
+* Chocolate and maple syrup
+* Lightly roasted peanuts
+
+In making silage, excess heat causes the Maillard reaction to occur, which reduces the amount of energy and protein available to the animals who feed on it.
+
+A pressure cooker is well-suited for achieving the higher temperatures often required for the Maillard reaction to occur (depending upon what is being prepared). Science of Pressure Cooking 
+
+== Process ==
+# The carbonyl group of the sugar reacts with the amino group of the amino acid, producing N-substituted glycosylamine and water
+# The unstable glycosylamine undergoes Amadori rearrangement, forming ketosamines
+# There are several ways for the ketosamines to react further:
+#* Produce 2 water and reductones
+#* Diacetyl, aspirin, pyruvaldehyde and other short-chain hydrolytic fission products can be formed
+#* Produce brown nitrogenous polymers and melanoidins
+
+== Physiology ==
+The Maillard reaction also occurs in the human body. It is a step in the formation of advanced glycation endproducts (AGEs). It is tracked by measuring pentosidine.
+Although the Maillard reaction has been studied most extensively in foods, it has also shown a correlation in numerous different diseases in the human body, in particular degenerative eye diseases. In general, these diseases are due to the accumulation of AGEs on nucleic acids, proteins, and lipids. Though AGEs have numerous origins, they can form from the oxidation and dehydration of Amadori adducts, which themselves are products of nonenzymatic Maillard reactions. Apart from ocular diseases, whose correlation with Maillard chemistry has been more recently studied, the formation of AGEs has also proven to contribute to a wide range of human diseases that include diabetic complications, pulmonary fibrosis, and neurodegeneration.
+
+Receptor systems in the body have been suggested to have evolved to remove glycation-modified molecules, such as AGEs, to eliminate their effects. The adverse effects of AGE accumulation appear to be mediated by numerous different AGE receptors. Examples include AGE-R1, galectin-3, CD36, and, most noted, RAGE, the receptor for AGEs.
+
+Advanced glycation in numerous different locations within the eye can prove detrimental. In the cornea, whose endothelial cells have been known to express RAGE and galectin-3, the accumulation of AGEs is associated with thickened corneal stroma, corneal edema, and morphological changes within patients with diabetes. Within the lens, Maillard chemistry has been studied extensively in the context of cataract formation. Advanced glycation is known to alter fiber membrane integrity in the lens, and dicarbonyl compounds are known to cause increased aggregate formation within the lens. This effect is exacerbated by both diabetes and aging. Furthermore, it is thought that AGE-inhibiting compounds are effective in preventing cataract formation in diabetics.
+
+Glycation in Maillard reactions may lead to destabilization of the vitreous gel structure within the eye via unnecessary cross-linking between collagen fibrils. Again, this process is more strongly observed within diabetic patients.
+
+Within the retina, the accumulation of AGEs in the drusen and Bruch's membrane has been associated with age, and has also been observed at a higher level among patients with age-related macular degeneration (AMD). This is manifested by the thickening of the Bruch's membrane. Furthermore, it has been observed that AGE levels increase with age within the lamina cribrosa, and the products of the Maillard reaction have been observed there, as well.
+
+A wide range of ocular diseases, particularly diabetic retinopathy, may be prevented by the inhibition of the Maillard reaction. This may be achieved in numerous ways: preventing the formation of AGEs, reducing the effectiveness of the AGE signaling pathway and the receptor-ligand interactions, or breaking the AGE crosslinks. This latter method has already been achieved to some extent by the breaker alagebrium, though its effectiveness against retinopathy is unknown. Another method is by the use of amadorins, which are able to prevent the reaction of Amadori intermediates, which form into AGEs, by scavenging the reactive carbonyls. 
+
+== See also ==
+
+* Advanced glycation end-product
+* Baking
+* Beer
+* Wok hei
+
+== References ==
+
+== Further reading ==
+* Van Soest, Peter J. (1982). Nutritional Ecology of the Ruminant (2nd ed.). Ithaca, NY: Cornell University Press. ISBN 9780801427725. .
+
+== External links ==
+
+* Course website on Maillard reaction (archived copy)
+* Diagram of the Maillard Reaction
+* Food-Info.net
+* Official Website of the International Maillard Reaction Society
+* The Thermochemical Joy of Cooking
+* The secret of fresh beer: the Maillard reaction
+* The Maillard Reaction at Modernist Cuisine
+
+

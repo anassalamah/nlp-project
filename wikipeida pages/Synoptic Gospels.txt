@@ -1,0 +1,145 @@
+[[Synoptic Gospels]]
+
+The calming of the storm is similarly recounted in each of the three synoptic gospels, but not in John.
+
+The gospels of Matthew, Mark, and Luke are referred to as the Synoptic Gospels because they include many of the same stories, often in a similar sequence and in similar wording. They stand in contrast to John, whose content is comparatively distinct. The term synoptic comes from the Greek syn, meaning "together", and optic, meaning "seen". 
+
+This strong parallelism among the three gospels in content, arrangement, and specific language is widely attributed to literary interdependence. The question of the precise nature of their literary relationship — the "synoptic problem" — has been a topic of lively debate for centuries and has been described as "the most fascinating literary enigma of all time". The longstanding majority view favors Marcan priority, in which both Matthew and Luke have made direct use of the Gospel of Mark as a source, and further holds that Matthew and Luke also drew from an additional hypothetical document, called Q.
+
+== Structure ==
+
+Almost all of Mark's content is found in Matthew, and much of Mark is similarly found in Luke. Additionally, Matthew and Luke have a large amount of material in common that is not found in Mark.
+
+=== Common features ===
+
+The synoptic gospels are similar to John from a broad view. All are compositions in Koine Greek, of roughly similar length, completed within a century of Jesus' death. Unlike, say, the Gospel of Thomas, the four canonical gospels belong to the ancient genre of biography, collecting not only the teachings of Jesus, but recounting in an orderly way his origins, his ministry and miracles, and his passion and resurrection.
+
+In selection of content and in wording, though, the synoptics diverge widely from John but have a great deal in common with each other. Though each gospel includes some unique material, the majority of Mark and roughly half of Matthew and Luke coincide in content, in much the same sequence, often nearly verbatim. This common material is termed the triple tradition.
+
+=== The triple tradition ===
+
+The triple tradition, the material included by all three synoptic gospels, includes many stories and teachings:
+
+Furthermore, the pericopae of the triple tradition tend to be arranged in much the same order in all three gospels. This stands in contrast to the material found in only two of the gospels, which is much more variable in order. 
+
+The classification of text as belonging to the triple tradition (or for that matter, double tradition) is not always definitive, depending rather on the degree of similarity demanded. For example, Matthew and Mark report the cursing of the fig tree, clearly a single incident, despite some substantial differences of wording and content. Searching Luke, however, we find only the parable of the barren fig tree, in a different point of the narrative. Some would say that Luke has extensively adapted an element of the triple tradition, while others would regard it as a distinct pericope.
+
+==== Example ====
+
+Christ cleansing a leper by Jean-Marie Melchior Doze, 1864.
+
+An illustrative example of the three texts in parallel is the healing of the leper: 
+
+ 
+ Καὶ ἰδοὺ, λεπρὸς προσελθὼν προσεκύνει αὐτῷ λέγων· Κύριε, ἐὰν θέλῃς δύνασαί με καθαρίσαι. καὶ ἐκτείνας τὴν χεῖρα ἥψατο αὐτοῦ λέγων· Θέλω, καθαρίσθητι· καὶ εὐθέως ἐκαθαρίσθη αὐτοῦ ἡ λέπρα. Καὶ ἔρχεται πρὸς αὐτὸν λεπρὸς παρακαλῶν αὐτὸν καὶ γονυπετῶν καὶ λέγων αὐτῷ ὅτι, Ἐὰν θέλῃς δύνασαί με καθαρίσαι. καὶ σπλαγχνισθεὶς ἐκτείνας τὴν χεῖρα αὐτοῦ ἥψατο καὶ λέγει αὐτῷ· Θέλω, καθαρίσθητι· καὶ εὐθὺς ἀπῆλθεν ἀπ᾿ αὐτοῦ ἡ λέπρα, καὶ ἐκαθαρίσθη. Καὶ ἰδοὺ, ἀνὴρ πλήρης λέπρας· ἰδὼν δὲ τὸν Ἰησοῦν πεσὼν ἐπὶ πρόσωπον ἐδεήθη αὐτοῦ λέγων· Κύριε, ἐὰν θέλῃς δύνασαί με καθαρίσαι. καὶ ἐκτείνας τὴν χεῖρα ἥψατο αὐτοῦ λέγων· Θέλω, καθαρίσθητι· καὶ εὐθέως ἡ λέπρα ἀπῆλθεν ἀπ᾿ αὐτοῦ. 
+ And behold, a leper came and worships him, saying: Lord, if you wish, I can be cleansed. And he stretched out his hand and touched him, saying: I wish it; be cleansed. And immediately his leprosy was cleansed. And, calling out to him, there comes to him a leper and kneeling and saying to him: If you wish, I can be cleansed. And, moved with compassion, he stretched out his hand and touched him and says to him: I wish it; be cleansed. And immediately the leprosy left him, and he was cleansed. And behold, a man full of leprosy. But, upon seeing Jesus, he fell upon his face and requested him, saying: Lord, if you wish, I can be cleansed. And he stretched out his hand and touched him, saying: I wish it; be cleansed. And immediately the leprosy left him. 
+
+More than half the wording in this passage is identical. Just as interesting, though, is that each gospel includes words absent in the other two and omits something included by the other two.
+
+=== Relation to Mark ===
+
+It has been observed that the triple tradition itself constitutes a complete gospel quite similar to the shortest gospel, Mark.
+
+Mark, in contrast to Matthew and Luke, adds relatively little to the triple tradition. Pericopae unique to Mark are scarce, notably two healings involving saliva and the naked runaway. Mark's additions within the triple tradition tend to be explanatory elaborations (e.g., "the stone was rolled back, for it was very large") or Aramaisms (e.g., "Talitha kum!"). The pericopae Mark shares with only Luke are also quite few: the Capernaum exorcism and departure from Capernaum, the strange exorcist, and the widow's mites. A greater number, but still not many, are shared with only Matthew, most notably the so-called "Great Omission" from Luke of .
+
+Such observations have been taken by most scholars as a strong clue to the literary relationship among the synoptics and Mark's special place in that relationship. The hypothesis favored by most experts is Marcan priority, that Mark was composed first and that Matthew and Luke each used Mark and incorporated most of it, with adaptations, into their own gospels. A leading alternative hypothesis is Marcan posteriority, that Mark was formed primarily by extracting what Matthew and Luke shared in common.
+
+=== The double tradition ===
+
+The preaching of John the Baptist in Matthew and Luke, with differences rendered in black. & . Text from 1894 Scrivener New Testament. Here the two texts agree verbatim, with an isolated exception, for a span of over sixty words. Mark has no parallel.
+
+An extensive set of material, some two hundred verses or roughly half the length of the triple tradition, is the pericopae (passages) shared between Matthew and Luke but absent in Mark. This is termed the double tradition.
+
+The double tradition comprises parables and other sayings predominantly but also includes narrative elements.
+
+In contrast to the triple tradition, the double tradition material is very differently arranged in the two gospels. Matthew's lengthy Sermon on the Mount, for example, is paralleled by Luke's shorter Sermon on the Plain, with the remainder of its content scattered throughout Luke. This is consistent with the general pattern of Matthew collecting sayings into large blocks, while Luke does the opposite and intersperses them with narrative.
+
+Besides the double tradition proper, Matthew and Luke often agree against Mark within the triple tradition to varying extents, sometimes including several additional verses, sometimes differing by a single word. These are termed the major and minor agreements (the distinction is imprecise ). One example is in the passion narrative, where Mark has simply, "Prophesy!" while Matthew and Luke both add, "Who is it that struck you?"
+
+The origin of the double tradition, as well as the major and minor agreements, is a key facet of the synoptic problem. The simplest hypothesis is that Luke has used Matthew, or vice versa. But many experts, on various grounds, hold that neither Matthew nor Luke made use of the other; if so, it is then argued, they must each have drawn from some common source, distinct from Mark, which provided the double tradition material and overlapped with Mark's content where the major agreements occur. This hypothetical document is termed Q, for the German Quelle, meaning "source".
+
+=== Special Matthew and Special Luke ===
+
+Both Matthew and Luke include extensive material found in no other gospel, sometimes called, respectively, Special Matthew or M and Special Luke or L.
+
+Both Special Matthew and Special Luke include distinct opening infancy narratives and distinct post-resurrection conclusions (with Luke continuing the story in his second book Acts). In between, Special Matthew includes mostly parables, while Special Luke includes both parables and healings.
+
+Special Luke is notable for containing a greater concentration of Semitisms than any other gospel material. 
+
+Luke gives some indication of how he composed his gospel in his prologue: 
+
+: Since many have undertaken to set down an orderly account of the events that have been fulfilled among us, just as they were handed on to us by those who from the beginning were eyewitnesses and servants of the word, I too decided, after investigating everything carefully from the very first, to write an orderly account for you, most excellent Theophilus, so that you may know the truth concerning the things about which you have been instructed.
+
+== The synoptic problem ==
+
+The "synoptic problem" is the question of the specific literary relationship between the three synoptic gospels–that is, the question as to the source upon which gospel depended when it was written.
+
+The texts of the three synoptic gospels often agree very closely in wording and order, both in quotations and in narration. Most scholars ascribe this to documentary dependence, direct or indirect, meaning that the close agreements between synoptic gospels are due to one gospel drawing from the text of another, or from some written source that gospel also drew from.
+
+=== Controversies ===
+
+The synoptic problem hinges on several interrelated points of controversy:
+
+* Priority. Which gospel was written first? (Clearly, where one text draws from another, the source must have been composed first.)
+* Successive dependence. Did each of the synoptic gospels draw from each of its predecessors? (If not, clearly the frequent agreements between the two independent gospels against the third must originate elsewhere.)
+* Lost written sources. Did any of the gospels draw from some earlier document that has not been preserved (e.g., the hypothetical "Q", or an earlier edition of another gospel)?
+* Oral sources. To what extent did each evangelist draw from personal knowledge, eyewitness accounts, liturgy, or other oral traditions to produce an original written account?
+* Translation. Jesus and others quoted in the gospels spoke primarily in Aramaic, but the gospels themselves are each written in Greek. Who performed the translation, and at what point?
+* Redaction. How and why did those who put the gospels in their final form expand, abridge, alter, or rearrange their sources?
+
+Furthermore, some theories try to explain the relation of the synoptic gospels to John; to non-canonical gospels such as Thomas, Peter, and Egerton; to the Didache; and to lost documents such as the Hebrew logia mentioned by Papias, the Jewish-Christian gospels, and the Gospel of Marcion.
+
+=== History ===
+
+A page of Griesbach's Synopsis Evangeliorum, in which the texts of the synoptic gospels are arranged in columns.
+
+Ancient sources are virtually unanimous in ascribing the synoptic gospels to, respectively, the apostle Matthew, Peter's interpreter Mark, and Paul's companion Luke, hence their canonical names. A remark by Augustine at the turn of the fifth century presents the gospels as composed in their canonical order (Matthew, Mark, Luke, John), with each evangelist thoughtfully building upon and supplementing the work of his predecessors — the Augustinian (Matthew-Mark) hypothesis. 
+
+This view (when any model of dependence was considered at all) was seldom questioned until the late eighteenth century, when Griesbach published a synopsis of the gospels. Instead of harmonizing them, he displayed them side by side, making both similarities and divergences apparent. Griesbach, noticing the special place of Mark in the synopsis, hypothesized Marcan posteriority and advanced (as Owen had a few years earlier) the Griesbach (Matthew-Luke) hypothesis.
+
+In the nineteenth century, the tools of literary criticism were applied to the synoptic problem in earnest, especially in German scholarship. Early work revolved around a hypothetical proto-gospel (Ur-Gospel), possibly in Aramaic, underlying the synoptics. From this line of inquiry, however, a consensus emerged that Mark itself was the principal source for the other two gospels—Marcan priority.
+
+In a theory first proposed by Weisse in 1838, the double tradition was explained by Matthew and Luke independently using two sources — thus, the Two-source (Mark-Q) theory — which were Mark and another hypothetical source consisting mostly of sayings. This additional source was at first seen as the logia (sayings) spoken of by Papias and thus called "Λ", but later it became more generally known as "Q", from the German Quelle, meaning source. This two-source theory eventually won wide acceptance and was seldom questioned until the late twentieth century; most scholars simply took this new orthodoxy for granted and directed their efforts toward Q itself, and this is still largely the case.
+
+The theory is also well known in a more elaborate form set forth by Streeter in 1924, which additionally hypothesized written sources "M" and "L" for Special Matthew and Special Luke, respectively — hence, the influential Four-source hypothesis. This exemplifies the prevailing scholarship of the time, in which the canonical gospels were seen as late products, from well into the second century, composed by unsophisticated cut-and-paste redactors out of a progression of written sources, derived in turn from oral traditions and folklore that had evolved in various communities. More recently, however, as this view has gradually fallen into disfavor, so too has the centrality of documentary interdependence and hypothetical documentary sources as an explanation for all aspects of the synoptic problem.
+
+In recent decades, weaknesses of the two-source theory have been more widely recognized, and debate has reignited. Many have independently argued that Luke did make some use of Matthew after all—the Three-source hypothesis. British scholars went further and dispensed with Q entirely, ascribing the double tradition to Luke's direct use of Matthew—the Farrer (Mark-Matthew) hypothesis, now a leading challenger. Meanwhile, Matthaean priority has also made a comeback, especially in American scholarship. Even Lucan priority has attracted fresh advocates, as has the Independence hypothesis, which denies documentary relationships altogether.
+
+On this collapse of consensus, Wenham observed: "I found myself in the Synoptic Problem Seminar of the Society for New Testament Studies, whose members were in disagreement over every aspect of the subject. When this international group disbanded in 1982 they had sadly to confess that after twelve years' work they had not reached a common mind on a single issue." 
+
+=== Theories ===
+
+Nearly every conceivable theory has been advanced as a solution to the synoptic problem. Carlson lists over twenty of the major ones, with citations of the literature. The most notable theories are listed here (for details of each, including variants, see the respective articles):
+
+ Notable synoptic theories Priority Theory Though eponymous and some haphazard structural names are prevalent in the literature, a systematic structural nomenclature is advocated by Carlson and Smith, and these names are also provided. Diagram Notes 
+ Marcan priority Two&#8209;source (Mark&#8209;Q) 203px Most widely accepted theory. Matthew and Luke have independently used Q, taken to be a Greek document with sayings and narrative. 
+ Farrer (Mark-Matthew) 203px Double tradition explained entirely by Luke's use of Matthew. 
+ Wilke (Mark-Luke) right Double tradition explained entirely by Matthew's use of Luke. 
+ Three&#8209;source (Mark&#8209;Q/Matthew) 203px A hybrid of Two-source and Farrer. Q may be limited to sayings, may be in Aramaic, may be also a source for Mark. 
+ Matthaean priority Two&#8209;gospel (Griesbach) (Matthew&#8209;Luke) 203px Mark primarily has collected what Matthew and Luke share in common (Marcan posteriority). 
+ Augustinian (Matthew&#8209;Mark) 203px The oldest known view, still advocated by some, with composition in canonical order. Mark's special place is neither priority nor posteriority, but as the intermediate between the other two gospels. 
+ Lucan priority Jerusalem school (Luke&#8209;Q) 203px A Greek anthology (A), translated literally from a Hebrew original, was used by each gospel. Luke also drew from an earlier lost gospel, a reconstruction (R) of the life of Jesus reconciling the anthology with yet another narrative work. Matthew has not used Luke directly. 
+ none Multi&#8209;source 315px Each gospel drew from a different combination of hypothetical earlier documents. 
+ Proto&#8209;gospel 255px The gospels each independently derive from a common proto-gospel (Ur-Gospel), possibly in Hebrew or Aramaic. 
+ Independence 255px Each gospel is an independent and original composition based upon oral history. 
+
+== See also ==
+
+* Biblical criticism
+* Source criticism
+* Authorship of the Gospels
+* Aramaic primacy
+* Gospel harmony
+* List of key episodes in the Canonical Gospels
+
+== References ==
+
+== External links ==
+
+* Catholic Encyclopedia: Synoptics
+* Hypotyposeis: Synoptic Problem Website
+* TextExcavation: The Synoptic Project
+* Synoptic Gospels Primer
+* NT Gateway: Synoptic Problem Web Sites
+
+

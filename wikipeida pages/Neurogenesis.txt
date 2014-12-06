@@ -1,0 +1,107 @@
+[[Neurogenesis]]
+
+illustration from Faiz et al., 2005. ]]
+Neurogenesis (birth of neurons) is the process by which neurons are generated from neural stem cells and progenitor cells. Most active during pre-natal development, neurogenesis is responsible for populating the growing brain with neurons. Recently, neurogenesis was shown to continue in two parts of the brains of adult mammals: the hippocampus and the subventricular zone. Studies have indicated that the hormone testosterone in vertebrates, and the prohormone ecdysone in insects, have an influence on the rate of neurogenesis.
+
+==Occurrence in adults==
+Doublecortin expression in the rat dentate gyrus, 21st postnatal day. Oomen et al., 2009. 
+New neurons are continually born throughout adulthood in predominantly two regions of the brain:
+* The subventricular zone (SVZ) lining the lateral ventricles, where neural stem cells and progenitor generate new neurons (Neuroblast) that migrate to the olfactory bulb via the rostral migratory stream. However, recent work has shown these cells migrate to the striatum in humans and not the olfactory bulb 
+*The subgranular zone (SGZ), part of the dentate gyrus of hippocampus.
+Many of the newborn cells die shortly after they are born, but a number of them become functionally integrated into the surrounding brain tissue. 
+ 
+Adult neurogenesis is an example of a long-held scientific theory being further studied. Early neuroanatomists, including Santiago Ramón y Cajal, considered the nervous system fixed and incapable of regeneration. The first evidence of adult mammalian neurogenesis in the cerebral cortex was presented by Joseph Altman in 1962, followed by a demonstration of adult neurogenesis in the dentate gyrus of the hippocampus in 1963. In 1969, Joseph Altman discovered and named the rostral migratory stream as the source of adult generated granule cell neurons in the olfactory bulb. Up until the 1980s, the scientific community ignored these findings despite use of the most direct method of demonstrating cell proliferation in the early studies, i. e. 3H-thymidine autoradiography. By that time, Shirley Bayer (and Michael Kaplan) again showed that adult neurogenesis exists in mammals (rats), and Nottebohm showed the same phenomenon in birds sparking renewed interest in the topic. Studies in the 1990s finally put research on adult neurogenesis into a mainstream pursuit. Also in the early 1990s hippocampal neurogenesis was demonstrated in non-human primates and humans. More recently, neurogenesis in the cerebellum of adult rabbits has also been characterized. Further, some authors (particularly Elizabeth Gould) have suggested that adult neurogenesis may also occur in regions within the brain not generally associated with neurogenesis including the neocortex. However, others have questioned the scientific evidence of these findings, arguing that the new cells may be of glial origin. Recent research has elucidated the regulatory effect of GABA on neural stem cells. GABA's well-known inhibitory effects across the brain also affect the local circuitry that triggers a stem cell to become dormant. They found that diazepam (Valium) has a similar effect. http://www.nature.com/nature/journal/vaop/ncurrent/full/nature11306.html 
+
+===Role in learning===
+
+The functional relevance of adult neurogenesis is uncertain, but there is some evidence that hippocampal adult neurogenesis is important for learning and memory. Multiple mechanisms for the relationship between increased neurogenesis and improved cognition have been suggested, including computational theories to demonstrate that new neurons increase memory capacity, reduce interference between memories, or add information about time to memories. Experiments aimed at ablating neurogenesis have proven inconclusive, but several studies have proposed neurogenic-dependence in some types of learning, and others seeing no effect. Studies have demonstrated that the act of learning itself is associated with increased neuronal survival. However, the overall findings that adult neurogenesis is important for any kind of learning are equivocal.
+
+===Effects of stress===
+
+Adult-born neurons appear to have a role in the regulation of stress. Studies have linked neurogenesis to the beneficial actions of specific antidepressants, suggesting a connection between decreased hippocampal neurogenesis and depression. In a pioneer study, scientists demonstrated that the behavioral benefits of antidepressant administration in mice is reversed when neurogenesis is prevented with x-irradiation techniques. In fact, newborn neurons are more excitable than older neurons due to a differential expression of GABA receptors. A plausible model, therefore, is that these neurons augment the role of the hippocampus in the negative feedback mechanism of the HPA-axis (physiological stress) and perhaps in inhibiting the amygdala (the region of brain responsible for fearful responses to stimuli). Indeed, suppression of adult neurogenesis can lead to an increased HPA-axis stress response in mildly stressful situations. This is consistent with numerous findings linking stress-relieving activities (learning, exposure to a new yet benign environment, and exercise) to increased levels of neurogenesis, as well as the observation that animals exposed to physiological stress (cortisol) or psychological stress (e.g. isolation) show markedly decreased levels of newborn neurons. Interestingly, under chronic stress conditions, the elevation of newborn neurons by antidepressants improves the hippocampal-dependent control on the stress response; without newborn neurons, antidepressants are unable to restore the regulation of the stress response and recovery becomes impossible. 
+
+Some studies have hypothesized that learning and memory are linked to depression, and that neurogenesis may promote neuroplasticity. One study proposes that mood may be regulated, at a base level, by plasticity, and thus not chemistry. Accordingly, the effects of antidepressant treatment would only be secondary to change in plasticity. However another study has demonstrated an interaction between antidepressants and plasticity; the antidepressant fluoxetine has been shown to restore plasticity in the adult rat brain. The results of this study imply that instead of being secondary to changes in plasticity, antidepressant therapy could promote it.
+
+===Effects of sleep reduction===
+
+One study has linked lack of sleep to a reduction in rodent hippocampal neurogenesis. The proposed mechanism for the observed decrease was increased levels of glucocorticoids. It was shown that two weeks of sleep deprivation acted as a neurogenesis-inhibitor, which was reversed after return of normal sleep and even shifted to a temporary increase in normal cell proliferation. More precisely, when levels of corticosterone are elevated, sleep deprivation inhibits this process. Nonetheless, normal levels of neurogenesis after chronic sleep deprivation return after 2 weeks, with a temporary increase of neurogenesis. (http://www.pnas.org/content/103/50/19170.full)
+While this is recognized, overlooked is the blood glucose demand exhibited during temporary diabetic hypoglycemic states. The American Diabetes Association amongst many documents the pseudosenilia and agitation found during temporary hypoglycemic states. Much more clinical documentation is needed to competently demonstrate the link between decreased hematologic glucose and neuronal activity and mood.
+
+===Possible use in treating Parkinson's disease===
+
+Parkinson's disease is a neurodegenerative disorder characterized by a progressive loss of dopaminergic neurons in the substantia nigra. Transplantation of fetal dopaminergic precursor cells has paved the way for the possibility of a cell replacement therapy that could ameliorate clinical symptoms in affected
+patients. In recent years, scientists have provided evidence for the existence of neural stem cells with the potential to produce new neurons, particularly of a dopaminergic phenotype, in the adult mammalian brain. Experimental depletion of dopamine in rodents decreases precursor cell proliferation in both the subependymal zone and the subgranular zone. Proliferation is restored completely by a selective agonist of D2-like (D2L) receptors. Neural stem cells have been identified in the neurogenic brain regions, where neurogenesis is constitutively ongoing, but also in the non-neurogenic zones, such as the midbrain and the striatum, where neurogenesis is not thought to occur under normal physiological conditions. Newer research has shown that there in fact is neurogenesis in the striatum. Neurogenesis in the Striatum of the Adult Human Brain 
+A detailed understanding of the factors governing adult neural stem cells in vivo may ultimately lead to elegant cell therapies for neurodegenerative disorders such as Parkinson's disease by mobilizing autologous endogenous neural stem cells to replace degenerated neurons. 
+
+===Effects of exercise===
+Scientists have shown that physical activity in the form of voluntary exercise results in an increase in the number of newborn neurons in the hippocampus of aging mice. The same study demonstrates an enhancement in learning of the "runner" (physically active) mice. Other research demonstrated that exercising mice that did not produce beta-endorphin, a mood-elevating hormone, had no change in neurogenesis. Yet, mice that did produce this hormone, along with exercise, exhibited an increase in newborn cells and their rate of survival. 
+While the association between exercise-mediated neurogenesis and enhancement of learning remains unclear, this study could have strong implications in the fields of aging and/or Alzheimer's disease.
+
+===Changes in old age===
+Neurogenesis is substantially reduced in the hippocampus of aged animals, raising the possibility that it may be linked to age-related declines in hippocampal function. For example, the rate of neurogenesis in aged animals is predictive of memory. However, new born cells in aged animals are functionally integrated. Given that neurogenesis occurs throughout life, it might be expected that the hippocampus would steadily increase in size during adulthood, and that therefore the number of granule cells would be increased in aged animals. However, this is not the case, indicating that proliferation is balanced by cell death. Thus, it is not the addition of new neurons into the hippocampus that seems to be linked to hippocampal functions, but rather the rate of turnover of granule cells. 
+
+===Alzheimer's disease===
+Allopregnanolone, a neurosteroid, aids the continued neurogenesis in the brain. Levels of allopregnanolone in the brain decline in old age and Alzheimer's disease. Allopregnanolone has been shown through reversing impairment of neurogenesis to reverse the cognitive deficits in a mouse model of Alzheimer's disease. 
+
+===Implications for Depression===
+Many now believe stress to be the most significant factor for the onset of depression, aside from genetics. As discussed above, hippocampal cells are sensitive to stress which can lead to decreased neurogenesis. This area is being considering more frequently when examining the causes and treatments of depression. Studies have shown that removing the adrenal gland in rats caused increased neurogenesis in the dentate gyrus. The adrenal gland is responsible for producing cortisol in response to a stressor, a substance that when produced in chronic amounts causes the down regulation of serotonin receptors and suppresses the birth of neurons. It was shown in the same study that administration of corticosterone to normal animals suppressed neurogenesis, the opposite effect. The most typical class of antidepressants administered for this disease are selective serotonin reuptake inhibitors (SSRIs) and their efficacy may be explained by neurogenesis. In a normal brain, an increases in serotonin causes suppression of the corticotropin-releasing hormone (CRH) through connection to the hippocampus. It directly acts on the paraventricular nucleus to decrease CRH release and down regulate noroepinephrine functioning in the locus coeruleus. Because CRH is being repressed, the decreases neurogenesis that is associated with elevated levels of it is also being reversed. This allows for the production of more brain cells, in particular at the 5-HT1a receptor in the dentate gyrus of the hippocampus which has been shown to improve symptoms of depression. It normally takes neurons approximately three to six weeks to mature, which is approximately the same amount of time it takes for SSRIs to take effect. This correlation strengthens the hypothesis that SSRIs act through neurogenesis to decrease the symptoms of depression.
+
+==Regulation==
+Summary of the signalling pathways in the neural stem cell microenvironment.
+Many factors may affect the rate of hippocampal neurogenesis. Exercise and an enriched environment have been shown to promote the survival of neurons and the successful integration of newborn cells into the existing hippocampus. Another factor is central nervous system injury since neurogenesis occurs after cerebral ischemia, epileptic seizures, and bacterial meningitis. On the other hand, conditions such as chronic stress and aging can result in a decreased neuronal proliferation. 
+Circulating factors within the blood may reduce neurogenesis. In healthy aging humans, the plasma and cerebrospinal fluid levels of certain chemokines are elevated. In a mouse model, plasma levels of these chemokines correlate with reduced neurogenesis, suggesting that neurogenesis may be modulated by certain global age-dependent systemic changes. These chemokines include CCL11, CCL2 and CCL12, which are highly localized on mouse and human chromosomes, implicating a genetic locus in aging. 
+
+Epigenetic regulation also plays a large role in neurogenesis. DNA methylation is critical in the fate-determination of adult neural stem cells in the subventricular zone for post-natal neurogenesis through the regulation of neuronic genes such as Dlx2, Neurog2, and Sp8. Many microRNAs such as miR-124 and miR-9 have been shown to influence cortical size and layering during development. 
+
+==Adult neural stem cells==
+
+Neural stem cells (NSCs) are the self-renewing, multipotent cells that generate the main phenotypes of the nervous system.
+
+==Effects of cannabinoids ==
+Some studies have shown that the use of cannabinoids results in the growth of new nerve cells in the hippocampus from both embryonic and adult stem cells. In 2005 a clinical study of rats at the University of Saskatchewan showed regeneration of nerve cells in the hippocampus. Studies have shown that a synthetic drug resembling THC, the main psychoactive ingredient in marijuana, provides some protection against brain inflammation, which might result in better memory at an older age. This is due to receptors in the system that can also influence the production of new neurons. 11-19-2008 Ohio State study: Scientists are high on idea that marijuana reduces memory impairment. OSU.edu 
+Nonetheless, a study directed at Rutgers University demonstrated how synchronization of action potentials in the hippocampus of rats was altered after THC administration. Lack of synchronization corresponded with impaired performance in a standard test of memory. Nov 29, 2006. Study: Marijuana may affect neuron firing. United Press International 
+Recent studies indicate that a natural cannabinoid of cannabis, cannabidiol (CBD), increases adult neurogenesis while having no effect on learning. THC however impaired learning and had no effect on neurogenesis. 
+A greater CBD to THC ratio in hair analyses of cannabis users correlates with protection against gray matter reduction in the right hippocampus. CBD has also been observed to attenuate the deficits in prose recall and visuo-spatial associative memory of those currently under the influence of cannabis, implying neuroprotective effects against heavy THC exposure. Neurogenesis might play a role in its neuroprotective effects, but further research is required.
+
+==See also==
+*Artificial neural membrane
+*Neural development
+*Neuroplasticity
+*Neurotrophin
+
+==References==
+
+;Notes
+
+* Aimone JB, Jessberger S, and Gage FH (2007) Adult Neurogenesis. Scholarpedia, p. 8739
+*
+*
+*
+*
+*
+
+* Rolls, E.T & Treves, A. (1998). Neural Networks and Brain Function. Oxford: OUP. ISBN 0-19-852432-3.
+*
+*
+* Shankle, WR, Rafii, MS, Landing, BH, and Fallon, JH (1999) Approximate doubling of the numbers of neurons in the postnatal human cortex and in 35 specific cytoarchitectonic areas from birth to 72 months. Pediatric and Developmental Pathology 2:244-259.
+*
+*Dedicated issue of Philosophical Transactions B on Stem Cells and Brain Repair. Some articles are freely available.
+
+==External links==
+*Concise introduction to neurogenesis from Wellesley College
+*Comprehensive website on neurogenesis from Lafayette College
+*Early literature on adult neurogenesis
+*Neurogenesis in adult brain - Fred H. Gage and Henriette van Praag
+*"Neurogenesis and Parkinson´s disease"
+*Scholarpedia Article on Adult Neurogenesis
+* "TRENDS in Neurosciences, 10 October 2001 (Michael S. Kaplan MD, PhD)
+*New York Times: Studies Find Brains Grow New Cells
+*Michael Specter: Rethinking the Brain - How the songs of canaries upset a fundamental principle of science
+*The Neurogenesis Experiment - Article series on adult human neurogenesis
+*Seed magazine: The Reinvention of the Self - A historical background on the field of neurogenesis and implications of this research
+*BBC Radio 4: The Memory Experience - Use it or Lose it
+*PBS: Changing Your Mind - Grow Your Own Brain
+*Lobes of Steel: Aerobic exercise appears to promote neurogenesis, New York Times, 19 August 2007.
+*
+
+

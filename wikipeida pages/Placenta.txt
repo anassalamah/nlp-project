@@ -1,0 +1,135 @@
+[[Placenta]]
+
+The placenta is an organ that connects the developing fetus to the uterine wall to allow nutrient uptake, waste elimination, and gas exchange via the mother's blood supply, fights against internal infection and produces hormones to support pregnancy. Placentas are a defining characteristic of placental mammals, but are also found in some non-mammals with varying levels of development. Pough et al. 1992. Herpetology: Third Edition. Pearson Prentice Hall:Pearson Education, Inc., 2002. Note, however, that the homology of such structures in various viviparous organisms is debatable and, in invertebrates such as Arthropoda, is analogous at best.
+
+The word placenta comes from the Latin word for cake, from Greek plakóenta/plakoúnta, accusative of plakóeis/plakoús – πλακόεις, πλακούς, "flat, slab-like", Henry George Liddell, Robert Scott, "A Greek-English Lexicon", at Perseus in reference to its round, flat appearance in humans. The classical plural is placentae, but the form placentas is common in modern English and probably has the wider currency at present.
+
+Prototherial (egg-laying) and metatherial (marsupial) mammals produce a choriovitelline placenta that, while connected to the uterine wall, provides nutrients mainly derived from the egg sac.
+
+The placenta functions as a fetomaternal organ with two components: the fetal placenta (Chorion frondosum), which develops from the same blastocyst that forms the fetus, and the maternal placenta (Decidua basalis), which develops from the maternal uterine tissue. Definitions of placental- related terms. 
+
+==Structure==
+In humans, the placenta averages 22 cm (9 inch) in length and 2–2.5 cm (0.8–1 inch) in thickness, with the center being the thickest, and the edges being the thinnest. It typically weighs approximately 500 grams (just over 1 lb). It has a dark reddish-blue or crimson color. It connects to the fetus by an umbilical cord of approximately 55–60 cm (22–24 inch) in length, which contains two umbilical arteries and one umbilical vein. Examination of the placenta The umbilical cord inserts into the chorionic plate (has an eccentric attachment). Vessels branch out over the surface of the placenta and further divide to form a network covered by a thin layer of cells. This results in the formation of villous tree structures. On the maternal side, these villous tree structures are grouped into lobules called cotyledons. In humans, the placenta usually has a disc shape, but size varies vastly between different mammalian species. Placental Structure and Classification 
+
+==Physiology==
+===Development===
+The initial stages of human embryogenesis.
+
+The placenta begins to develop upon implantation of the blastocyst into the maternal endometrium. The outer layer of the blastocyst becomes the trophoblast, which forms the outer layer of the placenta. This outer layer is divided into two further layers: the underlying cytotrophoblast layer and the overlying syncytiotrophoblast layer. The syncytiotrophoblast is a multinucleated continuous cell layer that covers the surface of the placenta. It forms as a result of differentiation and fusion of the underlying cytotrophoblast cells, a process that continues throughout placental development. The syncytiotrophoblast (otherwise known as syncytium), thereby contributes to the barrier function of the placenta.
+
+The placenta grows throughout pregnancy. Development of the maternal blood supply to the placenta is complete by the end of the first trimester of pregnancy (approximately 12–13 weeks).
+
+===Placental circulation===
+Maternal blood fills the intervillous space, nutrients, water, and gases are actively and passively exchanged, then deoxygenated blood is displaced by the next maternal pulse.
+
+====Maternal placental circulation====
+In preparation for implantation of the blastocyst, the uterine endometrium undergoes "decidualisation". Spiral arteries in decidua are remodeled so that they become less convoluted and their diameter is increased. The increased diameter and straighter flow path both act to increase maternal blood flow to the placenta. The relatively high pressure as the maternal blood fills intervillous space through these spiral arteries bathes the fetal villi in blood, allowing an exchange of gases to take place. In humans and other hemochorial placentals, the maternal blood comes into direct contact with the fetal chorion, though no fluid is exchanged. As the pressure decreases between pulses, the deoxygenated blood flows back through the endometrial veins.
+
+Maternal blood flow is approximately 600–700 ml/min at term.
+
+====Fetoplacental circulation====
+
+Deoxygenated fetal blood passes through umbilical arteries to the placenta. At the junction of umbilical cord and placenta, the umbilical arteries branch radially to form chorionic arteries. Chorionic arteries, in turn, branch into cotyledon arteries. In the villi, these vessels eventually branch to form an extensive arterio-capillary-venous system, bringing the fetal blood extremely close to the maternal blood; but no intermingling of fetal and maternal blood occurs ("placental barrier"). Placental blood circulation 
+
+Endothelin and prostanoids cause vasoconstriction in placental arteries, while nitric oxide vasodilation. On the other hand, there is no neural vascular regulation, and catecholamines have only little effect. 
+
+The fetoplacental circulation is vulnerable to persistent hypoxia or intermittent hypoxia and reoxygenation, which can lead to generation of excessive free radicals. This may contribute to pre-eclampsia and other pregnancy complications. It is proposed that melatonin plays a role as an antioxidant in the placenta. 
+
+===Birth===
+
+Placental expulsion begins as a physiological separation from the wall of the uterus. The period from just after the child is born until just after the placenta is expelled is called the "third stage of labor". The placenta is usually expelled within 15–30 minutes of birth.
+
+Placental expulsion can be managed actively, for example by giving oxytocin via intramuscular injection followed by cord traction to assist in delivering the placenta. Alternatively, it can be managed expectantly, allowing the placenta to be expelled without medical assistance. A Cochrane database study suggests that blood loss and the risk of postpartum bleeding will be reduced in women offered active management of the third stage of labour (needs updating). 
+
+The habit is to cut the cord immediately after birth, but allegedly there is no medical reason to do that; on the contrary, it is theorized that not cutting the cord helps the baby in its adaptation to extrauterine life, especially in preterm infants (Mercier, J.S. & Vohr, B.R. (2010). "Seven-month developmental outcomes of very low bith weight infants enrolled in a randomized controlled trial of delayed versus immediate cord clamping." Journal of Perinatology, 30(1):1.) 
+
+==Functions==
+
+===Nutrition===
+The perfusion of the intervillous spaces of the placenta with maternal blood allows the transfer of nutrients and oxygen from the mother to the fetus and the transfer of waste products and carbon dioxide back from the fetus to the maternal blood supply. Nutrient transfer to the fetus occurs via both active and passive transport. Active transport systems allow significantly different plasma concentrations of various large molecules to be maintained on the maternal and fetal sides of the placental barrier. 
+Human Placenta after childbirth
+Adverse pregnancy situations, such as those involving maternal diabetes or obesity, can increase or decrease levels of nutrient transporters in the placenta resulting in overgrowth or restricted growth of the fetus. 
+
+===Excretion===
+Waste products excreted from the fetus such as urea, uric acid, and creatinine are transferred to the maternal blood by diffusion across the placenta.
+
+===Immunity===
+IgG antibodies can pass through the human placenta, thereby providing protection to the fetus in utero. Simister, N. E., and Story, C. M. 1997. "Human placental Fc receptors and the transmission of antibodies from mother to fetus." Journal of Reproductive Immunology 37: 1-23 This transfer of antibodies begin as early as the 20th week of gestational age, and certainly by the 24th week. Page 202 in: This passive immunity lingers for several months after birth, thus providing the newborn with a carbon copy of the mother's long-term humoral immunity to see the infant through the crucial first months of extrauterine life. IgM, however, cannot cross the placenta, which is why some infections acquired during pregnancy can be hazardous for the fetus.
+
+Furthermore, the placenta functions as a selective maternal-fetal barrier against transmission of microbes. However, insufficiency in this function may still cause mother-to-child transmission of infectious diseases.
+
+===Endocrine function===
+
+In humans, aside from serving as the conduit for oxygen and nutrients for fetus, the placenta secretes, from the syncytial layer of chorionic villi, hormones that are important during pregnancy.
+
+* Human Chorionic Gonadotropin (hCG) can be found in maternal blood and urine as shortly after implantation has occurred, and increases through to the 10-12th week of pregnancy, decreasing to a stable level around the 16-18th week. hCG also ensures that the corpus luteum continues to secrete progesterone and estrogen, which is important in sustaining the pregnancy until sufficient estrogen and progesterone can be secreted by the placenta itself. hCG suppresses the maternal immunologic response so that placenta is not rejected. This is the hormone analyzed by pregnancy test; a false-negative result from a pregnancy test may be obtained before or after this period. Women's blood serum will be completely negative for hCG by one to two weeks after birth. hCG testing is proof that all placental tissue is delivered. hCG is present only during pregnancy because it is secreted by the placenta. Pillitteri, Adele(2010). Maternal and Child Health Nursing (6th Edition Edition): Lippincott Williams & Wilkins 
+*Human Placental Lactogen (hPL) promotes mammary gland growth in preparation for lactation in the mother. It also regulates maternal glucose, protein, and fat levels so that this is always available to the fetus. hPL levels increase proportional to placenta size. 
+*Estrogen is secreted in levels up to thirty times those in non-pregnant women. Estrogen causes the mother's breasts, uterus and external genitalia to enlarge. Breast enlargement and glandular development development is in preparation for lactation and uterine growth to accommodate growing fetus. Estrogen also causes relaxation of ligaments, including the sacroiliac joints and symphysis pubis, which will ease a vaginal birth. 
+*Progesterone is necessary to maintain endometrial lining of the uterus during pregnancy. This hormone prevents preterm labor by reducing myometrial contraction. Levels of progesterone are high during pregnancy. 
+
+===Cloaking from immune system of mother===
+
+The placenta and fetus may be regarded as a foreign allograft inside the mother, and thus must evade from attack by the mother's immune system.
+
+For this purpose, the placenta uses several mechanisms:
+*It secretes Neurokinin B-containing phosphocholine molecules. This is the same mechanism used by parasitic nematodes to avoid detection by the immune system of their host. 
+*There is presence of small lymphocytic suppressor cells in the fetus that inhibit maternal cytotoxic T cells by inhibiting the response to interleukin 2. 
+
+However, the Placental barrier is not the sole means to evade the immune system, as foreign foetal cells also persist in the maternal circulation, on the other side of the placental barrier. 
+
+===Other functions===
+The placenta also provides a reservoir of blood for the fetus, delivering blood to it in case of hypotension and vice versa, comparable to a capacitor. 
+Ultrasound image of human placenta and umbilical cord (color Doppler rendering) with central cord insertion and three umbilical vessels, at 20 weeks of pregnancy
+
+==Clinical significance==
+
+Micrograph of a cytomegalovirus (CMV) infection of the placenta (CMV placentitis). The characteristic large nucleus of a CMV-infected cell is seen off-centre at the bottom-right of the image. H&E stain.
+Numerous pathologies can affect the placenta.
+
+* Placenta accreta, when the placenta implants too deeply, all the way to the actual muscle of uterine wall (without penetrating it)
+* Placenta praevia, when the placement of the placenta is too close to or blocks the cervix
+* Placental abruption/abruptio placentae
+
+Infections involving the placenta:
+* Placentitis, such as the TORCH infections.
+* Chorioamnionitis.
+
+==Society and culture==
+The placenta often plays an important role in various cultures, with many societies conducting rituals regarding its disposal. In the Western world, the placenta is most often incinerated. 
+
+Some cultures bury the placenta for various reasons. The Māori of New Zealand traditionally bury the placenta from a newborn child to emphasize the relationship between humans and the earth. Metge, Joan. 2005. "Working in/Playing with three languages: English, Te Reo Maori, and Maori Bod Language." In Sites N.S vol. 2, No 2:83-90. Likewise, the Navajo bury the placenta and umbilical cord at a specially chosen site, particularly if the baby dies during birth. In Cambodia and Costa Rica, burial of the placenta is believed to protect and ensure the health of the baby and the mother. If a mother dies in childbirth, the Aymara of Bolivia bury the placenta in a secret place so that the mother's spirit will not return to claim her baby's life. 
+
+The placenta is believed by some communities to have power over the lives of the baby or its parents. The Kwakiutl of British Columbia bury girls' placentas to give the girl skill in digging clams, and expose boys' placentas to ravens to encourage future prophetic visions. In Turkey, the proper disposal of the placenta and umbilical cord is believed to promote devoutness in the child later in life. In Ukraine, Transylvania, and Japan, interaction with a disposed placenta is thought to influence the parents' future fertility.
+
+Several cultures believe the placenta to be or have been alive, often a relative of the baby. Nepalese think of the placenta as a friend of the baby; Malaysian Orang Asli regard it as the baby's older sibling. The Ibo of Nigeria consider the placenta the deceased twin of the baby, and conduct full funeral rites for it. Native Hawaiians believe that the placenta is a part of the baby, and traditionally plant it with a tree that can then grow alongside the child. Various cultures in Indonesia, such as Javanese, believe that the placenta has a spirit and needs to be buried outside the family house.
+
+In some cultures, the placenta is eaten, a practice known as placentophagy. In some eastern cultures, such as China and Hong Kong, the dried placenta (紫河車) is thought to be a healthful restorative and is sometimes used in preparations of traditional Chinese medicine and various health products. The practice of human placentophagy has become a more recent trend in western cultures and is not without controversy; its practice being considered cannibalism is debated.
+
+==Additional images==
+
+Image:Gray30.png|Fetus of about 8 weeks, enclosed in the amnion. Magnified a little over two diameters.
+Image:Cord & Placenta.jpg| Picture of freshly delivered placenta and umbilical cord wrapped around Kelly clamps
+Image:Human placenta.jpg| Fresh human placenta
+Image:CMV_placentitis1.jpg|Micrograph of a placental infection (CMV placentitis).
+Image:CMV_placentitis2.jpg|Micrograph of CMV placentitis.
+File:Placenta vasculature 3D power doppler 00001.gif|Power doppler image of vasculature in 20-week placenta
+File:Placenta held.jpg|Placenta held.
+File:2910 The Placenta-02.jpg|Schematic view of the placenta
+File:Human placenta 01.JPG|Maternal side of a whole human placenta, just after birth
+File:Human placenta 02.JPG|Fetal side of same placenta
+
+==See also==
+*Embryo
+*Childbirth
+*Uterus
+*Caul
+*Zygote
+
+== References ==
+
+==External links==
+
+* Additional Human placenta photography
+* The Placenta, gynob.com, with quotes from Williams Obstetrics, 18th Edition, F. Gary Cunningham, M.D., Paul C. MacDonald, M.D., Norman F. Grant, M.D., Appleton & Lange, Publishers.
+
+

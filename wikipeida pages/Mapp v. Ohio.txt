@@ -1,0 +1,32 @@
+[[Mapp v. Ohio]]
+
+Mapp v. Ohio, 367 U.S. 643 (1961), was a landmark case in criminal procedure, in which the United States Supreme Court decided that evidence obtained in violation of the Fourth Amendment, which protects against "unreasonable searches and seizures," may not be used in state law criminal prosecutions in state courts, as well, as had previously been the law, as in federal criminal law prosecutions in federal courts. The Supreme Court accomplished this by use of a principle known as selective incorporation; in this case this involved the incorporation of the provisions, as construed by the Court, of the Fourth Amendment which are literally applicable only to actions of the federal government into the Fourteenth Amendment due process clause which is literally applicable to actions of the states.
+
+== Background of the Case ==
+In the period from 1961 to 1969, the Warren Court examined almost every aspect of the criminal justice system in the United States, using the 14th Amendment to extend constitutional protections to all courts in every State. This process became known as the incorporation of the Bill of Rights. During those years, cases concerning the right to legal counsel, confessions, searches, and the treatment of juvenile criminals all appeared on the Court's docket.
+
+The Warren Court's revolution in the criminal justice system began with the case of Mapp v. Ohio, the first of several significant cases in which it re-evaluated the role of the 14th Amendment as it applied to State judicial review.
+
+==Circumstances of the Case ==
+
+On May 23, 1957, police officers in a Cleveland, Ohio suburb received information that a suspect in a bombing case, as well as some illegal betting equipment, might be found in the home of Dollree Mapp. Three officers went to the home and asked for permission to enter, but Mapp refused to admit them without a search warrant. Two officers left, and one remained. Three hours later, the two returned with several other officers. Brandishing a random piece of paper, they broke in the door. Mapp asked to see the “warrant” and took it from an officer, putting it in her dress. The officers struggled with Mapp and took the fake warrant away from her. They handcuffed her for being “belligerent.” The police did not find the bombing suspect or the betting equipment. They did find pornographic material in a trunk that a previous tenant had left behind. http://www.law.cornell.edu/supremecourt/text/367/643#writing- She was arrested, prosecuted, and found guilty for possession of pornographic material.
+
+== Decision ==
+The U.S. Supreme Court voted 6-3 in the favor of Mapp. The Court overturned the conviction, and five justices found that the States were bound to exclude evidence seized in violation of the 4th Amendment. http://www.infoplease.com/us/supreme-court/cases/ar19.html 
+
+== See also ==
+* United States Bill of Rights
+* Fruit of the poisonous tree
+
+== References ==
+
+== Further reading ==
+* 
+* 
+* 
+
+== External links ==
+
+* Cleveland Memory - Fabulous Archival Source Documents relating to the Mapp Case 
+
+

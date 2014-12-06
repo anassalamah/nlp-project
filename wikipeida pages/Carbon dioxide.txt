@@ -1,0 +1,341 @@
+[[Carbon dioxide]]
+
+Carbon dioxide (chemical formula CO2) is a naturally occurring chemical compound composed of 2 oxygen atoms each covalently double bonded to a single carbon atom. It is a gas at standard temperature and pressure and exists in Earth's atmosphere in this state, as a trace gas at a concentration of 0.04 per cent (400 ppm) by volume, as of 2014. 
+
+As part of the carbon cycle, plants, algae, and cyanobacteria use light energy to photosynthesize carbohydrate from carbon dioxide and water, with oxygen produced as a waste product. However, photosynthesis cannot occur in darkness and at night some carbon dioxide is produced by plants during respiration. Food Factories. www.legacyproject.org. Retrieved on 2011-10-10. Carbon dioxide is produced by combustion of coal or hydrocarbons, the fermentation of sugars in beer and winemaking and by respiration of all living organisms. It is exhaled in the breath of humans and other land animals. It is emitted from volcanoes, hot springs, geysers and other places where the earth's crust is thin and is freed from carbonate rocks by dissolution. CO2 is also found in lakes, at depth under the sea and commingled with oil and gas deposits. 
+
+The environmental effects of carbon dioxide are of significant interest. Atmospheric carbon dioxide is the primary source of carbon in life on Earth and its concentration in Earth's pre-industrial atmosphere since late in the Precambrian eon was regulated by photosynthetic organisms. Carbon dioxide is an important greenhouse gas; burning of carbon-based fuels since the industrial revolution has rapidly increased the concentration, leading to global warming. It is also a major source of ocean acidification since it dissolves in water to form carbonic acid, National Research Council. "Summary." Ocean Acidification: A National Strategy to Meet the Challenges of a Changing Ocean. Washington, DC: The National Academies Press, 2010. 1. Print. which is a weak acid as its ionization in water is incomplete.
+: + 
+
+== History ==
+Crystal structure of dry ice
+Carbon dioxide was one of the first gases to be described as a substance distinct from air. In the seventeenth century, the Flemish chemist Jan Baptist van Helmont observed that when he burned charcoal in a closed vessel, the mass of the resulting ash was much less than that of the original charcoal. His interpretation was that the rest of the charcoal had been transmuted into an invisible substance he termed a "gas" or "wild spirit" (spiritus sylvestre). Ebbe Almqvist (2003): History of industrial gases, Springer, 2003, ISBN 9780306472770, p. 93 
+
+The properties of carbon dioxide were studied more thoroughly in the 1750s by the Scottish physician Joseph Black. He found that limestone (calcium carbonate) could be heated or treated with acids to yield a gas he called "fixed air." He observed that the fixed air was denser than air and supported neither flame nor animal life. Black also found that when bubbled through an aqueous solution of lime (calcium hydroxide), it would precipitate calcium carbonate. He used this phenomenon to illustrate that carbon dioxide is produced by animal respiration and microbial fermentation. In 1772, English chemist Joseph Priestley published a paper entitled Impregnating Water with Fixed Air in which he described a process of dripping sulfuric acid (or oil of vitriol as Priestley knew it) on chalk in order to produce carbon dioxide, and forcing the gas to dissolve by agitating a bowl of water in contact with the gas. 
+
+Carbon dioxide was first liquefied (at elevated pressures) in 1823 by Humphry Davy and Michael Faraday. The earliest description of solid carbon dioxide was given by Adrien-Jean-Pierre Thilorier, who in 1835 opened a pressurized container of liquid carbon dioxide, only to find that the cooling produced by the rapid evaporation of the liquid yielded a "snow" of solid CO2. See:
+* Thilorier (1835) "Solidification de l’acide carbonique" (Solidification of carbonic acid), Comptes rendus ..., 1 : 194–196.
+* "Solidification of carbonic acid," The London and Edinburgh Philosophical Magazine, 8 : 446–447 (1836). 
+
+== Chemical and physical properties ==
+
+=== Structure and bonding ===
+
+The carbon dioxide molecule is linear and centrosymmetric. The two C=O bonds are equivalent and are short (116.3 pm), consistent with double bonding. Since it is centrosymmetric, the molecule has no electrical dipole. Consistent with this fact, only two vibrational bands are observed in the IR spectrum – an antisymmetric stretching mode at 2349 cm−1 and a bending mode near 666 cm−1. There is also a symmetric stretching mode at 1388 cm−1 which is only observed in the Raman spectrum.
+350px
+
+=== In aqueous solution ===
+Carbon dioxide is soluble in water, in which it reversibly converts to (carbonic acid).
+
+The hydration equilibrium constant of carbonic acid is (at 25 °C). Hence, the majority of the carbon dioxide is not converted into carbonic acid, but remains as CO2 molecules not affecting the pH.
+
+The relative concentrations of , and the deprotonated forms (bicarbonate) and (carbonate) depend on the pH. As shown in a Bjerrum plot, in neutral or slightly alkaline water (pH > 6.5), the bicarbonate form predominates (>50%) becoming the most prevalent (>95%) at the pH of seawater. In very alkaline water (pH > 10.4), the predominant (>50%) form is carbonate. The oceans, being mildly alkaline with typical pH = 8.2–8.5, contain about 120 mg of bicarbonate per liter.
+
+Being diprotic, carbonic acid has two acid dissociation constants, the first one for the dissociation into the bicarbonate (also called hydrogen carbonate) ion (HCO3−):
+
+:H2CO3 HCO3− + H+
+:Ka1 = ; pKa1 = 3.6 at 25 °C. 
+This is the true first acid dissociation constant, defined as , where the denominator includes only covalently bound H2CO3 and excludes hydrated CO2(aq). The much smaller and often-quoted value near is an apparent value calculated on the (incorrect) assumption that all dissolved CO2 is present as carbonic acid, so that . Since most of the dissolved CO2 remains as CO2 molecules, Ka1(apparent) has a much larger denominator and a much smaller value than the true Ka1. Jolly, William L., Modern Inorganic Chemistry (McGraw-Hill 1984), p. 196 
+
+The bicarbonate ion is an amphoteric species that can act as an acid or as a base, depending on pH of the solution. At high pH, it dissociates significantly into the carbonate ion (CO32−):
+:HCO3− CO32− + H+
+:Ka2 = ; pKa2 = 10.329
+
+In organisms carbonic acid production is catalysed by the enzyme, carbonic anhydrase.
+
+=== Chemical reactions of CO2 ===
+CO2 is a weak electrophile. Its reaction with basic water illustrates this property, in which case hydroxide is the nucleophile. Other nucleophiles react as well. For example, carbanions as provided by Grignard reagents and organolithium compounds react with CO2 to give carboxylates:
+:MR + CO2 → RCO2M
+:where M = Li or MgBr and R = alkyl or aryl.
+
+In metal carbon dioxide complexes, CO2 serves as a ligand, which can facilitate the conversion of CO2 to other chemicals. M. Aresta (Ed.) "Carbon Dioxide as a Chemical Feedstock" 2010, Wiley-VCH: Weinheim. ISBN 978-3-527-32475-0 
+
+The reduction of CO2 to CO is ordinarily a difficult and slow reaction:
+:CO2 + 2 e− + 2H+ → CO + H2O
+The redox potential for this reaction near pH 7 is about −0.53 V versus the standard hydrogen electrode. The nickel-containing enzyme carbon monoxide dehydrogenase catalyses this process. Colin Finn, Sorcha Schnittger, Lesley J. Yellowlees, Jason B. Love "Molecular approaches to the electrochemical reduction of carbon dioxide" Chemical Communications 2011, 0000. 
+
+=== Physical properties ===
+
+Carbon dioxide pressure-temperature phase diagram showing the triple point and critical point of carbon dioxide
+Sample of solid carbon dioxide or "dry ice" pellets
+Carbon dioxide is colorless. At low concentrations, the gas is odorless. At higher concentrations it has a sharp, acidic odor. At standard temperature and pressure, the density of carbon dioxide is around 1.98 kg/m3, about 1.67 times that of air.
+
+Carbon dioxide has no liquid state at pressures below 5.1 atm. At 1 atmosphere (near mean sea level pressure), the gas deposits directly to a solid at temperatures below -78.5 C and the solid sublimes directly to a gas above −78.5 °C. In its solid state, carbon dioxide is commonly called dry ice.
+
+Liquid carbon dioxide forms only at pressures above 5.1 atm; the triple point of carbon dioxide is about 518 kPa at −56.6 °C (see phase diagram, above). The critical point is 7.38 MPa at 31.1 °C. Another form of solid carbon dioxide observed at high pressure is an amorphous glass-like solid. This form of glass, called carbonia, is produced by supercooling heated CO2 at extreme pressure (40–48 GPa or about 400,000 atmospheres) in a diamond anvil. This discovery confirmed the theory that carbon dioxide could exist in a glass state similar to other members of its elemental family, like silicon (silica glass) and germanium dioxide. Unlike silica and germania glasses, however, carbonia glass is not stable at normal pressures and reverts to gas when pressure is released.
+
+At temperatures and pressures above the critical point, carbon dioxide behaves as a supercritical fluid known as supercritical carbon dioxide.
+
+== Isolation and production ==
+Carbon dioxide is mainly produced as an unrecovered side product of four technologies: combustion of fossil fuels, production of hydrogen by steam reforming, ammonia synthesis, and fermentation. It can be obtained by or from air distillation, however, this method is inefficient.
+
+The combustion of all carbon-containing fuels, such as methane (natural gas), petroleum distillates (gasoline, diesel, kerosene, propane), but also of coal and wood, will yield carbon dioxide and, in most cases, water. As an example the chemical reaction between methane and oxygen is given below.
+
+: 
+
+The production of quicklime (CaO), a compound that enjoys widespread use, involves the heating (calcining) of limestone at about 850 °C:
+: 
+
+Iron is reduced from its oxides with coke in a blast furnace, producing pig iron and carbon dioxide: 
+
+ 
+: 
+
+Yeast metabolizes sugar to produce carbon dioxide and ethanol, also known as alcohol, in the production of wines, beers and other spirits, but also in the production of bioethanol:
+
+: → 
+
+All aerobic organisms produce when they oxidize carbohydrates, fatty acids, and proteins in the mitochondria of cells. The large number of reactions involved are exceedingly complex and not described easily. Refer to (cellular respiration, anaerobic respiration and photosynthesis). The equation for the respiration of glucose and other monosaccharides is:
+
+: + → + 
+
+Photoautotrophs (i.e. plants, cyanobacteria) use another modus operandi: Plants absorb from the air, and, together with water, react it to form carbohydrates:
+
+: nCO2 + nO → ()n + n
+
+=== Laboratory methods ===
+A variety of chemical routes to carbon dioxide are known, such as the reaction between most acids and most metal carbonates. For example, the reaction between hydrochloric acid and calcium carbonate (limestone or chalk) is depicted below:
+
+: 
+
+The carbonic acid (H2CO3) then decomposes to water and CO2. Such reactions are accompanied by foaming or bubbling, or both. In industry such reactions are widespread because they can be used to neutralize waste acid streams.
+
+=== Industrial production ===
+Industrial carbon dioxide can be produced by several methods, many of which are practiced at various scales. In its dominant route, carbon dioxide is produced as a side product of the industrial production of ammonia and hydrogen. These processes begin with the reaction of water and natural gas (mainly methane). Susan Topham "Carbon Dioxide" in Ullmann's Encyclopedia of Industrial Chemistry, 2005, Wiley-VCH, Weinheim. 
+
+Although carbon dioxide is not often recovered, carbon dioxide results from combustion of fossil fuels and wood as well fermentation of sugar in the brewing of beer, whisky and other alcoholic beverages. It also results from thermal decomposition of limestone, , in the manufacture of lime (calcium oxide, ). It may be obtained directly from natural carbon dioxide springs, where it is produced by the action of acidified water on limestone or dolomite.
+
+== Uses ==
+Carbon dioxide bubbles in a soft drink.
+Carbon dioxide is used by the food industry, the oil industry, and the chemical industry. 
+
+=== Precursor to chemicals ===
+In the chemical industry, carbon dioxide is mainly consumed as an ingredient in the production of urea and methanol. Metal carbonates and bicarbonates, as well as some carboxylic acids derivatives (e.g., sodium salicylate) are prepared from CO2.
+
+=== Foods ===
+Carbon dioxide is a food additive used as a propellant and acidity regulator in the food industry. It is approved for usage in the EU UK Food Standards Agency: (listed as E number E290), USA US Food and Drug Administration: and Australia and New Zealand Australia New Zealand Food Standards Code (listed by its INS number 290).
+
+A candy called Pop Rocks is pressurized with carbon dioxide gas at about 4 x 106 Pa (40 bar, 580 psi). When placed in the mouth, it dissolves (just like other hard candy) and releases the gas bubbles with an audible pop.
+
+Leavening agents cause dough to rise by producing carbon dioxide. Baker's yeast produces carbon dioxide by fermentation of sugars within the dough, while chemical leaveners such as baking powder and baking soda release carbon dioxide when heated or if exposed to acids.
+
+==== Beverages ====
+Carbon dioxide is used to produce carbonated soft drinks and soda water. Traditionally, the carbonation in beer and sparkling wine came about through natural fermentation, but many manufacturers carbonate these drinks with carbon dioxide recovered from the fermentation process. In the case of bottled and kegged beer, recycled carbon dioxide carbonation is the most common method used. With the exception of British Real Ale, draught beer is usually transferred from kegs in a cold room or cellar to dispensing taps on the bar using pressurized carbon dioxide, sometimes mixed with nitrogen.
+
+==== Wine making ====
+Carbon dioxide in the form of dry ice is often used in the wine making process to cool down bunches of grapes quickly after picking to help prevent spontaneous fermentation by wild yeast. The main advantage of using dry ice over regular water ice is that it cools the grapes without adding any additional water that may decrease the sugar concentration in the grape must, and therefore also decrease the alcohol concentration in the finished wine.
+
+Dry ice is also used during the cold soak phase of the wine making process to keep grapes cool. The carbon dioxide gas that results from the sublimation of the dry ice tends to settle to the bottom of tanks because it is denser than air. The settled carbon dioxide gas creates a hypoxic environment which helps to prevent bacteria from growing on the grapes until it is time to start the fermentation with the desired strain of yeast.
+
+Carbon dioxide is also used to create a hypoxic environment for carbonic maceration, the process used to produce Beaujolais wine.
+
+Carbon dioxide is sometimes used to top up wine bottles or other storage vessels such as barrels to prevent oxidation, though it has the problem that it can dissolve into the wine, making a previously still wine slightly fizzy. For this reason, other gases such as nitrogen or argon are preferred for this process by professional wine makers.
+
+=== Inert gas ===
+It is one of the most commonly used compressed gases for pneumatic (pressurized gas) systems in portable pressure tools. Carbon dioxide also finds use as an atmosphere for welding, although in the welding arc, it reacts to oxidize most metals. Use in the automotive industry is common despite significant evidence that welds made in carbon dioxide are more brittle than those made in more inert atmospheres, and that such weld joints deteriorate over time because of the formation of carbonic acid. It is used as a welding gas primarily because it is much less expensive than more inert gases such as argon or helium. When used for MIG welding, CO2 use is sometimes referred to as MAG welding, for Metal Active Gas, as CO2 can react at these high temperatures. It tends to produce a hotter puddle than truly inert atmospheres, improving the flow characteristics. Although, this may be due to atmospheric reactions occurring at the puddle site. This is usually the opposite of the desired effect when welding, as it tends to embrittle the site, but may not be a problem for general mild steel welding, where ultimate ductility is not a major concern.
+
+It is used in many consumer products that require pressurized gas because it is inexpensive and nonflammable, and because it undergoes a phase transition from gas to liquid at room temperature at an attainable pressure of approximately 60 bar (870 psi, 59 atm), allowing far more carbon dioxide to fit in a given container than otherwise would. Life jackets often contain canisters of pressured carbon dioxide for quick inflation. Aluminum capsules of CO2 are also sold as supplies of compressed gas for airguns, paintball markers, inflating bicycle tires, and for making carbonated water. Rapid vaporization of liquid carbon dioxide is used for blasting in coal mines. High concentrations of carbon dioxide can also be used to kill pests. Liquid carbon dioxide is used in supercritical drying of some food products and technological materials, in the preparation of specimens for scanning electron microscopy and in the decaffeination of coffee beans.
+
+=== Fire extinguisher ===
+Carbon dioxide extinguishes flames, and some fire extinguishers, especially those designed for electrical fires, contain liquid carbon dioxide under pressure. Carbon dioxide extinguishers work well on small flammable liquid and electrical fires, but not on ordinary combustible fires, because although it excludes oxygen, it does not cool the burning substances significantly and when the carbon dioxide disperses they are free to catch fire upon exposure to atmospheric oxygen. Carbon dioxide has also been widely used as an extinguishing agent in fixed fire protection systems for local application of specific hazards and total flooding of a protected space. National Fire Protection Association Code 12 International Maritime Organization standards also recognize carbon dioxide systems for fire protection of ship holds and engine rooms. Carbon dioxide based fire protection systems have been linked to several deaths, because it can cause suffocation in sufficiently high concentrations. A review of CO2 systems identified 51 incidents between 1975 and the date of the report, causing 72 deaths and 145 injuries. Carbon Dioxide as a Fire Suppressant: Examining the Risks, US EPA 
+
+=== Supercritical CO2 as solvent ===
+
+Liquid carbon dioxide is a good solvent for many lipophilic organic compounds and is used to remove caffeine from coffee. Carbon dioxide has attracted attention in the pharmaceutical and other chemical processing industries as a less toxic alternative to more traditional solvents such as organochlorides. It is used by some dry cleaners for this reason (see green chemistry).
+
+=== Agricultural and biological applications ===
+Plants require carbon dioxide to conduct photosynthesis. Greenhouses may (if of large size, must) enrich their atmospheres with additional CO2 to sustain and increase plant growth. Plant Growth Factors: Photosynthesis, Respiration, and Transpiration. Ext.colostate.edu. Retrieved on 2011-10-10. Carbon dioxide. Formal.stanford.edu. Retrieved on 2011-10-10. A photosynthesis-related drop (by a factor less than two) in carbon dioxide concentration in a greenhouse compartment would kill green plants, or, at least, completely stop their growth. At very high concentrations (100 times atmospheric concentration, or greater), carbon dioxide can be toxic to animal life, so raising the concentration to 10,000 ppm (1%) or higher for several hours will eliminate pests such as whiteflies and spider mites in a greenhouse. Carbon dioxide is used in greenhouses as the main carbon source for Spirulina algae.
+
+In medicine, up to 5% carbon dioxide (130 times atmospheric concentration) is added to oxygen for stimulation of breathing after apnea and to stabilize the balance in blood.
+
+It has been proposed that carbon dioxide from power generation be bubbled into ponds to grow algae that could then be converted into biodiesel fuel. 
+
+=== Oil recovery ===
+Carbon dioxide is used in enhanced oil recovery where it is injected into or adjacent to producing oil wells, usually under supercritical conditions, when it becomes miscible with the oil. This approach can increase original oil recovery by reducing residual oil saturation by between 7 per cent to 23 per cent additional to primary extraction. It acts as both a pressurizing agent and, when dissolved into the underground crude oil, significantly reduces its viscosity, and changing surface chemistry enabling the oil to flow more rapidly through the reservoir to the removal well. In mature oil fields, extensive pipe networks are used to carry the carbon dioxide to the injection points.
+
+=== Bio transformation into fuel ===
+
+Researchers have genetically modified a strain of the cyanobacterium Synechococcus elongatus to produce the fuels isobutyraldehyde and isobutanol from using photosynthesis. 
+
+=== Refrigerant ===
+Comparison of phase diagrams of carbon dioxide (red) and water (blue) as a log-lin chart with phase transitions points at 1 atmosphere
+Liquid and solid carbon dioxide are important refrigerants, especially in the food industry, where they are employed during the transportation and storage of ice cream and other frozen foods. Solid carbon dioxide is called "dry ice" and is used for small shipments where refrigeration equipment is not practical. Solid carbon dioxide is always below −78.5 °C at regular atmospheric pressure, regardless of the air temperature.
+
+ Liquid carbon dioxide (industry nomenclature R744 or R-744) was used as a refrigerant prior to the discovery of R-12 and may enjoy a renaissance due to the fact that R134a contributes to climate change. Its physical properties are highly favorable for cooling, refrigeration, and heating purposes, having a high volumetric cooling capacity. Due to its operation at pressures of up to 130 bar (1880 psi), CO2 systems require highly resistant components that have already been developed for mass production in many sectors. In automobile air conditioning, in more than 90% of all driving conditions for latitudes higher than 50°, R744 operates more efficiently than systems using R134a. Its environmental advantages (GWP of 1, non-ozone depleting, non-toxic, non-flammable) could make it the future working fluid to replace current HFCs in cars, supermarkets, hot water heat pumps, among others. Coca-Cola has fielded CO2-based beverage coolers and the U.S. Army is interested in CO2 refrigeration and heating technology. 
+
+The global automobile industry is expected to decide on the next-generation refrigerant in car air conditioning. CO2 is one discussed option.(see Sustainable automotive air conditioning)
+
+=== Coal bed methane recovery ===
+In enhanced coal bed methane recovery, carbon dioxide would be pumped into the coal seam to displace methane, as opposed to current methods which primarily use water to make the coal seam release its trapped methane. 
+
+=== Niche uses ===
+A carbon dioxide laser.
+Carbon dioxide is so inexpensive and so innocuous, that it finds many small uses that represent what might be called niche uses. For example it is used in the carbon dioxide laser, which is one of the earliest type of lasers.
+
+Carbon dioxide can be used as a means of controlling the pH of swimming pools, by continuously adding gas to the water, thus keeping the pH level from rising. Among the advantages of this is the avoidance of handling (more hazardous) acids. Similarly, it is also used in the maintaining reef aquaria, where it is commonly used in calcium reactors to temporarily lower the pH of water being passed over calcium carbonate in order to allow the calcium carbonate to dissolve into the water more freely where it is used by some corals to build their skeleton. It is also used as the primary coolant in advanced gas-cooled reactors in the nuclear power generation industry.
+
+Carbon dioxide induction is commonly used for the euthanasia of laboratory research animals. Methods to administer CO2 include placing animals directly into a closed, prefilled chamber containing CO2, or exposure to a gradually increasing concentration of CO2. In 2013, the American Veterinary Medical Association issued new guidelines for carbon dioxide induction, stating that a flow rate of 10% to 30% volume/min is optimal for the humane euthanization of small rodents. 
+
+== In the Earth's atmosphere ==
+
+The Keeling Curve of atmospheric CO2 concentrations measured at Mauna Loa Observatory.
+
+Carbon dioxide in Earth's atmosphere is considered a trace gas currently occurring at an average concentration of about 400 parts per million by volume National Oceanic & Atmospheric Administration (NOAA) – Earth System Research Laboratory (ESRL), Trends in Carbon Dioxide Values given are dry air mole fractions expressed in parts per million (ppm). For an ideal gas mixture this is equivalent to parts per million by volume (ppmv). (or 591 parts per million by mass). The total mass of atmospheric carbon dioxide is 3.16×1015 kg (about 3,000 gigatonnes). Its concentration varies seasonally (see graph at right) and also considerably on a regional basis, especially near the ground. In urban areas concentrations are generally higher and indoors they can reach 10 times background levels. Carbon dioxide is a greenhouse gas.
+
+increase rate.png|thumb|left|Yearly increase of atmospheric CO2: In the 1960s, the average annual increase was 37% of the 2000–2007 average. Dr. Pieter Tans (3 May 2008) [ftp://ftp.cmdl.noaa.gov/ccg/co2/trends/co2_gr_mlo.txt "Annual CO2 mole fraction increase (ppm)" for 1959–2007 National Oceanic and Atmospheric Administration Earth System Research Laboratory, Global Monitoring Division (additional details.) ]]
+
+, carbon dioxide in the Earth's atmosphere is at a concentration of approximately 400 ppm by volume. Atmospheric concentrations of carbon dioxide fluctuate slightly with the change of the seasons, driven primarily by seasonal plant growth in the Northern Hemisphere. Concentrations of carbon dioxide fall during the northern spring and summer as plants consume the gas, and rise during the northern autumn and winter as plants go dormant, die and decay. Taking all this into account, the concentration of CO2 grew by about 2 ppm in 2009. "The main cause of the current global warming trend is human expansion of the "greenhouse effect" warming that results when the atmosphere traps heat radiating from Earth toward space." Carbon dioxide is a greenhouse gas as it is transparent to incoming visible light from the sun, but absorbs outgoing infrared radiation from the ground at its two infrared-active vibrational frequencies (see Structure and bonding above). As for all gases, the absorbed energy can be redistributed by molecular collisions which heat the atmosphere. Climate Change Indicators in the United States. EPA.gov 
+
+Before the advent of human-caused release of carbon dioxide to the atmosphere, concentrations tended to increase with increasing global temperatures, acting as a positive feedback for changes induced by other processes such as orbital cycles. There is a seasonal cycle in CO2 concentration associated primarily with the Northern Hemisphere growing season. 
+
+Five hundred million years ago carbon dioxide was 20 times more prevalent than today, decreasing to 4–5 times during the Jurassic period and then slowly declining with a particularly swift reduction occurring 49 million years ago. 
+ Human activities such as the combustion of fossil fuels and deforestation have caused the atmospheric concentration of carbon dioxide to increase by about 35% since the beginning of the age of industrialization. 
+
+Up to 40% of the gas emitted by some volcanoes during subaerial eruptions is carbon dioxide. It is estimated that volcanoes release about 130–230 million tonnes (145–255 million short tons) of CO2 into the atmosphere each year. Carbon dioxide is also produced by hot springs such as those at the Bossoleto site near Rapolano Terme in Tuscany, Italy. Here, in a bowl-shaped depression of about 100 m diameter, local concentrations of CO2 rise to above 75% overnight, sufficient to kill insects and small animals, but it warms rapidly when sunlit and the gas is dispersed by convection during the day. Locally high concentrations of CO2, produced by disturbance of deep lake water saturated with CO2 are thought to have caused 37 fatalities at Lake Monoun, Cameroon in 1984 and 1700 casualties at Lake Nyos, Cameroon in 1986. Emissions of CO2 by human activities are estimated to be 135 times greater than the quantity emitted by volcanoes. 
+
+The cement industry is one of the three primary producers of carbon dioxide along with the energy production and transportation industries. As of 2011 concrete contributes 7% to global anthropogenic CO2 emissions. 
+
+== In the oceans ==
+
+Carbon dioxide dissolves in the ocean to form carbonic acid (H2CO3), bicarbonate (HCO3−) and carbonate (CO32−), and there is about fifty times as much carbon dissolved in the sea water of the oceans as exists in the atmosphere. The oceans act as an enormous carbon sink, and have taken up about a third of CO2 emitted by human activity. 
+
+As the concentration of carbon dioxide increases in the atmosphere, the increased uptake of carbon dioxide into the oceans is causing a measurable decrease in the pH of the oceans which is referred to as ocean acidification. Although the natural absorption of by the world's oceans helps mitigate the climatic effects of anthropogenic emissions of , it also results in a decrease in the pH of the oceans. This reduction in pH impacts the biological systems in the oceans, primarily oceanic calcifying organisms. These impacts span the food chain from autotrophs to heterotrophs and include organisms such as coccolithophores, corals, foraminifera, echinoderms, crustaceans and molluscs. Under normal conditions, calcite and aragonite are stable in surface waters since the carbonate ion is at supersaturating concentrations. However, as ocean pH falls, so does the concentration of this ion, and when carbonate becomes undersaturated, structures made of calcium carbonate are vulnerable to dissolution. Even if there is no change in the rate of calcification, therefore, the rate of dissolution of calcareous material increases. 
+
+Research has already found that corals, 
+ 
+ 
+ coccolithophore algae, 
+ 
+ coralline algae, foraminifera, 
+ shellfish 
+ and pteropods 
+ experience reduced calcification or enhanced dissolution when exposed to elevated .
+
+Gas solubility decreases as the temperature of water increases (except when both pressure exceeds 300 bar and temperature exceeds 393 K, only found near deep geothermal vents) and therefore the rate of uptake from the atmosphere decreases as ocean temperatures rise.
+
+Most of the CO2 taken up by the ocean, which is about 30% of the total released into the atmosphere, forms carbonic acid in equilibrium with bicarbonate. Some of these chemical species are consumed by photosynthetic organisms, that remove carbon from the cycle. Increased CO2 in the atmosphere has led to decreasing alkalinity of seawater, and there is concern that this may adversely affect organisms living in the water. In particular, with decreasing alkalinity, the availability of carbonates for forming shells decreases, although there's evidence of increased shell production by certain species under increased CO2 content. 
+
+NOAA states in their May 2008 "State of the science fact sheet for ocean acidification" that:
+"The oceans have absorbed about 50% of the carbon dioxide (CO2) released from the burning of fossil fuels, resulting in chemical reactions that lower ocean pH. This has caused an increase in hydrogen ion (acidity) of about 30% since the start of the industrial age through a process known as "ocean acidification." A growing number of studies have demonstrated adverse impacts on marine organisms, including:
+* The rate at which reef-building corals produce their skeletons decreases, while production of numerous varieties of jellyfish increases.
+* The ability of marine algae and free-swimming zooplankton to maintain protective shells is reduced.
+* The survival of larval marine species, including commercial fish and shellfish, is reduced."
+
+Also, the Intergovernmental Panel on Climate Change (IPCC) writes in their Climate Change 2007: Synthesis Report: Climate Change 2007: Synthesis Report, IPCC 
+"The uptake of anthropogenic carbon since 1750 has led to the ocean becoming more acidic with an average decrease in pH of 0.1 units. Increasing atmospheric CO2 concentrations lead to further acidification ... While the effects of observed ocean acidification on the marine biosphere are as yet undocumented, the progressive acidification of oceans is expected to have negative impacts on marine shell-forming organisms (e.g. corals) and their dependent species."
+
+Some marine calcifying organisms (including coral reefs) have been singled out by major research agencies, including NOAA, OSPAR commission, NANOOS and the IPCC, because their most current research shows that ocean acidification should be expected to impact them negatively. 
+
+Carbon dioxide is also introduced into the oceans through hydrothermal vents. The Champagne hydrothermal vent, found at the Northwest Eifuku volcano at Marianas Trench Marine National Monument, produces almost pure liquid carbon dioxide, one of only two known sites in the world. 
+
+Sea urchins have been discovered to be able to convert carbon dioxide into raw material for their shells. 
+
+== Biological role ==
+Carbon dioxide is an end product of cellular respiration in organisms that obtain energy by breaking down sugars, fats and amino acids with oxygen as part of their metabolism. This includes all plants, algae and animals and aerobic fungi and bacteria. In vertebrates, the carbon dioxide travels in the blood from the body's tissues to the skin (e.g., amphibians) or the gills (e.g., fish), from where it dissolves in the water, or to the lungs from where it is exhaled. During active photosynthesis, plants can absorb more carbon dioxide from the atmosphere than they use in respiration.
+
+=== Photosynthesis and carbon fixation ===
+Overview of photosynthesis and respiration. Carbon dioxide (at right), together with water, form oxygen and organic compounds (at left) by photosynthesis, which can be respired to water and (CO2).
+
+Figure 2. Overview of the Calvin cycle and carbon fixation
+Carbon fixation is the removal of carbon dioxide from the air and its incorporation into solid compounds. Plants, algae, and many species of bacteria (cyanobacteria) fix carbon and create their own food by photosynthesis. Photosynthesis uses carbon dioxide and water to produce sugars and occasionally other organic compounds, releasing oxygen as a waste product.
+
+Ribulose-1,5-bisphosphate carboxylase oxygenase, commonly known by the shorter name RuBisCO, is an enzyme involved in the first major step of carbon fixation, a process by which atmospheric carbon dioxide is converted by plants to energy-rich molecules such as glucose. It is also thought to be the single most abundant protein on Earth. 
+
+These phototrophs use the products of their photosynthesis as internal food sources and as raw material for the construction of more complex organic molecules, such as polysaccharides, nucleic acids and proteins. These are used for their own growth, and also as the basis for the food chains and webs whereby other organisms, including animals such as ourselves, are fed. Some important phototrophs, the coccolithophores synthesise hard calcium carbonate scales. A globally significant species of coccolithophore is Emiliania huxleyi whose calcite scales have formed the basis of many sedimentary rocks such as limestone, where what was previously atmospheric carbon can remain fixed for geological timescales.
+
+Plants can grow up to 50 percent faster in concentrations of 1,000 ppm CO2 when compared with ambient conditions, though this assumes no change in climate and no limitation on other nutrients. Research has shown that elevated CO2 levels cause increased growth reflected in the harvestable yield of crops, with wheat, rice and soybean all showing increases in yield of 12–14% under elevated CO2 in FACE experiments. 
+
+Studies have shown that increased CO2 leads to fewer stomata developing on plants which leads to reduced water usage. Studies using FACE have shown that increases in CO2 lead to decreased concentration of micronutrients in crop plants. This may have knock-on effects on other parts of ecosystems as herbivores will need to eat more food to gain the same amount of protein. 
+
+The concentration of secondary metabolites such as phenylpropanoids and flavonoids
+can also be altered in plants exposed to high concentrations of CO2. 
+
+Plants also emit CO2 during respiration, and so the majority of plants and algae, which use C3 photosynthesis, are only net absorbers during the day. Though a growing forest will absorb many tons of CO2 each year, the World Bank writes that a mature forest will produce as much CO2 from respiration and decomposition of dead specimens (e.g., fallen branches) as is used in biosynthesis in growing plants. However six experts in biochemistry, biogeology, forestry and related areas writing in the science journal Nature that "Our results demonstrate that old-growth forests can continue to accumulate carbon, contrary to the long-standing view that they are carbon neutral." Mature forests are valuable carbon sinks, helping maintain balance in the Earth's atmosphere. Additionally, and crucially to life on earth, photosynthesis by phytoplankton consumes dissolved CO2 in the upper ocean and thereby promotes the absorption of CO2 from the atmosphere. 
+
+=== Toxicity ===
+
+symptoms of carbon dioxide toxicity.svg|thumb|right|270px|Main symptoms of carbon dioxide toxicity, by increasing volume percent in air. [http://www.inspect-ny.com/hazmat/CO2gashaz.htm Toxicity of Carbon Dioxide Gas Exposure, CO2 Poisoning Symptoms, Carbon Dioxide Exposure Limits, and Links to Toxic Gas Testing Procedures By Daniel Friedman – InspectAPedia ]]
+
+Carbon dioxide content in fresh air (averaged between sea-level and 10 kPa level, i.e., about 30 km altitude) varies between 0.036% (360 ppm) and 0.039% (390 ppm), depending on the location. 
+
+CO2 is an asphyxiant gas and not classified as toxic or harmful in accordance with Globally Harmonized System of Classification and Labelling of Chemicals standards of United Nations Economic Commission for Europe by using the OECD Guidelines for the Testing of Chemicals. In concentrations up to 1% (10,000 ppm), it will make some people feel drowsy. Concentrations of 7% to 10% may cause suffocation, even in the presence of sufficient oxygen, manifesting as dizziness, headache, visual and hearing dysfunction, and unconsciousness within a few minutes to an hour. The physiological effects of acute carbon dioxide exposure are grouped together under the term hypercapnia, a subset of asphyxiation.
+
+Because it is heavier than air, in locations where the gas seeps from the ground (due to sub-surface volcanic or geothermal activity) in relatively high concentrations, without the dispersing effects of wind, it can collect in sheltered/pocketed locations below average ground level, causing animals located therein to be suffocated. Carrion feeders attracted to the carcasses are then also killed. Children have been killed in the same way near the city of Goma by emissions from the nearby volcano Mt. Nyiragongo. Volcano Under the City. PBS.org (1 November 2005). The Swahili term for this phenomenon is 'mazuku'.
+
+Adaptation to increased levels of CO2 occurs in humans. Continuous inhalation of CO2 can be tolerated at three percent inspired concentrations for at least one month and four percent inspired concentrations for over a week. It was suggested that 2.0 percent inspired concentrations could be used for closed air spaces (e.g. a submarine) since the adaptation is physiological and reversible. Decrement in performance or in normal physical activity does not happen at this level. However, it should be noted that submarines have carbon dioxide scrubbers which reduce a significant amount of the CO2 present. How are people able to breathe inside a submarine?. Howstuffworks.com (2000-04-01). Retrieved on 2011-10-10. 
+
+Miners, who are particularly susceptible to gas exposure, referred to mixtures of carbon dioxide and nitrogen as "blackdamp," "choke damp" or "stythe." Before more effective technologies were developed, miners would frequently monitor for dangerous levels of blackdamp and other gases in mine shafts by bringing a caged canary with them as they worked. The canary is more sensitive to environmental gases than humans, and as it became unconscious would stop singing and fall off its perch. The Davy lamp could also detect high levels of blackdamp (which sinks, and collects near the floor) by burning less brightly, while methane, another suffocating gas and explosion risk, would make the lamp burn more brightly.
+
+Carbon dioxide differential above outdoor levels at steady state conditions (when the occupancy and ventilation system operation are sufficiently long that CO2 concentration has stabilized) are sometimes used to estimate ventilation rates per person. CO2 is considered to be a surrogate for human bio-effluents and may correlate with other indoor pollutants. Higher CO2 concentrations are associated with occupant health, comfort and performance degradation. ASHRAE Standard 62.1–2007 ventilation rates may result in indoor levels up to 2,100 ppm above ambient outdoor conditions. Thus if the outdoor ambient is 400 ppm, indoor levels may reach 2,500 ppm with ventilation rates that meet this industry consensus standard. Levels in poorly ventilated spaces can be found even higher than this (range of 3,000 or 4,000).
+
+=== Human physiology ===
+
+==== Content ====
+The body produces approximately 2.3 lb of carbon dioxide per day per person, containing 0.63 lb of carbon.
+
+In humans, this carbon dioxide is carried through the venous system and is breathed out through the lungs. Therefore, the carbon dioxide content in the body is high in the venous system, and decreases in the respiratory system, resulting in lower levels along any arterial system. Carbon dioxide content in this sense is often given as the partial pressure, which is the pressure which carbon dioxide would have had if it alone occupied the volume. 
+
+In humans, the carbon dioxide contents are as follows:
+
++Reference ranges or averages for partial pressures of carbon dioxide (abbreviated PCO2) 
+ Unit Venous blood gas Alveolar pulmonary gas pressures Arterial blood carbon dioxide 
+ kPa 5.5 -6.8 4.8 4.7 Derived from mmHg values using 0.133322 kPa/mmHg -6.0 
+ mmHg 41–51 36 35 Normal Reference Range Table. University of Texas Southwestern Medical Center at Dallas. Used in Interactive Case Study Companion to Pathologic basis of disease. -45 
+
+==== Transport in the blood ====
+CO2 is carried in blood in three different ways. (The exact percentages vary depending whether it is arterial or venous blood).
+* Most of it (about 70% to 80%) is converted to bicarbonate ions by the enzyme carbonic anhydrase in the red blood cells, by the reaction CO2 + H2O → H2CO3 → H+ + .
+* 5% – 10% is dissolved in the plasma 
+* 5% – 10% is bound to hemoglobin as carbamino compounds 
+
+Hemoglobin, the main oxygen-carrying molecule in red blood cells, carries both oxygen and carbon dioxide. However, the CO2 bound to hemoglobin does not bind to the same site as oxygen. Instead, it combines with the N-terminal groups on the four globin chains. However, because of allosteric effects on the hemoglobin molecule, the binding of CO2 decreases the amount of oxygen that is bound for a given partial pressure of oxygen. The decreased binding to carbon dioxide in the blood due to increased oxygen levels is known as the Haldane Effect, and is important in the transport of carbon dioxide from the tissues to the lungs. Conversely, a rise in the partial pressure of CO2 or a lower pH will cause offloading of oxygen from hemoglobin, which is known as the Bohr Effect.
+
+==== Regulation of respiration ====
+Carbon dioxide is one of the mediators of local autoregulation of blood supply. If its levels are high, the capillaries expand to allow a greater blood flow to that tissue.
+
+Bicarbonate ions are crucial for regulating blood pH. A person's breathing rate influences the level of CO2 in their blood. Breathing that is too slow or shallow causes respiratory acidosis, while breathing that is too rapid leads to hyperventilation, which can cause respiratory alkalosis.
+
+Although the body requires oxygen for metabolism, low oxygen levels normally do not stimulate breathing. Rather, breathing is stimulated by higher carbon dioxide levels. As a result, breathing low-pressure air or a gas mixture with no oxygen at all (such as pure nitrogen) can lead to loss of consciousness without ever experiencing air hunger. This is especially perilous for high-altitude fighter pilots. It is also why flight attendants instruct passengers, in case of loss of cabin pressure, to apply the oxygen mask to themselves first before helping others; otherwise, one risks losing consciousness. 
+
+The respiratory centers try to maintain an arterial CO2 pressure of 40 mm Hg. With intentional hyperventilation, the CO2 content of arterial blood may be lowered to 10–20 mm Hg (the oxygen content of the blood is little affected), and the respiratory drive is diminished. This is why one can hold one's breath longer after hyperventilating than without hyperventilating. This carries the risk that unconsciousness may result before the need to breathe becomes overwhelming, which is why hyperventilation is particularly dangerous before free diving.
+
+== See also ==
+
+* Bosch reaction
+* Bottled gas
+* Carbogen
+* Carbon dioxide sensor
+* CO2 sequestration
+* EcoCute – As refrigerants
+* Emission standards
+* Industrial gas
+* Kaya identity
+* Lake Kivu
+* List of least carbon efficient power stations
+* List of countries by carbon dioxide emissions
+* Meromictic lake
+
+== References ==
+
+== Further reading ==
+
+* Shendell, Prill, Fisk, Apte1, Blake & Faulkner, Associations between classroom CO2 concentrations and student attendance in Washington and Idaho, Indoor Air 2004.
+* Seppanen, Fisk and Mendell, Association of Ventilation Rates and CO2 Concentrations with Health and Other Responses in Commercial and Institutional Buildings, Indoor Air 1999.
+
+== External links ==
+* 
+* 
+* Carbon dioxide MSDS by Amerigas in the SDSdata.org database.
+* CDC – NIOSH Pocket Guide to Chemical Hazards – Carbon Dioxide
+* CO2 Carbon Dioxide Properties, Uses, Applications
+* Dry Ice information
+* Trends in Atmospheric Carbon Dioxide (NOAA)
+* "A War Gas That Saves Lives." Popular Science, June 1942, pp. 53–57.
+* NASA's Orbiting Carbon Observatory
+* The on-line catalogue of CO2 natural emissions in Italy
+* Reactions, Thermochemistry, Uses, and Function of Carbon Dioxide
+* Carbon Dioxide – Part One and Carbon Dioxide – Part Two at The Periodic Table of Videos (University of Nottingham)
+
+ 
+
+

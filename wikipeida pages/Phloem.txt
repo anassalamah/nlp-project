@@ -1,0 +1,98 @@
+[[Phloem]]
+
+Cross-section of a flax plant stem: 
+1. Pith,
+2. Protoxylem,
+3. Xylem I,
+4. Phloem I,
+5. Sclerenchyma (bast fibre),
+6. Cortex,
+7. Epidermis
+
+In vascular plants, phloem is the living tissue that carries organic nutrients (known as photosynthate), in particular, sucrose, 
+ a sugar, to all parts of the plant where needed. In trees, the phloem is the innermost layer of the bark, hence the name, derived from the Greek word (phloios) meaning "bark". The phloem is concerned mainly with the transport of soluble organic material made during photosynthesis. This is called translocation.
+
+== Structure ==
+
+cross-sections of a stem showing phloem and companion cells [http://www.hydroponicist.com Winterborne J, 2005. Hydroponics – Indoor Horticulture ]]
+Phloem tissue consists of: conducting cells, generally called sieve elements; parenchyma cells, including both specialized companion cells or albuminous cells and unspecialized cells; and supportive cells, such as fibres and sclereids.
+
+===Conducting cells (Sieve elements)===
+
+simplified phloem and companion cells:1. Xylem2. Phloem3. Cambium4. Pith5. Companion Cells
+Sieve elements are the type of cell that are responsible for transporting sugars throughout the plant. At maturity they lack a nucleus and have very few organelles, so they rely on companion cells or albuminous cells for most of their metabolic needs. Sieve tube cells do contain vacuoles and other organelles, such as ribosomes, before they mature, but these generally migrate to the cell wall and dissolve at maturity; this ensures there is little to impede the movement of fluids. One of the few organelles they do contain at maturity is the smooth endoplasmic reticulum, which can be found at the plasma membrane, often nearby the plasmodesmata that connect them to their companion or albuminous cells. All sieve cells have groups of pores at their ends that grow from modified and enlarged plasmodesmata, called sieve areas. The pores are reinforced by platelets of a polysaccharide called callose. 
+
+====Sieve cells====
+Sieve cells are the more primitive of the two main conducting cell types in phloem, and are found in the gymnosperms (conifers, Ginkgo, etc.) and the seedless vascular plants (e.g., ferns, club mosses, horsetails). Sieve cells have relatively narrow, uniformly sized pores in the sieve areas.
+
+===Parenchyma cells===
+
+====Companion cells====
+The metabolic functioning of sieve-tube members depends on a close association with the companion cells, a specialized form of parenchyma cell. All of the cellular functions of a sieve-tube element are carried out by the (much smaller) companion cell, a typical nucleate plant cell except the companion cell usually has a larger number of ribosomes and mitochondria. The cytoplasm of a companion cell is connected to the sieve-tube element by plasmodesmata. 
+
+There are three types of companion cell.
+#Ordinary companions cells, which have smooth walls and few or no plasmodesmata connections to cells other than the sieve tube.
+#Transfer cells, which have much-folded walls that are adjacent to non-sieve cells, allowing for larger areas of transfer. They are specialized in scavenging solutes from those in the cell walls that are actively pumped requiring energy.
+#Intermediary cells, which have smooth walls and numerous plasmodesmata connecting them to other cells.
+The first two types of cell collect solutes through apoplastic (cell wall) transfers, whilst the third type can collect solutes via the symplast through the plasmodesmata connections.
+
+====Albuminous cells====
+Albuminous cells have a similar role to companion cells, but are associated with sieve cells only and are therefore found only in seedless vascular plants and gymnosperms. 
+
+====Other parenchyma cells====
+Other parenchyma cells within the phloem are generally undifferentiated and used for food storage. 
+
+===Supportive cells===
+Although its primary function is transport of sugars, phloem may also contain cells that have a mechanical support function. These generally fall into two categories: fibres and sclereids. Both cell types have a secondary cell wall and are therefore dead at maturity. The secondary cell wall increases their rigidity and tensile strength.
+
+====Fibres====
+Fibres are the long, narrow supportive cells that provide tension strength without limiting flexibility. They are also found in xylem, and are the main component of many textiles such as paper, linen, and cotton. 
+
+====Sclereids====
+Sclereids are irregularly shaped cells that add compression strength but may reduce flexibility to some extent. They also serve as anti-herbivory structures, as their irregular shape and hardness will increase wear on teeth as the herbivores chew. For example, they are responsible for the gritty texture in pears.
+
+==Function==
+Unlike xylem (which is composed primarily of dead cells), the phloem is composed of still-living cells that transport sap. The sap is a water-based solution, but rich in sugars made by the photosynthetic areas. These sugars are transported to non-photosynthetic parts of the plant, such as the roots, or into storage structures, such as tubers or bulbs.
+
+The Pressure flow hypothesis was a hypothesis proposed by Ernst Münch in 1930 that explained the mechanism of phloem translocation. 
+ 
+
+During the plant's growth period, usually during the spring, storage organs such as the roots are sugar sources, and the plant's many growing areas are sugar sinks. The movement in phloem is multidirectional, whereas, in xylem cells, it is unidirectional (upward).
+
+After the growth period, when the meristems are dormant, the leaves are sources, and storage organs are sinks. Developing seed-bearing organs (such as fruit) are always sinks. Because of this multi-directional flow, coupled with the fact that sap cannot move with ease between adjacent sieve-tubes, it is not unusual for sap in adjacent sieve-tubes to be flowing in opposite directions.
+
+While movement of water and minerals through the xylem is driven by negative pressures (tension) most of the time, movement through the phloem is driven by positive hydrostatic pressures. This process is termed translocation, and is accomplished by a process called phloem loading and unloading. Cells in a sugar source "load" a sieve-tube element by actively transporting solute molecules into it. This causes water to move into the sieve-tube element by osmosis, creating pressure that pushes the sap down the tube. In sugar sinks, cells actively transport solutes out of the sieve-tube elements, producing the exactly opposite effect.
+
+Some plants, however, appear not to load phloem by active transport. In these cases a mechanism known as the polymer trap mechanism was proposed by Robert Turgeon. In this case small sugars such as sucrose move into intermediary cells through narrow plasmodesmata, where they are polymerised to raffinose and other larger oligosaccharides. Now they are unable to move back, but can proceed through wider plasmodesmata into the sieve tube element.
+
+The pressure flow hypothesis proposes a mechanism for phloem sap transport. 
+although other hypotheses have been proposed. 
+Phloem sap is also thought to play a role in sending informational signals throughout vascular plants. "Loading and unloading patterns are largely determined by the conductivity and number of plasmodesmata and the position-dependent function of solute-specific, plasma membrane transport proteins. Recent evidence indicates that mobile proteins and RNA are part of the plant's long-distance communication signaling system. Evidence also exists for the directed transport and sorting of macromolecules as they pass through plasmodesmata." 
+ 
+
+The symplastic phloem loading (polymer trap mechanism above) is confined mostly to plants in tropical rain forests and is seen as more primitive. The actively transported apoplastic phloem loading is viewed as more advanced, as it is found in the later-evolved plants, and particularly in those in temperate and arid conditions. This mechanism may, therefore, have allowed plants to colonise the cooler locations.
+
+Organic molecules such as sugars, amino acids, certain hormones, and even messenger RNAs are transported in the phloem through sieve tube elements. 
+
+=== Girdling ===
+
+Because phloem tubes sit on the outside of the xylem in most plants, a tree or other plant can be effectively killed by stripping away the bark in a ring on the trunk or stem. With the phloem destroyed, nutrients cannot reach the roots, and the tree/plant will die. Trees located in areas with animals such as beavers are vulnerable since beavers chew off the bark at a fairly precise height. This process is known as girdling, and can be used for agricultural purposes. For example, enormous fruits and vegetables seen at fairs and carnivals are produced via girdling. A farmer would place a girdle at the base of a large branch, and remove all but one fruit/vegetable from that branch. Thus, all the sugars manufactured by leaves on that branch have no sinks to go to but the one fruit/vegetable, which thus expands to many times normal size.
+
+==Origin==
+The phloem originates, and grows outwards from, meristematic cells in the vascular cambium. Phloem is produced in phases. Primary phloem is laid down by the apical meristem and develops from the procambium. Secondary phloem is laid down by the vascular cambium to the inside of the established layer(s) of phloem.
+
+In some eudicot families (Apocynaceae, Convolvulaceae, Cucurbitaceae, Solanaceae, Myrtaceae, Asteraceae), phloem also develops on the inner side of the vascular cambium; in this case, a distinction between external phloem and internal phloem or intraxylary phloem is made. Internal phloem is mostly primary, and begins differentiation later than the external phloem and protoxylem, though it is not without exceptions. In some other families (Amaranthaceae, Nyctaginaceae, Salvadoraceae), the cambium also periodically forms inward strands or layers of phloem, embedded in the xylem: Such phloem strands are called included phloem or interxylary phloem. Evert, Ray F. Esau's Plant Anatomy. John Wiley & Sons, Inc, 2006, pp. 357–358, ISBN 0470047372. 
+
+==Nutritional use==
+Stripping the inner bark from a pine branch.
+Phloem of pine trees has been used in Finland as a substitute food in times of famine, and even in good years in the northeast, where supplies of phloem from earlier years helped stave off starvation somewhat in the great famine of the 1860s. Phloem is dried and milled to flour (pettu in Finnish) and mixed with rye to form a hard dark bread. The least appreciated was silkko, a bread made only from buttermilk and pettu without any real rye or cereal flour. Recently, pettu has again become available as a curiosity, and some have made claims of health benefits. However, its food energy content is low relative to rye or other cereals.
+
+Phloem from silver birch has been also used to make flour in the past.
+
+==See also==
+*Apical dominance
+*Phloem sap
+*Xylem
+
+==References==
+

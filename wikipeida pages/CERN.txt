@@ -1,0 +1,225 @@
+[[CERN]]
+
+The European Organization for Nuclear Research (), known as CERN (; ; see History) is a European research organization whose purpose is to operate the world's largest particle physics laboratory. Established in 1954, the organization is based in the northwest suburbs of Geneva on the Franco–Swiss border, () and has 21 European member states. Israel is the first (and currently only) non-European country granted full membership. The boycott movement is losing the battle - for now 
+
+The term CERN is also used to refer to the laboratory, which employs just under 2,400 full-time employees and 1,500 part-time employees, and hosts some 10,000 visiting scientists and engineers, representing 608 universities and research facilities and 113 nationalities.
+
+CERN's main function is to provide the particle accelerators and other infrastructure needed for high-energy physics research – as a result, numerous experiments have been constructed at CERN following international collaborations. It is also the birthplace of the World Wide Web. The main site at Meyrin has a large computer centre containing powerful data-processing facilities, primarily for experimental-data analysis; because of the need to make these facilities available to researchers elsewhere, it has historically been a major wide area networking hub.
+
+==History==
+The 12 founding member states of CERN in 1954 (map borders from 1989)
+
+The convention establishing CERN was ratified on 29 September 1954 by 12 countries in Western Europe. The acronym CERN originally stood in French for Conseil Européen pour la Recherche Nucléaire (European Council for Nuclear Research), which was a provisional council for setting up the laboratory, established by 12 European governments in 1952. The acronym was retained for the new laboratory after the provisional council was dissolved, even though the name changed to the current Organisation Européenne pour la Recherche Nucléaire (European Organization for Nuclear Research) in 1954. According to Lew Kowarski, a former director of CERN, when the name was changed, the acronym could have become the awkward OERN, and Heisenberg said that the acronym could "still be CERN even if the name is ".
+
+Soon after the laboratory's establishment, its work went beyond the study of the atomic nucleus into higher-energy physics, which is concerned mainly with the study of interactions between particles. Therefore the laboratory operated by CERN is commonly referred to as the European laboratory for particle physics (Laboratoire européen pour la physique des particules) which better describes the research being performed at CERN.
+
+===Scientific achievements===
+Several important achievements in particle physics have been made during experiments at CERN. They include:
+*1973: The discovery of neutral currents in the Gargamelle bubble chamber; 
+*1983: The discovery of W and Z bosons in the UA1 and UA2 experiments; 
+*1989: The determination of the number of light neutrino families at the Large Electron–Positron Collider (LEP) operating on the Z boson peak;
+*1995: The first creation of antihydrogen atoms in the PS210 experiment; 
+*1999: The discovery of direct CP violation in the NA48 experiment; 
+*2010: The isolation of 38 atoms of antihydrogen; 
+*2011: Maintaining antihydrogen for over 15 minutes; Jonathan Amos June 2011BBC © 2011 Retrieved 2011-06-06 
+*2012: A boson with mass around 125 GeV/c2 consistent with long-sought Higgs boson. CERN experiments observe particle consistent with long-sought Higgs boson | CERN press office. Press.web.cern.ch (2012-07-04). Retrieved on 2013-07-17. 
+
+The 1984 Nobel Prize in physics was awarded to Carlo Rubbia and Simon van der Meer for the developments that led to the discoveries of the W and Z bosons. The 1992 Nobel Prize in physics was awarded to CERN staff researcher Georges Charpak "for his invention and development of particle detectors, in particular the multiwire proportional chamber."
+
+====Computer science====
+
+The World Wide Web began as a CERN project called ENQUIRE, initiated by Tim Berners-Lee in 1989 and Robert Cailliau in 1990. Berners-Lee and Cailliau were jointly honoured by the Association for Computing Machinery in 1995 for their contributions to the development of the World Wide Web.
+
+Based on the concept of hypertext, the project was aimed at facilitating sharing information among researchers. The first website went on-line in 1991. On 30 April 1993, CERN announced that the World Wide Web would be free to anyone. A copy of the original first webpage, created by Berners-Lee, is still published on the World Wide Web Consortium's website as a historical document.
+
+Prior to the Web's development, CERN had been a pioneer in the introduction of Internet technology, beginning in the early 1980s. A short history of this period can be found at CERN.ch. 
+
+More recently, CERN has become a centre for the development of grid computing, hosting projects including the Enabling Grids for E-sciencE (EGEE) and LHC Computing Grid. It also hosts the CERN Internet Exchange Point (CIXP), one of the two main internet exchange points in Switzerland.
+
+===Faster-than-light neutrino anomaly===
+
+On 22 September 2011, the OPERA Collaboration reported the detection of 17-GeV and 28-GeV muon neutrinos, sent 730 km from CERN near Geneva, Switzerland to the Gran Sasso National Laboratory in Italy, traveling apparently faster than light by a factor of 2.48×10−5 (approximately 1 in 40,000), a statistic with 6.0-sigma significance. Adrian Cho, Neutrinos Travel Faster Than Light, According to One Experiment, Science NOW, 22 September 2011. However, in March 2012 it was reported by a new team of scientists for CERN, Icarus, that the previous experiment was most likely flawed and will be retested by scientists of both the Opera and Icarus teams; The Associated Press, "Einstein Proved Right in Retest of Neutrinos' Speed", The Associated Press, 17 March 2012. on 16 March, CERN stated in a press release that the results were flawed due to an incorrectly connected GPS-synchronization cable. 
+
+==Particle accelerators==
+
+===Current complex===
+Map of the CERN accelerator complex
+
+Map of the Large Hadron Collider together with the Super Proton Synchrotron at CERN
+
+CERN operates a network of six accelerators and a decelerator. Each machine in the chain increases the energy of particle beams before delivering them to experiments or to the next more powerful accelerator. Currently active machines are:
+* Two linear accelerators generate low energy particles. Linac2 accelerates protons to 50 MeV for injection into the Proton Synchrotron Booster (PSB), and Linac3 provides heavy ions at 4.2 MeV/u for injection into the Low Energy Ion Ring (LEIR). 
+* The Proton Synchrotron Booster increases the energy of particles generated by the proton linear accelerator before they are transferred to the other accelerators.
+* The Low Energy Ion Ring (LEIR) accelerates the ions from the ion linear accelerator, before transferring them to the Proton Synchrotron (PS). This accelerator was commissioned in 2005, after having been reconfigured from the previous Low Energy Antiproton Ring (LEAR).
+* The 28 GeV Proton Synchrotron (PS), built in 1959 and still operating as a feeder to the more powerful SPS.
+* The Super Proton Synchrotron (SPS), a circular accelerator with a diameter of 2 kilometres built in a tunnel, which started operation in 1976. It was designed to deliver an energy of 300 GeV and was gradually upgraded to 450 GeV. As well as having its own beamlines for fixed-target experiments (currently COMPASS and NA62), it has been operated as a proton–antiproton collider (the SpS collider), and for accelerating high energy electrons and positrons which were injected into the Large Electron–Positron Collider (LEP). Since 2008, it has been used to inject protons and heavy ions into the Large Hadron Collider (LHC).
+* The On-Line Isotope Mass Separator (ISOLDE), which is used to study unstable nuclei. The radioactive ions are produced by the impact of protons at an energy of 1.0–1.4 GeV from the Proton Synchrotron Booster. It was first commissioned in 1967 and was rebuilt with major upgrades in 1974 and 1992.
+* REX-ISOLDE increases the charge states of ions coming from the ISOLDE targets, and accelerates them to a maximum energy of 3 MeV/u.
+* The Antiproton Decelerator (AD), which reduces the velocity of antiprotons to about 10% of the speed of light for research into antimatter.
+* The Compact Linear Collider Test Facility, which studies feasibility issues for the future normal conducting linear collider project.
+
+====Large Hadron Collider====
+
+Most of the activities at CERN are currently directed towards operating the new Large Hadron Collider (LHC), and the experiments for it. The LHC represents a large-scale, worldwide scientific cooperation project.
+Construction of the CMS detector for LHC at CERN
+
+The LHC tunnel is located 100 metres underground, in the region between the Geneva International Airport and the nearby Jura mountains. It uses the 27 km circumference circular tunnel previously occupied by LEP which was closed down in November 2000. CERN's existing PS/SPS accelerator complexes will be used to pre-accelerate protons which will then be injected into the LHC.
+
+Seven experiments (CMS, ATLAS, LHCb, MoEDAL, CERN Courier, "MoEDAL becomes the LHC's magnificent seventh", 5 May 2010 TOTEM, LHC-forward and ALICE) will run on the collider; each of them will study particle collisions from a different point of view, and with different technologies. Construction for these experiments required an extraordinary engineering effort. Just as an example, a special crane had to be rented from Belgium in order to lower pieces of the CMS detector into its underground cavern, since each piece weighed nearly 2,000 tons. The first of the approximately 5,000 magnets necessary for construction was lowered down a special shaft at 13:00 GMT on 7 March 2005.
+
+This accelerator has begun to generate vast quantities of data, which CERN streams to laboratories around the world for distributed processing (making use of a specialised grid infrastructure, the LHC Computing Grid). In April 2005, a trial successfully streamed 600 MB/s to seven different sites across the world. If all the data generated by the LHC is to be analysed, then scientists must achieve 1,800 MB/s before 2008.
+
+The initial particle beams were injected into the LHC August 2008. Overbye, Dennis (29 July 2008). "Let the Proton Smashing Begin. (The Rap Is Already Written.)". The New York Times. The first attempt to circulate a beam through the entire LHC was at 8:28 GMT on 10 September 2008, but the system failed because of a faulty magnet connection, and it was stopped for repairs on 19 September 2008.
+
+The LHC resumed operation on Friday 20 November 2009 by successfully circulating two beams, each with an energy of 3.5 trillion electron volts. The challenge that the engineers then faced was to try to line up the two beams so that they smashed into each other. This is like "firing two needles across the Atlantic and getting them to hit each other" according to the LHC's main engineer Steve Myers, director for accelerators and technology at the Swiss laboratory.
+
+At 1200 BST on Tuesday 30 March 2010 the LHC successfully smashed two proton particle beams travelling with 3.5 TeV (trillion electron volts) of energy, resulting in a 7 TeV event. However, this was just the start of the road toward the expected discovery of the Higgs boson. When the 7 TeV experimental period ended, the LHC revved up to 8 TeV (4 TeV acceleration in both directions) in March 2012, and soon began particle collisions at that rate. In early 2013 the LHC was shut down for a two-year maintenance period, to strengthen the huge magnets inside the accelerator. Eventually it will attempt to create 14 TeV events.
+In July 2012, CERN scientists announced the discovery of a new sub-atomic particle that could be the much sought after Higgs boson believed to be essential for formation of the Universe. 
+
+===Decommissioned accelerators===
+* The original linear accelerator (LINAC 1).
+* The 600 MeV Synchrocyclotron (SC) which started operation in 1957 and was shut down in 1991.
+* The Intersecting Storage Rings (ISR), an early collider built from 1966 to 1971 and operated until 1984.
+* The Large Electron–Positron Collider (LEP), which operated from 1989 to 2000 and was the largest machine of its kind, housed in a 27 km-long circular tunnel which now houses the Large Hadron Collider.
+* The Low Energy Antiproton Ring (LEAR), commissioned in 1982, which assembled the first pieces of true antimatter, in 1995, consisting of nine atoms of antihydrogen. It was closed in 1996, and superseded by the Antiproton Decelerator.
+
+==Sites==
+CERN's main site, from Switzerland looking towards France
+Interior of office building 40 at the Meyrin site. Building 40 hosts many offices for scientists working for CMS and Atlas.
+
+The smaller accelerators are on the main Meyrin site (also known as the West Area), which was originally built in Switzerland alongside the French border, but has been extended to span the border since 1965. The French side is under Swiss jurisdiction and there is no obvious border within the site, apart from a line of marker stones. There are six entrances to the Meyrin site:
+* A, in Switzerland, for all CERN personnel at specific times.
+* B, in Switzerland, for all CERN personnel at all times. Often referred to as the main entrance.
+* C, in Switzerland, for all CERN personnel at specific times.
+* D, in Switzerland, for goods reception at specific times.
+* E, in France, for French-resident CERN personnel at specific times. Controlled by customs personnel. Named "Porte Charles de Gaulle" in recognition of his role in the creation of CERN. 
+* Tunnel entrance, in France, for equipment transfer to and from CERN sites in France by personnel with a specific permit. This is the only permitted route for such transfers. Under the CERN treaty, no taxes are payable when such transfers are made. Controlled by customs personnel.
+
+The SPS and LEP/LHC tunnels are almost entirely outside the main site, and are mostly buried under French farmland and invisible from the surface. However, they have surface sites at various points around them, either as the location of buildings associated with experiments or other facilities needed to operate the colliders such as cryogenic plants and access shafts. The experiments are located at the same underground level as the tunnels at these sites.
+
+Three of these experimental sites are in France, with ATLAS in Switzerland, although some of the ancillary cryogenic and access sites are in Switzerland. The largest of the experimental sites is the Prévessin site, also known as the North Area, which is the target station for non-collider experiments on the SPS accelerator. Other sites are the ones which were used for the UA1, UA2 and the LEP experiments (the latter which will be used for LHC experiments).
+
+Outside of the LEP and LHC experiments, most are officially named and numbered after the site where they were located. For example, NA32 was an experiment looking at the production of charmed particles and located at the Prévessin (North Area) site while WA22 used the Big European Bubble Chamber (BEBC) at the Meyrin (West Area) site to examine neutrino interactions. The UA1 and UA2 experiments were considered to be in the Underground Area, i.e. situated underground at sites on the SPS accelerator.
+
+Most of the roads on the CERN campus are named after famous physicists, e.g.- Richard Feynman, Niels Bohr, Albert Einstein.
+
+==Participation and funding==
+
+===Member states and budget===
+Member states of CERN and current enlargement agenda 
+
+Since its foundation by 12 members in 1954, CERN regularly accepted new members. All new members have remained in the organisation continuously since their accession, except Spain and Yugoslavia. Spain first joined CERN in 1961, withdrew in 1969, and rejoined in 1983. Yugoslavia was a founding member of CERN but left in 1961. Initially only West Germany was a (founding) member of CERN. Of the twenty members, 18 are European Union member states. Switzerland and Norway are not. CERN voted on 12 December 2013 to allow Israel to join its membership, becoming the first (and currently only) non-European member. Rahman, Fazlur. (2013-11-11) Israel may become first non-European member of nuclear research group CERN - Diplomacy and Defense Israel News. Haaretz. Retrieved on 2014-04-28. [http://uk.news.yahoo.com/israel-becomes-full-member-cern-202523851.html#oTBCCDz ] 
+
+ Member state Status since Contr.(mill.CHF for 2012) Contr.(% for 2012) 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ Candidate, Associate Members 
+ % 
+ % 
+ The Republic of Cyprus Becomes a CERN Associate Member State. Newswise.com (2012-10-05). Retrieved on 2013-07-17. % 
+ Thumbs up: Pakistan meets criteria for CERN. % 
+ Thumbs up: Pakistan meets criteria for CERN. Newswise.com (2012-10-05). Retrieved on 2013-07-17. % 
+ Total Members, Candidates and Associates % 
+ % 
+ Other income — % 
+ Total CERN % 
+
+ Maps of the history of CERN membership 
+ Image:Cernfounders.png|1954 (12 members): CERN is founded (1989 borders) Image:CERN1959.png|1959 (13 members): Austria joins (1989 borders) Image:CERN1961and1983.png|1961 (13 members): Spain joins and Yugoslavia leaves (1989 borders) Image:CERN1969.png|1969 (12 members): Spain leaves (1989 borders) Image:CERN1961and1983.png|1983 (13 members): Spain re-joins (1989 borders) Image:CERN1985.png|1985 (14 members): Portugal joins (1989 borders) Image:CERN1991.png|1991 (16 members): Poland and Finland join, and Germany has been reunified (2008 borders) Image:CERN1992.png|1992 (17 members): Hungary joins (2008 borders) Image:CERN1993.png|1993 (19 members): Czech Republic and Slovakia join (2008 borders) Image:CERN1999.png|1999 (20 members): Bulgaria joins (2008 borders) Image:CERN-Membership-History.gif|Animated map showing changes in CERN membership from 1954 until 1999 (borders are as at 1989 and 2008) 
+
+===Enlargement===
+Associate Members, Candidates (note that dates are initial signature, not of ratification):
+* became a candidate for accession to CERN in 2010 and will become a member in 2015. 
+* became a candidate for accession to CERN on 19 December 2011, associate member on 10 January 2012. 
+*'s name has been unanimously approved by CERN council for the process of achieving associate membership, at a meeting on 17 September 2013, which could potentially lead to Pakistan’s associate membership by the end of 2014.
+* became an associate member in 2012. 
+* became an associate member on 3 October 2013. 
+* became an associate member on 18 December 2013. 
+
+Four countries applying for membership have all formally confirmed their wish to become members. 
+* since 7 January 1991, Non-Member State status
+* since 1961, Observer State status
+
+===International relations===
+
+Five countries have observer status: 
+
+Also observers are the following international organizations:
+* UNESCO – since 1954
+* European Commission – since 1985
+
+Non-Member States (with dates of Co-operation Agreements) currently involved in CERN programmes are:
+
+CERN also has scientific contacts with the following countries: 
+
+International research institutions, such as CERN, can aid in science diplomacy. 
+
+==Public exhibits==
+The Globe of Science and Innovation at CERN
+Facilities at CERN open to the public include:
+*The Globe of Science and Innovation, which opened in late 2005 and is used four times a week for special exhibits.
+*The Microcosm museum on particle physics and CERN history.
+*The Hindu deity, Shiva, a 2 metre statue styled on Chola bronzes of the deity engaging in the Nataraja dance of Chidambaram, parallelling the movements or "dance" of subatomic particles. 
+
+==In popular culture==
+line 18 goes to CERN
+* CERN's Large Hadron Collider is the subject of a (scientifically accurate) rap video starring Katherine McAlpine with some of the facility's staff. "Large Hadron Collider Rap Video Is a Hit", National Geographic News. 10 September 2008. Retrieved 13 August 2010. 
+* CERN is depicted in an episode of South Park (Season 13, Episode 6) called "Pinewood Derby". Randy Marsh, the father of one of the main characters, breaks into the "Hadron Particle Super Collider in Switzerland" and steals a "superconducting bending magnet created for use in tests with particle acceleration" to use in his son Stan's Pinewood Derby racer. Randy breaks into CERN dressed in disguise as Princess Leia from the Star Wars saga. The break-in is captured on surveillance tape which is then broadcast on the news. 
+* John Titor, a self-proclaimed time traveler, alleged that CERN would invent time travel in 2001.
+* CERN is depicted in the visual novel/anime series Steins;Gate as SERN, a shadowy organization that has been researching time travel in order to restructure and control the world.
+* In Dan Brown's mystery-thriller novel Angels & Demons, a canister of antimatter is stolen from CERN. 
+* In the popular children's series The 39 Clues, CERN is said to be an Ekaterina stronghold hiding the clue hydrogen.
+* In Robert J. Sawyer's science fiction novel Flashforward, at CERN, the Large Hadron Collider accelerator is performing a run to search for the Higgs boson when the entire human race sees themselves twenty-one years and six months in the future.
+*In season 3 episode 15 of the popular TV sitcom The Big Bang Theory titled "The Large Hadron Collision", Leonard and Rajesh travel to CERN to attend a conference and see the LHC.
+*The 2012 student film Decay, which centers around the idea of the Large Hadron Collider transforming people into zombies, was filmed on location in CERN's maintenance tunnels. 
+* The Compact Muon Solenoid at CERN was used as the basis for the Megadeth's Super Collider album cover.
+* In Denpa Kyoushi, the main character is scouted by "CERM" 
+* In Super Lovers, Haruko (Ren's mother) worked at CERN, and Ren was taught by CERN professors
+
+== Associated institutions ==
+
+* Swiss National Supercomputing Centre
+
+==See also==
+
+* CERN Openlab
+* Fermilab
+* Nederlandse Organisatie voor Wetenschappelijk Onderzoek
+* Science and technology in Switzerland
+* Scientific Linux
+* SLAC National Accelerator Laboratory
+* World Wide Web
+* 
+
+==References==
+
+==External links==
+
+* Official website of CERN: CERN Accelerating science
+* CERN at 50
+* CERN Courier – International journal of high-energy physics
+* Israel may become first non-European member of nuclear research group CERN
+* Big Bang Day: The Making of CERN, September 2008, A BBC Radio program
+
+ 
+
+

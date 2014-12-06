@@ -1,0 +1,86 @@
+[[Cysteine]]
+
+Cysteine (abbreviated as Cys or C) is an α-amino acid with the chemical formula HO2CCH(NH2)CH2SH. It is a semi-essential amino acid, which means that it can be biosynthesized in humans. The thiol side chain in cysteine often participates in enzymatic reactions, serving as a nucleophile. The thiol is susceptible to oxidization to give the disulfide derivative cystine, which serves an important structural role in many proteins. When used as a food additive, it has the E number E920.
+
+==Sources==
+
+===Dietary sources===
+Although classified as a non-essential amino acid, in rare cases, cysteine may be essential for infants, the elderly, and individuals with certain metabolic disease or who suffer from malabsorption syndromes. Cysteine can usually be synthesized by the human body under normal physiological conditions if a sufficient quantity of methionine is available. Cysteine is catabolized in the gastrointestinal tract and blood plasma. In contrast, cystine travels safely through the GI tract and blood plasma and is promptly reduced to the two cysteine molecules upon cell entry.
+
+Cysteine is found in most high-protein foods, including:
+* Animal sources: pork, poultry, eggs, dairy
+* Plant sources: red peppers, garlic, onions, broccoli, brussels sprout, oats, granola, wheat germ, sprouted lentils. 
+Like other amino acids, cysteine has an amphoteric character. (R)-Cysteine (left) and (S)-Cysteine (right) in zwitterionic form at neutral pH
+
+=== Industrial sources ===
+The majority of L-cysteine is obtained industrially by hydrolysis of poultry feathers or human hair. Synthetically produced L-cysteine, compliant with Jewish Kosher and Muslim Halal laws, is also available, albeit at a higher price. The synthetic route involves fermentation using a mutant of E. coli. Degussa introduced a route from substituted thiazolines. Following this technology, L-cysteine is produced by the hydrolysis of racemic 2-amino-Δ2-thiazoline-4-carboxylic acid using Pseudomonas thiazolinophilum. 
+
+=== Biosynthesis ===
+Cysteine synthesis. Cystathionine beta synthase catalyzes the upper reaction and cystathionine gamma-lyase catalyzes the lower reaction.
+In animals, biosynthesis begins with the amino acid serine. The sulfur is derived from methionine, which is converted to homocysteine through the intermediate S-adenosylmethionine. Cystathionine beta-synthase then combines homocysteine and serine to form the asymmetrical thioether cystathionine. The enzyme cystathionine gamma-lyase converts the cystathionine into cysteine and alpha-ketobutyrate. In plants and bacteria, cysteine biosynthesis again starts from serine, which is converted to O-acetylserine by the enzyme serine transacetylase. The enzyme O-acetylserine (thiol)-lyase, using sulfide sources, converts this ester into cysteine, releasing acetate. 
+
+==Biological functions==
+The cysteine thiol group is nucleophilic and easily oxidized. The reactivity is enhanced when the thiol is ionized, and cysteine residues in proteins have pKa values close to neutrality, so are often in their reactive thiolate form in the cell. Because of its high reactivity, the thiol group of cysteine has numerous biological functions.
+
+===Precursor to the antioxidant glutathione===
+Due to the ability of thiols to undergo redox reactions, cysteine has antioxidant properties. Cysteine's antioxidant properties are typically expressed in the tripeptide glutathione, which occurs in humans as well as other organisms. The systemic availability of oral glutathione (GSH) is negligible; so it must be biosynthesized from its constituent amino acids, cysteine, glycine, and glutamic acid. Glutamic acid and glycine are readily available in most Western diets, but the availability of cysteine can be the limiting substrate.
+
+===Precursor to iron-sulfur clusters===
+Cysteine is an important source of sulfide in human metabolism. The sulfide in iron-sulfur clusters and in nitrogenase is extracted from cysteine, which is converted to alanine in the process. 
+
+===Metal ion binding===
+Beyond the iron-sulfur proteins, many other metal cofactors in enzymes are bound to the thiolate substituent of cysteinyl residues. Examples include zinc in zinc fingers and alcohol dehydrogenase, copper in the blue copper proteins, iron in cytochrome P450, and nickel in the -hydrogenases. The thiol group also has a high affinity for heavy metals, so that proteins containing cysteine, such as metallothionein, will bind metals such as mercury, lead, and cadmium tightly. 
+
+===Roles in protein structure===
+In the translation of messenger RNA molecules to produce polypeptides, cysteine is coded for by the UGU and UGC codons.
+
+Cysteine has traditionally been considered to be a hydrophilic amino acid, based largely on the chemical parallel between its thiol group and the hydroxyl groups in the side-chains of other polar amino acids. However, the cysteine side chain has been shown to stabilize hydrophobic interactions in micelles to a greater degree than the side chain in the non-polar amino acid glycine, and the polar amino acid serine. In a statistical analysis of the frequency with which amino acids appear in different chemical environments in the structures of proteins, free cysteine residues were found to associate with hydrophobic regions of proteins. Their hydrophobic tendency was equivalent to that of known non-polar amino acids such as methionine and tyrosine, and was much greater than that of known polar amino acids such as serine and threonine. Hydrophobicity scales, which rank amino acids from most hydrophobic to most hydrophilic, consistently place cysteine towards the hydrophobic end of the spectrum, even when they are based on methods that are not influenced by the tendency of cysteines to form disulfide bonds in proteins. Therefore, cysteine is now often grouped among the hydrophobic amino acids, though it is sometimes also classified as slightly polar, or polar. 
+
+While free cysteine residues do occur in proteins, most are covalently bonded to other cysteine residues to form disulfide bonds. Disulfide bonds play an important role in the folding and stability of some proteins, usually proteins secreted to the extracellular medium. Since most cellular compartments are reducing environments, disulfide bonds are generally unstable in the cytosol with some exceptions as noted below.
+
+Figure 2: Cystine (shown here in its neutral form), two cysteines bound together by a disulfide bond.
+
+Disulfide bonds in proteins are formed by oxidation of the thiol groups of cysteine residues. The other sulfur-containing amino acid, methionine, cannot form disulfide bonds. More aggressive oxidants convert cysteine to the corresponding sulfinic acid and sulfonic acid. Cysteine residues play a valuable role by crosslinking proteins, which increases the rigidity of proteins and also functions to confer proteolytic resistance (since protein export is a costly process, minimizing its necessity is advantageous). Inside the cell, disulfide bridges between cysteine residues within a polypeptide support the protein's tertiary structure. Insulin is an example of a protein with cystine crosslinking, wherein two separate peptide chains are connected by a pair of disulfide bonds.
+
+Protein disulfide isomerases catalyze the proper formation of disulfide bonds; the cell transfers dehydroascorbic acid to the endoplasmic reticulum, which oxidises the environment. In this environment, cysteines are, in general, oxidized to cystine and are no longer functional as a nucleophiles.
+
+Aside from its oxidation to cystine, cysteine participates in numerous posttranslational modifications. The nucleophilic thiol group allows cysteine to conjugate to other groups, e.g., in prenylation. Ubiquitin ligases transfer ubiquitin to its pendant, proteins, and caspases, which engage in proteolysis in the apoptotic cycle. Inteins often function with the help of a catalytic cysteine. These roles are typically limited to the intracellular milieu, where the environment is reducing, and cysteine is not oxidized to cystine.
+
+==Applications==
+Cysteine, mainly the L-enantiomer, is a precursor in the food, pharmaceutical, and personal-care industries. One of the largest applications is the production of flavors. For example, the reaction of cysteine with sugars in a Maillard reaction yields meat flavors. L-Cysteine is also used as a processing aid for baking. . 
+
+In the field of personal care, cysteine is used for permanent wave applications, predominantly in Asia. Again, the cysteine is used for breaking up the disulfide bonds in the hair's keratin.
+
+Cysteine is a very popular target for site-directed labeling experiments to investigate biomolecular structure and dynamics. Maleimides will selectively attach to cysteine using a covalent Michael addition. Site-directed spin labeling for EPR or paramagnetic relaxation enhanced NMR also uses cysteine extensively.
+
+In a 1994 report released by five top cigarette companies, cysteine is one of the 599 additives to cigarettes. Like most cigarette additives, however, its use or purpose is unknown. . Its inclusion in cigarettes could offer two benefits: acting as an expectorant, since smoking increases mucus production in the lungs; or increasing the beneficial antioxidant glutathione (which is diminished in smokers).
+
+===Reducing toxic effects of alcohol===
+Cysteine has been proposed as a preventative or antidote for some of the negative effects of alcohol, including liver damage and hangover. It counteracts the poisonous effects of acetaldehyde, which is the major byproduct of alcohol metabolism and is responsible for most of the negative after effects and long-term damage associated with alcohol use (but not the immediate effects of drunkenness). Cysteine supports the next step in metabolism, which turns acetaldehyde into the relatively harmless acetic acid. In a rat study, test animals received an dose of acetaldehyde. Those that received cysteine had an 80% survival rate; when both cysteine and thiamine were administered, all animals survived. No direct evidence indicates its effectiveness in humans who consume alcohol at normal levels.
+
+===N-Acetylcysteine===
+N-Acetyl-L-cysteine is a derivative of cysteine wherein an acetyl group is attached to the nitrogen atom. This compound is sold as a dietary supplement, and used as an antidote in cases of acetaminophen overdose, and obsessive compulsive disorders such as trichotillomania.
+
+==Sheep==
+Cysteine is required by sheep to produce wool: It is an essential amino acid that must be taken in from their feed. As a consequence, during drought conditions, sheep produce less wool; however, transgenic sheep that can make their own cysteine have been developed. 
+
+==See also==
+
+* Amino acids
+* Cysteine metabolism
+* Cystinuria
+* Selenocysteine
+* Thiols
+* Sullivan reaction
+
+==References==
+
+==External links==
+* Cysteine MS Spectrum
+* International Kidney Stone Institute
+* http://www.chemie.fu-berlin.de/chemistry/bio/aminoacid/cystein en.html
+*
+* 952-10-3056-9 Interaction of alcohol and smoking in the pathogenesis of upper digestive tract cancers - possible chemoprevention with cysteine
+* Cystine Kidney Stones
+
+

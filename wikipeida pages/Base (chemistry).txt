@@ -1,0 +1,96 @@
+[[Base (chemistry)]]
+
+For the term in genetics, see base (genetics)
+
+In chemistry, a base is a substance that, in aqueous solution, is slippery to the touch, tastes bitter, changes the color of indicators (e.g., turns red litmus paper blue), reacts with acids to form salts, and promotes certain chemical reactions (base catalysis). Examples of bases are the hydroxides of the alkali and alkaline earth metals (NaOH, Ca(OH)2, etc.). Such substances produce hydroxide ions (OH-) in aqueous solutions, and are thus classified as Arrhenius bases.
+
+For a substance to be classified as an Arrhenius base, it must produce hydroxide ions in solution—in order to do so, Arrhenius believed the base must contain hydroxide in the formula. This makes the Arrhenius model limited, as it cannot explain the basic properties of aqueous solutions of ammonia (NH3) or its organic derivatives (amines). Chemistry, 9th Edition. Kenneth W. Whitten, Larry Peck, Raymond E. Davis, Lisa Lockwood, George G. Stanley. (2009) ISBN 0-495-39163-8. Page 363 In the more general Brønsted–Lowry acid–base theory, a base is a substance that can accept hydrogen ions (H+)—otherwise known as protons. In the Lewis model, a base is an electron pair donor. Chemistry. Page 349 
+
+In water, by altering the autoionization equilibrium, bases give solutions with a hydrogen ion activity lower than that of pure water, i.e., a pH higher than 7.0 at standard conditions. A soluble base is called an alkali if it contains and releases OH- ions quantitatively. However, it is important to realize that basicity is not the same as alkalinity. Metal oxides, hydroxides, and especially alkoxides are basic, and counteranions of weak acids are weak bases.
+
+Bases can be thought of as the chemical opposite of acids. Bases and acids are seen as opposites because the effect of an acid is to increase the hydronium (H3O+) concentration in water, whereas bases reduce this concentration. A reaction between an acid and base is called neutralization. In a neutralization reaction, an aqueous solution of a base reacts with an aqueous solution of an acid to produce a solution of water and salt in which the salt separates into its component ions. If the aqueous solution is saturated with a given salt solute, any additional such salt precipitates out of the solution.
+
+==Properties==
+Some general properties of bases include
+
+*Slimy or soapy feel on fingers, due to saponification of the lipids in human skin.
+*Concentrated or strong bases are caustic on organic matter and react violently with acidic substances.
+*Aqueous solutions or molten bases dissociate in ions and conduct electricity.
+*Reactions with indicators: bases turn red litmus paper blue, phenolphthalein pink, keep bromothymol blue in its natural colour of blue, and turn methyl orange yellow.
+*The pH level of a basic solution is higher than 7.
+*Bases are bitter in taste. http://www.merriam-webster.com/dictionary/base 
+
+==Neutralization of acids==
+When dissolved in water, the strong base sodium hydroxide ionizes into hydroxide and sodium ions:
+
+:NaOH → + 
+
+and similarly, in water the acid hydrogen chloride forms hydronium and chloride ions:
+
+:HCl + → + 
+
+When the two solutions are mixed, the and ions combine to form water molecules:
+
+: + → 2 
+
+If equal quantities of NaOH and HCl are dissolved, the base and the acid neutralize exactly, leaving only NaCl, effectively table salt, in solution.
+
+Weak bases, such as baking soda or egg white, should be used to neutralize any acid spills. Neutralizing acid spills with strong bases, such as sodium hydroxide or potassium hydroxide can cause a violent exothermic reaction, and the base itself can cause just as much damage as the original acid spill.
+
+==Alkalinity of non-hydroxides==
+Bases are generally compounds that can neutralize an amount of acids. Both sodium carbonate and ammonia are bases, although neither of these substances contains groups. Both compounds accept H+ when dissolved in protic solvents such as water:
+
+:Na2CO3 + H2O → 2 Na+ + HCO3- + OH-
+:NH3 + H2O → NH4+ + OH-
+
+From this, a pH, or acidity, can be calculated for aqueous solutions of bases. Bases also directly act as electron-pair donors themselves:
+
+:CO32- + H+ → HCO3-
+:NH3 + H+ → NH4+
+
+Carbon can act as a base as well as nitrogen and oxygen. This occurs typically in compounds such as butyl lithium, alkoxides, and metal amides such as sodium amide. Bases of carbon, nitrogen and oxygen without resonance stabilization are usually very strong, or superbases, which cannot exist in a water solution due to the acidity of water. Resonance stabilization, however, enables weaker bases such as carboxylates; for example, sodium acetate is a weak base.
+
+==Strong bases==
+A strong base is a basic chemical compound that can remove a proton (H+) from (or deprotonate) a molecule of a very weak acid in an acid-base reaction. Common examples of strong bases include hydroxides of alkali metals and alkaline earth metals like NaOH and . Very strong bases can even deprotonate very weakly acidic C–H groups in the absence of water.
+Here is a list of several strong bases:
+*Potassium hydroxide (KOH)
+*Barium hydroxide ()
+*Cesium hydroxide (CsOH)
+*Sodium hydroxide (NaOH)
+*Strontium hydroxide ()
+*Calcium hydroxide (Ca(OH)2)
+*Lithium hydroxide (LiOH)
+*Rubidium hydroxide (RbOH)
+
+The cations of these strong bases appear in the first and second groups of the periodic table (alkali and earth alkali metals).
+
+Acids with a pKa of more than about 13 are considered very weak, and their conjugate bases are strong bases.
+
+===Superbases===
+
+Group 1 salts of carbanions, amides, and hydrides tend to be even stronger bases due to the extreme weakness of their conjugate acids, which are stable hydrocarbons, amines, and dihydrogen. Usually these bases are created by adding pure alkali metals such as sodium into the conjugate acid. They are called superbases, and it is impossible to keep them in water solution because they are stronger bases than the hydroxide ion. As such, they deprotonate the conjugate acid water. For example, the ethoxide ion (conjugate base of ethanol) in the presence of water undergoes this reaction.
+
+: + → + 
+
+Here are some superbases:
+
+*Butyl lithium (n-C4H9Li)
+*Lithium diisopropylamide (LDA) 2NLi 
+*Lithium diethylamide (LDEA) 
+*Sodium amide (NaNH2)
+*Sodium hydride (NaH)
+*Lithium bis(trimethylsilyl)amide 
+
+==Bases as catalysts==
+Basic substances can be used as insoluble heterogeneous catalysts for chemical reactions. Some examples are metal oxides such as magnesium oxide, calcium oxide, and barium oxide as well as potassium fluoride on alumina and some zeolites. Many transition metals make good catalysts, many of which form basic substances. Basic catalysts have been used for hydrogenations, the migration of double bonds, in the Meerwein-Ponndorf-Verley reduction, the Michael reaction, and many other reactions.
+
+==See also==
+*Acids
+*Acid-base reactions
+*Base-richness (used in ecology, referring to environments)
+*Conjugate base
+*Titration
+
+==References==
+
+

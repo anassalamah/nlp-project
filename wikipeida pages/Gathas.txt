@@ -1,0 +1,85 @@
+[[Gathas]]
+
+The Gathas () are 17 hymns believed to have been composed by Zarathusthra (Zoroaster) himself. They are the most sacred texts of the Zoroastrian faith.
+
+== Structure and organization ==
+The Gathas are in verse, metrical in the nature of ancient Iranian religious poetry, which is extremely terse, and in which grammatical constructs are an exception.
+
+The 17 hymns of the Gathas consist of 238 stanzas, of about 1300 lines or 6000 words in total. They were later incorporated into the 72-chapter Yasna (chapter: ha or had, from the Avestan ha'iti, 'cut'), which in turn is the primary liturgical collection of texts within the greater compendium of the Avesta. The 17 hymns are identified by their chapter numbers in the Yasna, and are divided into five major sections:
+
+ 28–34 Ahunavaiti Gatha (cf. Ahuna Vairya), 100 stanzas, (3 verses, 7+9 syllable meter) 
+ 43–46 Ushtavaiti Gatha 'Having Happiness', 66 stanzas (5 verses, 4+7 syllable meter) 
+ 47–50 Spenta Mainyu Gatha 'Bounteous Spirit', 41 stanzas (4 verses, 4+7 syllable meter) 
+ 51 Vohu Khshathra Gatha 'Good Dominion', 22 stanzas (3 verses, 7+7 syllable meter) 
+ 53 Vahishto Ishti Gatha 'Best Beloved', 9 stanzas (4 verses, two of 7+5 and two of 7+7+5 syllables) 
+ 54 Airyaman ishya Gatha 'The invocation of the divinity Airyaman' 
+
+With the exception of Ahunavaiti Gatha, which is named after the Ahuna Vairya prayer (Yasna 27, not in the Gathas), the names of the Gathas reflect the first word(s) of the first hymn within them. The meter of the hymns is historically related to the Vedic tristubh-jagati family of meters. Hymns of these meters are recited, not sung.
+
+The sequential order of the Gathas is structurally interrupted by the Yasna Haptanghaiti ("seven-chapter Yasna", chapters 35-41, linguistically as old as the Gathas but in prose) and by two other minor hymns at Yasna 42 and 52.
+
+== Language ==
+The language of the Gathas, Gathic or Old Avestan, belongs to the old Iranian language group which is a sub-group of Eastern families of the Indo-European languages.
+The Gathas are in an otherwise unknown language. The dependency on Vedic Sanskrit is a significant weakness in the interpretation of the Gathas, as the two languages, though from a common origin, had developed independently. Sassanid era translations and commentaries (the Zend) have been used to interpret the Gathas, but by the 3rd century the Avestan language was virtually extinct, and a dependency on the medieval texts is often discouraged as the commentaries are frequently conjectural. While some scholars argue that an interpretation using younger texts is inadvisable (Geldner, Humbach), others argue that such a view is excessively skeptical (Spiegel, Darmesteter). The risks of mis-interpretation are real, but lacking alternates, such dependencies are perforce necessary.
+
+"The Middle Persian translation seldom offers an appropriate point of departure for a detailed scholarly approach to the Gathas, but an intensive comparison of its single lines and their respective glosses with their Gathic originals usually reveals the train of thought of the translator. This obviously reflects the Gatha interpretation by the priests of the Sasanian period, the general view of which is closer to the original than what is sometimes taught about the Gathas in our time." 
+
+There are four monumental translations of the Gathas worth noting: The earlier James Darmesteter version (Le Zend-Avesta, 1892-1893) which is based on a translation "from below", that is, based on the later middle Persian commentaries and translations. The other three are Christian Bartholomae's Die Gathas des Awesta (1905, Strassburg: Trübner), Helmut Humbach's The Gathas of Zarathushtra (1959, Heidelberg: Winter), and Stanley Isler's The Gathas of Zarathustra (1975, Acta Iranica IV, Leiden: Brill). These three texts exploit the "Vedic" approach, and Bartholomae's was the first of its kind.
+
+The problems that face a translator of the Avestan Gathas are significant: "No one who has ever read a stanza of Gathas in the original will be under any illusions as to the labour which underlies the effort translating the hymns. The most abstract and perplexing thought, veiled further by archaic language, only half understood by later students of the seer's own race and tongue, tends to make the Gathas the hardest problem to be attempted by those who would investigate the literary monuments." 
+
+== Content ==
+Some of the verses of the Gathas are directly addressed to the Omniscient Creator Ahura Mazda. These verses, devotional in character, expound on the divine essences of truth (Asha), the good-mind (Vohu Manah), and the spirit of righteousness. Some other verses are addressed to the public that may have come to hear the prophet, and in these he exhorts his audience to live a life as Ahura Mazda has directed, and pleads to Ahura Mazda to intervene on their behalf.
+
+Other verses, from which some aspects of Zoroaster's life have been inferred, are semi-(auto)biographical, but all revolve around Zarathustra's mission to promote his view of the Truth (again Asha). For instance, some of the passages describe Zarathustra's first attempts to promote the teachings of Ahura Mazda, and the subsequent rejection by his kinsmen. This and other rejection led him to have doubts about his message, and in the Gathas he asked for assurance from Ahura Mazda, and requests repudiation of his opponents.
+
+The various hymns appear to have been composed at different periods in his life, and read chronologically, a certain earnestness and conviction in his message are apparent. While in earlier verses, Zarathustra occasionally expresses his doubts on his own suitability for the mission, he never wavers in his conviction that the message is correct. A tone of contentment and belief in his vindication is apparent only in the last few hymns, and to the last, where he officiates at the wedding of his youngest daughter, he remains the persevering predicant.
+
+Aspects of Zoroastrian philosophy are distributed over the entire collection of Gathas. There is no systematic arrangement of doctrine in the texts.
+
+== Excerpts ==
+The following excerpts are from the translation by Humbach & Ichaporia. 
+
+;Zoroaster asks Mazda for guidance
+* Where and which part of land shall I go to succeed? They keep me away from the family and the tribe. The community that I wish to join does not gratify me, nor do the deceitful tyrants of the lands. How shall I gratify you, O Mazda Ahura? (46.1)
+
+;Zoroaster asks Mazda for blessings
+* I approach you with good thought, O Mazda Ahura, so that you may grant me (the blessing) of two existences (i.e. physically and mentally), the material and that of thought, the blessing emanating from Truth, with which one can put (your) support in comfort. (28.2)
+
+* With these entreaties, O Mazda Ahura, may we not anger you, nor Truth or Best Thought, we who are standing at the offering of praises to you. You are the swiftest (bringer of) invigorations, and (you hold) the power over benefits.
+
+* I ask you, O Ahura, about the punishment for the evil-doer who delegates power to the deceitful one and who does not find a livelihood without injury to the cattle and men of undeceiving herdsman.
+
+* Grant us (a share) of it both this (material) existence and the spiritual one, that (share) of it through which we may come (and be in) Your shelter and that of Truth, for all time. (41.6)
+
+* Let good rulers assume rule (over us), with actions of Good Insight, O right mindedness. Let not bad rulers assume rule over us. The best (insight), which purifies progeny for mankind, let it also be applied to the cow. Her You breed for us for food. (48.5)
+
+;Rhetorical questions posed by Zoroaster
+* This I ask you, O Ahura, tell me truly: Of what kind is the first (stage) of Best Existence? The desired one who implements it so that we may enjoy benefit, that one indeed, holy through truth, watching with His spirit the outcome left for all, is the healer of existence, (our) ally, (you), O Mazda. (44.2)
+
+* This I ask you, O Ahura, tell me truly: Who, by procreation, is the primal father of Truth? Who created the course of the sun and stars? Through whom does the moon waxe and wane? These very things and others I wish to know, O Mazda. (44.3)
+
+;Zoroaster to his own followers
+*Truth is best (of all that is) good. As desired, what is being desired is truth for him who (represents) the best truth. (27.14)
+
+* The person who is pure-in-heart towards me, I for my part assign to him the best things in my command, through Good Thought, but harm to him who schemes to harm us. O Mazda, thereby gratifying your will by Truth. Such is the discrimination made by my intellect and thought.
+
+;Zoroaster to the followers of the druj
+* Brilliant things instead of weeping will be (the reward) for the person who comes to the truthful one. But a long period of darkness, foul food, and the word 'woe' - to such an existence your religious view will lead you, O deceitful ones, of your own actions. (31.20)
+
+== Bibliography ==
+
+* 
+
+== Further reading ==
+
+Select translations available online:
+* Bartholomae's translations ("Die Gatha's des Awesta", 1905) were re-translated into English by Taraporewala. The raw texts, sans commentary or introduction, are available online (avesta.org).
+* Complete text of the book including introduction and a plain English synopsis of each verse is available online (zarathustra.com).
+* 
+
+== See also ==
+
+*- Avesta. The Hymns of Zarathustra
+
+

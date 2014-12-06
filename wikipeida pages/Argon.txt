@@ -1,0 +1,43 @@
+[[Argon]]
+
+Argon is a chemical element with symbol Ar and atomic number 18. It is in group 18 of the periodic table and is a noble gas. In older versions of the periodic table, the noble gases were identified as Group VIIIA or as Group 0. See Group (periodic table). Argon is the third most common gas in the Earth's atmosphere, at 0.93% (9,300 ppm), making it approximately 23.8 times as abundant as the next most common atmospheric gas, carbon dioxide (390 ppm), and more than 500 times as abundant as the next most common noble gas, neon (18 ppm). Nearly all of this argon is radiogenic argon-40 derived from the decay of potassium-40 in the Earth's crust. In the universe, argon-36 is by far the most common argon isotope, being the preferred argon isotope produced by stellar nucleosynthesis in supernovas.
+
+The name "argon" is derived from the Greek word αργον, neuter singular form of αργος meaning "lazy" or "inactive", as a reference to the fact that the element undergoes almost no chemical reactions. The complete octet (eight electrons) in the outer atomic shell makes argon stable and resistant to bonding with other elements. Its triple point temperature of 83.8058 K is a defining fixed point in the International Temperature Scale of 1990.
+
+Argon is produced industrially by the fractional distillation of liquid air. Argon is mostly used as an inert shielding gas in welding and other high-temperature industrial processes where ordinarily non-reactive substances become reactive; for example, an argon atmosphere is used in graphite electric furnaces to prevent the graphite from burning. Argon gas also has uses in incandescent and fluorescent lighting, and other types of gas discharge tubes. Argon makes a distinctive blue-green gas laser.
+
+==Characteristics==
+A small piece of rapidly melting solid argon.
+Argon has approximately the same solubility in water as oxygen, and is 2.5 times more soluble in water than nitrogen. Argon is colorless, odorless, nonflammable and nontoxic as a solid, liquid, and gas. Material Safety Data Sheet Gaseous Argon, Universal Industrial Gases, Inc. Retrieved 14 October 2013. Argon is chemically inert under most conditions and forms no confirmed stable compounds at room temperature.
+
+Although argon is a noble gas, it has been found to have the capability of forming some compounds. For example, the creation of argon fluorohydride (HArF), a marginally stable compound of argon with fluorine and hydrogen, was reported by researchers at the University of Helsinki in 2000 
+ .
+Although the neutral ground-state chemical compounds of argon are presently limited to HArF, argon can form clathrates with water when atoms of it are trapped in a lattice of the water molecules 
+ .
+Argon-containing ions and excited state complexes, such as and ArF, respectively, are known to exist. Theoretical calculations have predicted several argon compounds that should be stable 
+ , but for which no synthesis routes are currently known.
+
+==History==
+Lord Rayleigh's method for the isolation of argon, based on an experiment of Henry Cavendish's. The gases are contained in a test-tube (A) standing over a large quantity of weak alkali (B), and the current is conveyed in wires insulated by U-shaped glass tubes (CC) passing through the liquid and round the mouth of the test-tube. The inner platinum ends (DD) of the wire receive a current from a battery of five Grove cells and a Ruhmkorff coil of medium size.
+Argon (αργον, neuter singular form of αργος, Greek meaning "inactive", in reference to its chemical inactivity) 
+ 
+ was suspected to be present in air by Henry Cavendish in 1785 but was not isolated until 1894 by Lord Rayleigh and Sir William Ramsay at University College London in an experiment in which they removed all of the oxygen, carbon dioxide, water and nitrogen from a sample of clean air. 
+ 
+ 
+ They had determined that nitrogen produced from chemical compounds was one-half percent lighter than nitrogen from the atmosphere. The difference seemed insignificant, but it was important enough to attract their attention for many months. They concluded that there was another gas in the air mixed in with the nitrogen. 
+ Argon was also encountered in 1882 through independent research of H. F. Newall and W. N. Hartley. Each observed new lines in the color spectrum of air but were unable to identify the element responsible for the lines. Argon became the first member of the noble gases to be discovered. The symbol for argon is now "Ar", but up until 1957 it was "A". 
+ 
+
+== Occurrence ==
+Argon constitutes 0.934% by volume and 1.288% by mass of the Earth's atmosphere, 
+ and air is the primary raw material used by industry to produce purified argon products. Argon is isolated from air by fractionation, most commonly by cryogenic fractional distillation, a process that also produces purified nitrogen, oxygen, neon, krypton and xenon. 
+ The Earth's crust and seawater contain 1.2 ppm and 0.45 ppm of argon, respectively. 
+
+== Isotopes ==
+
+The main isotopes of argon found on Earth are (99.6%), (0.34%), and (0.06%). Naturally occurring , with a half-life of 1.25 years, decays to stable (11.2%) by electron capture or positron emission, and also to stable (88.8%) via beta decay. These properties and ratios are used to determine the age of rocks by the method of K-Ar dating. 
+ 
+
+In the Earth's atmosphere, is made by cosmic ray activity, primarily with . In the subsurface environment, it is also produced through neutron capture by or alpha emission by calcium. is created from the neutron spallation of as a result of subsurface nuclear explosions. It has a half-life of 35 days. 
+
+Argon is notable in that its isotopic composition varies greatly between different locations in the solar system. Where the major source of argon is the decay of

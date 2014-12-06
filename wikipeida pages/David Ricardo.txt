@@ -1,0 +1,148 @@
+[[David Ricardo]]
+
+David Ricardo (18 April 1772 – 11 September 1823) was a British political economist. He was one of the most influential of the classical economists, along with Thomas Malthus, Adam Smith, and James Mill. Sowell, Thomas (2006). On classical economics. New Haven, CT: Yale University Press. http://www.policonomics.com/david-ricardo/ He began his professional life as a broker and financial market speculator. He amassed a considerable personal fortune, largely from financial market speculation and, having retired, bought a seat in the U.K. Parliament. He held his parliamentary seat for the last four years of his life. Perhaps his most important legacy is his theory of comparative advantage, which suggests that a nation should concentrate solely on those industries in which it is most internationally competitive while abandoning other industries and trading with other countries to obtain products which are no longer produced nationally. In essence, Ricardo promoted the idea of extreme industry specialisation by nations, to the point of dismantling competitive and profitable national industries. Ricardo's theory of Comparative Advantage attempted to prove, using simple mathematics, that industry specialization and international trade always produce positive results. This theory expanded on the concept of absolute advantage which does not advocate specialization and international trade in all cases. Ricardo's theory of comparative advantage has been challenged by, among others, Joan Robinson and Piero Sraffa, but remains the cornerstone of the arguments in favour of international free trade. The theory of comparative advantage was the forerunner of globalisation via trade which is guiding economic policy in the OECD today.
+
+==Personal life==
+
+Born in London, England, Ricardo was the third of 17 children of a Sephardic Jewish family of Portuguese origin who had recently relocated from the Dutch Republic. His father was a successful stockbroker. He began working with his father at the age of 14. At age 21, Ricardo eloped with a Quaker, Priscilla Anne Wilkinson, and became a Unitarian, leading to estrangement from his family. His father disowned him and his mother apparently never spoke to him again. 
+
+Following his estrangement from his father he started a successful business as a broker with the support of an eminent banking house. He made the bulk of his fortune as a result of speculation on the outcome of the Battle of Waterloo, using methods which today would result in prosecution for insider trading and market manipulation. Prior to the battle, Ricardo posted an observer to convey early results of the outcome, he then deliberately created the impression the French had won by openly selling British securities. A market panic ensued. Following this panic he moved to buy British securities at a steep discount. The Sunday Times reported in Ricardo’s obituary, published on 14 September 1823, that during the Battle of Waterloo Ricardo "netted upwards of a million sterling". Following this coup, he retired from business. He was 41. He purchased Gatcombe Park, an estate in Gloucestershire, now owned by Princess Anne, the Princess Royal. He was appointed High Sheriff of Gloucestershire for 1818–19. At the time of his death his fortune was estimated at about £600,000.
+
+Some years into retirement Ricardo became keen to enter Parliament and in August 1818 he secured Lord Portarlington’s borough for £4,000, as part of the terms of a loan of £25,000. As a result of this deal Ricardo entered Parliament in the House of Commons, representing Portarlington, an Irish rotten borough. He was 47 years of age. He held the seat until his death four years later.
+
+Ricardo was a close friend of James Mill. Other notable friends included Jeremy Bentham and Thomas Malthus, with whom Ricardo had a considerable debate (in correspondence) over such things as the role of landowners in a society. He also was a member of Malthus' Political Economy Club, and a member of the King of Clubs. He was one of the original members of The Geological Society. His sister was Sarah Ricardo-Porter, and was an author in her own right (e.g., Conversations in Arithmetic).
+
+==Death and legacy==
+Ten years after retiring and four years after entering Parliament Ricardo died from an infection of the middle ear that spread into the brain and induced septicaemia. He was 51. Letter of Mill http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=213&chapter=61555&layout=html&Itemid=27 In 1846, his nephew John Lewis Ricardo, MP for Stoke-on-Trent, advocated free trade and the repeal of the Corn Laws.
+
+He had eight children, including three sons, of whom Osman Ricardo (1795–1881; MP for Worcester 1847–1865) and another David Ricardo (1803–1864, MP for Stroud 1832–1833), became Members of Parliament, while the third, Mortimer Ricardo, served as an officer in the Life Guards and was a deputy lieutenant for Oxfordshire. 
+
+Ricardo is buried in an ornate grave in the churchyard of Saint Nicholas in Hardenhuish, now a suburb of Chippenham, Wiltshire. 
+
+==Ideas==
+Ricardo became interested in economics after reading Adam Smith's The Wealth of Nations in 1799. He wrote his first economics article at age 37. 
+
+=== Comparative advantage ===
+Between 1500 and 1750 most economists advocated Mercantilism which promoted the idea of international trade for the purpose of a nation gaining riches by running a trade surplus. Ricardo challenged the idea that the purpose of trade was to accumulate gold or silver. With "comparative advantage" he argued in favour of specialisation and free trade among countries. He argued there is mutual benefit from international trade even if one party is more competitive in every possible area than its trading counterpart and that a nation should concentrate on sectors where it had a comparative advantage while engaging in international trade in order to acquire those products in which it does not have a comparative advantage.
+
+Ricardo's theory of comparative advantage assumes the existence of an industry and trade policy at a national level. It does not presume that business decisions are or should be made independently by entrepreneurs on the basis of viability or profit. Ricardo attempted to prove, using a simple numerical example, that international trade is always beneficial. Ricardo, David (1817) On the Principles of Political Economy and Taxation. Piero Sraffa (Ed.) Works and Correspondence of David Ricardo, Volume I, Cambridge University Press, 1951, p.135. Paul Samuelson called the numbers used in Ricardo's numerical example dealing with trade between England and Portugal the "four magic numbers". Samuelson, Paul A. (1972), "The Way of an Economist." Reprinted in The Collected Papers of Paul A. Samuelson. Ed. R. C. Merton. Cambridge: Cambridge MIT Press. p. 378. "In spite of the fact that the Portuguese could produce both cloth and wine with less amount of labor, Ricardo suggested that theoretically both countries benefit from trade with each other."
+
+As Joan Robinson subsequently pointed out in reality following an opening of free trade with England, Portugal endured centuries of economic underdevelopment: "the imposition of free trade on Portugal killed off a promising textile industry and left her with a slow-growing export market for wine, while for England, exports of cotton cloth led to accumulation, mechanisation and the whole spiralling growth of the industrial revolution". Robinson argued that Ricardo's example required that economies were in static equilibrium positions with full employment and that there could not be a trade deficit or a trade surplus. These conditions, she wrote, were not relevant to the real world. She also argued that Ricardo's theory did not take into account that some countries may be at different levels of development and that this raised the prospect of 'unequal exchange' which might hamper a country's development, as we saw in the case of Portugal. Joan Robinson 'Aspects of Development and Underdevelopment' 1978 
+
+=== Protectionism ===
+Like Adam Smith, Ricardo was an opponent of protectionism for national economies, especially for agriculture. He believed that the British "Corn Laws"—tariffs on agricultural products—ensured that less-productive domestic land would be harvested and rents would be driven up . Thus, profits would be directed toward landlords and away from the emerging industrial capitalists. Since Ricardo believed landlords tended to squander their wealth on luxuries, rather than invest, he believed that the Corn Laws were leading to the stagnation of the British economy. Modern empirical analysis of the Corn Laws yield mixed results. Parliament repealed the Corn Laws in 1846.
+
+=== Criticism of the Ricardian theory of trade ===
+Ricardo's argument in favour of free trade has been attacked by those who believe trade restriction can be necessary. Utsa Patnaik claims that Ricardian theory of international trade contains a logical fallacy. Ricardo assumed that in both countries two goods are producible and actually are produced, but developed and underdeveloped countries often trade those goods which are not producible in their own country. For example, many Northern countries do not produce tropical fruits. In these cases, one cannot define which country has comparative advantage. 
+
+Critics also argue that Ricardo's theory of comparative advantage is flawed in that it assumes production is continuous and absolute. In the real world, events outside the realm of human control (e.g. natural disasters) can disrupt production. In this case, specialisation could cripple a country that depends on imports from foreign, naturally disrupted countries. For example, if an industrially based country trades its manufactured goods with an agrarian country in exchange for agricultural products, a natural disaster in the agricultural country (e.g. drought) may cause an industrially based country to starve.
+
+The development economist Ha-Joon Chang challenges the argument that free trade benefits every country:
+
+Ricardo’s theory is absolutely right—within its narrow confines. His theory correctly says that, accepting their current levels of technology as given, it is better for countries to specialize in things that they are relatively better at. One cannot argue with that. His theory fails when a country wants to acquire more advanced technologies—that is, when it wants to develop its economy. It takes time and experience to absorb new technologies, so technologically backward producers need a period of protection from international competition during this period of learning. Such protection is costly, because the country is giving up the chance to import better and cheaper products. However, it is a price that has to be paid if it wants to develop advanced industries. Ricardo’s theory is, thus seen, for those who accept the status quo but not for those who want to change it. Chang, Ha-Joon (2007), "Bad Samaritans", Chapter 2, pp. 30–31. 
+
+===Value theory===
+Ricardo's most famous work is his Principles of Political Economy and Taxation (1817). Ricardo opens the first chapter with a statement of the labour theory of value. His labour theory of value required several assumptions:
+# both sectors have the same wage rate and the same profit rate;
+# the capital employed in production is made up of wages only;
+# the period of production has the same length for both goods.
+Ricardo himself realized that the second and third assumptions were quite unrealistic and hence admitted two exceptions to his labour theory of value:
+# production periods may differ;
+# the two production processes may employ instruments and equipment as capital and not just wages, and in very different proportions.
+Ricardo continued to work on his value theory to the end of his life.
+
+===Rent===
+
+Ricardo is responsible for developing theories of rent, wages, and profits. He defined rent as "the difference between the produce obtained by the employment of two equal quantities of capital and labor." Ricardo believed that the process of economic development, which increased land utilization and eventually led to the cultivation of poorer land, principally benefited landowners. According to Ricardo, such premium over "real social value" that is reaped due to ownership constitutes value to an individual but is at best On The Principles of Political Economy and Taxation London: John Murray, Albemarle-Street, by David Ricardo, 1817 (third edition 1821) – Chapter 6, On Profits: paragraph 28, "Thus, taking the former . . ." and paragraph 33, "There can, however...." a paper monetary return to "society". The portion of such purely individual benefit, and exclusively that portion, that accrues to scarce resources such as land or gold, over and above any socially beneficial exchange, Ricardo labels "rent".
+
+Ricardo concluded that a tax on land value, equivalent to a tax on the land rent, minus the improvements, was the only form of taxation that would not lead to price increases. Land itself has no cost of production, because it is not produced by humans. Thus, the price is not determined by the cost, but only by the best available rent-free alternative, not by the tax burdens of the person claiming exclusive use.
+
+====Malthus's criticism and Extrapolation of the problem of Ricardian Rent====
+In attempting to demonstrate that Ricardian Rent constitutes value for nothing Ricardo was neglecting Say's Law that all savings by-definition-equals investment. Malthus suggested that rent, however misplaced, constitutes a prime source of savings and investment for the future.
+
+==Ricardian equivalence==
+Another idea associated with Ricardo is Ricardian equivalence, an argument suggesting that in some circumstances a government's choice of how to pay for its spending (i.e., whether to use tax revenue or issue debt and run a deficit) might have no effect on the economy. Ricardo notes that the proposition is theoretically implied in the presence of intertemporal optimisation by rational tax-payers: but that since tax-payers do not act so rationally, the proposition fails to be true in practice. Thus, while the proposition bears his name, he does not seem to have believed it. Economist Robert Barro is responsible for its modern prominence.
+
+==Ricardo's theories of wages and profits==
+Several authorities consider that Ricardo is the source of the concepts behind the so-called Iron Law of Wages, according to which wages naturally tend to a subsistence level. Britannica.com "English economist who gave systematized, classical form to the rising science of economics in the 19th century. His laissez-faire doctrines were typified in his Iron Law of Wages, which stated that all attempts to improve the real income of workers were futile and that wages perforce remained near the subsistence level. John Kenneth Galbraith, Economics in Perspective, "Returning to wages, Ricardo, in another of his greatly quoted passages, says that they are 'That price which is necessary to enable the labourers, one with another, to subsist and to perpetuate their race, without either increase or diminution.' This thought, as the Iron Law of Wages, was to enter into a history extending far beyond formal economics...", p. 84, Houghton Mifflin, 1987, ISBN 0-395-35572-9; the Ricardo quote above is referenced to page 93 of The Works and Correspondence of David Ricardo, edited by Piero Sraffa, Cambridge University Press, 1951 The Columbia House Encyclopedia, "Ricardo...holds that wages tend to stabilize around the subsistence level...", Columbia University Press, 1983, ISBN 0-231-05678-8. Others dispute the assignment to Ricardo of this idea.
+
+In his Theory of Profit, Ricardo stated that as real wages increase, real profits decrease because the revenue from the sale of manufactured goods is split between profits and wages. He said in his Essay on Profits, "Profits depend on high or low wages, wages on the price of necessaries, and the price of necessaries chiefly on the price of food."
+
+==His influence and intellectual legacy==
+David Ricardo's ideas had a tremendous influence on later developments in economics. US economists rank Ricardo as the second most influential economic thinker, behind Adam Smith, prior to the twentieth century. Davis, William L., Bob Figgins, David Hedengren, and Daniel B. Klein. "Economics Professors' Favorite Economic Thinkers, Journals and Blogs (along with Party and Policy Views)," Econ Journal Watch 8(2): 126–146, May 2011 . 
+
+Ricardo became the theoretical father of classical political economy. However, Schumpeter coined an expression Ricardian vice, which indicates that rigorous logic does not provide a good economic theory. Schumpeter, History of Economic Analysis, (published posthumously, ed. Elisabeth Boody Schumpeter), 1954. pp. 569, 1171. Schumpeter also criticized J. M. Keynes for committing the same Ricardian vice. This criticism applies also to most neoclassical theories, which make heavy use of mathematics, but are, according to him, theoretically unsound, because the conclusion being drawn does not logically follow from the theories used to defend it.
+
+===Ricardian socialists===
+Ricardo's writings fascinated a number of early socialists in the 1820s, who thought his value theory had radical implications. They argued that, in view of labor theory of value, labor produces the entire product, and the profits capitalists get are a result of exploitations of workers. Landreth Colander 1989 History of Economic Thought Second Edition, p.137. These include Thomas Hodgskin, William Thompson, John Francis Bray, and Percy Ravenstone.
+
+===Georgists===
+Georgists believe that rent, in the sense that Ricardo used, belongs to the community as a whole. Henry George was greatly influenced by Ricardo, and often cited him, including in his most famous work, Progress and Poverty from 1879. In the preface to the fourth edition, he wrote: "What I have done in this book, if I have correctly solved the great problem I have sought to investigate, is, to unite the truth perceived by the school of Smith and Ricardo to the truth perceived by the school of Proudhon and Lasalle; to show that laissez faire (in its full true meaning) opens the way to a realization of the noble dreams of socialism; to identify social law with moral law, and to disprove ideas which in the minds of many cloud grand and elevating perceptions." George, Henry, Progress and Poverty. Preface to the 4th Edition, November 1880. 
+
+===Neo-Ricardians===
+After the rise of the 'neoclassical' school, Ricardo's influence declined temporarily. It was Piero Sraffa, the editor of the Collected Works of David Ricardo Piero Sraffa and M.H. Dobb, editors (1951–1973). The Works and Correspondence of David Ricardo. Cambridge University Press, 11 volumes. and the author of seminal Production of Commodities by Means of Commodities, Sraffa, Piero 1960, Production of Commodities by Means of Commodities: Prelude to a Critique of Economic Theory. Cambridge University Press. who resurrected Ricardo as the originator of another strand of economics thought, which was effaced with the arrival of the neoclassical school. The new interpretation of Ricardo and Sraffa's criticism against the marginal theory of value gave rise to a new school, now named neo-Ricardian or Sraffian school. Major contributors to this school includes Luigi Pasinetti (1930–), Pierangelo Garegnani (1930–2011), Ian Steedman (1941–), Geoffrey Harcourt (1931–), Heinz Kurz (1946–), Neri Salvadori (1951–), Pier Paolo Saviotti (–) among others. See also Neo-Ricardianism. The Neo-Ricardian school is sometimes seen to be a component of Post-Keynesian economics.
+
+====Neo-Ricardian trade theory====
+Inspired by Piero Sraffa, a new strand of trade theory emerged and was named neo-Ricardian trade theory. The main contributors include Ian Steedman and Stanley Metcalfe. They have criticised neoclassical international trade theory, namely the Heckscher–Ohlin model on the basis that the notion of capital as primary factor has no method of measuring it before the determination of profit rate (thus trapped in a logical vicious circle). This was a second round of the Cambridge capital controversy, this time in the field of international trade. 
+
+Ricardian trade theory ordinarily assumes that the labour is the unique input. This is a deficiency as intermediate goods are a great part of international trade. The situation changed greatly after the appearance of Yoshinori Shiozawa's seminal work of 2007. 
+
+Yeats found that 30% of world trade in manufacturing is intermediate inputs. Bardhan and Jafee found that intermediate inputs occupy 37 to 38% in the imports to the US for the years from 1992 to 1997, whereas the percentage of intrafirm trade grew from 43% in 1992 to 52% in 1997. 
+
+====Evolutionary growth theory====
+Several distinctive groups have sprung out of the neo-Ricardian school. One is the evolutionary growth theory, developed notably by Luigi Pasinetti, J.S. Metcalfe, Pier Paolo Saviotti, and Koen Frenken and others. Pasinetti, Luisi 1981 Structural change and economic growth, Cambridge University Press. J.S. Metcalfe and P.P. Saviotti (eds.), 1991, Evolutionary Theories of Economic and Technological Change, Harwood, 275 pages. J.S. Metcalfe 1998, Evolutionary Economics and Creative Destruction, Routledge, London. Frenken, K., Van Oort, F.G., Verburg, T., Boschma, R.A. (2004). Variety and Regional Economic Growth in the Netherlands – Final Report (The Hague: Ministry of Economic Affairs), 58 p. (pdf) 
+
+Pasinetti argued that the demand for any commodity came to stagnate and frequently decline, demand saturation occurs. Introduction of new commodities (goods and services) is necessary to avoid economic stagnation.
+
+====Contemporary theories====
+Ricardo's idea was even expanded to the case of continuum of goods by Dornbusch, Fischer, and Samuelson This formulation is employed for example by Matsuyama and others.
+
+====Unequal Exchange====
+Chris Edward includes Emmanuel's Unequal Exchange theory among variations of neo-Ricardian trade theory. Chris Edwards 1985 The Fragmented World: Competing Perspectives on Trade, Money and Crisis, London and New York: Methuen. Chapter 4. Arghiri Emmanuel argued that the Third World is poor because of the international exploitation of labour. 
+
+The unequal exchange theory of trade has been influential to the (new) dependency theory. 
+ 
+
+==Publications==
+Ricardo's publications included:
+* The High Price of Bullion, a Proof of the Depreciation of Bank Notes (1810), which advocated the adoption of a metallic currency.
+* Essay on the Influence of a Low Price of Corn on the Profits of Stock (1815), which argued that repealing the Corn Laws would distribute more wealth to the productive members of society.
+* On the Principles of Political Economy and Taxation (1817), an analysis that concluded that land rent grows as population increases. It also clearly laid out the theory of comparative advantage, which argued that all nations could benefit from free trade, even if a nation was less efficient at producing all kinds of goods than its trading partners.
+
+His works and writings were collected in:
+* The Works and Correspondence of David Ricardo, ed. Piero Sraffa with the Collaboration of M.H. Dobb (Indianapolis: Liberty Fund, 2005), 11 vols. This Set Contains The Following Titles:
+** The Works and Correspondence of David Ricardo, Vol. 1 Principles of Political Economy and Taxation
+** The Works and Correspondence of David Ricardo, Vol. 2 Notes on Malthus
+** The Works and Correspondence of David Ricardo, Vol. 3 Pamphlets and Papers 1809–1811
+** The Works and Correspondence of David Ricardo, Vol. 4 Pamphlets and Papers 1815–1823
+** The Works and Correspondence of David Ricardo, Vol. 5 Speeches and Evidence
+** The Works and Correspondence of David Ricardo, Vol. 6 Letters 1810–1815
+** The Works and Correspondence of David Ricardo, Vol. 7 Letters 1816–1818
+** The Works and Correspondence of David Ricardo, Vol. 8 Letters 1819 – June 1821
+** The Works and Correspondence of David Ricardo, Vol. 9 Letters 1821–1823
+** The Works and Correspondence of David Ricardo, Vol. 10 Biographical Miscellany
+** The Works and Correspondence of David Ricardo, Vol. 11 General Index
+
+== References ==
+===Notes===
+
+===Bibliography===
+* 
+* Samuel Hollander (1979). The Economics of David Ricardo. University of Toronto Press.
+* G. de Vivo (1987). "Ricardo, David," , v. 4, pp. 183–98
+* Samuelson, P. A. (2001). "Ricardo, David (1772–1823)," International Encyclopedia of the Social & Behavioral Sciences, pp. 13,330–13,334. Abstract.
+* Éric Pichet, David RICARDO, le premier théoricien de l'économie, Les éditions du siècle, 2004*
+
+==External links==
+
+* 
+* 
+* Biography at New School University
+* Biography at EH.Net Encyclopedia of Economic History
+* The Works of David Ricardo (McCulloch edition 1888) at the Online Library of Liberty
+* The Works and Correspondence of David Ricardo (Sraffa edition) 11 vols at the Online Library of Liberty
+* Timeline of the Life of David Ricardo (1772–1823) at the Online Library of Liberty
+* On the Principles of Political Economy and Taxation, by David Ricardo. Complete, fully searchable text at the Library of Economics and Liberty.
+* Ricardo on Value: the Three Chapter Ones. A presentation tracing the changes in the Principles (University of Southampton).
+
+

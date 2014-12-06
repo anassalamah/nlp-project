@@ -1,0 +1,104 @@
+[[Streptococcus]]
+
+Streptococcus is a genus of spherical Gram-positive bacteria belonging to the phylum Firmicutes and the lactic acid bacteria group. Cellular division occurs along a single axis in these bacteria, and thus they grow in chains or pairs, hence the name&mdash;from Greek στρεπτός streptos, meaning easily bent or twisted, like a chain (twisted chain).
+
+Contrast this with staphylococci, which divide along multiple axes and generate grape-like clusters of cells. Most streptococci are oxidase- and catalase-negative, and many are facultative anaerobes.
+
+In 1984, many organisms formerly considered Streptococcus were separated out into the genera Enterococcus and Lactococcus. There are currently over 50 species recognised in this genus.
+
+==Pathogenesis and classification==
+Streptococcal classification.
+In addition to streptococcal pharyngitis (strep throat), certain Streptococcus species are responsible for many cases of pink eye, http://www.medicinenet.com/pink_eye/article.htm meningitis, bacterial pneumonia, endocarditis, erysipelas and necrotizing fasciitis (the 'flesh-eating' bacterial infections). However, many streptococcal species are nonpathogenic, and form part of the commensal human microbiome of the mouth, skin, intestine, and upper respiratory tract. Furthermore, streptococci are a necessary ingredient in producing Emmentaler ("Swiss") cheese.
+
+Species of Streptococcus are classified based on their hemolytic properties. Alpha hemolytic species cause oxidization of iron in hemoglobin molecules within red blood cells, giving it a greenish color on blood agar. Beta hemolytic species cause complete rupture of red blood cells. On blood agar, this appears as wide areas clear of blood cells surrounding bacterial colonies. Gamma-hemolytic species cause no hemolysis.
+
+Beta-hemolytic streptococci are further characterised via Lancefield serotyping, which describes specific carbohydrates present on the bacterial cell wall. There are 20 described serotypes, named Lancefield groups A to V (excluding I and J).
+
+In the medical setting, the most important groups are the alpha-hemolytic streptococci S. pneumoniae and Streptococcus Viridans-group, and the beta-hemolytic streptococci of Lancefield groups A and B (also known as “Group A strep” and “Group B strep”).
+
+===Alpha-hemolytic===
+
+====Pneumococci====
+*S. pneumoniae (sometimes called Pneumococcus), is a leading cause of bacterial pneumonia and occasional etiology of otitis media, sinusitis, meningitis and peritonitis.
+Inflammation is thought to be the major cause of how pneumococcus causes disease, hence the tendency of diagnoses associated with it to involve inflammation.
+
+====The Viridans group: alpha-hemolytic====
+*Streptococcus viridans is a pseudotaxonomic non-Linnean term for a large group of commensal streptococcal bacteria that are either α-hemolytic, producing a green coloration on blood agar plates (hence the name "viridans", from Latin "vĭrĭdis", green), or nonhemolytic. They possess no Lancefield antigens. 
+
+Table: Medically relevant Streptococci 
+
+Species Host Disease 
+ S. pyogenes human pharyngitis 
+ S. agalactiae human, cattle neonatal meningitis and sepsis 
+ S. equisimilis human, animals endocarditis, bacteremia, pneumonia, meningitis, respiratory infections 
+ S. bovis human, animals biliary or urinary tract infections, endocarditis 
+ S. anginosus human, animals subcutaneous/organ abscesses, meningitis, respiratory infections 
+ S. sanguinis human endocarditis, caries 
+ S. suis Swine meningitis 
+ S. mitis human endocarditis 
+ S. mutans human caries 
+ S. pneumoniae human pneumonia 
+
+===Beta-hemolytic ===
+Alpha-hemolytic S. viridans (right) and beta-hemolytic S. pyogenes (left) streptococci growing on blood agar.
+
+==== Group A ====
+S. pyogenes, also known as Group A Streptococcus (GAS), is the causative agent in a wide range of Group A streptococcal infections. These infections may be non-invasive or invasive. The non-invasive infections tend to be more common and less severe. The most common of these infections include streptococcal pharyngitis (strep throat) and impetigo. Scarlet fever is also a non-invasive infection, but has not been as common in recent years. 
+ 
+The invasive infections caused by Group A β-hemolytic streptococcus tend to be more severe and less common. This occurs when the bacterium is able to infect areas where it is not usually found, such as the blood and the organs. The diseases that may be caused as a result of this include streptococcal toxic shock syndrome (STSS), necrotizing fasciitis (NF), pneumonia, and bacteremia. 
+
+Additional complications may be caused by GAS, namely acute rheumatic fever and acute glomerulonephritis. Rheumatic fever, a disease that affects the joints, kidneys, and heart valves, is a consequence of untreated strep A infection caused not by the bacterium itself. Rheumatic fever is caused by the antibodies created by the immune system to fight off the infection cross-reacting with other proteins in the body. This "cross-reaction" causes the body to essentially attack itself and leads to the damage above. Globally, GAS has been estimated to cause more than 500,000 deaths every year, making it one of the world's leading pathogens. Group A Streptococcus infection is generally diagnosed with a Rapid Strep Test or by culture.
+
+====Group B ====
+S. agalactiae, or GBS, causes pneumonia and meningitis in neonates and the elderly, with occasional systemic bacteremia. They can also colonize the intestines and the female reproductive tract, increasing the risk for premature rupture of membranes during pregnancy, and transmission of the organism to the infant. The American College of Obstetricians and Gynecologists, American Academy of Pediatrics and the Centers for Disease Control recommend that all pregnant women between 35 and 37 weeks gestation should be tested for GBS. Women who test positive should be given prophylactic antibiotics during labor, which will usually prevent transmission to the infant. 
+
+In the UK, clinicians have been slow to implement the same standards as the US, Australia and Canada. In the UK, only 1% of maternity units test for the presence of Group B Streptococcus. Although the Royal College of Obstetricians and Gynaecologists issued risk-based guidelines in 2003 (due for review 2006), the implementation of these guidelines has been patchy. As a result, over 75 infants in the UK die each year of GBS-related disease, and another 600 or so suffer serious infection, most of which could be prevented; however, this is yet to be substantiated by randomized, controlled trial in the UK setting and, given the evidence for the efficacy of testing and treating from other countries, it may be that the large-scale trial necessary would receive neither funding nor ethics approval. 
+
+====Group C ====
+This group includes S. equi, which causes strangles in horses, and S. zooepidemicus—S. equi is a clonal descendent or biovar of the ancestral S. zooepidemicus—which causes infections in several species of mammals, including cattle and horses. Streptococcus dysgalactiae is also a member of Group C, β-haemolytic streptococci that can cause pharyngitis and other pyogenic infections similar to Group A streptococci.
+
+====Group D (enterococci) ====
+Many former Group D streptococci have been reclassified and placed in the genus Enterococcus (including Enterococcus faecalis, Enterococcus faecium, Enterococcus durans, and Enterococcus avium). For example, Streptococcus faecalis is now Enterococcus faecalis.
+
+The remaining nonenterococcal Group D strains include Streptococcus bovis and Streptococcus equinus.
+
+Nonhemolytic streptococci rarely cause illness. However, weakly hemolytic group D beta-hemolytic streptococci and Listeria monocytogenes (which is actually a Gram-positive bacillus) should not be confused with nonhemolytic streptococci.
+
+====Group F streptococci====
+Group F streptococci were first described in 1934 by Long and Bliss amongst the "minute haemolytic streptococci". They are also known as Streptococcus anginosus (according to the Lancefield classification system) or as members of the S. milleri group (according to the European system).
+
+====Group G streptococci====
+These streptococci are usually, but not exclusively, beta-hemolytic. Streptococcus canis is an example of a GGS which is typically found on animals, but can cause infection in humans.
+
+====Group H streptococci ====
+
+Group H streptococci is a very rare infection caused by the herptitis bacteria found in medium sized canines. Group H streptococci rarely causes illness unless a human has direct contact with the mouth of a canine. One of the most common ways this can be spread is human to canine, mouth-to-mouth contact. However, canine may lick the humans hand and infection can be spread as well.
+
+==Molecular taxonomy and phylogenetics==
+Phylogenetic tree of Streptococcus species, based on data from PATRIC. http://patricbrc.org/portal/portal/patric/Phylogeny?cType=taxon&cId=1301 16S groups are indicated by brackets and their key members are highlighted in red.
+Streptococci have been divided into six groups on the basis of their 16S rDNA sequences: Anginosus, Bovis, Mitis, Mutans, Pyogenes and Salivarius. Kawamura Y, Hou XG, Sultana F, Miura H, Ezaki T (1995) Determination of 16S rRNA sequences of Streptococcus mitis and Streptococcus gordonii and phylogenetic relationships among members of the genus Streptococcus. Int J Syst Bacteriol 45: 406–408 The 16S groups have been confirmed by whole genome sequencing (see figure). The important pathogens S. pneumoniae and S. pyogenes belong to the Mitis and Pyogenes groups, respectively, while the causing agent of dental caries,Streptococcus mutans, is basal to the Streptococcus group.
+
+==Genomics==
+The genomes of hundreds of species have been sequenced. Streptococcus genomes and related information at PATRIC Most Streptococcus genomes are 1.8 to 2.3 Mb in size and encode 1,700 to 2,300 proteins. Some important genomes are listed in the table. The four species shown in the table (pyogenes, agalactiae, pneumoniae, and mutans) have an average pairwise protein sequence identity of about 70%. 
+
+ feature S. pyogenes S. agalactiae S. pneumoniae S. mutans 
+ bp 1,852,442 2,211,488 2,160,837 2,030,921 
+ ORFs 1792 2118 2236 1963 
+ prophages yes no no no 
+
+==Treatment==
+
+==See also==
+* Quellung reaction
+* Streptococcal infection in poultry
+* Streptokinase
+
+== References ==
+
+== External links ==
+* Streptococcus genomes and related information at PATRIC, a Bioinformatics Resource Center funded by NIAID
+* 
+* The Canadian Strep B Foundation
+* The UK Group B Strep Support charity
+
+

@@ -1,0 +1,129 @@
+[[Biomass (ecology)]]
+
+Apart from bacteria, the total global live biomass has been estimated as 560 billion tonnes C, most of which is found in forests. 
+Shallow aquatic environments, such as wetlands, estuaries and coral reefs, can be as productive as forests, generating similar amounts of new biomass each year on a given area. 
+
+Biomass, in ecology, is the mass of living biological organisms in a given area or ecosystem at a given time. Biomass can refer to species biomass, which is the mass of one or more species, or to community biomass, which is the mass of all species in the community. It can include microorganisms, plants or animals. The mass can be expressed as the average mass per unit area, or as the total mass in the community.
+
+How biomass is measured depends on why it is being measured. Sometimes, the biomass is regarded as the natural mass of organisms in situ, just as they are. For example, in a salmon fishery, the salmon biomass might be regarded as the total wet weight the salmon would have if they were taken out of the water. In other contexts, biomass can be measured in terms of the dried organic mass, so perhaps only 30% of the actual weight might count, the rest being water. For other purposes, only biological tissues count, and teeth, bones and shells are excluded.
+
+In stricter scientific applications, biomass is measured as the mass of organically bound carbon (C) that is present. Apart from bacteria, the total live biomass on earth is about 560 billion tonnes C, and the total annual primary production of biomass is just over 100 billion tonnes C/yr. However, the total live biomass of bacteria may exceed that of plants and animals. 
+
+==Ecological pyramids==
+
+An ecological pyramid.
+
+An ecological pyramid is a graphical representation that shows, for a given ecosystem, the relationship between biomass or biological productivity and trophic levels.
+
+* A biomass pyramid shows the amount of biomass at each trophic level.
+* A productivity pyramid shows the production or turn-over in biomass at each trophic level.
+
+An ecological pyramid provides a snapshot in time of an ecological community.
+
+The bottom of the pyramid represents the primary producers (autotrophs). The primary producers take energy from the environment in the form of sunlight or inorganic chemicals and use it to create energy-rich molecules such as carbohydrates. This mechanism is called primary production. The pyramid then proceeds through the various trophic levels to the apex predators at the top.
+
+When energy is transferred from one trophic level to the next, typically only ten percent is used to build new biomass. The remaining ninety percent goes to metabolic processes or is dissipated as heat. This energy loss means that productivity pyramids are never inverted, and generally limits food chains to about six levels. However, in oceans, biomass pyramids can be wholly or partially inverted, with more biomass at higher levels.
+
+==Terrestrial biomass==
+Terrestrial biomass generally decreases markedly at each higher trophic level (plants, herbivores, carnivores). Examples of terrestrial producers are grasses, trees and shrubs. These have a much higher biomass than the animals that consume them, such as deer, zebras and insects. The level with the least biomass are the highest predators in the food chain, such as foxes and eagles.
+
+In a temperate grassland, grasses and other plants are the primary producers at the bottom of the pyramid. Then come the primary consumers, such as grasshoppers, voles and bison, followed by the secondary consumers, shrews, hawks and small cats. Finally the tertiary consumers, large cats and wolves. The biomass pyramid decreases markedly at each higher level.
+
+==Ocean biomass==
+
+Ocean biomass, in a reversal of terrestrial biomass, can increase at higher trophic levels. In the ocean, the food chain typically starts with phytoplankton, and follows the course:
+
+Phytoplankton → zooplankton → predatory zooplankton → filter feeders → predatory fish
+
+Phytoplankton are the main primary producers at the bottom of the marine food chain. Phytoplankton use photosynthesis to convert inorganic carbon into protoplasm. They are then consumed by microscopic animals called zooplankton.
+
+Zooplankton comprise the second level in the food chain, and includes small crustaceans, such as copepods and krill, and the larva of fish, squid, lobsters and crabs.
+
+In turn, small zooplankton are consumed by both larger predatory zooplankters, such as krill, and by forage fish, which are small schooling filter feeding fish. This makes up the third level in the food chain.
+
+An ocean food web showing a network of food chains
+
+The fourth trophic level consists of predatory fish, marine mammals and seabirds that consume forage fish. Examples are swordfish, seals and gannets.
+
+Apex predators, such as orcas, which can consume seals, and shortfin mako sharks, which can consume swordfish, make up the fifth trophic level. Baleen whales can consume zooplankton and krill directly, leading to a food chain with only three or four trophic levels.
+
+Marine environments can have inverted biomass pyramids. In particular, the biomass of consumers (copepods, krill, shrimp, forage fish) is larger than the biomass of primary producers. This happens because the ocean's primary producers are tiny phytoplankton that grow and reproduce rapidly, so a small mass can have a fast rate of primary production. In contrast, terrestrial primary producers grow and reproduce slowly.
+
+There is an exception with cyanobacteria. Marine cyanobacteria are the smallest known photosynthetic organisms; the smallest of all, Prochlorococcus, is just 0.5 to 0.8 micrometres across. Prochlorococcus is possibly the most plentiful species on Earth: a single millilitre of surface seawater may contain 100,000 cells or more. Worldwide, there are estimated to be several octillion (~1027) individuals. Prochlorococcus is ubiquitous between 40°N and 40°S and dominates in the oligotrophic (nutrient poor) regions of the oceans. The bacterium accounts for an estimated 20% of the oxygen in the Earth's atmosphere, and forms part of the base of the ocean food chain. The Most Important Microbe You've Never Heard Of 
+
+==Bacterial biomass==
+There are typically 40 million bacterial cells in a gram of soil and a million bacterial cells in a millilitre of fresh water. In all, it has been estimated that there are about five million trillion trillion, or 5 &times; 1030 (5 nonillion) bacteria on Earth with a total biomass equaling that of plants. Some researchers believe that the total biomass of bacteria exceeds that of all plants and animals. C.Michael Hogan. 2010. Bacteria. Encyclopedia of Earth. eds. Sidney Draggan and C.J.Cleveland, National Council for Science and the Environment, Washington DC Gould, Stephen Jay (1996) "Planet of the Bacteria" Washington Post Horizon, 119 (344): H1. Adapted from 
+
+==Global biomass==
+Estimates for the global biomass of species and higher level groups are not always consistent across the literature. Apart from bacteria, the total global biomass has been estimated at about 560 billion tonnes C. Groombridge B, Jenkins MD (2000) Global biodiversity: Earth’s living resources in the 21st century Page 11. World Conservation Monitoring Centre, World Conservation Press, Cambridge Most of this biomass is found on land, with only 5 to 10 billion tonnes C found in the oceans. On land, there is about 1,000 times more plant biomass (phytomass) than animal biomass (zoomass). About 18% of this plant biomass is eaten by the land animals. Hartley, Sue (2010) The 300 Million Years War: Plant Biomass v Herbivores Royal Institution Christmas Lecture. However, in the ocean, the animal biomass is nearly 30 times larger than the plant biomass. Darlington, P (1966) http://encyclopedia2.thefreedictionary.com/Terrestrial+Fauna "Biogeografia". Published in The Great Soviet Encyclopedia, 3rd Edition (1970-1979). Most ocean plant biomass is eaten by the ocean animals. 
+
+ name number of species date of estimate individual count mean living weight of individual percent biomass (dried) total number of carbon atoms global dry biomass in million tonnes global wet (fresh) biomass in million tonnes 
+ Terrestrial 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Global 
+
+Humans comprise about 100 million tonnes of the Earth's dry biomass, The world human population was 6.6 billion in January 2008. At an average weight of 100 pounds (30 lbs of biomass), that equals 100 million tonnes. domesticated animals about 700 million tonnes, and crops about 2 billion tonnes.
+The most successful animal species, in terms of biomass, may well be Antarctic krill, Euphausia superba, with a fresh biomass approaching 500 million tonnes, Ross, R. M. and Quetin, L. B. (1988). Euphausia superba: a critical review of annual production. Comp. Biochem. Physiol. 90B, 499-505. although domestic cattle may also reach these immense figures. However, as a group, the small aquatic crustaceans called copepods may form the largest animal biomass on earth. Biology of Copepods at Carl von Ossietzky University of Oldenburg A 2009 paper in Science estimates, for the first time, the total world fish biomass as somewhere between 0.8 and 2.0 billion tonnes. Researcher gives first-ever estimate of worldwide fish biomass and impact on climate change PhysOrg.com, 15 January 2009. It has been estimated that about 1% of the global biomass is due to phytoplankton, Bidle1 KD and Falkowski PG (2004) "Cell death in planktonic, photosynthetic microorganisms" Nature Reviews: Microbiology, 2: 643–655. and a staggering 25% is due to fungi. Miller JD (1992) "Fungi as contaminants in indoor air" Atmospheric Environment 26 (12): 2163–2172. Sorenson WG (1999) "Fungal spores: Hazardous to health?" Environ Health Perspect, 107 (Suppl 3): 469–472. 
+
+File:Cytisus scoparius2.jpg|Grasses, trees and shrubs have a much higher biomass than the animals that consume them
+File:Bluegreen algae.jpg|The total biomass of bacteria may equal that of plants. 
+File:copepodkils.jpg|Copepods may form the largest biomass of any animal species group. 
+File:Antarctic_krill_(Euphausia_superba).jpg|Antarctic krill form one of the largest biomasses of any individual animal species. 
+File:Fungus, Minnowburn - geograph.org.uk - 1008404.jpg|It has been claimed that fungi make up 25% of the global biomass
+
+==Global rate of production==
+Globally, terrestrial and oceanic habitats produce a similar amount of new biomass each year (56.4 billion tonnes C terrestrial and 48.5 billion tonnes C oceanic).
+
+Net primary production is the rate at which new biomass is generated, mainly due to photosynthesis. Global primary production can be estimated from satellite observations. Satellites scan the normalised difference vegetation index (NDVI) over terrestrial habitats, and scan sea-surface chlorophyll levels over oceans. This results in 56.4 billion tonnes C/yr (53.8%), for terrestrial primary production, and 48.5 billion tonnes C/yr for oceanic primary production. Thus, the total photoautotrophic primary production for the Earth is about 104.9 billion tonnes C/yr. This translates to about 426 gC/m²/yr for land production (excluding areas with permanent ice cover), and 140 gC/m²/yr for the oceans.
+
+However, there is a much more significant difference in standing stocks—while accounting for almost half of total annual production, oceanic autotrophs account for only about 0.2% of the total biomass. Autotrophs may have the highest global proportion of biomass, but they are closely rivaled or surpassed by microbes. 
+
+Terrestrial freshwater ecosystems generate about 1.5% of the global net primary production. 
+
+Some global producers of biomass in order of productivity rates are
+
+ Producer Biomass productivity(gC/m²/yr) Ref Total area(million km²) Ref Total production(billion tonnes C/yr) 
+ Swamps and Marshes 2,500 
+ Tropical rainforests 2,000 8 16 
+ Coral reefs 2,000 0.28 Spalding, Mark, Corinna Ravilious, and Edmund Green. 2001. World Atlas of Coral Reefs. Berkeley, CA: University of California Press and UNEP/WCMC. 0.56 
+ Algal beds 2,000 
+ River estuaries 1,800 
+ Temperate forests 1,250 19 24 
+ Cultivated lands 650 17 11 
+ Tundras 140 
+ Open ocean 125 311 39 
+ Deserts 3 50 0.15 
+
+==See also==
+* Biomass (as in bioproducts)
+* Natural organic matter
+* Productivity (ecology)
+* Primary nutritional groups
+* Standing stock
+* Lake Pohjalampi - a biomass manipulation study
+
+==References==
+
+==Further reading==
+* Foley, JA; Monfreda, C; Ramankutty, N and Zaks, D (2007) Our share of the planetary pie Proceedings of the National Academy of Sciences of the USA, 104(31): 12585–12586. Download
+* Haberl, H; Erb, KH; Krausmann, F; Gaube, V; Bondeau, A; Plutzar, C; Gingrich, S; Lucht, W and Fischer-Kowalski, M (2007) Quantifying and mapping the human appropriation of net primary production in earth's terrestrial ecosystems Proceedings of the National Academy of Sciences of the USA, 104(31):12942-12947. Download
+* Purves, William K and Orians, Gordon H (2007) Life: The Science of Biology, 8th Ed. W. H. Freeman. ISBN 978-1-4292-0877-2
+
+==External links==
+
+* Counting bacteria
+* Trophic levels
+* Biomass distributions for high trophic-level fishes in the North Atlantic, 1900–2000
+
+

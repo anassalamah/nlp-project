@@ -1,0 +1,205 @@
+[[Realism (international relations)]]
+
+Niccolò Machiavelli's work The Prince is an antecedent to realist thinking
+
+Realism is a school of International Relations theory. Realism, as described by Haslam, "is a spectrum of ideas" which revolve around the four central propositions of Political Groupism, Egoism, International Anarchy and Power politics. Theories of political realism originated through the works of Thomas Hobbes and Niccolò Machiavelli, emerging as an International Relations based approach in the inter-war years of the 20th century. 
+
+==Common assumptions==
+Realism is a tradition of international theory centered upon four propositions. Jack Donnelly, "The Ethics of Realism", in Christian Reus-Smit, Duncan Snidal (eds.), The Oxford Handbook of International Relations, Oxford University Press, 2008, p. 150 
+
+# The international system is anarchic.
+#* There is no actor above states capable of regulating their interactions; states must arrive at relations with other states on their own, rather than it being dictated to them by some higher controlling entity.
+#* The international system exists in a state of constant antagonism (see international anarchy).
+# States are the most important actors.
+# All states within the system are unitary, rational actors
+#* States tend to pursue self-interest.
+#* Groups strive to attain as many resources as possible (see relative gain).
+# The primary concern of all states is survival.
+#* States build up military to survive, which may lead to a security dilemma
+
+In summary, realists think that humankind is not inherently benevolent but rather self-centered and competitive. This perspective, which is shared by theorists such as Thomas Hobbes, views human nature as egocentric (not necessarily selfish) and conflictual unless there exist conditions under which humans may coexist. It is also disposed of the notion that an individual's intuitive nature is made up of anarchy. In regards to self-interest, these individuals are self-reliant and are motivated in seeking more power. They are also believed to be fearful. This view contrasts with the approach of liberalism to international relations.
+
+The state emphasizes an interest in accumulating power to ensure security in an anarchic world. Power is a concept primarily thought of in terms of material resources necessary to induce harm or coerce other states (to fight and win wars). The use of power places an emphasis on coercive tactics being acceptable to either accomplish something in the national interest or avoid something inimical to the national interest.
+
+The state is the most important actor under realism. It is unitary and autonomous because it speaks and acts with one voice. The power of the state is understood in terms of its military capabilities.
+
+A key concept under realism is the international distribution of power referred to as system polarity. Polarity refers to the number of blocs of states that exert power in an international system. A multipolar system is composed of three or more blocs, a bipolar system is composed of two blocs, and a unipolar system is dominated by a single power or hegemon.
+
+Under unipolarity realism predicts that states will band together to oppose the hegemon and restore a balance of power. Although all states seek hegemony under realism as the only way to ensure their own security, other states in the system are incentivised to prevent the emergence of a hegemon through balancing.
+
+States employ the rational model of decision making by obtaining and acting upon complete and accurate information. The state is sovereign and guided by a national interest defined in terms of power. Since the only constraint of the international system is anarchy, there is no international authority and states are left to their own devices to ensure their own security.
+
+Realists believe that Sovereign states are the principal actors in the international system, and special attention is afforded to large powers as they have the most influence on the international stage. International institutions, non-governmental organizations, multinational corporations, individuals and other sub-state or trans-state actors are viewed as having little independent influence. States are inherently aggressive (offensive realism) and/or obsessed with security (defensive realism), and that territorial expansion is only constrained by opposing power(s). This aggressive build-up, however, leads to a security dilemma whereby increasing one's security may bring along even greater instability as an opposing power builds up its own arms in response (an arms race). Thus, security becomes a zero-sum game where only relative gains can be made.
+
+Realists believe that there are no universal principles with which all states may guide their actions. Instead, a state must always be aware of the actions of the states around it and must use a pragmatic approach to resolve problems as they arise.
+
+==History and branches==
+
+===Historic antecedents===
+While Realism as a formal discipline in international relations did not arrive until World War II, its primary assumptions have been expressed in earlier writings: Political Realism, Internet Encyclopedia of Philosophy see also Doyle, Michael. Ways of War and Peace: Realism, Liberalism, and Socialism (Paperback). 1997. London: W. W. Norton & Company, esp. pp. 41–204 
+* Thucydides, an ancient Greek historian who wrote the History of the Peloponnesian War and is also cited as an intellectual forebearer of realpolitik.
+* Chanakya (or Kautilya) early Indian statesman, and writer on the Arthashastra.
+* Ibn Khaldun, an Arab Muslim historiographer and historian, and one of the founding fathers of modern historiography author of Muqaddimah a universal history of time.
+* Han Feizi, Chinese scholar who theorised Legalism (or Legism) and who served in the court of the King of Qin—later unifier of China ending the Warring States period. His writings include The Two Handles (about punishments and rewards as tools of governance). He theorised about a neutral, manipulative ruler who would act as head of state while secretly controlling the executive through his ministers—the ones to take real responsibility for any policy.
+* Niccolò Machiavelli, an Italian political philosopher, who wrote Il Principe (The Prince) in which he held that the sole aim of a prince (politician) was to seek power, regardless of religious or ethical considerations.
+* Cardinal Richelieu, French statesman who destroyed domestic factionalism and guided France to a position of dominance in foreign affairs.
+* Thomas Hobbes, an English philosopher who wrote Leviathan in which he stated the state of nature was prone to a "war of all against all".
+* Frederick the Great, Prussian monarch who transformed Prussia into a great European power through warfare and diplomacy.
+* Charles Maurice de Talleyrand-Périgord, French diplomat who guided France and Europe through a variety of political systems.
+* Prince Klemens Wenzel von Metternich, Koblenz-born Austrian statesman opposed to political revolution.
+* Carl von Clausewitz, 18–19th century Prussian general and military theorist who wrote On War (Vom Kriege).
+* Camillo Benso of Cavour, Italian statesman who diplomatically managed to maneuver the Kingdom of Sardinia to become a new great power in Europe, controlling a nearly united Italy that was five times as large as the Kingdom of Sardinia had been before he came to power.
+* Otto von Bismarck, Prussian statesman who coined the term balance of power. Balancing power means keeping the peace and careful realpolitik practitioners try to avoid arms races.
+* 20th century proponents of realism include Hans Morgenthau, his opponent on the Vietnam War Henry Kissinger, the National Security Adviser and Secretary of State to President Richard Nixon, French General and President Charles de Gaulle, and Soviet leader Joseph Stalin.
+
+===Classical realism===
+
+Classical realism states that it is fundamentally the nature of man that pushes states and individuals to act in a way that places interests over ideologies. Classical realism is an ideology defined as the view that the "drive for power and the will to dominate are held to be fundamental aspects of human nature". Baylis, J & Smith, S & Ownes, P, The Globalization of World Politics, Oxford university press, USA, p. 95 
+
+Modern realism began as a serious field of research in the United States during and after World War II. This evolution was partly fueled by European war migrants like Hans Morgenthau.
+* George F. Kennan – containment
+* Nicholas Spykman – geostrategy, containment
+* Herman Kahn – nuclear strategy
+* E. H. Carr
+
+===Liberal realism or the English school or rationalism===
+
+The English School holds that the international system, while anarchical in structure, forms a "society of states" where common norms and interests allow for more order and stability than what might be expected in a strict realist view. Prominent English School writer Hedley Bull's 1977 classic, The Anarchical Society, is a key statement of this position.
+
+Prominent liberal realists:
+* Hedley Bull – argued for both the existence of an international society of states and its perseverance even in times of great systemic upheaval, meaning regional or so-called "world wars"
+* Martin Wight
+* Barry Buzan
+
+===Neorealism or structural realism===
+
+Neorealism derives from classical realism except that instead of human nature, its focus is predominantly on the anarchic structure of the international system. States are primary actors because there is no political monopoly on force existing above any sovereign. While states remain the principal actors, greater attention is given to the forces above and below the states through levels of analysis or structure-agency debate. The international system is seen as a structure acting on the state with individuals below the level of the state acting as agency on the state as a whole.
+
+While neorealism shares a focus on the international system with the English School, neorealism differs in the emphasis it places on the permanence of conflict. To ensure state security, states must be on constant preparation for conflict through economic and military build-up.
+
+Prominent neorealists:
+* Robert J. Art – neorealism
+* Robert Jervis – defensive realism
+* Kenneth Waltz – structural realism
+* Stephen Walt – defensive realism
+* John Mearsheimer – offensive realism
+* Robert Gilpin – hegemonic theory
+
+===Neoclassical realism===
+
+Neoclassical Realism can be seen as the third generation of realism, coming after the classical authors of the first wave (Thucydides, Machiavelli, Thomas Hobbes), and the neorealists (esp. Kenneth Waltz). Its designation of "neoclassical", then, has a double meaning:
+
+# It offers the classics a renaissance;
+# It is a synthesis of the neorealist and the classical realist approaches.
+
+Gideon Rose is responsible for coining the term in a book review he wrote. Gideon Rose, "Neoclassical Realism and Theories of Foreign Policy", World Politics, Vol. 51, No. 1, pp. 144–172 
+
+The primary motivation underlying the development of neoclassical realism was the fact that neorealism was only useful to explain political outcomes (classified as being 'theories of international politics'), but had nothing to offer about particular states' behavior (or 'theories of foreign policy'). The basic approach, then, was for these authors to "refine, not refute, Kenneth Waltz", by adding domestic intervening variables between systemic incentives and a state's foreign policy decision. Thus, the basic theoretical architecture of Neoclassical Realism is:
+
+: Distribution of power in the international system (independent variable) >>>
+: Domestic perception of the system and/or domestic incentives (intervening variable) >>>
+: Foreign policy decision (dependent variable)
+
+While neoclassical realism has only been used for theories of foreign policy so far, Randall Schweller notes that it could be useful to explain certain types of political outcomes as well. Randall L. Schweller, "The Progressiveness of Neoclassical Realism", pp. 311–347 in Colin Elman and Miriam Fendius Elman eds., Progress in International Relations Theory, (Cambridge, Mass.: MIT Press, 2003) 
+
+Neoclassical realism is particularly appealing from a research standpoint because it still retains a lot of the theoretical rigor that Waltz has brought to realism, but at the same time can easily incorporate a content-rich analysis, since its main method for testing theories is the process-tracing of case studies.
+
+Prominent neoclassical realists: 
+* Randall Schweller
+* Thomas J. Christensen
+* William Wohlforth
+* Aaron Friedberg
+* Norrin Ripsman
+* Tom Dyson
+
+===Left Realism===
+Several scholars, including Mark Laffey at the School of Oriental and African Studies, and Ronald Osborn at the University of Southern California, have argued for the idea of a "Left Realism" in IR theory with particular reference to the work of Noam Chomsky. Both Laffey and Osborn have suggested in separate articles in Review of International Studies that Chomsky’s understanding of power in the international sphere reflects the analytical assumptions of classical realism combined with a radical moral, normative or "Left" critique of the state. See, for example, Ronald Osborn, "Noam Chomsky and the Realist Tradition", Review of International Studies, Vol. 35, No. 2, 2009" 
+
+==Realism in statecraft==
+;Modern realist statesmen
+* Henry Kissinger But see Kahler, Miles. Rationality in International Relations International Organization, Vol. 52, No. 4, International Organization at Fifty: Exploration and Contestation in the Study of World Politics (Autumn, 1998), pp. 919-941 © 1998 MIT Press. 
+* Zbigniew Brzezinski
+* Brent Scowcroft
+
+The ideas behind George F. Kennan's work as a diplomat and diplomatic historian remain relevant to the debate over American foreign policy, which since the 19th century has been characterized by a shift from the Founding Fathers' realist school to the idealistic or Wilsonian school of international relations. In the realist tradition, security is based on the principle of a balance of power and the reliance on morality as the sole determining factor in statecraft is considered impractical. According to the Wilsonian approach, on the other hand, the spread of democracy abroad as a foreign policy is key and morals are universally valid. During the Presidency of Bill Clinton, American diplomacy reflected the Wilsonian school to such a degree that those in favor of the realist approach likened Clinton's policies to social work. According to Kennan, whose concept of American diplomacy was based on the realist approach, such moralism without regard to the realities of power and the national interest is self-defeating and will lead to the erosion of power, to America's detriment. Richard Russell, "American Diplomatic Realism: A Tradition Practised and Preached by George F. Kennan," Diplomacy and Statecraft, Nov 2000, Vol. 11 Issue 3, pp. 159–83 
+
+==Criticisms==
+
+===Democratic peace===
+Democratic peace theory advocates also that realism is not applicable to democratic states' relations with each another, as their studies claim that such states do not go to war with one another. However, Realists and proponents of other schools have critiqued both this claim and the studies which appear to support it, claiming that its definitions of "war" and "democracy" must be tweaked in order to achieve the desired result.
+
+===Federalism===
+
+The term refers to the theory or advocacy of federal political orders, where final authority is divided between sub-units and a centre. Unlike a unitary state, sovereignty is constitutionally split between at least two territorial levels so that units at each level have final authority and can act independently of the others in some area. Citizens thus have political obligations to two authorities. The allocation of authority between the sub-unit and centre may vary. Typically the centre has powers regarding defence and foreign policy, but sub-units may also have international roles. The sub-units may also participate in central decision-making bodies.
+
+The basic idea behind federalism is that a unifying relationship between states should be established under a common system of law. Conflict and disagreement should be resolved through peaceful means rather than through coercion or war. Its most important aspect is in recognizing that different types of institutions are needed to deal with different types of political issues.
+
+===Post-realism===
+Post-realism suggests that Realism is a form of social scientific and political rhetoric. It opens rather than closes a debate about what is real and what is realistic in international relations.
+
+Prominent Post-Realists:
+* Francis A. Beer
+* James Der Derian
+* Robert Hariman
+* Michael J. Shapiro
+
+==Realpolitik and Realism==
+Realpolitik is related to the philosophy of political realism, and both suggest working from the hypothesis that it is chiefly based on the pursuit, possession, and application of power. (See also power politics) Realpolitik, however, is a prescriptive guideline limited to policy-making (like foreign policy), while realism is a descriptive paradigm, a wider theoretical and methodological framework, aimed at describing, explaining and, eventually, predicting events in the international relations domain.
+
+==See also==
+* Complex interdependence
+* Consensus reality
+* International legal theory
+* Flipism
+* Game theory
+* Global justice
+* Negarchy
+* Peace through strength
+* Realpolitik
+* Reinhold Niebuhr, (1892-1971), American theologian
+
+==References==
+
+==Further reading==
+
+* Ashley, Richard K. "Political Realism and the Human Interests," International Studies Quarterly (1981) 25: 204-36.
+* Barkin, J. Samuel Realist Constructivism: Rethinking International Relations Theory (Cambridge University Press; 2010) 202 pages. Examines areas of both tension and overlap between the two approaches to IR theory.
+* Bell, Duncan, ed. Political Thought and International Relations: Variations on a Realist Theme. Oxford: Oxford University Press, 2008.
+* Booth, Ken. 1991. "Security in anarchy: Utopian realism in theory and practice", International Affairs 67(3), pp. 527–545
+* Crawford; Robert M. A. Idealism and Realism in International Relations: Beyond the Discipline (2000) online edition
+* Donnelly; Jack. Realism and International Relations (2000) online edition
+* Gilpin, Robert G. "The richness of the tradition of political realism," International Organization (1984), 38:287-304
+* Griffiths; Martin. Realism, Idealism, and International Politics: A Reinterpretation (1992) online edition
+* Guilhot Nicolas, ed. The Invention of International Relations Theory: Realism, the Rockefeller Foundation, and the 1954 Conference on Theory (2011)
+* Keohane, Robert O., ed. Neorealism and its Critics (1986)
+* Lebow, Richard Ned. The Tragic Vision of Politics: Ethics, Interests and Orders. Cambridge: Cambridge University Press, 2003.
+* Mearsheimer, John J., "The Tragedy of Great Power Politics." New York: W.W. Norton & Company, 2001. text on Offensive Neorealism
+* Meyer, Donald. The Protestant Search for Political Realism, 1919-1941 (1988) online edition
+* Molloy, Sean. The Hidden History of Realism: A Genealogy of Power Politics. New York: Palgrave, 2006.
+* Morgenthau, Hans. "Scientific Man versus Power Politics" (1946) Chicago, IL: University of Chicago Press.
+** "Politics Among Nations: The Struggle for Power and Peace" (1948) New York NY: Alfred A. Knopf.
+** "In Defense of the National Interest" (1951) New York, NY: Alfred A. Knopf.
+** "The Purpose of American Politics" (1960) New York, NY: Alfred A. Knopf.
+* Murray, A. J. H., Reconstructing Realism: Between Power Politics and Cosmopolitan Ethics. Edinburgh: Keele University Press, 1997.
+* Osborn, Ronald, "Noam Chomsky and the Realist Tradition," Review of International Studies, Vol.35, No.2, 2009.
+* Rosenthal, Joel H. Righteous Realists: Political Realism, Responsible Power, and American Culture in the Nuclear Age. (1991). 191 pp. Compares Reinhold Niebuhr, Hans J. Morgenthau, Walter Lippmann, George F. Kennan, and Dean Acheson
+* Scheuerman, William E. 2010. "The (classical) Realist vision of global reform." International Theory 2(2): pp. 246–282.
+* Schuett, Robert. Political Realism, Freud, and Human Nature in International Relations. New York: Palgrave, 2010.
+* Smith, Michael Joseph. Realist Thought from Weber to Kissinger (1986)
+* Tjalve, Vibeke S. Realist Strategies of Republican Peace: Niebuhr, Morgenthau, and the Politics of Patriotic Dissent. New York: Palgrave, 2008.
+* Williams, Michael C. The Realist Tradition and the Limits of International Relations. Cambridge: Cambridge University Press, 2005.
+
+==External links==
+* Comparing and Contrasting Classical Realism and Neorealism by Arash Heydarian Pashakhanlou
+* Political Realism in International Relations in Stanford Encyclopedia of Philosophy
+* Global Power Barometer
+* The Realist Persuasion by Andrew J. Bacevich, for the Boston Globe, November 6, 2005
+* The National Interest
+* The Indian National Interest
+* Interview with neorealist Robert Jervis by Theory Talks (July 2008)
+* Interview with realist Kenneth Waltz by Theory Talks (May 2011)
+* The Neocons vs. The Realists
+
+ 
+
+
