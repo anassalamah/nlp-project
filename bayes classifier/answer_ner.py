@@ -6,7 +6,7 @@ import re
 import json
 import urllib
 
-FREEBASE_KEY = "AIzaSyBRMODj1mCWq6CGzuGnH1BcUw_8Baqp4bw"
+FREEBASE_KEY = "AIzaSyB0ZlL_8WOWRnDBDka2Y5ZWmlw2xjLKvKc"
 """ train fields:
 Question ID,
 Question Text,
@@ -39,12 +39,15 @@ def is_person(possible_name):
         }
     url = freebase_server + '?' + urllib.urlencode(params)
     response = json.loads(urllib.urlopen(url).read())
-    for result in response['result']:
-        if re.sub(r' \(\w+\)',"",possible_name) == result['name'].lower():
-            #print possible_name, result['name'] + ' (' + str(result['score']) + ')'
-            return True
-        else:
-            return False
+    try:
+        for result in response['result']:
+            if re.sub(r' \(\w+\)',"",possible_name) == result['name'].lower():
+                #print possible_name, result['name'] + ' (' + str(result['score']) + ')'
+                return True
+            else:
+                return False
+    except KeyError:
+        print "make sure your Freebase key is up to date"
 
 def clean_guesses(guesses):
     """
@@ -89,6 +92,7 @@ if __name__ == "__main__":
     
     for ii in train:
         train_examples += 1
+        print train_examples
         QANTA_person_guesses, QANTA_thing_guesses = clean_guesses(ii['QANTA Scores'])
         IR_Wiki_person_guesses, IR_Wiki_thing_guesses = clean_guesses(ii['IR_Wiki Scores'])
         
@@ -112,5 +116,5 @@ if __name__ == "__main__":
         output.writerow({'Answer': answer[0], \
                     'type': "THING", })
         
-    print "made", test_examples, "guesses"
+    print "wrote", train_examples , "answer types"
                        
