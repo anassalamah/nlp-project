@@ -30,7 +30,7 @@ No sentence information will be used for this initial guess, Naive Bayes is used
 
 * [OPEN] Take a question text block and assign a probability of it asking for a PERSON. (figure out from the question text based on pronouns in the text)
 
-* [OPEN] Verify that the list of pronouns we are checking is complete (exhaustive) list.
+* [ANAS] Verify that the list of pronouns we are checking is complete (exhaustive) list.
 
 * [OPEN] Go through unidentified links file (unidentified_links.csv) and try to correct the guess.  Otherwise, these are the links for which we will not have wikipeida data.
 
