@@ -24,19 +24,22 @@ No sentence information will be used for this initial guess, Naive Bayes is used
 
 * [JORDAN] Take a question text block and identify all interesting words for the bag-of-words match (e.g. just throw out stopwords), return interesting words as a list.
 
-* [ANAS] Take a .csv list of all possible answers (wiki_links.csv) and output a new .csv file with a column for PERSON (boolean) based on freebase results
+* [DONE] Take a .csv list of all possible answers (wiki_links.csv) and output a new .csv file with a column for PERSON (boolean) based on freebase results
+(output is in csv/answer_ner.csv)
 
 * [OPEN] Take input (1) list of words and (2) wikipedia link guess -> open associated wikipeida article text file, return a SCORE for the article based on if the words from the list appear in the article.
 
 * [OPEN] Take a question text block and assign a probability of it asking for a PERSON. (figure out from the question text based on pronouns in the text)
 
 * [ANAS] Verify that the list of pronouns we are checking is complete (exhaustive) list.
+(verified but need Jordan to verify completion and accuracy)
 
 * [OPEN] Go through unidentified links file (unidentified_links.csv) and try to correct the guess.  Otherwise, these are the links for which we will not have wikipeida data.
 
 Refactor Requests
 ===========
 
-* [ANAS] make a new .csv of all wikipeida links tagged by name (yes/no) from freebase to use as look-up file
-* [ANAS] change remove_none_types to use a .csv for name look ups
+* [ANAS] make a new .csv of all wikipeida links tagged by name (yes/no) from freebase to use as look-up file. 
+(I think this is the same task as "[ANAS] Take a .csv list of all possible answers ...)
+* [DONE] clean answers by using answer_ner.csv
  
