@@ -5,8 +5,8 @@ import nltk
 import re
 import json
 import urllib
-
-FREEBASE_KEY = "AIzaSyB0ZlL_8WOWRnDBDka2Y5ZWmlw2xjLKvKc"
+import time
+FREEBASE_KEY = "AIzaSyCapD0cwfyjQtL1i0vkHtHuPq-2PNm3eEM"
 """ train fields:
 Question ID,
 Question Text,
@@ -33,7 +33,7 @@ def is_person(possible_name):
     """
     freebase_server = "https://www.googleapis.com/freebase/v1/search"
     params = {
-            "key": FREEBASE_KEY,
+            #"key": FREEBASE_KEY,
             "query": possible_name,
             "filter": "(any type:/people/person)"
         }
@@ -42,12 +42,30 @@ def is_person(possible_name):
     try:
         for result in response['result']:
             if re.sub(r' \(\w+\)',"",possible_name) == result['name'].lower():
-                #print possible_name, result['name'] + ' (' + str(result['score']) + ')'
+                    #print possible_name, result['name'] + ' (' + str(result['score']) + ')'
                 return True
             else:
                 return False
     except KeyError:
-        print "make sure your Freebase key is up to date"
+        print "KeyError, wait for 15 minutes and try again"
+        time.sleep(900)
+        try:
+            for result in response['result']:
+                if re.sub(r' \(\w+\)',"",possible_name) == result['name'].lower():
+                    #print possible_name, result['name'] + ' (' + str(result['score']) + ')'
+                    return True
+                else:
+                    return False
+        except KeyError:
+            print "KeyError, wait for 15 minutes and try again"
+            time.sleep(900)
+            for result in response['result']:
+                if re.sub(r' \(\w+\)',"",possible_name) == result['name'].lower():
+                    #print possible_name, result['name'] + ' (' + str(result['score']) + ')'
+                    return True
+                else:
+                    return False
+    
 
 def clean_guesses(guesses):
     """
@@ -82,7 +100,7 @@ if __name__ == "__main__":
     print "read training data answer"
     
     # Read in training data
-    train = DictReader(open("../train.csv", 'rU'))
+    train = DictReader(open("../train_SS3.csv", 'rU'))
     
     # Create File for predictions
     output = DictWriter(open('answer_ner.csv', 'w'), ['Answer','type'], lineterminator='\n')
