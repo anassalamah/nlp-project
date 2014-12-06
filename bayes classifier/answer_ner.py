@@ -6,7 +6,7 @@ import re
 import json
 import urllib
 import time
-FREEBASE_KEY = "AIzaSyAXyDHVcXhYXe6aehoK8q4l7qlNVR54ASk"
+FREEBASE_KEY = "AIzaSyCapD0cwfyjQtL1i0vkHtHuPq-2PNm3eEM"
 """ train fields:
 Question ID,
 Question Text,
@@ -39,17 +39,13 @@ def is_person(possible_name):
         }
     url = freebase_server + '?' + urllib.urlencode(params)
     response = json.loads(urllib.urlopen(url).read())
-    try:
-        for result in response['result']:
-            if re.sub(r' \(\w+\)',"",possible_name) == result['name'].lower():
+    for result in response['result']:
+        if re.sub(r' \(\w+\)',"",possible_name) == result['name'].lower():
                 #print possible_name, result['name'] + ' (' + str(result['score']) + ')'
-                return True
-            else:
-                return False
-    except KeyError:
-        print "make sure your Freebase key is up to date"
-        time.sleep((2) + random.randint(0, 1000) / 1000)
-        is_person(possible_name)
+            return True
+        else:
+            return False
+    
 
 def clean_guesses(guesses):
     """
