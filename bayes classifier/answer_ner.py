@@ -5,8 +5,8 @@ import nltk
 import re
 import json
 import urllib
-
-FREEBASE_KEY = "AIzaSyB0ZlL_8WOWRnDBDka2Y5ZWmlw2xjLKvKc"
+import time
+FREEBASE_KEY = "AIzaSyAXyDHVcXhYXe6aehoK8q4l7qlNVR54ASk"
 """ train fields:
 Question ID,
 Question Text,
@@ -48,6 +48,8 @@ def is_person(possible_name):
                 return False
     except KeyError:
         print "make sure your Freebase key is up to date"
+        time.sleep((2) + random.randint(0, 1000) / 1000)
+        is_person(possible_name)
 
 def clean_guesses(guesses):
     """
@@ -82,7 +84,7 @@ if __name__ == "__main__":
     print "read training data answer"
     
     # Read in training data
-    train = DictReader(open("../train.csv", 'rU'))
+    train = DictReader(open("../train_SS3.csv", 'rU'))
     
     # Create File for predictions
     output = DictWriter(open('answer_ner.csv', 'w'), ['Answer','type'], lineterminator='\n')
