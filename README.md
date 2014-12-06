@@ -7,8 +7,6 @@ Project Proposal: https://docs.google.com/document/d/1x34VXmbU3Hr0deV65aqz5kN6jJ
 TODO List
 ===========
 
-* [DONE] clean answers based on Question pronouns (?) see below open request
-
 * [DONE] read training/test files, and extract the question sentences, and return the clean sentences.
 (sentences returned as a python list, no period exists at end of sentence, all lowercase letters)
 (python code for this in minimal examples folder)
@@ -22,15 +20,17 @@ No sentence information will be used for this initial guess, Naive Bayes is used
 
 * [DONE] Collect wikipedia articles
 
-* [NICK] Break Wikipedia articles into separate pages
+* [DONE] Break Wikipedia articles into separate pages (except for about 50 missing ones, use look up table to find the filename to read for a given guess)
 
-* [JORDAN] Take a question text block and identify all interesting words for the bag-of-words match
+* [JORDAN] Take a question text block and identify all interesting words for the bag-of-words match (e.g. just throw out stopwords), return interesting words as a list.
 
-* [OPEN] Take a list of words and a wikipeida article, return a SCORE for the article based on the words
+* [ANAS] Take a .csv list of all possible answers (wiki_links.csv) and output a new .csv file with a column for PERSON (boolean) based on freebase results
 
-* [OPEN] Figure out if the question text block is asking about a person
+* [OPEN] Take input (1) list of words and (2) wikipedia link guess -> open associated wikipeida article text file, return a SCORE for the article based on if the words from the list appear in the article.
 
-* [OPEN] Verify that the list of pronouns we are checking is an complete (exhaustive) list
+* [OPEN] Take a question text block and assign a probability of it asking for a PERSON. (figure out from the question text based on pronouns in the text)
+
+* [OPEN] Verify that the list of pronouns we are checking is complete (exhaustive) list.
 
 * [OPEN] Go through unidentified links file (unidentified_links.csv) and try to correct the guess.  Otherwise, these are the links for which we will not have wikipeida data.
 
