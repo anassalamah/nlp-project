@@ -81,7 +81,7 @@ if __name__ == "__main__":
     print "read training data"
     
     # Read in training data
-    train = DictReader(open("../train.csv", 'r'))
+    train = DictReader(open("../csv/train.csv", 'r'))
 
     Q_train = []
     IR_train = []
@@ -123,7 +123,7 @@ if __name__ == "__main__":
     # Test a classifier
     print("Ready to test")
 
-    test = DictReader(open("../test.csv", 'r'))
+    test = DictReader(open("../csv/test.csv", 'r'))
 
     # Create File for predictions
     o = DictWriter(open('printable_pred.csv', 'w'), ['ID','cat','S','Question','keywords','prob','Answer'], lineterminator='\n')

@@ -58,8 +58,8 @@ if __name__ == "__main__":
     print "read training data"
     
     # Read in training data
-    #train = DictReader(open("../train_SS3.csv", 'r'))
-    train = DictReader(open("../train.csv", 'r'))
+    #train = DictReader(open("../csv/train_SS3.csv", 'r'))
+    train = DictReader(open("../csv/train.csv", 'r'))
 
 
     dev_train = []
