@@ -6,7 +6,7 @@ import re
 import json
 import urllib
 import time
-FREEBASE_KEY = "AIzaSyCapD0cwfyjQtL1i0vkHtHuPq-2PNm3eEM"
+FREEBASE_KEY = "AIzaSyClHgL3It7_9vtJAmekhlSp7ucMw_rwAJU"
 """ train fields:
 Question ID,
 Question Text,
@@ -27,72 +27,27 @@ category
 """
 
     
-def is_person(possible_name):
+def is_person(link):
     """
     Use freebase to know if answere is a person and return boolean
     """
+    clean_link = re.sub("_"," ",link)
     freebase_server = "https://www.googleapis.com/freebase/v1/search"
     params = {
-            #"key": FREEBASE_KEY,
-            "query": possible_name,
+            "key": FREEBASE_KEY,
+            "query": clean_link,
             "filter": "(any type:/people/person)"
         }
     url = freebase_server + '?' + urllib.urlencode(params)
     response = json.loads(urllib.urlopen(url).read())
-    try:
-        for result in response['result']:
-            if re.sub(r' \(\w+\)',"",possible_name) == result['name'].lower():
-                    #print possible_name, result['name'] + ' (' + str(result['score']) + ')'
-                return True
-            else:
-                return False
-    except KeyError:
-        print "KeyError, wait for 15 minutes and try again"
-        time.sleep(900)
-        try:
-            for result in response['result']:
-                if re.sub(r' \(\w+\)',"",possible_name) == result['name'].lower():
-                    #print possible_name, result['name'] + ' (' + str(result['score']) + ')'
-                    return True
-                else:
-                    return False
-        except KeyError:
-            print "KeyError, wait for 15 minutes and try again"
-            time.sleep(900)
-            for result in response['result']:
-                if re.sub(r' \(\w+\)',"",possible_name) == result['name'].lower():
-                    #print possible_name, result['name'] + ' (' + str(result['score']) + ')'
-                    return True
-                else:
-                    return False
     
-
-def clean_guesses(guesses):
-    """
-    returns the guesses as a string with only relevent guesses
-    """
-    person_guesses = ""
-    thing_guesses = ""
-    for jj in guesses.split(", "):
-        answer = jj.split(":")
-        key_spaced = re.sub("_"," ",answer[0])
-        #key_spaced = re.sub(r' \(\w+\)',"",key_spaced)
-        #print key_spaced
-        if is_person(key_spaced):
-            person_guesses += jj+", "
+    
+    for result in response['result']:
+        if re.sub(r' \(\w+\)',"",clean_link) == result['name'].lower():
+            #print clean_link, result['name'] + ' (' + str(result['score']) + ')'
+            return 1
         else:
-            thing_guesses += jj+", "
-            
-    """ remove last two chars (, ) """
-    person_guesses = person_guesses[:-2]
-    thing_guesses = thing_guesses[:-2]
-    #print "PERSON"
-    #print person_guesses
-    #print ""
-    #print "THING"
-    #print thing_guesses
-    #print ""
-    return (person_guesses, thing_guesses)
+            return 0
         
 
 if __name__ == "__main__":
@@ -100,39 +55,21 @@ if __name__ == "__main__":
     print "read training data answer"
     
     # Read in training data
-    train = DictReader(open("../train_SS3.csv", 'rU'))
+    answers = DictReader(open("wiki_links.csv", 'rU'))
     
     # Create File for predictions
-    output = DictWriter(open('answer_ner.csv', 'w'), ['Answer','type'], lineterminator='\n')
+    output = DictWriter(open('answer_ner.csv', 'w'), ['Answer','Person'], lineterminator='\n')
     output.writeheader()
     
-    train_examples = 0
+    answer_counts = 0
     
-    for ii in train:
-        train_examples += 1
-        print train_examples
-        QANTA_person_guesses, QANTA_thing_guesses = clean_guesses(ii['QANTA Scores'])
-        IR_Wiki_person_guesses, IR_Wiki_thing_guesses = clean_guesses(ii['IR_Wiki Scores'])
-        
-    #print QANTA_person_guesses, QANTA_thing_guesses
-    #print IR_Wiki_person_guesses, IR_Wiki_thing_guesses
+    for ii in answers:
+        answer_counts += 1
+        print "Answer Number: ", answer_counts
+        output.writerow({'Answer': ii["link"], \
+                    'Person': is_person(ii["link"]) })
+       
     
-    for jj in QANTA_person_guesses.split(", "):
-        answer = jj.split(":")
-        output.writerow({'Answer': answer[0], \
-                    'type': "PERSON", })
-    for jj in QANTA_thing_guesses.split(", "):
-        answer = jj.split(":")
-        output.writerow({'Answer': answer[0], \
-                    'type': "THING", })
-    for jj in IR_Wiki_person_guesses.split(", "):
-        answer = jj.split(":")
-        output.writerow({'Answer': answer[0], \
-                    'type': "PERSON", })
-    for jj in IR_Wiki_thing_guesses.split(", "):
-        answer = jj.split(":")
-        output.writerow({'Answer': answer[0], \
-                    'type': "THING", })
-        
-    print "wrote", train_examples , "answer types"
+   
+    print "wrote", answer_counts , "answer types"
                        
