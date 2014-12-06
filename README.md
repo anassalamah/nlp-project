@@ -32,6 +32,8 @@ No sentence information will be used for this initial guess, Naive Bayes is used
 
 * [OPEN] Verify that the list of pronouns we are checking is an complete (exhaustive) list
 
+* [OPEN] Go through unidentified links file (unidentified_links.csv) and try to correct the guess.  Otherwise, these are the links for which we will not have wikipeida data.
+
 Refactor Requests
 ===========
 
