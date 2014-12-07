@@ -109,41 +109,41 @@ if __name__ == "__main__":
     
     for ii in train:
         train_examples += 1
-        if train_examples == 1:
-            print "TRAIN: ", train_examples
-            feat = features(ii)
-            pronouns = find_pronouns(ii['Question Text']) 
 
-            QANTA_clean_guesses = clean_guesses(ii['QANTA Scores'], pronouns)
-            if QANTA_clean_guesses:
-                Q_guess, Q_confidence = top_guess(QANTA_clean_guesses)
-            else:
-                print "CLEAN QANTA GUESSES WERE EMPTY"
-                Q_guess, Q_confidence = top_guess(ii['QANTA Scores'])
+        print "TRAIN: ", train_examples
+        feat = features(ii)
+        pronouns = find_pronouns(ii['Question Text']) 
 
-            IR_Wiki_clean_guesses = clean_guesses(ii['IR_Wiki Scores'], pronouns)
-            if IR_Wiki_clean_guesses:
-                IR_guess, IR_confidence = top_guess(IR_Wiki_clean_guesses)
-            else:
-                print "CLEAN IR GUESSES WERE EMPTY"
-                IR_guess, IR_confidence = top_guess(ii['IR_Wiki Scores'])
+        QANTA_clean_guesses = clean_guesses(ii['QANTA Scores'], pronouns)
+        if QANTA_clean_guesses:
+            Q_guess, Q_confidence = top_guess(QANTA_clean_guesses)
+        else:
+            print "CLEAN QANTA GUESSES WERE EMPTY"
+            Q_guess, Q_confidence = top_guess(ii['QANTA Scores'])
 
-            if Q_guess == ii['Answer']:
-                correct = 'right'
-            else:
-                correct = 'wrong'
-            Q_train.append((feat, correct))
+        IR_Wiki_clean_guesses = clean_guesses(ii['IR_Wiki Scores'], pronouns)
+        if IR_Wiki_clean_guesses:
+            IR_guess, IR_confidence = top_guess(IR_Wiki_clean_guesses)
+        else:
+            print "CLEAN IR GUESSES WERE EMPTY"
+            IR_guess, IR_confidence = top_guess(ii['IR_Wiki Scores'])
 
-            if IR_guess == ii['Answer']:
-                correct = 'right'
-            else:
-                correct = 'wrong'
-            IR_train.append((feat, correct))
+        if Q_guess == ii['Answer']:
+            correct = 'right'
+        else:
+            correct = 'wrong'
+        Q_train.append((feat, correct))
+
+        if IR_guess == ii['Answer']:
+            correct = 'right'
+        else:
+            correct = 'wrong'
+        IR_train.append((feat, correct))
 
 
-            if debug == 1:
-                print "example " + str(train_examples)
-                print "feat:", feat
+        if debug == 1:
+            print "example " + str(train_examples)
+            print "feat:", feat
     
     # Train a classifier
     print("Training classifier ...")
