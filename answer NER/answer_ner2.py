@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-return (1, [x for x in result['notable'])
-=======
->>>>>>> e50b4f2c93f5391d5b06531885c814cf3920cb28
 import random
 from csv import DictReader, DictWriter
 from string import replace
@@ -30,101 +26,124 @@ IR_Wiki Scores,
 category
 """
 
+import sys
+from collections import defaultdict
+from csv import DictReader, DictWriter
+from string import replace
+import nltk
+import json
+import urllib
+FREEBASE_KEY = "AIzaSyBRMODj1mCWq6CGzuGnH1BcUw_8Baqp4bw"
+
+#import re
+
+def search_for_person_freebase(link):
+    """
+    Use freebase to search for person and give me his info and a description about him
+    """
+    freebase_server = "https://www.googleapis.com/freebase/v1/search"
+    params = {
+            "key": FREEBASE_KEY,
+            "query": link,
+            "limit": 3,                             #limit of top 3 hits
+            "filter": "(all type:/people/person)",  #only person type
+            "output": '(description)'               #add their description
+        }
+    # Make search
+    url = freebase_server + '?' + urllib.urlencode(params)
+    response = json.loads(urllib.urlopen(url).read())
     
-<<<<<<< HEAD
-def is_person(link):
-=======
-def search_freebase(link):
->>>>>>> e50b4f2c93f5391d5b06531885c814cf3920cb28
+    # Check for errors and exit with a message if the query failed.
+    try:
+        response['status']
+    except KeyError:
+        error = response['error']
+        sys.exit('%s: %s' % (error['code'], error['message'])) # Display code,msg.
+    
+    results = response['result']
+    
+    print "FREEBASING:", link
+    for ii in results:
+        # Check the number of matching bands
+        if len(ii['name']) != 0:
+            print ii
+            print "---------------"
+    
+if __name__ == "__main__":
+
+    word_list = ["erlking", "portugal","peter the great","paraguay","samuel gompers","ethiopia","amerigo vespucci", \
+             "douglas macarthur","suez crisis","oda nobunaga","jamaica","finland","henry the navigator", \
+             "christopher columbus","emiliano zapata","vitus bering","samuel de champlain", \
+             "charles de gaulle","gamal abdel nasser","haile selassie","mali empire"]
+
+    for word in word_list:
+        search_for_person_freebase(word)
+
+    print "DONE"
+
+
+
+
+
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+    
+def search_for_person_freebase(link):
     """
     Use freebase to know if answere is a person and return boolean
     """
     clean_link = re.sub("_"," ",link)
-<<<<<<< HEAD
+    
     freebase_server = "https://www.googleapis.com/freebase/v1/search"
     params = {
             "key": FREEBASE_KEY,
             "query": clean_link,
-            "filter": "(any type:/people/person)"
-=======
-    print clean_link
-    freebase_server = "https://www.googleapis.com/freebase/v1/mqlread"
-    query = [{'name': clean_link, 'type': "/common/topic"}]
-    params = {
-            "query": json.dumps(query),
-            "key": FREEBASE_KEY
->>>>>>> e50b4f2c93f5391d5b06531885c814cf3920cb28
+            "limit": 3,                             #limit of top 3 hits
+            "filter": "(all type:/people/person)",  #only person type
+            "output": '(description)'               #add their description
         }
+    # Make search
     url = freebase_server + '?' + urllib.urlencode(params)
     response = json.loads(urllib.urlopen(url).read())
     
-<<<<<<< HEAD
+    # Check for errors and exit with a message if the query failed.
+    try:
+        response['status']
+    except KeyError:
+        error = response['error']
+        sys.exit('%s: %s' % (error['code'], error['message'])) # Display code,msg.
     
-    for result in response['result']:
-        if re.sub(r' \(\w+\)',"",clean_link) == result['name'].lower():
-            #print clean_link, result['name'] + ' (' + str(result['score']) + ')'
-            return 1
-        else:
-            return 0
+    # No errors, so handle the result
+    results = response['result']           # Open the response envelope, get result.
+    
+    print "FREEBASING:", link
+    for ii in results:
+        return (link, 
         
 
-=======
-    print response['result']
-    return response['result']
-        
-
-def top_10_freebase_pages(result):
-    """
-    return the top ten hits I git from get_person_info(link)
-    """
-    return result
-
->>>>>>> e50b4f2c93f5391d5b06531885c814cf3920cb28
 if __name__ == "__main__":
     
     print "read training data answer"
     
     # Read in training data
-<<<<<<< HEAD
     answers = DictReader(open("wiki_links.csv", 'rU'))
     
     # Create File for predictions
-    output = DictWriter(open('answer_ner.csv', 'w'), ['Answer','Person'], lineterminator='\n')
-=======
-    answers = DictReader(open("../csv/answer_ner.csv", 'rU'))
-    
-    # Create File for predictions
-    output = DictWriter(open('answer_ner2.csv', 'w'), ['Answer','Person'], lineterminator='\n')
->>>>>>> e50b4f2c93f5391d5b06531885c814cf3920cb28
+    output = DictWriter(open('answer_ner.csv', 'w'), ['Answer','Person','Description', "type"], lineterminator='\n')
     output.writeheader()
     
     answer_counts = 0
     
     for ii in answers:
         answer_counts += 1
-<<<<<<< HEAD
         print "Answer Number: ", answer_counts
-        output.writerow({'Answer': ii["link"], \
-                    'Person': is_person(ii["link"]) })
-=======
-        if answer_counts < 4:
-            print "Answer Number: ", answer_counts
-            freebase_result = search_freebase(ii["Answer"])
-            top_freebase = top_10_freebase_pages(freebase_result)
-            print ii["Answer"]
-            for page in top_freebase:
-                print page
-                print ''
-
-            #output.writerow({'Answer': ii["Answer"], \
-                    #'Person': is_person(ii["link"]) })
->>>>>>> e50b4f2c93f5391d5b06531885c814cf3920cb28
+        result = serach_for_person_freebase(ii["link"])
+        if result:
+            output.writerow({'Answer': ii["link"], \
+                            'Person': 1 , \
+                            'Description: result})
        
     
    
     print "wrote", answer_counts , "answer types"
-<<<<<<< HEAD
                        
-=======
-                       
->>>>>>> e50b4f2c93f5391d5b06531885c814cf3920cb28
