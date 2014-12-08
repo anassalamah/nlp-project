@@ -52,6 +52,9 @@ def size_of_vocab(text):
     return len(set(tokens))
 
 def find_pronouns(text):
+    """
+    find all the pronouns and return them in a list
+    """"
     pronouns = re.findall("her | hers | himself | herself | each other | each other's | one another | one another's | who | whoever | whomever | whom | which | whose | that", text)
     pronouns = pronouns + re.findall(" they | them | their | theirs | that", text)
     pronouns = pronouns + re.findall(" it | that | its | who | whose", text)
@@ -63,6 +66,9 @@ def find_pronouns(text):
     return clean_pronouns
 
 def find_type_pronoun_probability(pronouns,pronoun_type, vocab_size):
+    """
+    return the probability of a pronoun type
+    """
     count = 0
     total = 0
     if pronoun_type == "person":
