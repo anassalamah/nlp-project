@@ -10,7 +10,9 @@ import re
 import string
 
 kTOKENIZER = TreebankWordTokenizer()
-person_pronouns = ["he","his","himself","someone","who","she","her","herself"]
+person_pronouns = ['he','him','his','she','her','hers','himself','herself','each other',"each other's", 'one another', "one another's",'who','whoever','whomever','whom','whose'] 
+thing_pronouns = ["it", "its"]
+group_pronouns= ['they", "them", "their", theirs']
 
 """ train fields:
 Question ID,
@@ -43,15 +45,14 @@ def top_guess(guesses):
     return (key, float(val))
 
 def find_pronouns(text):
-    pronouns = re.findall(" he | his | himself | someone | who", text)
-    pronouns = pronouns + re.findall(" she | her | herself", text)
-    pronouns = pronouns + re.findall(" they | them | those | their | themselves ", text)
-    pronouns = pronouns + re.findall(" its | it | itself | something | what ", text)
+    pronouns = re.findall("her | hers | himself | herself | each other | each other's | one another | one another's | who | whoever | whomever | whom | which | whose | that", text)
+    pronouns = pronouns + re.findall(" they | them | their | theirs | that", text)
+    pronouns = pronouns + re.findall(" it | that | its | who | whose", text)
 
     clean_pronouns = []
     for i in pronouns:
         clean_pronouns = clean_pronouns + [i.strip()]
-    
+
     return clean_pronouns
 
 
@@ -59,34 +60,37 @@ def features(case):
     d = defaultdict()
     d["category"] = case['category']
     d["Sentence Position"] = case['Sentence Position']
-
+    
+                                
     return d
 
 
 def clean_guesses(guesses, pronouns):
-    # Read in answer NER
-    answer_file = open("../csv/answer_ner.csv", 'r')
-    answer_ner = DictReader(answer_file)
+    
     
     # give me the most common pronoun only
     if pronouns:
         pronouns = max(set(pronouns), key=pronouns.count)
-        
+
+    if pronouns in person_pronouns:
+        # Read in person INFO
+        answer_info_file = open("../csv/person_info.csv", 'r')
+        answer_info = DictReader(answer_info_file)
+    else:
+        # Read in non_person NER
+        answer_info_file = open("../csv/non_person_info.csv", 'r')
+        answer_info = DictReader(answer_info_file)
     new_guesses= ""
     for jj in guesses.split(", "):
         #print jj
         key,val = jj.split(":")
-        for ii in answer_ner:
+        for ii in answer_info:
             if key == ii["Answer"]:
-                if pronouns in person_pronouns:
-                    if ii["Person"] == '1':
-                        new_guesses += jj+", "
-                else:
-                    if ii["Person"] != '1':
-                        new_guesses += jj+", "
+                new_guesses += jj+", "
         #reset CSV iterator
-        answer_file.seek(0) 
-        
+        answer_info_file.seek(0)
+    print pronouns
+    print new_guesses
     """ remove last ', ' """
     new_guesses = new_guesses[:-2]
     return new_guesses          
@@ -112,6 +116,7 @@ if __name__ == "__main__":
 
         print "TRAIN: ", train_examples
         feat = features(ii)
+        print ii['Question Text']
         pronouns = find_pronouns(ii['Question Text']) 
 
         QANTA_clean_guesses = clean_guesses(ii['QANTA Scores'], pronouns)

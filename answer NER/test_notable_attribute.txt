@@ -1,0 +1,120 @@
+read training data answer
+Answer Number:  1
+FREEBASING: xylem
+NOTABLE:  {u'name': u'Organization leader', u'id': u'/business/board_member'}
+NAME:  Organization leader
+ID:  /business/board_member
+
+NOTABLE:  {u'name': u'Intelligent dance Artist', u'id': u'/m/0kz10'}
+NAME:  Intelligent dance Artist
+ID:  /m/0kz10
+
+NOTABLE:  {u'name': u'Politician', u'id': u'/government/politician'}
+NAME:  Politician
+ID:  /government/politician
+
+Answer Number:  2
+FREEBASING: b-type_main-sequence_star
+NOTABLE:  {u'name': u'Astronomer', u'id': u'/astronomy/astronomer'}
+NAME:  Astronomer
+ID:  /astronomy/astronomer
+
+Answer Number:  3
+FREEBASING: chromatic_aberration
+NOTABLE:  {u'name': u'Physicist', u'id': u'/m/05snw'}
+NAME:  Physicist
+ID:  /m/05snw
+
+NOTABLE:  {u'name': u'Lawyer', u'id': u'/m/04gc2'}
+NAME:  Lawyer
+ID:  /m/04gc2
+
+NOTABLE:  {u'name': u'Architect', u'id': u'/architecture/architect'}
+NAME:  Architect
+ID:  /architecture/architect
+
+Answer Number:  4
+FREEBASING: jihad
+NOTABLE:  {u'name': u'Person', u'id': u'/people/person'}
+NAME:  Person
+ID:  /people/person
+
+NOTABLE:  {u'name': u'Politician', u'id': u'/m/0fj9f'}
+NAME:  Politician
+ID:  /m/0fj9f
+
+NOTABLE:  {u'name': u'Politician', u'id': u'/m/0fj9f'}
+NAME:  Politician
+ID:  /m/0fj9f
+
+Answer Number:  5
+FREEBASING: aegis
+NOTABLE:  {u'name': u'Sailor', u'id': u'/m/016wtf'}
+NAME:  Sailor
+ID:  /m/016wtf
+
+NOTABLE:  {u'name': u'TV Director', u'id': u'/tv/tv_director'}
+NAME:  TV Director
+ID:  /tv/tv_director
+
+NOTABLE:  {u'name': u'Voice actor', u'id': u'/m/0np9r'}
+NAME:  Voice actor
+ID:  /m/0np9r
+
+Answer Number:  6
+FREEBASING: inca_empire
+NOTABLE:  {u'name': u'Military Commander', u'id': u'/military/military_commander'}
+NAME:  Military Commander
+ID:  /military/military_commander
+
+NOTABLE:  {u'name': u'Deceased Person', u'id': u'/people/deceased_person'}
+NAME:  Deceased Person
+ID:  /people/deceased_person
+
+NOTABLE:  {u'name': u'Deceased Person', u'id': u'/people/deceased_person'}
+NAME:  Deceased Person
+ID:  /people/deceased_person
+
+Answer Number:  7
+FREEBASING: cyprus
+NOTABLE:  {u'name': u'Actor', u'id': u'/m/02hrh1q'}
+NAME:  Actor
+ID:  /m/02hrh1q
+
+NOTABLE:  {u'name': u'Military Commander', u'id': u'/military/military_commander'}
+NAME:  Military Commander
+ID:  /military/military_commander
+
+NOTABLE:  {u'name': u'Monarch', u'id': u'/royalty/monarch'}
+NAME:  Monarch
+ID:  /royalty/monarch
+
+Answer Number:  8
+FREEBASING: lawrence_livermore_national_laboratory
+NOTABLE:  {u'name': u'Physicist', u'id': u'/m/05snw'}
+NAME:  Physicist
+ID:  /m/05snw
+
+NOTABLE:  {u'name': u'Man', u'id': u'/m/05zppz'}
+NAME:  Man
+ID:  /m/05zppz
+
+NOTABLE:  {u'name': u'Physicist', u'id': u'/m/05snw'}
+NAME:  Physicist
+ID:  /m/05snw
+
+Answer Number:  9
+FREEBASING: norovirus
+NOTABLE:  {u'name': u'TV Writer', u'id': u'/tv/tv_writer'}
+NAME:  TV Writer
+ID:  /tv/tv_writer
+
+NOTABLE:  {u'name': u'Professional Association Football Player', u'id': u'/m/02vx4'}
+NAME:  Professional Association Football Player
+ID:  /m/02vx4
+
+NOTABLE:  {u'name': u'Academic', u'id': u'/education/academic'}
+NAME:  Academic
+ID:  /education/academic
+
+wrote 5489 answer types
