@@ -37,7 +37,6 @@ def answer_position_in_guesses(guesses, answer):
     index values go from 0 to n-1,
     position values go from 1 to n
     0 (zero) is returned if the answer was not found in the guesses
-
     comment: this is useful for the training set, usefulness in test code is yet to be determined
     """
     pos = 0
@@ -75,3 +74,4 @@ def split_question_sents(text, num_expected):
         raw_input()
 
     return sents
+    type(sents)
