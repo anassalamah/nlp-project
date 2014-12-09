@@ -2,7 +2,7 @@ NLP-Project
 ===========
 Members: Anas Salamah, Jordan Hoskins, Nick Farrow
 
-Project Proposal: https://docs.google.com/document/d/1x34VXmbU3Hr0deV65aqz5kN6jJbPxMDYg72f9zURHZw/edit?usp=sharing
+Project Proposal: https://docs.google.com/document/d/1gp4Rewl7RtcmC2mRnU7SY7rK689tZwsBWrUZ2guCPUg/edit
 
 TODO List
 ===========
@@ -26,22 +26,22 @@ No sentence information will be used for this initial guess, Naive Bayes is used
 
 * [DONE] Take a .csv list of all possible answers (wiki_links.csv) and output a new .csv file with a column for PERSON (boolean) based on freebase results
 (output is in csv/answer_ner.csv)
-* [ANAS] Take a .csv list of all possible answers (1) and output a new .csv file(for each category person/thing/group)) with a column ["Description" (String),"Domain" (String)] containing summary text output and a domain like ['Morach', 'US President','military Comamander','city','democratic party', 'United States presidential election, 2004',...] for the top three for an answer"
-(output is in csv/answer_ner2.csv)
+* [DONE] Take a .csv list of all possible answers (1) and output two new csv files, person_info.csv and non_person_info.csv, with columns ["Description" (String),"Specific type" (String), "General type (String)] containing summary text output and a domain like ['Morach', 'US President','military Comamander','city','democratic party', 'United States presidential election, 2004',...]"
+(output is in csv/person_info.csv and non_person_info.csv)
 
 * [OPEN] Take input (1) list of words and (2) wikipedia link guess -> open associated wikipeida article text file, return a SCORE for the article based on if the words from the list appear in the article.
 
 * [ANAS] same thing as one above but use description text and domains to guess answer
 
-* [ANAS] Take a question text block and assign a probability of it asking for a PERSON. (figure out from the question text based on pronouns in the text)
-(Need help on this one. I am working on this in (answer NER/answer_ner_compare.py), specifically in find_type_pronoun_probability(pronouns,pronoun_type, vocab_size)
+* [ANAS][ISSUE] Take a question text block and assign a probability of it asking for a PERSON. (figure out from the question text based on pronouns in the text)
+(I'm not sure where to put "which","that" in the three categories. I am working on this in (answer NER/answer_ner_compare.py), specifically in find_type_pronoun_probability(pronouns,pronoun_type, vocab_size)
 (the reason this is work is in answer NER is because I want to create an output file that can show us both the original answer set and the new one)
 
 * [DONE] Verify that the list of pronouns we are checking is complete (exhaustive) list.
 (verified and here is the list:
-person_pronouns = ['he','him','his','she','her','hers','himself','herself','each other',"each other's", 'one another', "one another's",'who','whoever','whomever','whom','which','whose','that'] 
-thing_pronouns = ["it", "that", "its", "who", "whose"]
-group_pronouns= ['they", "them", "their", theirs','that'])
+person_pronouns = ['he','him','his','she','her','hers','himself','herself','each other',"each other's", 'one another', "one another's",'who','whoever','whomever','whom','whose'] 
+thing_pronouns = ["it", "its", "who"]
+group_pronouns= ['they", "them", "their", theirs'])
 
 * [OPEN] Go through unidentified links file (unidentified_links.csv) and try to correct the guess.  Otherwise, these are the links for which we will not have wikipeida data.
 
