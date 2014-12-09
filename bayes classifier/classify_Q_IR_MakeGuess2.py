@@ -3,16 +3,18 @@ from csv import DictReader, DictWriter
 
 import nltk
 from nltk.corpus import wordnet as wn
-from nltk.tokenize import TreebankWordTokenizer
+from nltk.tokenize import TreebankWordTokenizer, word_tokenize
 
 from nltk import FreqDist
 import re
 import string
+import random
 
 kTOKENIZER = TreebankWordTokenizer()
 person_pronouns = ['he','him','his','she','her','hers','himself','herself','each other',"each other's", 'one another', "one another's",'who','whoever','whomever','whom','whose'] 
 thing_pronouns = ["it", "its"]
 group_pronouns= ['they", "them", "their", theirs']
+all_pronouns = person_pronouns + thing_pronouns + group_pronouns
 
 """ train fields:
 Question ID,
@@ -45,34 +47,37 @@ def top_guess(guesses):
     return (key, float(val))
 
 def find_pronouns(text):
-    pronouns = re.findall("he | him | his | she | her | hers | himself | herself | each other | each other's | one another | one another's | who | whoever | whomever | whom | which | whose | that", text)
-    pronouns = pronouns + re.findall(" they | them | their | theirs | that", text)
-    pronouns = pronouns + re.findall(" it | that | its | who | whose", text)
-
-    clean_pronouns = []
-    for i in pronouns:
-        clean_pronouns = clean_pronouns + [i.strip()]
-
-    return clean_pronouns
+    tokens = word_tokenize(text)
+    print tokens
+    pronouns  = []
+    for i in tokens:
+        if i in all_pronouns:
+            pronouns.append(i)
+    print pronouns
+    return pronouns
 
 
 def features(case):
     d = defaultdict()
     d["category"] = case['category']
-    d["Sentence Position"] = case['Sentence Position']
-    d["pronouns"] = str(find_pronouns(case['Question Text']))
-    d["cleaned QANTA answers"] = str(clean_guesses(ii['QANTA Scores'], d["pronouns"]))
-    d["cleaned IR_WIKI answers"] = str(clean_guesses(ii['IR_Wiki Scores'], d["pronouns"]))    
-                                
+    d["Sentence Position"] = case['Sentence Position']                          
     return d
 
+def most_common_pronoun(pronouns):
+    """
+    return the most common pronoun,
+    and in the case of many having the same count return the first one
+    """
+    if pronouns:
+        pronouns = max(set(pronouns), key= lambda x: (pronouns.count, -pronouns.index(x)))
+        
+    return pronouns
 
 def clean_guesses(guesses, pronouns):
     
     
     # give me the most common pronoun only
-    if pronouns:
-        pronouns = max(set(pronouns), key=pronouns.count)
+    pronouns = most_common_pronoun(pronouns)
 
     if pronouns in person_pronouns:
         # Read in person INFO
@@ -100,6 +105,7 @@ def clean_guesses(guesses, pronouns):
     #print ""
     """ remove last ', ' """
     new_guesses = new_guesses[:-2]
+    print new_guesses
     return new_guesses          
         
     
@@ -121,31 +127,36 @@ if __name__ == "__main__":
     for ii in train:
         train_examples += 1
         print "TRAIN: ", train_examples
+        Question_text = ii['Question Text']
+        QANTA_scores = ii['QANTA Scores']
+        IR_Wiki_scores = ii['IR_Wiki Scores']
+        answer = ii['Answer']
+        print Question_text
         feat = features(ii)
         #print ii['Question Text']
-        pronouns = find_pronouns(ii['Question Text']) 
-
-        QANTA_clean_guesses = clean_guesses(ii['QANTA Scores'], pronouns)
-        if QANTA_clean_guesses:
-            Q_guess, Q_confidence = top_guess(QANTA_clean_guesses)
+        pronouns = find_pronouns(Question_text) 
+        print "QANTA: "
+        QANTA_clean_scores = clean_guesses(QANTA_scores, pronouns)
+        if QANTA_clean_scores:
+            Q_guess, Q_confidence = top_guess(QANTA_clean_scores)
         else:
             print "CLEAN QANTA GUESSES WERE EMPTY"
-            Q_guess, Q_confidence = top_guess(ii['QANTA Scores'])
-
-        IR_Wiki_clean_guesses = clean_guesses(ii['IR_Wiki Scores'], pronouns)
-        if IR_Wiki_clean_guesses:
-            IR_guess, IR_confidence = top_guess(IR_Wiki_clean_guesses)
+            Q_guess, Q_confidence = top_guess(QANTA_scores)
+        print "IR_WIKI: "
+        IR_Wiki_clean_scores = clean_guesses(IR_Wiki_scores, pronouns)
+        if IR_Wiki_clean_scores:
+            IR_guess, IR_confidence = top_guess(IR_Wiki_clean_scores)
         else:
             print "CLEAN IR GUESSES WERE EMPTY"
-            IR_guess, IR_confidence = top_guess(ii['IR_Wiki Scores'])
+            IR_guess, IR_confidence = top_guess(IR_Wiki_scores)
 
-        if Q_guess == ii['Answer']:
+        if Q_guess == answer:
             correct = 'right'
         else:
             correct = 'wrong'
         Q_train.append((feat, correct))
 
-        if IR_guess == ii['Answer']:
+        if IR_guess == answer:
             correct = 'right'
         else:
             correct = 'wrong'
@@ -177,22 +188,26 @@ if __name__ == "__main__":
     for ii in test:
         test_examples += 1
         print "TEST: ", test_examples
+        Question_text = ii['Question Text']
+        QANTA_scores = ii['QANTA Scores']
+        IR_Wiki_scores = ii['IR_Wiki Scores']
         feat = features(ii)
-        pronouns = find_pronouns(ii['Question Text']) 
-
-        QANTA_clean_guesses = clean_guesses(ii['QANTA Scores'], pronouns)
-        if QANTA_clean_guesses:
-            Q_guess, Q_confidence = top_guess(QANTA_clean_guesses)
+        print Question_text
+        pronouns = find_pronouns(Question_text) 
+        print "QANTA: "
+        QANTA_clean_scores = clean_guesses(QANTA_scores, pronouns)
+        if QANTA_clean_scores:
+            Q_guess, Q_confidence = top_guess(QANTA_clean_scores)
         else:
             print "CLEAN QANTA GUESSES WERE EMPTY"
-            Q_guess, Q_confidence = top_guess(ii['QANTA Scores'])
-
-        IR_Wiki_clean_guesses = clean_guesses(ii['IR_Wiki Scores'], pronouns)
-        if IR_Wiki_clean_guesses:
-            IR_guess, IR_confidence = top_guess(IR_Wiki_clean_guesses)
+            Q_guess, Q_confidence = top_guess(QANTA_scores)
+        print "IR_WIKI: "
+        IR_Wiki_clean_scores = clean_guesses(IR_Wiki_scores, pronouns)
+        if IR_Wiki_clean_scores:
+            IR_guess, IR_confidence = top_guess(IR_Wiki_clean_scores)
         else:
             print "CLEAN IR GUESSES WERE EMPTY"
-            IR_guess, IR_confidence = top_guess(ii['IR_Wiki Scores'])
+            IR_guess, IR_confidence = top_guess(IR_Wiki_scores)
 
         Q_pred = Q_classifier.classify(feat)
         Q_prob_dist = Q_classifier.prob_classify(feat)
