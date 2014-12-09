@@ -120,37 +120,36 @@ if __name__ == "__main__":
     
     for ii in train:
         train_examples += 1
-        if train_examples > 8159:
-            print "TRAIN: ", train_examples
-            feat = features(ii)
-            #print ii['Question Text']
-            pronouns = find_pronouns(ii['Question Text']) 
+        print "TRAIN: ", train_examples
+        feat = features(ii)
+        #print ii['Question Text']
+        pronouns = find_pronouns(ii['Question Text']) 
 
-            QANTA_clean_guesses = clean_guesses(ii['QANTA Scores'], pronouns)
-            if QANTA_clean_guesses:
-                Q_guess, Q_confidence = top_guess(QANTA_clean_guesses)
-            else:
-                print "CLEAN QANTA GUESSES WERE EMPTY"
-                Q_guess, Q_confidence = top_guess(ii['QANTA Scores'])
+        QANTA_clean_guesses = clean_guesses(ii['QANTA Scores'], pronouns)
+        if QANTA_clean_guesses:
+            Q_guess, Q_confidence = top_guess(QANTA_clean_guesses)
+        else:
+            print "CLEAN QANTA GUESSES WERE EMPTY"
+            Q_guess, Q_confidence = top_guess(ii['QANTA Scores'])
 
-            IR_Wiki_clean_guesses = clean_guesses(ii['IR_Wiki Scores'], pronouns)
-            if IR_Wiki_clean_guesses:
-                IR_guess, IR_confidence = top_guess(IR_Wiki_clean_guesses)
-            else:
-                print "CLEAN IR GUESSES WERE EMPTY"
-                IR_guess, IR_confidence = top_guess(ii['IR_Wiki Scores'])
+        IR_Wiki_clean_guesses = clean_guesses(ii['IR_Wiki Scores'], pronouns)
+        if IR_Wiki_clean_guesses:
+            IR_guess, IR_confidence = top_guess(IR_Wiki_clean_guesses)
+        else:
+            print "CLEAN IR GUESSES WERE EMPTY"
+            IR_guess, IR_confidence = top_guess(ii['IR_Wiki Scores'])
 
-            if Q_guess == ii['Answer']:
-                correct = 'right'
-            else:
-                correct = 'wrong'
-            Q_train.append((feat, correct))
+        if Q_guess == ii['Answer']:
+            correct = 'right'
+        else:
+            correct = 'wrong'
+        Q_train.append((feat, correct))
 
-            if IR_guess == ii['Answer']:
-                correct = 'right'
-            else:
-                correct = 'wrong'
-            IR_train.append((feat, correct))
+        if IR_guess == ii['Answer']:
+            correct = 'right'
+        else:
+            correct = 'wrong'
+        IR_train.append((feat, correct))
 
 
         if debug == 1:
@@ -177,36 +176,35 @@ if __name__ == "__main__":
 
     for ii in test:
         test_examples += 1
-        if test_examples < 20:
-            print "TEST: ", test_examples
-            feat = features(ii)
-            pronouns = find_pronouns(ii['Question Text']) 
-                    
-            QANTA_clean_guesses = clean_guesses(ii['QANTA Scores'], pronouns)
-            if QANTA_clean_guesses:
-                Q_guess, Q_confidence = top_guess(QANTA_clean_guesses)
-            else:
-                print "CLEAN QANTA GUESSES WERE EMPTY"
-                Q_guess, Q_confidence = top_guess(ii['QANTA Scores'])
+        print "TEST: ", test_examples
+        feat = features(ii)
+        pronouns = find_pronouns(ii['Question Text']) 
 
-            IR_Wiki_clean_guesses = clean_guesses(ii['IR_Wiki Scores'], pronouns)
-            if IR_Wiki_clean_guesses:
-                IR_guess, IR_confidence = top_guess(IR_Wiki_clean_guesses)
-            else:
-                print "CLEAN IR GUESSES WERE EMPTY"
-                IR_guess, IR_confidence = top_guess(ii['IR_Wiki Scores'])
+        QANTA_clean_guesses = clean_guesses(ii['QANTA Scores'], pronouns)
+        if QANTA_clean_guesses:
+            Q_guess, Q_confidence = top_guess(QANTA_clean_guesses)
+        else:
+            print "CLEAN QANTA GUESSES WERE EMPTY"
+            Q_guess, Q_confidence = top_guess(ii['QANTA Scores'])
 
-            Q_pred = Q_classifier.classify(feat)
-            Q_prob_dist = Q_classifier.prob_classify(feat)
-            IR_pred = IR_classifier.classify(feat)
-            IR_prob_dist = IR_classifier.prob_classify(feat)
+        IR_Wiki_clean_guesses = clean_guesses(ii['IR_Wiki Scores'], pronouns)
+        if IR_Wiki_clean_guesses:
+            IR_guess, IR_confidence = top_guess(IR_Wiki_clean_guesses)
+        else:
+            print "CLEAN IR GUESSES WERE EMPTY"
+            IR_guess, IR_confidence = top_guess(ii['IR_Wiki Scores'])
 
-            if Q_prob_dist.prob('right') > IR_prob_dist.prob('right'):
-                best_guess = Q_guess
-            else:
-                best_guess = IR_guess
-        
-            o.writerow({'Question ID': ii['Question ID'], 'Answer': best_guess})
+        Q_pred = Q_classifier.classify(feat)
+        Q_prob_dist = Q_classifier.prob_classify(feat)
+        IR_pred = IR_classifier.classify(feat)
+        IR_prob_dist = IR_classifier.prob_classify(feat)
+
+        if Q_prob_dist.prob('right') > IR_prob_dist.prob('right'):
+            best_guess = Q_guess
+        else:
+            best_guess = IR_guess
+
+        o.writerow({'Question ID': ii['Question ID'], 'Answer': best_guess})
 
     print "made", test_examples, "guesses"
 
