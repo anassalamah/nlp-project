@@ -34,13 +34,13 @@ person_pronouns = ['he','him','his','she','her','hers','himself','herself','each
 thing_pronouns = ["it", "its", "who"]
 group_pronouns= ['they", "them", "their", theirs'])
 
+* [DONE] Take a question text block and identify all interesting words for the bag-of-words match (e.g. just throw out stopwords), return interesting words as a list.
+
+* [DONE] Take interesting word list, save as test/train_nostopwords.csv
+
 * [NICK] Take input (1) list of words and (2) wikipedia link guess -> open associated wikipeida article text file, return a SCORE for the article based on if the words from the list appear in the article.
 
 * [ANAS] Take input (1) list of words and (2) description text and domains, return a SCORE (?).
-
-* [DONE] Take a question text block and identify all interesting words for the bag-of-words match (e.g. just throw out stopwords), return interesting words as a list.
-
-* [NICK] Take interesting word list, save as questions_nostopwords.csv
 
 * [NICK] Write python script to evaluate our performance on test cases, produce report on how we are failing.
 
