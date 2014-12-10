@@ -22,7 +22,6 @@ No sentence information will be used for this initial guess, Naive Bayes is used
 
 * [DONE] Break Wikipedia articles into separate pages (except for about 50 missing ones, use look up table to find the filename to read for a given guess)
 
-
 * [DONE] Take a .csv list of all possible answers (wiki_links.csv) and output a new .csv file with a column for PERSON (boolean) based on freebase results
 (output is in csv/answer_ner.csv)
 
@@ -39,7 +38,11 @@ group_pronouns= ['they", "them", "their", theirs'])
 
 * [ANAS] Take input (1) list of words and (2) description text and domains, return a SCORE (?).
 
-* [JORDAN] Take a question text block and identify all interesting words for the bag-of-words match (e.g. just throw out stopwords), return interesting words as a list.
+* [DONE] Take a question text block and identify all interesting words for the bag-of-words match (e.g. just throw out stopwords), return interesting words as a list.
+
+* [NICK] Take interesting word list, save as questions_nostopwords.csv
+
+* [NICK] Write python script to evaluate our performance on test cases, produce report on how we are failing.
 
 * [ANAS][ISSUE] Take a question text block and assign a probability of it asking for a PERSON. (figure out from the question text based on pronouns in the text)
 (I'm not sure where to put "which","that" in the three categories. I am working on this in (answer NER/answer_ner_compare.py), specifically in find_type_pronoun_probability(pronouns,pronoun_type, vocab_size)
