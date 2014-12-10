@@ -17,7 +17,7 @@ def get_topics_list_bracketed(text):
             good_results += [result]
     return good_results
 
-outfile = DictWriter(open('corrected_found_links2.csv', 'w'), ['search','found','file num'], lineterminator='\n')
+outfile = DictWriter(open('corrected_found_links.csv', 'w'), ['search','found','file num'], lineterminator='\n')
 outfile.writeheader()
 
 wiki_links = DictReader(open("wiki_links.csv", 'r'))
@@ -46,6 +46,7 @@ for filename in os.listdir("../"):
                 wiki_links_to_find_LOWER.remove(topic_no_bracket_in_LOWER)
                 outfile.writerow({'search': topic_no_bracket_in_LOWER.replace(" ","_"), \
                                   'found': topic[2:len(topic)-2], 'file num': file_num})
+                print "found:", topic[2:len(topic)-2]
 
     #break
 

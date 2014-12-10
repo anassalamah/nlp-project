@@ -44,11 +44,11 @@ debug = 0
 if __name__ == "__main__":
 
     # Counter() is like defaultdict()
-    all_link_dict = Counter()
-    Q_link_dict = Counter()
-    IR_link_dict = Counter()
-    test_link_dict = Counter()
-    train_link_dict = Counter()
+    all_link_dict = defaultdict(int)
+    Q_link_dict = defaultdict(int)
+    IR_link_dict = defaultdict(int)
+    test_link_dict = defaultdict(int)
+    train_link_dict = defaultdict(int)
 
     #print "read training data"
     train = DictReader(open("../train.csv", 'r'))
@@ -58,7 +58,6 @@ if __name__ == "__main__":
     for ii in train:
         train_examples += 1
                     
-        #links = find_links(ii['QANTA Scores'])
         links = guess_list(ii['QANTA Scores'])
         for jj in links:
             #print jj
@@ -66,7 +65,6 @@ if __name__ == "__main__":
             Q_link_dict[jj] += 1
             train_link_dict[jj] += 1
             
-        #links = find_links(ii['IR_Wiki Scores'])
         links = guess_list(ii['IR_Wiki Scores'])
         for jj in links:
             #print jj
@@ -84,24 +82,22 @@ if __name__ == "__main__":
     for ii in test:
         test_examples += 1
         
-        # actually want to get all the words
-        links = find_links(ii['QANTA Scores'])
+        links = guess_list(ii['QANTA Scores'])
         for jj in links:
-            #print jj
             all_link_dict[jj] += 1
             Q_link_dict[jj] += 1
             test_link_dict[jj] += 1
             
-        # actually want to get all the words
-        links = find_links(ii['IR_Wiki Scores'])
+        links = guess_list(ii['IR_Wiki Scores'])
         for jj in links:
-            #print jj
             all_link_dict[jj] += 1
             IR_link_dict[jj] += 1
             test_link_dict[jj] += 1
+
             
     # Create File for writing
-    o = DictWriter(open('wiki_links.csv', 'w'), ['link','allcount','QANTA','IR_Wiki','train','test'], lineterminator='\n')
+    outfile = open('wiki_links.csv', 'w')
+    o = DictWriter(outfile, ['link','allcount','QANTA','IR_Wiki','train','test'], lineterminator='\n')
     o.writeheader()
 
     # if want to get rid of underscores: key_spaced = replace(key,"_"," ")
@@ -115,4 +111,7 @@ if __name__ == "__main__":
                     'test': test_link_dict[key], \
                     })
 
+    outfile.close()
+
+    print "train examples:", train_examples, "test examples:", test_examples
     print "DONE"
