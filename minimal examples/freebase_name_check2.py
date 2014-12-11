@@ -44,9 +44,9 @@ def search_for_person_freebase(link):
 if __name__ == "__main__":
 
     word_list = ["erlking", "portugal","peter the great","paraguay","samuel gompers","ethiopia","amerigo vespucci", \
-             "douglas macarthur","suez crisis","oda nobunaga","jamaica","finland","henry the navigator", \
-             "christopher columbus","emiliano zapata","vitus bering","samuel de champlain", \
-             "charles de gaulle","gamal abdel nasser","haile selassie","mali empire"]
+             #"douglas macarthur","suez crisis","oda nobunaga","jamaica","finland","henry the navigator", \
+             #"christopher columbus","emiliano zapata","vitus bering","samuel de champlain", \
+             "charles de gaulle","gamal abdel nasser","haile selassie","mali empire","meiosis"]
 
     for word in word_list:
         search_for_person_freebase(word)

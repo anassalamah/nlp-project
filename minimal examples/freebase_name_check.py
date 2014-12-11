@@ -15,8 +15,10 @@ def is_person(possible_name):
     freebase_server = "https://www.googleapis.com/freebase/v1/search"
     params = {
             "key": FREEBASE_KEY,
-            "query": possible_name,
-            "filter": "(any type:/people/person)"
+            #"query": possible_name,
+            "query": possible_name
+            #"filter": "(any type:/people/person)"
+            #"filter": "(any type:/person)"
         }
 
     url = freebase_server + '?' + urllib.urlencode(params)
@@ -35,11 +37,14 @@ def is_person(possible_name):
 
 if __name__ == "__main__":
 
-    word_list = ["portugal","peter the great","paraguay","samuel gompers","ethiopia","amerigo vespucci", \
-             "douglas macarthur","suez crisis","oda nobunaga","jamaica","finland","henry the navigator", \
-             "christopher columbus","emiliano zapata","vitus bering","samuel de champlain", \
-             "charles de gaulle","gamal abdel nasser","haile selassie","mali empire"]
+    word_list = ["meiosis","mali empire"]
 
+    """
+    portugal","peter the great","paraguay","samuel gompers","ethiopia","amerigo vespucci", \
+    "douglas macarthur","suez crisis","oda nobunaga","jamaica","finland","henry the navigator", \
+    "christopher columbus","emiliano zapata","vitus bering","samuel de champlain", \
+    "charles de gaulle","gamal abdel nasser","haile selassie"
+    """
     for word in word_list:
         is_person(word)
 

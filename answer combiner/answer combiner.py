@@ -53,7 +53,7 @@ if __name__ == "__main__":
     if USE_TRAIN:
         print "going with training data"
         #data = DictReader(open("../trainGOOD.csv", 'r'))
-        data = DictReader(open("../train.csv", 'r'))
+        data = DictReader(open("../csv/train.csv", 'r'))
         #data = DictReader(open("../train_SS3.csv", 'r'))
         outfile_name = "train Combined Scores.csv"
         correct_choice = 0
