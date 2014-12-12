@@ -39,8 +39,8 @@ def guess_score_dict(guesses):
     
     return d
 
-WRITE_FILE = 0
-USE_TRAIN = 1
+WRITE_FILE = 1
+USE_TRAIN = 0
 NORMALIZE_OUTPUT_SCORE = 1
 # alpha value has been optimized to give best rate on training = 0.751838235294
 # best found alpha = 0.3
@@ -64,13 +64,13 @@ if __name__ == "__main__":
         
     else:
         print "going with test data"
-        data = DictReader(open("../test.csv", 'r'))
+        data = DictReader(open("../csv/test.csv", 'r'))
         outfile_name = "test Combined Scores.csv"
 
     if WRITE_FILE:
         # Create File for combined scores
         outfile = open(outfile_name, 'w')
-        o = DictWriter(outfile, ['Question ID','Scores'], lineterminator='\n')
+        o = DictWriter(outfile, ['Question ID','Sentence Position','Scores'], lineterminator='\n')
         o.writeheader()
     
 
@@ -149,7 +149,7 @@ if __name__ == "__main__":
         #print out_line
         
         if WRITE_FILE:
-            o.writerow({'Question ID': ii['Question ID'], 'Scores': out_line})
+            o.writerow({'Question ID': ii['Question ID'], 'Sentence Position': ii['Sentence Position'], 'Scores': out_line})
 
     if USE_TRAIN:
         rate = float(correct_choice)/data_examples
