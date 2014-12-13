@@ -12,14 +12,14 @@ import random
 from random import shuffle
 
 # VARIABLES:
-NUM_TRAIN_ITERATIONS = 25
+NUM_TRAIN_ITERATIONS = 10
 PRINT_OUTPUT_TABLE = 1
 NUM_TO_SCREEN_PRINT = 100
 
 USE_VALIDATION = 1 # NOT IMPLEMENTED
 USE_TEST_AND_WRITE_OUTPUT = 1
 
-VALIDATION_FRACTION_ONE_OUT_OF = 10
+VALIDATION_FRACTION_ONE_OUT_OF = 5
 
 def print_table(pdists, tagged_guess_list, print_num = 'all'):
     #ll = [pdist.logprob(gold) for ((name, gold), pdist) in zip(test_list, pdists)]
