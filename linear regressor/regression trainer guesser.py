@@ -16,7 +16,7 @@ PRINT_OUTPUT_TABLE = 1
 NUM_TO_SCREEN_PRINT = 30
 
 USE_TRAIN = 1
-USE_TEST_WRITE_OUT = 0
+USE_TEST_WRITE_OUT = 1
 
 def print_table(pdists, tagged_guess_list, print_num = 'all'):
     #ll = [pdist.logprob(gold) for ((name, gold), pdist) in zip(test_list, pdists)]
@@ -111,11 +111,11 @@ prob_percent = sum([pdist.prob('correct') for pdist in pdists])/len(pdists)
 print "percent claim as correct:", prob_percent
 
 if USE_TEST_WRITE_OUT:
+    print "Going to use test files"
     data = DictReader(open("features_DEV_test.csv", 'r'))
-    #train_input = [(features(name), gender) for (name,gender) in train_list] # this is list of elements of <type 'tuple'>
     test_input = []
-    test_names = []
-    test_numbers = []
+    test_guesses = []
+    test_ID = []
     """
     'Question ID'
     'Sentence Position'
@@ -134,23 +134,15 @@ if USE_TEST_WRITE_OUT:
 
     pdists = classifier.prob_classify_many(test_input)
 
-    #if PRINT_OUTPUT_TABLE:
-    #    print_table(pdists, test_subset, NUM_TO_SCREEN_PRINT)
-
-    outfile_name = "test_guesses_DEV.csv"
+    outfile_name = "test_guesses_POLYLINE.csv"
     outfile = open(outfile_name, 'w')
-    #o = DictWriter(outfile, ['Question ID','Scores'], lineterminator='\n')
     o = DictWriter(outfile, ['Question ID','Answer','Prob'], lineterminator='\n')
     o.writeheader()
 
     for i in range(len(pdists)):
-        #print test_numbers[i], test_names[i], pdists[i].prob('female')
         o.writerow({'Question ID': test_ID[i], \
                     'Answer': test_guesses[i], \
                     'Prob': pdists[i].prob('correct') })
-
-#    test_acc = sum([pdist.prob('female') for pdist in pdists])/len(pdists)
-#    print "percent female:", test_acc
 
     outfile.close() 
 
