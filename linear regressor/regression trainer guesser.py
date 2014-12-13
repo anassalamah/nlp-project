@@ -9,6 +9,7 @@ from csv import DictReader, DictWriter
 # for names_demo:
 from nltk.corpus import names
 import random
+from random import shuffle
 
 # VARIABLES:
 NUM_TRAIN_ITERATIONS = 25
