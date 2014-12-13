@@ -16,7 +16,7 @@ WRITE_FILE = 1
 COLLECT_ONE_OUT_OF = 1 
 
 # number of wrong answers for each question to include:
-NUM_BAD_ANSWERS = 100
+NUM_BAD_ANSWERS = 20
 
 def guess_score_dict(guesses):
     """

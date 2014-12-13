@@ -69,18 +69,24 @@ train_input_guesses = []
 'join score'
 'category'
 """
+num_read = 0
+print "guess how many?"
 for ii in data:
-    correct = 'correct' if ii['is correct'] == '1' else 'wrong'
-    #print ii['Question ID'], correct
-    feat_dict = dict()
-    feat_dict['BIAS'] = float(1)
-    feat_dict['Q score'] = float(ii['Q score'])
-    feat_dict['IR score'] = float(ii['IR score'])
-    feat_dict['join score'] = float(ii['join score'])
-    feat_dict['Sentence Position'] = float(ii['Sentence Position'])
-    feat_dict['category'] = ii['category']
-    train_input = train_input + [(feat_dict,correct)]
-    train_input_guesses = train_input_guesses + [(ii['Question ID'], ii['Sentence Position'], ii['Answer'], ii['is correct'])]
+    num_read += 1
+    if random.random() > 0.6:
+        correct = 'correct' if ii['is correct'] == '1' else 'wrong'
+        #print ii['Question ID'], correct
+        feat_dict = dict()
+        feat_dict['BIAS'] = float(1)
+        feat_dict['Q score'] = float(ii['Q score'])
+        feat_dict['IR score'] = float(ii['IR score'])
+        feat_dict['join score'] = float(ii['join score'])
+        feat_dict['Sentence Position'] = float(ii['Sentence Position'])
+        feat_dict['category'] = ii['category']
+        train_input = train_input + [(feat_dict,correct)]
+        train_input_guesses = train_input_guesses + [(ii['Question ID'], ii['Sentence Position'], ii['Answer'], ii['is correct'])]
+    if num_read % 1000 == 0:
+        print num_read, "/ 171000"
 
 if USE_VALIDATION:
     print "you want to validate, great. This is always on, you have no choice."
@@ -95,6 +101,7 @@ validation_subset_guesses = []
 
 input_size = len(train_input)
 
+print "Shuffle input"
 shuffle(train_input)
 
 val_size = input_size/VALIDATION_FRACTION_ONE_OUT_OF
