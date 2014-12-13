@@ -81,10 +81,10 @@ if __name__ == "__main__":
     print "read training data answer"
     
     # Read in training data
-    answers = DictReader(open("wiki_links.csv", 'rU'))
+    answers = DictReader(open("../csv/wiki_links.csv", 'rU'))
     
     # Create File for predictions
-    output = DictWriter(open('person_info.csv', 'w'), ['Answer','Description', "Specific Type", "General Type"], lineterminator='\n')
+    output = DictWriter(open('person_info2.csv', 'w'), ['Answer','Description'], lineterminator='\n')
     output.writeheader()
     
     answer_counts = 0
@@ -100,14 +100,10 @@ if __name__ == "__main__":
                     if specific_type:
                         for ee in xrange(len(specific_type)):
                             output.writerow({'Answer': ii["link"], \
-                                                'Description': hit.encode('utf8'), \
-                                                 'Specific Type': specific_type[ee].encode('utf8'), \
-                                                 'General Type': general_type[ee].encode('utf8')})
+                                                'Description': hit.encode('utf8')})
                     else:
                                                output.writerow({'Answer': ii["link"], \
-                                                'Description': hit.encode('utf8'), \
-                                                 'Specific Type': "", \
-                                                 'General Type': "" })
+                                                'Description': hit.encode('utf8')})
                                             
     
    
