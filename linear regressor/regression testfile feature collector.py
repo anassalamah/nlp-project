@@ -36,6 +36,7 @@ test_data = DictReader(open(test_file_name, 'r'))
 Q_score_dict = defaultdict(float)
 IR_score_dict = defaultdict(float)
 sent_pos_dict = defaultdict(int)
+category_dict = defaultdict(str)
 for ii in test_data:
     Q_dict = guess_score_dict(ii['QANTA Scores'])
     for key in Q_dict.keys():
@@ -43,18 +44,18 @@ for ii in test_data:
     IR_dict = guess_score_dict(ii['IR_Wiki Scores'])
     for key in IR_dict.keys():
         IR_score_dict[(ii['Question ID'],key)] = IR_dict[key]
-    # category
+    category_dict[ii['Question ID']] = ii['category']
     sent_pos_dict[ii['Question ID']] = ii['Sentence Position'] # question len
     
 
 
-outfile_name = "features_DEV_test.csv"
+outfile_name = "features_test.csv"
     
 if WRITE_FILE:
     # Create File for combined scores
     outfile = open(outfile_name, 'w')
     #o = DictWriter(outfile, ['Question ID','Scores'], lineterminator='\n')
-    o = DictWriter(outfile, ['Question ID','Sentence Position','Answer','Q score','IR score'], lineterminator='\n')
+    o = DictWriter(outfile, ['Question ID','Sentence Position','Answer','Q score','IR score','join score','category'], lineterminator='\n')
     o.writeheader()
 
 num_examples = 0
@@ -76,16 +77,18 @@ for ii in joined_data:
         Q_score = Q_score_dict[(Q_ID,guess)]
         IR_score = IR_score_dict[(Q_ID,guess)]
         sent_pos = sent_pos_dict[Q_ID]
+        category = category_dict[Q_ID]
     
         if WRITE_FILE:
             o.writerow({'Question ID': Q_ID, \
                         'Sentence Position': sent_pos, \
                         'Answer': guess, \
                         'Q score': Q_score, \
-                        'IR score': IR_score})
+                        'IR score': IR_score, \
+                        'join score': join_score, \
+                        'category': category})
 
 
-    
 if WRITE_FILE:
     print "wrote", num_examples, "lines"
     outfile.close()

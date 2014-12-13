@@ -11,12 +11,14 @@ from nltk.corpus import names
 import random
 
 # VARIABLES:
-NUM_TRAIN_ITERATIONS = 2
+NUM_TRAIN_ITERATIONS = 25
 PRINT_OUTPUT_TABLE = 1
-NUM_TO_SCREEN_PRINT = 30
+NUM_TO_SCREEN_PRINT = 100
 
-USE_TRAIN = 1
-USE_TEST_WRITE_OUT = 1
+USE_VALIDATION = 1 # NOT IMPLEMENTED
+USE_TEST_AND_WRITE_OUTPUT = 1
+
+VALIDATION_FRACTION_ONE_OUT_OF = 10
 
 def print_table(pdists, tagged_guess_list, print_num = 'all'):
     #ll = [pdist.logprob(gold) for ((name, gold), pdist) in zip(test_list, pdists)]
@@ -47,50 +49,77 @@ def print_table(pdists, tagged_guess_list, print_num = 'all'):
 
 trainer = MaxentClassifier.train    # <type 'instancemethod'>
 
-if USE_TRAIN:
-    data = DictReader(open("features_DEV_train.csv", 'r'))
-    #train_input = [(features(name), gender) for (name,gender) in train_list] # this is list of elements of <type 'tuple'>
-    train_input = []
-    train_input_guesses = []
-    """
-    'Question ID'
-    'Sentence Position'
-    'Answer'
-    'is correct'
-    'Q score'
-    'IR score'
-    """
-    for ii in data:
-        correct = 'correct' if ii['is correct'] == '1' else 'wrong'
-        #print ii['Question ID'], correct
-        feat_dict = dict()
-        feat_dict['Q score'] = ii['Q score']
-        feat_dict['IR score'] = ii['IR score']
-        train_input = train_input + [(feat_dict,correct)]
-        train_input_guesses = train_input_guesses + [(ii['Question ID'], ii['Sentence Position'], ii['Answer'], ii['is correct'])]
+#algorithm = nltk.classify.MaxentClassifier.ALGORITHMS[0] # UNKNOWN CODE
 
-    # Split off a validation subset:
-    train_subset = []
-    train_subset_guesses = []
-    validation_subset = []
-    validation_subset_guesses = []
+
+train_filename = "features_train.csv"
+print "Reading training file:", train_filename
+data = DictReader(open(train_filename, 'r'))
+
+train_input = []
+train_input_guesses = []
+"""
+'Question ID'
+'Sentence Position'
+'Answer'
+'is correct'
+'Q score'
+'IR score'
+'join score'
+'category'
+"""
+for ii in data:
+    correct = 'correct' if ii['is correct'] == '1' else 'wrong'
+    #print ii['Question ID'], correct
+    feat_dict = dict()
+    feat_dict['BIAS'] = float(1)
+    feat_dict['Q score'] = float(ii['Q score'])
+    feat_dict['IR score'] = float(ii['IR score'])
+    feat_dict['join score'] = float(ii['join score'])
+    feat_dict['Sentence Position'] = float(ii['Sentence Position'])
+    feat_dict['category'] = ii['category']
+    train_input = train_input + [(feat_dict,correct)]
+    train_input_guesses = train_input_guesses + [(ii['Question ID'], ii['Sentence Position'], ii['Answer'], ii['is correct'])]
+
+if USE_VALIDATION:
+    print "you want to validate, great. This is always on, you have no choice."
     
-    for i in range(len(train_input)):
-        if i % 7 == 0:
-            validation_subset = validation_subset + [train_input[i]]
-            validation_subset_guesses = validation_subset_guesses + [train_input_guesses[i]]
-        else:
-            train_subset = train_subset + [train_input[i]]
-            train_subset_guesses = train_subset_guesses + [train_input_guesses[i]]
+print "Splitting off validation set"
 
-    # TRAINING HERE:    
-    classifier = trainer(train_subset , max_iter = NUM_TRAIN_ITERATIONS)
+# Split off a validation subset:
+train_subset = []
+train_subset_guesses = []
+validation_subset = []
+validation_subset_guesses = []
 
-print "done train, WHAT"
+input_size = len(train_input)
 
-# Run the classifier on the test data.
-print('Testing classifier...')
+shuffle(train_input)
 
+val_size = input_size/VALIDATION_FRACTION_ONE_OUT_OF
+
+validation_subset = train_input[:val_size]
+validation_subset_guesses = train_input_guesses[:val_size]
+train_subset = train_input[val_size:]
+train_subset_guesses = train_input_guesses[val_size:]
+
+#for i in range(len(train_input)):
+#    if i % VALIDATION_FRACTION_ONE_OUT_OF == 0:
+#        validation_subset = validation_subset + [train_input[i]]
+#        validation_subset_guesses = validation_subset_guesses + [train_input_guesses[i]]
+#    else:
+#        train_subset = train_subset + [train_input[i]]
+#        train_subset_guesses = train_subset_guesses + [train_input_guesses[i]]
+
+print "Training on", len(train_subset), "examples"
+
+# TRAINING HERE:    
+#classifier = trainer(train_subset, max_iter=NUM_TRAIN_ITERATIONS) # DEFAULT ALGORITHM
+classifier = trainer(train_subset, algorithm='GIS', max_iter=NUM_TRAIN_ITERATIONS)
+print "done training"
+
+# Run the classifier on the validation data.
+print 'Validating classifier on ', len(validation_subset), "examples"
 
 acc = accuracy(classifier, validation_subset)
 print('Accuracy: %6.4f' % acc)
@@ -102,17 +131,25 @@ test_featuresets = [feat_d for (feat_d,g) in validation_subset]
 pdists = classifier.prob_classify_many(test_featuresets)
 
 if PRINT_OUTPUT_TABLE:
-    #print_table(pdists, validation_subset, NUM_TO_SCREEN_PRINT)
     print_table(pdists, validation_subset_guesses, NUM_TO_SCREEN_PRINT)
+
+    print "WEIGHTS:"
+    print classifier.weights()
+
+    print "MOST INTERESTING FEATURES:"
+    print classifier.show_most_informative_features(10)
 
 print "TRAINING (VALIDATION) accuracy:", acc
 prob_percent = sum([pdist.prob('correct') for pdist in pdists])/len(pdists)
-#print "0 is female:", pdists[0].prob('female')
 print "percent claim as correct:", prob_percent
 
-if USE_TEST_WRITE_OUT:
+print "RETRAIN ON ALL DATA"
+#classifier = trainer(train_subset+validation_subset, max_iter=NUM_TRAIN_ITERATIONS) # DEFAULT ALGORITHM
+classifier = trainer(train_subset+validation_subset, algorithm='GIS', max_iter=NUM_TRAIN_ITERATIONS)
+
+if USE_TEST_AND_WRITE_OUTPUT:
     print "Going to use test files"
-    data = DictReader(open("features_DEV_test.csv", 'r'))
+    data = DictReader(open("features_test.csv", 'r'))
     test_input = []
     test_guesses = []
     test_ID = []
@@ -120,20 +157,28 @@ if USE_TEST_WRITE_OUT:
     'Question ID'
     'Sentence Position'
     'Answer'
-    'is correct'
     'Q score'
     'IR score'
+    'join score'
+    'category'
     """
     for ii in data:
         feat_dict = dict()
-        feat_dict['Q score'] = ii['Q score']
-        feat_dict['IR score'] = ii['IR score']
+        feat_dict['BIAS'] = float(1)
+        feat_dict['Q score'] = float(ii['Q score'])
+        feat_dict['IR score'] = float(ii['IR score'])
+        feat_dict['Sentence Position'] = float(ii['Sentence Position'])
+        feat_dict['category'] = ii['category']
+        feat_dict['join score'] = ii['join score']
         test_input = test_input + [feat_dict]
         test_guesses = test_guesses + [ii['Answer']]
         test_ID = test_ID + [ii['Question ID']]
 
+    # compute probabilities
+    print "TEST: computing probabilities"
     pdists = classifier.prob_classify_many(test_input)
 
+    # prepare to write output file
     outfile_name = "test_guesses_POLYLINE.csv"
     outfile = open(outfile_name, 'w')
     o = DictWriter(outfile, ['Question ID','Answer','Prob'], lineterminator='\n')
@@ -145,5 +190,6 @@ if USE_TEST_WRITE_OUT:
                     'Prob': pdists[i].prob('correct') })
 
     outfile.close() 
+    print "wrote", len(test_input), "lines of guess probabilities"
 
 print "DONE"
