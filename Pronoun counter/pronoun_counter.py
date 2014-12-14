@@ -19,7 +19,7 @@ neut_pronouns = ['it', 'that', 'its', 'itself', 'which', 'that']
 plural_pronouns = ['they', 'them', 'their', 'theirs', 'which', 'that']
 
 
-SCRUB_TRAIN = 1
+SCRUB_TRAIN = 0
 
 if __name__ == "__main__":
 
@@ -34,58 +34,41 @@ if __name__ == "__main__":
 
     # Create File for writing
     outfile = open(save_name, 'w')
-    o = DictWriter(outfile, ['Question ID','Sentence Position','Masculine Pronouns', 'Feminine Pronouns', 'Neuter Pronouns', 'Plural Pronouns'], lineterminator='\n')
+    o = DictWriter(outfile, ['Question ID','Sentence Position','Male Pronoun', 'Female Pronoun', 'Neuter Pronoun', 'Plural Pronoun'], lineterminator='\n')
     o.writeheader()
-
     
     data_examples = 0
 
     for ii in data:
         data_examples += 1
 
+        male = 0
+        female = 0
+        neuter = 0
+        plural = 0
+
         # Split question on words:
         word_list = nltk.word_tokenize(ii['Question Text'])
         clean_words = []
         for word in word_list:
-            if word != "." and word != "'s":            # throw out periods and lone-posessives
-                found_word = word.replace("_"," ")
-                if found_word[-1] == '.':               # scrub trailing periods from last words of sentences
-                    found_word = found_word[0:len(found_word)-1]
-                clean_words = clean_words + [found_word]
-        filtered_words = [w for w in clean_words if w in stopwords.words('english')]
+            if word[-1] == '.' and word != '.':               # scrub trailing periods from last words of sentences
+                word = word[0:len(word)-1]
 
-        #tabulating counts for different types of pronouns
-        masc_pro = FreqDist([w for w in clean_words if w in masc_pronouns]).values()
-        masc_pro.sort()
-        masc_count = sum(masc_pro)
-        
-        fem_pro = FreqDist([w for w in clean_words if w in fem_pronouns]).values()
-        fem_pro.sort()
-        fem_count = sum(fem_pro)
-
-        neuter_pro = FreqDist([w for w in clean_words if w in neut_pronouns]).values()
-        neuter_pro.sort()
-        neuter_count = sum(neuter_pro)
-
-        plural_pro = FreqDist([w for w in clean_words if w in plural_pronouns]).values()
-        plural_pro.sort()
-        plural_count = sum(plural_pro)
-
-
-        print 'masc:', masc_count, 'fem:', fem_count, 'neuter:', neuter_count, 'plural:', plural_count
-        #raw_input()
-
-
-        
-        #word_string = ",".join(filtered_words)
-        #fd = FreqDist(word_string)
+            if word in masc_pronouns:
+                male += 1
+            if word in fem_pronouns:
+                female += 1
+            if word in neut_pronouns:
+                neuter += 1
+            if word in plural_pronouns:
+                plural += 1
 
         o.writerow({'Question ID': ii['Question ID'], \
                 'Sentence Position': ii['Sentence Position'], \
-                'Masculine Pronouns': masc_count, \
-                'Feminine Pronouns': fem_count, \
-                'Neuter Pronouns': neuter_count, \
-                'Plural Pronouns': plural_count})
-        
+                'Male Pronoun': male, \
+                'Female Pronoun': female, \
+                'Neuter Pronoun': neuter, \
+                'Plural Pronoun': plural})
 
-        outfile.close()
+    outfile.close()
+    print "wrote", data_examples, "lines"
