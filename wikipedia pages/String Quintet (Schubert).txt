@@ -1,0 +1,74 @@
+[[String Quintet (Schubert)]]
+
+Anton Depauly)]]
+
+Franz Schubert's final chamber work, the String Quintet in C major (D. 956, Op. posth. 163) was composed in 1828 and completed just two months before the composer's death. The first public performance of the piece did not occur until 1850, and publication occurred three years later in 1853. Schubert's only full-fledged string quintet, it has been praised as "sublime" and as possessing "bottomless pathos," and is generally regarded as Schubert's finest chamber work as well as one of the greatest compositions in all chamber music. 
+
+== Composition and publication history ==
+The string quintet was composed in summer or early fall of 1828, at the same time as Schubert composed his last three piano sonatas and several of the Schwanengesang songs. Schubert completed it in late September or early October, just two months before his death. Schubert submitted it to one of his publishers, Heinrich Albert Probst, for consideration, saying that "finally I have written a quintet for 2 violins, 1 viola, and 2 violoncello ... the quintet rehearsal will only begin in the next few days. Should any of these compositions by any chance commend themselves to you, please let me know." Probst replied, asking only to see some of Schubert's vocal works and requesting more popular piano music. Even at this very late stage in Schubert's career, it is obvious that he was regarded as a composer who mainly focused on songs and piano pieces, and was definitely not taken seriously as a chamber music composer. Reed, John. Master Musicians: Schubert. Oxford, Oxford University Press, 1998, p. 172. The work remained unpublished at the time of Schubert's death in November 1828, and indeed waited twenty-five years for its first publication in 1853. Its first known public performance occurred only three years earlier, on 17 November 1850 at the Musikverein in Vienna.
+
+== Instrumentation and genre ==
+A string quintet is a composition written for string quartet (two violins, viola, and cello) augmented by a fifth string instrument, usually a second viola. Schubert's string quintet is scored for two violins, one viola, and two cellos—that is, a string quartet plus a second cello.
+
+The work is the only full-fledged string quintet in Schubert's oeuvre. When he began composing his string quintet, Schubert had already composed an impressive body of chamber music for strings, including at least fifteen string quartets, most of which were composed for domestic performance by his family's string quartet.
+
+In selecting the key of C major for his only string quintet, Schubert may have been gesturing to two composers he greatly admired, Mozart and Beethoven, both of whom wrote string quintets in that key, Mozart's String Quintet No. 3 in C major, K. 515 and Beethoven's String Quintet, Op. 29 in C major. According to Charles Rosen, the opening theme of Schubert's work emulates many characteristics of the Mozart quintet's opening theme, such as decorative turns, irregular phrase lengths, and rising staccato arpeggios (the latter appear only in Schubert's recapitulation). 
+
+But whereas the string quintets of Mozart and Beethoven are composed for a string quartet augmented by a second viola, Schubert adopts a somewhat unconventional instrumentation, employing two cellos instead of two violas, creating richness in the lower register. Before Schubert, Luigi Boccherini had replaced the second viola with a second cello; however, Schubert's use of the second cello is very different from Boccherini's, who uses the additional cello to create an additional viola line. Alfred Einstein has proposed that Schubert's use of a second cello to enhance the lower strings may have been suggested by George Onslow, who used a double bass in some of his quintets. 
+
+== Analysis ==
+The string quintet consists of four movements in the usual quick-slow-scherzo-quick pattern:
+#Allegro ma non troppo
+#Adagio
+#Scherzo. Presto – Trio. Andante sostenuto
+#Allegretto
+
+===First movement: Allegro ma non troppo===
+In common with other late Schubert works (notably, the symphony in C major, D. 944, the piano sonata in B-flat major, D. 960, and the string quartet in G major, D. 887), the quintet opens with an extremely expansive movement: an Allegro ma non troppo that accounts for more than one third of the total length of the piece (typically, 50 minutes). The movement is notable for its unexpected harmonic turns. The exposition, lasting 154 bars, begins with an expansive C major chord: as in the G major quartet, D. 887, Schubert here "presents his harmonies--rather than a memorable, well-contoured melody--without a regular rhythmic pulse." This is followed by music of gradually increasing motion and tension, leading to the contrasting second subject, in the unexpected key of E-flat, introduced as a duet between the two celli. The exposition concludes with a dominant (G major) chord that leads naturally back to the opening tonic chord on the repeat. However, after the repeat of the exposition, Schubert begins the development section with a daring modulation from the dominant to the submediant that "lift the music magically" from G major to A major 
+
+===Second movement: Adagio===
+The "sublime" second movement, one of Schubert's rare adagios, is in three-part ABA (ternary) form. The outer sections, in E major, are of an otherworldly tranquility, while the central section is intensely turbulent: it breaks suddenly into the tranquility in the distant key of F minor. When the opening music returns, there is a running 32nd-note passage in the second cello which seems to have been motivated by the turbulence that came before it. In the last three measures of the movement, Schubert somehow contrives to tie the entire movement together harmonically with a modulation to the F minor of the middle section and an immediate return to E major.
+
+The use of ternary structure to contrast tranquil outer sections with a turbulent central section resembles the second movement of Schubert's Piano Sonata in A major, D. 959, composed at the same time as the quintet.
+
+The juxtaposition of E major and F minor, exceedingly distantly related keys, establishes the importance of the "tonal relationship of lowered second degree" (or flat supertonic) "to the tonic" which will be exploited in the third and fourth movements. 
+
+===Third movement: Scherzo===
+The Scherzo, in C major, is symphonic and large-scaled, with the open strings of the lower instruments exploited in an innovative manner that creates a volume of sound seemingly beyond the capabilities of five stringed instruments. The middle section (or trio) of this movement, in the remote key of D-flat major (a semitone up from C), is an unearthly slow march. The surprising juxtaposition of the tonalities of C major and D-flat major in this movement again emphasizes the relationship between the tonic and flat supertonic (the flatted second tone of the scale).
+
+===Fourth movement: Allegretto===
+The last movement is an exuberant sonata-rondo whose form resembles that of the finale of Mozart's C major quintet The main theme demonstrates clear Hungarian influences. The movement is in C major, but is built upon the interplay of the major and minor modes. 
+
+It incorporates many unusual technical features, including the final two notes: the flat supertonic (D-flat) and the tonic (C), played forte in all parts. Use of the flat supertonic is normally associated with the Neapolitan chord; but in Schubert's late works especially, the first note in this progression is often combined with augmented sixth harmony built on the flat supertonic rather than on the usual flat submediant. That characteristic harmonization is indeed used for a sustained flat supertonic in the bass part in the fourth- and fifth-last measures of the work. 
+
+== Legacy ==
+After Schubert's string quintet was belatedly premiered and published in the 1850s, it gradually gained recognition as a masterpiece.
+
+An early admirer was Brahms whose Piano Quintet (1865) was inspired in part by Schubert's (then) newly-discovered work. Brahms, in fact, originally wrote that work as a string quintet with two cellos (the complement used by Schubert) and only later recast it as a piano quintet. The piano quintet is in F minor, the key of the turblulent central section of Schubert's Adagio, while the third movement recalls the C minor/major of Schubert's Quintet, and that movement ends in the same manner as Schubert's finale, with strong emphasis on the flat supertonic D-flat, before the final tonic C. James Webster, "Schubert's sonata form and Brahms's first maturity (II)", 19th-Century Music 3(1), 1979, pp. 52–71. 
+
+Current consensus holds that the Quintet represents a high point in the entire chamber repertoire. 
+
+Although there is no reason to believe Schubert expected to die so soon after composing the work, the fact that the quintet was completed a mere two months before his death has inspired some listeners to hear in it a valedictory or death-haunted quality. For John Reed, the quintet prefigures Schubert's death, ending as it does with D-flat followed by C, both in unison and octaves: "As Browning's Abt Vogler put it, 'Hark, I have dared and done, for my resting place is found, The C major of this life; so, and now I will try to sleep.'" The violinist Joseph Saunders had the second theme of the first movement carved on his tombstone; Arthur Rubinstein's wish was to have the second movement played at his funeral. 
+
+The second movement's plaintive mood makes it popular as background music for pensive or nocturnal scenes in film. Examples include Nocturne Indien, Conspiracy, The Human Stain, and Jim Jarmusch's The Limits of Control. Also, Episode 21 from the Inspector Morse television series (Dead on Time) draws extensively from this quintet, as do certain episodes in Desmond Morris's BBC series The Human Animal.
+
+==Notable recordings==
+Schubert's string quintet has often been recorded. The first recording was made by the Cobbett Quartet in 1925. Two recordings from the early 1950s are widely cited as legendary: a 1952 performance featuring Isaac Stern and Alexander Schneider, violins: Milton Katims, viola; and Pablo Casals and Paul Tortelier, cellos; and a 1951 performance by the Hollywood String Quartet with Kurt Reher on second cello (a 1994 CD reissue of this performance was awarded a Gramophone Award).
+
+Among modern recordings, that featuring the Melos Quartet with Mstislav Rostropovich (1977) has been acclaimed, and is notable for the exceptionally slow tempo adopted for the Adagio. A few recordings of the quintet performed on period instruments exist, including include a 1990 recording on the Vivarte label with the following lineup: Vera Beths and Lisa Rautenberg, violins; Steven Dann, viola; and Anner Bylsma and Kenneth Slowik, cellos.
+
+==Notes==
+
+==References==
+
+==External links==
+* 
+* A string quintet ensemble from The Chamber Music Society of Lincoln Center presents a complete audio recording of the Quintet: (location of the performance: Isabella Stewart Gardner Museum, Boston, MP3)
+* Complete 50-Minutes Video: A string quintet ensemble led by Susanna Yoko Henkel performs 2008 at the Zagreb International Chamber Music Festival Schubert's C-major-Quintet, together with Stefan Milenkovich (violin), Guy Ben-Ziony (viola), Giovanni Sollima (cello) and Monika Leskovar (cello): Allegro - Adagio - Scherzo/Trio - Allegretto 
+* 
+*Schubert Most Sublime: The String Quintet in C NPR.
+
+String quintet
+Schubert, Franz
+
+

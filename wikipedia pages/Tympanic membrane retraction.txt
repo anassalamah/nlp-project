@@ -1,0 +1,71 @@
+[[Tympanic membrane retraction]]
+
+Tympanic membrane retraction describes a condition in which a part of the ear drum lies deeper within the ear than its normal position. Retraction of the left tympanic membrane. The retracted pars tensa has partially eroded part of the incus. The ear drum comprises two parts, the pars tensa, which is the main part of the ear drum, and the pars flaccida, which is a smaller part of the ear drum located above the pars tensa. Either or both of these parts may become retracted. The retracted segment of ear drum is often known as a retraction pocket. The terms “atelectasis” or sometimes “adhesive otitis media” can be used to describe retraction of a large area of the pars tensa.
+
+Tympanic membrane retraction is fairly common and has been observed in one quarter of a population of British school children. Retraction of both ear drums is less common than having a retraction in just one ear. It is more common in children with cleft palate. Tympanic membrane retraction also occurs in adults. 
+
+Attempts have been made to categorise the extent of tympanic membrane retraction though the validity of these classifications is limited. 
+
+== Pathogenesis ==
+Three factors must occur for the tympanic membrane to become retracted:
+
+=== 1. Negative middle ear pressure ===
+
+When gas pressure within the middle ear is less than atmospheric pressure, the ear drum can become sucked into the middle ear space. This is caused by inadequate opening of the Eustachian tube and absorption of air from the middle ear space. People with a patulous Eustachian tube may also cause negative middle ear pressure by repeatedly sniffing to try and keep their Eustachian tube closed. 
+
+=== 2. Weakness of the tympanic membrane ===
+
+The middle layer of the pars tensa is strengthened by fibres of collagen protein. This layer may be weaker in the postero-superior quadrant (top rear quarter) or after the ear drum heals after perforation or tympanostomy tubes (grommets) so predispose to retraction in these areas. The pars flaccida is prone to retraction as it does not contain the same stiffening layer of collagen.
+
+=== 3. Increase in surface area of the tympanic membrane ===
+
+All over the body, new skin cells are continually produced to replace old skin cells which dry out and slough off. Growth of new cells on the surface of the ear drum is unusual in that the new cells migrate over the surface and move out along the ear canal. Even if migration along the ear canal is blocked, new cells continue to grow so the surface of the ear drum becomes larger. This process of proliferation and migration can result in enlargement of a retraction pocket so that the ear drum expands and grows deeper into the ear.
+
+== Natural history ==
+The majority of tympanic membrane retractions remain stable for long periods of time, or may even resolve spontaneously so that ear drum becomes normal again. Not all retractions are able to resolve even if middle ear pressure normalizes, as the retracted segment may become adherent to other structures within the middle ear. Some retractions continue to progress and grow more deeply into the ear. This can result in erosion of bone and accumulation of dead skin (keratin) within the ear.
+
+=== 1. Bone erosion ===
+
+As the middle ear is only a narrow space, the ear drum only has to retract a short distance before it touches boney structures within the middle ear such as the ossicles. It may become adherent to these bones and in some cases, this contact leads to erosion of the bone. As well as ossicular erosion, the bone of the ear canal (e.g. the scutum) and even bone over the cochlea (the promontory) can become eroded.
+
+=== 2. Keratin entrapment ===
+
+As skin cells die they form a barrier of dry protein called keratin. This layer of keratin is normally pushed out of the ear by migration of skin cells along the ear canal and is turned into wax. Clearance of keratin can be disrupted by tympanic membrane retraction so that keratin accumulates within the retraction pocket. When keratin becomes trapped deep inside the ear and cannot be cleaned out, it is known as cholesteatoma. Growth of bacteria in the trapped keratin causes smelly discharge from the ear and can spread to cause serious infection.
+
+== Clinical presentation ==
+The majority of tympanic membrane retractions do not cause any symptoms. Some cause hearing loss by restricting sound-induced vibrations of the ear drum. Permanent conductive hearing loss can be caused by erosion of the ossicles (hearing bones). Discharge from the ear often indicates that the retraction pocket has developed into a cholesteatoma.
+
+== Treatment ==
+Various strategies may be used to manage tympanic membrane retraction, with the aims of preventing or relieving hearing loss and cholesteatoma formation.
+
+=== 1. Observation ===
+
+As retraction pockets may remain stable or resolve spontaneously, it may be appropriate to observe them for a period of time before considering any active treatment. 
+
+=== 2. Increase middle ear pressure ===
+
+The Valsalva maneuver increases middle ear pressure and can push a retracted ear drum out of the middle ear if is not adherent to middle ear structures. Hearing may improve as a result, however it can be a painful maneuver. The benefits are typically only temporary. Middle ear pressure can also be increased by Politzerization and with commercially available devices (e.g. Otovent and Ear Popper).
+
+=== 3. Ventilation tubes ===
+
+A ventilation tube, also known as a tympanostomy tube or a grommet, may be placed through the ear drum to equalize middle ear pressure. Although this intervention may be effective, research has not yet shown whether it provides better results than simple observation. Further weakness or perforation of the ear drum may occur.
+
+=== 4. Nasal treatments ===
+
+These are intended to improve Eustachian tube function. Adenoidectomy can improve middle ear function and nasal steroid sprays can reduce adenoid size but it is not known whether these treatments alter tympanic membrane retraction.
+
+=== 5. Eustachian tube surgery ===
+
+Enlargement of the Eustachian tube opening in the nose with laser or balloon dilatation is being evaluated as a potential treatment for tympanic membrane retraction. 
+
+=== 6. Retraction pocket surgery ===
+
+Excision of the retracted segment of an ear drum, with or without placement of a tympanostomy tube has been advocated. Healing of the area can result in a more normal ear drum. Laser therapy has been used to shrink and stiffen retraction pockets. 
+
+=== 7. Tympanoplasty ===
+
+Tympanoplasty is the surgical technique of removal of the retracted area from the middle ear and reconstruction of the tympanic membrane. Some surgeons use cartilage (taken from the outer ear) to stiffen the ear drum with the aim of preventing further retraction. Surgical removal is required once a cholesteatoma has formed.
+
+==References==
+
+

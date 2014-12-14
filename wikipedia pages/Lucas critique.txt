@@ -1,0 +1,39 @@
+[[Lucas critique]]
+
+The Lucas critique, named for Robert Lucas' work on macroeconomic policymaking, argues that it is naive to try to predict the effects of a change in economic policy entirely on the basis of relationships observed in historical data, especially highly aggregated historical data. 
+
+The basic idea pre-dates Lucas' contribution (related ideas are expressed as Campbell's Law and Goodhart's Law), but in a 1976 paper, Lucas drove to the point that this simple notion invalidated policy advice based on conclusions drawn from large-scale macroeconometric models. Because the parameters of those models were not structural, i.e. not policy-invariant, they would necessarily change whenever policy (the rules of the game) was changed. Policy conclusions based on those models would therefore potentially be misleading. This argument called into question the prevailing large-scale econometric models that lacked foundations in dynamic economic theory. Lucas summarized his critique:
+:"Given that the structure of an econometric model consists of optimal decision rules of economic agents, and that optimal decision rules vary systematically with changes in the structure of series relevant to the decision maker, it follows that any change in policy will systematically alter the structure of econometric models." Lucas (1976), p. 41. 
+
+The Lucas critique is, in essence, a negative result. It tells economists, primarily, how not to do economic analysis. The Lucas critique suggests that if we want to predict the effect of a policy experiment, we should model the "deep parameters" (relating to preferences, technology, and resource constraints) that are assumed to govern individual behavior: so-called "microfoundations." If these models can account for observed empirical regularities, we can then predict what individuals will do, taking into account the change in policy, and then aggregate the individual decisions to calculate the macroeconomic effects of the policy change. Lucas (1976), p. 21. 
+
+Shortly after the publication of Lucas' article, Kydland and Prescott published the article "Rules rather than Discretion: The Inconsistency of Optimal Plans", where they not only described general structures where short-term benefits are negated in the future through changes in expectations, but also how time consistency might overcome such instances. That article and subsequent research lead to a positive research program for how to do dynamic, quantitative economics. 
+
+==Examples==
+One important application of the critique (independent of proposed microfoundations) is its implication that the historical negative correlation between inflation and unemployment, known as the Phillips curve, could break down if the monetary authorities attempted to exploit it. Permanently raising inflation in hopes that this would permanently lower unemployment would eventually cause firms' inflation forecasts to rise, altering their employment decisions. In other words, just because high inflation was associated with low unemployment under early 20th century monetary policy does not mean that high inflation should be expected to lead to low unemployment under every alternative monetary policy regime.
+
+For an especially simple example, Fort Knox has never been robbed. However, this does not mean the guards can safely be eliminated, since the incentive not to rob Fort Knox depends on the presence of the guards. In other words, with the heavy security that exists at the fort today, criminals are unlikely to attempt a robbery because they know they are unlikely to succeed. However, a change in security policy, such as eliminating the guards, would lead criminals to reappraise the costs and benefits of robbing the fort. So just because there are no robberies under the current policy does not mean this should be expected to continue under all possible policies.
+
+==See also==
+*Dynamic inconsistency
+*Game theory
+*Dynamic stochastic general equilibrium
+*Real business cycles
+*Policy-ineffectiveness proposition
+*Goodhart's law
+*Campbell's law
+*Rational expectations
+*Macroeconomic model
+*Methodological individualism
+*Problem of induction
+*Variable change
+*Hasty generalization
+*McNamara fallacy
+
+==References==
+
+==Further reading==
+*
+*
+
+

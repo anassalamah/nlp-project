@@ -1,0 +1,97 @@
+[[Zither]]
+
+Typical fretless guitar zither
+
+The zither is a musical string instrument, consisting of many strings stretched across a thin, flat body. It is played by strumming or plucking the strings, either with one's fingers, or using a tool called a plectrum. Like a guitar or lute, a zither's body serves as a sound box, but unlike them, a zither has no neck. The number of strings varies, from as few as twelve to more than fifty. 
+
+The term 'zither' organologically refers to a broad family of Eurasian musical instruments, but in modern usage most commonly refers to one of three specific instruments: the concert zither and its variant the Alpine zither and the fretless (or "guitar") zither. Zither are most commonly found in Slovenia, Austria, Hungary, northwestern Croatia, the southern regions of Germany, alpine Europe, and East Asian cultures, including China. 
+
+The instrument underwent a popularity boom and resurgence in the late 1940s through to 1960s, following its prominent success as the theme music of the acclaimed 1949 film noir, The Third Man.
+
+==Terminology==
+The word "citara" is derived from the Greek word kithara, an instrument from classical times used in Ancient Greece and later throughout the Roman Empire and in the Arab world (Arabic قيثارة); the word "guitar" derives from "qithara" as well.
+
+The terms "cithare", "sitar", or "cithar" are also used more broadly, to describe the entire family of stringed instruments in which the strings do not extend beyond the sounding box, including the hammered dulcimer, psaltery, Appalachian dulcimer, guqin, guzheng (Chinese zither), koto, gusli, kantele, gayageum, đàn tranh, kanun, autoharp, santoor, yangqin, piano, harpsichord, santur, swarmandal, and others.
+
+Zithers can be divided into two classes: fretted and fretless.
+
+==History and development==
+Zitherist before 1850 in Ausseerland, Styria
+
+The term zither is mentioned in Daniel during the Jewish exile of 606 BC; however, the earliest known instrument of the zither family is a Chinese guqin fretless instrument, found in the tomb of Marquis Yi of Zeng dating from 433 BC. 
+
+The instrument has a prominent solo in one of Johann Strauss II's most famous waltzes, "Tales from the Vienna Woods" (sometimes played on a mandolin, when a zither is not available). In Slovenia, at the end of the 19th century, they were used in small towns or villages and for concerts.
+
+The zither went through two periods of great popularity in the United States. The first of these was in the late 19th through early 20th century, when it was greatly in vogue as a parlour instrument in many homes. During that period, a number of U.S.-based instrument manufacturers, many of them founded by, or employing European (and especially German and Austrian) luthiers, were producing concert zithers. By the 1920s zither popularity had begun to wane, as other instruments (notably guitars) increased in popularity. There was, however, a revival of interest in the 1950s, due in great measure to the success of the 1949 British film The Third Man, the soundtrack of which prominently featured the zither. This new popularity lasted until well into the 1960s, as evidenced by the many successful albums during that period of performers like Anton Karas, Ruth Welcome, and Shirley Abicair.
+
+In modern entertainment, the zither is perhaps most famous for its role in the soundtrack of the classic noir film The Third Man. The music for the film was played by Anton Karas. His "The Third Man Theme" was released as a single in 1949/50 and became a best-seller in the UK. Music: Zither Dither, a 28 November 1949 article from Time magazine Following its release in the U.S. in 1950, it spent eleven weeks at number one on Billboards U.S. Best Sellers in Stores chart from 29 April to 8 July. The exposure made Karas an international star, "The Third Man" DVD review, Sean Axmaker, Turner Classic Movies. and the trailer for the film stated that "the famous musical score by Anton Karas" would have the audience "in a dither with his zither". The Ultimate Trailer Show. HDNet, 22 September 2010. 
+
+Australian-born singer Shirley Abicair popularised the zither when she used it widely as accompaniment in her TV shows, live performances and recordings in Britain in the 1950s and 1960s. American Ruth Welcome released a number of very popular theme-based zither albums between 1958 - 1965 (e.g., "Romantic Zither"; "Zither South of the Border"; "Zither Goes to Hollywood"; etc.) Zither music is also the preferred music of Mr. Bevis, a Twilight Zone character in 1960.
+
+More recently, the zither is used by multi-instrumentalist Laraaji on the third release of Brian Eno's ambient music series, of Radiance|Ambient 3: Day of Radiance]. Jerusalem-based multi-instrumentalist Bradley Fish has used zithers in a multitude of styles on the soundtracks of various Sony Digital Pictures films. In 2005 Austrian composer Christoph Dientz released a double CD ("Zithered") of zither music recorded using a loop generator, used to give the music the rhythmic drive of European techno, and played using various found objects (paperclips etc.) through a guitar amplifier giving a sound pallet similar to John Cage's prepared piano pieces. Kenneth, the eccentric, would-be time traveler in the 2012 film, Safety Not Guaranteed http://www.imdb.com/title/tt1862079/ plays and sings a song to his lost love that he composed on his zither.
+
+==Types of zither==
+Concert zither, with a fretted fingerboard
+
+While the term 'zither' organologically refers to a broad family of musical instruments, in modern usage it most commonly refers to one of three specific instruments: the concert zither and the Alpine zither (which are often considered variants of the same instrument), and the fretless or "guitar" zither. Like many other stringed instruments, acoustic and electric forms exist; in the acoustic version, the strings are stretched across the length of the soundbox, and neither version has a neck.
+
+The concert zither may have from 29 to 35 strings, with 34 or 35 being most typical. These are arranged as follows: 5 fretted melody strings, placed above a guitar-like fretboard; 12 unfretted "accompaniment" strings; followed by 12 unfretted "bass" strings; a varying number of "contrabass" strings, with 5 or 6 being the most common number.
+
+Alpine zither
+
+The Alpine zither has 42 strings, and differs from the concert zither primarily in having more contrabasses, which require the addition of a harplike post at the top of the instrument to support the tuners for these additional strings. Alpine zither strings are set in the same arrangement as the concert zither, except there are 13 contrabass strings instead of 5 or 6.
+
+Both of these zithers are tuned in a similar manner, with the accompaniment and bass strings each providing a full set of 12 chromatic pitches arranged in a cycle of fifths. Contrabass strings are arranged in a descending chromatic scale. There are two popular tunings for the fretted melody strings: Munich and Vienna. The Zither Tuning Chart below, gives tuning details for the concert and Alpine instruments including pitches and octaves employed. Munich tuning is given on top, with Vienna tuning below; unfretted strings are tuned the same on both instruments.
+
+The fretless zither may have from 12 to 50 (or more) strings, depending on design. There are no frets or fingerboard, and all strings are played "open," in the manner of a harp.
+ 
+
+Strings on the left are arranged in groups of three or four, which form various chords; strings to the right are single melody strings. Tuning can vary widely from manufacturer to manufacturer and even from model to model, but the tuning is usually indicated on the instrument itself, in the form of a painted chart or paper chart glued under the strings.
+
+A popular contemporary form of the fretless zither is the autoharp, on which all of the 36 (typically) strings are placed singly, and a series of buttons activate dampers which silence all but the strings in the particular chord named on the button. (The autoharp is played in a different manner from the other zithers discussed here, and for playing purposes is best considered as a separate instrument in its own right.) There is a standardized tuning for autoharps, however, this is sometimes altered by players for special effects.
+Liam Finn's Electric Drum Zither
+
+==Tuning==
+This is a tuning chart for the concert and Alpine zithers:
+
+ Zither Tuning Chart 
+ Fretted Accompaniment Basses Countrabasses 
+ String 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 
+ Pitch A4 A4 D4 G3 C3 Eb4 Bb3 F4 C4 G3 D4 A3 E4 B3 F#3 C#4 G#3 Eb4 Bb3 F4 C4 G3 D4 A3 E4 B3 F#3 C#4 G#3 F3 E3 Eb3 D3 C#3 C3 B2 Bb2 A2 G#2 G2 F#2 F2 
+ A4 D4 G3 G3 C3 NOTE: Unfretted string #6 is closest to fretted string #5. Concert Alpine 
+
+This is a tuning chart for the autoharp:
+
+ Autoharp Tuning Chart 
+ String 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 
+ Pitch F2 G2 C3 D3 E3 F3 F#3 G3 A3 A#3 B3 C4 C#4 D4 D#4 E4 F4 F#4 G4 G#4 A4 A#4 B4 C5 C#5 D5 D#5 E5 F5 F#5 G5 G#% A5 A#5 B5 C6 
+
+==Playing==
+Zitherist in Maribor, Slovenia
+Autoharpist
+
+A person who plays the zither is called a "zither player" or a "zitherist".
+
+The zither is played by plucking the strings while it lies flat on a table (which acts as a resonator to amplify the sound), or it can be held on the lap.
+
+On concert and Alpine zithers the melody strings are pressed to the fingerboard ("fretted") with the fingers of the left hand, and plucked with a plectrum on the right thumb. First and second fingers of the right hand pluck the accompaniment and bass strings, and the third finger of the left hand plucks the contrabass strings (there are variants on this basic method).
+
+The fretless "guitar" zither is played in a similar manner, except there is no function for the left hand, since there is no fretboard; all melody strings are played "open" with the right thumb, and other fingers of the right hand play the accompaniment chord strings.
+
+The autoharp may be played in a similar manner (laying it flat on a table), but is more often played upright, cradled in the arms, with the left hand operating the chord buttons, and the right hand strumming the strings.
+
+==References==
+
+==Bibliography==
+*"Zither" from the University of Michigan School of Information's CHICO project
+
+==External links==
+
+*"Fretless Zithers" at MinerMusic.com (history, family tree and photos)
+*Zither concert video: Hungarian violin virtuoso Félix Lajkó play a zither, with singer Magdolna Rúzsa accompanying, in a folk song interpretation.
+*"Zither collection of the University of Leipzig" 
+*"Zitherist International" Zither web magazine
+*"Zither US"
+*"A Complete Study of the Chinese Zither" from 1670
+
+

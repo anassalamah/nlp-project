@@ -1,0 +1,225 @@
+[[Steel]]
+
+The steel cable of a colliery winding tower
+
+Steel is an alloy of iron, with carbon, which may contribute up to 2.1% of its weight. Carbon, other elements, and inclusions within iron act as hardening agents that prevent the movement of dislocations that naturally exist in the iron atom crystal lattices. Varying the amount of alloying elements, their form in the steel either as solute elements, or as precipitated phases, retards the movement of those dislocations that make iron so ductile and so weak, and so it controls qualities such as the hardness, ductility, and tensile strength of the resulting steel. Steel can be made stronger than pure iron, but only by trading away ductility, of which iron has an excess.
+
+Although steel had been produced in bloomery furnaces for thousands of years, steel's use expanded extensively after more efficient production methods were devised in the 17th century for blister steel and then crucible steel. With the invention of the Bessemer process in the mid-19th century, a new era of mass-produced steel began. This was followed by Siemens-Martin process and then Gilchrist-Thomas process that refined the quality of steel. With their introductions, mild steel replaced wrought iron.
+
+Further refinements in the process, such as basic oxygen steelmaking (BOS), further lowered the cost of production, while increasing the quality of the metal and largely replaced earlier methods. Today, steel is one of the most common materials in the world, with more than 1.3 billion tons produced annually. It is a major component in buildings, infrastructure, tools, ships, automobiles, machines, appliances, and weapons. Modern steel is generally identified by various grades defined by assorted standards organizations.
+
+==Definitions and related materials==
+The carbon content of steel is between 0.002% and 2.1% by weight. Too little carbon content leaves (pure) iron quite soft, ductile, and weak. Carbon contents higher than those of steel make an alloy commonly called pig iron that is brittle and not malleable. Alloy steel is steel to which additional alloying elements have been intentionally added to modify the characteristics of steel. Common alloying elements include: manganese, nickel, chromium, molybdenum, boron, titanium, vanadium, and niobium. Additional elements may be present in steel: manganese, phosphorus, sulfur, silicon, and traces of oxygen, nitrogen, and aluminium.
+
+Alloys with a higher than 2.1% carbon content, depending on other element content and possibly on processing, are known as cast iron. Cast iron is not malleable even when hot, but it can be formed by casting as it has a lower melting point than steel and good castability properties. Steel is also distinguishable from wrought iron (now largely obsolete), which may contain a small amount of carbon but large amounts of slag. Note that the percentages of carbon and other elements quoted are on a weight basis.
+
+==Material properties==
+Iron-carbon phase diagram, showing the conditions necessary to form different phases
+
+Iron is found in the Earth's crust only in the form of an ore, usually an iron oxide, such as magnetite, hematite etc. Iron is extracted from iron ore by removing the oxygen by combining it with a preferred chemical partner such as carbon that is lost to the atmosphere as carbon dioxide. This process, known as smelting, was first applied to metals with lower melting points, such as tin, which melts at approximately 250 C and copper, which melts at approximately 1100 C. In comparison, cast iron melts at approximately 1375 C. Small quantities of iron were smelted in ancient times, in the solid state, by heating the ore buried in a charcoal fire and welding the metal together with a hammer, squeezing out the impurities. With care, the carbon content could be controlled by moving it around in the fire.
+
+All of these temperatures could be reached with ancient methods that have been used since the Bronze Age. Since the oxidation rate of iron increases rapidly beyond 800 C, it is important that smelting take place in a low-oxygen environment. Unlike copper and tin, liquid or solid iron dissolves carbon quite readily. Smelting results in an alloy (pig iron) that contains too much carbon to be called steel. The excess carbon and other impurities are removed in a subsequent step.
+
+Other materials are often added to the iron/carbon mixture to produce steel with desired properties. Nickel and manganese in steel add to its tensile strength and make the austenite form of the iron-carbon solution more stable, chromium increases hardness and melting temperature, and vanadium also increases hardness while making it less prone to metal fatigue. 
+
+To inhibit corrosion, at least 11% chromium is added to steel so that a hard oxide forms on the metal surface; this is known as stainless steel. Tungsten interferes with the formation of cementite, allowing martensite to preferentially form at slower quench rates, resulting in high speed steel. On the other hand, sulfur, nitrogen, and phosphorus make steel more brittle, so these commonly found elements must be removed from the steel melt during processing. 
+
+The density of steel varies based on the alloying constituents but usually ranges between 7750 and, or 7.75 and. 
+
+Even in a narrow range of concentrations of mixtures of carbon and iron that make a steel, a number of different metallurgical structures, with very different properties can form. Understanding such properties is essential to making quality steel. At room temperature, the most stable form of iron is the body-centered cubic (BCC) structure called ferrite or α-iron. It is a fairly soft metal that can dissolve only a small concentration of carbon, no more than 0.021 wt% at 723 C, and only 0.005% at . At 910°C pure iron transforms into a face-centered cubic (FCC) structure, called austenite or γ-iron. The FCC structure of austenite can dissolve considerably more carbon, as much as 2.1% Sources differ on this value so it has been rounded to 2.1%, however the exact value is rather academic because plain-carbon steel is very rarely made with this level of carbon. See:
+*—2.08%.
+*—2.11%.
+*—2.14%. (38 times that of ferrite) carbon at 1148 C, which reflects the upper carbon content of steel, beyond which is cast iron. . 
+
+When steels with less than 0.8% carbon, known as a hypoeutectoid steel, are cooled, the austenitic phase (FCC) of the mixture attempts to revert to the ferrite phase (BCC), resulting in an excess of carbon. One way for carbon to leave the austenite is for it to precipitate out of solution as cementite, leaving behind iron that is low enough in carbon to take the form of ferrite, resulting in a ferrite matrix with cementite inclusions. Cementite is a hard and brittle intermetallic compound with the chemical formula of Fe3C. At the eutectoid, 0.8% carbon, the cooled structure takes the form of pearlite, named for its resemblance to mother of pearl. It is a lamellar structure of ferrite and cementite. For steels that have more than 0.8% carbon, the cooled structure takes the form of pearlite and cementite. . 
+
+Perhaps the most important polymorphic form of steel is martensite, a metastable phase that is significantly stronger than other steel phases. When the steel is in an austenitic phase and then quenched rapidly, it forms into martensite, as the atoms "freeze" in place when the cell structure changes from FCC to BCC. Depending on the carbon content, the martensitic phase takes different forms. Below approximately 0.2% carbon, it takes an α ferrite BCC crystal form, but at higher carbon content it takes a body-centered tetragonal (BCT) structure. There is no thermal activation energy for the transformation from austenite to martensite. Moreover, there is no compositional change so the atoms generally retain their same neighbors. . 
+
+Martensite has a lower density than does austenite, so that the transformation between them results in a change of volume. In this case, expansion occurs. Internal stresses from this expansion generally take the form of compression on the crystals of martensite and tension on the remaining ferrite, with a fair amount of shear on both constituents. If quenching is done improperly, the internal stresses can cause a part to shatter as it cools. At the very least, they cause internal work hardening and other microscopic imperfections. It is common for quench cracks to form when steel is water quenched, although they may not always be visible. 
+
+===Heat treatment===
+
+There are many types of heat treating processes available to steel. The most common are annealing and quenching and tempering. Annealing is the process of heating the steel to a sufficiently high temperature to soften it. This process goes through three phases: recovery, recrystallization, and grain growth. The temperature required to anneal steel depends on the type of annealing and the constituents of the alloy. . 
+
+Quenching and tempering first involves heating the steel to the austenite phase then quenching it in water or oil. This rapid cooling results in a hard but brittle martensitic structure. The steel is then tempered, which is just a specialized type of annealing. In this application the annealing (tempering) process transforms some of the martensite into cementite, or spheroidite to reduce internal stresses and defects, which ultimately results in a more ductile and fracture-resistant steel. . 
+
+==Steel production==
+
+Iron ore pellets for the production of steel
+When iron is smelted from its ore by commercial processes, it contains more carbon than is desirable. To become steel, it must be melted and reprocessed to reduce the carbon to the correct amount, at which point other elements can be added. This liquid is then continuously cast into long slabs or cast into ingots. Approximately 96% of steel is continuously cast, while only 4% is produced as ingots. 
+
+The ingots are then heated in a soaking pit and hot rolled into slabs, blooms, or billets. Slabs are hot or cold rolled into sheet metal or plates. Billets are hot or cold rolled into bars, rods, and wire. Blooms are hot or cold rolled into structural steel, such as I-beams and rails. In modern steel mills these processes often occur in one assembly line, with ore coming in and finished steel coming out. . Sometimes after a steel's final rolling it is heat treated for strength, however this is relatively rare. 
+
+==History of steelmaking==
+
+Bloomery smelting during the Middle Ages
+
+===Ancient steel===
+Steel was known in antiquity, and may have been produced by managing bloomeries, or iron-smelting facilities, in which the bloom contained carbon. 
+
+The earliest known production of steel is a piece of ironware excavated from an archaeological site in Anatolia (Kaman-Kalehoyuk) and is about 4,000 years old. Other ancient steel comes from East Africa, dating back to 1400 BC. In the 4th century BC steel weapons like the falcata were produced in the Iberian Peninsula, while Noric steel was used by the Roman military. "Noricus ensis," Horace, Odes, i. 16.9 
+
+Steel was produced in large quantities in Sparta around 650 BC. 
+
+The Chinese of the Warring States period (403–221 BC) had quench-hardened steel, while Chinese of the Han dynasty (202 BC – 220 AD) created steel by melting together wrought iron with cast iron, gaining an ultimate product of a carbon-intermediate steel by the 1st century AD. Gernet, 69. The Haya people of East Africa invented a type of furnace they used to make carbon steel at 1802 C nearly 2,000 years ago. Africa's Ancient Steelmakers. Time Magazine, Sept. 25, 1978. 
+
+===Wootz steel and Damascus steel===
+
+Evidence of the earliest production of high carbon steel in the Indian Subcontinent was found in Samanalawewa area in Sri Lanka. Wootz steel was produced in India by about 300 BC. Ann Feuerbach, 'An investigation of the varied technology found in swords, sabres and blades from the Russian Northern Caucasus' IAMS 25 for 2005, pp. 27–43 (p. 29), apparently ultimately from the writings of Zosimos of Panopolis. However, the steel was an old technology in India when King Porus presented a Steel sword to the Emperor Alexander in 326 BC. The steel technology obviously existed before 326 BC as steel was being exported to the Arab World at that time. Since the technology was acquired from the Tamilians from South India, the origin of steel technology in India can be conservatively estimated at 400–500 BC.
+
+Along with their original methods of forging steel, the Chinese had also adopted the production methods of creating Wootz steel, an idea imported into China from India by the 5th century AD. Needham, Volume 4, Part 1, p. 282. In Sri Lanka, this early steel-making method employed a unique wind furnace, driven by the monsoon winds, capable of producing high-carbon steel. 
+
+Also known as Damascus steel, wootz is famous for its durability and ability to hold an edge. It was originally created from a number of different materials including various trace elements. It was essentially a complicated alloy with iron as its main component. Recent studies have suggested that carbon nanotubes were included in its structure, which might explain some of its legendary qualities, though given the technology available at that time, they were produced by chance rather than by design. Natural wind was used where the soil containing iron was heated by the use of wood. The ancient Sinhalese managed to extract a ton of steel for every 2 tons of soil, a remarkable feat at the time. One such furnace was found in Samanalawewa and archaeologists were able to produce steel as the ancients did. 
+
+Crucible steel, formed by slowly heating and cooling pure iron and carbon (typically in the form of charcoal) in a crucible, was produced in Merv by the 9th to 10th century AD. In the 11th century, there is evidence of the production of steel in Song China using two techniques: a "berganesque" method that produced inferior, inhomogeneous steel and a precursor to the modern Bessemer process that used partial decarbonization via repeated forging under a cold blast. 
+
+===Modern steelmaking===
+A Bessemer converter in Sheffield, England
+Since the 17th century the first step in European steel production has been the smelting of iron ore into pig iron in a blast furnace. Tylecote, R. F. A history of metallurgy 2 edn, Institute of Materials, London 1992, pp. 95–99 and 102–105. Originally using charcoal, modern methods use coke, which has proven more economical. Raistrick, A. A Dynasty of Ironfounders (1953; York 1989) Hyde, C. K. Technological Change and the British iron industry (Princeton 1977) Trinder, B. The Industrial Revolution in Shropshire (Chichester 2000) 
+
+====Processes starting from bar iron====
+
+In these processes pig iron was "fined" in a finery forge to produce bar iron (wrought iron), which was then used in steel-making. 
+
+The production of steel by the cementation process was described in a treatise published in Prague in 1574 and was in use in Nuremberg from 1601. A similar process for case hardening armour and files was described in a book published in Naples in 1589. The process was introduced to England in about 1614 and used to produce such steel by Sir Basil Brooke at Coalbrookdale during the 1610s. Barraclough, K. C. Steel before Bessemer: I Blister Steel: the birth of an industry (The Metals Society, London, 1984), pp. 48–52. 
+
+The raw material for this process were bars of wrought iron. During the 17th century it was realized that the best steel came from oregrounds iron of a region north of Stockholm, Sweden. This was still the usual raw material source in the 19th century, almost as long as the process was used. 
+
+Crucible steel is steel that has been melted in a crucible rather than having been forged, with the result that it is more homogeneous. Most previous furnaces could not reach high enough temperatures to melt the steel. The early modern crucible steel industry resulted from the invention of Benjamin Huntsman in the 1740s. Blister steel (made as above) was melted in a crucible or in a furnace, and cast (usually) into ingots. K. C. Barraclough, Steel before Bessemer: II Crucible Steel: the growth of technology (The Metals Society, London, 1984). 
+
+====Processes starting from pig iron====
+A Siemens-Martin steel oven from the Brandenburg Museum of Industry.
+White-hot steel pouring out of an electric arc furnace.
+
+The modern era in steelmaking began with the introduction of Henry Bessemer's Bessemer process in 1855, the raw material for which was pig iron. His method let him produce steel in large quantities cheaply, thus mild steel came to be used for most purposes for which wrought iron was formerly used. The Gilchrist-Thomas process (or basic Bessemer process) was an improvement to the Bessemer process, made by lining the converter with a basic material to remove phosphorus.
+
+Another 19th-century steelmaking process was the Siemens-Martin process, which complemented the Bessemer process. It consisted of co-melting bar iron (or steel scrap) with pig iron.
+
+These methods of steel production were rendered obsolete by the Linz-Donawitz process of basic oxygen steelmaking (BOS), developed in the 1950s, and other oxygen steel making methods. Basic oxygen steelmaking is superior to previous steelmaking methods because the oxygen pumped into the furnace limits impurities that previously had entered from the air used. Today, electric arc furnaces (EAF) are a common method of reprocessing scrap metal to create new steel. They can also be used for converting pig iron to steel, but they use a lot of electricity (about 440 kWh per metric ton), and are thus generally only economical when there is a plentiful supply of cheap electricity. Jones, J.A.T. ; Bowman, B. and Lefrank, P.A. Electric Furnace Steelmaking, in The Making, Shaping and Treating of Steel, pp. 525–660. R.J. Fruehan, Editor. 1998, The AISE Steel Foundation: Pittsburgh. 
+
+==Steel industry==
+
+Steel production by country in 2007
+A steel plant in the United Kingdom.
+It is common today to talk about "the iron and steel industry" as if it were a single entity, but historically they were separate products. The steel industry is often considered an indicator of economic progress, because of the critical role played by steel in infrastructural and overall economic development. 
+
+In 1980, there were more than 500,000 U.S. steelworkers. By 2000, the number of steelworkers fell to 224,000. "Congressional Record V. 148, Pt. 4, April 11, 2002 to April 24, 2002". United States Government Printing Office. 
+
+The economic boom in China and India has caused a massive increase in the demand for steel in recent years. Between 2000 and 2005, world steel demand increased by 6%. Since 2000, several Indian and Chinese steel firms have risen to prominence like Tata Steel (which bought Corus Group in 2007), Shanghai Baosteel Group Corporation and Shagang Group. ArcelorMittal is however the world's largest steel producer.
+
+In 2005, the British Geological Survey stated China was the top steel producer with about one-third of the world share; Japan, Russia, and the US followed respectively. 
+
+In 2008, steel began trading as a commodity on the London Metal Exchange. At the end of 2008, the steel industry faced a sharp downturn that led to many cut-backs. 
+
+The world steel industry peaked in 2007. That year, ThyssenKrupp spent $12 billion to build the two most modern mills in the world, in Calvert, Alabama and Sepetiba, Rio de Janeiro, Brazil. The worldwide Great Recession starting in 2008, however, sharply lowered demand and new construction, and so prices fell. ThyssenKrupp lost $11 billion on its two new plants, which sold steel below the cost of production. Finally in 2013, ThyssenKrupp offered the plants for sale at under $4 billion. John W. Miller and Ike Henning, "Thiessen gets offers for mills: Final bids for steel complexes in Alabama, Brazil will likely fall short of the company's hopes," Wall Street Journal March 1, 2013 
+
+==Recycling==
+
+Steel is one of the world's most-recycled materials, with a recycling rate of over 60% globally; in the United States alone, over 82,000,000 metric ton was recycled in the year 2008, for an overall recyclying rate of 83%. 
+
+==Contemporary steel==
+Bethlehem Steel in Bethlehem, Pennsylvania was one of the world's largest manufacturers of steel before its 2003 closure and later conversion into a casino.
+
+Modern steels are made with varying combinations of alloy metals to fulfill many purposes. Carbon steel, composed simply of iron and carbon, accounts for 90% of steel production. High strength low alloy steel has small additions (usually < 2% by weight) of other elements, typically 1.5% manganese, to provide additional strength for a modest price increase. 
+
+Low alloy steel is alloyed with other elements, usually molybdenum, manganese, chromium, or nickel, in amounts of up to 10% by weight to improve the hardenability of thick sections. Stainless steels contain a minimum of 11% chromium, often combined with nickel, to resist corrosion. Some stainless steels, such as the ferritic stainless steels are magnetic, while others, such as the austenitic, are nonmagnetic. Corrosion-resistant steels are abbreviated as CRES.
+
+Some more modern steels include tool steels, which are alloyed with large amounts of tungsten and cobalt or other elements to maximize solution hardening. This also allows the use of precipitation hardening and improves the alloy's temperature resistance. Tool steel is generally used in axes, drills, and other devices that need a sharp, long-lasting cutting edge. Other special-purpose alloys include weathering steels such as Cor-ten, which weather by acquiring a stable, rusted surface, and so can be used un-painted. 
+
+Many other high-strength alloys exist, such as dual-phase steel, which is heat treated to contain both a ferritic and martensitic microstructure to produce a formable, high strength steel. Transformation Induced Plasticity (TRIP) steel involves special alloying and heat treatments to stabilize amounts of austenite at room temperature in normally austenite-free low-alloy ferritic steels. By applying strain, the austenite undergoes a phase transition to martensite without the addition of heat. Maraging steel is alloyed with nickel and other elements, but unlike most steel contains little carbon 0.01%). This creates a very strong but still malleable steel. 
+
+Twinning Induced Plasticity (TWIP) steel uses a specific type of strain to increase the effectiveness of work hardening on the alloy. Eglin Steel uses a combination of over a dozen different elements in varying amounts to create a relatively low-cost steel for use in bunker buster weapons. Hadfield steel (after Sir Robert Hadfield) or manganese steel contains 12–14% manganese which when abraded strain hardens to form an incredibly hard skin which resists wearing. Examples include tank tracks, bulldozer blade edges and cutting blades on the jaws of life. Hadfield manganese steel. Answers.com. McGraw-Hill Dictionary of Scientific and Technical Terms, McGraw-Hill Companies, Inc., 2003. Retrieved on 2007-02-28. 
+
+Most of the more commonly used steel alloys are categorized into various grades by standards organizations. For example, the Society of Automotive Engineers has a series of grades defining many types of steel. The American Society for Testing and Materials has a separate set of standards, which define alloys such as A36 steel, the most commonly used structural steel in the United States. Steel Construction Manual, 8th Edition, second revised edition, American Institute of Steel Construction, 1986, ch. 1 page 1-5 
+
+Though not an alloy, galvanized steel is a commonly used variety of steel which has been hot-dipped or electroplated in zinc for protection against rust. 
+
+==Uses==
+A roll of steel wool
+
+Iron and steel are used widely in the construction of roads, railways, other infrastructure, appliances, and buildings. Most large modern structures, such as stadiums and skyscrapers, bridges, and airports, are supported by a steel skeleton. Even those with a concrete structure employ steel for reinforcing. In addition, it sees widespread use in major appliances and cars. Despite growth in usage of aluminium, it is still the main material for car bodies. Steel is used in a variety of other construction materials, such as bolts, nails, and screws. 
+
+Other common applications include shipbuilding, pipelines, mining, offshore construction, aerospace, white goods (e.g. washing machines), heavy equipment such as bulldozers, office furniture, steel wool, tools, and armour in the form of personal vests or vehicle armour (better known as rolled homogeneous armour in this role). 
+
+===Historical===
+A carbon steel knife
+Before the introduction of the Bessemer process and other modern production techniques, steel was expensive and was only used where no cheaper alternative existed, particularly for the cutting edge of knives, razors, swords, and other items where a hard, sharp edge was needed. It was also used for springs, including those used in clocks and watches. 
+
+With the advent of speedier and thriftier production methods, steel has become easier to obtain and much cheaper. It has replaced wrought iron for a multitude of purposes. However, the availability of plastics in the latter part of the 20th century allowed these materials to replace steel in some applications due to their lower fabrication cost and weight. Carbon fiber is replacing steel in some cost insensitive applications such as aircraft, sports equipment and high end automobiles.
+
+===Long steel===
+A steel bridge
+A steel pylon suspending overhead power lines
+*As reinforcing bars and mesh in reinforced concrete
+*Railroad tracks
+*Structural steel in modern buildings and bridges
+*Wires
+*Input to reforging applications
+
+===Flat carbon steel===
+*Major appliances
+*Magnetic cores
+*The inside and outside body of automobiles, trains, and ships.
+
+===Stainless steel===
+A stainless steel gravy boat
+
+*Cutlery
+*Rulers
+*Surgical instruments
+*Watches
+*Guns
+*Rail passenger vehicles
+
+===Low-background steel===
+
+Steel manufactured after World War II became contaminated with radionuclides due to nuclear weapons testing. Low-background steel, steel manufactured prior to 1945, is used for certain radiation-sensitive applications such as Geiger counters and radiation shielding.
+
+==See also==
+
+*Global steel industry trends
+*Iron in folklore
+*Knife metal
+*Machinability
+*Pelletizing
+*Rolling
+
+*Rolling mill
+*Rust Belt
+*Second industrial revolution
+*Silicon steel
+
+*Steel abrasive
+*Steel mill
+*Damascus steel
+*Wootz steel
+*Tamahagane, used in Samurai swords.
+*Tinplate
+
+==References==
+
+===Bibliography===
+*
+*.
+*
+*Gernet, Jacques (1982). A History of Chinese Civilization. Cambridge: Cambridge University Press.
+*
+
+==Further reading==
+*Duncan Burn; The Economic History of Steelmaking, 1867–1939: A Study in Competition. Cambridge University Press, 1961.
+*Harukiyu Hasegawa, The Steel Industry in Japan: A Comparison with Britain. 1996.
+*J. C. Carr and W. Taplin, History of the British Steel Industry. Harvard University Press, 1962.
+*H. Lee Scamehorn, Mill & Mine: The Cf&I in the Twentieth Century. University of Nebraska Press, 1992.
+*Needham, Joseph (1986). Science and Civilization in China: Volume 4, Part 1 & Part 3. Taipei: Caves Books, Ltd.
+*Warren, Kenneth, Big Steel: The First Century of the United States Steel Corporation, 1901–2001. University of Pittsburgh Press, 2001.
+
+==External links==
+
+*World Steel Association (worldsteel)
+*steeluniversity.org: Online steel education resources from worldsteel and the University of Liverpool
+*Huge archive on steels, Cambridge University
+*Cooking with Steels
+*Metallurgy for the Non-Metallurgist from the American Society for Metals
+*MATDAT Database of Properties of Unalloyed, Low-Alloy and High-Alloy Steels – obtained from published results of material testing
+
+ 

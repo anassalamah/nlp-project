@@ -1,0 +1,428 @@
+[[Perturbation theory (quantum mechanics)]]
+
+In quantum mechanics, perturbation theory is a set of approximation schemes directly related to mathematical perturbation for describing a complicated quantum system in terms of a simpler one. The idea is to start with a simple system for which a mathematical solution is known, and add an additional "perturbing" Hamiltonian representing a weak disturbance to the system. If the disturbance is not too large, the various physical quantities associated with the perturbed system (e.g. its energy levels and eigenstates) can, from considerations of continuity, be expressed as 'corrections' to those of the simple system. These corrections, being 'small' compared to the size of the quantities themselves, can be calculated using approximate methods such as asymptotic series. The complicated system can therefore be studied based on knowledge of the simpler one.
+
+== Applications of perturbation theory ==
+Perturbation theory is an important tool for describing real quantum systems, as it turns out to be very difficult to find exact solutions to the Schrödinger equation for Hamiltonians of even moderate complexity. The Hamiltonians to which we know exact solutions, such as the hydrogen atom, the quantum harmonic oscillator and the particle in a box, are too idealized to adequately describe most systems. Using perturbation theory, we can use the known solutions of these simple Hamiltonians to generate solutions for a range of more complicated systems. For example, by adding a perturbative electric potential to the quantum mechanical model of the hydrogen atom, we can calculate the tiny shifts in the spectral lines of hydrogen caused by the presence of an electric field (the Stark effect). This is only approximate because the sum of a Coulomb potential with a linear potential is unstable although the tunneling time (decay rate) is very long. This shows up as a broadening of the energy spectrum lines, something which perturbation theory fails to reproduce entirely.
+
+The expressions produced by perturbation theory are not exact, but they can lead to accurate results as long as the expansion parameter, say , is very small. Typically, the results are expressed in terms of finite power series in that seem to converge to the exact values when summed to higher order. After a certain order n ~ , however, the results become increasingly worse since the series are usually divergent (being asymptotic series). There exist ways to convert them into convergent series, which can be evaluated for large-expansion parameters, most efficiently by Variational method.
+
+In the theory of quantum electrodynamics (QED), in which the electron&ndash;photon interaction is treated perturbatively, the calculation of the electron's magnetic moment has been found to agree with experiment to eleven decimal places. In QED and other quantum field theories, special calculation techniques known as Feynman diagrams are used to systematically sum the power series terms.
+
+Under some circumstances, perturbation theory is an invalid approach to take. This happens when the system we wish to describe cannot be described by a small perturbation imposed on some simple system. In quantum chromodynamics, for instance, the interaction of quarks with the gluon field cannot be treated perturbatively at low energies because the coupling constant (the expansion parameter) becomes too large. Perturbation theory also fails to describe states that are not generated adiabatically from the "free model", including bound states and various collective phenomena such as solitons. Imagine, for example, that we have a system of free (i.e. non-interacting) particles, to which an attractive interaction is introduced. Depending on the form of the interaction, this may create an entirely new set of eigenstates corresponding to groups of particles bound to one another. An example of this phenomenon may be found in conventional superconductivity, in which the phonon-mediated attraction between conduction electrons leads to the formation of correlated electron pairs known as Cooper pairs. When faced with such systems, one usually turns to other approximation schemes, such as the variational method and the WKB approximation. This is because there is no analogue of a bound particle in the unperturbed model and the energy of a soliton typically goes as the inverse of the expansion parameter. However, if we "integrate" over the solitonic phenomena, the nonperturbative corrections in this case will be tiny; of the order of or in the perturbation parameter . Perturbation theory can only detect solutions "close" to the unperturbed solution, even if there are other solutions for which the perturbative expansion is not valid.
+
+The problem of non-perturbative systems has been somewhat alleviated by the advent of modern computers. It has become practical to obtain numerical non-perturbative solutions for certain problems, using methods such as density functional theory. These advances have been of particular benefit to the field of quantum chemistry. Computers have also been used to carry out perturbation theory calculations to extraordinarily high levels of precision, which has proven important in particle physics for generating theoretical results that can be compared with experiment.
+
+== Time-independent perturbation theory ==
+Time-independent perturbation theory is one of two categories of perturbation theory, the other being time-dependent perturbation (see next section). In time-independent perturbation theory the perturbation Hamiltonian is static (i.e., possesses no time dependence). Time-independent perturbation theory was presented by Erwin Schrödinger in a 1926 paper, shortly after he produced his theories in wave mechanics. In this paper Schrödinger referred to earlier work of Lord Rayleigh, who investigated harmonic vibrations of a string perturbed by small inhomogeneities. This is why this perturbation theory is often referred to as Rayleigh–Schrödinger perturbation theory.
+
+=== First order corrections ===
+We begin with an unperturbed Hamiltonian H0, which is also assumed to have no time dependence. It has known energy levels and eigenstates, arising from the time-independent Schrödinger equation:
+
+:
+
+For simplicity, we have assumed that the energies are discrete. The (0) superscripts denote that these quantities are associated with the unperturbed system. Note the use of bra–ket notation.
+
+We now introduce a perturbation to the Hamiltonian. Let be a Hamiltonian representing a weak physical disturbance, such as a potential energy produced by an external field. (Thus, is formally a Hermitian operator.) Let be a dimensionless parameter that can take on values ranging continuously from 0 (no perturbation) to 1 (the full perturbation). The perturbed Hamiltonian is
+
+:
+
+The energy levels and eigenstates of the perturbed Hamiltonian are again given by the Schrödinger equation:
+
+:
+
+Our goal is to express and in terms of the energy levels and eigenstates of the old Hamiltonian. If the perturbation is sufficiently weak, we can write them as power series in :
+
+:
+
+where
+ 
+:
+
+When λ 0, these reduce to the unperturbed values, which are the first term in each series. Since the perturbation is weak, the energy levels and eigenstates should not deviate too much from their unperturbed values, and the terms should rapidly become smaller as we go to higher order.
+
+Substituting the power series expansion into the Schrödinger equation, we obtain
+
+:
+
+Expanding this equation and comparing coefficients of each power of λ results in an infinite series of simultaneous equations. The zeroth-order equation is simply the Schrödinger equation for the unperturbed system. The first-order equation is
+
+:
+
+Operating through by . The first term on the left-hand side cancels with the first term on the right-hand side. (Recall, the unperturbed Hamiltonian is Hermitian). This leads to the first-order energy shift:
+
+:
+
+This is simply the expectation value of the perturbation Hamiltonian while the system is in the unperturbed state. This result can be interpreted in the following way: suppose the perturbation is applied, but we keep the system in the quantum state , which is a valid quantum state though no longer an energy eigenstate. The perturbation causes the average energy of this state to increase by . However, the true energy shift is slightly different, because the perturbed eigenstate is not exactly the same as '. These further shifts are given by the second and higher order corrections to the energy.
+
+Before we compute the corrections to the energy eigenstate, we need to address the issue of normalization. We may suppose
+
+:
+
+but perturbation theory assumes we also have . It follows that at first order in , we must have
+
+:
+
+Since the overall phase is not determined in quantum mechanics, without loss of generality, we may assume is purely real. Therefore,
+
+:
+
+and we deduce
+
+:
+
+To obtain the first-order correction to the energy eigenstate, we insert our expression for the first-order energy correction back into the result shown above of equating the first-order coefficients of . We then make use of the resolution of the identity,
+
+:
+
+where the are in the orthogonal complement of . The result is
+
+:
+
+For the moment, suppose that the zeroth-order energy level is not degenerate, i.e. there is no eigenstate of H0 in the orthogonal complement of with the energy . We multiply through by , which gives
+
+:
+
+and hence the component of the first-order correction along since by assumption . In total we get
+
+:
+
+The first-order change in the -th energy eigenket has a contribution from each of the energy eigenstates k ≠ n. Each term is proportional to the matrix element , which is a measure of how much the perturbation mixes eigenstate with eigenstate ; it is also inversely proportional to the energy difference between eigenstates and , which means that the perturbation deforms the eigenstate to a greater extent if there are more eigenstates at nearby energies. We see also that the expression is singular if any of these states have the same energy as state , which is why we assumed that there is no degeneracy.
+
+=== Second-order and higher corrections ===
+We can find the higher-order deviations by a similar procedure, though the calculations become quite tedious with our current formulation. Our normalization prescription gives that
+
+:
+
+Up to second order, the expressions for the energies and (normalized) eigenstates are:
+
+:
+
+:
+
+Extending the process further, the third-order energy correction can be shown to be 
+
+:
+
+=== Effects of degeneracy ===
+Suppose that two or more energy eigenstates are degenerate. The first-order energy shift is not well defined, since there is no unique way to choose a basis of eigenstates for the unperturbed system. The calculation of the change in the eigenstate is problematic as well, because the operator
+
+:
+
+does not have a well-defined inverse.
+
+Let denote the subspace spanned by these degenerate eigenstates. No matter how small the perturbation is, in the degenerate subspace the energy differences between the eigenstates H0 are zero, so complete mixing of at least some of these states is assured. Thus the perturbation can not be considered small in the subspace and in that subspace the new Hamiltonian must be diagonalized first. These correct perturbed eigenstates in are now the basis for the perturbation expansion:
+
+:
+
+where only eigenstates outside of the subspace are considered to be small. For the first-order perturbation we need to solve the perturbed Hamiltonian restricted to the degenerate subspace 
+
+:
+
+simultaneously for all the degenerate eigenstates, where are first-order corrections to the degenerate energy levels. This is equivalent to diagonalizing the matrix
+
+:
+
+This procedure is approximate, since we neglected states outside the subspace. The splitting of degenerate energies is generally observed. Although the splitting may be small compared to the range of energies found in the system, it is crucial in understanding certain details, such as spectral lines in Electron Spin Resonance experiments.
+
+Higher-order corrections due to other eigenstates can be found in the same way as for the non-degenerate case
+
+:
+
+The operator on the left hand side is not singular when applied to eigenstates outside , so we can write
+
+:
+
+but the effect on the degenerate states is minuscule, proportional to the square of the first-order correction .
+
+Near-degenerate states should also be treated in the above manner, since the original Hamiltonian won't be larger than the perturbation in the near-degenerate subspace. An application is found in the nearly free electron model, where near-degeneracy treated properly gives rise to an energy gap even for small perturbations. Other eigenstates will only shift the absolute energy of all near-degenerate states simultaneously.
+
+=== Generalization to multi-parameter case ===
+The generalization of the time-independent perturbation theory to the multi-parameter case can be formulated more systematically using the language of differential geometry, which basically defines the derivatives of the quantum states and calculate the perturbative corrections by taking derivatives iteratively at the unperturbed point.
+
+==== Hamiltonian and force operator ====
+From the differential geometric point of view, a parameterized Hamiltonian is considered as a function defined on the parameter manifold that maps each particular set of parameters to an Hermitian operator H(x μ) that acts on the Hilbert space. The parameters here can be external field, interaction strength, or driving parameters in the quantum phase transition. Let En(x μ) and be the -th eigenenergy and eigenstate of H(x μ) respectively. In the language of differential geometry, the states form a vector bundle over the parameter manifold, on which derivatives of these states can be defined. The perturbation theory is to answer the following question: given and at an unperturbed reference point , how to estimate the En(x μ) and at x μ close to that reference point.
+
+Without loss of generality, the coordinate system can be shifted, such that the reference point is set to be the origin. The following linearly parameterized Hamiltonian is frequently used
+
+:
+
+If the parameters x μ are considered as generalized coordinates, then Fμ should be identified as the generalized force operators related to those coordinates. Different indices s label the different forces along different directions in the parameter manifold. For example, if x μ denotes the external magnetic field in the -direction, then Fμ should be the magnetization in the same direction.
+
+==== Perturbation theory as power series expansion ====
+The validity of the perturbation theory lies on the adiabatic assumption, which assumes the eigenenergies and eigenstates of the Hamiltonian are smooth functions of parameters such that their values in the vicinity region can be calculated in power series (like Taylor expansion) of the parameters:
+
+:
+
+Here ∂μ denotes the derivative with respect to x μ. When applying to the state , it should be understood as the Lie derivative if the vector bundle is equipped with non-vanishing connection. All the terms on the right-hand-side of the series are evaluated at x μ 0, e.g. En ≡ En(0) and . This convention will be adopted throughout this subsection, that all functions without the parameter dependence explicitly stated are assumed to be evaluated at the origin. The power series may converge slowly or even not converging when the energy levels are close to each other. The adiabatic assumption breaks down when there is energy level degeneracy, and hence the perturbation theory is not applicable in that case.
+
+==== Hellman–Feynman theorems ====
+The above power series expansion can be readily evaluated if there is a systematic approach to calculate the derivates to any order. Using the chain rule, the derivatives can be broken down to the single derivative on either the energy or the state. The Hellmann–Feynman theorems are used to calculate these single derivatives. The first Hellmann–Feynman theorem gives the derivative of the energy,
+
+:
+
+The second Hellmann–Feynman theorem gives the derivative of the state (resolved by the complete basis with m ≠ n),
+
+:
+
+For the linearly parameterized Hamiltonian, ∂μ'H simply stands for the generalized force operator Fμ.
+
+The theorems can be simply derived by applying the differential operator ∂μ to both sides of the Schrödinger equation which reads
+
+:
+
+Then overlap with the state from left and make use of the Schrödinger equation again ,
+
+:
+
+Given that the eigenstates of the Hamiltonian always from a set of orthonormal basis , both the cases of m n and m ≠ n can be discussed separately. The first case will lead to the first theorem and the second case to the second theorem, which can be shown immediately by rearranging the terms. With the differential rules given by the Hellmann–Feynman theorems, the perturbative correction to the energies and states can be calculated systematically.
+
+==== Correction of energy and state ====
+To the second order, the energy correction reads
+
+:
+
+The first order derivative ∂μ'En is given by the first Hellmann–Feynman theorem directly. To obtain the second order derivative ∂μ∂ν'En, simply applying the differential operator ∂μ to the result of the first order derivative , which reads
+
+:
+
+Note that for linearly parameterized Hamiltonian, there is no second derivative ∂μ∂ν'H 0 on the operator level. Resolve the derivative of state by inserting the complete set of basis,
+
+:
+
+then all parts can be calculated using the Hellmann–Feynman theorems. In terms of Lie derivatives, according to the definition of the connection for the vector bundle. Therefore the case m n can be excluded from the summation, which avoids the singularity of the energy denominator. The same procedure can be carried on for higher order derivatives, from which higher order corrections are obtained.
+
+The same computational scheme is applicable for the correction of states. The result to the second order is as follows
+
+:
+
+Both energy derivatives and state derivatives will be involved in deduction. Whenever a state derivative is encountered, resolve it by inserting the complete set of basis, then the Hellmann-Feynman theorem is applicable. Because differentiation can be calculated systematically, the series expansion approach to the perturbative corrections can be coded on computers with symbolic processing software like Mathematica.
+
+==== Effective Hamiltonian ====
+Let H(0) be the Hamiltonian completely restricted either in the low-energy subspace or in the high-energy subspace , such that there is no matrix element in H(0) connecting the low- and the high-energy subspaces, i.e. if . Let Fμ ∂μ'H be the coupling terms connecting the subspaces. Then when the high energy degrees of freedoms are integrated out, the effective Hamiltonian in the low energy subspace reads
+
+:
+
+Here are restricted in the low energy subspace. The above result can be derived by power series expansion of .
+
+In a formal way it is possible to define an effective Hamiltonian that gives exactly the low-lying energy states and wavefunctions. In practice, some kind of approximation (perturbation theory) is generally required.
+
+== Time-dependent perturbation theory ==
+
+===Method of variation of constants===
+Time-dependent perturbation theory, developed by Paul Dirac, studies the effect of a time-dependent perturbation V(t) applied to a time-independent Hamiltonian . Since the perturbed Hamiltonian is time-dependent, so are its energy levels and eigenstates. Therefore, the goals of time-dependent perturbation theory are slightly different from time-independent perturbation theory. We are interested in the following quantities:
+
+* The time-dependent expectation value of some observable A, for a given initial state.
+* The time-dependent amplitudes of those quantum states that are energy eigenkets (eigenvectors) in the unperturbed system.
+
+The first quantity is important because it gives rise to the classical result of an A measurement performed on a macroscopic number of copies of the perturbed system. For example, we could take A to be the displacement in the x-direction of the electron in a hydrogen atom, in which case the expected value, when multiplied by an appropriate coefficient, gives the time-dependent dielectric polarization of a hydrogen gas. With an appropriate choice of perturbation (i.e. an oscillating electric potential), this allows us to calculate the AC permittivity of the gas.
+
+The second quantity looks at the time-dependent probability of occupation for each eigenstate. This is particularly useful in laser physics, where one is interested in the populations of different atomic states in a gas when a time-dependent electric field is applied. These probabilities are also useful for calculating the "quantum broadening" of spectral lines (see line broadening).
+
+We will briefly examine the ideas behind Dirac's formulation of time-dependent perturbation theory. Choose an energy basis for the unperturbed system. (We will drop the (0) superscripts for the eigenstates, because it is not meaningful to speak of energy levels and eigenstates for the perturbed system.)
+
+If the unperturbed system is in eigenstate at time , its state at subsequent times varies only by a phase (we are following the Schrödinger picture, where state vectors evolve in time and operators are constant):
+
+:
+
+We now introduce a time-dependent perturbing Hamiltonian . The Hamiltonian of the perturbed system is
+
+:
+
+Let denote the quantum state of the perturbed system at time t. It obeys the time-dependent Schrödinger equation,
+
+:
+
+The quantum state at each instant can be expressed as a linear combination of the eigenbasis . We can write the linear combination as
+
+:
+
+where the s are undetermined complex functions of t which we will refer to as amplitudes (strictly speaking, they are the amplitudes in the Dirac picture). We have explicitly extracted the exponential phase factors on the right hand side. This is only a matter of convention, and may be done without loss of generality. The reason we go to this trouble is that when the system starts in the state and no perturbation is present, the amplitudes have the convenient property that, for all t, cj(t) = 1 and if .
+
+The square of the absolute amplitude cn(t) is the probability that the system is in state n at time t, since
+
+:
+
+Plugging into the Schrödinger equation and using the fact that ∂/∂t acts by a chain rule, we obtain
+
+:
+
+By resolving the identity in front of V, this can be reduced to a set of partial differential equations for the amplitudes:
+
+:
+
+The matrix elements of V play a similar role as in time-independent perturbation theory, being proportional to the rate at which amplitudes are shifted between states. Note, however, that the direction of the shift is modified by the exponential phase factor. Over times much longer than the energy difference Ek − En, the phase winds many times. If the time-dependence of V is sufficiently slow, this may cause the state amplitudes to oscillate. Such oscillations are useful for managing radiative transitions in a laser.
+
+Up to this point, we have made no approximations, so this set of differential equations is exact. By supplying appropriate initial values cn(0), we could in principle find an exact (i.e. non-perturbative) solution. This is easily done when there are only two energy levels (n = 1, 2), and the solution is useful for modelling systems like the ammonia molecule. However, exact solutions are difficult to find when there are many energy levels, and one instead looks for perturbative solutions, which may be obtained by putting the equations in an integral form:
+
+:
+
+By repeatedly substituting this expression for back into right hand side, we get an iterative solution
+
+:
+
+where, for example, the first-order term is
+
+:
+
+Many further results may be obtained, such as Fermi's golden rule, which relates the rate of transitions between quantum states to the density of states at particular energies, and the Dyson series, obtained by applying the iterative method to the time evolution operator, which is one of the starting points for the method of Feynman diagrams.
+
+===Method of Dyson series===
+Time dependent perturbations can be treated with the technique of Dyson series. Taking Schrödinger equation
+
+:
+
+this has the formal solution
+
+:
+
+being the time ordering operator such that
+
+:
+
+so that the exponential will represent the following Dyson series
+
+:
+
+Now, let us take the following perturbation problem
+
+:
+
+assuming that the parameter is small and that we are able to solve the problem . We do the following unitary transformation going to interaction picture or Dirac picture
+
+:
+
+and so the Schrödinger equation becomes
+
+:
+
+that can be solved through the above Dyson series as
+
+:
+
+being this a perturbation series with small . Using the solution of the unperturbed problem and (for the sake of simplicity we assume a pure discrete spectrum), we will have till first order
+
+:
+
+So, the system, initially in the unperturbed state , due to the perturbation can go into the state . The corresponding probability amplitude will be
+
+:
+
+and the corresponding transition probability will be given by Fermi's golden rule.
+
+Time independent perturbation theory can be derived from the time dependent perturbation theory. For this purpose, let us write the unitary evolution operator, obtained from the above Dyson series, as
+
+:
+
+and we take the perturbation time independent. Using the identity
+
+:
+
+with for a pure discrete spectrum, we can write
+
+:
+
+We see that, at second order, we have to sum on all the intermediate states. We assume and the asymptotic limit of larger times. This means that, at each contribution of the perturbation series, we have to add a multiplicative factor in the integrands so that, the limit t → ∞ will give back the final state of the system by eliminating all oscillating terms but keeping the secular ones. must be postulated as being arbitrarily small. In this way we can compute the integrals and, separating the diagonal terms from the others, we have
+
+:
+
+where the time secular series yields the eigenvalues of the perturbed problem and the remaining part gives the corrections to the eigenfunctions. The unitary evolution operator is applied to whatever eigenstate of the unperturbed problem and, in this case, we will get a secular series that holds at small times.
+
+== Strong perturbation theory ==
+In a similar way as for small perturbations, it is possible to develop a strong perturbation theory. Let us consider as usual the Schrödinger equation
+
+:
+
+and we consider the question if a dual Dyson series exists that applies in the limit of a perturbation increasingly large. This question can be answered in an affirmative way and the series is the well-known adiabatic series. This approach is quite general and can be shown in the following way. Let us consider the perturbation problem
+
+:
+
+being λ→ ∞. Our aim is to find a solution in the form
+
+:
+
+but a direct substitution into the above equation fails to produce useful results. This situation can be adjusted making a rescaling of the time variable as producing the following meaningful equations
+
+:
+:
+:
+
+that can be solved once we know the solution of the leading order equation. But we know that in this case we can use the adiabatic approximation. When does not depend on time one gets the Wigner-Kirkwood series that is often used in statistical mechanics. Indeed, in this case we introduce the unitary transformation
+
+:
+
+that defines a free picture as we are trying to eliminate the interaction term. Now, in dual way with respect to the small perturbations, we have to solve the Schrödinger equation
+
+:
+
+and we see that the expansion parameter appears only into the exponential and so, the corresponding Dyson series, a dual Dyson series, is meaningful at large s and is
+
+:
+
+After the rescaling in time we can see that this is indeed a series in justifying in this way the name of dual Dyson series. The reason is that we have obtained this series simply interchanging H0 and and we can go from one to another applying this exchange. This is called duality principle in perturbation theory. The choice yields, as already said, a Wigner-Kirkwood series that is a gradient expansion. The Wigner-Kirkwood series is a semiclassical series with eigenvalues given exactly as for WKB approximation. 
+
+==Examples==
+
+===Example of first order perturbation theory – ground state energy of the quartic oscillator===
+Let us consider the quantum harmonic oscillator with the quartic potential perturbation and
+the Hamiltonian
+
+: 
+
+The ground state of the harmonic oscillator is
+
+: 
+
+() and the energy of unperturbed ground state is
+
+: 
+
+Using the first order correction formula we get
+
+: 
+
+or
+
+: 
+
+=== Example of first and second order perturbation theory – quantum pendulum ===
+Consider the quantum mathematical pendulum with the Hamiltonian
+
+: 
+
+with the potential energy taken as the perturbation i.e.
+
+: 
+
+The unperturbed normalized quantum wave functions are those of the rigid rotor and are given by
+
+: 
+
+and the energies
+
+: 
+
+The first order energy correction to the rotor due to the potential energy is
+
+: 
+
+Using the formula for the second order correction one gets
+
+: 
+
+or
+
+: 
+
+or
+
+: 
+
+==See also==
+*Fermi's golden rule
+*Perturbative geometry
+
+==References==
+
+ 
+

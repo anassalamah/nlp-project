@@ -1,0 +1,330 @@
+[[Helmholtz free energy]]
+
+In thermodynamics, the Helmholtz free energy is a thermodynamic potential that measures the “useful” work obtainable from a closed thermodynamic system at a constant temperature. The negative of the difference in the Helmholtz energy is equal to the maximum amount of work that the system can perform in a thermodynamic process in which temperature is held constant. If the volume is not held constant, part of this work will be performed as boundary work. The Helmholtz energy is commonly used for systems held at constant volume. Since in this case no work is performed on the environment, the drop in the Helmholtz energy is equal to the maximum amount of useful work that can be extracted from the system. For a system at constant temperature and volume, the Helmholtz energy is minimized at equilibrium.
+
+The Helmholtz free energy was developed by Hermann von Helmholtz, a German physicist, and is usually denoted by the letter A (from the German “Arbeit” or work), or the letter F . The IUPAC recommends the letter A as well as the use of name Helmholtz energy. In physics, the letter F can also be used to denote the Helmholtz energy, as Helmholtz energy is sometimes referred to as the Helmholtz function, Helmholtz free energy, or simply free energy (not to be confused with Gibbs free energy).
+
+While Gibbs free energy is most commonly used as a measure of thermodynamic potential, especially in the field of chemistry, it is inconvenient for some applications that do not occur at constant pressure. For example, in explosives research, Helmholtz free energy is often used since explosive reactions by their nature induce pressure changes. It is also frequently used to define fundamental equations of state of pure substances.
+
+==Definition==
+The Helmholtz energy is defined as: Levine, Ira. N. (1978). "Physical Chemistry" McGraw Hill: University of Brooklyn 
+
+:
+
+where
+
+* A is the Helmholtz free energy (SI: joules, CGS: ergs),
+* U is the internal energy of the system (SI: joules, CGS: ergs),
+* T is the absolute temperature (kelvins),
+* S is the entropy (SI: joules per kelvin, CGS: ergs per kelvin).
+The Helmholtz energy is the Legendre transform of the internal energy, U, in which temperature replaces entropy as the independent variable.
+
+==Mathematical development==
+
+From the first law of thermodynamics (with a constant number of particles) we have
+
+:,
+
+where is the internal energy, is the energy added by heating and is the work done by the system. From the second law of thermodynamics, for a reversible process we may say that . Also, in case of a reversible change, the work done can be expressed as 
+
+:
+Applying the product rule for differentiation to d(TS) = TdS + SdT, we have:
+
+:,
+and:
+:
+The definition of A = U - TS enables to rewrite this as 
+:
+
+This relation is also valid for a process that is not reversible because A is a thermodynamic function of state.
+
+==Work in an Isothermal Process and Equilibrium Conditions==
+The fundamental thermodynamic relation is
+:
+
+We can make the substitution
+:
+Where equality holds for a reversible process
+
+The expression for the internal energy becomes
+:
+
+If we isolate the work term
+:
+
+And note that
+:
+
+Then
+: (isothermal process)
+Again, equality holds for a reversible process (in which becomes dW) . dW includes all reversible work, mechanical (pressure-volume) work and non-mechanical work (e. g. electrical work).
+
+The maximum energy that can be freed for work is the negative of the change in A. The process is nominally isothermal, but it is only important that the system have the same initial and final temperature, and not that it does not change.
+
+Now, imagine that our system is also kept at constant volume to prevent work from being done. If temperature and volume are kept constant, then dA = 0; this is a necessary, but not sufficient condition for equilibrium. For any spontaneous process, the change in Helmholtz free energy must be negative, that is . Therefore, to prevent a spontaneous change, we must also require that A be at a minimum.
+
+==Minimum free energy and maximum work principles==
+The laws of thermodynamics are only directly applicable to systems in thermal equilibrium. If we wish to describe phenomena like chemical reactions, then the best we can do is to consider suitably chosen initial and final states in which the system is in (metastable) thermal equilibrium. If the system is kept at fixed volume and is in contact with a heat bath at some constant temperature, then we can reason as follows.
+
+Since the thermodynamical variables of the system are well defined in the initial state and the final state, the internal energy increase, , the entropy increase , and the total amount of work that can be extracted, performed by the system, , are well-defined quantities. Conservation of energy implies:
+
+:
+
+The volume of the system is kept constant. This means that the volume of the heat bath does not change either and we can conclude that the heat bath does not perform any work. This implies that the amount of heat that flows into the heat bath is given by:
+
+:
+
+The heat bath remains in thermal equilibrium at temperature T no matter what the system does. Therefore the entropy change of the heat bath is:
+
+:
+
+The total entropy change is thus given by:
+
+:
+
+Since the system is in thermal equilibrium with the heat bath in the initial and the final states, T is also the temperature of the system in these states. The fact that the system's temperature does not change allows us to express the numerator as the free energy change of the system:
+
+:
+
+Since the total change in entropy must always be larger or equal to zero, we obtain the inequality:
+
+:
+
+If no work is extracted from the system then
+
+:
+
+We see that for a system kept at constant temperature and volume, the total free energy during a spontaneous change can only decrease, that the total amount of work that can be extracted is limited by the free energy decrease, and that increasing the free energy requires work to be done on the system.
+
+This result seems to contradict the equation , as keeping T and V constant seems to imply and hence . In reality there is no contradiction. After the spontaneous change, the system, as described by thermodynamics, is a different system with a different free energy function than it was before the spontaneous change. Thus, we can say that where the are different thermodynamic functions of state.
+
+One can imagine that the spontaneous change is carried out in a sequence of infinitesimally small steps. To describe such a system thermodynamically, one needs to enlarge the thermodynamical state space of the system. In case of a chemical reaction, one must specify the number of particles of each type. The differential of the free energy then generalizes to:
+
+:
+
+where the are the numbers of particles of type j and the are the corresponding chemical potentials. This equation is then again valid for both reversible and non-reversible changes. In case of a spontaneous change at constant T and V, the last term will thus be negative.
+
+In case there are other external parameters the above equation generalizes to:
+
+:
+
+Here the are the external variables and the the corresponding generalized forces.
+
+==Relation to the canonical partition function==
+A system kept at constant volume, temperature, and particle number is described by the canonical ensemble. The probability to find the system in some energy eigenstate r is given by:
+
+:
+
+where
+
+:
+
+:
+
+:
+
+Z is called the partition function of the system. The fact that the system does not have a unique energy means that the various thermodynamical quantities must be defined as expectation values. In the thermodynamical limit of infinite system size, the relative fluctuations in these averages will go to zero.
+
+The average internal energy of the system is the expectation value of the energy and can be expressed in terms of Z as follows:
+
+:
+
+If the system is in state r, then the generalized force corresponding to an external variable x is given by
+
+:
+
+The thermal average of this can be written as:
+
+:
+
+Suppose the system has one external variable . Then changing the system's temperature parameter by and the external variable by will lead to a change in :
+
+:
+
+If we write as:
+
+:
+
+we get:
+
+:
+
+This means that the change in the internal energy is given by:
+
+:
+
+In the thermodynamic limit, the fundamental thermodynamic relation should hold:
+
+:
+
+This then implies that the entropy of the system is given by:
+
+:
+
+where c is some constant. The value of c can be determined by considering the limit T → 0. In this limit the entropy becomes where is the ground state degeneracy. The partition function in this limit is where is the ground state energy. Thus, we see that and that:
+
+:
+
+==Bogoliubov inequality==
+Computing the free energy is an intractable problem for all but the simplest models in statistical physics. A powerful approximation method is mean field theory, which is a variational method based on the Bogoliubov inequality. This inequality can be formulated as follows.
+
+Suppose we replace the real Hamiltonian of the model by a trial Hamiltonian , which has different interactions and may depend on extra parameters that are not present in the original model. If we choose this trial Hamiltonian such that
+
+:
+
+where both averages are taken with respect to the canonical distribution defined by the trial Hamiltonian , then
+
+:
+
+where is the free energy of the original Hamiltonian and is the free energy of the trial Hamiltonian. By including a large number of parameters in the trial Hamiltonian and minimizing the free energy we can expect to get a close approximation to the exact free energy.
+
+The Bogoliubov inequality is often formulated in a sightly different but equivalent way. If we write the Hamiltonian as:
+
+:
+
+where is exactly solvable, then we can apply the above inequality by defining
+
+:
+
+Here we have defined to be the average of X over the canonical ensemble defined by . Since defined this way differs from by a constant, we have in general
+
+:
+
+Therefore
+
+:
+
+And thus the inequality
+
+:
+
+holds. The free energy is the free energy of the model defined by plus . This means that
+
+:
+
+and thus:
+
+:
+
+===Proof===
+
+For a classical model we can prove the Bogoliubov inequality as follows. We denote the canonical probability distributions for the Hamiltonian and the trial Hamiltonian by and , respectively. The inequality:
+
+:
+
+then holds. To see this, consider the difference between the left hand side and the right hand side. We can write this as:
+
+:
+
+Since
+
+:
+
+it follows that:
+
+:
+
+where in the last step we have used that both probability distributions are normalized to 1.
+
+We can write the inequality as:
+
+:
+
+where the averages are taken with respect to . If we now substitute in here the expressions for the probability distributions:
+
+:
+
+and
+
+:
+
+we get:
+
+:
+
+Since the averages of and are, by assumption, identical we have:
+
+:
+
+Here we have used that the partition functions are constants with respect to taking averages and that the free energy is proportional to minus the logarithm of the partition function.
+
+We can easily generalize this proof to the case of quantum mechanical models. We denote the eigenstates of by . We denote the diagonal components of the density matrices for the canonical distributions for and in this basis as:
+
+:
+
+and
+
+:
+
+where the are the eigenvalues of 
+
+We assume again that the averages of H and in the canonical ensemble defined by are the same:
+
+:
+
+where
+:
+
+The inequality
+
+:
+
+still holds as both the and the sum to 1. On the l.h.s. we can replace:
+
+:
+
+On the right hand side we can use the inequality
+
+:
+where we have introduced the notation
+
+:
+
+for the expectation value of the operator Y in the state r. See here for a proof. Taking the logarithm of this inequality gives:
+
+:
+
+This allows us to write:
+
+:
+
+The fact that the averages of H and are the same then leads to the same conclusion as in the classical case:
+
+:
+
+== Generalized Helmholtz energy ==
+
+In the more general case, the mechanical term () must be replaced by the product of volume, stress, and an infinitesimal strain: 
+
+:
+
+where is the stress tensor, and is the strain tensor. In the case of linear elastic materials that obey Hooke's Law, the stress is related to the strain by:
+
+:
+
+where we are now using Einstein notation for the tensors, in which repeated indices in a product are summed. We may integrate the expression for to obtain the Helmholtz energy:
+
+:
+
+:
+
+== Application to fundamental equations of state ==
+
+The Helmholtz free energy function for a pure substance (together with its partial derivatives) can be used to determine all other thermodynamic properties for the substance. See, for example, the equations of state for water, as given by the IAPWS in their IAPWS-95 release.
+
+== See also ==
+* Gibbs free energy and thermodynamic free energy for thermodynamics history overview and discussion of free energy
+* Grand potential
+* Work content - for applications to chemistry
+* Statistical mechanics
+* This page details the Helmholtz energy from the point of view of thermal and statistical physics.
+* Bennett acceptance ratio for an efficient way to calculate free energy differences, and comparison with other methods.
+
+== References ==
+
+== Further reading ==
+*Atkins' Physical Chemistry, 7th edition, by Peter Atkins and Julio de Paula, Oxford University Press
+
+*HyperPhysics Helmholtz Free Energy 
+
+

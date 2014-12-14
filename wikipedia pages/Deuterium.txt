@@ -1,0 +1,149 @@
+[[Deuterium]]
+
+Deuterium (symbol or , also known as heavy hydrogen) is one of two stable isotopes of hydrogen. It has a natural abundance in Earth's oceans of about one atom in of hydrogen. Thus deuterium accounts for approximately 0.0156% (or on a mass basis: 0.0312%) of all the naturally occurring hydrogen in the oceans, while the most common isotope (hydrogen-1 or protium) accounts for more than 99.98%. The abundance of deuterium changes slightly from one kind of natural water to another (see VSMOW).
+
+The nucleus of deuterium, called a deuteron, contains one proton and one neutron, whereas the far more common hydrogen isotope, protium, has no neutron in the nucleus. The deuterium isotope's name is formed from the Greek deuteros meaning "second", to denote the two particles composing the nucleus. Deuterium was discovered and named in 1931 by Harold Urey, earning him a Nobel Prize in 1934. This followed the discovery of the neutron in 1932, which made the nuclear structure of deuterium obvious. Soon after deuterium's discovery, Urey and others produced samples of "heavy water" in which the deuterium has been highly concentrated with respect to the protium.
+
+Because deuterium is destroyed in the interiors of stars faster than it is produced, and because other natural processes are thought to produce only an insignificant amount of deuterium, it is presently thought that nearly all deuterium found in nature was produced in the Big Bang 13.8 billion years ago, and that the basic or primordial ratio of hydrogen-1 (protium) to deuterium (about 26 atoms of deuterium per million hydrogen atoms) has its origin from that time. This is the ratio found in the gas giant planets, such as Jupiter. However, different astronomical bodies are found to have different ratios of deuterium to hydrogen-1, and this is thought to be as a result of natural isotope separation processes that occur from solar heating of ices in comets. Like the water-cycle in Earth's weather, such heating processes may enrich deuterium with respect to protium. In fact, the discovery of deuterium/protium ratios in a number of comets very similar to the mean ratio in Earth's oceans (156 atoms of deuterium per million hydrogens) has led to theories that much of Earth's ocean water has a cometary origin. 
+
+Deuterium/protium ratios thus continue to be an active topic of research in both astronomy and climatology.
+
+==Differences between deuterium and common hydrogen (protium)==
+
+===Chemical symbol===
+Deuterium discharge tube
+
+Deuterium is frequently represented by the chemical symbol D. Since it is an isotope of hydrogen with mass number 2, it is also represented by . IUPAC allows both D and , although is preferred. 
+ A distinct chemical symbol is used for convenience because of the isotope's common use in various scientific processes. Also, its large mass difference with protium () (deuterium has a mass of , compared to the mean hydrogen atomic weight of , and protium's mass of ) confers non-negligible chemical dissimilarities with protium-containing compounds, whereas the isotope weight ratios within other chemical elements are largely insignificant in this regard.
+
+=== Spectroscopy ===
+In quantum mechanics the energy levels of electrons in atoms depend on the reduced mass of the system of electron and nucleus. For the hydrogen atom, the role of reduced mass is most simply seen in the Bohr model of the atom, where the reduced mass appears in a simple calculation of the Rydberg constant and Rydberg equation, but the reduced mass also appears in the Schrödinger equation, and the Dirac equation for calculating atomic energy levels.
+
+The reduced mass of the system in these equations is close to the mass of a single electron, but differs from it by a small amount about equal to the ratio of mass of the electron to the atomic nucleus. For hydrogen, this amount is about 1837/1836, or 1.000545, and for deuterium it is even smaller: 3671/3670, or 1.0002725. The energies of spectroscopic lines for deuterium and light-hydrogen (hydrogen-1) therefore differ by the ratios of these two numbers, which is 1.000272. The wavelengths of all deuterium spectroscopic lines are shorter than the corresponding lines of light hydrogen, by a factor of 1.000272. In astronomical observation, this corresponds to a blue Doppler shift of 0.000272 times the speed of light, or 81.6 km/s. 
+
+=== Deuterium and Big Bang nucleosynthesis ===
+
+Deuterium is thought to have played an important role in setting the number and ratios of the elements that were formed in the Big Bang. Combining thermodynamics and the changes brought about by cosmic expansion, one can calculate the fraction of protons and neutrons based on the temperature at the point that the universe cooled enough to allow formation of nuclei. This calculation indicates seven protons for every neutron at the beginning of nucleogenesis, a ratio that would remain stable even after nucleogenesis was over. This fraction was in favor of protons initially, primarily because the lower mass of the proton favored their production. As the universe expanded, it cooled. Free neutrons and protons are less stable than helium nuclei, and the protons and neutrons had a strong energetic reason to form helium-4. However, forming helium-4 requires the intermediate step of forming deuterium.
+
+Through much of the few minutes after the big bang during which nucleosynthesis could have occurred, the temperature was high enough that the mean energy per particle was greater than the binding energy of weakly bound deuterium; therefore any deuterium that was formed was immediately destroyed. This situation is known as the deuterium bottleneck. The bottleneck delayed formation of any helium-4 until the universe became cool enough to form deuterium (at about a temperature equivalent to 0.1 MeV or 100 keV). At this point, there was a sudden burst of element formation (first deuterium, which immediately fused to helium). However, very shortly thereafter, at twenty minutes after the Big Bang, the universe became too cool for any further nuclear fusion and nucleosynthesis to occur. At this point, the elemental abundances were nearly fixed, with the only change as some of the radioactive products of BBN (such as tritium) decay. The deuterium bottleneck in the formation of helium, together with the lack of stable ways for helium to combine with hydrogen or with itself (there are no stable nuclei with mass numbers of five or eight) meant that insignificant carbon, or any elements heavier than carbon, formed in the Big Bang. These elements thus required formation in stars. At the same time, the failure of much nucleogenesis during the Big Bang ensured that there would be plenty of hydrogen in the later universe available to form long-lived stars, such as our Sun.
+
+=== Abundance ===
+Deuterium occurs in trace amounts naturally as deuterium gas, written 2 or D2, but most natural occurrence in the universe is bonded with a typical atom, a gas called hydrogen deuteride (HD or ). 
+
+The existence of deuterium on Earth, elsewhere in the solar system (as confirmed by planetary probes), and in the spectra of stars, is also an important datum in cosmology. Gamma radiation from ordinary nuclear fusion dissociates deuterium into protons and neutrons, and there are no known natural processes other than the Big Bang nucleosynthesis, which might have produced deuterium at anything close to the observed natural abundance of deuterium (deuterium is produced by the rare cluster decay, and occasional absorption of naturally occurring neutrons by light hydrogen, but these are trivial sources). There is thought to be little deuterium in the interior of the Sun and other stars, as at temperatures there nuclear fusion reactions that consume deuterium happen much faster than the proton-proton reaction that creates deuterium. However, deuterium persists in the outer solar atmosphere at roughly the same concentration as in Jupiter, and this has probably been unchanged since the origin of the Solar System. The natural abundance of deuterium seems to be a very similar fraction of hydrogen, wherever hydrogen is found, unless there are obvious processes at work that concentrate it.
+
+The existence of deuterium at a low but constant primordial fraction in all hydrogen is another one of the arguments in favor of the Big Bang theory over the Steady State theory of the universe. The presently observed ratios of hydrogen to helium to deuterium in the universe are difficult to explain except with a Big Bang model. It is estimated that the abundances of deuterium have not evolved significantly since their production about . 
+ Measurements of Milky Way galactic deuterium from ultraviolet spectral analysis show a ratio of as much as 23 atoms of deuterium per million hydrogen atoms in undisturbed gas clouds, which is only 15% below the WMAP estimated primordial ratio of about 27 atoms per million from the Big Bang. This has been interpreted to mean that less deuterium has been destroyed in star formation in our galaxy than expected, or perhaps deuterium has been replenished by a large in-fall of primordial hydrogen from outside the galaxy. NASA page on FUSE satellite In space a few hundred light years from the Sun, deuterium abundance is only 15 atoms per million, but this value is presumably influenced by differential adsorption of deuterium onto carbon dust grains in interstellar space. graph of deuterium with distance in our galactic neighborhood See also "What is the Total Deuterium Abundance in the Local Galactic Disk?" Linsky, J. L., Draine, B. T., Moos, H. W., Jenkins, E. B., Wood, B. E., Oliviera, C., Blair, W. P., Friedman, S. D., Knauth, D., Lehner, N., Redfield, S., Shull, J. M., Sonneborn, G., Williger, G. M., 2006, The Astrophysical Journal, Vol. 647, page 1106. 
+
+The abundance of deuterium in the atmosphere of Jupiter has been directly measured (by the Galileo space probe as 26 atoms per million hydrogen atoms. ISO-SWS observations find 22 atoms per million hydrogen atoms in Jupiter. 
+ and this abundance is thought to represent close to the primordial solar system ratio. This is about 17% of the terrestrial deuterium-to-hydrogen ratio of 156 deuterium atoms per million hydrogen atoms.
+
+Cometary bodies such as Comet Hale Bopp and Halley's Comet have been measured to contain relatively more deuterium (about 200 atoms D per million hydrogens), ratios which are enriched with respect to the presumed protosolar nebula ratio, probably due to heating, and which are similar to the ratios found in Earth seawater. The recent measurement of deuterium amounts of 161 atoms D per million hydrogen in Comet 103P/Hartley (a former Kuiper belt object), a ratio almost exactly that in Earth's oceans, emphasizes the theory that Earth's surface water may be largely comet-derived. 
+
+Deuterium has also observed to be concentrated over the mean solar abundance in other terrestrial planets, in particular Mars and Venus.
+
+===Production===
+
+Deuterium is produced for industrial, scientific and military purposes, by starting with ordinary water—a small fraction of which is naturally-occurring heavy water—and then separating out the heavy water by the Girdler sulfide process, distillation, or other methods.
+
+The world's leading supplier of deuterium was Atomic Energy of Canada Limited, in Canada, until 1997, when the last heavy water plant was shut down. Canada uses heavy water as a neutron moderator for the operation of the CANDU reactor design.
+
+==Properties==
+
+===Physical properties===
+
+The physical properties of deuterium compounds can exhibit significant kinetic isotope effects and other physical and chemical property differences from the hydrogen analogs; for example, D2O is more viscous than H2O. 
+Chemically, deuterium behaves similarly to ordinary hydrogen, but there are differences in bond energy and length for compounds of heavy hydrogen isotopes which are larger than the isotopic differences in any other element. Bonds involving deuterium and tritium are somewhat stronger than the corresponding bonds in hydrogen, and these differences are enough to make significant changes in biological reactions.
+
+Deuterium can replace the normal hydrogen in water molecules to form heavy water (D2O), which is about 10.6% denser than normal water (enough that ice made from it sinks in ordinary water). Heavy water is slightly toxic in eukaryotic animals, with 25% substitution of the body water causing cell division problems and sterility, and 50% substitution causing death by cytotoxic syndrome (bone marrow failure and gastrointestinal lining failure). Prokaryotic organisms, however, can survive and grow in pure heavy water (though they grow more slowly). Consumption of heavy water does not pose a health threat to humans, it is estimated that a person might drink 4.8 liters of heavy water without serious consequences. Small doses of heavy water (a few grams in humans, containing an amount of deuterium comparable to that normally present in the body) are routinely used as harmless metabolic tracers in humans and animals.
+
+===Quantum properties===
+The deuteron has spin +1 ("triplet") and is thus a boson. The NMR frequency of deuterium is significantly different from common light hydrogen. Infrared spectroscopy also easily differentiates many deuterated compounds, due to the large difference in IR absorption frequency seen in the vibration of a chemical bond containing deuterium, versus light hydrogen. The two stable isotopes of hydrogen can also be distinguished by using mass spectrometry.
+
+The triplet deuteron nucleon is barely bound at EB = , so all the higher energy states are not bound. The singlet deuteron is a virtual state, with a negative binding energy of . There is no such stable particle, but this virtual particle transiently exists during neutron-proton inelastic scattering, accounting for the unusually large neutron scattering cross-section of the proton. Neutron-Proton Scattering. (PDF). mit.edu. Retrieved on 2011-11-23. 
+
+===Nuclear properties (the deuteron)===
+
+====Deuteron mass and radius====
+The nucleus of deuterium is called a deuteron. It has a mass of 2002 CODATA recommended value. Physics.nist.gov. Retrieved on 2011-11-23. 
+The charge radius of the deuteron is 2006 CODATA recommended value 
+
+====Spin and energy====
+
+Deuterium is one of only four stable nuclides with an odd number of protons and odd number of neutrons. (, , , ; also, the long-lived radioactive nuclides , , , occur naturally.) Most odd-odd nuclei are unstable with respect to beta decay, because the decay products are even-even, and are therefore more strongly bound, due to nuclear pairing effects. Deuterium, however, benefits from having its proton and neutron coupled to a spin-1 state, which gives a stronger nuclear attraction; the corresponding spin-1 state does not exist in the two-neutron or two-proton system, due to the Pauli exclusion principle which would require one or the other identical particle with the same spin to have some other different quantum number, such as orbital angular momentum. But orbital angular momentum of either particle gives a lower binding energy for the system, primarily due to increasing distance of the particles in the steep gradient of the nuclear force. In both cases, this causes the diproton and dineutron nucleus to be unstable.
+
+The proton and neutron making up deuterium can be dissociated through neutral current interactions with neutrinos. The cross section for this interaction is comparatively large, and deuterium was successfully used as a neutrino target in the Sudbury Neutrino Observatory experiment.
+
+====Isospin singlet state of the deuteron====
+Due to the similarity in mass and nuclear properties between the proton and neutron, they are sometimes considered as two symmetric types of the same object, a nucleon. While only the proton has an electric charge, this is often negligible due to the weakness of the electromagnetic interaction relative to the strong nuclear interaction. The symmetry relating the proton and neutron is known as isospin and denoted I (or sometimes T).
+
+Isospin is an SU(2) symmetry, like ordinary spin, so is completely analogous to it. The proton and neutron form an isospin doublet, with a "down" state (↓) being a neutron, and an "up" state (↑) being a proton.
+
+A pair of nucleons can either be in an antisymmetric state of isospin called singlet, or in a symmetric state called triplet. In terms of the "down" state and "up" state, the singlet is
+:
+
+This is a nucleus with one proton and one neutron, i.e. a deuterium nucleus. The triplet is
+:
+and thus consists of three types of nuclei, which are supposed to be symmetric: a deuterium nucleus (actually a highly excited state of it), a nucleus with two protons, and a nucleus with two neutrons. The latter two nuclei are not stable or nearly stable, and therefore so is this type of deuterium (meaning that it is indeed a highly excited state of deuterium).
+
+====Approximated wavefunction of the deuteron====
+The deuteron wavefunction must be antisymmetric if the isospin representation is used (since a proton and a neutron are not identical particles, the wavefunction
+need not be antisymmetric in general). Apart from their isospin, the two nucleons also have spin and spatial distributions of their wavefunction. The latter is symmetric if the deuteron is symmetric under parity (i.e. have an "even" or "positive" parity), and antisymmetric if the deuteron is antisymmetric under parity (i.e. have an "odd" or "negative" parity). The parity is fully determined by the total orbital angular momentum of the two nucleons: if it is even then the parity is even (positive), and if it is odd then the parity is odd (negative).
+
+The deuteron, being an isospin singlet, is antisymmetric under nucleons exchange due to isospin, and therefore must be symmetric under the double exchange of their spin and location. Therefore it can be in either of the following two different states:
+*Symmetric spin and symmetric under parity. In this case, the exchange of the two nucleons will multiply the deuterium wavefunction by (−1) from isospin exchange, (+1) from spin exchange and (+1) from parity (location exchange), for a total of (−1) as needed for antisymmetry.
+*Antisymmetric spin and antisymmetric under parity. In this case, the exchange of the two nucleons will multiply the deuterium wavefunction by (−1) from isospin exchange, (−1) from spin exchange and (−1) from parity (location exchange), again for a total of (−1) as needed for antisymmetry.
+
+In the first case the deuteron is a spin triplet, so that its total spin s is 1. It also has an even parity and therefore even orbital angular momentum l ; The lower its orbital angular momentum, the lower its energy. Therefore the lowest possible energy state has s 1, l 0.
+
+In the second case the deuteron is a spin singlet, so that its total spin s is 0. It also has an odd parity and therefore odd orbital angular momentum l. Therefore the lowest possible energy state has s 0, l 1.
+
+Since s 1 gives a stronger nuclear attraction, the deuterium ground state is in the s 1, l 0 state.
+
+The same considerations lead to the possible states of an isospin triplet having s 0, l even or s 1, l odd. Thus the state of lowest energy has s 1, l 1, higher than that of the isospin singlet.
+
+The analysis just given is in fact only approximate, both because isospin is not an exact symmetry, and more importantly because the strong nuclear interaction between the two nucleons is related to angular momentum in spin-orbit interaction that mixes different s and l states. That is, s and l are not constant in time (they do not commute with the Hamiltonian), and over time a state such as s 1, l 0 may become a state of s 1, l 2. Parity is still constant in time so these do not mix with odd l states (such as s 0, l 1). Therefore the quantum state of the deuterium is a superposition (a linear combination) of the s 1, l 0 state and the s 1, l 2 state, even though the first component is much bigger. Since the total angular momentum j is also a good quantum number (it is a constant in time), both components must have the same j, and therefore j 1. This is the total spin of the deuterium nucleus.
+
+To summarize, the deuterium nucleus is antisymmetric in terms of isospin, and has spin 1 and even (+1) parity. The relative angular momentum of its nucleons l is not well defined, and the deuteron is a superposition of mostly l 0 with some l 2.
+
+====Magnetic and electric multipoles====
+In order to find theoretically the deuterium magnetic dipole moment µ, one uses the formula for a nuclear magnetic moment
+:
+with
+:
+g(l) and g(s) are g-factors of the nucleons.
+
+Since the proton and neutron have different values for g(l) and g(s), one must separate their contributions. Each gets half of the deuterium orbital angular momentum and spin . One arrives at
+
+:
+where subscripts p and n stand for the proton and neutron, and g(l)n 0.
+
+By using the same identities as here and using the value g(l)p , we arrive at the following result, in nuclear magneton units
+:
+
+For the s 1, l 0 state (j 1), we obtain
+:
+
+For the s 1, l 2 state (j 1), we obtain
+:
+
+The measured value of the deuterium magnetic dipole moment, is . This suggests that the state of the deuterium is indeed only approximately s 1, l 0 state, and is actually a linear combination of (mostly) this state with s 1, l 2 state.
+
+The electric dipole is zero as usual.
+
+The measured electric quadrupole of the deuterium is . While the order of magnitude is reasonable, since the deuterium radius is of order of 1 femtometer (see below) and its electric charge is e, the above model does not suffice for its computation. More specifically, the electric quadrupole does not get a contribution from the l =0 state (which is the dominant one) and does get a contribution from a term mixing the l =0 and the l =2 states, because the electric quadrupole operator does not commute with angular momentum.
+The latter contribution is dominant in the absence of a pure l 0 contribution, but cannot be calculated without knowing the exact spatial form of the nucleons wavefunction inside the deuterium.
+
+Higher magnetic and electric multipole moments cannot be calculated by the above model, for similar reasons.
+
+==Applications==
+Ionized deuterium in a fusor reactor giving off its characteristic pinkish-red glow
+Emission spectrum of an ultraviolet deuterium arc lamp
+Deuterium has a number of commercial and scientific uses. These include:
+
+===Nuclear reactors===
+Deuterium is used in heavy water moderated fission reactors, usually as liquid D2O, to slow neutrons without high neutron absorption of ordinary hydrogen. See neutron cross section#Typical cross sections This is a common commercial use for larger amounts of deuterium.
+
+In research reactors, liquid D2 is used in cold sources to moderate neutrons to very low energies and wavelengths appropriate for scattering experiments.
+
+Experimentally, deuterium is the most common nuclide used in nuclear fusion reactor designs, especially in combination with tritium, because of the large reaction rate (or nuclear cross section) and high energy yield of the D–T reaction. There is an even higher-yield D�

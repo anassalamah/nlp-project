@@ -1,0 +1,245 @@
+[[Titan (moon)]]
+
+Titan (or Saturn VI) is the largest moon of Saturn. It is the only natural satellite known to have a dense atmosphere, and the only object other than Earth for which clear evidence of stable bodies of surface liquid has been found. 
+
+Titan is the sixth ellipsoidal moon from Saturn. Frequently described as a planet-like moon, Titan has a diameter 50% larger than Earth's natural satellite, the Moon, and is 80% more massive. It is the second-largest moon in the Solar System, after Jupiter's moon Ganymede, and is larger by volume than the smallest planet, Mercury, although only 40% as massive. Discovered in 1655 by the Dutch astronomer Christiaan Huygens, Titan was the first known moon of Saturn, and the fifth known satellite of another planet. 
+
+Titan is primarily composed of water ice and rocky material. Much as with Venus prior to the Space Age, the dense, opaque atmosphere prevented understanding of Titan's surface until new information accumulated with the arrival of the Cassini–Huygens mission in 2004, including the discovery of liquid hydrocarbon lakes in Titan's polar regions. The geologically young surface is generally smooth, with few known impact craters, although mountains and several possible cryovolcanoes have been found. 
+
+The atmosphere of Titan is largely composed of nitrogen; minor components lead to the formation of methane and ethane clouds and nitrogen-rich organic smog. The climate—including wind and rain—creates surface features similar to those of Earth, such as dunes, rivers, lakes, seas (probably of liquid methane and ethane), and deltas, and is dominated by seasonal weather patterns as on Earth. With its liquids (both surface and subsurface) and robust nitrogen atmosphere, Titan's methane cycle is viewed as an analogy to Earth's water cycle, although at a much lower temperature.
+
+==Discovery and naming==
+Christiaan Huygens discovered Titan in 1655.
+
+Titan was discovered on March 25, 1655, by the Dutch astronomer Christiaan Huygens. Huygens was inspired by Galileo's discovery of Jupiter's four largest moons in 1610 and his improvements in telescope technology. Christiaan, with the help of his brother Constantijn Huygens, Jr., began building telescopes around 1650. Christiaan Huygens discovered this first observed moon orbiting Saturn with the first telescope they built.
+
+He named it simply Saturni Luna (or Luna Saturni, Latin for "Saturn's moon"), publishing in the 1655 tract De Saturni Luna Observatio Nova (A New Observation of Saturn's Moon). After Giovanni Domenico Cassini published his discoveries of four more moons of Saturn between 1673 and 1686, astronomers fell into the habit of referring to these and Titan as Saturn I through V (with Titan then in fourth position). Other early epithets for Titan include "Saturn's ordinary satellite". Titan is officially numbered Saturn VI because after the 1789 discoveries the numbering scheme was frozen to avoid causing any more confusion (Titan having borne the numbers II and IV as well as VI). Numerous small moons have been discovered closer to Saturn since then.
+
+The name Titan, and the names of all seven satellites of Saturn then known, came from John Herschel (son of William Herschel, discoverer of Mimas and Enceladus) in his 1847 publication Results of Astronomical Observations Made at the Cape of Good Hope. He suggested the names of the mythological Titans (), sisters and brothers of Cronus, the Greek Saturn. In Greek mythology, the Titans were a race of powerful deities, descendants of Gaia and Uranus, that ruled during the legendary Golden Age.
+
+==Orbit and rotation==
+Titan's orbit (highlighted in red) among the other large inner moons of Saturn. The moons outside its orbit are (from the outside to the inside) Iapetus and Hyperion; those inside are Rhea, Dione, Tethys, Enceladus, and Mimas.
+
+Titan orbits Saturn once every 15 days and 22 hours. Like many of the other satellites of the gas giants and the Moon, its rotational period is identical to its orbital period; Titan is thus tidally locked in synchronous rotation with Saturn, and always shows one face to the planet. Because of this, there is a sub-Saturnian point on its surface, from which the planet would appear to hang directly overhead. Longitudes on Titan are measured westward from the meridian passing through this point. Its orbital eccentricity is 0.0288, and the orbital plane is inclined 0.348 degrees relative to the Saturnian equator. Unless otherwise specified: Viewed from Earth, Titan reaches an angular distance of about 20 Saturn radii (just over 1200000 km) from Saturn and subtends a disk 0.8 arcseconds in diameter.
+
+The small, irregularly shaped satellite Hyperion is locked in a 3:4 orbital resonance with Titan. A "slow and smooth" evolution of the resonance—in which Hyperion would have migrated from a chaotic orbit—is considered unlikely, based on models. Hyperion probably formed in a stable orbital island, whereas the massive Titan absorbed or ejected bodies that made close approaches. 
+
+==Bulk characteristics==
+
+Titan is 5150 km across, compared to 4879 km for the planet Mercury, 3474 km for the Moon, and 12742 km for the Earth. Before the arrival of Voyager 1 in 1980, Titan was thought to be slightly larger than Ganymede (diameter 5262 km) and thus the largest moon in the Solar System; this was an overestimation caused by Titan's dense, opaque atmosphere, which extends many kilometres above its surface and increases its apparent diameter. Titan's diameter and mass (and thus its density) are similar to those of the Jovian moons Ganymede and Callisto. Based on its bulk density of 1.88 g/cm3, Titan's bulk composition is half water ice and half rocky material. Though similar in composition to Dione and Enceladus, it is denser due to gravitational compression.
+
+Titan is likely differentiated into several layers with a 3400 km rocky center surrounded by several layers composed of different crystal forms of ice. Its interior may still be hot and there may be a liquid layer consisting of a "magma" composed of water and ammonia between the ice Ih crust and deeper ice layers made of high-pressure forms of ice. The presence of ammonia allows water to remain liquid even at temperatures as low as 176 K (for eutectic mixture with water). Evidence for such an ocean has recently been uncovered by the Cassini probe in the form of natural extremely-low-frequency radio waves in Titan's atmosphere. Titan's surface is thought to be a poor reflector of extremely-low-frequency radio waves, so they may instead be reflecting off the liquid–ice boundary of a subsurface ocean. Surface features were observed by the Cassini spacecraft to systematically shift by up to 30 km between October 2005 and May 2007, which suggests that the crust is decoupled from the interior, and provides additional evidence for an interior liquid layer. Further supporting evidence for a liquid layer and decoupled ice shell, comes from the way the gravity field varies as Titan orbits Saturn. Comparison of the gravity field with the RADAR-based topography observations also suggests that the ice shell may be substantially rigid. 
+
+==Formation==
+The moons of Jupiter and Saturn are thought to have formed through co-accretion, a similar process to that believed to have formed the planets in the Solar System. As the young gas giants formed, they were surrounded by discs of material that gradually coalesced into moons. However, whereas Jupiter possesses four large satellites in highly regular, planet-like orbits, Titan overwhelmingly dominates Saturn's system and possesses a high orbital eccentricity not immediately explained by co-accretion alone. A proposed model for the formation of Titan is that Saturn's system began with a group of moons similar to Jupiter's Galilean satellites, but that they were disrupted by a series of giant impacts, which would go on to form Titan. Saturn's mid-sized moons, such as Iapetus and Rhea, were formed from the debris of these collisions. Such a violent beginning would also explain Titan's orbital eccentricity. 
+
+==Atmosphere==
+
+True-color image of layers of haze in Titan's atmosphere
+Titan is the only known moon with more than a trace of atmosphere. Its atmosphere is the only nitrogen-rich dense atmosphere in the Solar System aside from Earth's. Observations of its atmosphere made in 2004 by Cassini suggest that Titan is a "super rotator", like Venus, with an atmosphere that rotates much faster than its surface. Observations from the Voyager space probes have shown that Titan's atmosphere is denser than Earth's, with a surface pressure about 1.45 times that of Earth's. Titan's atmosphere is about 1.19 times as massive as Earth's overall, Coustenis, p. 130 or about 7.3 times more massive on a per surface area basis. It supports opaque haze layers that block most visible light from the Sun and other sources and renders Titan's surface features obscure. Titan's lower gravity means that its atmosphere is far more extended than Earth's. The atmosphere of Titan is opaque at many wavelengths and a complete reflectance spectrum of the surface is impossible to acquire from orbit. It was not until the arrival of the Cassini–Huygens mission in 2004 that the first direct images of Titan's surface were obtained. 
+
+Titan's atmospheric composition in the stratosphere is 98.4% nitrogen with the remaining 1.6% composed mostly of methane (1.4%) and hydrogen (0.1–0.2%). Coustenis, pp. 154–155 There are trace amounts of other hydrocarbons, such as ethane, diacetylene, methylacetylene, acetylene and propane, and of other gases, such as cyanoacetylene, hydrogen cyanide, carbon dioxide, carbon monoxide, cyanogen, argon and helium. The hydrocarbons are thought to form in Titan's upper atmosphere in reactions resulting from the breakup of methane by the Sun's ultraviolet light, producing a thick orange smog. Titan spends 95% of its time within Saturn's magnetosphere, which may help shield Titan from the solar wind. 
+Sunset studies on Titan by Cassini - helps better understand exoplanet atmospheres (artist concept; May 27, 2014).
+Energy from the Sun should have converted all traces of methane in Titan's atmosphere into more complex hydrocarbons within 50 million years — a short time compared to the age of the Solar System. This suggests that methane must be somehow replenished by a reservoir on or within Titan itself. The ultimate origin of the methane in Titan's atmosphere may be its interior, released via eruptions from cryovolcanoes. 
+
+On April 3, 2013, NASA reported that complex organic chemicals could arise on Titan based on studies simulating the atmosphere of Titan. 
+
+On June 6, 2013, scientists at the IAA-CSIC reported the detection of polycyclic aromatic hydrocarbons in the upper atmosphere of Titan. 
+
+On September 30, 2013, propylene was detected in the atmosphere of Titan by NASA's Cassini–Huygens spacecraft, using its composite infrared spectrometer (CIRS). This is the first time propylene has been found on any moon or planet other than Earth and is the first chemical found by the CIRS. The detection of propylene fills a mysterious gap in observations that date back to NASA’s Voyager spacecraft’s first close flyby of the moon in 1980, during which it was discovered that many of the gases that make up Titan’s hazy brown colored haze were hydrocarbons, theoretically formed via the recombination of radicals formed by the ultraviolet photolysis of methane, the second-most common gas in Titan's atmosphere, the probe discovered propane, the heaviest member of the three-carbon family, and propyne, the lightest member of that family, but did not see propene.
+
+==Climate==
+
+text-top
+Titan's surface temperature is about 94 K. At this temperature water ice has an extremely low vapor pressure, so the little water vapor present appears limited to the stratosphere. Titan receives about 1% of the amount of sunlight that Earth gets. 
+
+Atmospheric methane creates a greenhouse effect on Titan's surface, without which Titan would be far colder. Conversely, haze in Titan's atmosphere contributes to an anti-greenhouse effect by reflecting sunlight back into space, cancelling a portion of the greenhouse effect warming and making its surface significantly colder than its upper atmosphere. 
+
+Titan's clouds, probably composed of methane, ethane or other simple organics, are scattered and variable, punctuating the overall haze. The findings of the Huygens probe indicate that Titan's atmosphere periodically rains liquid methane and other organic compounds onto its surface. 
+
+Clouds typically cover 1% of Titan's disk, though outburst events have been observed in which the cloud cover rapidly expands to as much as 8%. One hypothesis asserts that the southern clouds are formed when heightened levels of sunlight during the southern summer generate uplift in the atmosphere, resulting in convection. This explanation is complicated by the fact that cloud formation has been observed not only after the southern summer solstice but also during mid-spring. Increased methane humidity at the south pole possibly contributes to the rapid increases in cloud size. It was summer in Titan's southern hemisphere until 2010, when Saturn's orbit, which governs Titan's motion, moved Titan's northern hemisphere into the sunlight. When the seasons switch, it is expected that ethane will begin to condense over the south pole. 
+
+==Surface features==
+
+Map of Titan's surface from April 2011
+
+The surface of Titan has been described as "complex, fluid-processed, geologically young". Titan has been around since the Solar System's formation, but its surface is much younger, between 100 million and 1 billion years old. Geological processes may have reshaped Titan's surface. Titan's atmosphere is twice as thick as the Earth's, making it difficult for astronomical instruments to image its surface in the visible light spectrum. The Cassini spacecraft is using infrared instruments, radar altimetry and synthetic aperture radar (SAR) imaging to map portions of Titan during its close fly-bys. The first images revealed a diverse geology, with both rough and smooth areas. There are features that may be volcanic in origin, disgorging water mixed with ammonia onto the surface. However, there is also evidence that Titan's ice shell may be substantially rigid, which would suggest little geologic activity. 
+
+There are also streaky features, some of them hundreds of kilometers in length, that appear to be caused by windblown particles. Examination has also shown the surface to be relatively smooth; the few objects that seem to be impact craters appeared to have been filled in, perhaps by raining hydrocarbons or volcanoes. Radar altimetry suggests height variation is low, typically no more than 150 meters. Occasional elevation changes of 500 meters have been discovered and Titan has mountains that sometimes reach several hundred meters to more than 1 kilometer in height. 
+
+Titan's surface is marked by broad regions of bright and dark terrain. These include Xanadu, a large, reflective equatorial area about the size of Australia. It was first identified in infrared images from the Hubble Space Telescope in 1994, and later viewed by the Cassini spacecraft. The convoluted region is filled with hills and cut by valleys and chasms. It is criss-crossed in places by dark lineaments—sinuous topographical features resembling ridges or crevices. These may represent tectonic activity, which would indicate that Xanadu is geologically young. Alternatively, the lineaments may be liquid-formed channels, suggesting old terrain that has been cut through by stream systems. There are dark areas of similar size elsewhere on Titan, observed from the ground and by Cassini; it had been speculated that these are methane or ethane seas, but Cassini observations seem to indicate otherwise (see below).
+
+ 260px 260px 260px 
+ Mosaic of Titan from Cassini's February 2005 flyby. The large dark region is Shangri-la. Titan in false color showing surface details and atmosphere with Xanadu in the bright region at the center-right. Titan Globe, a mosaic of infrared images with nomenclature 
+
+===Liquids===
+
+False-color Cassini radar mosaic of Titan's north polar region. Blue coloring indicates low radar reflectivity, caused by hydrocarbon seas, lakes and tributary networks filled with liquid ethane, methane and dissolved N2. About half of the large body at lower left, Kraken Mare, is shown. Ligeia Mare is at lower right.
+
+The possibility of hydrocarbon seas on Titan was first suggested based on Voyager 1 and 2 data that showed Titan to have a thick atmosphere of approximately the correct temperature and composition to support them, but direct evidence was not obtained until 1995 when data from Hubble and other observations suggested the existence of liquid methane on Titan, either in disconnected pockets or on the scale of satellite-wide oceans, similar to water on Earth. 
+
+The Cassini mission confirmed the former hypothesis, although not immediately. When the probe arrived in the Saturnian system in 2004, it was hoped that hydrocarbon lakes or oceans might be detectable by reflected sunlight from the surface of any liquid bodies, but no specular reflections were initially observed. Near Titan's south pole, an enigmatic dark feature named Ontario Lacus was identified (and later confirmed to be a lake). A possible shoreline was also identified near the pole via radar imagery. Following a flyby on July 22, 2006, in which the Cassini spacecraft's radar imaged the northern latitudes (that were then in winter), a number of large, smooth (and thus dark to radar) patches were seen dotting the surface near the pole. Based on the observations, scientists announced "definitive evidence of lakes filled with methane on Saturn's moon Titan" in January 2007. The Cassini–Huygens team concluded that the imaged features are almost certainly the long-sought hydrocarbon lakes, the first stable bodies of surface liquid found outside of Earth. Some appear to have channels associated with liquid and lie in topographical depressions. The liquid erosion features appear to be a very recent occurrence: channels in some regions have created surprisingly little erosion, suggesting erosion on Titan is extremely slow, or some other recent phenomena may have wiped out older riverbeds and landforms. Overall, the Cassini radar observations have shown that lakes cover only a few percent of the surface, making Titan much drier than Earth. Although most of the lakes are concentrated near the poles (where the relative lack of sunlight prevents evaporation), a number of long-standing hydrocarbon lakes in the equatorial desert regions have also been discovered, including one near the Huygens landing site in the Shangri-La region, which is about half the size of Utah's Great Salt Lake. The equatorial lakes are probably "oases", i.e. the likely supplier is underground aquifers. 
+
+In June 2008, the Visual and Infrared Mapping Spectrometer on Cassini confirmed the presence of liquid ethane beyond doubt in Ontario Lacus. On December 21, 2008, Cassini passed directly over Ontario Lacus and observed specular reflection in radar. The strength of the reflection saturated the probe's receiver, indicating that the lake level did not vary by more than 3 mm (implying either that surface winds were minimal, or the lake's hydrocarbon fluid is viscous). 
+
+Specular reflections are indicative of a smooth, mirror-like surface, so the observation corroborated the inference of the presence of a large liquid body drawn from radar imaging. The observation was made soon after the north polar region emerged from 15 years of winter darkness.
+
+On July 8, 2009, Cassini's VIMS observed a specular reflection indicative of a smooth, mirror-like surface, off what today is called Jingpo Lacus, a lake in the north polar region shortly after the area emerged from 15 years of winter darkness. 
+
+Radar measurements made in July 2009 and January 2010 indicate that Ontario Lacus is extremely shallow, with an average depth of 0.4–3.2 m, and a maximum depth of 2.9–7.4 m. In contrast, the northern hemisphere's Ligeia Mare has depths exceeding 8 m, the maximum measurable by the radar instrument. 
+
+During a flyby on 26 September 2012, Cassinis radar detected in Titan's northern polar region what is likely a river with a length of more than 400 kilometers. It has been compared with the much larger Nile river on Earth. This feature ends in Ligeia Mare. 
+
+During six flybys of Titan from 2006 to 2011, Cassini gathered radiometric tracking and optical navigation data from which investigators could roughly infer Titan's changing shape. The density of Titan is consistent with a body that is about 60% rock and 40% water. The team's analyses suggest that Titan's surface can rise and fall by up to 10 metres during each orbit. That degree of warping suggests that Titan's interior is relatively deformable, and that the most likely model of Titan is one in which an icy shell dozens of kilometres thick floats atop a global ocean. The team's findings, together with the results of previous studies, hint that Titan's ocean may lie no more than 100 km below its surface. 
+
+ upright=0.75 upright=0.625 
+ Photo of infrared specular reflection off Jingpo Lacus, a lake in the north polar region Perspective radar view of Bolsena Lacus (lower right) and other northern hemisphere hydrocarbon lakes 
+ upright=1.5 upright=1.5 
+ Contrasting images of the number of lakes in Titan's northern hemisphere (left) and southern hemisphere (right) Two images of Titan's southern hemisphere acquired one year apart, showing changes in south polar lakes 
+
+===Impact craters===
+Radar image of a 139 km diameter impact crater on Titan's surface, showing a smooth floor, rugged rim, and possibly a central peak.
+
+Radar, SAR and imaging data from Cassini have revealed few impact craters on Titan's surface. These impacts appear to be relatively young, compared to Titan's age. The few impact craters discovered include a 440 km wide two-ring impact basin named Menrva seen by Cassini's ISS as a bright-dark concentric pattern. A smaller, 60 km wide, flat-floored crater named Sinlap and a 30 km crater with a central peak and dark floor named Ksa have also been observed. Radar and Cassini imaging have also revealed a number of "crateriforms", circular features on the surface of Titan that may be impact related, but lack certain features that would make identification certain. For example, a 90 km wide ring of bright, rough material known as Guabonito has been observed by Cassini. This feature is thought to be an impact crater filled in by dark, windblown sediment. Several other similar features have been observed in the dark Shangri-la and Aaru regions. Radar observed several circular features that may be craters in the bright region Xanadu during Cassini's April 30, 2006 flyby of Titan. 
+
+Many of Titan's craters or probable craters display evidence of extensive erosion, and all show some indication of modification. Most large craters have breached or incomplete rims, despite the fact that some craters on Titan have relatively more massive rims than those anywhere else in the Solar System. However, there is little evidence of formation of palimpsests through viscoelastic crustal relaxation, unlike on other large icy moons. Most craters lack central peaks and have smooth floors, possibly due to impact-generation or later eruption of cryovolcanic lava. Although infill from various geological processes is one reason for Titan's relative deficiency of craters, atmospheric shielding also plays a role; it is estimated that Titan's atmosphere reduces the number of craters on its surface by a factor of two. 
+
+The limited high-resolution radar coverage of Titan obtained through 2007 (22%) suggested the existence of a number of nonuniformities in its crater distribution. Xanadu has 2–9 times more craters than elsewhere. The leading hemisphere has a 30% higher density than the trailing hemisphere. There are lower crater densities in areas of equatorial dunes and in the north polar region (where hydrocarbon lakes and seas are most common). 
+
+Pre-Cassini models of impact trajectories and angles suggest that where the impactor strikes the water ice crust, a small amount of ejecta remains as liquid water within the crater. It may persist as liquid for centuries or longer, sufficient for "the synthesis of simple precursor molecules to the origin of life". 
+
+===Cryovolcanism and mountains===
+
+Near-infrared image of Tortola Facula, thought to be a possible cryovolcano
+False-color VIMS image of the possible cryovolcano Sotra Patera, combined with a 3D map based on radar data, showing 1000-meter-high peaks and a 1500-meter-deep crater.
+
+Scientists have long speculated that conditions on Titan resemble those of early Earth, though at a much lower temperature. The detection of argon-40 in the atmosphere in 2004 indicated that volcanoes had spawned plumes of "lava" composed of water and ammonia. Global maps of the lake distribution on Titan's surface revealed that there is not enough surface methane to account for its continued presence in its atmosphere, and thus that a significant portion must be added through volcanic processes. 
+
+Still, there is a paucity of surface features that can be unambiguously interpreted as cryovolcanoes. One of the first of such features revealed by Cassini radar observations in 2004, called Ganesa Macula, resembles the geographic features called "pancake domes" found on Venus, and was thus initially thought to be cryovolcanic in origin, although the American Geophysical Union refuted this hypothesis in December 2008. The feature was found to be not a dome at all, but appeared to result from accidental combination of light and dark patches. In 2004 Cassini also detected an unusually bright feature (called Tortola Facula), which was interpreted as a cryovolcanic dome. No similar features have been identified as of 2010. In December 2008, astronomers announced the discovery of two transient but unusually long-lived "bright spots" in Titan's atmosphere, which appear too persistent to be explained by mere weather patterns, suggesting they were the result of extended cryovolcanic episodes. 
+
+In March 2009, structures resembling lava flows were announced in a region of Titan called Hotei Arcus, which appears to fluctuate in brightness over several months. Though many phenomena were suggested to explain this fluctuation, the lava flows were found to rise 200 m above Titan's surface, consistent with it having been erupted from beneath the surface. 
+
+A mountain range measuring 150 km long, 30 km wide and 1.5 km high was also discovered by Cassini in 2006. This range lies in the southern hemisphere and is thought to be composed of icy material and covered in methane snow. The movement of tectonic plates, perhaps influenced by a nearby impact basin, could have opened a gap through which the mountain's material upwelled. Prior to Cassini, scientists assumed that most of the topography on Titan would be impact structures, yet these findings reveal that similar to Earth, the mountains were formed through geological processes. In December 2010, the Cassini mission team announced the most compelling possible cryovolcano yet found. Named Sotra Patera, it is one in a chain of at least three mountains, each between 1000 and 1500 m in height, several of which are topped by large craters. The ground around their bases appears to be overlaid by frozen lava flows. 
+
+If volcanism on Titan really exists, the hypothesis is that it is driven by energy released from the decay of radioactive elements within the mantle, as it is on the Earth. Magma on Earth is made of liquid rock, which is less dense than the solid rocky crust through which it erupts. Because ice is less dense than water, Titan's watery magma would be denser than its solid icy crust. This means that cryovolcanism on Titan would require a large amount of additional energy to operate, possibly via tidal flexing from nearby Saturn. Alternatively, the pressure necessary to drive the cryovolcanoes may be caused by ice Ih "underplating" Titan's outer shell. The low-pressure ice, overlaying a liquid layer of ammonium sulfate, ascends buoyantly, and the unstable system can produce dramatic plume events. Titan is resurfaced through the process by grain-sized ice and ammonium sulfate ash, which helps produce a wind-shaped landscape and sand dune features. 
+
+In 2008 Jeffrey Moore (planetary geologist of Ames Research Center) proposed an alternate view of Titan's geology. Noting that no volcanic features had been unambiguously identified on Titan so far, he asserted that Titan is a geologically dead world, whose surface is shaped only by impact cratering, fluvial and eolian erosion, mass wasting and other exogenic processes. According to this hypothesis, methane is not emitted by volcanoes but slowly diffuses out of Titan's cold and stiff interior. Ganesa Macula may be an eroded impact crater with a dark dune in the center. The mountainous ridges observed in some regions can be explained as heavily degraded scarps of large multi-ring impact structures or as a result of the global contraction due to the slow cooling of the interior. Even in this case Titan may still have an internal ocean made of the eutectic water–ammonia mixture with the temperature of 176 K, which is low enough to be explained by the decay of radioactive elements in the core. The bright Xanadu terrain may be a degraded heavily cratered terrain similar to that observed on the surface of Callisto. Indeed, were it not for its lack of an atmosphere, Callisto could serve as a model for Titan's geology in this scenario. Jeffrey Moore even called Titan Callisto with weather. 
+
+===Dark terrain===
+Sand dunes in Earth's Namib Desert (top), compared with dunes in Belet on Titan
+
+In the first images of Titan's surface taken by Earth-based telescopes in the early 2000s, large regions of dark terrain were revealed straddling Titan's equator. Prior to the arrival of Cassini, these regions were thought to be seas of organic matter like tar or liquid hydrocarbons. Radar images captured by the Cassini spacecraft have instead revealed some of these regions to be extensive plains covered in longitudinal sand dunes, up to 330 ft high about a kilometer wide, and tens to hundreds of kilometers long. The longitudinal (or linear) dunes are presumed to be formed by moderately variable winds that either follow one mean direction or alternate between two different directions. Dunes of this type are always aligned with average wind direction. In the case of Titan, steady zonal (eastward) winds combine with variable tidal winds (approximately 0.5 meters per second). The tidal winds are the result of tidal forces from Saturn on Titan's atmosphere, which are 400 times stronger than the tidal forces of the Moon on Earth and tend to drive wind toward the equator. This wind pattern causes sand dunes to build up in long parallel lines aligned west-to-east. The dunes break up around mountains, where the wind direction shifts.
+
+The sand on Titan is likely not made up of small grains of silicates like the sand on Earth, but rather might have formed when liquid methane rained and eroded the ice bedrock, possibly in the form of flash floods. Alternatively, the sand could also have come from organic solids produced by photochemical reactions in Titan's atmosphere. Studies of dunes' composition in May 2008 revealed that they possessed less water than the rest of Titan, and are most likely to derive from organic material clumping together after raining onto the surface. 
+
+==Observation and exploration==
+Voyager 1 view of haze on Titan's limb (1980)
+
+Titan is never visible to the naked eye, but can be observed through small telescopes or strong binoculars. Amateur observation is difficult because of the proximity of Titan to Saturn's brilliant globe and ring system; an occulting bar, covering part of the eyepiece and used to block the bright planet, greatly improves viewing. Titan has a maximum apparent magnitude of +8.2, and mean opposition magnitude 8.4. This compares to +4.6 for the similarly sized Ganymede, in the Jovian system.
+
+Observations of Titan prior to the space age were limited. In 1907 Spanish astronomer Josep Comas Solá observed limb darkening of Titan, the first evidence that the body has an atmosphere. In 1944 Gerard P. Kuiper used a spectroscopic technique to detect an atmosphere of methane. 
+
+The first probe to visit the Saturnian system was Pioneer 11 in 1979, which confirmed that Titan was probably too cold to support life. It took images of Titan, including Titan and Saturn together in mid to late 1979. The quality was soon surpassed by the two Voyagers, but Pioneer 11 provided data for everyone to prepare with.
+
+Titan was examined by both Voyager 1 and 2 in 1980 and 1981, respectively. Voyager 1's course was diverted specifically to make a closer pass of Titan. Unfortunately, the craft did not possess any instruments that could penetrate Titan's haze, an unforeseen factor. Many years later, intensive digital processing of images taken through Voyager 1's orange filter did reveal hints of the light and dark features now known as Xanadu and Shangri-la, but by then they had already been observed in the infrared by the Hubble Space Telescope. Voyager 2 took only a cursory look at Titan. The Voyager 2 team had the option of steering the spacecraft to take a detailed look at Titan or to use another trajectory that would allow it to visit Uranus and Neptune. Given the lack of surface features seen by Voyager 1, the latter plan was implemented.
+
+===Cassini–Huygens===
+
+Even with the data provided by the Voyagers, Titan remained a body of mystery—a planet-like satellite shrouded in an atmosphere that makes detailed observation difficult. The intrigue that had surrounded Titan since the 17th-century observations of Christiaan Huygens and Giovanni Cassini was gratified by a spacecraft named in their honor.
+
+The Cassini–Huygens spacecraft reached Saturn on July 1, 2004, and has begun the process of mapping Titan's surface by radar. A joint project of the European Space Agency (ESA) and NASA, Cassini–Huygens has proved a very successful mission. The Cassini probe flew by Titan on October 26, 2004, and took the highest-resolution images ever of Titan's surface, at only 1200 km, discerning patches of light and dark that would be invisible to the human eye. Huygens landed on Titan on January 14, 2005, discovering that many of its surface features seem to have been formed by flowing fluids at some point in the past. On July 22, 2006, Cassini made its first targeted, close fly-by at 950 km from Titan; the closest flyby was at 880 km on June 21, 2010. Present liquid on the surface has been found in abundance in the north polar region, in the form of many lakes and seas discovered by Cassini. Titan is the most distant body from Earth and the second moon in the Solar System to have a space probe land on its surface.
+
+====Huygens landing site====
+
+On January 14, 2005, the Huygens probe landed on the surface of Titan, just off the easternmost tip of a bright region now called Adiri. The probe photographed pale hills with dark "rivers" running down to a dark plain. Current understanding is that the hills (also referred to as highlands) are composed mainly of water ice. Dark organic compounds, created in the upper atmosphere by the ultraviolet radiation of the Sun, may rain from Titan's atmosphere. They are washed down the hills with the methane rain and are deposited on the plains over geological time scales. 
+
+After landing, Huygens photographed a dark plain covered in small rocks and pebbles, which are composed of water ice. The two rocks just below the middle of the image on the right are smaller than they may appear: the left-hand one is 15 centimeters across, and the one in the center is 4 centimeters across, at a distance of about 85 centimeters from Huygens. There is evidence of erosion at the base of the rocks, indicating possible fluvial activity. The surface is darker than originally expected, consisting of a mixture of water and hydrocarbon ice. The assumption is that the "soil" visible in the images is precipitation from the hydrocarbon haze above.
+
+In March 2007, NASA, ESA, and COSPAR decided to name the Huygens landing site the Hubert Curien Memorial Station in memory of the former president of the ESA. 
+
+===Proposed or conceptual missions===
+The balloon proposed for the Titan Saturn System Mission (artistic rendition)
+There have been several conceptual missions proposed in recent years for returning a robotic space probe to Titan. Initial conceptual work has been completed for such missions by NASA, the ESA and JPL. At present, none of these proposals have become funded missions.
+
+The Titan Saturn System Mission (TSSM) was a joint NASA/ESA proposal for exploration of Saturn's moons. It envisions a hot-air balloon floating in Titan's atmosphere for six months. It was competing against the Europa Jupiter System Mission (EJSM) proposal for funding. In February 2009 it was announced that ESA/NASA had given the EJSM mission priority ahead of the TSSM, although TSSM was still considered for a later launch date. These plans were put on hold when NASA left that program in 2012.
+
+There was also a notional concept for a Titan Mare Explorer (TiME), which would be a low-cost lander that would splash down in a lake in Titan's northern hemisphere and float on the surface of the lake for 3 to 6 months. In 2012, however, NASA chose to fund the Mars probe InSight instead of TiME, rendering the Titan probe's future uncertain.
+
+Another mission to Titan proposed in early 2012 by Jason Barnes, a scientist at a University of Idaho, is the Aerial Vehicle for In-situ and Airborne Titan Reconnaissance (AVIATR): an unmanned plane (or drone) that would fly through Titan's atmosphere and take high-definition images of the surface of Titan. NASA did not approve the requested $715 million, however, and the future of the project is uncertain. 
+
+Another lake lander project was proposed in late 2012 by the Spain-based private engineering firm SENER and the Centro de Astrobiología in Madrid. The concept probe is called Titan Lake In-situ Sampling Propelled Explorer (TALISE). The major difference compared to the TiME probe would be that TALISE is envisioned with its own propulsion system and would therefore not be limited to simply floating on the lake it splashes down on.
+
+==Prebiotic conditions and search for life==
+
+Titan is thought to be a prebiotic environment rich in complex organic chemistry with a possible subsurface liquid ocean serving as a biotic environment. Titan is thought by some scientists to be a possible host for microbial extraterrestrial life. 
+
+Although the Cassini–Huygens mission was not equipped to provide evidence for biosignatures or complex organic compounds, it showed an environment on Titan that is similar, in some ways, to ones theorized for the primordial Earth. Scientists surmise that the atmosphere of early Earth was similar in composition to the current atmosphere on Titan, with the important exception of a lack of water vapor on Titan. 
+
+===Formation of complex molecules===
+
+The Miller–Urey experiment and several following experiments have shown that with an atmosphere similar to that of Titan and the addition of UV radiation, complex molecules and polymer substances like tholins can be generated. The reaction starts with dissociation of nitrogen and methane, forming hydrogen cyanide and acetylene. Further reactions have been studied extensively. 
+
+In October 2010, Sarah Horst of the University of Arizona reported finding the five nucleotide bases—building blocks of DNA and RNA—among the many compounds produced when energy was applied to a combination of gases like those in Titan's atmosphere. Horst also found amino acids, the building blocks of protein. She said it was the first time nucleotide bases and amino acids had been found in such an experiment without liquid water being present. 
+
+On April 3, 2013, NASA reported that complex organic chemicals could arise on Titan based on studies simulating the atmosphere of Titan. 
+
+===Possible subsurface habitats===
+
+Laboratory simulations have led to the suggestion that enough organic material exists on Titan to start a chemical evolution analogous to what is thought to have started life on Earth. Although the analogy assumes the presence of liquid water for longer periods than is currently observable, several theories suggest that liquid water from an impact could be preserved under a frozen isolation layer. It has also been theorized that liquid-ammonia oceans could exist deep below the surface; Another model suggests an ammonia–water solution as much as 200 km deep beneath a water-ice crust with conditions that, although extreme by terrestrial standards, are such that life could indeed survive. Heat transfer between the interior and upper layers would be critical in sustaining any subsurface oceanic life. Detection of microbial life on Titan would depend on its biogenic effects. That the atmospheric methane and nitrogen might be of biological origin has been examined, for example. 
+
+===Methane and life at the surface===
+
+It has been suggested that life could exist in the lakes of liquid methane on Titan, just as organisms on Earth live in water. Such creatures would inhale H2 in place of O2, metabolize it with acetylene instead of glucose, and exhale methane instead of carbon dioxide. 
+
+Although all living things on Earth (including methanogens) use liquid water as a solvent, it is speculated that life on Titan might instead use a liquid hydrocarbon, such as methane or ethane. Water is a stronger solvent than methane. However, water is also more chemically reactive, and can break down large organic molecules through hydrolysis. A life-form whose solvent was a hydrocarbon would not face the risk of its biomolecules being destroyed in this way. 
+
+In 2005, astrobiologist Chris McKay argued that if methanogenic life did exist on the surface of Titan, it would likely have a measurable effect on the mixing ratio in the Titan troposphere: levels of hydrogen and acetylene would be measurably lower than otherwise expected. 
+
+In 2010, Darrell Strobel, from Johns Hopkins University, identified a greater abundance of molecular hydrogen in the upper atmospheric layers of Titan compared to the lower layers, arguing for a downward flow at a rate of roughly 1025 molecules per second and disappearance of hydrogen near Titan's surface; as Strobel noted, his findings were in line with the effects McKay had predicted if methanogenic life-forms were present. The same year, another study showed low levels of acetylene on Titan's surface, which were interpreted by McKay as consistent with the hypothesis of organisms consuming hydrocarbons. Although restating the biological hypothesis, he cautioned that other explanations for the hydrogen and acetylene findings are more likely: the possibilities of yet unidentified physical or chemical processes (e.g., a surface catalyst accepting hydrocarbons or hydrogen), or flaws in the current models of material flow. Composition data and transport models need to be substantiated, etc. Even so, despite saying that a non-biological catalytic explanation would be less startling than a biological one, McKay noted that the discovery of a catalyst effective at 95 K would still be significant. 
+
+As NASA notes in its news article on the June 2010 findings: "To date, methane-based life forms are only hypothetical. Scientists have not yet detected this form of life anywhere". As the NASA statement also says: "some scientists believe these chemical signatures bolster the argument for a primitive, exotic form of life or precursor to life on Titan's surface". 
+
+===Obstacles===
+Despite these biological possibilities, there are formidable obstacles to life on Titan, and any analogy to Earth is inexact. At a vast distance from the Sun, Titan is frigid, and its atmosphere lacks CO2. At Titan's surface, water exists only in solid form. Because of these difficulties, scientists such as Jonathan Lunine have viewed Titan less as a likely habitat for life, than as an experiment for examining theories on the conditions that prevailed prior to the appearance of life on Earth. Although life itself may not exist, the prebiotic conditions on Titan and the associated organic chemistry remain of great interest in understanding the early history of the terrestrial biosphere. Using Titan as a prebiotic experiment involves not only observation through spacecraft, but laboratory experiment, and chemical and photochemical modeling on Earth. 
+
+===Panspermia hypothesis===
+
+It is hypothesized that large asteroid and cometary impacts on Earth's surface may have caused fragments of microbe-laden rock to escape Earth's gravity, suggesting the possibility of transpermia. Calculations indicate that a number of these would encounter many of the bodies in the Solar System, including Titan. On the other hand, Jonathan Lunine has argued that any living things in Titan's cryogenic hydrocarbon lakes would need to be so different chemically from Earth life that it would not be possible for one to be the ancestor of the other. copy at archive.org 
+
+===Future conditions===
+Conditions on Titan could become far more habitable in the far future. Five billion years from now, as the Sun becomes a red giant, surface temperatures could rise enough for Titan to support liquid water on its surface making it habitable. As the Sun's ultraviolet output decreases, the haze in Titan's upper atmosphere will be depleted, lessening the anti-greenhouse effect on the surface and enabling the greenhouse created by atmospheric methane to play a far greater role. These conditions together could create a habitable environment, and could persist for several hundred million years. This was sufficient time for simple life to evolve on Earth, although the presence of ammonia on Titan would cause chemical reactions to proceed more slowly. 
+
+==See also==
+
+* Colonization of Titan
+* Lakes of Titan 
+* Life on Titan
+* Saturn's moons in fiction
+* Titan in fiction
+
+==References==
+
+==Bibliography==
+* 
+
+==Further reading==
+
+* 
+
+==External links==
+
+* Cassini–Huygens Mission To Saturn & Titan. Multimedia Feature Titan Virtual Tour
+* Titan Profile at NASA's Solar System Exploration site
+* Video of Huygens’ descent from the ESA
+* Cassini Imaging Central Laboratory for Operations (CICLOPS) site Titan image search
+* European Space Agency. (2005). ESA—Cassini–Huygens. Retrieved March 28, 2005.
+* The Planetary Society (2005). TPS: Saturn's moon Titan. Retrieved March 28, 2005.
+* University of Arizona Lunar and Planetary Lab (2005). Lunar and Planetary Lab The Descent Imager-Spectral Radiometer of the Cassini–Huygens Mission to Titan. Retrieved March 28, 2005.
+* The Alien Noise. This recording is a laboratory reconstruction of the sounds heard by Huygens' microphones.
+* Movie of Titan's rotation from the National Oceanic and Atmospheric Administration site
+* AstronomyCast: Titan Fraser Cain and Pamela Gay, 2010.
+* Titan nomenclature and Titan map with feature names from the USGS planetary nomenclature page
+
+ 
+
+

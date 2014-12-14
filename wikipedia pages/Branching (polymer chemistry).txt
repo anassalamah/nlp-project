@@ -1,0 +1,34 @@
+[[Branching (polymer chemistry)]]
+
+ Branch point in a polymer
+Glycogen, a branched polysaccharideIn polymer chemistry, branching occurs by the replacement of a substituent, e.g., a hydrogen atom, on a monomer subunit, by another covalently bonded chain of that polymer; or, in the case of a graft copolymer, by a chain of another type. In crosslinking rubber by vulcanization, short sulfur branches link polyisoprene chains (or a synthetic variant) into a multiply branched thermosetting elastomer. Rubber can also be so completely vulcanized that it becomes a rigid solid, so hard it can be used as the bit in a smoking pipe. Polycarbonate chains can be crosslinked to form the hardest, most impact-resistant thermosetting plastic, used in safety glasses. 
+
+Branching may result from the formation of carbon-carbon or various other types of covalent bonds. Branching by ester and amide bonds is typically by a condensation reaction, producing one molecule of water (or HCl) for each bond formed.
+
+Polymers which are branched but not crosslinked are generally thermoplastic. Branching sometimes occurs spontaneously during synthesis of polymers; e.g., by free-radical polymerization of ethylene to form polyethylene. In fact, preventing branching to produce linear polyethylene requires special methods. Because of the way polyamides are formed, nylon would seem to be limited to unbranched, straight chains. But "star" branched nylon can be produced by the condensation of dicarboxylic acids with polyamines having three or more amino groups. Branching also occurs naturally during enzymatically-catalyzed polymerization of glucose to form polysaccharides such as glycogen (animals), and amylopectin, a form of starch (plants). The unbranched form of starch is called amylose.
+
+The ultimate in branching is a completely crosslinked network such as found in Bakelite, a phenol-formaldehyde thermoset resin.
+
+==Special types of branched polymer==
+Dendrimer synthesis first generation Newkome 1985
+:* A graft polymer molecule is a branched polymer molecule in which one or more the side chains are different, structurally or configurationally, from the main chain.
+:* A star-shaped polymer molecule is a branched polymer molecule in which a single branch point gives rise to multiple linear chains or arms. If the arms are identical the star polymer molecule is said to be regular. If adjacent arms are composed of different repeating subunits, the star polymer molecule is said to be variegated.
+:* A comb polymer molecule consists of a main chain with two or more three-way branch points and linear side chains. If the arms are identical the comb polymer molecule is said to be regular.
+:* A brush polymer molecule consists of a main chain with linear, unbranched side chains and where one or more of the branch points has four-way functionality or larger.
+:* A polymer network is a network in which all polymer chains are interconnected to form a single macroscopic entity by many crosslinks. See for example thermosets or interpenetrating polymer networks.
+:* A dendrimer is a repetitively branched compound.
+
+==Branching in radical polymerization==
+Polymerization of 1,3-butadiene
+In free radical polymerization, branching occurs when a chain curls back and bonds to an earlier part of the chain. When this curl breaks, it leaves small chains sprouting from the main carbon backbone. Branched carbon chains cannot line up as close to each other as unbranched chains can. This causes less contact between atoms of different chains, and fewer opportunities for induced or permanent dipoles to occur. A low density results from the chains being further apart. Lower melting points and tensile strengths are evident, because the intermolecular bonds are weaker and require less energy to break.
+
+The problem of branching occurs during propagation, when a chain curls back on itself and breaks - leaving irregular chains sprouting from the main carbon backbone. Branching makes the polymers less dense and results in low tensile strength and melting points. Developed by Karl Ziegler and Giulio Natta in the 1950s, Ziegler-Natta catalysts (triethylaluminium in the presence of a metal(IV) chloride) largely solved this problem. Instead of a free radical reaction, the initial ethene monomer inserts between the aluminium atom and one of the ethyl groups in the catalyst. The polymer is then able to grow out from the aluminium atom and results in almost totally unbranched chains. With the new catalysts, the tacticity of the polypropene chain, the alignment of alkyl groups, was also able to be controlled. Different metal chlorides allowed the selective production of each form i.e., syndiotactic, isotactic and atactic polymer chains could be selectively created.
+
+However there were further complications to be solved. If the Ziegler-Natta catalyst was poisoned or damaged then the chain stopped growing. Also, Ziegler-Natta monomers have to be small, and it was still impossible to control the molecular mass of the polymer chains. Again new catalysts, the metallocenes, were developed to tackle these problems. Due to their structure they have less premature chain termination and branching.
+
+==Branching index==
+The branching index measures the effect of long-chain branches on the size of a macromolecule in solution. It is defined [http://goldbook.iupac.org/goldbook/B00726.html ] as g = <sb2>/<sl2>, where sb is the mean square radius of gyration of the branched macromolecule in a given solvent, and sl is the mean square radius of gyration of an otherwise identical linear macromolecule in the same solvent at the same temperature. A value greater than 1 indicates an increased radius of gyration due to branching.
+
+==References==
+
+

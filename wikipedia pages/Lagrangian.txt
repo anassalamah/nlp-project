@@ -1,0 +1,341 @@
+[[Lagrangian]]
+
+The Lagrangian, L, of a dynamical system is a mathematical function that summarizes the dynamics of the system. The Lagrangian is named after Italian-French mathematician and astronomer Joseph Louis Lagrange. The concept of a Lagrangian was introduced in a reformulation of classical mechanics introduced by Lagrange known as Lagrangian mechanics.
+
+==Definition==
+
+In classical mechanics, the natural form of the Lagrangian is defined as the kinetic energy, T, of the system minus its potential energy, V. In symbols,
+
+:
+
+If the Lagrangian of a system is known, then the equations of motion of the system may be obtained by a direct substitution of the expression for the Lagrangian into the Euler–Lagrange equation. The Lagrangian of a given system is not unique, and two Lagrangians describing the same system can differ by the total derivative with respect to time of some function , but solving any equivalent Lagrangians will give the same equations of motion. 
+
+== The Lagrangian formulation ==
+
+=== Simple example ===
+
+The trajectory of a thrown ball is characterized by the sum of the Lagrangian values at each time being a (local) minimum.
+
+The Lagrangian L can be calculated at several instants of time t, and a graph of L against t can be drawn. The area under the curve is the action. Any different path between the initial and final positions leads to a larger action than that chosen by nature. Nature chooses the smallest action – this is the Principle of Least Action.
+
+Using only the principle of least action and the Lagrangian we can deduce the correct trajectory, by trial and error or the calculus of variations.
+
+=== Importance ===
+
+The Lagrangian formulation of mechanics is important not just for its broad applications, but also for its role in advancing deep understanding of physics. Although Lagrange only sought to describe classical mechanics, the action principle that is used to derive the Lagrange equation was later recognized to be applicable to quantum mechanics as well.
+
+Physical action and quantum-mechanical phase are related via Planck's constant, and the principle of stationary action can be understood in terms of constructive interference of wave functions.
+
+The same principle, and the Lagrangian formalism, are tied closely to Noether's theorem, which connects physical conserved quantities to continuous symmetries of a physical system.
+
+Lagrangian mechanics and Noether's theorem together yield a natural formalism for first quantization by including commutators between certain terms of the Lagrangian equations of motion for a physical system.
+
+=== Advantages over other methods ===
+*The formulation is not tied to any one coordinate system – rather, any convenient variables may be used to describe the system; these variables are called "generalized coordinates" qi and may be any quantitative attributes of the system (for example, strength of the magnetic field at a particular location; angle of a pulley; position of a particle in space; or degree of excitation of a particular eigenmode in a complex system) which are functions of the independent variable(s). This trait makes it easy to incorporate constraints into a theory by defining coordinates that only describe states of the system that satisfy the constraints.
+
+*If the Lagrangian is invariant under a symmetry, then the resulting equations of motion are also invariant under that symmetry. This characteristic is very helpful in showing that theories are consistent with either special relativity or general relativity.
+
+===Cyclic coordinates and conservation laws===
+
+An important property of the Lagrangian is that conservation laws can easily be read off from it. For example, if the Lagrangian does not depend on itself, then the generalized momentum (), given by:
+:
+is a conserved quantity, because of Lagrange's equations:
+
+:
+
+It doesn't matter if depends on the time derivative of that generalized coordinate, since the Lagrangian independence of the coordinate always makes the above partial derivative zero. This is a special case of Noether's theorem. Such coordinates are called "cyclic" or "ignorable".
+
+For example, the conservation of the generalized momentum,
+: 
+say, can be directly seen if the Lagrangian of the system is of the form
+:
+
+Also, if the time t, does not appear in L, then the Hamiltonian is conserved. This is the energy conservation unless the potential energy depends on velocity, as in electrodynamics. Classical Mechanics, T.W.B. Kibble, European Physics Series, McGraw-Hill (UK), 1973, ISBN 0-07-084018-0 Analytical Mechanics, L.N. Hand, J.D. Finch, Cambridge University Press, 2008, ISBN 978-0-521-57572-0 
+
+== Explanation ==
+The Lagrangian in many classical systems is a function of generalized coordinates q'i and their velocities dq'i/dt. These coordinates (and velocities) are, in their turn, parametric functions of time. In the classical view, time is an independent variable and q'i (and dq'i/dt) are dependent variables as is often seen in phase space explanations of systems. This formalism was generalized further to handle field theory. In field theory, the independent variable is replaced by an event in spacetime (x, y, z, t), or more generally still by a point s on a manifold. The dependent variables (q) are replaced by the value of a field at that point in spacetime φ(x,y,z,t) so that the equations of motion are obtained by means of an action principle, written as:
+
+:
+
+where the action, , is a functional of the dependent variables φi(s) with their derivatives and s itself
+
+:
+
+and where s = { sα} denotes the set of n independent variables of the system, indexed by α = 1, 2, 3,..., n. Notice L is used in the case of one independent variable (t) and is used in the case of multiple independent variables (usually four: x, y, z, t).
+
+The equations of motion obtained from this functional derivative are the Euler–Lagrange equations of this action. For example, in the classical mechanics of particles, the only independent variable is time, t. So the Euler–Lagrange equations are
+:
+
+Dynamical systems whose equations of motion are obtainable by means of an action principle on a suitably chosen Lagrangian are known as Lagrangian dynamical systems. Examples of Lagrangian dynamical systems range from the classical version of the Standard Model, to Newton's equations, to purely mathematical problems such as geodesic equations and Plateau's problem.
+
+==An example from classical mechanics==
+
+===In Cartesian coordinates===
+Suppose we have a three-dimensional space in which a particle of mass m moves under the influence of a conservative force . Since the force is conservative, it corresponds to a potential energy function given by . The Lagrangian of the particle can be written
+
+:
+
+The equations of motion for the particle are found by applying the Euler–Lagrange equation
+
+:
+where i = 1, 2, 3.
+
+Then
+:
+:
+and
+:
+
+Thus
+:
+which is Newton's second law of motion for a particle subject to a conservative force. Here the time derivative is written conventionally as a dot above the quantity being differentiated, and ∇ is the del operator.
+
+===In spherical coordinates===
+Suppose we have a three-dimensional space using spherical coordinates (r, θ, φ) with the Lagrangian
+
+:
+
+Then the Euler–Lagrange equations are:
+
+:
+:
+:
+
+Here the set of parameters si is just the time t, and the dynamical variables ϕi(s) are the trajectories of the particle.
+
+Despite the use of standard variables such as x, the Lagrangian allows the use of any coordinates, which do not need to be orthogonal. These are "generalized coordinates".
+
+==Lagrangian of a test particle==
+
+A test particle is a particle whose mass and charge are assumed to be so small that its effect on external system is insignificant. It is often a hypothetical simplified point particle with no properties other than mass and charge. Real particles like electrons and up quarks are more complex and have additional terms in their Lagrangians.
+
+===Classical test particle with Newtonian gravity===
+
+Suppose we are given a particle with mass m kilograms, and position meters in a Newtonian gravitation field with potential Φ in J·kg−1. The particle's world line is parameterized by time t seconds. The particle's kinetic energy is:
+
+:
+
+and the particle's gravitational potential energy is:
+
+:
+
+Then its Lagrangian is L joules where
+
+:
+
+Varying in the integral (equivalent to the Euler–Lagrange differential equation), we get
+
+:
+:
+
+Integrate the first term by parts and discard the total integral. Then divide out the variation to get
+
+:
+
+and thus
+
+is the equation of motion – two different expressions for the force.
+
+===Special relativistic test particle with electromagnetism===
+In special relativity, the energy (rest energy plus kinetic energy) of a free test particle is
+
+:
+
+However, the term in the Lagrangian that gives rise to the derivative of the momentum is no longer the kinetic energy. It must be changed to
+
+:
+
+where c is the vacuum speed of light in m·s−1, τ is the proper time in seconds (i.e. time measured by a clock moving with the particle) and The second term in the series is just the classical kinetic energy. Suppose the particle has electrical charge q coulombs and is in an electromagnetic field with scalar potential ϕ volts (a volt is a joule per coulomb) and vector potential V·s·m−1. The Lagrangian of a special relativistic test particle in an electromagnetic field is:
+
+:
+
+Varying this with respect to , we get
+
+:
+
+which is
+
+:
+
+which is the equation for the Lorentz force, where:
+
+:
+:
+
+are the fields and potentials.
+
+===General relativistic test particle===
+In general relativity, the first term generalizes (includes) both the classical kinetic energy and the interaction with the gravitational field. It becomes:
+
+:
+
+The Lagrangian of a general relativistic test particle in an electromagnetic field is:
+
+:
+
+If the four spacetime coordinates xµ are given in arbitrary units (i.e. unitless), then gµν in m2 is the rank 2 symmetric metric tensor which is also the gravitational potential. Also, Aµ in V·s is the electromagnetic 4-vector potential. Notice that a factor of c has been absorbed into the square root because it is the equivalent of
+
+:
+
+This notion has been directly generalized from special relativity.
+
+==Lagrangians and Lagrangian densities in field theory==
+The time integral of the Lagrangian is called the action denoted by S. In field theory, a distinction is occasionally made between the Lagrangian L, of which the action is the time integral:
+
+:
+
+and the Lagrangian density , which one integrates over all spacetime to get the action:
+
+:
+
+* General form of Lagrangian density: Mandl F., Shaw G., Quantum Field Theory, chapter 2 where (see 4-gradient)
+* The relationship between and : , similar to .
+* In field theory, the independent variable t was replaced by an event in spacetime (x, y, z, t) or still more generally by a point s on a manifold.
+
+The Lagrangian is then the spatial integral of the Lagrangian density. However, is also frequently simply called the Lagrangian, especially in modern use; it is far more useful in relativistic theories since it is a locally defined, Lorentz scalar field. Both definitions of the Lagrangian can be seen as special cases of the general form, depending on whether the spatial variable is incorporated into the index i or the parameters s in φi(s). Quantum field theories in particle physics, such as quantum electrodynamics, are usually described in terms of , and the terms in this form of the Lagrangian translate quickly to the rules used in evaluating Feynman diagrams.
+
+==Selected fields==
+
+To go with the section on test particles above, here are the equations for the fields in which they move. The equations below pertain to the fields in which the test particles described above move and allow the calculation of those fields. The equations below will not give you the equations of motion of a test particle in the field but will instead give you the potential (field) induced by quantities such as mass or charge density at any point . For example, in the case of Newtonian gravity, the Lagrangian density integrated over spacetime gives you an equation which, if solved, would yield . This , when substituted back in equation (), the Lagrangian equation for the test particle in a Newtonian gravitational field, provides the information needed to calculate the acceleration of the particle.
+
+===Newtonian gravity===
+
+The Lagrangian (density) is in J·m−3. The interaction term mΦ is replaced by a term involving a continuous mass density ρ in kg·m−3. This is necessary because using a point source for a field would result in mathematical difficulties. The resulting Lagrangian for the classical gravitational field is:
+
+:
+
+where G in m3·kg−1·s−2 is the gravitational constant. Variation of the integral with respect to Φ gives:
+
+:
+
+Integrate by parts and discard the total integral. Then divide out by δΦ to get:
+
+:
+
+and thus
+
+:
+
+which yields Gauss's law for gravity.
+
+===Electromagnetism in special relativity===
+
+The interaction terms 
+:
+are replaced by terms involving a continuous charge density ρ in A·s·m−3 and current density in A·m−2. The resulting Lagrangian for the electromagnetic field is:
+
+:
+
+Varying this with respect to ϕ, we get
+
+:
+
+which yields Gauss' law.
+
+Varying instead with respect to , we get
+
+:
+
+which yields Ampère's law.
+
+===Electromagnetism in general relativity===
+
+For the Lagrangian of gravity in general relativity, see Einstein–Hilbert action. The Lagrangian of the electromagnetic field is:
+
+:
+
+If the four spacetime coordinates xα are given in arbitrary units, then: in J·s is the Lagrangian, a scalar density; in coulombs is the current, a vector density; and in V·s is the electromagnetic tensor, a covariant antisymmetric tensor of rank two. Notice that the determinant under the square root sign is applied to the matrix of components of the covariant metric tensor gαβ, and gαβ is its inverse. Notice that the units of the Lagrangian changed because we are integrating over (x0, x1, x2, x3) which are unitless rather than over (t, x, y, z) which have units of s·m3. The electromagnetic field tensor is formed by anti-symmetrizing the partial derivative of the electromagnetic vector potential; so it is not an independent variable. The square root is needed to convert that term into a scalar density instead of just a scalar, and also to compensate for the change in the units of the variables of integration. The factor of (−c−2) inside the square root is needed to normalize it so that the square root will reduce to one in special relativity (since the determinant is (−c2) in special relativity).
+
+===Electromagnetism using differential forms===
+Using differential forms, the electromagnetic action S in vacuum on a (pseudo-) Riemannian manifold can be written (using natural units, 1=c = ε0 = 1) as
+:
+Here, A stands for the electromagnetic potential 1-form, and J is the current 3-form. This is exactly the same Lagrangian as in the section above, except that the treatment here is coordinate-free; expanding the integrand into a basis yields the identical, lengthy expression. Variation of the action leads to
+:
+These are Maxwell's equations for the electromagnetic potential. Substituting 1=F = dA immediately yields the equations for the fields,
+:
+:
+
+===Dirac Lagrangian===
+The Lagrangian density for a Dirac field is: Itzykson-Zuber, eq. 3-152 
+
+:
+
+where ψ is a Dirac spinor (annihilation operator), is its Dirac adjoint (creation operator) and is Feynman notation for .
+
+===Quantum electrodynamic Lagrangian===
+The Lagrangian density for QED is:
+
+:
+
+where is the electromagnetic tensor, D is the gauge covariant derivative, and is Feynman notation for .
+
+===Quantum chromodynamic Lagrangian===
+The Lagrangian density for quantum chromodynamics is: http://www.fuw.edu.pl/~dobaczew/maub-42w/node9.html http://smallsystems.isn-oldenburg.de/Docs/THEO3/publications/semiclassical.qcd.prep.pdf http://www-zeus.physik.uni-bonn.de/~brock/teaching/jets_ws0405/seminar09/sluka_quark_gluon_jets.pdf 
+
+:
+
+where D is the QCD gauge covariant derivative, 
+n = 1, 2, ...6 counts the quark types, and is the gluon field strength tensor.
+
+==Mathematical formalism==
+Suppose we have an n-dimensional manifold, M, and a target manifold, T. Let be the configuration space of smooth functions from M to T.
+
+=== Examples ===
+* In classical mechanics, in the Hamiltonian formalism, M is the one-dimensional manifold , representing time and the target space is the cotangent bundle of space of generalized positions.
+* In field theory, M is the spacetime manifold and the target space is the set of values the fields can take at any given point. For example, if there are m real-valued scalar fields, ϕ1, ..., ϕm, then the target manifold is . If the field is a real vector field, then the target manifold is isomorphic to . There is actually a much more elegant way using tangent bundles over M, but we will just stick to this version.
+
+=== Mathematical development ===
+
+Consider a functional, 
+:,
+called the action. Physical considerations require it be a mapping to (the set of all real numbers), not (the set of all complex numbers).
+
+In order for the action to be local, we need additional restrictions on the action. If , we assume is the integral over M of a function of , its derivatives and the position called the Lagrangian, . In other words,
+
+:
+
+It is assumed below, in addition, that the Lagrangian depends on only the field value and its first derivative but not the higher derivatives.
+
+Given boundary conditions, basically a specification of the value of at the boundary if M is compact or some limit on as x → ∞ (this will help in doing integration by parts), the subspace of consisting of functions, , such that all functional derivatives of S at are zero and satisfies the given boundary conditions is the subspace of on shell solutions.
+
+The solution is given by the Euler–Lagrange equations (thanks to the boundary conditions),
+
+:
+
+The left hand side is the functional derivative of the action with respect to .
+
+==Uses in Engineering==
+
+50 years ago Lagrangians were a general part of the engineering curriculum, but quarter of a century later, even with the ascendency of dynamical systems, they were dropped as requirements from the majority of engineering programs, and considered to be the domain of physics. A decade ago this changed dramatically, and Lagrangians are not only a required part of many ME and EE curricula, but are now seen as far more than the province of physics. This is true of pure and applied engineering, as well as the more physics-related aspects of engineering, or engineering optimization, which itself is more the province of Lagrange multipliers.
+
+Today, Lagrangians find their way into hundreds of direct engineering solutions, including robotics, turbulent flow analysis (Lagrangian and Eulerian specification of the flow field), signal processing, microscopic component contact and nanotechnology (superlinear convergent augmented Lagrangians), gyroscopic forcing and dissipation, semi-infinite supercomputing (which also involve Lagrange multipliers in the subfield of semi-infinite programming), chemical engineering (specific heat linear Lagrangian interpolation in reaction planning), civil engineering (dynamic analysis of traffic flows), optics engineering and design (Lagrangian and Hamiltonian optics) aerospace (Lagrangian interpolation), force stepping integrators, and even airbag deployment (coupled Eulerian-Lagrangians as well as SELM—the stochastic Eulerian Lagrangian method). 
+
+==See also==
+
+*Calculus of variations
+*Covariant classical field theory
+*Einstein–Maxwell–Dirac equations
+*Functional derivative
+*Functional integral
+*Generalized coordinates
+*Hamiltonian mechanics
+
+*Lagrangian and Eulerian coordinates
+*Euler–Lagrange equation
+*Lagrangian mechanics
+*Lagrangian point
+*Lagrangian system
+*Noether's theorem
+*Onsager–Machlup function
+*Principle of least action
+*Scalar field theory
+
+==Notes==
+ 
+
+==References==
+* David Tong Classical Dynamics (Cambridge lecture notes)
+
+ 
+
+

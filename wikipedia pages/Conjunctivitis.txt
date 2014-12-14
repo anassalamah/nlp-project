@@ -1,0 +1,130 @@
+[[Conjunctivitis]]
+
+Conjunctivitis (also called pink eye in North America or madras eye in India) is inflammation of the conjunctiva (the outermost layer of the eye and the inner surface of the eyelids). It is commonly due to an infection (usually viral, but sometimes bacterial ) or an allergic reaction.
+
+==Classification==
+Classification can be either by cause or by extent of the inflamed area.
+
+===By cause===
+
+*Allergic conjunctivitis, caused by allergens such as pollen, perfumes, cosmetics, smoke, dust mites, Balsam of Peru (used in food and drink for flavoring, in perfumes and toiletries for fragrance, and in medicine and pharmaceutical items for healing properties), and eye drops A patch test is used to diagnose it and identify the causative allergen. 
+*Bacterial conjunctivitis
+*Viral conjunctivitis
+*Chemical conjunctivitis
+*Neonatal conjunctivitis is often defined separately due to different organisms
+*Autoimmune
+
+===By extent of involvement===
+Blepharoconjunctivitis is the dual combination of conjunctivitis with blepharitis (inflammation of the eyelids).
+
+Keratoconjunctivitis is the combination of conjunctivitis and keratitis (corneal inflammation).
+
+==Signs and symptoms==
+Red eye (hyperaemia), swelling of conjunctiva (chemosis) and watering (epiphora) of the eyes are symptoms common to all forms of conjunctivitis. However, the pupils should be normally reactive, and the visual acuity normal.
+
+===Viral===
+Viral conjunctivitis is often associated with an infection of the upper respiratory tract, a common cold, and/or a sore throat. Its symptoms include excessive watering and itching. The infection usually begins with one eye, but may spread easily to the other.
+
+Viral conjunctivitis shows a fine, diffuse pinkness of the conjunctiva, which is easily mistaken for the ciliary injection of iritis, but there are usually corroborative signs on microscopy, particularly numerous lymphoid follicles on the tarsal conjunctiva, and sometimes a punctate keratitis.
+
+===Allergic===
+An eye with allergic conjunctivitis
+
+Allergic conjunctivitis is inflammation of the conjunctiva (the membrane covering the white part of the eye) due to allergy. Allergens differ among patients. Symptoms consist of redness (mainly due to vasodilation of the peripheral small blood vessels), oedema (swelling) of the conjunctiva, itching, and increased lacrimation (production of tears). If this is combined with rhinitis, the condition is termed "allergic rhinoconjunctivitis".
+
+The symptoms are due to release of histamine and other active substances by mast cells, which stimulate dilation of blood vessels, irritate nerve endings, and increase secretion of tears.
+
+===Bacterial===
+
+An eye with bacterial conjunctivitis
+Bacterial conjunctivitis causes the rapid onset of conjunctival redness, swelling of the eyelid, and mucopurulent discharge. Typically, symptoms develop first in one eye, but may spread to the other eye within 2–5 days. Bacterial conjunctivitis due to common pyogenic (pus-producing) bacteria causes marked grittiness/irritation and a stringy, opaque, greyish or yellowish mucopurulent discharge that may cause the lids to stick together, especially after sleep. Severe crusting of the infected eye and the surrounding skin may also occur. The gritty and/or scratchy feeling is sometimes localized enough for patients to insist they must have a foreign body in the eye. The more acute pyogenic infections can be painful. Common bacteria responsible for non-acute bacterial conjunctivitis are Staphylococci and Streptococci. 
+
+Bacteria such as Chlamydia trachomatis or Moraxella can cause a non-exudative but persistent conjunctivitis without much redness. Bacterial conjunctivitis may cause the production of membranes or pseudomembranes that cover the conjunctiva. Pseudomembranes consist of a combination of inflammatory cells and exudates, and are loosely adherent to the conjunctiva, while true membranes are more tightly adherent and cannot be easily peeled away. Cases of bacterial conjunctivitis that involve the production of membranes or pseudomembranes are associated with Neisseria gonorrhoeae, β-hemolytic streptococci, and C. diphtheriae. Corynebacterium diphtheriae causes membrane formation in conjunctiva of non-immunized children.
+
+===Chemical===
+Chemical eye injury is due to either an acidic or alkali substance getting in the eye. Alkalis are typically worse than acidic burns. Mild burns will produce conjunctivitis, while more severe burns may cause the cornea to turn white. Litmus paper is an easy way to rule out the diagnosis by verifying that the pH is within the normal range of 7.0—7.2. Large volumes of irrigation is the treatment of choice and should continue until the pH is 6—8. Local anaesthetic eye drops can be used to decrease the pain. 
+
+Irritant or toxic conjunctivitis show primarily marked redness. If due to splash injury, it is often present in only the lower conjunctival sac. With some chemicals, above all with caustic alkalis such as sodium hydroxide, there may be necrosis of the conjunctiva with a deceptively white eye due to vascular closure, followed by sloughing of the dead epithelium. This is likely to be associated with slit-lamp evidence of anterior uveitis.
+
+===Other===
+
+An eye with chlamydial conjunctivitis
+Inclusion conjunctivitis of the newborn (ICN) is a conjunctivitis that may be caused by the bacteria Chlamydia trachomatis, and may lead to acute, purulent conjunctivitis. However, it is usually self-healing. 
+
+Conjunctivitis is identified by irritation and redness of the conjunctiva. Except in obvious pyogenic or toxic/chemical conjunctivitis, a slit lamp (biomicroscope) is needed to have any confidence in the diagnosis. Examination of the tarsal conjunctiva is usually more diagnostic than the bulbar conjunctiva.
+
+==Causes==
+Conjunctivitis when caused by an infection is most commonly caused by a viral infection. Bacterial infections, allergies, other irritants and dryness are also common causes. Both bacterial and viral infections are contagious and passed from person to person, but can also spread through contaminated objects or water.
+
+The most common cause of viral conjunctivitis is adenoviruses. Herpetic keratoconjunctivitis (caused by herpes simplex viruses) can be serious and requires treatment with acyclovir. Acute hemorrhagic conjunctivitis is a highly contagious disease caused by one of two enteroviruses, Enterovirus 70 and Coxsackievirus A24. These were first identified in an outbreak in Ghana in 1969, and have spread worldwide since then, causing several epidemics. 
+
+The most common causes of acute bacterial conjunctivitis are Staphylococcus aureus, Streptococcus pneumoniae, and Haemophilus influenzae. Though very rare, hyperacute cases are usually caused by Neisseria gonorrhoeae or N. meningitidis. Chronic cases of bacterial conjunctivitis are those lasting longer than 3 weeks, and are typically caused by Staphylococcus aureus, Moraxella lacunata, or gram-negative enteric flora.
+
+Conjunctivitis may also be caused by allergens such as pollen, perfumes, cosmetics, smoke, dust mites, Balsam of Peru, and eye drops 
+
+Neotrombicula autumnalis (trombiculid mite) in contact with the upper eyelid margin, inducing conjunctivitis. 
+An exceptional case of conjunctivitis induced by a trombiculid mite (Neotrombicula autumnalis) was reported in 2013. 
+
+Conjunctivitis is part of the triad for Reiter's syndrome, a manifestation of reactive arthritis, which is thought to be caused by autoimmune cross-reactivity following certain bacterial infections. Reactive arthritis is highly associated with HLA-B27.
+
+==Diagnosis==
+Cultures are taken infrequently, because most cases of conjunctivitis are treated empirically and (eventually) successfully, but often only after running the gamut of the common possibilities. Swabs for bacterial culture are necessary if the history and signs suggest bacterial conjunctivitis, but there is no response to topical antibiotics. Viral culture may be appropriate in epidemic case clusters. 
+
+A patch test is used to identify the causative allergen in the case where conjunctivitis is caused by allergy. 
+
+Conjunctival scrapes for cytology can be useful in detecting chlamydial and fungal infections, allergy, and dysplasia, but are rarely done because of the cost and the general lack of laboratory staff experienced in handling ocular specimens. Conjunctival incisional biopsy is occasionally done when granulomatous diseases (e.g., sarcoidosis) or dysplasia are suspected.
+
+===Differential diagnosis===
+Conjunctivitis causes relatively nonspecific symptoms. Even after biomicroscopy, laboratory tests are often necessary if proof of etiology is needed.
+
+A purulent discharge (a whitish-yellow, yellow or yellow-brown substance, more commonly known as pus) suggests a bacterial infection. It can also be caused by bacteria from feces, pet hair, or by smoke or other fumes. Infection with Neisseria gonorrhoeae should be suspected if the discharge is particularly thick and copious.
+
+Itching (rubbing eyes) is the hallmark symptom of allergic conjunctivitis. Other symptoms include history of eczema, or asthma.
+
+A diffuse, less "injected" conjunctivitis (looking pink rather than red) suggests a viral cause, especially if numerous follicles are present on the lower tarsal conjunctiva on biomicroscopy.
+
+Scarring of the tarsal conjunctiva suggests trachoma, especially if seen in endemic areas, if the scarring is linear (Arlt's line), or if there is also corneal vascularization.
+
+Clinical tests for lagophthalmos, dry eye (Schirmer test) and unstable tear film may help distinguish the various types of conjunctivitis.
+
+Other symptoms, including pain, blurring of vision and photophobia, should not be prominent in conjunctivitis. Fluctuating blurring is common, due to tearing and mucoid discharge. Mild photophobia is common. However, if any of these symptoms are prominent, it is important to consider other diseases such as glaucoma, uveitis, keratitis and even meningitis or carotico-cavernous fistula.
+
+Many people with conjunctivitis have trouble opening their eyes in the morning because of the dried mucus on their eyelids. There is often excess mucus over the eye after sleeping for an extended period.
+
+Episcleritis is an inflammatory condition that produces a similar appearance to conjunctivitis, but without discharge or tearing.
+
+==Prevention==
+The best effective prevention is hygiene and not rubbing the eyes by infected hands. Vaccination against adenovirus, haemophilus influenzae, pneumococcus, and neisseria meningitidis is also effective.
+
+==Management==
+Conjunctivitis resolves in 65% of cases without treatment, within two to five days. The prescription of antibiotics is not necessary in most cases. 
+
+===Viral===
+Viral conjunctivitis usually does not require any specific treatment. Antihistamines or mast cell stabilizers may be used to help with the symptoms. Povidone iodine has been suggested as a treatment, but as of 2008 evidence to support it was poor. 
+
+===Allergic===
+For the allergic type, cool water poured over the face with the head inclined downward constricts capillaries, and artificial tears sometimes relieve discomfort in mild cases. In more severe cases, nonsteroidal anti-inflammatory medications and antihistamines may be prescribed. Persistent allergic conjunctivitis may also require topical steroid drops.
+
+===Bacterial===
+Bacterial conjunctivitis usually resolves without treatment. Topical antibiotics may be needed only if no improvement is observed after three days. In people who received no antibiotics, recovery was in 4.8 days, with immediate antibiotics it was 3.3 days, and with delayed antibiotics 3.9 days. No serious effects were noted either with or without treatment. As they do speed healing in bacterial conjunctivitis, their use is also reasonable. 
+
+In those who wear contact lenses, are immunocompromised, have disease which is thought to be due to chlamydia or gonorrhea, have a fair bit of pain, or who have lots of discharge, antibiotics are recommended. Gonorrhea or chlamydia infections require both oral and topical antibiotics. 
+
+When appropriate, the choice of antibiotic varies, differing based on the cause (if known) or the likely cause of the conjunctivitis. Fluoroquinolones, sodium sulfacetamide, or trimethoprim/polymyxin may be used, typically for 7–10 days. Cases of meningococcal conjunctivitis can be treated with systemic penicillin, as long as the strain is sensitive to penicillin.
+
+===Chemical===
+Conjunctivitis due to chemicals is treated via irrigation with Ringer's lactate or saline solution. Chemical injuries (particularly alkali burns) are medical emergencies, as they can lead to severe scarring and intraocular damage. People with chemically induced conjunctivitis should not touch their eyes, regardless of whether or not their hands are clean, as they run the risk of spreading the condition to another eye.
+
+==History==
+A former superintendent of the Regional Institute of Ophthalmology in the city of Madras (the present-day Chennai) in India, Kirk Patrick, was the first to have found the adenovirus that caused conjunctivitis, leading to the name Madras eye for the disease. 
+
+==See also==
+*Conjunctival suffusion
+
+==References==
+
+==External links==
+
+* 
+
+

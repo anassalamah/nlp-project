@@ -1,0 +1,59 @@
+[[Franz Brentano]]
+
+Franz Clemens Honoratus Hermann Brentano (January 16, 1838 &ndash; March 17, 1917) was an influential German philosopher and psychologist whose influence was felt by other such luminaries as Sigmund Freud, Edmund Husserl, Kazimierz Twardowski and Alexius Meinong, who followed and adapted his views.
+
+==Life==
+Brentano was born at Marienberg am Rhein, near Boppard. He studied philosophy at the universities of Munich, Würzburg, Berlin (with Adolf Trendelenburg) and Münster. He had a special interest in Aristotle and scholastic philosophy. He wrote his dissertation in Tübingen On the manifold sense of Being in Aristotle. Subsequently he began to study theology and entered the seminary in Munich and then Würzburg. He was ordained a Catholic priest on August 6, 1864. In 1865/66 he wrote and defended his habilitation essay and thesis and began to lecture at the University of Würzburg. His students in this period included, among others, Carl Stumpf and Anton Marty. Between 1870 and 1873 Brentano was heavily involved in the debate on papal infallibility. A strong opponent of such dogma, he eventually gave up his priesthood and his tenure in 1873 and in 1879 left the church altogether. In 1874 Brentano published his major work: Psychology from an Empirical Standpoint. From 1874 to 1895 taught at the University of Vienna; among his students were Edmund Husserl, Alexius Meinong, Christian von Ehrenfels, Rudolf Steiner, T.G. Masaryk, Sigmund Freud, Kazimierz Twardowski and many others (see School of Brentano for more details). While he began his career as a full ordinary professor, he was forced to give up both his Austrian citizenship and his professorship in 1880 in order to marry, but he was permitted to stay at the university only as a Privatdozent. 
+After his retirement he moved to Florence in Italy, transferring to Zürich at the outbreak of the First World War, where he died in 1917.
+
+==Work and thought==
+
+===Intentionality===
+
+Brentano is best known for his reintroduction of the concept of intentionality &mdash; a concept derived from scholastic philosophy &mdash; to contemporary philosophy in his lectures and in his work Psychologie vom Empirischen Standpunkt (Psychology from an Empirical Standpoint). While often simplistically summarised as "aboutness" or the relationship between mental acts and the external world, Brentano defined it as the main characteristic of mental phenomena, by which they could be distinguished from physical phenomena. Every mental phenomenon, every psychological act has content, is directed at an object (the intentional object). Every belief, desire etc. has an object that they are about: the believed, the desired. Brentano used the expression "intentional inexistence" to indicate the status of the objects of thought in the mind. The property of being intentional, of having an intentional object, was the key feature to distinguish psychological phenomena and physical phenomena, because, as Brentano defined it, physical phenomena lacked the ability to generate original intentionality, and could only facilitate an intentional relationship in a second-hand manner, which he labeled derived intentionality.
+
+===Theory of perception===
+He is also well known for claiming that Wahrnehmung ist Falschnehmung ('perception is misception') that is to say perception is erroneous. In fact he maintained that external, sensory perception could not tell us anything about the de facto existence of the perceived world, which could simply be illusion. However, we can be absolutely sure of our internal perception. When I hear a tone, I cannot be completely sure that there is a tone in the real world, but I am absolutely certain that I do hear. This awareness, of the fact that I hear, is called internal perception. External perception, sensory perception, can only yield hypotheses about the perceived world, but not truth. Hence he and many of his pupils (in particular Carl Stumpf and Edmund Husserl) thought that the natural sciences could only yield hypotheses and never universal, absolute truths as in pure logic or mathematics.
+
+However, in a reprinting of his Psychologie vom Empirischen Standpunkte from an Empirical Standpoint, he recanted this previous view. He attempted to do so without reworking the previous arguments within that work but it has been said that he was wholly unsuccessful. The new view states that when we hear a sound, we hear something from the external world; there are no physical phenomena of internal perception. See Postfix in the 1923 edition (in German) or the 1973, English version (ISBN 0710074255, edited by Oskar Kraus; translated the German by Antos C. Rancurello, D. B. Terrell and Linda L. McAlister; English edition edited by Linda L. McAlister). 
+
+===Theory of judgment===
+Brentano has a theory of judgment which is different from what is currently the predominant (Fregean) view. At the centre of Brentano’s theory of judgment lies the idea that a judgment depends on having a presentation, but this presentation does not have to be predicated. Even stronger: Brentano thought that predication is not even sufficient for judgment, because there are judgments without a predicational content. Another fundamental aspect of his theory is that judgments are always existential. This so-called existential claim implies that when someone is judging that S is P he/she is judging that some S that is P exists. (Note that Brentano denied the idea that all judgments are of the form: S is P all other kinds of judgment which combine presentations. Brentano argued that there are also judgments arising from a single presentation, e.g. “the planet Mars exists” has only one presentation.) In Brentano’s own symbols, a judgment is always of the form: ‘+A’ (A exists) or ‘–A’ (A does not exist).
+Combined with the third fundamental claim of Brentano, the idea that all judgments are either positive (judging that A exists) or negative (judging that A does not exist), we have a complete picture of Brentano’s theory of judgment. So, imagine that you doubt whether midgets exist. At that point you have a presentation of midgets in your mind. When you judge that midgets do not exist, then you are judging that the presentation you have does not present something that exists. You do not have to utter that in words or otherwise predicate that judgment. The whole judgment takes place in the denial (or approval) of the existence of the presentation you have. 
+The problem of Brentano’s theory of judgment is not the idea that all judgments are existential judgments (though it is sometimes a very complex enterprise to transform an ordinary judgment into an existential one), the real problem is that Brentano made no distinction between object and presentation. A presentation exists as an object in your mind. So you cannot really judge that A does not exist, because if you do so you also judge that the presentation is not there (which is impossible, according to Brentano’s idea that all judgments have the object which is judged as presentation). Twardowski acknowledged this problem and solved it by denying that the object is equal to the presentation. This is actually only a change within Brentano’s theory of perception, but has a welcome consequence for the theory of judgment, viz. that you can have a presentation (which exists) but at the same time judge that the object does not exist.
+
+==Bibliography==
+
+===Major works by Brentano===
+* (1862) On the several senses of Being in Aristotle (Von der mannigfachen Bedeutung des Seienden nach Aristoteles)
+* (1867) The Psychology of Aristotle (Die Psychologie des Aristoteles: Insbesondere seine Lehre vom nous Poiētikos) (Online)
+* (1874) Psychology from an Empirical Standpoint (Psychologie vom empirischen Standpunkt) (Online)
+* (1876) Was für ein Philosoph manchmal Epoche macht (a work against Plotinus) (Online)
+* (1889) The Origin of our Knowledge of Right and Wrong (1902 English edition online)
+* (1911) Aristotle and his World View (Aristoteles und seine Weltanschauung)
+* (1911) The Classification of Mental Phenomena (Die Klassifikation von Geistesphänomenen)
+* (1924–28) Psychologie vom empirischen Standpunkt. Ed. Oskar Kraus, 3 vols. Leipzig: Meiner. ISBN 3-7873-0014-7
+* (1966) The True and The Evident (Wahrheit und Evidenz)
+* (1976) Philosophical Investigations on Space, Time and Phenomena (Philosophische Untersuchungen zu Raum, Zeit und Kontinuum)
+* (1982) Descriptive Psychology (Deskriptive Psychologie)
+* (2008) Psychologie vom empirischen Standpunkte. Von der Klassifikation der psychischen Phänomene. Ed. Mauro Antonelli. Heusenstamm: Ontos. ISBN 978-3-938793-41-1
+*Sämtliche veröffentlichte Schriften in zehn Bänden (Selected Works in ten volumes, edited by Arkadiusz Chrudzimski and Thomas Binder), Frankfurt: Ontos Verlag.
+** 1. Psychologie vom empirischen Standpunkte (2008)
+** 2. Untersuchungen zur Sinnespsychologie (2009)
+** 3. Schriften zur Ethik und Ästhetik (2010)
+
+==See also==
+*School of Brentano
+*List of Austrian scientists
+*List of Austrians
+
+==References==
+
+==External links==
+* 
+* 
+* Franz Brentano's Ontology and His Immanent Realism Contains a list of the English translations of Brentano's works
+* 
+* Franz Brentano e Cornelio Fabro by Antonio Russo Contains a Bibliographic Note as well as a list of the main translations of Brentano's works
+
+

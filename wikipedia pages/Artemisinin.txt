@@ -1,0 +1,133 @@
+[[Artemisinin]]
+
+Artemisinin , also known as Qinghaosu (Chinese: 青蒿素), and its derivatives are a group of drugs that possess the most rapid action of all current drugs against Plasmodium falciparum malaria. Treatments containing an artemisinin derivative (artemisinin-combination therapies, ACTs) are now standard treatment worldwide for P. falciparum malaria. Artemisinin is isolated from the plant Artemisia annua, sweet wormwood, a herb employed in Chinese traditional medicine. It can now also be produced using genetically engineered yeast.
+
+Chemically, artemisinin is a sesquiterpene lactone containing an unusual peroxide bridge. This peroxide is believed to be responsible for the drug's mechanism of action. Few other natural compounds with such a peroxide bridge are known. (Ascaridole is another.)
+
+Use of the drug by itself as a monotherapy is explicitly discouraged by the World Health Organization, as there have been signs that malarial parasites are developing resistance to the drug. Therapies that combine artemisinin with some other antimalarial drug are the preferred treatment for malaria and are both effective and well tolerated in patients. The drug is also increasingly being used in Plasmodium vivax malaria, as well as being a topic of research in cancer treatment.
+
+== History ==
+Artemisia annua has been used by Chinese herbalists for more than two thousand years in the treatment of many illnesses, such as skin diseases and malaria. The earliest record dates back to 200 BC, in the "Fifty-two Prescriptions" unearthed from the Mawangdui Han Dynasty tombs. Its antimalarial application was first described, in Zhouhou Beiji Fang ("The Handbook of Prescriptions for Emergencies", ), edited in the middle of the fourth century by Ge Hong. In that book, 43 malaria treatment methods were recorded.
+
+A. annua is a common herb and has been found in many parts of the world, including along the Potomac River, in Washington, D.C. Images of the original scientific papers are available online Qinghaosu Project and a book by Zhang Jianfang, Late Report: Record of Project 523 and the Research and Development of Qinghaosu (Yangcheng Evening News Publisher 2007(張劍方. 遲到的報告五二三項目與青蒿素研發紀實. 羊城晚報出版社, 2007)), ycwb.com was published in 2006, which records the history of the discovery.
+
+Artemisia annua
+In the 1960s, a research program, under the name Project 523, was set up by the Chinese army to find an adequate treatment for malaria. The plant screening program and early clinical work with botanical preparations were based on the orders of Chairman Mao Zedong, at the request from North Vietnamese leaders to provide medical assistance for their malaria-ridden army. In 1972, in the course of this research, Tu Youyou ChinaVitae: Tu Youyou discovered artemisinin in the leaves of Artemisia annua (annual wormwood). The drug is named Qinghaosu () in Chinese. It was one of many candidates then tested by Chinese scientists from a list of nearly 5000 traditional Chinese medicines for treating malaria.Tu Youyou discovered that a low-temperature extraction process could isolate an effective antimalarial substance from the plant. She says she was influenced by a traditional Chinese herbal medicine source saying that this herb should be steeped in cold water. The extracted substance, once subject to detoxification and purification processes, is a usable antimalarial drug – a 2012 review found that artemisinin-based remedies were the most effective drugs for the treatment of malaria. It was not only the most effective, but it was found to clear malaria parasites from patients' bodies faster than any other drug. Project 523 developed, in addition to artemisinin, a number of products that are used in combination with artemisinin, including lumefantrine, piperaquine, and pyronaridine. 
+
+For many years after the discovery, access to the purified drug and the plant from which it was extracted were restricted by the Chinese government. It was not until the Chinese economic reform in the late 1970s and early 80s that news of the discovery reached scientists outside China when results were published in the Chinese Medical Journal in 1979. Ying Lee, one of the scientists involved in the research into artemisinin, said the Chinese had distrusted the West at the time. The research was met with skepticism at first, partly because the chemical structure of artemisinin, particularly the peroxide, appeared to be too unstable to be a viable drug. 
+
+In the late 90s, Novartis bought a new Chinese patent for a combination treatment with artemether and lumefantrine, providing the first artemisinin-based combination therapies (ACTs) (Coartem) at reduced prices to the World Health Organisation. D. MNeil (2012). "For Intrigue, Malaria Drug Gets the Prize". NYTimes, Health. Retrieved 20. April 2013. 
+
+In 2006, after artemisinin had become the treatment of choice for malaria, the WHO called for an immediate halt to single-drug artemisinin preparations in favor of combinations of artemisinin with another malaria drug, to reduce the risk of parasites developing resistance. 
+
+In 2011, Tu was awarded the prestigious Lasker-DeBakey Clinical Medical Research Award for her discovery. Elizabeth Weise, "'America's Nobel' awarded to Chinese scientist", USA Today, 12 September 2011, accessed September 12, 2011. The discovery of artemisinin is reportedly being considered for a Nobel Prize in Medicine. 
+
+== Artemisinin derivatives ==
+Because artemisinin itself has physical properties such as poor bioavailability that limit its effectiveness, semisynthetic derivatives of artemisinin have been developed. These include:
+
+*Artesunate (water-soluble: for oral, rectal, intramuscular, or intravenous use)
+*Artemether (lipid-soluble: for oral, rectal or intramuscular use)
+*Dihydroartemisinin
+*Artelinic acid
+*Artemotil
+
+There are also simplified analogs in preclinical research. 
+
+A synthetic compound with a similar trioxolane structure (ring containing three oxygen atoms) named arterolane showed promise in in vitro testing. Phase II testing in patients with malaria was not as successful as hoped, but the manufacturer decided to start Phase III testing anyway. A combination with piperaquine is also in development.
+
+==Indications==
+
+===Uncomplicated malaria===
+Artemisinins can be used alone, but this leads to a high rate of recrudescence (return of parasites) and other drugs are required to clear the body of all parasites and prevent recurrence. The World Health Organization (WHO) is pressuring manufacturers to stop making the uncompounded drug available to the medical community at large, aware of the catastrophe that would result if the malaria parasite developed resistance to artemisinins. 
+
+The WHO has recommended artemisinin combination therapies (ACT) be the first-line therapy for P. falciparum malaria worldwide. Combinations are effective because the artemisinin component kills the majority of parasites at the start of the treatment, while the more slowly eliminated partner drug clears the remaining parasites. 
+
+Several fixed-dose ACTs are now available containing an artemisinin component and a partner drug which has a long half-life, such as mefloquine (ASMQ ), lumefantrine (Coartem), amodiaquine (ASAQ), piperaquine (Duo-Cotecxin), and pyronaridine (Pyramax). Increasingly, these combinations are being made to GMP standard. A separate issue concerns the quality of some artemisinin-containing products being sold in Africa and Southeast Asia. 
+
+Artemisinins are not used for malaria prophylaxis (prevention) because of the extremely short activity (half-life) of the drug. To be effective, it would have to be administered multiple times each day.
+
+===Severe malaria===
+Artesunate administered by intravenous or intramuscular injection has proven superior to quinine in large, randomised controlled trials in both adults and children. Combining all trials comparing these two drugs, artesunate is associated with a mortality rate that is approximately 30% lower than that of quinine. Reasons for this difference include reduced incidence of hypoglycaemia, easier administration and more rapid action against circulating and sequestered parasites. Artesunate is now recommended by the WHO for treatment of all cases of severe malaria.
+
+===Cancer treatment===
+Artemisinin is undergoing early research and testing for the treatment of cancer. University of Washington: News University of Washington: Artemisinin Chinese scientists have shown artemisinin has significant anticancer effects against human hepatoma cells. Artemisinin has a peroxide lactone group in its structure, and it is thought that when the peroxide comes into contact with high iron concentrations (common in cancerous cells), the molecule becomes unstable and releases reactive oxygen species. It has been shown to reduce angiogenesis and the expression of vascular endothelial growth factor in some tissue cultures. Recent pharmacological evidence demonstrates the artemisinin-derivative dihydroartemisinin targets human metastatic melanoma cells with induction of NOXA (phorbol-12-myristate-13-acetate-induced protein 1)-dependent mitochondrial apoptosis that occurs downstream of iron-dependent generation of cytotoxic oxidative stress. 
+
+===Helminth parasites===
+Serendipitous discovery was made in China while searching for novel anthelmintics for schistosomiasis. Artemisinin was effective against schistosomes, the human blood flukes, which are the second-most prevalent parasitic infections, after malaria. Artemisinin and its derivatives are all potent anthelmintics. Artemisinins were later found to possess a broad spectrum of activity against a wide range of trematodes, including Schistosoma japonicum, S. mansoni, S. haematobium, Clonorchis sinensis, Fasciola hepatica, and Opisthorchis viverrini. Clinical trials were also successfully conducted in Africa among patients with schistosomiasis. A randomized, double-blind, placebo-controlled trial also revealed the efficacy against schistosome infection in Côte d'Ivoire and China. 
+
+== Resistance ==
+Clinical evidence for artemisinin resistance in southeast Asia was first reported in 2008, and was subsequently confirmed by a detailed study from western Cambodia. Resistance in neighbouring Thailand was reported in 2012. The parasite's kelch gene on chromosome 13 appears to be a reliable molecular marker for clinical resistance in Cambodia. 
+
+In April 2011, the WHO stated that resistance to the most effective antimalarial drug, artemisinin, could unravel national (India) malaria control programs, which have achieved significant progress in the last decade. WHO advocates the rational use of antimalarial drugs and acknowledges the crucial role of community health workers in reducing malaria in the region. Drugs immunity ‘may’ fail malaria fight. The Jakarta Post, April 23, 2011. 
+
+== Adverse effects ==
+Artemisinins are generally well tolerated at the doses used to treat malaria. The side effects from the artemisinin class of medications are similar to the symptoms of malaria: nausea, vomiting, anorexia, and dizziness. Mild blood abnormalities have also been noted. A rare but serious adverse effect is allergic reaction. One case of significant liver inflammation has been reported in association with prolonged use of a relatively high-dose of artemisinin for an unclear reason (the patient did not have malaria). The drugs used in combination therapies can contribute to the adverse effects experienced by those undergoing treatment. Adverse effects in patients with acute P. falciparum malaria treated with artemisinin derivatives tend to be higher. 
+
+== Mechanism of action ==
+All artemisinins used today are prodrugs of the biologically active metabolite dihydroartemisinin, which is active during the stage when the parasite is located inside red blood cells. Although there is no consensus regarding the mechanism through which artemisinin derivatives kill the parasites, several lines of evidence indicate that artemisinins exert their antimalarial action by perturbing redox homeostasis in malaria parasites. When the parasite that causes malaria infects a red blood cell, it consumes hemoglobin within its digestive vacuole, a process that generates oxidative stress. In one theory the iron of the heme directly reduces the peroxide bond in artemisinin, generating high-valent iron-oxo species and resulting in a cascade of reactions that produce reactive oxygen radicals which damages the parasite and lead to its death. A more recently described alternative is that artemisinins disrupt cellular redox cycling. 
+
+Numerous studies have investigated the type of damage oxygen radicals may induce. For example, Pandey et al. have observed inhibition of digestive vacuole cysteine protease activity of malarial parasites by artemisinin. These observations were supported by ex vivo experiments showing accumulation of hemoglobin in the parasites treated with artemisinin and inhibition of hemozoin formation by malaria parasites. Electron microscopic evidence linking artemisinin action to the parasite's digestive vacuole has been obtained showing that the digestive vacuole membrane suffers damage soon after parasites are exposed to artemisinin. This would also be consistent with data showing that the digestive vacuole is already established by the mid-ring stage of the parasite's blood cycle, a stage that is sensitive to artemisinins but not other antimalarials.
+
+Another theory suggests that the electron transport chain activates artemisinin, generates local reactive oxygen species, and causes depolarization of the mitochondrial membrane. The possible role of the parasite's SERCA pump (PfATP6 / PfSERCA) in the action of artemisinins has been questioned by several authors and study findings and it has emerged that the original studies reporting specific interactions between SERCAs and artemisinins were undertaken in a Xenopus oocyte system with a variable signal:noise ratio. 
+
+==Dosing==
+Artemisinin derivatives have half-lives of the order of an hour, and therefore require at least daily dosing over several days. For example, the WHO-approved adult dose of co-artemether (artemether-lumefantrine) is
+4 tablets at 0, 8, 24, 36, 48 and 60 hours (six doses). 
+
+Artemisinin is not soluble in water, therefore Artemisia annua tea was postulated not to contain pharmacologically significant amounts of artemesinin. However, this conclusion was rebuked by several experts who stated that hot water (85 °C), and not boiling water, should be used to prepare the tea. Although Artemisia tea is not recommended as a substitute for the ACT (artemisinin combination therapies), more clinical studies on its tea preparation have been suggested. 
+
+==Production and price==
+China and Vietnam provide 70% and East Africa 20% of the raw plant material. Seedlings are grown in nurseries and then transplanted into fields. It takes about 8 months for them to reach full size. The plants are harvested, the leaves are dried and sent to facilities where the artemisinin is extracted using solvent, typically hexane. Alternative extraction methods have been proposed. and literature cited therein The market price for artemisinin has fluctuated widely, between $120 and $1200 per kilogram from 2005 to 2008. 
+
+After negotiation with the WHO, Novartis and Sanofi-Aventis provide ACT drugs at cost on a nonprofit basis; however, these drugs are still more expensive than other malaria treatments. Artemisinin combination therapies, CNAP Artemisia Project Artesunate injection for severe malaria treatment is made by the Guilin Factory in China where production has received WHO prequalification, http://www.mmv.org/partnering/guilin-pharmaceutical-─-achieving-prequalification-price-affordable-in-africa an indicator of drug quality.
+
+High-yield varieties of Artemisia are being produced by the Centre for Novel Agricultural Products at the University of York using molecular breeding techniques. 
+
+Using seed supplied by Action for Natural Medicine (ANAMED), the World Agroforestry Centre (ICRAF) has developed a hybrid, dubbed A3, which can grow to a height of 3 m and produce 20 times more artemisinin than wild varieties. In northwestern Mozambique, ICRAF is working together with a medical organisation, Médecins sans frontières, ANAMED and the Ministry of Agriculture and Rural Development to train farmers on how to grow the shrub from cuttings, and to harvest and dry the leaves to make artemisia tea.
+
+In April 2013, Sanofi announced the launch of a production facility in Garessio, Italy, to manufacture the anti-plasmodial drug on a large scale. The partnership to create a new pharmaceutical manufacturing process was led by PATH’s Drug Development program (through an affiliation with OneWorld Health), with funding from the Bill & Melinda Gates Foundation and based on a modified biosynthetic process for artemisinic acid, initially designed by Jay Keasling at the University of California, Berkeley and optimized by Amyris. The reaction is followed by a photochemical process creating singlet oxygen to obtain the end product. Sanofi expects to produce 25 tons of artemisinin in 2013, ramping up the production to 55-60 tons in 2014. The price per kg will be $350–400, roughly the same as the botanical source. Mark Peplow (April 2013). "Sanofi launches malaria drug production to maintain stability in Artemisinin availability". chemistryworld online (RSC). Retrieved April 19, 2013. Despite concerns that this equivalent source would lead to the demise of companies, which produce this substance conventionally through extraction of A. annua biomass, an increased supply of this drug will likely produce lower prices and therefore increase the availability for ACTs treatment.
+
+==Synthesis==
+
+===Biosynthesis in A. annua===
+The biosynthesis of artemisinin is believed to involve the mevalonate pathway (MVA) and the cyclization of farnesyl diphosphate (FDP). It is not clear whether the non-mevalonate pathway pathway can also contribute 5-carbon precursors (IPP or/and DMAPP), as occurs in other sesquiterpene biosynthetic systems. The routes from artemisinic alcohol to artemisinin remain controversial, and they differ mainly in when the reduction step takes place. Both routes suggested dihydroartemisinic acid as the final precursor to artemisinin. Dihydroartemisinic acid then undergoes photo-oxidation to produce dihydroartemisinic acid hydroperoxide. Ring expansion by the cleavage of hydroperoxide and a second oxygen-mediated hydroperoxidation finish the biosynthesis of artemisinin.
+
+400px
+
+Figure 1. Biosynthesis of artemisinin
+
+===Chemical synthesis===
+The total synthesis of artemisinin, while expensive, can be performed using basic organic reagents. In 1982, G. Schmid and W. Hofheinz published a paper showing the complete synthesis of artemisinin. Their starting material was (−)-isopulegol (2), which as converted to methoxymethyl ether (3). The ether was hydroborated and then underwent oxidative workup to give (4). The primary hydroxyl group was then benzylated and the methoxymethyl ether was cleaved, resulting in (5) which would be oxidized to (6). Next, the compound was protonated and treated with (E)-(3-iodo-1-methyl-1-propenyl)-trimethylsilane to give (7). This resulting ketone was reacted with lithium methoxy(trimethylsily)methylide to obtain two diastereomeric alcohols, (8a) and (8b). The 8a was then debenzylated using (Li, ) to give lactone (9). The vinylsilane was then oxidized to ketone (10). The ketone was then reacted with fluoride ion that caused it to undergo desilylation, enol ether formation and carboxylic acid formation to give (11). An introduction of a hydroperoxide function at C(3) of 11 gives rise to (12). Finally, this underwent photo-oxygenation and then treated with acid to produce artemisinin. 
+
+Recent advances in flow chemistry and photochemistry have highlighted an efficient method for the synthesis of artemisinin from its more plentiful biosynthetic precursor artemisinic acid, which is reduced to dihydroartemisinic acid before reacting it with singlet oxygen. Lévesque F, Seeberger PH (January 2012). "Continuous-Flow Synthesis of the Anti-Malaria Drug Artemisinin". Angewandte Chemie International Edition 51 (7) 1706-1709. 
+
+===Synthesis in engineered organisms===
+The partnership to develop semisynthetic artemisinin was led by PATH’s Drug Development program (through an affiliation with OneWorld Health), with funding from the Bill & Melinda Gates Foundation. The project began in 2004, and initial project partners included the University of CA, Berkeley (which provided the technology on which the project was based – a process that genetically altered yeast to produce artemisinic acid); and Amyris, Inc. (a biotechnology firm in California, which refined the process to enable large-scale production and developed scalable processes for transfer to an industrial partner).
+
+In 2006, a team from UC Berkeley reported they had engineered Saccharomyces cerevisiae yeast to produce small amount of the precursor artemisinic acid. The synthesized artemisinic acid can then be transported out, purified and chemically converted into artemisinin that they claim will cost roughly $0.25 per dose. In this effort of synthetic biology, a modified mevalonate pathway was used, and the yeast cells were engineered to express the enzyme amorphadiene synthase and a cytochrome P450 monooxygenase (CYP71AV1), both from A. annua. A three-step oxidation of amorpha-4,11-diene gives the resulting artemisinic acid. 
+
+The Berkeley method proved impractical and too inefficient for commercial scale production, and the process was revamped using technology from various other organizations. The final successful technology is based on inventions licensed from UC Berkeley and the National Research Council (NRC) Plant Biotechnology Institute of Canada.
+
+Commercial production of semisynthetic artemisinin is now underway at Sanofi's site in Garessio, Italy. This second source of artemisinin is poised to enable a more stable flow of key antimalarial treatments to those who need them most. The production goal is set at 35 tons for 2013. It is expected to increase to 50-60 tons per year in 2014, supplying approximately 1/3 of the global annual need for artemisinin.
+
+On May 8, 2013, WHO’s Prequalification of Medicines Programme announced the acceptability of semisynthetic artemisinin for use in the manufacture of active pharmaceutical ingredients submitted to WHO for prequalification, or that have already been qualified by WHO. Sanofi’s API produced from semisynthetic artemisinin (artesunate) was also prequalified by WHO on May 8, 2013, making it the first semisynthetic artemisinin derivative prequalified.
+
+In 2010, a team from Wageningen University reported they had engineered a close relative of tobacco, Nicotiana benthamiana, that can also produce the precursor artemisinic acid. 
+
+== References ==
+
+== External links ==
+
+* History, Aetiology, Pathophysiology, Clinical Features, Diagnosis, Treatment, Complications And Control Of Malaria: Artemisinin Derivatives
+* Design and synthesis of antimalarial endoperoxides
+*
+*
+* Research on the use of artemisinin for cancer treatment
+* Artemisinin — Researchers blend folk treatment, high tech for promising anti-cancer compound
+* BBC Horizon documentary about artemisinin
+* Artemisia Annua, by Memorial-Sloan Kettering Cancer Center
+* Use of Artemisinin for Cancer Treatment and Bacterial Infection, Henry Lai, Ph.D., University of Washington (streaming video, Spring 2005)
+* Assured Artemisinin Supply System, support the global production of sufficient Artemisia/artemisinin to meet the expanded needs
+* Artemisinin latest patents, covering use in fighting infections, including viral infections; fighting cancer; various novel derivatives and ACTs; high-yielding Artemisia plants; and extraction methods.
+
+

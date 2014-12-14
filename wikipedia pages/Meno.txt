@@ -1,0 +1,72 @@
+[[Meno]]
+
+Meno (; ) is a Socratic dialogue written by Plato. It attempts to determine the definition of virtue, or arete, meaning virtue in general, rather than particular virtues, such as justice or temperance. The first part of the work is written in the Socratic dialectical style and Meno is reduced to confusion or aporia. In response to Meno's paradox (or the learner's paradox), however, Socrates introduces positive ideas: the immortality of the soul, the theory of knowledge as recollection (anamnesis), which Socrates demonstrates by posing a mathematical puzzle to one of Meno's slaves, the method of hypothesis, and, in the final lines, the distinction between knowledge and true belief.
+
+==Characters==
+Plato's Meno is a Socratic dialogue in which the two main speakers, Socrates and Meno (also transliterated as Menon), discuss human virtue: whether or not it can be taught, and what it is. Additional participants in the dialogue include one of Meno's slaves and the Athenian politician Anytus, a prosecutor of Socrates with whom Meno is friendly.
+
+Meno is visiting Athens from Thessaly with a large entourage of slaves attending him. Young, good-looking and well-born, Meno is a student of Gorgias, a prominent sophist whose views on virtue clearly influence Meno's. He claims early in the dialogue that he has held forth many times on the subject of virtue, and in front of large audiences.
+
+One feature of the dialogue is Socrates' use of one of Meno's slaves to demonstrate his idea of anamnesis, that certain knowledge is innate and "recollected" by the soul through proper inquiry.
+
+==Dialogue==
+===Introduction of virtue===
+The dialogue begins with Meno asking Socrates to tell him if virtue can be taught. Socrates says that he does not know what virtue is, and neither does anyone else he knows. Plato, Meno, 71b Meno responds that, according to Gorgias, virtue is different for different people, that what is virtuous for a man is to conduct himself in the city so that he helps his friends, injures his enemies, and takes care all the while that he personally comes to no harm. Virtue is different for a woman, he says. Her domain is the management of the household, and she is supposed to obey her husband. He says that children (male and female) have their own proper virtue, and so do old men—free or slaves. Plato, Meno, 71e Socrates objects: there must be some virtue common to all human beings.
+
+Socrates rejects the idea that human virtue depends on a person's sex or age. He leads Meno towards the idea that virtues are common to all people, that temperance (sophrosunê- exercising self-control) and justice (dikê, dikaiosunê- refraining from harming other people) are virtues even in children and old men. Plato, Meno, 73b Meno proposes to Socrates that the "capacity to govern men" may be a virtue common to all people. Socrates points out to the slaveholder that "governing well" cannot be a virtue of a slave, because then he would not be a slave. Plato, Meno, 73c–d 
+
+One of the errors that Socrates points out is that Meno lists many particular virtues without defining a common feature inherent to virtues which makes them thus. Socrates remarks that Meno makes many out of one, like somebody who breaks a plate. Plato, Meno, 77a 
+
+Meno proposes that virtue is the desire for good things and the power to get them. Socrates points out that this raises a second problem—many people do not recognize evil. Plato, Meno, 77d–e The discussion then turns to the question of accounting for the fact that so many people are mistaken about good and evil and take one for the other. Socrates asks Meno to consider whether good things must be acquired virtuously in order to be really good. Plato, Meno, 78b Socrates leads onto the question of whether virtue is one thing or many.
+
+No satisfactory definition of virtue emerges in the Meno. Socrates' comments, however, show that he considers a successful definition to be unitary, rather than a list of varieties of virtue, that it must contain all and only those terms which are genuine instances of virtue, and must not be circular. Jane Mary Day. Plato's Meno in Focus. Routledge, 1994, p. 19. ISBN 0-415-00297-4. 
+
+===Meno's paradox===
+Socrates brings Meno to aporia (puzzlement) on the question of what virtue is. Meno responds by accusing Socrates of being like a torpedo ray, which stuns its victims with electricity. Socrates responds that the reason for this comparison is that Meno, a "handsome" man, is inviting counter-comparisons because of his own vanity, and Socrates tells Meno that he only resembles a torpedo fish if it numbs itself in making others numb, Plato, Meno, 80c and Socrates is himself ignorant of what virtue is.
+
+Meno then proffers a paradox: "And how will you inquire into a thing when you are wholly ignorant of what it is? Even if you happen to bump right into it, how will you know it is the thing you didn't know?" Plato, Meno, 80d1-4 Socrates rephrases the question, which has come to be the canonical statement of the paradox: " man cannot search either for what he knows or for what he does not know He cannot search for what he knows--since he knows it, there is no need to search--nor for what he does not know, for he does not know what to look for." Plato, Meno, 80e, Grube translation 
+
+===Dialogue with Meno's slave===
+The blue square is twice the area of the original yellow square
+Socrates responds to this sophistical paradox with a mythos (poetic story) according to which souls are immortal and have learned everything prior to transmigrating into the human body. Since the soul has had contact with real things prior to birth, we have only to 'recollect' them when alive. Such recollection requires Socratic questioning, which according to Socrates is not teaching. Socrates demonstrates his method of questioning and recollection by interrogating a slave who is ignorant of geometry.
+
+Socrates begins one of the most influential dialogues of Western philosophy regarding the argument for inborn knowledge. By drawing geometric figures in the ground Socrates demonstrates that the slave is initially unaware of the length of side that must be used in order to double the area of a square with two-foot sides. The slave guesses first that the original side must be doubled in length (four feet), and when this proves too much, that it must be three feet. This is still too much, and the slave is at a loss.
+
+Socrates claims that before he got hold of him the slave (who has been picked at random from Meno's entourage) might have thought he could speak "well and fluently" on the subject of a square double the size of a given square. Plato, Meno, 84c Socrates comments that this "numbing" he caused in the slave has done him no harm and has even benefited him. Plato, Meno, 84b 
+
+Socrates then draws a second square figure using the diagonal of the original square. Each diagonal cuts each two foot square in half, yielding an area of two square feet. The square composed of four of the eight interior triangular areas is eight square feet, double that of the original area. He gets the slave to agree that this is twice the size of the original square and says that he has "spontaneously recovered" knowledge he knew from a past life Plato, Meno, 85d without having been taught. Socrates is satisfied that new beliefs were "newly aroused" in the slave.
+
+After witnessing the example with the slave boy, Meno tells Socrates that he thinks that Socrates is correct in his theory of recollection, to which Socrates replies, “I think I am. I shouldn’t like to take my oath on the whole story, but one thing I am ready to fight for as long as I can, in word and act—that is, that we shall be better, braver, and more active men if we believe it right to look for what we don’t know...” Plato, Meno, 86b It has been argued variously that this implies Socrates is skeptical regarding knowledge or that he is a pragmatist. It also prepares us for the subsequent discussion of knowledge by hypothesis.
+
+This demonstration shows the slave capable of learning a geometrical truth, because "he already has the knowledge in his soul." In this way, Socrates shows Meno that learning is possible through recollection, and that the learner's paradox is false. Meno's paradox claims that learning is impossible, but the examination of the slave shows that it is possible.
+
+===Anytus===
+Meno now beseeches Socrates to return to the original question, how virtue is acquired, and in particular, whether or not it is acquired by teaching. Socrates proceeds on the hypothesis that virtue is knowledge, and it is quickly agreed that, if this is true, virtue is teachable. They turn to the question of whether virtue is indeed knowledge. Socrates is hesitant, because, if virtue were knowledge, there should be teachers and learners of it, but there are none.
+
+Coincidentally Anytus appears, whom Socrates praises as the son of Anthemion, who earned his fortune with intelligence and hard work. He says that Anthemion had his son well-educated and so Anytus is well-suited to join the investigation. Socrates suggests that the sophists are teachers of virtue. Anytus is horrified, saying that he neither knows any, nor cares to know any. Socrates then questions why it is that men do not always produce sons of the same virtue as themselves. He alludes to other notable male figures, such as Themistocles, Aristides, Pericles and Thucydides, and casts doubt on whether these men produced sons as capable of virtue as themselves. Anytus becomes offended and accuses Socrates of slander, warning him to be careful expressing such opinions. (The historical Anytus was one of Socrates' accusers in his trial.) Socrates suggests that Anytus does not realize what slander is, and continues his dialogue with Meno as to the definition of virtue.
+
+===True belief and knowledge===
+After the discussion with Anytus, Socrates returns to quizzing Meno for his own thoughts on whether the sophists are teachers of virtue and whether virtue can be taught. Meno is again at a loss, and Socrates suggests that they have made a mistake in agreeing that knowledge is required for virtue. He points out the similarities and differences between "true belief" and "knowledge". True beliefs are as useful to us as knowledge, but they often fail to "stay in their place" and must be "tethered" by what he calls aitias logismos (the calculation of reason, or reasoned explanation), immediately adding that this is anamnesis, or recollection. Gregory Vlastos, Studies in Greek Philosophy: Socrates, Plato, and their tradition, Volume 2, Princeton University Press, 1996, p 155. ISBN 0-691-01938-X. 
+
+Whether or not Plato intends that the tethering of true beliefs with reasoned explanations must always involve anamnesis is explored in later interpretations of the text. Gail Fine, "Inquiry in the Meno", in Richard Kraut, The Cambridge Companion to Plato, Cambridge University Press, 1992, p 221. ISBN 0-521-43610-9 Charles Kahn, "Plato on Recollection", in Hugh H. Benson, A Companion to Plato, Volume 37, Wiley-Blackwell, 2006, p 122. ISBN 1-4051-1521-1. Socrates' distinction between "true belief" and "knowledge" forms the basis of the philosophical definition of knowledge as "justified true belief". Myles Burnyeat and others, however, have argued that the phrase aitias logismos refers to a practical working out of a solution, rather than a justification. Gail Fine, "Knowledge and True Belief in the Meno", in David Sedley, Oxford Studies in Ancient Philosophy: Volume XXVII: Winter 2004, Oxford University Press, 2004, pp 61–62. ISBN 0-19-927712-5 
+
+Socrates concludes that, in the virtuous people of the present and the past, at least, virtue has been the result of divine inspiration, akin to the inspiration of the poets, whereas a knowledge of it will require answering the basic question, 'What is virtue?'. In most modern readings these closing remarks are "evidently ironic", Robin Waterfield in Plato, Oxford World Classics: Meno and Other Dialogues, Oxford University Press, 2005, pxliv. ISBN 0-19-280425-1 but Socrates' invocation of the gods may be sincere, albeit "highly tentative". Dominic Scott, Plato's Meno, Cambridge University Press, 2006, p 193. ISBN 0-521-64033-4 
+
+==Meno and Protagoras==
+Menos theme is also dealt with in the dialogue Protagoras, where Plato ultimately has Socrates arrive at the opposite conclusion, that virtue can be taught. And, whereas in Protagoras knowledge is uncompromisingly this-worldly, in Meno the theory of recollection points to a link between knowledge and eternal truths. 
+
+==References==
+
+==Bibliography==
+* Klein, Jacob. A Commentary on Plato's Meno. Chapel Hill: University of North Carolina Press, 1965.
+* Day, Jane M. Plato's Meno in Focus. London, New York: Routledge, 1994.
+
+==External links==
+
+*Meno Translated by Cathal Woods (2011), at the SSRN.
+*Meno Translated by W.R.M. Lamb (1967), at the Perseus Project. ISBN 0-674-99183-4, ISBN 0-674-99184-2
+*Meno Translated by Benjamin Jowett (1871), at Project Gutenberg.
+* Approaching Plato: A Guide to the Early and Middle Dialogues
+* Guides to the Socratic Dialogues: Plato's Meno. A beginner's guide to the Meno
+
+

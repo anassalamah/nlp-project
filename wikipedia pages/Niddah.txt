@@ -1,0 +1,142 @@
+[[Niddah]]
+
+Niddah (or nidah; ) is a Hebrew term describing a woman during menstruation, or a woman who has menstruated and not yet completed the associated requirement of immersion in a mikveh (ritual bath).
+
+In Leviticus, the Torah prohibits sexual intercourse with a niddah Leviticus 15:19-30, 18:19, 20:18 and the prohibition has been maintained in traditional Jewish law. The laws concerning niddah are also referred to as taharath hamishpacha (טהרת המשפחה, Hebrew for family purity).
+
+== Etymology and usage ==
+Literally the feminine noun niddah means moved (i.e. separated), and generally refers to separation due to ritual impurity. Jewish Encyclopedia, Red Heifer 
+Medieval Biblical commentator Abraham ibn Ezra writes that the word niddah is related to the term menadechem (מנדיכם), meaning those that cast you out. 
+
+=== Hebrew Bible ===
+The noun niddah occurs 25 times in the Masoretic Text of the Hebrew Bible. The majority of these uses refer to forms of uncleanliness in Leviticus. For example in Leviticus, if a man take his brother's wife, then that is "uncleanness", niddah. The 5 uses in Numbers all concern the red heifer ceremony () and use the phrase mei niddah, "waters of separation". Theological dictionary of the Old Testament, Volume 4 ed G. Johannes Botterweck, Helmer Ringgren p163 2 Chronicles 29:5 includes a sole exhortation of Hezekiah to the Levites, to carry the niddah, possibly idols of his father Ahaz, out of the temple in Jerusalem. David L. Petersen Late Israelite prophecy: studies in deutero-prophetic literature ISBN, 0891300767. 1977 "The final product, 2 Chronicles 29, represents more than just a simple description of Hezekiah's temple rededication; ... Levites dovetails so neatly with the narrative's description of what they did: the carrying of the tumah/niddah." Usage in Ezekiel follows that of Leviticus. Finally the Book of Zechariah concludes with an eschatological reference to washing Jerusalem: George L. Klein, Ray Clendenen Zechariah New American Commentary ISBN 978-0-8054-9494-5 2008 Page 373 "Zechariah 13:1 does not state who "opened" the fountain, but the context suggests that the Lord himself performed ... The Hebrew word for "impurity" (niddah) conveys a different point from hatta't.480 The term niddah focuses more on the ..." 
+:Zechariah 13:1 "In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness (niddah). (KJV)
+
+== Application of the Torah ==
+The Leviticus description of niddah is essentially composed of two parts: the ritual purity (tumah and taharah) aspect and the prohibition of sexual intercourse aspect.
+
+=== Ritual purity aspect ===
+
+The Biblical regulations of Leviticus specify that a menstruating woman must "separate" for seven days (). Any object she sits on or lies upon during this period becomes a midras l'tumah (carrier of tumah). One who comes into contact with her midras, or her, during this period becomes tamei (ritually impure) ()
+
+A man who has sexual relations with a niddah is rendered ritually impure for seven days, as opposed to one day of impurity for coming into contact with her, or her midras ()
+
+=== Sexual relations ===
+
+Leviticus further prohibits sexual intercourse with a woman who is in her niddah state.
+
+The Torah concludes by imposing the punishment of kareth on both individuals (man and woman) if the prohibition is violated () This issur (prohibition) component of physical relations with the niddah is considered in full effect and mandatory for all children of Israel.
+
+==== Rabbinic differentiation ====
+
+Rabbinic authorities of the rishonim era differentiated between the tumah and taharah aspect of niddah and the issur (prohibition) aspect. Tshuvath HaRambam (as quoted in igrot kodesh vol. 3 p. 374) 
+
+The tumah and taharah component of niddah, essentially the avoiding of contact with the midras of the niddah, was encouraged - but not made mandatory - by various Rabbinic authorities as a remembrance and retention for diasporic Jewry as to not forget the laws of tumah and taharah. Shalah vol. 1 p. 452, Pithkei Harakanti (Menachem Recanati) Chap. 586, Teushuvath HaRif Chap. 297 The extent of Rabbinic encouragement was only for the seven-day period of actual menstruation and not the five-day Rabbinic extension period.
+
+Rabbi Menachem Schneerson in his Igrot Kodesh discouraged abstaining from the midras of a niddah in modern times. with the exception for unique individuals - igrot kodesh vol. 3 p. 374 
+
+== Practical laws ==
+
+=== Related terms and definitions ===
+* Vestos, days during which the woman is likely to see her menstrual flow
+** Onah Benonit, the 30th day after the beginning of previous menstruation
+** Veset HaChodesh, the same day of the Jewish month on which began the previous menstruation
+** Veset HaFlagah, the days (or half-days, per Chabad minhag) between menstruation
+* Bedikah, cloth with which to check whether menstrual blood has finished
+* Ben niddah (male) or bat niddah (female), a person conceived when their mother was niddah
+
+Although there are different Biblical regulations for normal menstruation - niddah, and abnormal menstruation - zavah, these became conflated during the classical era, and the Talmud relates that menstruating women always followed the requirements imposed by both; the reasons for this were the subject of debate between some medieval Jewish commentators.
+
+As a result of the conflation, the practice was to wait seven days after menstruation ceases, and for the woman to then immerse herself in water. Niddah (Mishnah) 66a, 67b This also means that women were considered ritually impure as a result of any vaginal discharge.
+
+=== Start of menstruation ===
+According to rabbinical law, a woman becomes a niddah when she is aware that blood has come from her womb, whether it is due to menstruation, childbirth, sexually transmitted disease, or other reasons. http://books.google.co.uk/books?id=BnFaZE-Q1JMC&printsec=frontcover&dq=history+of+halacha&source=bl&ots=ks0HjPoR1w&sig=v8P4rkQj41jDbl9mN-Qn4wBY11w&hl=en&sa=X&ei=_RBBUPnMNsam0QW0j4FA&ved=0CGQQ6AEwCQ#v=onepage&q=history%20of%20halacha&f=false If menstruation began before she sees evidence of it, the rabbinic regulations regard her as not being niddah until she notices. Until this point, the regulations do not come into force.
+
+It is not necessary for the woman to witness the flow of blood itself; it is sufficient for her to notice a stain that has indications of having originated in her womb; bloodstains alone are inadequate without such evidence, for example, if she finds a stain just after cutting her finger, she does not become a niddah, as the blood is not obviously uterine. If she notices a bloodstain of uncertain origin, for example on her underclothing, there are a series of complicated criteria used by rabbinical law to determine whether she is niddah or not; the woman herself is not expected to know these criteria, and must seek the assistance of a rabbi.
+
+=== Duration of menstruation and niddah status ===
+The Biblical definition of niddah is any blood emission occurring within seven days from the beginning of the menstrual period. After this seven-day period, the woman may immerse in the mikveh immediately after she stops menstruating. Any blood found after these seven days is considered abnormal (zavah) blood and is subject to more stringent requirements, depending on the duration of said abnormal blood flow. In the days of the Amoraim, because of possible confusion in determining when menstruation began and ended and hence whether blood was normal menstrual (niddah) or abnormal (zavah) blood, it became the accepted practice and practical halacha, that all women treat any emission as a continued abnormal flow (zavah gedolah—זבה גדולה) which requires counting seven abnormal-discharge-free days from the end of menstruation. All Orthodox and some Conservative authorities rule that these "seven clean days" must be observed. http://www.rabbinicalassembly.org/teshuvot/docs/20052010/berkowitz_niddah.pdf 
+
+Since according to the rules of zavah, the seven days must be counted from the point that the abnormal discharge ceases, it has historically been considered important in Judaism to determine when this occurs. Because the leaking of semen nullifies the counting of a "clean" day, the sages enacted that the counting of seven days not begin until a minimum of 72 hours since the beginning of menstruation has passed.
+
+Orthodox Ashkenazi Jewish custom has lengthened this to effectively five days, which has been instituted in all cases regardless of whether the woman had engaged in sexual intercourse recently or not. Thus the niddah state lasts at least twelve days in the Ashkenazic tradition - the five days' minimum menstrual flow, plus the subsequent seven days. The count of days begins when the woman first sees her menstrual blood, and ends twelve days later, or seven days after the flow ceases, whichever is later.
+
+Non-Ashkenazic Jews follow a variety of customs. Although the count could start in the middle of the day, it is always considered to end on the evening of the final day. Most Sephardic Jews use a slightly more lenient calculation resulting in a minimum of eleven days.
+
+In the Orthodox Jewish community, women may test whether menstruation has ceased; this ritual is known as the hefsek taharah. The woman takes a bath or shower near sunset, wraps a special cloth around her finger, and swipes the vaginal circumference. If the cloth shows only discharges that are white, yellow, or clear, then menstruation is considered to have ceased. If discharge is red or pink, it indicates that menstruation continues. If it is any other color, like brown, it is subject to further inquiry, often involving consultation with a rabbi. The ritual requires that the cloth used to perform this test is first checked carefully to ensure that it is clean of any marks, colored threads, or specks; the cloth itself can be any clean white cloth, although there are small cloths designed for this ritual, known as bedikah cloths (meaning checking).
+
+In the Orthodox Jewish community, further rituals are practices toward assurance regarding the cessation of the menstrual flow. After the hefsek taharah, some women insert a cloth (or, in modern times, a tampon), consequently known as a moch dachuk, for between 18 minutes and an hour, to ensure that there is absolutely no blood; this must be done carefully, as it could otherwise irritate the mucous membrane, causing bleeding unrelated to menstruation. If there is any fear of irritation causing bleeding, a rabbi may waive this practice. The "bedikah" is repeated each morning and evening of the seven days subsequent to the end of menstruation. Another tradition is the wearing of white underwear and use of white bedding during this period; conversely, the rest of the time, when not counting the "seven clean days", some women who suffer from spotting deliberately use coloured underwear and coloured toilet paper, since it is only when blood is seen on white material that it has any legal status in Jewish law. When not during their seven "clean" days, all women are advised to wear colored undergarments, for this reason. It is furthermore strongly recommended that women make an effort to refrain from looking at the toilet paper after wiping to avoid possible resultant questions.
+
+=== Physical contact during niddah ===
+A niddah hut (Mergem Gogo) at the Jewish village of Ambober in northern Ethiopia, 1976.
+As with most of the arayot (Biblically forbidden sexual relationships), all physical contact "Derech Chiba v'Taavah" (in an affectionate or lustful manner) is rabbinically forbidden when a woman is in her niddah status. There is a dispute as to whether this prohibition is Biblical or Rabbinic. See Negiah; see also Badei HaShulchan 195:14. There are additional restrictions in the time of the Holy Temple because of the Biblical concept of Tumah. Such contact is forbidden whether or not the man and woman are husband and wife. Remah Yoreh Deah 183:1; see Shiurei Shevet HaLeivi 183:7 
+
+In the case of husband and wife, however, the sages added on extra restrictions, including touch that is not Derech Chiba v'Taavah, When the wife is a niddah, touch between spouses that is not Derech Chiba v'Taavah is only prohibited Rabbinically according to most authorities, although there are those who disagree. See Badei HaShulchan 195:14. passing of objects even without touching, and sleeping in the same bed; these restrictions are to avoid the risk of leading to sexual contact. Yoreh Deah 195 These laws are termed harkhakot, meaning spacers, and result in a need for relationships to be able to develop in non-physical ways, such as emotional and spiritual connections.
+
+Some Conservative authorities are considerably more lenient in reference to the harkhakot than Medieval or contemporary Orthodox authorities. In a responsum written in the Committee on Jewish Law and Standards of the Rabbinical Assembly, Rabbi Miriam Berkowitz ruled that the "harkhakot are to be observed as much as possible, but left up to the discretion of each couple". http://www.rabbinicalassembly.org/teshuvot/docs/20052010/berkowitz_niddah.pdf p. 36 In another responsum for the committee, Susan Grossman stated that touching that would be appropriate between siblings is permissible. http://www.rabbinicalassembly.org/teshuvot/docs/20052010/grossman_niddah.pdf 
+
+The classical regulations also forbid sexual relations on the day that a woman expects to start menstruating; Yoreh Deah 184:2 there are three days that fall under this regulation, known as the veset, namely the same day of the month as her previous menstruation began; the day exactly 30 days after the previous menstruation started; and the day that is the usual interval from the end of her previous menstruation. Yoreh Deah 189:1-2 If the woman is not actually menstruating during a veset day, then there are certain circumstances wherein sexual activity is permitted according to most authorities, for example, if a woman's husband is about to travel, and will return only after menstruation has begun. Yoreh Deah 184:10 
+
+=== Niddah and fertility ===
+
+As the night that the woman ritually traditionally immerses is about 12 days after menstruation began, it often coincides with a woman's ovulation, and thus improves the chances of successful conception if sexual relations occur on that night. However, for certain women, this period extends far past the date of ovulation, and in combination with the ban on sexual relations during the niddah state, effectively results in the woman being unable to conceive. In the case of this effective infertility, rabbis try on a case-by-case basis to relax halakhic strictures in order to facilitate conception. There have been some calls within Orthodox Judaism for the custom to be modified so that the time between the end of menstruation and the end of niddah isn't as long for these women. Haaretz Newspaper, "Be pure or be fruitful" December 15, 2006 
+
+=== Checking by bedikah ===
+The bedikah cloth or "checking cloth", called an eid in Hebrew, is a clean piece of white cloth used in the process of purifying a niddah. It is used by observant Jewish women to determine whether they have finished menstruation. The cloth is inserted into the vagina, and if no blood is found, the woman may start counting the seven blood-free days. On each of these days, she performs this examination in the morning and in the later afternoon before sunset. If no blood is found, she may go to the mikveh on the eighth evening after nightfall, and then engage in intercourse with her husband. Mishneh Torah Kedushah Laws of forbidden relations 4:6 
+
+This practice is also occasionally used by Jewish men to check if he has gotten blood on himself from his wife after intercourse to determine whether she menstruates during intercourse. Mishneh Torah Kedushah Laws of forbidden relations 4:14 
+
+Such cloths are about two by four inches, and are available at local Judaica stores, the local mikveh, stores in Orthodox neighborhoods in Israel, or may be cut from clean all-white soft cotton or linen fabric. Mishneh Torah Kedushah Laws of forbidden relations 4:15 
+
+=== Immersion in water ===
+
+There are differing customs about how many immersions are performed at each visit to a mikveh. It is the custom of many in the Orthodox community to immerse at least twice. Shulchan Aruch, Yoreh Deah, 200. Accordingly, they would immerse, recite the blessing, then immerse again. The other opinion states that like other commandments, here too the blessing should be recited before performing the commandment. See: Family Purity—A Guide to Marital Fulfillment, by Rabbi Fishel Jacobs, chapter 10. 
+
+Immersion in a mikveh is preceded by an ordinary bath or shower, involving the cleaning of every body cavity, including the ears, and of the nails, as well trimming all nails (toenails as well as fingernails), removal of food from between the teeth, and combing of the hair. There is usually a female attendant at mikvehs to help women to ensure that they are prepared for immersion.
+
+=== Newlyweds ===
+According to all Orthodox authorities, the first time a virgin has intercourse, she also becomes niddah as a result of her hymenal blood flow (dam besulim דם בתולים). This is observed even if in fact there was no blood present. However, a bride counts only four days before performing a hefsek taharah, instead of the usual five. Toreh Deah, 196, 11, Taz 5. Some Conservative authorities rule that a woman is not a niddah in such a case unless uterine bleeding is observed. 
+
+== Privacy of the niddah process ==
+
+Out of tzniut (Hebrew for "modesty"), many Orthodox Jews and some Conservative Jews follow a custom of keeping their times of niddah secret from the general public.
+
+== Rabbi Zeira's stringency, counting an extra five days ==
+
+Jewish historians of the subject have tried to trace how the time for separation between men and women increased over time. For many , waiting seven clean days the seven clean days typically begin at the end of the five-day flow period, bringing total separation between man and wife to 12 days is controversial.
+
+According to Professor David C. Kraemer, its incorporation into Jewish law codes stems from the confusion of rabbis over the duration of menstrual cycles. He writes that contradictory statements in rabbinic literature led to a situation whereby the extra seven days became mandatory. However, this longer period is in contradiction to early Mishnaic and Talmudic statements. On a related point, on the origin of the custom to wait extra days, Kraemer opines that the stringency initiated in Talmudic times was thought out as a means of birth control.
+
+Lacquer's paper, A Developmental Perspective on the Laws of Niddah, traces the history of Jewish law on this subject, showing how stringency increased over time. "A Developmental Perspective on the Laws of Niddah", David C. Kraemer, Exploring Judaism: The Collected Essays of David Kraemer, Univ Pr of America, 1999 
+
+== Niddah in the Conservative movement ==
+Conservative authorities teach that the laws of family purity are normative and still in force, including the requirement to refrain from sexual relations during niddah, yet there is a difference of opinions over how much other strictures need to be observed, such as whether there should be complete prohibition on any touching during niddah and whether women are required to count seven "clean" days before immersing in the mikvah.
+
+In December 2006, the Rabbinical Assembly's Committee on Jewish Law and Standards passed three responsa discussing the extent of Biblical requirements and continuing applicability rabbinic prohibitions concerning niddah for Conservative Jews. Each responsum advocated different standards of observance; Rabbi Miriam Berkowitz, Mikveh and the Sanctity of Family Relations, Committee on Jewish Law and Standards, Rabbinical Assembly, December 6, 2006] two responsa were passed as majority opinions, one by Rabbi Susan Grossman Rabbi Susan Grossman, Mikveh and the Sanctity of Being Created Human, Committee on Jewish Law and Standards, Rabbinical Assembly, December 6, 2006] and one by Rabbi Avram Reisner, Rabbi Avram Reisner, Observing Niddah in Our Day, Committee on Jewish Law and Standards, Rabbinical Assembly, December 6, 2006] the third responsum, by Rabbi Miriam Berkowitz was passed as a minority opinion. Rabbi Miriam Berkowitz, Reshaping the Laws of Family Purity for the Modern World, Committee on Jewish Law and Standards, Rabbinical Assembly, December 6, 2006] 
+
+According to two majority opinions, by Rabbi Grossman and Rabbi Reisner, the "seven clean days" need not be observed today and women may immerse and resume sexual relations after seven days from the beginning of menstruation, or after its cessation, if it lasts longer than seven days. Rabbi Grossman, a majority opinion, and Rabbi Berkowitz, the minority opinion, ruled that women may rely on their own discretion about when menstruation has ended, and need not routinely engage in bedikah as described above. 
+
+Despite the official stance, the practices related to family purity have often not been widely followed by Conservative Jews. However, in an issue of the United Synagogue Review that focused on issues of mikvah and niddah (published in conjunction with the passing of the responsa mentioned above, in Fall/Winter 2006), Rabbi Myron S. Geller, a member of the Committee on Jewish Law and Standards, wrote about an upswing in the observance of the laws of family purity within the Conservative Jewish community: Archive of United Synagogue Review, text on Interfaithfamily.com Sanctifying Waters: The Mikvah and Conservative Judaism, retrieved 12-30-2011 
+
+:Conservative Judaism has largely ignored this practice in the past, but recently has begun to reevaluate its silence in this area and to consider the spiritual implications of mikvah immersion for human sexuality and for women. Jews-by-choice tend to recall the mikvah ceremony as an experience of heightened spirituality, leaving a permanent mark on their religious awareness. Some comments I have received about the mikvah include: "It made me feel closer to God"; "An emotional highlight of my life"; "When I came up from the waters all was quiet, my eyes wanted to cry. My soul was still...I am still in a state of peacefulness and love fills me"...These observations, written by converts to Judaism several weeks after the event, reflect the powerful impact of the mikvah ritual on Jews-by-choice and the profound importance they attach to its spiritual significance.
+
+:At a time when New Age enthusiasm is persuading numbers of people, disenchanted with traditional religious expression, to seek fresh ways of discovering spiritual meaning in their lives, Conservative Judaism has found in an age-old practice a metaphor for rebirth and renewal that retains its power to uplift, cleanse, and inspire.
+
+== Extent of adherence to these laws ==
+The extent to which the rabbinical and Biblical laws of niddah are followed differ. Sephardic women, even apparently secular ones, are reputed to follow them strictly; on the other hand, the rules tend not to be followed by Conservative and Reform women. Encyclopedia of Judaism: Family Purity 
+
+== See also ==
+
+* Jewish views on marriage
+* Mikveh Calendar
+* Negiah (guidelines for physical contact)
+* Role of women in Judaism
+
+== References ==
+
+== External links ==
+* Medieval Responsa Literature on Niddah: Perspectives of Notions of Tumah by Haviva Ner-David.
+* Yoatzot.org, "The Women's Health and Halacha Website"
+* Evyatar Marienberg, "Traditional Jewish Sexual Practices and Their Possible Impact on Jewish Fertility and Demography," Harvard Theological Review 106:3 (2013), pp. 243–286
+
+

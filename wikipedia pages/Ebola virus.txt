@@ -1,0 +1,78 @@
+[[Ebola virus]]
+
+Ebola virus (EBOV) is the most dangerous virus of the Ebolavirus genus, which causes an extremely severe disease in humans and other primates, the Ebola hemorrhagic fever. EBOV is a select agent, World Health Organization Risk Group 4 Pathogen (requiring Biosafety Level 4-equivalent containment), a U.S. National Institutes of Health/National Institute of Allergy and Infectious Diseases Category A Priority Pathogen, U.S. CDC Centers for Disease Control and Prevention Category A Bioterrorism Agent, and listed as a Biological Agent for Export Control by the Australia Group.
+
+== History ==
+Ebola virus (abbreviated EBOV) was first described in 1976. Today, the virus is the single member of the species Zaire ebolavirus, which is included into the genus Ebolavirus, family Filoviridae, order Mononegavirales. The name Ebola virus is derived from the Ebola River (a river that was at first thought to be in close proximity to the area in Democratic Republic of Congo, previously called Zaire, where the first recorded Ebola virus disease outbreak occurred) and the taxonomic suffix virus. 
+
+According to the rules for taxon naming established by the International Committee on Taxonomy of Viruses (ICTV), the name Ebola virus is always to be capitalized, but is never italicized, and may be abbreviated (with EBOV being the official abbreviation).
+
+=== Previous designations ===
+Ebola virus was first introduced as a possible new "strain" of Marburg virus in 1977 by two different research teams. At the same time, a third team introduced the name Ebola virus. In 2000, the virus name was changed to Zaire Ebola virus, and in 2005 to Zaire ebolavirus. However, most scientific articles continued to refer to Ebola virus or used the terms Ebola virus and Zaire ebolavirus in parallel. Consequently, in 2010, the name Ebola virus was reinstated. Previous abbreviations for the virus were EBOV-Z (for Ebola virus Zaire) and most recently ZEBOV (for Zaire Ebola virus or Zaire ebolavirus). In 2010, EBOV was reinstated as the abbreviation for the virus. 
+
+== Diagnostic criteria ==
+
+A virus of the species Zaire ebolavirus is an Ebola virus if it has the properties of Zaire ebolaviruses and if its genome diverges from that of the prototype Zaire ebolavirus, Ebola virus variant Mayinga (EBOV/May), by ≤10% at the nucleotide level. 
+
+== Epidemiology ==
+
+EBOV is one of four ebolaviruses that causes Ebola virus disease (EVD) in humans (in the literature also often referred to as Ebola hemorrhagic fever, EHF). In the past, EBOV has caused the following EVD outbreaks:
+
+ Ebola virus disease (EVD) outbreaks due to Ebola virus (EBOV) infection 
+ Year Geographic location Human cases/deaths (case-fatality rate) 
+ 1976 Yambuku, Zaire 318/280 (88%) 
+ 1977 Bonduni, Zaire 1/1 (100%) 
+ 1988 Porton Down, United Kingdom 1/0 (0%) accident 
+ 1994–1995- Woleu-Ntem and Ogooué-Ivindo Provinces, Gabon 52/32 (62%) 
+ 1995 Kikwit, Zaire 317/245 (77%) 
+ 1996 Mayibout 2, Gabon 31/21 (68%) 
+ 1996 Sergiyev Posad, Russia 1/1 (100%) accident 
+ 1996–1997 Ogooué-Ivindo Province, Gabon; Cuvette-Ouest Department, Republic of the Congo 62/46 (74%) 
+ 2001–2002 Ogooué-Ivindo Province, Gabon; Cuvette-Ouest Department, Republic of the Congo 124/97 (78%) 
+ 2002 Ogooué-Ivindo Province, Gabon; Cuvette-Ouest Department, Republic of the Congo 11/10 (91%) 
+ 2002–2003 Cuvette-Ouest Department, Republic of the Congo; Ogooué-Ivindo Province, Gabon 143/128 (90%) 
+ 2003–2004 Cuvette-Ouest Department, Republic of the Congo 35/29 (83%) 
+ 2004 Koltsovo, Russia 1/1 (100%) accident 
+ 2005 Cuvette-Ouest Department, Republic of the Congo 11/9 (82%) 
+ 2007 Kasai Occidental Province, Democratic Republic of the Congo 264/186 (71%) 
+ 2008–2009 Kasai Occidental Province, Democratic Republic of the Congo 32/15 (47%) 
+ 2012 Kibaale District, Western Uganda 24/17 (71%) 
+ 2012 Isoro, Viadana, Dungu districts of Orientale Province Democratic Republic of the Congo 62/34 (54%) 
+ 2014 Guinea, Sierra Leone, Liberia (2014 West Africa Ebola outbreak) 224/135 (60%) 
+
+==Virology==
+
+===Structure===
+Electron micrographs of EBOV show them to have the characteristic threadlike structure of a filovirus. EBOV VP30 is around 288 amino acids long. The virions are tubular in general form but variable in overall shape and may appear as the classic shepherd's crook or eyebolt, as a U or a 6, or coiled, circular, or branched; laboratory techniques, such as centrifugation, may be the origin of some of these formations. Virions are generally 80 nm in diameter with a lipid bilayer anchoring the glycoprotein which projects 7 to 10 nm long spikes from its surface. They are of variable length, typically around 800 nm, but may be up to 1000 nm long. In the center of the virion is a structure called nucleocapsid, which is formed by the helically wound viral genomic RNA complexed with the proteins NP, VP35, VP30, and L. It has a diameter of 80 nm and contains a central channel of 20–30 nm in diameter. Virally encoded glycoprotein (GP) spikes 10 nm long and 10 nm apart are present on the outer viral envelope of the virion, which is derived from the host cell membrane. Between envelope and nucleocapsid, in the so-called matrix space, the viral proteins VP40 and VP24 are located. 
+
+===Genome===
+Each virion contains one molecule of linear, single-stranded, negative-sense RNA, 18,959 to 18,961 nucleotides in length. The 3′ terminus is not polyadenylated and the 5′ end is not capped. It was found that 472 nucleotides from the 3' end and 731 nucleotides from the 5' end are sufficient for replication. It codes for seven structural proteins and one non-structural protein. The gene order is 3′ – leader – NP – VP35 – VP40 – GP/sGP – VP30 – VP24 – L – trailer – 5′; with the leader and trailer being non-transcribed regions, which carry important signals to control transcription, replication, and packaging of the viral genomes into new virions. The genomic material by itself is not infectious, because viral proteins, among them the RNA-dependent RNA polymerase, are necessary to transcribe the viral genome into mRNAs because it is a negative sense RNA virus, as well as for replication of the viral genome. Sections of the NP and the L genes from filoviruses have been identified as endogenous in the genomes of several groups of small mammals. 
+
+===Entry===
+
+Niemann–Pick C1 (NPC1) appears to be essential for Ebola infection. Two independent studies reported in the same issue of Nature showed that Ebola virus cell entry and replication requires the cholesterol transporter protein NPC1. When cells from Niemann Pick Type C1 patients were exposed to Ebola virus in the laboratory, the cells survived and appeared immune to the virus, further indicating that Ebola relies on NPC1 to enter cells. This might imply that genetic mutations in the NPC1 gene in humans could make some people resistant to one of the deadliest known viruses affecting humans. The same studies described similar results with Ebola's cousin in the filovirus group, Marburg virus, showing that it too needs NPC1 to enter cells. Furthermore, NPC1 was shown to be critical to filovirus entry because it mediates infection by binding directly to the viral envelope glycoprotein. A later study confirmed the findings that NPC1 is a critical filovirus receptor that mediates infection by binding directly to the viral envelope glycoprotein and that the second lysosomal domain of NPC1 mediates this binding. 
+
+In one of the original studies, a small molecule was shown to inhibit Ebola virus infection by preventing the virus glycoprotein from binding to NPC1. In the other study, mice that were heterozygous for NPC1 were shown to be protected from lethal challenge with mouse adapted Ebola virus. Together, these studies suggest NPC1 may be potential therapeutic target for an Ebola anti-viral drug.
+
+===Replication===
+Being acellular, viruses do not grow through cell division; instead, they use the machinery and metabolism of a host cell to produce multiple copies of themselves, and they assemble in the cell. 
+
+* The virus attaches to host receptors through the glycoprotein (GP) surface peplomer and is endocytosed into macropinosomes in the host cell 
+* Viral membrane fuses with vesicle membrane, nucleocapsid is released into the cytoplasm
+* Encapsidated, negative-sense genomic ssRNA is used as a template for the synthesis (3' – 5') of polyadenylated, monocistronic mRNAs
+* Using the host cell's machinery, translation of the mRNA into viral proteins occurs
+* Viral proteins are processed, glycoprotein precursor (GP0) is cleaved to GP1 and GP2, which are heavily glycosylated. These two molecules assemble, first into heterodimers, and then into trimers to give the surface peplomers. Secreted glycoprotein (sGP) precursor is cleaved to sGP and delta peptide, both of which are released from the cell.
+* As viral protein levels rise, a switch occurs from translation to replication. Using the negative-sense genomic RNA as a template, a complementary +ssRNA is synthesized; this is then used as a template for the synthesis of new genomic (-)ssRNA, which is rapidly encapsidated.
+* The newly formed nucleocapsids and envelope proteins associate at the host cell's plasma membrane; budding occurs, destroying the cell.
+Garcinia is suspected to be able to help stop the virus from replicating. Ebola cure hope" BBC News. August 5, 1999. 
+
+==References==
+
+== External links ==
+* Ebola: Africa’s Bloody Disease
+* Ebola Hemorrhagic Fever - CDC.gov
+
+* The Ebola Virus 3D model of the Ebola virus, prepared by Visual Science, Moscow. 
+* ICTV Files and Discussions - Discussion forum and file distribution for the International Committee on Taxonomy of Viruses
+
+

@@ -1,0 +1,99 @@
+[[Romer v. Evans]]
+
+Romer v. Evans, 517 U.S. 620 (1996), is a landmark United States Supreme Court case dealing with sexual orientation and state laws. It was the first Supreme Court case to address gay rights since Bowers v. Hardwick (1986), when the Court had held that laws criminalizing sodomy were constitutional. 
+
+The Court ruled in a 6-3 decision that a state constitutional amendment in Colorado preventing protected status based upon homosexuality or bisexuality did not satisfy the Equal Protection Clause. Romer v. Evans, 517 U.S. 620, (1996) The majority opinion in Romer stated that the amendment lacked "a rational relationship to legitimate state interests", and the dissent stated that the majority "evidently agrees that 'rational basis' - the normal test for compliance with the Equal Protection Clause - is the governing standard". Wald, Kenneth and Calhoun-Brown, Allison. Religion and Politics in the United States, p. 347 (Rowman & Littlefield 2014). The state constitutional amendment failed rational basis review. Hames, Joanne and Ekern, Yvonne. Constitutional Law: Principles and Practice, p. 215 (Cengage Learning, 2012). Smith, Miriam. Political Institutions and Lesbian and Gay Rights in the United States and Canada, p. 88 (Routledge, 2008). Schultz, David. Encyclopedia of the United States Constitution, p. 629 (Infobase Publishing, 2009). Bolick, Clint. David's Hammer: The Case for an Activist Judiciary, p. 80 (Cato Institute, 2007). 
+
+The decision in Romer set the stage for Lawrence v. Texas (2003), where the Court overruled its decision in Bowers, and for the Supreme Court ruling striking down Section 3 of the Defense of Marriage Act in United States v. Windsor (2013). 
+
+==Passage of Amendment 2==
+
+In 1992, Colorado voters approved by referendum an amendment to the Colorado state constitution (Amendment 2) that would have prevented any city, town, or county in the state from taking any legislative, executive, or judicial action to recognize gay and lesbian individuals as a protected class. The amendment stated: 
+
+Neither the State of Colorado, through any of its branches or departments, nor any of its agencies, political subdivisions, municipalities or school districts, shall enact, adopt or enforce any statute, regulation, ordinance or policy whereby homosexual, lesbian or bisexual orientation, conduct, practices or relationships shall constitute or otherwise be the basis of or entitle any person or class of persons to have or claim any minority status, quota preferences, protected status or claim of discrimination. This Section of the Constitution shall be in all respects self-executing.
+
+That amendment was approved by a vote of 53% to 47%. Gascoyne, Stephen. "Anti-Gay-Rights Law Leads To Colorado Boycott Calls", The Christian Science Monitor (December 3, 1992). According to public opinion surveys, Coloradans strongly opposed discrimination based upon sexual preference, but at the same time they opposed affirmative action based upon sexual preference, and the latter concern is what led to the adoption of Amendment 2. Turner, William. "The Gay Rights State: Wisconsin's Pioneering Legislation to Prohibit Discrimination Based on Sexual Orientation", Wisconsin Women's Law Journal, Vol. 22, p. 91, 104 (2007). The governor of Colorado, Roy Romer, opposed the measure, but also opposed retaliatory boycotts against his state. 
+
+==Proceedings in state court==
+A state trial court issued a permanent injunction against the amendment, and upon appeal, the Colorado Supreme Court ruled that the amendment was subject to "strict scrutiny" under the Equal Protection Clause of the federal Constitution. Evans v. Romer, (Colorado Supreme Court, July 1993). The state trial court, upon remand, concluded that the amendment could not pass strict scrutiny, which the Colorado Supreme Court agreed with upon review. Evans v. Romer (Colorodo Supreme Court, October 1994). Both times, the Colorado Supreme Court rendered two-to-one decisions. 
+
+The state supreme court held that Amendment 2 infringed on the fundamental right of gays to participate equally in the political process. Regarding the trial court's finding that homosexuals were not a suspect class, the Colorado Supreme Court said: "This ruling has not been appealed and thus, we do not address it."
+
+The majority of the Colorado Supreme Court acknowledged that Amendment 2 would not affect Colorado law that generally protects people from discrimination: Walsh, Kevin. "Throwing Stones: Rational Basis Review Triumphs over Homophobia", Seton Hall Law Review, Vol. 27, p. 1064 (1997). 
+
+Colorado law currently proscribes discrimination against persons who are not suspect classes....Of course Amendment 2 is not intended to have any effect on this legislation, but seeks only to prevent the adoption of anti-discrimination laws intended to protect gays, lesbians, and bisexuals.
+
+The dissenting justice on the Colorado Supreme Court argued that neither a suspect class nor a fundamental right was involved in the case, and thus he would have applied a rational basis test instead of strict scrutiny. 
+
+==U.S. Supreme Court ruling==
+The case was argued on October 10, 1995. On May 20, 1996, the court ruled 6-3 that Colorado's Amendment 2 was unconstitutional, though on different reasoning from the Colorado courts. Justice Anthony Kennedy wrote the majority opinion, and was joined by John Paul Stevens, Sandra Day O'Connor, David Souter, Ruth Bader Ginsburg, and Stephen Breyer. The Court majority held that the Colorado constitutional amendment targeting homosexuals based upon animosity lacked a rational relation to any legitimate governmental purpose. Romer v. Evans, 517 U.S. 620 (1996) 
+
+Regarding the state's argument that Amendment 2 merely blocked gay people from receiving "special rights", Kennedy wrote: 
+
+Amendment 2's reach may not be limited to specific laws passed for the benefit of gays and lesbians. It is a fair, if not necessary, inference from the broad language of the amendment that it deprives gays and lesbians even of the protection of general laws and policies that prohibit arbitrary discrimination in governmental and private settings....The state court did not decide whether the amendment has this effect, however, and neither need we.
+
+While leaving that question unresolved by his opinion, Kennedy concluded that the amendment imposed a special disability upon homosexuals by forbidding them to seek safeguards "without constraint". Instead of applying "strict scrutiny" to Amendment 2 (as the Colorado Supreme Court had done), Kennedy wrote that it did not even meet the much lower requirement of having a rational relationship to a legitimate government purpose: 
+
+Its sheer breadth is so discontinuous with the reasons offered for it that the amendment seems inexplicable by anything but animus toward the class that it affects; it lacks a rational relationship to legitimate state interests. 
+
+And: 
+
+2 is at once too narrow and too broad. It identifies persons by a single trait and then denies them protection across the board. The resulting disqualification of a class of persons from the right to seek specific protection from the law is unprecedented in our jurisprudence.
+
+Kennedy did not go into depth in rejecting the claims put forward in support of the law (e.g. protecting the rights of landlords to evict gay tenants if they found homosexuality morally offensive), instead holding that the law was so unique as to "confound this normal process of judicial review" and "defies...conventional inquiry." He elaborated: "It is not within our constitutional tradition to enact laws of this sort." 
+
+Finding that "laws of the kind now before us raise the inevitable inference that the disadvantage imposed is born of animosity toward the class of persons affected," the Court inferred that the passage of Amendment 2 was born of a "bare...desire to harm a politically unpopular group". The Court added: "f the constitutional conception of 'equal protection of the laws' means anything, it must at the very least mean that a bare ... desire to harm a politically unpopular group cannot constitute a legitimate governmental interest."(emphasis added) Romer v. Evans, 517 U.S. 620, 634-35 (1996) (citing Department of Agriculture v. Moreno, 413 U.S. 528, 534 (1973) The majority opinion in Romer neither mentioned nor overruled the Court's prior opinion in Bowers v. Hardwick (1986), which involved anti-gay animus backed up by criminal sanctions. Greve, Michael. Real Federalism: Why It Matters, How It Could Happen, p. 100 (American Enterprise Institute 1999). 
+
+==U.S. Supreme Court dissent==
+Justice Antonin Scalia wrote the dissent, joined by Chief Justice William H. Rehnquist and Justice Clarence Thomas. Scalia asserted that Amendment 2 did not deprive anyone of the "protection by general laws and policies that prohibit arbitrary discrimination in governmental and private settings", which he said was confirmed by the Colorado Supreme Court and not disputed by Justice Kennedy's opinion. Scalia's dissent said Amendment 2 merely provided that homosexuals "cannot as readily as others obtain preferential treatment under the laws". His objections also included these: 
+
+* Regarding the Court's earlier decision in Bowers v. Hardwick (1986), Scalia wrote: "If it is rational to criminalize the conduct, surely it is rational to deny special favor and protection to those with a self-avowed tendency or desire to engage in the conduct."
+* Davis v. Beason (1890) had held that laws against polygamy were not an "impermissible targeting" of polygamists, and Scalia asked: "Has the Court concluded that the perceived social harm of polygamy is a 'legitimate concern of government,' and the perceived social harm of homosexuality is not?"
+* The Court, Scalia said, was engaged in judicial activism; as the Constitution says nothing on the topic, it should be decided by democratic processes. The dissent added: "it no business of the courts (as opposed to the political branches) to take sides in this culture war. But the Court today has done so, not only by inventing a novel and extravagant constitutional doctrine to take the victory away from traditional forces, but even by verbally disparaging as bigotry adherence to traditional attitudes."
+
+The dissent concluded as follows: 
+Today's opinion has no foundation in American constitutional law, and barely pretends to. The people of Colorado have adopted an entirely reasonable provision which does not even disfavor homosexuals in any substantive sense, but merely denies them preferential treatment. Amendment 2 is designed to prevent piecemeal deterioration of the sexual morality favored by a majority of Coloradans, and is not only an appropriate means to that legitimate end, but a means that Americans have employed before. Striking it down is an act, not of judicial judgment, but of political will.
+Justice Scalia took the unusual step of omitting the word "respectfully" when he wrote "I dissent" at the end of his opinion. 
+
+==Scholarly commentary==
+The Court's opinion in Romer did not closely follow established equal protection doctrine (Amendment 2 "defied...conventional inquiry" wrote Justice Kennedy), and the opinion led to much discussion by scholars and lawyers. Wexler, Jay. The Odd Clauses: Understanding the Constitution Through Ten of Its Most Curious Provisions, p. 116 (Beacon Press 2011). One particular scholarly article that received widespread attention was by Akhil Amar, a prominent law professor at Yale. Amar wrote: Amar, Akhil. "Attainder and Amendment 2: Romer's Rightness" , Michigan Law Review, Vol. 95, p. 203 (1996). 
+
+The Constitution does not require that "special" antidiscrimination rights, once extended, irrevocably vest via some magic and antidemocratic one-way ratchet. And if Denver, Aspen, and Boulder can repeal these ordinances, presumably the Colorado legislature can repeal them by statute; and so too the people of Colorado can repeal them by state constitutional amendment (via initiative or referendum). To think otherwise is terminally silly.
+Still, Amar asserted that Amendment 2 violated the Equal Protection Clause (though he preferred an alternative argument based on other parts of the Constitution). Regarding the Equal Protection Clause, Amar wrote: 
+
+Under Amendment 2, heterosexuals could win local ordinances and state laws protecting themselves from being discriminated against on the basis of their sexual orientation, but nonheteros could not win symmetric ordinances and laws.
+Putting aside the odds of discrimination against heterosexuals, Amar suggested that even if Amendment 2 had barred special protection for both heterosexuals and homosexuals, that still would have been unconstitutional because it would single out groups by name for harm, just like a law that says "Akhil Reed Amar shall be ineligible for a private immigration bill or a suspension of deportation". 
+
+The "one-way ratchet" mentioned by Amar has been discussed by other authors as well. For example, law professor John Calvin Jeffries has argued that the Court in Romer was actually relying upon a principle of non-retrogression, whereby "The Constitution becomes a ratchet, allowing change in one direction only." Jeffries, John and Levinson, Daryl. "The Non-Retrogression Principle in Constitutional Law", California Law Review, Vol. 86, p. 1211 (1998). Jeffries and his co-author, Daryl Levinson, conclude: "the revival of non-retrogression as a constitutional principle is symptomatic of a Supreme Court adrift in an age of judicial activism." 
+
+Supporters of the decision, such as law professor Louis Michael Seidman, celebrated its "radical" nature, and hailed it as a revival of the Warren Court's activism. Seidman, Louis. "Romer's Radicalism: The Unexpected Revival of Warren Court Activism", 1996 Sup. Ct. Rev. 67 (1996). According to law professor Evan Gerstmann, the Court in Romer left unmentioned and unconsidered many purposes of Amendment 2 that the Colorado courts had acknowledged as legitimate. The case, says Gerstmann, "has left the law of equal protection even murkier than before." 
+
+==Related cases and events==
+In 1993, Cincinnati, Ohio, passed Ballot Issue 3, an amendment to the city charter, which forbade the city from adopting or enforcing civil rights ordinances based on sexual orientation, the only municipality in the United States to pass such a restriction. The wording of Cincinnati's amendment was almost identical to that of Colorado's. The amendment was upheld by the Sixth Circuit Court of Appeals in 1996. Equality Foundation of Greater Cincinnati, Inc. v. City of Cincinnati ("Equality Foundation I"), 54 F.3d 261 (6th Cir. 1995), vacated , 116 S. Ct. 2519 (1996). Later, the case was remanded by the Supreme Court for further consideration in 1997 in the wake of the Romer decision. The Sixth Circuit upheld the amendment a second time, differentiating it from the state-level amendment on the grounds that it was a local government action of the type that Amendment 2 was designed to preempt. Equality Foundation v. City of Cincinnati, 128 F. 3d 289 (1997). On October 13, 1998, the Supreme Court rejected an appeal, allowing the Sixth Circuit decision and the city amendment to stand. In 2004, Cincinnati voters overturned the amendment. 
+
+Since Romer stood in obvious tension with the Court's earlier decision in Bowers v. Hardwick, , it laid the groundwork for 2003's Lawrence v. Texas, , which overturned Bowers; like the Romer case, Justices Kennedy and Scalia would author the majority and dissenting opinions in Lawrence with all nine justices voting almost the same way as in Romer (Justice O'Connor concurred, but with a different rationale) . Romer has been narrowly cited but influential within its niche, being cited in the cases of Lawrence v. Texas and Hollingsworth v. Perry, but the case has not had a much broader impact given the Court's assertion that it was conducting neither a "normal process of judicial review" nor a "conventional inquiry." In the same niche, Romer was cited in the decision of Massachusetts Supreme Judicial Court case Goodridge v. Department of Public Health, wherein the Department’s desire to deny marriage licences to same-sex couples was explicitly likened to Amendment 2’s attempt to broadly restrict from seeking benefits a narrowly defined class of citizens. 
+
+In 2007, fifteen years after the referendum on Amendment 2, the Colorado legislature amended its anti-discrimination law by forbidding discrimination based on sexual orientation and gender identity, in employment. "SB 25 - Sexual Orientation Workplace Discrimination", Project Vote Smart, Retrieved 2013-08-02. In 2008, Colorado further expanded its LGBT protections to include housing, public accommodation, and advertising.
+
+Future Chief Justice John Roberts donated time pro bono to prepare oral arguments for the plaintiffs. Speaking during his nomination process, a case leader, Walter A. Smith Jr., praised his work on the case, recalling, "He said, 'Let's do it.' And it's illustrative of his open-mindedness, his fair-mindedness. He did a brilliant job." 
+
+==See also==
+* 1996 in LGBT rights
+* Colorado for Family Values
+* Compelling state interest
+* List of United States Supreme Court cases, volume 517
+* List of United States Supreme Court cases by the Rehnquist Court
+
+==References==
+
+==Further reading==
+*
+*
+*
+*
+
+==External links==
+
+*
+
+

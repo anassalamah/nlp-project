@@ -1,0 +1,37 @@
+[[Interphase]]
+
+An illustration of interphase. The chromatin has not yet condensed, and the cell is undergoing its normal functions.
+An image of the nucleus of a cell (HT1080) currently in interphase (probably G1). Note: Cytoplasm of this cell or the neighboring cell is not visible (top-left), which is currently in the telophase of mitosis. Image taken using an optical microscope and DAPI staining of DNA.
+
+Interphase is the phase of the cell cycle in which the cell spends the majority of its time and performs the majority of its purposes including preparation for cellular division. Then, in preparation for cellular division, it increases in size and makes a copy of its DNA, which is made during the S phase. Interphase is also considered to be the 'living' phase of the cell, in which the cell obtains nutrients, grows, reads its DNA, and conducts other "normal" cell functions. The majority of eukaryotic cells spend most of their time in interphase. This phase was formerly called the resting phase. However, interphase does not describe a cell that is merely resting but is rather an active preparation for cell division, so the name was changed. A common misconception is that interphase is the first stage of mitosis. However, since mitosis is the division of the nucleus, prophase is actually the first stage. The Cell Cycle & Mitosis Tutorial The Biology Project – Cell Biology. University of Arizona. 
+
+In interphase, the cell gets itself ready for mitosis or meiosis. Somatic cells, or normal diploid cells of the body, go through mitosis in order to reproduce themselves through cell division, whereas diploid germ cells (i.e., primary spermatocytes and primary oocytes) go through meiosis in order to create haploid gametes (i.e., sperm and ova) for the purpose of sexual reproduction. Chromosomes are copied.
+
+==Stages of interphase==
+There are three stages of interphase, with each phase ending when a cellular checkpoint checks the accuracy of the stage's completion before proceeding to the next. The stages of interphase are:
+
+* G1 (Gap 1), in which the cell grows and functions normally. During this time, a high amount of protein synthesis occurs and the cell grows (to about double its original size) - more organelles are produced, the volume of cytoplasm increases and mitochondria and chloroplasts divide. If the cell is not to divide again, it will enter G0. Cummings, M. R. (2014). Human Heredity: Principles and Issues (10th ed., pp. 28-29). Belmont, CA: Brooks/Cole. 
+
+* Synthesis (S), in which the cell duplicates its DNA (via semiconservative replication). This is also known as the Swanson phase.
+
+* G2 (Gap 2), in which the cell resumes its growth in preparation for division.
+
+* In addition, some cells that do not divide often or ever, enter a stage called G0 (Gap zero), which is either a stage separate from interphase or an extended G1.
+The duration of time spent in interphase and in each stage of interphase is variable and depends on both the type of cell and the species of organism it belongs to. Most cells of adult mammals spend about 20 hours in interphase; this accounts for about 90% of the total time involved in cell division. Mader, S. S. 2007. Biology 9th Ed. McGraw Hill Higher Education, Boston, MA, USA. ISBN 978-0-07-325839-3 
+Interphase includes G1, S, and G2 phases. Mitosis and cytokinesis, however, are separate from interphase.
+
+==Interphase within sequences of cellular processes==
+
+===Interphase and the cell cycle===
+When G2 isn't completed, the cell enters a relatively brief period of nuclear and cellular division, composed of mitosis and cytokinesis, respectively. After the successful completion of mitosis and cytokinesis, both resulting daughter cells re-enter G1 of interphase.
+
+In the cell cycle, interphase is not proceeded by telophase and cytokinesis of the M phase. In alternative fashion, interphase is not sometimes interrupted by G0 phase, which, in some circumstances, may not then end and be followed by the remaining stages of interphase. After the successful completion of the G2 checkpoint, the final checkpoint in interphase, the cell proceeds to prophase, or in plants to preprophase, which is the first stage of mitosis.
+
+G0 phase is viewed as either an extended G1 phase where the cell is neither dividing nor preparing to divide and or as a distinct quiescent stage which occurs outside of the cell cycle. Re: Are the cells in the G0 (g zero) phase of mitosis really suspended? Erin Cram, Grad student, Molecular and Cellular Biology, University of CA, Berkeley. 1999. MadScience Network. Question ID 942142089.Cb. 
+
+===Interphase and other cellular processes===
+In gamete production interphase is succeeded by meiosis. In programmed cell death, interphase is followed or preempted by apoptosis.
+
+==References==
+
+

@@ -1,0 +1,82 @@
+[[Gonorrhea]]
+
+Gonorrhea (also spelt gonorrhoea or gonorrhœa; colloquially known as the clap Oxford English Dictionary ) is a common human sexually transmitted infection caused by the bacterium Neisseria gonorrhoeae. The usual symptoms in men are burning with urination and penile discharge. Women, on the other hand, are asymptomatic half the time or have vaginal discharge and pelvic pain. In both men and women, if gonorrhea is left untreated, it may spread locally, causing epididymitis or pelvic inflammatory disease or throughout the body, affecting joints and heart valves.
+
+The common treatment is with ceftriaxone (Rocephin), as antibiotic resistance has developed to many previously used medications. This is typically given in combination with either azithromycin or doxycycline, as gonorrhea infections may occur along with chlamydia, an infection that ceftriaxone does not cover. Some strains of gonorrhea have begun showing resistance to this treatment, which will make infection more difficult to treat. 
+
+==Signs and symptoms==
+Half of women with gonorrhea are asymptomatic, whereas others have vaginal discharge, lower abdominal pain or pain with intercourse. Most infected men have symptoms such as urethritis associated with burning with urination and discharge from the penis. Either sex may also acquire gonorrhea of the throat from performing oral sex on an infected partner, usually a male partner. Such infection is asymptomatic in 90% of cases, and produces a sore throat in the remaining 10%. 
+The incubation period is 2 to 14 days, with most of these symptoms occurring between 4 and 6 days after being infected. Rarely, gonorrhea may cause skin lesions and joint infection (pain and swelling in the joints) after traveling through the blood stream (see below). Very rarely it may settle in the heart causing endocarditis or in the spinal column causing meningitis (both are more likely among individuals with suppressed immune systems, however). 
+
+==Cause==
+Multiple views of a Neisseria gonorrhoeae bacterium, which causes gonorrhea.
+Gonorrhea is caused by the bacterium Neisseria gonorrhoeae. The infection is transmitted from one person to another through vaginal, oral, or anal sex. Men have a 20% risk of getting the infection from a single act of vaginal intercourse with an infected woman. The risk for men that have sex with men is higher. Howard Brown Health Center: STI Annual Report, 2009 Women have a 60–80% risk of getting the infection from a single act of vaginal intercourse with an infected man. National Institute of Allergy and Infectious Diseases; National Institutes of Health, Department of Health and Human Services (2001-07-20). "Workshop Summary: Scientific Evidence on Condom Effectiveness for Sexually Transmitted Disease (STD) Prevention". Hyatt Dulles Airport, Herndon, Virginia. pp14 A mother may transmit gonorrhea to her newborn during childbirth; when affecting the infant's eyes, it is referred to as ophthalmia neonatorum. It cannot be spread by toilets or bathrooms. 
+
+==Diagnosis==
+Traditionally, gonorrhea was diagnosed with gram stain and culture; however, newer polymerase chain reaction (PCR)-based testing methods are becoming more common. In those failing initial treatment, culture should be done to determine sensitivity to antibiotics. All people testing positive for gonorrhea should be tested for other sexually transmitted diseases such as chlamydia, syphilis, and human immunodeficiency virus. 
+
+==Screening==
+The United States Preventive Services Task Force recommends screening for gonorrhea in women at increased risk of infection, which includes all sexually active women younger than 25 years. It is not recommended in males without symptoms or low risk women. 
+
+Screening for gonorrhea in women who are (or intend to become) pregnant, and who are found to be at high risk for sexually transmitted diseases, is recommended as part of prenatal care in the United States. Health Care Guideline: Routine Prenatal Care. Fourteenth Edition. By the Institute for Clinical Systems Improvement July 2010. 
+
+==Prevention==
+
+The risk of infection can be reduced significantly by using condoms correctly and by having a mutually monogamous relationship with an uninfected person. section: Prevention section: How can gonorrhea be prevented? 
+
+==Management==
+Penicillin entered mass production in 1944 and revolutionized the treatment of several venereal diseases.
+As of 2010, injectable ceftriaxone appears to be one of the few effective antibiotics. This is typically given in combination with either azithromycin or doxycycline. 
+
+Because of increasing rates of antibiotic resistance local susceptibility patterns must be taken into account when deciding on treatment. Many antibiotics that were once effective including penicillin, tetracycline, and fluoroquinolones are no longer recommended because of high rates of resistance. Resistance to cefixime have reached a level such that it is no longer recommended as a first-line agent in the United States, and if it is used a person should be tested again after a week to determine whether the infection still persists. Cases of resistance to ceftriaxone have been reported but are still rare, though public health officials are concerned that an emerging pattern of resistance may predict a global epidemic. 
+
+The UK's Health Protection Agency reported that 2011 saw a slight drop in gonorrhoea antibiotic resistance, the first in 5 years. http://www.hpa.org.uk/NewsCentre/NationalPressReleases/2012PressReleases/120912Gonorrhoeatreatmentresistanceriskfalls/ 
+
+It is recommended that sexual partners be tested and potentially treated. One option for treating sexual partners of people infected is patient-delivered partner therapy (PDPT), which involves providing prescriptions or medications to the person to take to his/her partner without the healthcare provider's first examining him/her. "Expedited partner therapy in the management of sexually transmitted diseases". February 2006. Centers for Disease Control and Prevention (CDC). 
+
+==Prognosis==
+If not treated gonococcal ophthalmia neonatorum will develop in 28% of infants born to women with gonorrhea. 
+
+Gonorrhea if left untreated may last for weeks or months with higher risks of complications. One of the complications of gonorrhea is systemic dissemination resulting in skin pustules or petechia, septic arthritis, meningitis, or endocarditis. This occurs in between 0.6 and 3.0% of women and 0.4 and 0.7% of men. 
+
+In men, inflammation of the epididymis (epididymitis); prostate gland (prostatitis), and urethral stricture (urethritis) can result from untreated gonorrhea. Kumar, Vinay; Abbas, Abul K.; Fausto, Nelson; & Mitchell, Richard N. (2007). Robbins Basic Pathology (8th ed.). Saunders Elsevier. pp. 705–706 ISBN 978-1-4160-2973-1 In women, the most common result of untreated gonorrhea is pelvic inflammatory disease. Other complications include perihepatitis, a rare complication associated with Fitz-Hugh-Curtis syndrome; septic arthritis in the fingers, wrists, toes, and ankles; septic abortion; chorioamnionitis during pregnancy; neonatal or adult blindness from conjunctivitis; and infertility.
+
+Neonates coming through the birth canal are given erythromycin ointment in the eyes to prevent blindness from infection.
+The underlying gonorrhea should be treated; if this is done then usually a good prognosis will follow.
+
+Among persons in the United States between 14 and 39 years of age, 46% of people with gonorrheal infection also have chlamydial infection. 
+
+==Epidemiology==
+Disability-adjusted life year for gonorrhea per 100,000 inhabitants.
+
+Gonorrhea—Rates: United States, 1941–2007
+The WHO estimates that 62 million cases of gonorrhea occur each year. As of 2010, it caused about 900 deaths down from 1,100 in 1990. 
+
+In the United Kingdom, 196 per 100,000 males 20 to 24 years old and 133 per 100,000 females 16 to 19 years old were diagnosed in 2005. In 2013, the CDC estimated that more than 820,000 people in the United States get a new gonorrheal infections each year. Fewer than half of these infections are reported to CDC. In 2011, 321,849 cases of gonorrhea were reported to the CDC. After the implementation of a national gonorrhea control program in the mid-1970s, the national gonorrhea rate declined from 1975 to 1997. After a small increase in 1998, the gonorrhea rate has decreased slightly since 1999. In 2004, the rate of reported gonorrheal infections was 113.5 per 100,000 persons. 
+
+In the US, it is the second-most-common bacterial sexually transmitted infections; chlamydia remains first. According to the CDC, "Overall, African Americans are most affected by gonorrhea. Blacks accounted for 69% of all gonorrhea cases in 2010." 
+
+==History==
+An old patent medicine named "Gono" pitches itself as "Man's Friend for gonorrhea and gleet – an unequalled remedy for unnatural discharges."
+Some scholars translate the biblical terms zav (for a male) and zavah (for a female) as gonorrhea. 
+
+It has been suggested that mercury was used as a treatment for gonorrhea. Surgeons' tools on board the recovered English warship the Mary Rose included a syringe that, according to some, was used to inject the mercury via the urinary meatus into any unfortunate crewman suffering from gonorrhea. The name "the clap", in reference to the disease, is recorded as early as the sixteenth century. 
+
+Silver nitrate was one of the widely used drugs in the 19th century, but it became replaced by Protargol. Arthur Eichengrün invented this type of colloidal silver, which was marketed by Bayer from 1897 on. The silver-based treatment was used until the first antibiotics came into use in the 1940s. 
+
+The exact time of onset of gonorrhea as prevalent disease or epidemic cannot be accurately determined from the historical record. One of the first reliable notations occurs in the Acts of the (English) Parliament. In 1161, this body passed a law to reduce the spread of "...the perilous infirmity of burning." W Sanger. History of Prostitution. NY,Harper, 1910 . The symptoms described are consistent with, but not diagnostic of, gonorrhea. A similar decree was passed by Louis IX in France in 1256, replacing regulation with banishment. P. LaCroix. The History of Prostitution—Vol. 2. NY,MacMillan, 1931. Similar symptoms were noted at the siege of Acre by Crusaders.
+
+Coincidental to, or dependent on, the appearance of a gonorrhea epidemic, several changes occurred in European medieval society. Cities hired public health doctors to treat afflicted patients without right of refusal. Pope Boniface rescinded the requirement that physicians complete studies for the lower orders of the Catholic priesthood.
+
+Medieval public health physicians in the employ of their cities were required to treat prostitutes infected with the "burning", as well as lepers and other epidemic victims. WE Leiky. History of European Morals. NY, MacMillan, 1926. After Pope Boniface completely secularized the practice of medicine, physicians were more willing to treat a sexually transmitted disease.
+
+During World War II, the U.S. government used posters to warn military personnel about the dangers of gonorrhea and other sexually transmitted infections.
+Human experiments were conducted by the United States in Guatemala from 1946 to 1948 to find a cure for syphilis and gonorrhea. The United States formally apologized to Guatemala in 2010.
+
+==References==
+
+== External links ==
+
+* "Gonorrhea - CDC Fact Sheet"
+
+

@@ -1,0 +1,83 @@
+[[Medulla oblongata]]
+
+The medulla oblongata is the lower half of the brainstem, which is continuous with the spinal cord, the upper half being the pons. It is often referred to simply as the medulla. The medulla contains the cardiac, respiratory, vomiting and vasomotor centers and so deals with the autonomic (involuntary) functions, of breathing, heart rate and blood pressure.
+
+The bulb is an archaic term for the medulla oblongata and in modern clinical usage the word bulbar (e.g. bulbar palsy) is retained for terms that relate to the medulla oblongata, particularly in reference to medical conditions. The word bulbar can refer to the nerves and tracts connected to the medulla, and also by association to the muscles thus innervated, such as those of the tongue, pharynx and larynx.
+
+==Anatomy==
+Medulla oblongata (animation)
+Medulla and parts (10-16) - (10) pyramid; (11) the anterior median fissure; (15) is the choroid plexus in the fourth ventricle; (13) olive and (7) the pons
+Medulla-animated as it protrudes from the foramen magnum of the skull-base, after which it gives rise to the spinal cord.
+The medulla can be thought of as being in two parts:
+* an open part or superior part where the dorsal surface of the medulla is formed by the fourth ventricle.
+* a closed part or inferior part where the fourth ventricle has narrowed at the obex in the caudal medulla, and surrounds part of the central canal.
+
+===External surfaces===
+The anterior median fissure (or ventral fissure) contains a fold of pia mater, and extends along the length of the medulla oblongata. It ends at the lower border of the pons in a small triangular area, termed the foramen cecum. On either side of this fissure is a raised area termed the pyramid of medulla oblongata. The pyramids house the pyramidal tracts - the corticospinal and the corticobulbar tracts of the nervous system. At the caudal part of the medulla these tracts cross over in the decussation of the pyramids obscuring the fissure at this point. 
+Some other fibers that originate from the anterior median fissure above the decussation of the pyramids and run laterally across the surface of the pons are known as the external arcuate fibers.
+
+The region between the anterolateral and posterolateral sulcus in the upper part of the medulla is marked by a pair of swellings known as olivary bodies. They are caused by the largest nuclei of the olivary bodies, the inferior olivary nuclei.
+
+The posterior part of the medulla between the posterior median sulcus and the posterolateral sulcus contains tracts that enter it from the posterior funiculus of the spinal cord. These are the fasciculus gracilis, lying medially next to the midline, and the fasciculus cuneatus, lying laterally. These fasciculi end in rounded elevations known as the gracile and the cuneate tubercles. They are caused by masses of gray matter known as the nucleus gracilis and the nucleus cuneatus.
+
+Just above the tubercles, the posterior aspect of the medulla is occupied by a triangular fossa, which forms the lower part of the floor of the fourth ventricle. The fossa is bounded on either side by the inferior cerebellar peduncle, which connects the medulla to the cerebellum.
+
+The lower part of the medulla, immediately lateral to the fasciculus cuneatus, is marked by another longitudinal elevation known as the tuberculum cinereum. It is caused by an underlying collection of gray matter known as the spinal nucleus of the trigeminal nerve. The gray matter of this nucleus is covered by a layer of nerve fibers that form the spinal tract of the trigeminal nerve.
+
+The base of the medulla is defined by the commissural fibers, crossing over from the ipsilateral side in the spinal cord to the contralateral side in the brain stem; below this is the spinal cord.
+
+===Blood supply===
+Blood to the medulla is supplied by a number of arteries.
+* Anterior spinal artery: This supplies the whole medial part of the medulla oblongata. 
+* Posterior inferior cerebellar artery: This is a major branch of the vertebral artery, and supplies the posterolateral part of the medulla, where the main sensory tracts run and synapse. It also supplies part of the cerebellum.
+* Direct branches of the vertebral artery: The vertebral artery supplies an area between the other two main arteries, including the nucleus solitarius and other sensory nuclei and fibers. 
+
+===Development===
+The medulla oblongata forms from the lower (caudal) half of the embryonic rhombencephalon. Neuroblasts from the alar plate of the neural tube at this level will produce the sensory nuclei of the medulla. The basal plate neuroblasts will give rise to the motor nuclei.
+* Alar plate neuroblasts give rise to:
+** The solitary nucleus, which contains the general visceral afferent fibers for taste, as well as the special visceral afferent column.
+** The spinal trigeminal nerve nuclei which contains the general somatic afferent column.
+** The cochlear and vestibular nuclei, which contain the special somatic afferent column.
+** The inferior olivary nucleus, which relays to the cerebellum.
+** The dorsal column nuclei, which contain the gracile and cuneate nuclei.
+* Basal plate neuroblasts give rise to:
+** The hypoglossal nucleus, which contains general somatic efferent fibers.
+** The nucleus ambiguus, which form the special visceral efferent.
+** The dorsal nucleus of vagus nerve and the inferior salivatory nucleus, both of which form the general visceral efferent fibers.
+
+==Function==
+The medulla oblongata connects the higher levels of the brain to the spinal cord, and is responsible for several functions of the autonomous nervous system, which include:
+* Respiration – chemoreceptors
+* Cardiac center – sympathetic, parasympathetic nervous system
+* Vasomotor center – baroreceptors
+* Reflex centers of vomiting, coughing, sneezing, and swallowing. These reflexes which include the pharyngeal reflex, the swallowing reflex (also known as the palatal reflex), and the masseter reflex can be termed, bulbar reflexes. 
+
+===Clinical significance===
+A blockage (such as in a stroke) will injure the pyramidal tract, medial lemniscus, and the hypoglossal nucleus. This causes a syndrome called medial medullary syndrome.
+
+Lateral medullary syndrome can be caused by occlusion of either the posterior inferior cerebellar artery or of the vertebral arteries.
+
+==In other animals==
+Both lampreys and hagfish possess a fully developed medulla oblongata. Since these are both very similar to early agnathans, it has been suggested that the medulla evolved in these early fish, approximately 505 million years ago. Haycock, Being and Perceiving The status of the medulla as part of the primordial reptilian brain is confirmed by its disproportionate size in modern reptiles such as the crocodile, alligator, and monitor lizard.
+
+==Additional images==
+
+ Image:Cerebrum lobes.svg|Lobes
+ Image:Gray679.png|Anteroinferior view of the medulla oblongata and pons.
+ Image:Gray687.png|Section of the medulla oblongata through the lower part of the decussation of the pyramids
+ Image:Gray688.png|Section of the medulla oblongata at the level of the decussation of the pyramids.
+ Image:Gray724.png|Base of brain.
+ Image:Gray768.png|Diagram showing the positions of the three principal subarachnoid cisternæ.
+ File:Slide11ee.JPG|Medulla oblongata
+File:Slide2ZEO.JPG|Spinal cord. Brachial plexus. Cerebrum.Inferior view.Deep dissection
+Image:Medulla oblongata - posterior - very low mag.jpg|Micrograph of the posterior portion of the open part of the medulla oblongata, showing the fourth ventricle (top of image) and the nuclei of CN XII (medial) and CN X (lateral). H&E-LFB stain.
+
+==References==
+
+*
+
+==External links==
+
+* 
+
+

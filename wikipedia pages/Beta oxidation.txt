@@ -1,0 +1,128 @@
+[[Beta oxidation]]
+
+Schematic demonstrating mitochondrial fatty acid beta-oxidation and effects of long-chain 3-hydroxyacyl-coenzyme A dehydrogenase deficiency, LCHAD deficiency
+Beta-oxidation is the process by which fatty acid molecules are broken down in the mitochondria to generate acetyl-coA, which enters the citric acid cycle, and NADH and FADH2, which are used by the electron transport chain.
+
+Fatty Acid Catabolism involve three stages. 
+The first stage of fatty acid catabolism is Beta-Oxidation.
+The second stage is acetyl CoA oxidation to carbon dioxide.
+The third stage is electron transfer from electron carriers to the electron transfer chain. 
+
+Priming the fatty acid for oxidation: Carnitine Shuttle Activation and Transportation of Fatty Acids to the Mitochondria via the Carnitine Shuttle Pathway (with Animation) 
+# Acyl CoA is transferred to the hydroxyl group of carnitine by carnitine palmitoyltransferase I (palmitoyltransferase) located on the outer mitochondrial membrane
+# Acylcarnitine is shuttled inside by a carnitine-acylcarnitine translocase
+# Acylcarnitine is converted back to acyl CoA by carnitine acyltransferase II (palmitoyltransferase) located on the inner mitochondrial membrane. The liberated carnitine returns to the cytosol.
+
+Once the fatty acid is inside the mitochondrial matrix, Beta Oxidation can begin. It has 4 steps. 
+
+Step 1 of Beta-Oxidation: Long chain fatty acid is dehydrogenated to create a trans double bond between C2 and C3. This is catalyzed by the fatty acyl CoA dehydrogenase to produce trans-delta 2-enoyl CoA. It uses FAD as an electron acceptor and it is reduced to FADH2. 
+
+Step 2 of Beta-Oxidation: Trans-delta2-enoyl CoA is hydrated at the double bond to produce L-B-hydroxyacyl CoA. This is catalyzed by enoyl CoA hydratase. 
+
+Step 3 of Beta- Oxidation: L-B-hydroxyacyl CoA is dehydrogenated again to create B-ketoacyl CoA by B-hydroxyacyl CoA dehydrogenase. This enzyme uses NAD as an electron acceptor. 
+
+Step 4 of Beta-Oxidation: Thiolysis occurs between C2 and C3 (alpha and beta carbons) of B-ketoacyl CoA. Thiolase enzyme catalyzes the reaction when a new molecule of coenzyme A breaks the bond by nucleophilic attack on C3. This releases the first two carbon units, as acetyl CoA, and a fatty acyl CoA minus two carbons. The process continues until all of the carbons in the fatty acid are turned into acetyl CoA. 
+
+Fatty acids are oxidized by most of the tissues in the body. However, some tissues such as the adrenal medulla do not use fatty acids for their energy requirements and instead use carbohydrates.
+
+==Activation and transport==
+Free fatty acids cannot penetrate the plasma membrane due to their negative charge. Once in the cytosol, activation of the fatty acid is catalyzed by long fatty acyl CoA synthetase. A fatty acid reacts with ATP to give a fatty acyl adenylate, plus inorganic pyrophosphate, which then reacts with free coenzyme A to give a fatty acyl-CoA ester plus AMP. If the fatty acyl-CoA has a long chain (10 or more carbons) then it is reacted with carnitine to form acylcarnitine, which is transported across the inner mitochondrial membrane by a Carnitine-acylcarnitine translocase. If the fatty acyl-CoA contains a short chain (less than 10 carbons) it can simply diffuse through the inner mitochondrial membrane.
+
+==Even-numbered saturated fatty acids==
+Once inside the mitochondria, each cycle of β-oxidation, liberating a two carbon unit (acetyl-CoA), occurs in a sequence of four reactions:
+
+ Description Diagram Enzyme End product 
+ Dehydrogenation by FAD: The first step is the oxidation of the fatty acid by Acyl-CoA-Dehydrogenase. The enzyme catalyzes the formation of a double bond between the C-2 and C-3. 400px acyl CoA dehydrogenase trans-Δ2-enoyl-CoA 
+ Hydration: The next step is the hydration of the bond between C-2 and C-3. The reaction is stereospecific, forming only the L isomer. 400px enoyl CoA hydratase L-β-hydroxyacyl CoA 
+ Oxidation by NAD+: The third step is the oxidation of L-β-hydroxyacyl CoA by NAD+. This converts the hydroxyl group into a keto group. 400px 3-hydroxyacyl-CoA dehydrogenase β-ketoacyl CoA 
+ Thiolysis: The final step is the cleavage of β-ketoacyl CoA by the thiol group of another molecule of Coenzyme A. The thiol is inserted between C-2 and C-3. 400px β-ketothiolase An acetyl-CoA molecule, and an acyl-CoA molecule that is two carbons shorter 
+
+This process continues until the entire chain is cleaved into acetyl CoA units. The final cycle produces two separate acetyl CoAs, instead of one acyl CoA and one acetyl CoA. For every cycle, the Acyl CoA unit is shortened by two carbon atoms. Concomitantly, one molecule of FADH2, NADH and acetyl CoA are formed.
+
+==Odd-numbered saturated fatty acids==
+In general, fatty acids with an odd number of carbons are found in the lipids of plants and some marine organisms. Many ruminant animals form a large amount of 3-carbon propionate during the fermentation of carbohydrates in the rumen. Nelson, D. L. & Cox, M. M. (2005). Lehninger Principles of Biochemistry, 4th Edition. New York: W. H. Freeman and Company, pp. 648-649. ISBN 0-7167-4339-6. 
+
+Chains with an odd-number of carbons are oxidized in the same manner as even-numbered chains, but the final products are propionyl-CoA and acetyl-CoA. 
+
+Propionyl-CoA is first carboxylated using a bicarbonate ion into D-stereoisomer of methylmalonyl-CoA, in a reaction that involves a biotin co-factor, ATP, and the enzyme propionyl-CoA carboxylase. The bicarbonate ion's carbon is added to the middle carbon of propionyl-CoA, forming a D-methylmalonyl-CoA. However, the D conformation is enzymatically converted into the L conformation by methylmalonyl-CoA epimerase, then it undergoes intramolecular rearrangement, which is catalyzed by methylmalonyl-CoA mutase (requiring B12 as a coenzyme) to form succinyl-CoA. The succinyl-CoA formed can then enter the citric acid cycle. 
+
+However, whereas acetyl-CoA enters the citric acid cycle by condensing with an existing molecule of oxaloacetate, succinyl-CoA enters the cycle as a principal in its own right. Thus the succinate just adds to the population of circulating molecules in the cycle and undergoes no net metabolization while in it. When this infusion of citric acid cycle intermediates exceeds cataplerotic demand (such as for aspartate or glutamate synthesis), some of them can be extracted to the gluconeogenesis pathway, in the liver and kidneys, through phosphoenolpyruvate carboxykinase, and converted to free glucose. 
+
+==Unsaturated fatty acids==
+β-Oxidation of unsaturated fatty acids poses a problem since the location of a cis bond can prevent the formation of a trans-Δ2 bond. These situations are handled by an additional two enzymes, Enoyl CoA isomerase or 2,4 Dienoyl CoA reductase.
+
+This describes how unsaturated fatty acids are divided in Beta oxidation.
+
+Whatever the conformation of the hydrocarbon chain, β-oxidation occurs normally until the acyl CoA (because of the presence of a double bond) is not an appropriate substrate for acyl CoA dehydrogenase, or enoyl CoA hydratase:
+
+* If the acyl CoA contains a cis-Δ3 bond, then cis-Δ3-Enoyl CoA isomerase will convert the bond to a trans-Δ2 bond, which is a regular substrate.
+
+* If the acyl CoA contains a cis-Δ4 double bond, then its dehydrogenation yields a 2,4-dienoyl intermediate, which is not a substrate for enoyl CoA hydratase. However, the enzyme 2,4 Dienoyl CoA reductase reduces the intermediate, using NADPH, into trans-Δ3-enoyl CoA. As in the above case, this compound is converted into a suitable intermediate by 3,2-Enoyl CoA isomerase.
+
+To summarize:
+* Odd-numbered double bonds are handled by the isomerase.
+* Even-numbered double bonds by the reductase (which creates an odd-numbered double bond)
+
+==Oxidation in peroxisomes==
+Fatty acid oxidation also occurs in peroxisomes, when the fatty acid chains are too long to be handled by the mitochondria. However, the oxidation ceases at octanoyl-CoA. It is believed that very long chain (greater than C-22) fatty acids undergo initial oxidation in peroxisomes which is followed by mitochondrial oxidation.
+
+One significant difference is that oxidation in peroxisomes is not coupled to ATP synthesis. Instead, the high-potential electrons are transferred to O2, which yields H2O2. It does generate heat however. The enzyme catalase, found exclusively in peroxisomes, converts the hydrogen peroxide into water and oxygen.
+
+Peroxisomal β-oxidation also requires enzymes specific to the peroxisome and to very long fatty acids. There are three key differences between the enzymes used for mitochondrial and peroxisomal β-oxidation:
+#The NADH formed in the second oxidative step cannot be reoxidized in the peroxisome, so reducing equivalents are exported to the cytosol. 
+#β-oxidation in the peroxisome requires the use of a peroxisomal carnitine acyltransferase (instead of carnitine acyltransferase I and II used by the mitochondria) for transport of the activated acyl group into the mitochondria for further breakdown.
+#The first oxidation step in the peroxisome is catalyzed by the enzyme acyl-CoA oxidase.
+#The β-ketothiolase used in peroxisomal β-oxidation has an altered substrate specificity, different from the mitochondrial β-ketothiolase.
+
+Peroxisomal oxidation is induced by high-fat diet and administration of hypolipidemic drugs like clofibrate.
+
+==Energy yield==
+The ATP yield for every oxidation cycle is theoretically at maximum yield 17, as NADH produces 3 ATP, FADH2 produces 2 and a full rotation of the Citric Acid Cycle produces 12. In practice it's closer to 14 ATP for a full oxidation cycle as in practice the theoretical yield isn't attained, it's generally closer to 2.5 ATP per NADH molecule produced, 1.5 for each FADH2 Molecule produced and this equates to 10 per cycle of the TCA (according to the P/O ratio), broken down as follows:
+
+ Source ATP Total 
+ 1 FADH2 x 1.5 ATP = 1.5 ATP (Theoretically 2 ATP) 
+ 1 NADH x 2.5 ATP = 2.5 ATP (Theoretically 3 ATP) 
+ 1 acetyl CoA x 10 ATP = 10 ATP (Theoretically 12 ATP) 
+ TOTAL = 14 ATP 
+
+For an even-numbered saturated fat (C2n), n - 1 oxidations are necessary, and the final process yields an additional acetyl CoA. In addition, two equivalents of ATP are lost during the activation of the fatty acid. Therefore, the total ATP yield can be stated as: 
+
+:(n - 1) * 14 + 10 - 2 = total ATP
+or
+:14n-6 (alternatively)
+For instance, the ATP yield of palmitate (C16, n = 8) is:
+
+:(8 - 1) * 14 + 10 - 2 = 106 ATP
+
+Represented in table form:
+
+ Source ATP Total 
+ 7 FADH2 x 1.5 ATP = 10.5 ATP 
+ 7 NADH x 2.5 ATP = 17.5 ATP 
+ 8 acetyl CoA x 10 ATP = 80 ATP 
+ Activation = -2 ATP 
+ NET = 106 ATP 
+
+For sources that use the larger ATP production numbers described above, the total would be 129 ATP ={(8-1)*17+12-2} equivalents per palmitate.
+
+Beta-oxidation of unsaturated fatty acids changes the ATP yield due to the requirement of two possible additional enzymes.
+
+==Clinical==
+
+There are at least 25 enzymes and specific transport proteins in the β-oxidation pathway. Of these 18 have been associated with human disease. 
+
+==See also==
+*Fatty acid metabolism
+*Lipolysis
+*Krebs cycle
+*Omega oxidation
+*Alpha oxidation
+
+== External links ==
+*The chemical logic behind fatty acid metabolism at ufp.pt
+* JEREMY M. BERG,JOHN L. TYMOCZKO and LUBERT STRYER Biochemistry, 2002 
+* Animations at brookscole.com
+
+== References ==
+
+

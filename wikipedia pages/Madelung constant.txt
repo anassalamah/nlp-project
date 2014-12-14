@@ -1,0 +1,72 @@
+[[Madelung constant]]
+
+The Madelung constant being calculated for the NaCl ion labeled 0 in the expanding spheres method. Each number designates the order in which it is summed. Note that in this case, the sum is divergent, but there are methods for summing it which give a converging series.
+The Madelung constant is used in determining the electrostatic potential of a single ion in a crystal by approximating the ions by point charges. It is named after Erwin Madelung, a German physicist. 
+
+Because the anions and cations in an ionic solid are attracting each other by virtue of their opposing charges, separating the ions requires a certain amount of energy. This energy must be given to the system in order to break the anion-cation bonds. The energy required to break these bonds for one mole of an ionic solid under standard conditions is the lattice energy.
+
+The Madelung constant shall allow for the calculation of the electric potential Vi of all ions of the lattice felt by the ion at position ri
+
+:
+
+where rij =|ri - rj| is the distance between the ith and the jth ion. In addition,
+:zj = number of charges of the jth ion
+:e = 1.6022 C
+:4 &pi; &epsilon;0 = 1.112 C²/(J m).
+
+If the distances rij are normalized to the nearest neighbor distance r0 the potential may be written
+
+:
+
+with being the (dimensionless) Madelung constant of the ith ion
+
+:
+
+The electrostatic energy of the ion at site then is the product of its charge with the potential acting at its site
+:
+
+There occur as many Madelung constants in a crystal structure as ions occupy different lattice sites. For example, for the ionic crystal NaCl, there arise two Madelung constants &ndash; one for Na and another for Cl. Since both ions, however, occupy lattice sites of the same symmetry they both are of the same magnitude and differ only by sign. The electrical charge of the Na+ and Cl&minus; ion are assumed to be onefold positive and negative, respectively, and . The nearest neighbour distance amounts to half the lattice parameter of the cubic unit cell and the Madelung constants become
+
+:
+
+This graph demonstrates the non-convergence of the expanding spheres method for calculating the Madelung constant for NaCl as compared to the expanding cubes method, which is convergent.
+
+The prime indicates that the term is to be left out. Since this sum is conditionally convergent it is not suitable as definition of Madelung's constant unless the order of summation is also specified. There are two "obvious" methods of summing this series, by expanding cubes or expanding spheres. The latter, though devoid of a meaningful physical interpretation (there are no spherical crystals) is rather popular because of its simplicity. Thus, the following expansion is often found in the literature: Charles Kittel: Introduction to Solid State Physics., Wiley 1995, ISBN 0-471-11181-3 
+
+:
+
+However, this is wrong as this series diverges as was shown by Emersleben in 1951. O. Emersleben: Mathematische Nachrichten 4 (1951), 468 D. Borwein, J. M. Borwein, K. F. Taylor: "Convergence of Lattice Sums and Madelung's Constant", J. Math. Phys. 26 (1985), 2999&ndash;3009, The summation over expanding cubes converges to the correct value. An unambiguous mathematical definition is given by Borwein, Borwein and Taylor by means of analytic continuation of an absolutely convergent series.
+
+There are many practical methods for calculating Madelung's constant using either direct summation (for example, the Evjen method H. M. Evjen: "On the Stability of Certain Heteropolar Crystals", Phys. Rev. 39 (1932), 675–687, http://link.aps.org/abstract/PR/v39/p675 ) or integral transforms, which are used in the Ewald method. P. P. Ewald: "Die Berechnung optischer und elektrostatischer Gitterpotentiale", Ann. Phys. 64 (1921), 253&ndash;287, 
+
+ Examples of Madelung Constants Ion in crystalline compound (based on ) (based on ) 
+ Cl- and Na+ in rocksalt NaCl ±1.748 ±3.495 
+ S2- and Zn2+ in sphalerite ZnS ±1.638 ±3.783 
+ S- in pyrite FeS2 … 1.957 
+ Fe2+ in pyrite FeS2 … -7.458 
+
+== Generalization ==
+It is assumed for the calculation of Madelung constants that an ion’s charge density may be approximated by a point charge. This is allowed, if the electron distribution of the ion is spherically symmetric. In particular cases, however, when the ions reside on lattice site of certain crystallographic point groups, the inclusion of higher order moments, i.e. multipole moments of the charge density might be required. It is shown by electrostatics that the interaction between two point charges only accounts for the first term of a general Taylor series describing the interaction between two charge distributions of arbitrary shape. Accordingly, the Madelung constant only represents the monopole-monopole term.
+
+The electrostatic interaction model of ions in solids has thus been extended to a point multipole concept that also includes higher multipole moments like dipoles, quadrupoles etc. These concepts require the determination of higher order Madelung constants or so-called electrostatic lattice constants. In their case, instead of the nearest neighbor distance another standard length like the cube root of the unit cell volume is appropriately used for purposes of normalization. For instance, the Madelung constant then reads
+
+:
+
+The proper calculation of electrostatic lattice constants has to consider the crystallographic point groups of ionic lattice sites; for instance, dipole moments may only arise on polar lattice sites, i. e. exhibiting a C1, C1h, C'n or C'nv site symmetry (n = 2, 3, 4 or 6). These second order Madelung constants turned out of having significant effects on the lattice energy and other physical properties of heteropolar crystals. 
+
+== Application to Organic Salts ==
+The Madelung Constant is also a useful quantity in describing the lattice energy of organic salts. Izgorodina and coworkers have described a generalised method (called the EUGEN method) of calculating the Madelung constant for any crystal structure. 
+
+== References ==
+ 
+
+==External links==
+* 
+* 
+* 
+*
+*
+* 
+* 
+
+

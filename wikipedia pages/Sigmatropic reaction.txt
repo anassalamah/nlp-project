@@ -1,0 +1,147 @@
+[[Sigmatropic reaction]]
+
+A sigmatropic reaction in organic chemistry is a pericyclic reaction wherein the net result is one σ-bond is changed to another σ-bond in an uncatalyzed intramolecular process. Carey, F.A. and R.J. Sundberg. Advanced Organic Chemistry Part A ISBN 0-306-41198-9 The name sigmatropic is the result of a compounding of the long-established sigma designation from single carbon–carbon bonds and the Greek word tropos, meaning turn. In this type of rearrangement reaction, a substituent moves from one part of a π-bonded system to another part in an intramolecular reaction with simultaneous rearrangement of the π system. True sigmatropic reactions are usually uncatalyzed, although Lewis acid catalysis is possible. Sigmatropic reactions often have transition-metal catalysts that form intermediates in analogous reactions. The most well-known of the sigmatropic rearrangements are the Cope rearrangement, Claisen rearrangement, Carroll rearrangement and the Fischer indole synthesis.
+
+==Overview of sigmatropic shifts==
+
+===Woodward–Hoffman sigmatropic shift nomenclature===
+Sigmatropic rearrangements are concisely described by an order term , which is defined as the migration of a σ-bond adjacent to one or more π systems to a new position (i−1) and (j−1) atoms removed from the original location of the σ-bond. When the sum of i and j is an even number, this is an indication of the involvement of a neutral, all C atom chain. An odd number is an indication of the involvement of a charged C atom or of a heteroatom lone pair replacing a CC double bond. Thus, and shifts become and shifts with heteroatoms, while preserving symmetry considerations. Hydrogens are omitted in the third example for clarity. 
+
+:hoffmann order nomenclature detailed 2.png|center|500px|]
+
+A convenient means of determining the order of a given sigmatropic rearrangement is to number the atoms of the bond being broken as atom 1, and then count the atoms in each direction from the broken bond to the atoms that form the new σ-bond in the product, numbering consecutively. The numbers that correspond to the atoms forming the new bond are then separated by a comma and placed within brackets to create the sigmatropic reaction order descriptor. 
+
+:hoffmann order nomenclature bond break.png|center|500px|]
+
+In the case of hydrogen atom migrations, a similar technique may be applied. When determining the order of a sigmatropic shift involving a hydrogen atom migration it is critical to count across all atoms involved in the reaction rather than only across the closest atoms. For example, the following hydrogen atom migration is of order , attained by counting counterclockwise through the π system, rather than the order designation through the ring CH2 group that would mistakenly result if counted clockwise.
+
+:hoffmann order nomenclature hydrogen -1,5-.png|center|300px|]
+
+===Suprafacial and antarafacial shifts===
+
+In principle, all sigmatropic shifts can occur with either a retention or inversion of the geometry of the migrating group, depending upon whether the original bonding lobe of the migrating atom or its other lobe is used to form the new bond. 
+
+:rentention inversion.png|center|500px|]
+
+In cases of stereochemical retention, the migrating group translates without rotation into the bonding position, while in the case of stereochemical inversion the migrating group both rotates and translates to reach its bonded conformation.
+
+However, another stereochemical transition effect equally capable of producing inversion or retention products is whether the migrating group remains on the original face of the π system after rebonding or instead transfers to the opposite face of the π system. If the migrating group remains on the same face of the π system, the shift is known as suprafacial, while if the migrating group transfers to the opposite face is called an antarafacial shift, Woodward, R.B.; Hoffmann, R. The Conservation of Orbital Symmetry. Verlag Chemie Academic Press. 2004. ISBN 0-89573-109-6. which are impossible for transformations that occur within small- or medium-sized rings. 
+
+:antarafacial -1,5-.png|center|500px|]
+
+==Classes of sigmatropic rearrangements==
+
+=== Shifts===
+
+====Thermal hydride shifts====
+In a thermal hydride shift, a hydride moves three atoms. The Woodward–Hoffmann rules dictate that it would proceed in an antarafacial shift. Although such a shift is symmetry allowed, the Mobius topology required in the transition state prohibits such a shift because it is geometrically impossible, which accounts for the fact that enols do not isomerize without an acid or base catalyst. Miller, Bernard. Advanced Organic Chemistry. 2nd Ed. Upper Saddle River: Pearson Prentice Hall. 2004. ISBN 0-13-065588-0 
+
+:Impossible shift
+
+====Thermal alkyl shifts====
+Thermal alkyl shifts, similar to hydride shifts, must proceed antarafacially. Here the geometry of the transition state is prohibitive, but an alkyl group, due to the nature of its orbitals, can invert its geometry, form a new bond with the back lobe of its sp3 orbital, and therefore proceed via a suprafacial shift. These reactions are still not common in open chain systems because of the highly ordered nature of the transition state, which is more readily achieved in cyclic molecules. 
+
+: Alkyl shifts
+
+====Photochemical shifts====
+Photochemical shifts should proceed through suprafacial shifts; however, most are non-concerted because they proceed through a triplet state (i.e., have a diradical mechanism, to which the Woodward-Hoffmann rules do not apply). 
+
+=== Shifts===
+A shift involves the shift of 1 substituent (–H, –R or –Ar) down 5 atoms of a π system. Hydrogen has been shown to shift in both cyclic and open chain systems at temperatures at or above 200 ˚C. These reactions are predicted to proceed suprafacially, via a Huckel-topology transition state. 
+
+: Hydride shift in a cyclic system
+
+Photoirradiation would require an antarafacial shift of hydrogen. Although rare, there are examples where antarafacial shifts are favored: Kiefer, E.F.; Tana, C.H. J. Am. Chem. Soc., 1969, 91, 4478. 
+
+:Antarafacial Hydride shift
+ 
+In contrast to hydrogen shifts, there have never been any observed alkyl shifts in an open-chain system. Several studies have, however, been done to determine rate preferences for alkyl shifts in cyclic systems: carbonyl and carboxyl> hydride> phenyl and vinyl>> alkyl. Fields, D.J.; Jones, D.W.; Kneen, G. Chem. Comm 1976. 873 – 874. Miller, L.L.; Greisinger, R.; Boyer, R.F. J. Am. Chem. Soc. 1969. 91. 1578. 
+
+Alkyl groups undergo shifts very poorly, usually requiring high temperatures, however, for cyclohexadienes, the temperature for alkyl shifts isn’t much higher than that for carbonyls, the best migratory group. A study showed that this is because alkyl shifts on cyclohexadienes proceed through a different mechanism. First the ring opens, followed by a shift, and then the ring reforms electrocyclically: Schiess, P.; Dinkel, R. Tetrahedron Lett., 1975, 16, 29, 2503. 
+
+:alkyl shift on cyclohexadiene
+
+This same mechanistic process is seen below, without the final electrocyclic ring-closing reaction, in the interconversion of lumisterol to vitamin D2.
+
+=== Shifts===
+ sigmatropic shifts are predicted by the Woodward–Hoffmann rules to proceed in an antarafacial fashion, via a Mobius topology transition state. An antarafacial shift is observed in the conversion of lumisterol to vitamin D2, where following an electrocyclic ring opening to previtamin D2, a methyl hydrogen shifts. 
+
+:conversion of lumisterol to vitamin D
+
+Bicyclic nonatrienes also undergo shifts in a so-called walk rearrangement, Klaerner, F.G. Agnew. Chem. Intl. Ed. Eng., 1972, 11, 832. which is the shift of divalent group, as part of a three-membered ring, in a bicyclic molecule.
+
+:walk rearrangement of bicycle nonatriene
+
+=== Shifts===
+
+ sigmatropic shifts are well studied sigmatropic rearrangements. The Woodward–Hoffman rules predict that these six electron reactions would proceed suprafacially, via a Huckel topology transition state.
+
+====Claisen rearrangement====
+Main article: Claisen rearrangement
+
+Discovered in 1912 by Rainer Ludwig Claisen, the Claisen rearrangement is the first recorded example of a -sigmatropic rearrangement. Claisen, L.; Ber. 1912, 45, 3157. Claisen, L.; Tietze, E.; Ber. 1925, 58, 275. Claisen, L.; Tietze, E.; Ber. 1926, 59, 2344. This rearrangement is a useful carbon-carbon bond-forming reaction. An example of Claisen rearrangement is the rearrangement of an allyl vinyl ether, which upon heating yields a γ,δ-unsaturated carbonyl. The formation of a carbonyl group makes this reaction, unlike other sigmatropic rearrangements, inherently irreversible. 
+
+The Claisen rearrangement
+
+=====Aromatic Claisen rearrangement=====
+The ortho-Claisen rearrangement involves the shift of an allyl phenyl ether to an intermediate which quickly tautomerizes to an ortho-substituted phenol.
+
+Aromatic Claisen rearrangement
+
+When both the ortho positions on the benzene ring are blocked, a second ortho-Claisen rearrangement will occur. This para-Claisen rearrangement ends with the tautomerization to a tri-substituted phenol.
+
+Para-Claisen rearrangement
+
+====Cope rearrangement====
+Main article: Cope rearrangement
+
+The Cope rearrangement is an extensively studied organic reaction involving the sigmatropic rearrangement of 1,5-dienes. Cope, A. C.; et al. J. Am. Chem. Soc. 1940, 62, 441. Hoffmann, R.; Stohrer, W. D. J. Am. Chem. Soc. 1971, 93, 25, 6941–6948. Dupuis, M.; Murray, C.; Davidson, E. R. J. Am. Chem. Soc. 1991, 113, 26, 9756–9759. It was developed by Arthur C. Cope. For example 3,4-dimethyl-1,5-hexadiene heated to 300 °C yields 2,6-octadiene.
+
+The Cope rearrangement of 3,4-dimethyl-1,5-hexadiene
+
+=====Oxy-Cope rearrangement=====
+In the Oxy-Cope rearrangement, a hydroxyl group is added at C3 forming an enal or enone after Keto-enol tautomerism of the intermediate enol: Berson, Jerome A.; Jones, Maitland. J. Am. Chem. Soc. 1964, 86, 22, 5019–5020. 
+
+:Oxy-Cope rearrangement
+
+====Carroll rearrangement====
+
+The Carroll rearrangement is a rearrangement reaction in organic chemistry and involves the transformation of a β-keto allyl ester into a α-allyl-β-ketocarboxylic acid. Carrol, M. F. J. Chem. Soc. 1940, 704–706. . This organic reaction is accompanied by decarboxylation and the final product is a γ,δ-allylketone. The Carroll rearrangement is an adaptation of the Claisen rearrangement and effectively a decarboxylative allylation.
+
+:Carroll Rearrangement
+
+====Fischer indole synthesis====
+Main article: Fischer indole synthesis
+
+The Fischer indole synthesis is a chemical reaction that produces the aromatic heterocycle indole from a (substituted) phenylhydrazine and an aldehyde or ketone under acidic conditions. Fischer, E.; Jourdan, F. Ber. 1883, 16, 2241. Fischer, E.; Hess, O. Ber. 1884, 17, 559. The reaction was discovered in 1883 by Hermann Emil Fischer. 
+
+The Fischer indole synthesis
+
+The choice of acid catalyst is very important. Bronsted acids such as HCl, H2SO4, polyphosphoric acid and p-toluenesulfonic acid have been used successfully. Lewis acids such as boron trifluoride, zinc chloride, iron chloride, and aluminium chloride are also useful catalysts.
+
+Several reviews have been published. van Orden, R. B.; Lindwell, H. G. Chem. Rev. 1942, 30, 69–96. Robinson, B. Chem. Rev. 1963, 63, 373–401. Robinson, B. Chem. Rev. 1969, 69, 227–250. 
+
+=== Shifts===
+Similar to shifts, the Woodward-Hoffman rules predict that sigmatropic shifts would proceed suprafacially, Huckel topology transition state. These reactions are rarer than sigmatropic shifts, but this is mainly a function of the fact that molecules that can undergo shifts are rarer than molecules that can undergo shifts. 
+
+: shift of phenyl pentadienyl ether
+
+=== shifts===
+An example of an 2,3-sigmatropic rearrangement is the 2,3-Wittig rearrangement:
+:2,3-Wittig rearrangement
+
+===Walk rearrangements===
+The migration of a divalent group, such as O, S, N R or C R2, which is part of a three-membered ring in a bicyclic molecule, is commonly referred to as a walk rearrangement. This can be formally characterized according to the Woodward-Hofmann rules as being a (1, n) sigmatropic shift. Jensen, F. J. Am. Chem. Soc., 1989, 111, 13, 4643 – 4647. An example of such a rearrangement is the shift of substituents on tropilidenes (1,3,5-cycloheptatrienes). When heated, the pi-system goes through an electrocyclic ring closing to form bicycleheptadiene (norcaradiene). Thereafter follows a alkyl shift and an electrocyclic ring opening. 
+
+:norcaradiene rearrangement
+
+Proceeding through a shift, the walk rearrangement of norcaradienes is expected to proceed suprafacially with a retention of stereochemistry. Experimental observations, however, show that the 1,5-shifts of norcaradienes proceed antarafacially. Klarner, F.G. Topics in Stereochemistry, 1984, 15, 1–42. Theoretical calculations found the shift to be a diradical process, but without involving any diradical minima on the potential energy surface. Kless, A.; Nendel, M.; Wilsey, S.; Houk, K. N. J. Am. Chem. Soc., 1999, 121, 4524. 
+
+==See also==
+*2,3-sigmatropic rearrangement
+*NIH shift
+*Frontier molecular orbital theory
+
+==References==
+
+

@@ -1,0 +1,130 @@
+[[Tetanus]]
+
+Tetanus (from , and τείνειν teinein "to stretch") is a medical condition characterized by a prolonged contraction of skeletal muscle fibers. tetanus. CollinsDictionary.com. Collins English Dictionary - Complete & Unabridged 11th Edition. Retrieved October 01, 2012 The primary symptoms are caused by tetanospasmin, a neurotoxin produced by the Gram-positive, rod-shaped, obligate anaerobic bacterium Clostridium tetani. 
+
+Infection generally occurs through wound contamination and often involves a cut or deep puncture wound. As the infection progresses, muscle spasms develop in the jaw (thus the name lockjaw) and elsewhere in the body. Infection can be prevented by proper immunization or post-exposure prophylaxis. 
+
+== Signs and symptoms ==
+Tetanus often begins with mild spasms in the jaw muscles—also known as lockjaw or trismus. The spasms can also affect the chest, neck, back, abdominal muscles, and buttocks. Back muscle spasms often cause arching, called opisthotonos. Sometimes the spasms affect muscles that help with breathing, which can lead to breathing problems. 
+
+Prolonged muscular action causes sudden, powerful, and painful contractions of muscle groups, which is called "tetany". These episodes can cause fractures and muscle tears. Other symptoms include drooling, excessive sweating, fever, hand or foot spasms, irritability, swallowing difficulty, and uncontrolled urination or defecation. The episodes can also cause destruction of elements of the nervous system through viral cell exchange
+
+Mortality rates reported vary from 48% to 73%. In recent years, approximately 11% of reported tetanus cases have been fatal. The highest mortality rates are in unvaccinated people, people over 60 years of age or newborns. 
+
+=== Incubation period ===
+The incubation period of tetanus may be up to several months, but is usually about eight days. In general, the further the injury site is from the central nervous system, the longer the incubation period. The shorter the incubation period, the more severe the symptoms. In neonatal tetanus, symptoms usually appear from 4 to 14 days after birth, averaging about 7 days. On the basis of clinical findings, four different forms of tetanus have been described. 
+
+=== Generalized tetanus ===
+This is the most common type of tetanus, representing about 80% of cases. The generalized form usually presents with a descending pattern. The first sign is trismus, or lockjaw, and the facial spasms called risus sardonicus, followed by stiffness of the neck, difficulty in swallowing, and rigidity of pectoral and calf muscles. Other symptoms include elevated temperature, sweating, elevated blood pressure, and episodic rapid heart rate. Spasms may occur frequently and last for several minutes with the body shaped into a characteristic form called opisthotonos. Spasms continue for up to four weeks, and complete recovery may take months.
+Sympathetic overactivity (SOA) is common in severe tetanus and manifests as labile hypertension, tachycardia, dysrhythmia, peripheral vasculature constriction, profuse sweating, fever, increased carbon dioxide output, increased catecholamine excretion and late development of hypotension.
+Death can occur within four days.
+
+=== Neonatal tetanus ===
+
+Neonatal tetanus is a form of generalized tetanus that occurs in newborns, usually those born to mothers who themselves have not been vaccinated. If the mother has been vaccinated against tetanus, the infants acquire passive immunity and are thus protected. http://www.wpro.who.int/immunization/factsheets/tetanus_nt/en/ It usually occurs through infection of the unhealed umbilical stump, particularly when the stump is cut with a non-sterile instrument. As of 1998 neonatal tetanus was common in many developing countries and was responsible for about 14% (215,000) of all neonatal deaths In 2010 the worldwide death toll was 58,000 newborns. As the result of a public health campaign, the death toll from neonatal tetanus was reduced by 90% between 1990 and 2010, and by 2013 the disease had been largely eliminated from all but 25 countries. Neonatal tetanus is rare in developed countries.
+
+=== Local tetanus ===
+This is an uncommon form of the disease, in which patients have persistent contraction of muscles in the same anatomic area as the injury. The contractions may persist for many weeks before gradually subsiding. Local tetanus is generally milder; only about 1% of cases are fatal, but it may precede the onset of generalized tetanus.
+
+=== Cephalic tetanus ===
+This is a rare form of the disease, occasionally occurring with otitis media (ear infections) in which C. tetani is present in the flora of the middle ear, or following injuries to the head. There is involvement of the cranial nerves, especially in the facial area.
+
+== Cause ==
+Tetanus is caused by the tetanus bacterium Clostridium tetani. Tetanus is often associated with rust, especially rusty nails. Objects that accumulate rust are often found outdoors, or in places that harbour anaerobic bacteria, but the rust itself does not cause tetanus nor does it contain more C. tetani bacteria. The rough surface of rusty metal merely provides a prime habitat for C. tetani endospores to reside in, and the nail affords a means to puncture skin and deliver endospores deep within the body at the site of the wound.
+
+An endospore is a non-metabolizing survival structure that begins to metabolize and cause infection once in an adequate environment. Because C. tetani is an anaerobic bacterium, it and its endospores thrive in environments that lack oxygen. Hence, stepping on a nail (rusty or not) may result in a tetanus infection, as the low-oxygen (anaerobic) environment is caused by the oxidization of the same object that causes a puncture wound, delivering endospores to a suitable environment for growth. 
+
+Tetanus is an international health problem, as C. tetani spores are ubiquitous. The disease occurs almost exclusively in persons unvaccinated or inadequately immunized. It is more common in hot, damp climates with soil rich in organic matter. This is particularly true with manure-treated soils, as the spores are widely distributed in the intestines and feces of many animals such as horses, sheep, cattle, dogs, cats, rats, guinea pigs, and chickens. Spores can be introduced into the body through puncture wounds. In agricultural areas, a significant number of human adults may harbor the organism. The spores can also be found on skin surfaces and in contaminated heroin. Heroin users, particularly those that inject the drug, appear to be at high risk of contracting tetanus.
+
+== Pathophysiology ==
+Tetanus affects skeletal muscle, a type of striated muscle used in voluntary movement. The other type of striated muscle, cardiac, or heart muscle, cannot be tetanized because of its intrinsic electrical properties.
+
+The tetanus toxin initially binds to peripheral nerve terminals. It is transported within the axon and across synaptic junctions until it reaches the central nervous system. There it becomes rapidly fixed to gangliosides at the presynaptic inhibitory motor nerve endings, and is taken up into the axon by endocytosis. The effect of the toxin is to block the release of inhibitory neurotransmitters glycine and gamma-Aminobutyric acid (GABA) across the synaptic cleft, which is required to check the nervous impulse. If nervous impulses cannot be checked by normal inhibitory mechanisms, the generalized muscular spasms characteristic of tetanus are produced. The toxin appears to act by selective cleavage of a protein component of synaptic vesicles, synaptobrevin II, and this prevents the release of neurotransmitters by the cells. http://textbookofbacteriology.net/themicrobialworld/Tetanus.html 
+
+== Diagnosis ==
+There are currently no blood tests for diagnosing tetanus. The diagnosis is based on the presentation of tetanus symptoms and does not depend upon isolation of the bacterium, which is recovered from the wound in only 30% of cases and can be isolated from patients without tetanus. Laboratory identification of C. tetani can be demonstrated only by production of tetanospasmin in mice. 
+
+The "spatula test" is a clinical test for tetanus that involves touching the posterior pharyngeal wall with a sterile, soft-tipped instrument and observing the effect. A positive test result is the involuntary contraction of the jaw (biting down on the "spatula") and a negative test result would normally be a gag reflex attempting to expel the foreign object. A short report in The American Journal of Tropical Medicine and Hygiene states that, in a patient research study, the spatula test had a high specificity (zero false-positive test results) and a high sensitivity (94% of infected patients produced a positive test). 
+
+== Prevention ==
+Unlike many infectious diseases, recovery from naturally acquired tetanus does not usually result in immunity to tetanus. This is due to the extreme potency of the tetanospasmin toxin. Even a lethal dose of tetanospasmin is insufficient to provoke an immune response.
+
+Tetanus can be prevented by vaccination with tetanus toxoid. The CDC recommends that adults receive a booster vaccine every ten years, and standard care practice in many places is to give the booster to any patient with a puncture wound who is uncertain of when he or she was last vaccinated, or if he or she has had fewer than three lifetime doses of the vaccine. The booster may not prevent a potentially fatal case of tetanus from the current wound, however, as it can take up to two weeks for tetanus antibodies to form. 
+
+In children under the age of seven, the tetanus vaccine is often administered as a combined vaccine, DPT/DTaP vaccine, which also includes vaccines against diphtheria and pertussis. For adults and children over seven, the Td vaccine (tetanus and diphtheria) or Tdap (tetanus, diphtheria, and acellular pertussis) is commonly used. 
+
+The World Health Organisation certifies countries as having eliminated maternal or neonatal tetanus. Certification requires at least two years of rates of less than 1 case per 1000 live births. In 1998 in Uganda, 3,433 tetanus cases were recorded in newborn babies; of these, 2,403 died. After a major public health effort, Uganda in 2011 was certified as having eliminated tetanus. 
+
+===Post-exposure prophylaxis===
+Tetanus toxoid can be given in case of a suspected exposure to tetanus. In such cases, it can be given with or without tetanus immunoglobulin (also called tetanus antibodies or tetanus antitoxin ) In can be given as intravenous therapy or by intramuscular injection.
+
+The guidelines for such events in the United States for non-pregnant people 11 years and older are as follows: Tetanus Prevention After a Disaster, from Centers for Disease Control and Prevention. Page last updated August 12, 2013 
+
+ Vaccination status Clean, minor wounds All other wounds 
+ Unknown or less than 3 doses of tetanus toxoid containing vaccine Tdap and recommend catch-up vaccination Tdap and recommend catch-up vaccination Tetanus immunoglobulin 
+ 3 or more doses of tetanus toxoid containing vaccine AND lessthan 5 years since last dose No indication No indication 
+ 3 or more doses of tetanus toxoid containing vaccine AND 5-10 years since last dose No indication Tdap preferred (if not yet received) or Td 
+ 3 or more doses of tetanus toxoid containing vaccine AND more than 10 years since last dose Tdap preferred (if not yet received) or Td Tdap preferred (if not yet received) or Td 
+
+==Treatment==
+
+=== Mild tetanus ===
+Mild cases of tetanus can be treated with: 
+* tetanus immunoglobulin, also called tetanus antibodies or tetanus antitoxin tetanus in Encyclopædia Britannica. Last Updated 7-17-2013 In can be given as intravenous therapy or by intramuscular injection.
+* metronidazole IV for 10 days
+* diazepam
+
+=== Severe tetanus ===
+Severe cases will require admission to intensive care. In addition to the measures listed above for mild tetanus: 
+* Human tetanus immunoglobulin injected intrathecally (increases clinical improvement from 4% to 35%)
+* Tracheotomy and mechanical ventilation for 3 to 4 weeks. Tracheotomy is recommended for securing the airway, because the presence of an endotracheal tube is a stimulus for spasm
+* Magnesium, as an intravenous (IV) infusion, to prevent muscle spasm
+* Diazepam as a continuous IV infusion
+* The autonomic effects of tetanus can be difficult to manage (alternating hyper- and hypotension hyperpyrexia/hypothermia) and may require IV labetalol, magnesium, clonidine, or nifedipine
+
+Drugs such as diazepam or other muscle relaxants can be given to control the muscle spasms. In extreme cases it may be necessary to paralyze the patient with curare-like drugs and use a mechanical ventilator.
+
+In order to survive a tetanus infection, the maintenance of an airway and proper nutrition are required. An intake of 3,500 to 4,000 calories, and at least 150 g of protein per day, is often given in liquid form through a tube directly into the stomach (percutaneous endoscopic gastrostomy), or through a drip into a vein (parenteral nutrition). This high-caloric diet maintenance is required because of the increased metabolic strain brought on by the increased muscle activity. Full recovery takes 4 to 6 weeks because the body must regenerate destroyed nerve axon terminals.
+
+== Epidemiology ==
+Disability-adjusted life year for tetanus per 100,000 inhabitants in 2004.
+
+Tetanus cases reported worldwide (1990-2004). Ranging from strongly prevalent (in dark red) to very few cases (in light yellow) (grey, no data).
+
+As of 2010 it caused about 61,000 deaths down from 272,000 in 1990. Tetanus &ndash; in particular, the neonatal form &ndash; remains a significant public health problem in non-industrialized countries with 59,000 newborns worldwide dying in 2008 as a result of neonatal tetanus. In the United States, from 2000 through 2007 an average of 31 cases were reported per year. Nearly all of the cases in the United States occur in unimmunized individuals or individuals who have allowed their inoculations to lapse. 
+
+==History==
+Tetanus was well known to ancient people who recognized the relationship between wounds and fatal muscle spasms. In 1884, Arthur Nicolaier isolated the strychnine-like toxin of tetanus from free-living, anaerobic soil bacteria. The etiology of the disease was further elucidated in 1884 by Antonio Carle and Giorgio Rattone, two pathologists of the University of Turin, who demonstrated the transmissibility of tetanus for the first time. They produced tetanus in rabbits by injecting pus from a patient with fatal tetanus into their sciatic nerves. 
+
+In 1891, C. tetani was isolated from a human victim by Kitasato Shibasaburō, who later showed that the organism could produce disease when injected into animals, and that the toxin could be neutralized by specific antibodies. In 1897, Edmond Nocard showed that tetanus antitoxin induced passive immunity in humans, and could be used for prophylaxis and treatment. Tetanus toxoid vaccine was developed by P. Descombey in 1924, and was widely used to prevent tetanus induced by battle wounds during World War II. 
+
+==Notable cases==
+* Tom Butler &ndash; English footballer; contracted after suffering a badly broken arm.
+* George Hogg &ndash; English adventurer who rescued war orphans in China; died in 1945 from an infection resulting from a foot injury
+* Joe Hill Louis &ndash; Memphis blues musician; died in 1957 as a result of an infected wound to his thumb
+* George Montagu &ndash; English ornithologist; contracted tetanus when he stepped on a nail
+* Joe Powell &ndash; English footballer; contracted following amputation of a badly broken arm
+* John A. Roebling &ndash; civil engineer and architect famous for his bridge designs, particularly the Brooklyn Bridge; contracted tetanus following amputation of the toes of his right foot due to an injury caused by a ferry when it crashed into a wharf
+* George Crockett Strong &ndash; Union brigadier general in the American Civil War; from wounds sustained in the assault against Fort Wagner on Morris Island, South Carolina
+* Fred Thomson &ndash; silent film actor; stepped on a nail
+* John Thoreau (brother of Henry David Thoreau); nicked himself with a razor while shaving
+* Johann Tserclaes, Count of Tilly; wounded by a cannon ball in the Battle of Rain
+* Traveller &ndash; General Robert E. Lee's favorite horse; stepped on a nail
+
+==See also==
+* Tetanized state
+* Tetanospasmin
+
+== References ==
+
+== External links ==
+
+* Tetanus Symptoms
+* Tetanus Information from Medline Plus
+* Tetanus Surveillance -- United States, 1998-2000 (Data and Analysis)
+
+=== Media ===
+* Video: Generalized tetanus in a 70-year-old woman (Neurology)
+* Video: Tetanus in dogs
+
+

@@ -1,0 +1,107 @@
+[[Motet]]
+
+In classical music, a motet is a highly varied choral musical composition. The motet was one of the pre-eminent forms of Renaissance music.
+
+According to Margaret Bent, "a piece of music in several parts with words" is as precise a definition of the motet as will serve from the 13th to the late 16th century and beyond. Margaret Bent, "The Late-Medieval Motet" in Companion to Medieval & Renaissance Music, edited by Tess Knighton and David Fallows, 114–19 (Berkeley, CA: University of California Press, 1992): 114. ISBN 9780520210813. This is close to one of the earliest descriptions we have, that of the late 13th-century theorist Johannes de Grocheo, who believed that the motet was "not intended for the vulgar who do not understand its finer points and derive no pleasure from hearing it: it is meant for educated people and those who look for refinement in art". "Ucalgary.ca The Development of the Motet", University of Calgary. 
+
+==Etymology==
+In the early 20th century, it was generally believed the name came from the Latin movere, ("to move"), though a derivation from the French mot ("word", or "phrase"), had also been suggested. The Medieval Latin for "motet" is motectum, and the Italian mottetto was also used. If the word is from Latin, the name describes the movement of the different voices against one another. Today, however, the French etymology is favoured by reference books, as the word "motet" in 13th-century French had the sense of "little word". entry "Motet". Willi Apel, “Motet”, Harvard Dictionary of Music', second edition (Cambridge, MA: Harvard University Press, 1969). ISBN 0674375017. James Peter Burkholder, Donald Jay Grout, and Claude V. Palisca A History of Western Music, eighth edition (New York: W. W. Norton & Company, 2010): 102. ISBN 978-0-393-93125-9. Jerome Roche and Elizabeth Roche. "Motet". The Oxford Companion to Music, edited by Alison Latham (New York: Oxford University Press, 2001). ISBN 978-0-19-866212-9. 
+
+==Medieval motets==
+
+The earliest motets arose in the 13th century from the organum tradition exemplified in the Notre Dame school of Léonin and Pérotin. The motet probably arose from clausula sections, usually strophic interludes, in a longer sequence of organum, to which upper voices were added. Curt Sachs, Our Musical Heritage (New York: Prentice-Hall, Inc., 1948), 64. Usually the clausula represented a strophic sequence in Latin which was sung as a discant over a cantus firmus, which typically was a plainchant fragment with different words from the discant. The motet took a definite rhythm from the words of the verse, and as such appeared as a brief rhythmic interlude in the middle of the longer, more chantlike organum.
+
+The practice of discant over a cantus firmus marked the beginnings of counterpoint in Western music. From these first motets arose a medieval tradition of secular motets. These were two or three part compositions in which several different texts, sometimes in different vernacular languages, were sung simultaneously over a Latin cantus firmus that once again was usually adapted from a passage of Gregorian chant. It is suspected that, for the sake of intelligibility, in performance the cantus firmus and one or another of the vocal lines were performed on instruments. Among the trouvères, Robert de Reins La Chievre and Richart de Fournival composed motets. 
+
+Increasingly in the 14th and 15th centuries, motets tended to be isorhythmic; that is, they employed repeated rhythmic patterns in all voices&mdash;not only the cantus firmus&mdash;which did not necessarily coincide with repeating melodic patterns. Philippe de Vitry was one of the earliest composers to use this technique, and his work evidently had an influence on that of Guillaume de Machaut, one of the most famous named composers of late medieval motets.
+
+===Medieval motet composers===
+Other medieval motet composers include:
+*Adam de la Halle (1237?–1288? or after 1306)
+*Johannes Ciconia (c. 1370–1412)
+*John Dunstaple (c. 1390–1453)
+*Franco of Cologne (fl. mid-13th century)
+*Jacopo da Bologna (fl. 1340–1385)
+*Marchetto da Padova (fl. 1305–1319)
+*Petrus de Cruce (fl. second half of the 13th century)
+*Willelmus de Winchecumbe (fl. 1270s)
+
+==Renaissance motets==
+Luca della Robbia: fragment from a choir. Museo dell'Opera del Duomo in Florence.
+
+The motet was preserved in the transition from medieval to Renaissance music, but the character of the composition was entirely changed. While it grew out of the medieval isorhythmic motet, the Renaissance composers of the motet generally abandoned the use of a repeated figure as a cantus firmus. Guillaume Dufay was a transitional figure in this regard; he wrote one of the last important motets in the medieval, isorhythmic style, Nuper rosarum flores (1436), written to commemorate the completion of Filippo Brunelleschi's dome in the Cathedral of Florence. Alec Robertson, Dennis Stevens, ed., A History of Music Volume 2 (New York: Barnes and Noble, Inc., 1965), 85. Edgar H. Sparks, Cantus Firmus in Mass and Motet 1420&ndash;1520 (New York: Da Capo Press, 1975), 86. During this time, however, the use of cantus firmi in works such as the parody mass tended to stretch the cantus firmus out to great lengths compared to the multivoice descant above it. This tended to obscure the rhythm supplied by the cantus firmus that had been apparent in the medieval isorhythmic motet. The cascading, passing chords created by the interplay between multiple voices, and the absence of a strong or obvious beat, are the features that distinguish medieval and renaissance motet styles. 
+
+Instead, the Renaissance motet is a polyphonic musical setting, sometimes in imitative counterpoint, for chorus, of a Latin text, usually sacred, not specifically connected to the liturgy of a given day, and therefore suitable for use in any service. The texts of antiphons were frequently used as motet texts. This is the sort of composition that is most familiarly designated by the term "motet," and the Renaissance period marked the flowering of the form.
+
+In essence, these motets were sacred madrigals. The relationship between the two forms is most obvious in the composers who concentrated on sacred music, especially Giovanni Pierluigi da Palestrina, whose "motets" setting texts from the Canticum Canticorum, the biblical "Song of Solomon," are among the most lush and madrigal-like of Palestrina's compositions, while his "madrigals" that set poems of Petrarch in praise of the Blessed Virgin Mary would not be out of place in church. The language of the text was the decisive feature: if it's Latin, it's a motet; if the vernacular, a madrigal. The Hilliard Ensemble, Palestrina: Canticum canticorum, Motets Book IV; Spiritual madrigals (Virgin Classics, 1994; sound recording liner notes) Religious compositions in vernacular languages were often called madrigali spirituali, "spiritual madrigals." Like their madrigal cousins, Renaissance motets developed in episodic format, with separate phrases of the source text being given independent melodic treatment and contrapuntal development; contrapuntal passages often alternate with monody.
+
+Secular motets continued to be written however. These motets typically set a Latin text in praise of a monarch, commemorating some public triumph, or even praising music itself. Nevertheless, the themes of courtly love often found in the medieval secular motet were banished from the Renaissance motet. Many secular motets are known as "ceremonial motets". Blanche Gangwere, Music History During the Renaissance Period, 1520–1550 (Westport, CT, Praeger Publishers: 2004), pp. 451–54. Characteristic of ceremonial motets was a clarity of diction, for the audience was not presumed to be familiar already with the text (as would have been true with Latin hymns) and also a clear articulation of formal structure, for example a setting apart of successive portions of text with sharp contrasts of texture or rhythm. Adrian Willaert, Ludwig Senfl, and Cipriano de Rore were among the most prominent composers of ceremonial motets during the first half of the 16th century. 
+
+===Renaissance motet composers===
+The motet was one of the pre-eminent forms of Renaissance music. Other important composers of Renaissance motets include: 
+
+* Alexander Agricola
+* Gilles Binchois
+* Antoine Busnois
+* William Byrd
+* Johannes Vodnianus Campanus
+* Loyset Compère
+* Josquin des Prez
+* John Dunstaple
+* Antoine de Févin
+* Carlo Gesualdo
+* Nicolas Gombert
+* Francisco Guerrero
+* Heinrich Isaac
+* Pierre de La Rue
+* Orlando di Lasso
+* Cristóbal de Morales
+* Jean Mouton
+* Jacob Obrecht
+* Johannes Ockeghem
+* Martin Peerson
+* Giovanni Pierluigi da Palestrina
+* Thomas Tallis
+* John Taverner
+* Robert Carver
+* Tomás Luis de Victoria
+* Manuel Cardoso
+
+In the latter part of the 16th century, Giovanni Gabrieli and other composers developed a new style, the polychoral motet, in which two or more choirs of singers (or instruments) alternated. This style of motet was sometimes called the Venetian motet to distinguish it from the Netherlands or Flemish motet written elsewhere.
+
+==Baroque motets==
+In Baroque music, especially in France, there were two distinct, and very different types of motet: petits motets, sacred choral or chamber compositions whose only accompaniment was a basso continuo; and grands motets, which included massed choirs and instruments up to and including a full orchestra. Jean-Baptiste Lully was an important composer of this sort of motet. Lully's motets often included parts for soloists as well as choirs; they were longer, including multiple movements in which different soloist, choral, or instrumental forces were employed. Lully's motets also continued the Renaissance tradition of semi-secular Latin motets in works such as Plaude Laetare Gallia, written to celebrate the baptism of King Louis XIV's son; its text by Pierre Perrin begins:
+:Plaude laetare Gallia
+:Rore caelesti rigantur lilia,
+:Sacro Delphinus fonte lavatur
+:Et christianus Christo dicatur.
+
+::(Rejoice and sing, France: the lily is bathed with heavenly dew. The Dauphin is bathed in the sacred font, and the Christian is dedicated to Christ.)
+
+In Germany, too, pieces called motets were written in the new musical languages of the Baroque. Heinrich Schütz wrote many motets in a series of publications called Symphoniae sacrae, some in Latin and some in German.
+
+=== Bach motets ===
+Johann Sebastian Bach wrote works he called motets, relatively long pieces in German on sacred themes for choir and basso continuo, with instruments playing colla parte, several of them composed for funerals. Six motets certainly composed by Bach are:
+
+* BWV 225 Singet dem Herrn ein neues Lied (1726)
+* BWV 226 Der Geist hilft unser Schwachheit auf (1729)
+* BWV 227 Jesu, meine Freude (?)
+* BWV 228 Fürchte dich nicht (?)
+* BWV 229 Komm, Jesu, komm (1730?)
+* BWV 230 Lobet den Herrn, alle Heiden (?)
+
+The funeral cantata O Jesu Christ, meins Lebens Licht, BWV 118 1736–37?) is regarded as a motet. The motet Sei Lob und Preis mit Ehren (BWV 231) is spurious; it is part of a cantata by Telemann. For a few more motets, such as Ich lasse dich nicht, du segnest mich denn (BWV Anh. 159), Bach's authorship is debated.
+
+==Since Bach==
+Later 18th-century composers wrote few motets, although Mozart's well-known Ave verum corpus (K. 618) is in this genre.
+
+In the 19th century, German composers continued to write motets occasionally, notably Felix Mendelssohn and Johannes Brahms (in German) and Anton Bruckner (in Latin). French composers of motets included Camille Saint-Saëns, and César Franck. Similar compositions in the English language are called anthems, but some later English composers, such as Charles Villiers Stanford, wrote motets in Latin. The majority of these compositions are a cappella, but some are accompanied by organ, for example Edward Elgar's three motets Op. 2.
+
+In the 20th century, composers of motets have often consciously imitated earlier styles. Examples include works by Richard Strauss, Maurice Duruflé, Francis Poulenc, Charles Villiers Stanford, Edmund Rubbra, Ralph Vaughan Williams, Lennox Berkeley, Morten Lauridsen, Edward Elgar, Hugo Distler, Ernst Krenek, and Michael Finnissy.
+
+==References==
+
+==External links==
+* Motet online database at University of Florida
+
+

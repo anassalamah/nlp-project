@@ -1,0 +1,46 @@
+[[Great Attractor]]
+
+Panoramic view of the entire near-infrared sky. The location of the Great Attractor is shown following the long blue arrow at bottom-right.
+The Hubble Telescope turned its lens to the region of the sky where the Great Attractor is located.
+The Great Attractor is a gravity anomaly in intergalactic space within the range of the Hydra-Centaurus Supercluster that reveals the existence of a localized concentration of mass equivalent to tens of thousands of galaxies, each of which represents the mass of the Milky Way; this mass is observable by its effect on the motion of galaxies and their associated clusters over a region hundreds of millions of light-years across.
+
+These galaxies are all redshifted, in accordance with the Hubble Flow, indicating that they are receding relative to us and to each other, but the variations in their redshift are sufficient to reveal the existence of the anomaly. The variations in their redshifts are known as peculiar velocities, and cover a range from about +700 km/s to &minus;700 km/s, depending on the angular deviation from the direction to the Great Attractor.
+
+==Location==
+The first indications of a deviation from uniform expansion of the universe were reported in 1973 and again in 1978. The location of the Great Attractor was finally determined in 1986, and is situated at a distance of somewhere between 150 and 250 Mly (million light years) (47&ndash;79Mpc) (the latter being the most recent estimate) from the Milky Way, in the direction of the constellations Triangulum Australe (The Southern Triangle) and Norma (The Carpenter’s Square). http://www.nasa.gov/mission_pages/hubble/science/great-attractor.html While objects in that direction lie in the Zone of Avoidance (the part of the night sky obscured by the Milky Way galaxy) and are thus difficult to study with visible wavelengths, X-ray observations have revealed that the region of space is dominated by the Norma cluster (ACO 3627), R. C. Kraan-Korteweg, in Lecture Notes in Physics 556, edited by D. Pageand J.G. Hirsch, p. 301 (Springer, Berlin, 2000). One theory claims the Great Attractor is a supercluster (possibly the Shapley Supercluster), "with Abell 3627 near its center." (NASA's Ask an Astrophysicist: The Great Attractor) a massive cluster of galaxies containing a preponderance of large, old galaxies, many of which are colliding with their neighbours, and/or radiating large amounts of radio waves.
+
+==Debate over apparent mass==
+
+In 1992, much of the apparent signal of the Great Attractor was attributed to the effect of Malmquist Bias. http://adsabs.harvard.edu/abs/1992ApJ...391..494L In 2005, astronomers conducting an X-ray survey of part of the sky known as the Clusters in the Zone of Avoidance (CIZA) project reported that the Great Attractor was actually only one tenth the mass that scientists had originally estimated. The survey also confirmed earlier theories that the Milky Way galaxy is in fact being pulled towards a much more massive cluster of galaxies near the Shapley Supercluster, which lies beyond the Great Attractor. http://www.ifa.hawaii.edu/info/press-releases/kocevski-1-06/ 
+
+==The dark flow==
+
+The dark flow is a purported velocity tendency of galaxies to move in the direction that was formerly thought to be caused by the Great Attractor, but then theorized to be outside the observable universe. These findings were published in 2008 but were later contradicted by data from the Planck satellite.
+
+==In fiction==
+
+The Great Attractor is mentioned in the "Pip and Flinx" series by novelist Alan Dean Foster, in the book Flinx's Folly. The Great Attractor is referenced as an attempt of an ancient alien race to create something with enough gravitational pull to move the Milky Way, among other galaxies.
+
+In the film Men in Black, the Great Attractor is said to be both sentient and the cause of the 1977 New York City blackout, during a practical joke.
+
+It is also a major plot point in the Xeelee Sequence series of books by Stephen Baxter, specifically in the book Ring where it is described as a cosmic string, artificially made into a loop creating the phenomenon of the Great Attractor.
+
+In the Doctor Who novel The Quantum Archangel, the Great Attractor is said to be the last creation of a cosmic super-race called the Constructors of Destiny, and is a quantum supercomputer constructed of strange matter with the Event Horizon as its memory store, designed for the purpose of understanding the Universe.
+
+==See also==
+* CfA2 Great Wall
+* Dark Matter
+* Hercules–Corona Borealis Great Wall
+* Shapley Supercluster
+
+==References==
+
+==Further reading==
+*
+
+==Videos==
+* Cosmography of the Local Universe at vimeo showing Great Attractor. A film by Hélène Courtois, Daniel Pomarède, R. Brent Tully, Yehuda Hoffman, and Denis Courtois.
+
+ 
+
+

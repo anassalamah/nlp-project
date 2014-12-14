@@ -1,0 +1,58 @@
+[[Personality]]
+
+Personality has to do with individual differences among people in behavior patterns, cognition and emotion. Michel, W., Shoda, Y., & Smith, R. E. (2004). Introduction to personality: Toward an integration. New York: John Wiley Different personality theorists present their own definitions of the word based on their theoretical positions. Engler, B. (2009). Personality Theories: Eighth Edition. Belmont, CA: Wadsworth, Cenage Learning. 
+
+* The term "personality trait" refers to enduring personal characteristics that are revealed in a particular pattern of behaviour in a variety of situations
+
+==Measuring==
+Personality can be determined through a variety of tests, such as the Minnesota Multiphasic Personality Inventory (MMPI-2), Rorschach Inkblot test, or the Thematic Apperception Test (TAT). Daniel L. Schacter, Daniel T. Gilbert, Daniel M. Wegner. (2011). Psychology second edition. New York: Worth Publishers The most popular technique is the self-report inventory - a series of answers to a questionnaire that asks participants to indicate the extent to which sets of statements or adjectives accurately describe their own behavior or mental state. 
+
+==Beginning of study==
+The study of personality started with Hippocrates' four humours and gave rise to four temperaments. Storm Paula, "Personality Psychology and the Workplace", MLA Forum, 2006 The explanation was further refined by his successor Galen during the second century CE. The "Four Humours" theory held that a person's personality was based on the balance of bodily humours; yellow bile, black bile, phlegm and blood. Carlson, Neil, et al. 2010. Psychology the Science of Behaviour, p. 438. Pearson Canada, United States of America. ISBN 978-0-205-64524-4. Choleric people were characterized as having an excess of yellow bile, making them irascible. High levels of black bile was indicative of melancholy and pessimism. Phlegmatic people were thought to have an excess of phlegm, leading to their sluggish, calm temperament. Finally, people thought to have high levels of blood were said to be sanguine and were characterized by their cheerful, passionate dispositions. 
+
+==Extraversion and happiness==
+
+Personality is usually broken into components called the Big Five, which are: openness to experience, conscientiousness, extroversion, agreeableness, and neuroticism (or emotionality). These components are generally stable over time and appear to be attributable to a person’s genetics rather than the effects of one’s environment. 
+
+Some research has investigated whether the relationship between happiness and extraversion seen in adults can also be seen in children. The implications of these findings can help identify children that are more likely to experience episodes of depression and develop types of treatment that such children are likely to respond to. In both children and adults, research shows that genetics, as opposed to environmental factors, exert a greater influence on happiness levels. Personality is not believed to become stable until approximately the age of thirty, and personality constructs in children are referred to as temperament. Holder & Klassen 2010, p. 419-439. Temperament is regarded as the precursor to personality. Whereas McCrae and Costa’s Big Five Model assesses personality traits in adults, the EAS model is used to assess temperament in children. This model measures levels of emotionality, activity, sociability and shyness in children. The EAS model is believed to be the equivalent of the Big Five model in adults. Findings show that high degrees of sociability and low degrees of shyness are equivalent to adult extroversion, and also correlate with higher levels of life satisfaction in children. 
+
+Another interesting finding has been the link found between acting extroverted and positive affect. Extroverted behaviors include acting talkative, assertive, adventurous and outgoing. For the purposes of this study, positive affect is defined as experiences of happy and enjoyable emotions. Zelenski, Santoro, & Whelan, p. 290-303. This study investigated the effects of acting in a way that is counter to a person’s dispositional nature. In other words, the study focused on the benefits and drawbacks of introverts (people who are shy, socially inhibited and non-aggressive) acting extroverted, and of extroverts acting introverted. After acting extroverted, introverts’ experience of positive affect increased whereas extroverts seemed to experience lower levels of positive affect and suffered from the phenomenon of ego depletion. Ego depletion, or cognitive fatigue, is the use of one’s energy to overtly act in a way that is contrary to one’s inner disposition. When a person acts in a contrary fashion, he diverts most, if not all, (cognitive) energy toward regulating this foreign style of behavior and attitudes. Because all available energy is being used to maintain this contrary behavior, the result is an inability to use any energy to make important or difficult decisions, plan for the future, control or regulate emotions, or perform effectively on other cognitive tasks. 
+
+One question that has been posed is why extroverts tend to be happier than introverts. Two types of explanations attempt to account for this difference: instrumental theories and temperamental theories. Lucas & Baird 2004, p. 473-485. The instrumental theory suggests that extraverts end up making choices that place them in more positive situations and they also react more strongly than introverts to positive situations. The temperamental theory suggests that extroverts have a disposition that generally leads them to experience a higher degree of positive affect. In their study of extroversion, Lucas and Baird found no statistically significant support for the instrumental theory but did, however, find that extraverts generally experience a higher level of positive affect. 
+
+Research has also been conducted to uncover some of the mediators that are responsible for the correlation between extroversion and happiness. Self-esteem and self-efficacy are two such mediators. Self-efficacy has been found to be related to the personality traits of extroversion and subjective well-being. Strobel, Tumasjan, & Sporrle, p. 43-48. Self-efficacy is one’s belief about abilities to perform up to personal standards, the ability to produced desired results, and the feeling of having some ability to make important life decisions. However, the relationship between extroversion (and neuroticism) and subjective happiness is only partially mediated by self-efficacy. This implies that there are most likely other factors that mediate the relationship between subjective happiness and personality traits. Another such factor may be self-esteem. Individuals with a greater degree of confidence about themselves and their abilities seem to have both higher degrees of subjective well-being and higher levels of extroversion. Joshanloo & Afshari 2009, p. 105-113. 
+
+Other research has examined the phenomenon of mood maintenance as another possible mediator. Mood maintenance, the ability to maintain one’s average level of happiness in the face of an ambiguous situation (meaning a situation that has the potential to engender either positive or negative emotions in different individuals), has been found to be a stronger force in extroverts. Lischetzke & Eid 2006, p. 1127-1162. This means that the happiness levels of extroverted individuals are less susceptible to the influence of external events. Another implication of this finding is that extroverts’ positive moods last longer than those of introverts. 
+
+==Cross-cultural studies==
+There has been some recent debate over the subject of studying personality in a different culture. Some people think that personality comes entirely from culture and therefore there can be no meaningful study in cross-culture study. On the other hand, others believe that some elements are shared by all cultures and an effort is being made to demonstrate the cross-cultural applicability of “the big five”. Funder, D.C., (2001). Personality. Annu. Rev. Psychol. 2001. 52:197–221. 
+
+==Historical development of the concept of individual personality==
+The modern sense of individual personality is a result of the shifts in culture originating in the Renaissance, an essential element in modernity. In contrast the Medieval European's sense of self was linked to a network of social roles: "the household, the kinship network, the guild, the corporation- these were the building blocks of personhood", Stephen Greenblatt observes, in recounting the recovery (1417) and career of Lucretius' poem De rerum natura: "at the core of the poem lay key principles of a modern understanding of the world." Greenblatt, The Swerve: how the world became modern, 2011:3, 16. "Dependant on the family, the individual alone was nothing," Jacques Gélis observes. Gélis, "The Child: from anonymity to individuality", in Philippe Ariès and Georges Duby, A History of Private Life III: Passions of the Renaissance 1989:309. 
+
+==Biology==
+The biological basis of personality is the theory that anatomical structures located in the brain contribute to personality traits. This stems from neuropsychology, which studies how the structure of the brain relates to various psychological processes and behaviors. For instance, in human beings, the frontal lobes are responsible for foresight and anticipation, and the occipital lobes are responsible for processing visual information. In addition, certain physiological functions such as hormone secretion also affect personality. For example, the hormone testosterone is important for sociability, affectivity, aggressiveness, and sexuality. Additionally, studies show that the expression of a personality trait depends on the volume of the brain cortex it is associated with. 
+
+==See also==
+
+* Cult of personality, political institution in which a leader uses mass media to create a larger-than-life public image
+* David C. Funder
+* Differential psychology
+* Human variability
+* Offender profiling
+* Personality and Individual Differences, a scientific journal published bi-monthly by Elsevier
+* Personality crisis (disambiguation)
+* Personality rights, consisting of the right to individual publicity and privacy
+* Personality style
+
+==References==
+
+==Further reading==
+* Holder, M. D., & Klassen, A. (2010). Temperament and happiness in children. J Happiness Stud, 11, 419-439. DOI 10.1007/s10902-009-9149-2
+* Joshanloo, M., & Afshari, S. (2009). Big five personality traits and self-esteem as predictors of life satisfaction in Iranian Muslim university students. J Happiness Stud, 12, 105-113. DOI 10.1007/s10902-009-9177-y
+*Lischetzke, T., & Eid, M. (2006). Why extraverts are happier than introverts: The role of mood regulation. Journal of Personality, 74, 1127-1162. DOI: 10.1111/j.1467-6494.2006.00405.x
+*Lucas, R. E., & Baird, B. M. (2004). Extraversion and emotional reactivity. Journal of Personality and Social Psychology, 86, 473-485. DOI: 10.1037/0022-3514.86.3.473
+*Strobel, M., Tumasjan, A., & Sporrle, M. (2011). Be yourself, believe in yourself, and be happy: Self-efficacy as a mediator between personality factors and subjective well-being. Scandinavian Journal of Psychology, 52, 43-48. DOI: 10.1111/j.1467-9450.2010.00826.x
+* Zelenski, J.M., Santoro, M.S., & Whelan, D.C. (2012). Would introverts be better off if they acted more like extraverts: Exploring the emotional and cognitive consequences of counterdispositional behavior. Emotion, 12, 290-303. DOI: 10.1037/a0025169
+
+ 

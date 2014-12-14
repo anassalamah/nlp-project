@@ -1,0 +1,181 @@
+[[Centrifugal force (rotating reference frame)]]
+
+Centrifugal force (from Latin centrum "center" and fugere "to flee") can generally be any force directed outward relative to some origin. More particularly, in classical mechanics, the centrifugal force is an outward force which arises when describing the motion of objects in a rotating reference frame. Because a rotating frame is an example of a non-inertial reference frame, Newton's laws of motion do not accurately describe the dynamics within the rotating frame. However, a rotating frame can be treated as if it were an inertial frame so that Newton's laws can be used if so-called fictitious forces (also known as inertial or pseudo- forces) are included in the sum of external forces on an object. The centrifugal force is what is usually thought of as the cause for the outward movement like that of passengers in a vehicle turning a corner, of the weights in a centrifugal governor, and of particles in a centrifuge. From the standpoint of an observer in an inertial frame, the effects can be explained as results of inertia without invoking the centrifugal force. Centrifugal force should not be confused with centripetal force or the reactive centrifugal force, both of which are real forces independent of the frame of the observer.
+
+Analysis of motion within rotating frames can be greatly simplified by the use of the fictitious forces. By starting with an inertial frame, where Newton's laws of motion hold, and keeping track of how the time derivatives of a position vector change when transforming to a rotating reference frame, the various fictitious forces and their forms can be identified. Rotating frames and fictitious forces can often reduce the description of motion in two dimensions to a simpler description in one dimension (corresponding to a co-rotating frame). In this approach, circular motion in an inertial frame, which only requires the presence of a centripetal force, becomes the balance between the real centripetal force and the frame-determined centrifugal force in the rotating frame where the object appears stationary. If a rotating frame is chosen so that just the angular position of an object is held fixed, more complicated motion, such as elliptical and open orbits, appears because the centripetal and centrifugal forces will not balance. The general approach however is not limited to these co-rotating frames, but can be equally applied to objects at motion in any rotating frame.
+
+== In classical Newtonian physics ==
+Although Newton's laws of motion hold exclusively in inertial frames, often it is far more convenient and more advantageous to describe the motion of objects within a rotating reference frame. 
+ 
+
+ Sometimes the calculations are simpler (an example is inertial circles), and sometimes the intuitive picture coincides more closely with the rotational frame (an example is sedimentation in a centrifuge). By treating the extra acceleration terms due to the rotation of the frame as if they were forces, subtracting them from the physical forces, it's possible to treat the second time derivative of position (relative to the rotating frame) as absolute acceleration. Thus the analysis using Newton's laws of motion can proceed as if the reference frame was inertial, provided the fictitious force terms are included in the sum of external forces. 
+ For example, centrifugal force is used in the FAA pilot's manual in describing turns. 
+ Other examples are such systems as planets, centrifuges, carousels, turning cars, spinning buckets, and rotating space stations. 
+
+ 
+
+ 
+
+ 
+
+If objects are seen as moving within a rotating frame, this movement results in another fictitious force, the Coriolis force; and if the rate of rotation of the frame is changing, a third fictitious force, the Euler force is experienced. 
+ Together, these three fictitious forces allow for the creation of correct equations of motion in a rotating reference frame. 
+ 
+
+== Derivation ==
+
+For the following formalism, the rotating frame of reference is regarded as a special case of a non-inertial reference frame that is rotating relative to an inertial reference frame denoted the stationary frame.
+
+=== Velocity ===
+
+In a rotating frame of reference, the time derivatives of the position vector r, such as velocity and acceleration vectors, of an object will differ from the time derivatives in the stationary frame according to the frame's rotation. The first time derivative evaluated within a reference frame with a coincident origin at but rotating with the absolute angular velocity ω is: 
+ 
+
+where denotes the vector cross product and square brackets denote evaluation in the rotating frame of reference. In other words, the apparent velocity in the rotating frame is altered by the amount of the apparent rotation at each point, which is perpendicular to both the vector from the origin r and the axis of rotation ω and directly proportional in magnitude to each of them. The vector ω has magnitude ω equal to the rate of rotation and is directed along the axis of rotation according to the right-hand rule.
+
+=== Acceleration ===
+
+Newton's law of motion for a particle of mass m written in vector form is:
+
+:
+
+where F is the vector sum of the physical forces applied to the particle and a is the absolute acceleration (that is, acceleration in an inertial frame) of the particle, given by:
+
+:
+
+where r is the position vector of the particle.
+
+By twice applying the transformation above from the stationary to the rotating frame, the absolute acceleration of the particle can be written as:
+
+:
+
+=== Force ===
+
+The apparent acceleration in the rotating frame is . An observer unaware of the rotation would expect this to be zero in the absence of outside forces. However Newton's laws of motion apply only in the stationary frame and describe dynamics in terms of the absolute acceleration d2r/dt2. Therefore the observer perceives the extra terms as contributions due to fictitious forces. These terms in the apparent acceleration are independent of mass; so it appears that each of these fictitious forces, like gravity, pulls on an object in proportion to its mass. When these forces are added, the equation of motion has the form: Taylor (2005). p. 342. 
+ 
+ 
+
+: 
+
+From the perspective of the rotating frame, the additional force terms are experienced just like the real external forces and contribute to the apparent acceleration. 
+ Taylor (2005). p. 329. The additional terms on the force side of the equation can be recognized as, reading from left to right, the Euler force , the Coriolis force , and the centrifugal force , respectively. 
+ Unlike the other two fictitious forces, the centrifugal force always points radially outward from the axis of rotation of the rotating frame, with magnitude mω2r, and unlike the Coriolis force in particular, it is independent of the motion of the particle in the rotating frame. As expected, for a non-rotating inertial frame of reference the centrifugal force and all other fictitious forces disappear. 
+ 
+
+== Absolute rotation ==
+
+The interface of two immiscible liquids rotating around a vertical axis is an upward-opening circular paraboloid.
+Centrifugal force causes rotating planets to assume the shape of an oblate spheroid
+Three scenarios were suggested by Newton to answer the question of whether the absolute rotation of a local frame can be detected; that is, if an observer can decide whether an observed object is rotating or if the observer is rotating. 
+ 
+ 
+
+* The shape of the surface of water rotating in a bucket. The shape of the surface becomes concave to balance the centrifugal force against the other forces upon the liquid. 
+* The tension in a string joining two spheres rotating about their center of mass. The tension in the string will be proportional to the centrifugal force on each sphere as it rotates around the common center of mass.
+
+In these scenarios, the effects attributed to centrifugal force are only observed in the local frame (the frame in which the object is stationary) if the object is undergoing absolute rotation relative to an inertial frame. By contrast, in an inertial frame, the observed effects arise as a consequence of the inertia and the known forces without the need to introduce a centrifugal force. Based on this argument, the privileged frame, wherein the laws of physics take on the simplest form, is a stationary frame in which no fictitious forces need to be invoked.
+
+Within this view of physics, any other phenomenon that is usually attributed to centrifugal force can be used to identify absolute rotation. For example, the oblateness of a sphere of freely flowing material is often explained in terms of centrifugal force. The oblate spheroid shape reflects, following Clairaut's theorem, the balance between containment by gravitational attraction and dispersal by centrifugal force. That the Earth is itself an oblate spheroid, bulging at the equator where the radial distance and hence the centrifugal force is larger, is taken as one of the evidences for its absolute rotation. 
+
+== Examples ==
+
+Below several examples illustrate both the stationary and rotating frames of reference, and the role of centrifugal force and its relation to Coriolis force in rotating frameworks. For more examples see Fictitious force, rotating bucket and rotating spheres.
+
+=== Dropping ball ===
+A ball moving vertically along the axis of rotation in a stationary frame appears to spiral downward in the rotating frame. The right panel shows a downward view in the rotating frame. The rate of rotation |ω| = ω is assumed constant in time
+
+An example of straight-line motion as seen in a stationary frame is a ball that steadily drops at a constant rate parallel to the axis of rotation. From a stationary frame of reference it moves in a straight line, but from the rotating frame it moves in a helix. The projection of the helical motion in a rotating horizontal plane is shown at the right of the figure. Because the projected horizontal motion in the rotating frame is a circular motion, the ball's motion requires an inward centripetal force, provided in this case by a fictitious force that produces the apparent helical motion. This force is the sum of an outward centrifugal force and an inward Coriolis force. The Coriolis force overcompensates the centrifugal force by exactly the required amount to provide the necessary centripetal force to achieve circular motion.
+
+=== Banked turn ===
+
+Riding a car around a curve, we take a personal view that we are at rest in the car, and should be undisturbed in our seats. Nonetheless, we feel sideways force applied to us from the seats and doors and a need to lean to one side. To explain the situation, we propose a centrifugal force that is acting upon us and must be combated. Interestingly, we find this discomfort is reduced when the curve is banked, tipping the car inward toward the center of the curve.
+
+A different point of view is that of the highway designer. The designer views the car as executing curved motion and therefore requiring an inward centripetal force to impel the car around the turn. By banking the curve, the force exerted upon the car in a direction normal to the road surface has a horizontal component that provides this centripetal force. That means the car tires no longer need to apply a sideways force to the car, but only a force perpendicular to the road. By choosing the angle of bank to match the car's speed around the curve, the car seat transmits only a perpendicular force to the passengers, and the passengers no longer feel a need to lean nor feel a sideways push by the car seats or doors. 
+ 
+
+=== Earth ===
+
+A calculation for Earth at the equator ( seconds, meters) shows that an object experiences a centrifugal force equal to approximately 1/289 of standard gravity. 
+ Because centrifugal force increases according to the square of , one would expect gravity to be cancelled for an object travelling 17 times faster than the Earth's rotation, and in fact satellites in low orbit at the equator complete 17 full orbits in one day. 
+ 
+
+Gravity diminishes according to the inverse square of distance, but centrifugal force increases in direct proportion to the distance. Thus a circular geosynchronous orbit has a radius of 42164 km; 42164/6378.1 = 6.61, the cube root of 289.
+
+=== Planetary motion ===
+
+Centrifugal force arises in the analysis of orbital motion and, more generally, of motion in a central-force field: in the case of a two-body problem, it is easy to convert to an equivalent one-body problem with force directed to or from an origin, and motion in a plane, so we consider only that.
+
+The symmetry of a central force lends itself to a description in polar coordinates. The dynamics of a mass, m, expressed using Newton's second law of motion (F = ma), becomes in polar coordinates: 
+ 
+ 
+
+:
+
+where is the force accelerating the object and the "hat" variables are unit direction vectors ( points in the centrifugal or outward direction, and is orthogonal to it).
+
+In the case of a central force, relative to the origin of the polar coordinate system, can be replaced by , meaning the entire force is the component in the radial direction. An inward force of gravity would therefore correspond to a negative-valued F(r).
+
+The components of F = ma along the radial direction therefore reduce to
+
+:
+
+in which the term proportional to the square of the rate of rotation appears on the acceleration side as a "centripetal acceleration", that is, a negative acceleration term in the direction. Taylor (2005). p. 358-9. In the special case of a planet in circular orbit around its star, for example, where is zero, the centripetal acceleration alone is the entire acceleration of the planet, curving its path toward the sun under the force of gravity, the negative F(r).
+
+As pointed out by Taylor, Taylor (2005). p. 359. for example, it is sometimes convenient to work in a co-rotating frame, that is, one rotating with the object so that the angular rate of the frame, , equals the of the object in the stationary frame. In such a frame, the observed is zero and alone is treated as the acceleration: so in the equation of motion, the term is "reincarnated on the force side of the equation (with opposite signs, of course) as the centrifugal force mω2r in the radial equation": The "reincarnation" on the force side of the equation is necessary because, without this force term, observers in the rotating frame would find they could not predict the motion correctly. They would have an incorrect radial equation:
+
+:
+
+where the term is known as the centrifugal force. The centrifugal force term in this equation is called a "fictitious force", "apparent force", or "pseudo force", as its value varies with the rate of rotation of the frame of reference. When the centrifugal force term is expressed in terms of parameters of the rotating frame, replacing with , it can be seen that it is the same centrifugal force previously derived for rotating reference frames.
+
+Because of the absence of a net force in the azimuthal direction, conservation of angular momentum allows the radial component of this equation to be expressed solely with respect to the radial coordinate, r, and the angular momentum , yielding the radial equation (a "fictitious one-dimensional problem" with only an r dimension):
+
+:.
+
+The term is again the centrifugal force, a force component induced by the rotating frame of reference. The equations of motion for r that result from this equation for the rotating 2D frame are the same that would arise from a particle in a fictitious one-dimensional scenario under the influence of the force in the equation above. 
+ If F(r) represents gravity, it is a negative term proportional to 1/r2, so the net acceleration in r in the rotating frame depends on a difference of reciprocal square and reciprocal cube terms, which are in balance in a circular orbit but otherwise typically not. This equation of motion is similar to one originally proposed by Leibniz. 
+ Given r, the rate of rotation is easy to infer from the constant angular momentum L, so a 2D solution can be easily reconstructed from a 1D solution of this equation.
+
+When the angular velocity of this co-rotating frame is not constant, that is, for non-circular orbits, other fictitious forces—the Coriolis force and the Euler force—will arise, but can be ignored since they will cancel each other, yielding a net zero acceleration transverse to the moving radial vector, as required by the starting assumption that the vector co-rotates with the planet. 
+ In the special case of circular orbits, in order for the radial distance to remain constant the outward centrifugal force must cancel the inward force of gravity; for other orbit shapes, these forces will not cancel, so r will not be constant.
+
+== History ==
+
+Concepts of centripetal and centrifugal force played a key early role in establishing the set of inertial frames of reference and the significance of fictitious forces, even aiding in the development of general relativity in which gravity itself becomes a fictitious force. 
+ 
+
+== Applications ==
+
+The operations of numerous common rotating mechanical systems are most easily conceptualized in terms of centrifugal force. For example:
+
+* A centrifugal governor regulates the speed of an engine by using spinning masses that move radially, adjusting the throttle, as the engine changes speed. In the reference frame of the spinning masses, centrifugal force causes the radial movement.
+* A centrifugal clutch is used in small engine-powered devices such as chain saws, go-karts and model helicopters. It allows the engine to start and idle without driving the device but automatically and smoothly engages the drive as the engine speed rises. Inertial drum brake ascenders used in rock climbing and the inertia reels used in many automobile seat belts operate on the same principle.
+* Centrifugal forces can be used to generate artificial gravity, as in proposed designs for rotating space stations. The Mars Gravity Biosatellite will study the effects of Mars-level gravity on mice with gravity simulated in this way.
+*Spin casting and centrifugal casting are production methods that uses centrifugal force to disperse liquid metal or plastic throughout the negative space of a mold.
+* Centrifuges are used in science and industry to separate substances. In the reference frame spinning with the centrifuge, the centrifugal force induces a hydrostatic pressure gradient in fluid-filled tubes oriented perpendicular to the axis of rotation, giving rise to large buoyant forces which push low-density particles inward. Elements or particles denser than the fluid move outward under the influence of the centrifugal force. This is effectively Archimedes' principle as generated by centrifugal force as opposed to being generated by gravity.
+* Some amusement rides make use of centrifugal forces. For instance, a Gravitron's spin forces riders against a wall and allows riders to be elevated above the machine's floor in defiance of Earth's gravity. 
+
+Nevertheless, all of these systems can also be described without requiring the concept of centrifugal force, in terms of motions and forces in a stationary frame, at the cost of taking somewhat more care in the consideration of forces and motions within the system.
+
+== See also ==
+
+* Equivalence principle
+* Folk physics
+* Lamm equation
+* Lagrangian point
+* Balancing of rotating masses
+
+== Footnotes ==
+
+== References ==
+* 
+
+== External links ==
+
+* Centripetal force and Centrifugal force, from an online Regents Exam physics tutorial by the Oswego City School District
+* Centrifugal force at the HyperPhysics concepts site
+* Centripetal and Centrifugal Forces at MathPages
+* Motion over a flat surface and a parabolic surface Java physlets by Brian Fiedler (from School of Meteorology at the University of Oklahoma) illustrating fictitious forces.
+* Animation clip showing scenes as viewed from both a stationary and a rotating frame of reference, visualizing the Coriolis and centrifugal forces.
+* John Baez: Does centrifugal force hold the Moon up?
+
+

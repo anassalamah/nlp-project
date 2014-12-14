@@ -1,0 +1,63 @@
+[[Larmor precession]]
+
+150px
+In physics, Larmor precession (named after Joseph Larmor) is the precession of the magnetic moments of electrons, muons, all leptons with magnetic moments which are quantum effects of particle spin, atomic nuclei, and atoms about an external magnetic field. The magnetic field exerts a torque on the magnetic moment,
+:
+
+where is the torque, is the magnetic dipole moment, is the angular momentum vector, is the external magnetic field, symbolizes the cross product, and is the gyromagnetic ratio which gives the proportionality constant between the magnetic moment and the angular momentum.
+
+==Larmor frequency==
+The angular momentum vector precesses about the external field axis with an angular frequency known as the Larmor frequency,
+
+:
+
+where is the angular frequency, Spin Dynamics, Malcolm H. Levitt, Wiley, 2001 is (for a particle of charge ) the gyromagnetic ratio, and is the magnitude of the magnetic field and is the g-factor (normally 1, except in quantum physics).
+
+Simplified, this becomes:
+
+where is the Larmor frequency, is mass, is the charge, and is applied field. For a given nucleus, the g-factor includes the effects of the spin of the nucleons as well as their orbital angular momentum and the coupling between the two. Because the nucleus is so complicated, g factors are very difficult to calculate, but they have been measured to high precision for most nuclei. Each nuclear isotope has a unique Larmor frequency for NMR spectroscopy, which is tabulated here.
+
+==Including Thomas precession==
+The above equation is the one that is used in most applications. However, a full treatment must include the effects of Thomas precession, yielding the equation (in CGS units): 
+:
+where is the relativistic Lorentz factor (not to be confused with the gyromagnetic ratio above). Notably, for the electron g is very close to 2 (2.002..), so if one sets g=2, one arrives at
+:
+
+==Bargmann–Michel–Telegdi equation==
+
+The spin precession of an electron in an external electromagnetic field is described by the Bargmann–Michel–Telegdi (BMT) equation V. Bargmann, L. Michel, and V. L. Telegdi, Precession of the Polarization of Particles Moving in a Homogeneous Electromagnetic Field, Phys. Rev. Lett. 2, 435 (1959). 
+:
+where , , , and are polarization four-vector, charge, mass, and magnetic moment, is four-velocity of electron, , , and is electromagnetic field-strength tensor. Using equations of motion, 
+:
+one can rewrite the first term in the right side of the BMT equation as , where is four-acceleration. This term describes Fermi–Walker transport and leads to Thomas precession. The second term is associated with Larmor precession.
+
+When electromagnetic fields are uniform in space or when gradient forces like can be neglected, the particle's translational motion is described by
+:
+The BMT equation is then written as Jackson, J. D., Classical Electrodynamics, 3rd edition, Wiley, 1999, p. 563. 
+:
+
+The Beam-Optical version of the Thomas-BMT, from the Quantum Theory of Charged-Particle Beam Optics, applicable in accelerator optics
+ M. Conte, R. Jagannathan, S. A. Khan and M. Pusterla, Beam optics of the Dirac particle with anomalous magnetic moment, Particle Accelerators, 56, 99-126 (1996); (Preprint: IMSc/96/03/07, INFN/AE-96/08). 
+ Khan, S. A. (1997). Quantum Theory of Charged-Particle Beam Optics, Ph.D Thesis, University of Madras, Chennai, India. (complete thesis available from Dspace of IMSc Library, The Institute of Mathematical Sciences, where the doctoral research was done). 
+
+==Applications==
+A 1935 paper published by Lev Landau and Evgeny Lifshitz predicted the existence of ferromagnetic resonance of the Larmor precession, which was independently verified in experiments by J. H. E. Griffiths (UK) and E. K. Zavoiskij (USSR) in 1946.
+
+Larmor precession is important in nuclear magnetic resonance, electron paramagnetic resonance and muon spin resonance. It is also important for the alignment of cosmic dust grains, which is a cause of the polarization of starlight.
+
+To calculate the spin of a particle in a magnetic field, one must also take into account Thomas precession.
+
+==Precession direction==
+An electron precesses counter-clockwise about the direction of the magnetic field, because it has a negative charge making the direction of magnetic moment opposite to that of its spin.
+
+==See also==
+* Rabi cycle
+* LARMOR neutron microscope
+
+==Notes==
+
+== External links ==
+* Georgia State University HyperPhysics page on Larmor Frequency
+* Larmor Frequency Calculator
+
+

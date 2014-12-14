@@ -1,0 +1,51 @@
+[[Hyperventilation]]
+
+Hyperventilation occurs when the rate and quantity of alveolar ventilation of carbon dioxide exceeds body's production of carbon dioxide. yourdictionary.com > hyperventilation Citing: The American Heritage® Dictionary of the English Language, 4th edition Copyright 2010 Hyperventilation can be voluntary or involuntary. 
+
+When alveolar ventilation is excessive, more carbon dioxide will be removed from the blood stream than the body can produce. This causes the concentration of carbon dioxide in the blood stream to fall and produces a state known as hypocapnia. The body normally attempts to compensate for this metabolically. If excess ventilation cannot be compensated metabolically, it will lead to a rise in blood pH. This rise in blood pH is known as respiratory alkalosis. When hyperventilation leads to respiratory alkalosis, it may cause a number of physical symptoms: dizziness, tingling in the lips, hands or feet, headache, weakness, fainting and seizures. In extreme cases it can cause carpopedal spasms (flapping and contraction of the hands and feet). 
+
+==Distinction from other breathing terms==
+
+In very general terms, hyperventilation is an increased alveolar ventilation. This is not to be confused with the term hyperpnea which pertains to an increased minute ventilation. In hyperpnea, increased ventilation is appropriate for a metabolic acidotic state (also known as respiratory compensation) whereas in hyperventilation, increased ventilation is inappropriate for the metabolic state of blood plasma.
+
+Hyperventilation should not be confused with tachypnea (fast breathing) or hyperpnea (breathing that is faster or deeper than normal). Both these terms neutrally describe the manner of breathing rather than the impact that breathing has on carbon dioxide levels. Exercise, fever, shivering, and other disorders can cause the body to produce more carbon dioxide than normal. The body attempts to correct for this by breathing more rapidly and deeply. This corrective behavior does not lead to excess ventilation. Rather it brings the body into balance by compensating for excess CO2 production. Thus hyperpnea in this context is not hyperventilation.
+
+In fact, if the excess CO2 production cannot be completely cast off via hyperpnea, then a person will in fact be hypoventilating even though they are breathing faster or more deeply than normal. For example, in certain respiratory disorders, the transfer of carbon dioxide from the blood to the alveoli may be blocked. No matter how deep or fast the person tries to breathe, they cannot expel enough carbon dioxide.
+
+== Causes ==
+Hyperventilation can be voluntary or involuntary. 
+
+Swimmers sometimes voluntarily hyperventilate in hopes of extending dive time or extending the length of time they can swim underwater without rising to take a breath, though this puts them at risk for shallow water blackout. Anesthesiologists sometimes recommend that their patients hyperventilate prior to putting them under general anesthesia. Certain kinds of Yoga, for example, Bhastrika yoga also employ voluntary hyperventilation.
+
+Involuntary hyperventilation can occur in response to both physical and emotional stimuli. These include reduced air pressure at high altitudes, – Online interactive oxygen delivery calculator that mimics hyperventilation raised progesterone levels in pregnancy, head injury, stroke, respiratory disorders such as asthma and pneumonia, cardiovascular problems such as pulmonary embolisms, anemia, adverse reactions to certain drugs, physical or emotional stress, fear, pain, and anxiety. Hyperventilation can also be mechanically produced in people on respirators. 
+
+Stress or anxiety commonly are causes of hyperventilation; this is known as hyperventilation syndrome. Hyperventilation can also be brought about voluntarily, by taking many deep breaths in rapid succession. Hyperventilation can also occur as a consequence of various lung diseases, head injury, or stroke (central neurogenic hyperventilation, apneustic respirations, ataxic respiration, Cheyne–Stokes respiration or Biot's respiration) and various lifestyle causes. In the case of metabolic acidosis, the body uses hyperventilation as a compensatory mechanism to decrease acidity of the blood. In the setting of diabetic ketoacidosis, this is known as Kussmaul breathing – characterized by long, deep breaths.
+
+Hyperventilation can also occur when someone exercises over their VO2 max, when they're unable to generate sufficient energy through purely aerobic respiration, but hyperventilate in an effort to do so. The VO2 max is a representation of an individual's aerobic capacity during exercise of large duration and low intensity (from 30 minutes to hours), for example the marathon. It is the highest rate of oxygen consumption reached during maximum exertion in long duration exercises. If the intensity of exercise increases past an individual's VO2 max the consumption of oxygen will be relatively stabilized and the body will utilize anaerobic energy substrates, e.g. hepatic glycogen (a polysaccharide which stores glucose in the liver) through glycolysis, also known as passing the anaerobic threshold. As the result of the above-mentioned process there is an increase of lactic acid and carbon dioxide in the blood and therefore a decrease of the pH of the blood. Carbon dioxide is transported as bicarbonate ion through the blood during the gaseous exchange of oxygen and carbon dioxide between alveoli and blood capillaries through the respiratory membrane. The increase of the level of carbon dioxide in the blood reflects the more anaerobic metabolism past the anaerobic threshold by (Wasserman and Mclllory) and hence provokes the hyperventilation.
+
+== Mechanism ==
+In normal breathing, both the depth and frequency of breaths are varied by the neural (or nervous) system, primarily in order to maintain normal amounts of carbon dioxide but also to supply appropriate levels of oxygen to the body's tissues. This is mainly achieved by measuring the carbon dioxide content of the blood; normally, a high carbon dioxide concentration signals a low oxygen concentration, as we breathe in oxygen and breathe out carbon dioxide at the same time, and the body's cells use oxygen to burn fuel molecules, making carbon dioxide as a by-product. Normal minute ventilation is generally 5–8 liters of air per minute at rest for a 70 kg man.
+
+If carbon dioxide levels are high, the body assumes that oxygen levels are low, and accordingly, the brain's blood vessels dilate to assure sufficient blood flow and supply of oxygen. Conversely, low carbon dioxide levels cause the brain's blood vessels to constrict, resulting in reduced blood flow to the brain and lightheadedness. The gases in the alveoli of the lungs are nearly in equilibrium with the gases in the blood. Normally, less than 10% of the gas in the alveoli is replaced with each breath taken. Deeper or quicker breaths as in hyperventilation exchange more of the alveolar gas with ambient air and have the net effect of expelling more carbon dioxide from the body, since the carbon dioxide concentration in normal air is very low.The resulting low concentration of carbon dioxide in the blood is known as hypocapnia. Since carbon dioxide is carried as bicarbonate in the blood, the loss of carbon dioxide will drive bicarbonate to combine with hydrogen ions (protons) to form more carbon dioxide. The loss of hydrogen ions results in the blood becoming alkaline, i.e. the blood pH value rises. This is known as a respiratory alkalosis.
+
+This alkalization of the blood causes vessels to constrict (vasoconstriction). The high pH value resulting from hyperventilation also reduces the level of available calcium (hypocalcemia), which affects the nerves and muscles, causing constriction of blood vessels and tingling. This occurs because alkalization of the plasma proteins (mainly albumin) increases their calcium binding affinity, thereby reducing free ionized calcium levels in the blood. Therefore, low levels of carbon dioxide can cause tetany by altering the albumin binding of calcium such that the ionised (physiologically influencing) fraction of calcium is reduced.
+
+Therefore, there are two main mechanisms that contribute to the cerebral vasoconstriction that is responsible for the lightheadedness, parasthesia, and fainting often seen with hyperventilation. One mechanism is that low carbon dioxide (hypocapnia) causes increased blood pH level (respiratory alkalosis), causing blood vessels to constrict. The other mechanism is that the alkalosis causes decreased freely ionized blood calcium, thereby causing cell membrane instability and subsequent vasoconstriction and parasthesia.
+
+Hyperventilation can be useful in the management of head trauma. After head injuries fluids can leak into the cranial vault, thus elevating intracranial pressure. Since the total cranial volume is relatively fixed, and the brain is much more compressible than the skull, in settings of increased intracranial pressure, the brain is preferentially compressed and damaged. Hyperventilation, and the resultant cerebral vasoconstriction, is useful in this situation, since it decreases the volume of blood in the brain. Less blood volume in the cranial cavity results in less pressure compressing the brain. However, this vasoconstriction comes at the cost of reducing blood flow to the brain, which can potentially result in ischemic damage. 
+
+==Treatment==
+
+The first step that should be taken is to treat the underlying cause. If hypoxia is present supplemental oxygen may be useful. If it is due to anxiety as the cause of hyperventilation syndrome, counseling (such as cognitive behavioral therapy) to identify and address triggers may be useful, possibly supported by a few days of benzodiazepines.
+
+==References==
+
+==See also==
+* List of terms of lung size and activity
+* Control of respiration
+* Respiratory alkalosis
+* Shallow water blackout, the role of hyperventilation in some drowning incidents
+
+and signs: Respiratory system]
+
+

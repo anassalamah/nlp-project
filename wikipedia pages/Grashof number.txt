@@ -1,0 +1,179 @@
+[[Grashof number]]
+
+The Grashof number (Gr) is a dimensionless number in fluid dynamics and heat transfer which approximates the ratio of the buoyancy to viscous force acting on a fluid. It frequently arises in the study of situations involving natural convection. It is named after the German engineer Franz Grashof.
+
+: for vertical flat plates
+
+: for pipes
+: for bluff bodies
+
+where the L and D subscripts indicates the length scale basis for the Grashof Number.
+
+: g = acceleration due to Earth's gravity
+: &beta; = volumetric thermal expansion coefficient (equal to approximately 1/T, for ideal fluids, where T is absolute temperature)
+: T's = surface temperature
+: T'∞ = bulk temperature
+: L = characteristic length
+: D = diameter
+: &nu; = kinematic viscosity
+
+The transition to turbulent flow occurs in the range for natural convection from vertical flat plates. At higher Grashof numbers, the boundary layer is turbulent; at lower Grashof numbers, the boundary layer is laminar.
+
+The product of the Grashof number and the Prandtl number gives the Rayleigh number, a dimensionless number that characterizes convection problems in heat transfer.
+
+There is an analogous form of the Grashof number used in cases of natural convection mass transfer problems.
+
+:
+
+where
+
+:
+
+and
+
+: g = acceleration due to Earth's gravity
+: C'a,s = concentration of species a at surface
+: C'a,a = concentration of species a in ambient medium
+: L = characteristic length
+: &nu; = kinematic viscosity
+: &rho; = fluid density
+: C'a = concentration of species a
+: T = constant temperature
+: p = constant pressure
+
+==Derivation of Grashof Number==
+The first step to deriving the Grashof number is manipulating the volume expansion coefficient, as follows:
+
+:
+
+It should be noted that the in the equation above, which represents specific volume, is not the same as the in the subsequent sections of this derivation, which will represent a velocity. This partial relation of the volume expansion coefficient, , with respect to fluid density, , given constant pressure, can be rewritten as
+
+:
+
+where
+
+: - bulk fluid density
+
+: - boundary layer density
+
+: - temperature difference between boundary layer and bulk fluid
+
+There are two different ways to find the Grashof Number from this point. One involves the energy equation while the other incorporates the buoyant force due to the difference in density between the boundary layer and bulk fluid.
+
+=== Energy Equation ===
+This discussion involving the energy equation is with respect to rotationally symmetric flow. This analysis will take into consideration the effect of gravitational acceleration on flow and heat transfer. The mathematical equations to follow apply both to rotational symmetric flow as well as two-dimensional planar flow.
+
+:
+
+where
+
+: = rotational direction, i.e. direction parallel to the surface
+: = tangential velocity, i.e. velocity parallel to the surface
+: = planar direction, i.e. direction normal to the surface
+: = normal velocity, i.e. velocity normal to the surface
+: = radius
+
+In this equation the superscript n is to differentiate between rotationally symmetric flow from planar flow. The following characteristics of this equation hold true.
+
+: = 1 - rotationally symmetric flow
+: = 0 - planar, two-dimensional flow
+: - gravitational acceleration
+
+This equation expands to the following with the addition of physical fluid properties:
+
+:
+
+From here we can further simplify the momentum equation by setting the bulk fluid velocity to 0 (u = 0).
+
+:
+
+This relation shows that the pressure gradient is simply a product of the bulk fluid density and the gravitational acceleration. The next step is to plug in the pressure gradient into the momentum equation.
+
+:
+
+Further simplification of the momentum equation comes by substituting the volume expansion coefficient, density relationship , found above, and kinematic viscosity relationship, , into the momentum equation.
+
+:.
+
+To find the Grashof Number from this point, the preceding equation must be non-dimensionalized. This means that every variable in the equation should have no dimension and should instead be a ratio characteristic to the geometry and setup of the problem. This is done by dividing each variable by corresponding constant quantities. Lengths are divided by a characteristic length, . Velocities are divided by appropriate reference velocities, , which, considering the Reynolds number, gives . Temperatures are divided by the appropriate temperature difference, . These dimensionless parameters look like the following:
+
+:,
+ 
+:,
+
+:,
+
+:,
+
+:.
+
+The asterisks represent dimensionless parameter. Combining these dimensionless equations with the momentum equations gives the following simplified equation.
+
+:
+
+where
+
+: - surface temperature
+
+: - bulk fluid temperature
+
+: - characteristic length
+
+The dimensionless parameter enclosed in the brackets in the preceding equation is known as the Grashof Number
+
+:
+
+===Buckingham Pi Theorem===
+Another form of dimensional analysis that will result in the Grashof Number is known as the Buckingham Pi theorem. This method takes into account the buoyancy force per unit volume, due to the density difference in the boundary layer and the bulk fluid.
+
+This equation can be manipulated to give,
+
+The list of variables that are used in the Buckingham Pi method is listed below, along with their symbols and dimensions.
+
+ Variable Symbol Dimensions 
+ Significant Length 
+ Fluid Viscosity 
+ Fluid Heat Capacity 
+ Fluid Thermal Conductivity 
+ Volume Expansion Coefficient 
+ Gravitational Acceleration 
+ Temperature Difference 
+ Heat Transfer Coefficient 
+
+With reference to the Buckingham Pi Theorem there are 9 – 5 = 4 dimensionless groups. Choose L, k, g and as the reference variables. Thus the groups are as follows:
+
+,
+
+,
+
+,
+
+.
+
+Solving these groups gives:
+
+,
+
+,
+
+,
+
+From the two groups and the product forms the Grashof Number
+
+:
+
+Taking and the preceding equation can be rendered as the same result from deriving the Grashof Number from the energy equation.
+
+In forced convection the Reynolds Number governs the fluid flow. But, in natural convection the Grashof Number is the dimensionless parameter that governs the fluid flow. Using the energy equation and the buoyant force combined with dimensional analysis provides two different ways to derive the Grashof Number.
+
+==References==
+
+* Jaluria, Yogesh. Natural Convection Heat and Mass Transfer (New York: Pergamon Press, 1980).
+
+* Cengel, Yunus A. Heat and Mass Transfer: A Practical Approach, 3rd Edition (Boston: McGraw Hill, 2003).
+
+* Eckert, Ernst R. G. and Drake, Robert M. Analysis of Heat and Mass Transfer (New York: McGraw Hill, 1972).
+
+* Welty, James R. Fundamentals of Momentum, Heat, and Mass Transfer (New York: John Wiley & Sons, 1976).
+
+

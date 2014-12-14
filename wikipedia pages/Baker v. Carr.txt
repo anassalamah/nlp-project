@@ -1,0 +1,53 @@
+[[Baker v. Carr]]
+
+Baker v. Carr, , was a landmark United States Supreme Court case that retreated from the Court's political question doctrine, deciding that redistricting (attempts to change the way voting districts are delineated) issues present justiciable questions, thus enabling federal courts to intervene in and to decide redistricting cases. The defendants unsuccessfully argued that redistricting of legislative districts is a "political question", and hence not a question that may be resolved by federal courts.
+
+Reynolds v. Sims (1964) was another major case of the Warren Court era involving state legislative districts.
+
+==Background==
+Plaintiff Charles Baker was a Republican who lived in Shelby County, Tennessee, the county in which Memphis is located. The Tennessee State Constitution required that legislative districts be redrawn every ten years according to the federal census to provide for districts of substantially equal population. Baker's complaint was that Tennessee had not in fact redistricted since 1901, in response to the 1900 census. By the time of Baker's lawsuit, the population had shifted such that his district in Shelby County had about ten times as many residents as some of the rural districts. Representationally, the votes of rural citizens were worth more than the votes of urban citizens. Baker's argument was that this discrepancy was causing him to fail to receive the "equal protection of the laws" required by the Fourteenth Amendment. Defendant Joe Carr was sued in his position as Secretary of State for Tennessee. Carr was not the person who set the district lines &ndash; the state legislature had done that &ndash; but was sued ex officio as the person who was ultimately responsible for the conduct of elections in the state and for the publication of district maps. The state of Tennessee argued that legislative districts were essentially political questions, not judicial ones, as had been held by a plurality opinion of the Court in which Justice Felix Frankfurter declared that, "Courts ought not to enter this political thicket." Frankfurter believed that relief for legislative malapportionment had to be won through the political process. Colegrove v. Green, 328 U.S. 556 
+
+==Decision==
+The decision of Baker v. Carr was one of the most wrenching in the Court's history. The case had to be put over for reargument because in conference no clear majority emerged for either side of the case. Charles Evans Whittaker was so torn over the case that he eventually had to recuse himself. The arduous decisional process in Baker is often blamed for Whittaker's subsequent health problems, which forced him to resign from the Court. Whittaker is leaving U.S. Supreme Court 
+
+The opinion was finally handed down in March 1962, nearly a year after it was initially argued. The Court split 6 to 2 in ruling that Baker's case was justiciable, producing, in addition to the opinion of the Court by Justice William J. Brennan, three concurring opinions and two dissenting opinions. Brennan reformulated the political question doctrine, identifying six factors to help in determining which questions were "political" in nature. Cases that are political in nature are marked by:
+# "Textually demonstrable constitutional commitment of the issue to a coordinate political department;" as an example of this, Brennan cited issues of foreign affairs and executive war powers, arguing that cases involving such matters would be "political questions"
+# "A lack of judicially discoverable and manageable standards for resolving it;"
+# "The impossibility of deciding without an initial policy determination of a kind clearly for nonjudicial discretion;"
+# "The impossibility of a court's undertaking independent resolution without expressing lack of the respect due coordinate branches of government;"
+# "An unusual need for unquestioning adherence to a political decision already made;"
+# "The potentiality of embarrassment from multifarious pronouncements by various departments on one question."
+
+Justice Tom C. Clark switched his vote at the last minute to a concurrence on the substance of Baker's claims, which would have enabled a majority which could have granted relief for Baker, but instead the Supreme Court remanded the case to the District Court.
+
+The large majority in this case can in many ways be attributed to Justice Brennan, who convinced Potter Stewart that the case was a narrow ruling dealing only with plaintiff power to challenge the statute. Brennan also talked down Justices Black and Douglas from their usual absolutist positions to achieve a compromise. Eisler (1993), p. 13. 
+
+==Dissent by Justices Frankfurter and Harlan==
+
+Frankfurter, joined by Justice John Marshall Harlan II, dissented vigorously and at length, arguing that the Court had cast aside history and judicial restraint, and violated the separation of powers between legislatures and Courts. He wrote:
+Plaintiffs here invoked the right to vote and have their vote counted, but they are permitted to vote and their vote is already counted. The complaint being made here is that their vote is not powerful enough. They should seek relief in the legislative system, not the courts.
+
+==Aftermath==
+
+Having declared redistricting issues justiciable in Baker, the court laid out a new test for evaluating such claims. The Court formulated the famous "one person, one vote" standard under American jurisprudence for legislative redistricting, holding that each individual had to be weighted equally in legislative apportionment; this principle was formally enunciated in the 1964 case Reynolds v. Sims. The Court decided that in states with bicameral legislatures both houses had to be apportioned on this standard, voiding the provision of the Arizona Constitution which had provided for two state senators from each county and similar provisions elsewhere. (Even the Tennessee Constitution, enforcement of which was the original basis for the case, has a provision which prevented counties from being split and portions of a county being attached to other counties or parts of counties in the creation of a district which was overridden, and today counties are frequently split among districts in forming Tennessee State Senate districts.) However, "One person, one vote" was first applied as a standard for Congressional districts.
+
+Baker v. Carr and subsequent cases fundamentally altered the nature of political representation in America, requiring not just Tennessee but nearly every state to redistrict during the 1960s, often several times. This re-apportionment increased the political power of urban areas and reduced the influence of more rural areas. Eisler (1993), p. 11. After he left the Court, Chief Justice Earl Warren called the Baker v. Carr line of cases the most important in his tenure as Chief Justice. Schwartz, Bernard. How Justice Brennan Changed America, in Reason and Passion 33 (E. Joshua Rosenkranz and Bernard Schwartz eds., 1997). 
+
+==See also==
+* List of United States Supreme Court cases, volume 369
+
+==References==
+
+==Further reading==
+*
+*
+*
+*
+
+==External links==
+
+*Full text of the decision courtesy of Findlaw.com
+*Listen to oral arguments in this case or download as MP3 
+* Baker v. Carr Case Brief at Lawnix.com
+
+

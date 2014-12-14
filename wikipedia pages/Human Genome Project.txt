@@ -1,0 +1,128 @@
+[[Human Genome Project]]
+
+DNA replication
+The Human Genome Project (HGP) is an international scientific research project with the goal of determining the sequence of chemical base pairs which make up human DNA, and of identifying and mapping all of the genes of the human genome from both a physical and functional standpoint. It remains the world's largest collaborative biological project. The project was proposed and funded by the US government ; planning started in 1984, the project got underway in 1990, and was declared complete in 2003. A parallel project was conducted outside of government by the Celera Corporation, or Celera Genomics, which was formally launched in 1998. Most of the government-sponsored sequencing was performed in universities and research centres in China, France, Germany, Japan, Spain, the United Kingdom, and the United States. http://www.genome.gov/11006943 
+
+The Human Genome Project originally aimed to map the nucleotides contained in a human haploid reference genome (more than three billion). The "genome" of any given individual is unique; mapping "the human genome" involves sequencing multiple variations of each gene. The project did not study the entire DNA found in human cells; some heterochromatic areas (about 8% of the total genome) remain unsequenced.
+
+== Project ==
+
+=== History ===
+American doctor Alvin Trivelpiece suggested the Project in 1987
+The project began with the culmination of several years of work supported by the US Department of Energy, in particular workshops in 1984. This 1987 report stated boldly, "The ultimate goal of this initiative is to understand the human genome" and "knowledge of the human is as necessary to the continuing progress of medicine and other health sciences as knowledge of human anatomy has been for the present state of medicine." The proposal was made by Dr. Alvin Trivelpiece and was approved by Deputy Secretary William Flynn Martin. This chart http://www.wpainc.com/Archive/Trivelpiece/HGP%20Presenation.jpg was used in the Spring of 1986 by Trivelpiece, then Director of the Office of Energy Research in the Department of Energy, to brief Martin and Under Secretary Joseph Salgado regarding his intention to reprogram $4 million to initiate the project with the approval of Secretary Herrington. This reprogramming was followed by a line item budget of $16 million in the Reagan Administration’s 1987 budget submission to Congress. It subsequently passed both Houses. The Project was planned for 15 years. 
+
+Candidate technologies were already being considered for the proposed undertaking at least as early as 1985. 
+
+In 1990, the two major funding agencies, DOE and NIH, developed a memorandum of understanding in order to coordinate plans and set the clock for the initiation of the Project to 1990. At that time, David Galas was Director of the renamed “Office of Biological and Environmental Research” in the U.S. Department of Energy’s Office of Science and James Watson headed the NIH Genome Program. In 1993, Aristides Patrinos succeeded Galas and Francis Collins succeeded James Watson, assuming the role of overall Project Head as Director of the U.S. National Institutes of Health (NIH) National Human Genome Research Institute. A working draft of the genome was announced in 2000 and a complete one in 2003, with more detailed analysis still being published.
+
+The $3-billion project was formally founded in 1990 by the US Department of Energy and the National Institutes of Health, and was expected to take 15 years. In addition to the United States, the international consortium comprised geneticists in the United Kingdom, France, Australia, Japan and myriad other spontaneous relationships. 
+
+Due to widespread international cooperation and advances in the field of genomics (especially in sequence analysis), as well as major advances in computing technology, a 'rough draft' of the genome was finished in 2000 (announced jointly by U.S. President Bill Clinton and the British Prime Minister Tony Blair on June 26, 2000). This first available rough draft assembly of the genome was completed by the Genome Bioinformatics Group at the University of California, Santa Cruz, primarily led by then graduate student Jim Kent. Ongoing sequencing led to the announcement of the essentially complete genome on April 14, 2003, 2 years earlier than planned. In May 2006, another milestone was passed on the way to completion of the project, when the sequence of the last chromosome was published in Nature. 
+
+=== State of completion ===
+The Human Genome Project was declared complete in April 2003. An initial rough draft of the human genome was available in June 2000 and by February 2001 a working draft had been completed and published followed by the final sequencing mapping of the human genome on April 14, 2003. Although this was reported to be 99% of the human genome with 99.99% accuracy a major quality assessment of the human genome sequence was published on May 27, 2004 indicating over 92% of sampling exceeded 99.99% accuracy which is within the intended goal. 
+ Further analyses and papers on the HGP continue to occur. http://web.ornl.gov/sci/techresources/Human_Genome/project/journals.shtml 
+
+== Applications and proposed benefits ==
+The sequencing of the human genome holds benefits for many fields, from molecular medicine to human evolution. The Human Genome Project, through its sequencing of the DNA, can help us understand diseases including: genotyping of specific viruses to direct appropriate treatment; identification of oncogenes and mutations linked to different forms of cancer; the design of medication and more accurate prediction of their effects; advancement in forensic applied sciences; biofuels and other energy applications; agriculture, livestock breeding, bioprocessing; risk assessment; bioarcheology, anthropology, evolution. Another proposed benefit is the commercial development of genomics research related to DNA based products, a multibillion dollar industry.
+
+The sequence of the DNA is stored in databases available to anyone on the Internet. The U.S. National Center for Biotechnology Information (and sister organizations in Europe and Japan) house the gene sequence in a database known as GenBank, along with sequences of known and hypothetical genes and proteins. Other organizations, such as the Genome Bioinformatics Group at the University of California, Santa Cruz, and Ensembl http://www.ensembl.org present additional data and annotation and powerful tools for visualizing and searching it. Computer programs have been developed to analyze the data, because the data itself is difficult to interpret without such programs.
+
+The process of identifying the boundaries between genes and other features in a raw DNA sequence is called genome annotation and is the domain of bioinformatics. While expert biologists make the best annotators, their work proceeds slowly, and computer programs are increasingly used to meet the high-throughput demands of genome sequencing projects. The best current technologies for annotation make use of statistical models that take advantage of parallels between DNA sequences and human language, using concepts from computer science such as formal grammars.
+
+All humans have unique gene sequences. Therefore the data published by the HGP does not represent the exact sequence of every individual's genome. It is the combined "reference genome" of a small number of anonymous donors. The HGP genome is a scaffold for future work in identifying differences among individuals. Most of the current effort in identifying differences among individuals involves single-nucleotide polymorphisms and the HapMap.
+
+=== Findings ===
+Key findings of the draft (2001) and complete (2004) genome sequences include:
+
+1. There are approximately 20,500 http://www.genome.gov/12011238 genes in human beings, the same range as in mice. 
+
+2. The human genome has significantly more segmental duplications (nearly identical, repeated sections of DNA) than other mammalian genomes. These sections may underline the creation of new primate-specific genes.
+
+3. At the time when the draft sequence was published fewer than 7% of protein families appeared to be vertebrate specific. 
+
+=== Accomplishment ===
+
+The first printout of the human genome to be presented as a series of books, displayed at the Wellcome Collection, London
+
+The Human Genome Project was started in 1990 with the goal of sequencing and identifying all three billion chemical units in the human genetic instruction set, finding the genetic roots of disease and then developing treatments. It is considered a Mega Project because the human genome has approximately 3.3 billion base-pairs. With the sequence in hand, the next step was to identify the genetic variants that increase the risk for common diseases like cancer and diabetes. 
+
+It was far too expensive at that time to think of sequencing patients’ whole genomes. So the National Institutes of Health embraced the idea for a "shortcut", which was to look just at sites on the genome where many people have a variant DNA unit. The theory behind the shortcut was that, since the major diseases are common, so too would be the genetic variants that caused them. Natural selection keeps the human genome free of variants that damage health before children are grown, the theory held, but fails against variants that strike later in life, allowing them to become quite common. (In 2002 the National Institutes of Health started a $138 million project called the HapMap to catalog the common variants in European, East Asian and African genomes.) 
+
+The genome was broken into smaller pieces; approximately 150,000 base pairs in length. These pieces were then ligated into a type of vector known as "bacterial artificial chromosomes", or BACs, which are derived from bacterial chromosomes which have been genetically engineered. The vectors containing the genes can be inserted into bacteria where they are copied by the bacterial DNA replication machinery. Each of these pieces was then sequenced separately as a small "shotgun" project and then assembled. The larger, 150,000 base pairs go together to create chromosomes. This is known as the "hierarchical shotgun" approach, because the genome is first broken into relatively large chunks, which are then mapped to chromosomes before being selected for sequencing. 
+
+Funding came from the US government through the National Institutes of Health in the United States, and a UK charity organization, the Wellcome Trust, as well as numerous other groups from around the world. The funding supported a number of large sequencing centers including those at Whitehead Institute, the Sanger Centre, Washington University in St. Louis, and Baylor College of Medicine. 
+
+== Public versus private approaches ==
+In 1998, a similar, privately funded quest was launched by the American researcher Craig Venter, and his firm Celera Genomics. Venter was a scientist at the NIH during the early 1990s when the project was initiated. The $300,000,000 Celera effort was intended to proceed at a faster pace and at a fraction of the cost of the roughly $3 billion publicly funded project.
+
+Celera used a technique called whole genome shotgun sequencing, employing pairwise end sequencing, which had been used to sequence bacterial genomes of up to six million base pairs in length, but not for anything nearly as large as the three billion base pair human genome.
+
+Celera initially announced that it would seek patent protection on "only 200–300" genes, but later amended this to seeking "intellectual property protection" on "fully-characterized important structures" amounting to 100–300 targets. The firm eventually filed preliminary ("place-holder") patent applications on 6,500 whole or partial genes.
+Celera also promised to publish their findings in accordance with the terms of the 1996 "Bermuda Statement", by releasing new data annually (the HGP released its new data daily), although, unlike the publicly funded project, they would not permit free redistribution or scientific use of the data. The publicly funded competitor UC Santa Cruz was compelled to publish the first draft of the human genome before Celera for this reason. On July 7, 2000, the UCSC Genome Bioinformatics Group released a first working draft on the web. The scientific community downloaded about 500 GB of information from the UCSC genome server in the first 24 hours of free and unrestricted access to the first ever assembled blueprint of our human species. 
+
+In March 2000, President Clinton announced that the genome sequence could not be patented, and should be made freely available to all researchers. The statement sent Celera's stock plummeting and dragged down the biotechnology-heavy Nasdaq. The biotechnology sector lost about $50 billion in market capitalization in two days.
+
+Although the working draft was announced in June 2000, it was not until February 2001 that Celera and the HGP scientists published details of their drafts. Special issues of Nature (which published the publicly funded project's scientific paper) and Science (which published Celera's paper ) described the methods used to produce the draft sequence and offered analysis of the sequence. These drafts covered about 83% of the genome (90% of the euchromatic regions with 150,000 gaps and the order and orientation of many segments not yet established). In February 2001, at the time of the joint publications, press releases announced that the project had been completed by both groups. Improved drafts were announced in 2003 and 2005, filling in to ≈92% of the sequence currently.
+
+Many believe that the competition proved to be very good for the project, spurring the public groups to modify their strategy in order to accelerate progress. The rivals at UC Santa Cruz initially agreed to pool their data, but the agreement fell apart when Celera refused to deposit its data in the unrestricted public database GenBank. Celera had incorporated the public data into their genome, but forbade the public effort to use Celera data.
+
+HGP is the most well known of many international genome projects aimed at sequencing the DNA of a specific organism. While the human DNA sequence offers the most tangible benefits, important developments in biology and medicine are predicted as a result of the sequencing of model organisms, including mice, fruit flies, zebrafish, yeast, nematodes, plants, and many microbial organisms and parasites.
+
+In 2004, researchers from the International Human Genome Sequencing Consortium (IHGSC) of the HGP announced a new estimate of 20,000 to 25,000 genes in the human genome. Previously 30,000 to 40,000 had been predicted, while estimates at the start of the project reached up to as high as 2,000,000. The number continues to fluctuate and it is now expected that it will take many years to agree on a precise value for the number of genes in the human genome.
+
+== Genome donors ==
+In the IHGSC international public-sector Human Genome Project (HGP), researchers collected blood (female) or sperm (male) samples from a large number of donors. Only a few of many collected samples were processed as DNA resources. Thus the donor identities were protected so neither donors nor scientists could know whose DNA was sequenced. DNA clones from many different libraries were used in the overall project, with most of those libraries being created by Dr. Pieter J. de Jong (or rather the researchers in his lab). Much of the sequence (>70%) of the reference genome produced by the public HGP came from a single anonymous male donor from Buffalo, New York (code name RP11). 
+
+HGP scientists used white blood cells from the blood of two male and two female donors (randomly selected from 20 of each) – each donor yielding a separate DNA library. One of these libraries (RP11) was used considerably more than others, due to quality considerations. One minor technical issue is that male samples contain just over half as much DNA from the sex chromosomes (one X chromosome and one Y chromosome) compared to female samples (which contain two X chromosomes). The other 22 chromosomes (the autosomes) are the same for both sexes.
+
+Although the main sequencing phase of the HGP has been completed, studies of DNA variation continue in the International HapMap Project, whose goal is to identify patterns of single-nucleotide polymorphism (SNP) groups (called haplotypes, or “haps”). The DNA samples for the HapMap came from a total of 270 individuals: Yoruba people in Ibadan, Nigeria; Japanese people in Tokyo; Han Chinese in Beijing; and the French Centre d’Etude du Polymorphisms Humain (CEPH) resource, which consisted of residents of the United States having ancestry from Western and Northern Europe.
+
+In the Celera Genomics private-sector project, DNA from five different individuals were used for sequencing. The lead scientist of Celera Genomics at that time, Craig Venter, later acknowledged (in a public letter to the journal Science) that his DNA was one of 21 samples in the pool, five of which were selected for use. 
+
+In 2007, a team led by Jonathan Rothberg published James Watson's entire genome, unveiling the six-billion-nucleotide genome of a single individual for the first time.
+
+== Benefits ==
+The work on interpretation of genome data is still in its initial stages. It is anticipated that detailed knowledge of the human genome will provide new avenues for advances in medicine and biotechnology. Clear practical results of the project emerged even before the work was finished. For example, a number of companies, such as Myriad Genetics, started offering easy ways to administer genetic tests that can show predisposition to a variety of illnesses, including breast cancer, hemostasis disorders, cystic fibrosis, liver diseases and many others. Also, the etiologies for cancers, Alzheimer's disease and other areas of clinical interest are considered likely to benefit from genome information and possibly may lead in the long term to significant advances in their management. 
+
+There are also many tangible benefits for biological scientists. For example, a researcher investigating a certain form of cancer may have narrowed down his/her search to a particular gene. By visiting the human genome database on the World Wide Web, this researcher can examine what other scientists have written about this gene, including (potentially) the three-dimensional structure of its product, its function(s), its evolutionary relationships to other human genes, or to genes in mice or yeast or fruit flies, possible detrimental mutations, interactions with other genes, body tissues in which this gene is activated, and diseases associated with this gene or other datatypes. Further, deeper understanding of the disease processes at the level of molecular biology may determine new therapeutic procedures. Given the established importance of DNA in molecular biology and its central role in determining the fundamental operation of cellular processes, it is likely that expanded knowledge in this area will facilitate medical advances in numerous areas of clinical interest that may not have been possible without them. 
+
+The analysis of similarities between DNA sequences from different organisms is also opening new avenues in the study of evolution. In many cases, evolutionary questions can now be framed in terms of molecular biology; indeed, many major evolutionary milestones (the emergence of the ribosome and organelles, the development of embryos with body plans, the vertebrate immune system) can be related to the molecular level. Many questions about the similarities and differences between humans and our closest relatives (the primates, and indeed the other mammals) are expected to be illuminated by the data in this project. 
+
+==Ethical, legal and social issues==
+At the onset of the Human Genome Project several ethical, legal, and social concerns were raised in regards to how increased knowledge of the human genome could be used to discriminate against people. One of the main concerns of most individuals was the fear that both employers and health insurance companies would refuse to hire individuals or refuse to provide insurance to people because of a health concern indicated by someone's genes. In 1996 the United States passed the Health Insurance Portability and Accountability Act (HIPAA) which protects against the unauthorized and non-consensual release of individually identifiable health information to any entity not actively engaged in the provision of healthcare services to a patient. 
+ 
+Along with identifying all of the approximately 20,000–25,000 genes in the human genome, the Human Genome Project also sought to address the ethical, legal, and social issues that were created by the onset of the project. For that the Ethical, Legal, and Social Implications (ELSI) program was founded in 1990. Five percent of the annual budget was allocated to address the ELSI arising from the project. 
+
+Whilst the project may offer significant benefits to medicine and scientific research, some authors have emphasised the need to address the potential social consequences of mapping the human genome. “Molecularising disease and their possible cure will have a profound impact on what patients expect from medical help and the new generation of doctors’ perception of illness.” 
+
+== See also ==
+
+== References ==
+
+==Further reading==
+* 361 pages. Examines the intellectual origins, history, and motivations of the project to map the human genome; draws on interviews with key figures.
+*
+* 
+
+== External links ==
+* Human Genome Project official information page
+
+* Delaware Valley Personalized Medicine Project Uses data from the Human Genome Project to help make medicine personal
+* National Human Genome Research Institute (NHGRI). NHGRI led the National Institutes of Health's contribution to the International Human Genome Project. This project, which had as its primary goal the sequencing of the three thousand million base pairs that make up human genome, was successfully completed in April 2003.
+* Human Genome News. Published from 1989 to 2002 by the US Department of Energy, this newsletter was a major communications method for coordination of the Human Genome Project. Complete online archives are available.
+* Project Gutenberg hosts e-texts for Human Genome Project, titled Human Genome Project, Chromosome Number # (# denotes 01-22, X and Y). This information is raw sequence, released in November 2002; access to entry pages with download links is available through http://www.gutenberg.org/etext/3501 for Chromosome 1 sequentially to http://www.gutenberg.org/etext/3524 for the Y Chromosome. Note that this sequence might not be considered definitive due to ongoing revisions and refinements. In addition to the chromosome files, there is a supplementary information file dated March 2004 which contains additional sequence information.
+* The HGP information pages Department of Energy's portal to the international Human Genome Project, Microbial Genome Program, and Genomics:GTL systems biology for energy and environment
+* yourgenome.org: The Sanger Institute public information pages has general and detailed primers on DNA, genes and genomes, the Human Genome Project and science spotlights.
+* Ensembl project, an automated annotation system and browser for the human genome
+* UCSC genome browser, This site contains the reference sequence and working draft assemblies for a large collection of genomes. It also provides a portal to the ENCODE project.
+* Nature magazine's human genome gateway, including the HGP's paper on the draft genome sequence
+* Wellcome Trust Human Genome website A free resource allowing you to explore the human genome, your health and your future.
+* Learning about the Human Genome. Part 1: Challenge to Science Educators. ERIC Digest.
+* Learning about the Human Genome. Part 2: Resources for Science Educators. ERIC Digest.
+* Patenting Life by Merrill Goozner
+* Prepared Statement of Craig Venter of Celera Venter discusses Celera's progress in deciphering the human genome sequence and its relationship to healthcare and to the federally funded Human Genome Project.
+* Cracking the Code of Life Companion website to 2-hour NOVA program documenting the race to decode the genome, including the entire program hosted in 16 parts in either QuickTime or RealPlayer format.
+* 
+
+

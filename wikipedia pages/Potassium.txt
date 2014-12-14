@@ -1,0 +1,178 @@
+[[Potassium]]
+
+Potassium is a chemical element with symbol K (from Neo-Latin kalium) and atomic number 19. Elemental potassium is a soft silvery-white alkali metal that oxidizes rapidly in air and is very reactive with water, generating sufficient heat to ignite the hydrogen emitted in the reaction and burning with a lilac flame. Naturally occurring potassium is composed of three isotopes, one of which, 40K, is radioactive. Traces (0.012%) of this isotope are found in all potassium making it the most common radioactive element in the human body and in many biological materials, as well as in common building substances such as concrete.
+
+Because potassium and sodium are chemically very similar, their salts were not at first differentiated. The existence of multiple elements in their salts was suspected in 1702, and this was proven in 1807 when potassium and sodium were individually isolated from different salts by electrolysis. Potassium in nature occurs only in ionic salts. As such, it is found dissolved in seawater (which is 0.04% potassium by weight ), and is part of many minerals.
+
+Most industrial chemical applications of potassium employ the relatively high solubility in water of potassium compounds, such as potassium soaps. Potassium metal has only a few special applications, being replaced in most chemical reactions with sodium metal.
+
+Potassium ions are necessary for the function of all living cells. Potassium ion diffusion is a key mechanism in nerve transmission, and potassium depletion in animals, including humans, results in various cardiac dysfunctions. Potassium accumulates in plant cells, and thus fresh fruits and vegetables are a good dietary source of it. This resulted in potassium first being isolated from potash, the ashes of plants, giving the element its name. For the same reason, heavy crop production rapidly depletes soils of potassium, and agricultural fertilizers consume 95% of global potassium chemical production. Greenwood, p. 73 Conversely, plants are intolerant of sodium ions and thus sodium is present in only low concentrations, except specialist halophytes.
+
+==Properties==
+
+===Physical===
+The flame test of potassium
+Potassium is the second least dense metal after lithium. It is a soft solid that has a low melting point and can easily be cut with a knife. Freshly cut potassium is silvery in appearance, but it begins to tarnish toward gray immediately after being exposed to air. Greenwood, p. 76 In a flame test, potassium and its compounds emit a lilac color with a peak emission wavelength of 766.5 nm (see movie below). Greenwood, p. 75 
+
+===Chemical===
+Potassium atoms have 19 electrons, which is one more than the extremely stable configuration of the noble gas argon. Because of this and its low first ionization energy of 418.8 kJ/mol, the potassium atom is thus much more likely to lose the "extra" electron, acquiring a positive charge, than to gain one and acquire a negative charge; however, such negatively charged alkalide ions (K–) are known. This process requires so little energy that potassium is readily oxidized by atmospheric oxygen. In contrast, the second ionization energy is very high (3052 kJ/mol), because removal of two electrons breaks the stable noble gas electronic configuration (the configuration of the inert argon). Potassium therefore does not readily form compounds with the oxidation state of +2 or higher. 
+
+Potassium is an extremely active metal, which reacts violently with oxygen and water in air. With oxygen it forms potassium peroxide, and with water potassium hydroxide. The reaction of potassium with water is dangerous because of its violent exothermic character and the production of hydrogen gas. Hydrogen reacts again with atmospheric oxygen, producing water, which reacts with the remaining potassium. This reaction requires only traces of water; because of this, potassium and its liquid alloy with sodium — NaK — are potent desiccants that can be used to dry solvents prior to distillation. Burkhardt, p. 35 
+
+Because of the sensitivity of potassium to water and air, reactions with other elements are possible only in inert atmosphere, such as argon gas using air-free techniques. Potassium does not react with most hydrocarbons such as mineral oil or kerosene. It readily dissolves in liquid ammonia, up to 480 g per 1000 g of ammonia at 0 °C. Depending on the concentration, the ammonia solutions are blue to yellow, and their electrical conductivity is similar to that of liquid metals. In a pure solution, potassium slowly reacts with ammonia to form KNH2, but this reaction is accelerated by minute amounts of transition metal salts. Burkhardt, p. 32 Because it can reduce the salts to the metal, potassium is often used as the reductant in the preparation of finely divided metals from their salts by the Rieke method. For example, the preparation of Rieke magnesium employs potassium as the reductant:
+
+:MgCl2 + 2 K → Mg + 2 KCl
+
+===Energy levels===
+All alkali metals are similar in this respect: see Zeeman effect for more information.
+
+===Compounds===
+The only common oxidation state for potassium is +1. Potassium metal is a powerful reducing agent that is easily oxidized to the monopositive cation, K+. Once oxidized, it is very stable and difficult to reduce back to the metal. 
+
+Potassium hydroxide reacts readily with carbon dioxide to produce potassium carbonate, and is used to remove traces of the gas from air. In general, potassium compounds have excellent water solubility, owing to the high hydration energy of the K+ ion. The potassium ion is colorless in water and is very difficult to precipitate; possible precipitation methods include reactions with sodium tetraphenylborate, hexachloroplatinic acid, and sodium cobaltinitrite. 
+
+Potassium oxidizes faster than most metals and forms oxides with oxygen-oxygen bonds, as do all alkali metals except lithium. Three species are formed during the reaction: potassium oxide, potassium peroxide, and potassium superoxide, which contain three different oxygen-based ions: oxide (), peroxide (), and superoxide (). The last two species, especially the superoxide, are rare and are formed only in reaction with very electropositive metals; these species contain oxygen-oxygen bonds. All potassium-oxygen binary compounds are known to react with water violently, forming potassium hydroxide. This compound is a very strong alkali, and 1.21 kg of it can dissolve in as little as a liter of water. Schultz, p. 94 
+:Structure of solid potassium superoxide (KO2).
+
+====In aqueous solution====
+Potassium compounds are typically highly ionic and thus most of them are soluble in water. The main species in water are the aquated complexes + where n = 6 and 7. Lincoln, S. F.; Richens, D. T. and Sykes, A. G. "Metal Aqua Ions" in J. A. McCleverty and T. J. Meyer (eds.) Comprehensive Coordination Chemistry II, Vol. 1, pp. 515–555, ISBN 978-0-08-043748-4. Some of the few poorly soluble potassium salts include potassium tetraphenylborate, potassium hexachloroplatinate, and potassium cobaltinitrite. 
+
+===Isotopes===
+
+There are 24 known isotopes of potassium, three of which occur naturally: 39K (93.3%), 40K (0.0117%), and 41K (6.7%). Naturally occurring 40K has a half-life of 1.250×109 years. It decays to stable 40Ar by electron capture or positron emission (11.2%) or to stable 40Ca by beta decay (88.8%). 
+The decay of 40K to 40Ar enables a commonly used method for dating rocks. The conventional K-Ar dating method depends on the assumption that the rocks contained no argon at the time of formation and that all the subsequent radiogenic argon (i.e., 40Ar) was quantitatively retained. Minerals are dated by measurement of the concentration of potassium and the amount of radiogenic 40Ar that has accumulated. The minerals that are best suited for dating include biotite, muscovite, metamorphic hornblende, and volcanic feldspar; whole rock samples from volcanic flows and shallow instrusives can also be dated if they are unaltered. Outside of dating, potassium isotopes have been used as tracers in studies of weathering and for nutrient cycling studies because potassium is a macronutrient required for life. 
+
+40K occurs in natural potassium (and thus in some commercial salt substitutes) in sufficient quantity that large bags of those substitutes can be used as a radioactive source for classroom demonstrations. In healthy animals and people, 40K represents the largest source of radioactivity, greater even than 14C. In a human body of 70 kg mass, about 4,400 nuclei of 40K decay per second. The activity of natural potassium is 31 Bq/g. 
+
+===Creation and occurrence===
+
+Potassium in feldspar
+Potassium is formed in the universe by nucleosynthesis from lighter atoms. Potassium is principally created in Type II supernovas via the explosive oxygen-burning process. 40K is also formed in s-process nucleosynthesis and the neon burning process.
+
+Elemental potassium does not occur in nature because of its high reactivity. It reacts violently with water (see section Precautions below) and also reacts with oxygen. In its various compounds, potassium makes up about 2.6% of the weight of the Earth's crust and is the seventh most abundant element, similar in abundance to sodium at approximately 1.8% of the crust. Greenwood, p. 69 It is the 17th most abundant element by weight in the entire planet and 20th most abundant in the Solar System. The potassium concentration in seawater is 0.39 g/L (0.039 wt/v%), far less abundant than sodium at 10.8 g/L (1.08 wt/v%). 
+
+Orthoclase (potassium feldspar) is a common rock-forming mineral. Granite for example contains 5% potassium, which is well above the average in the Earth's crust. Sylvite (KCl), carnallite (KCl·MgCl2·6(H2O)), kainite (MgSO4·KCl·3H2O) and langbeinite (MgSO4·K2SO4) are the minerals found in large evaporite deposits worldwide. The deposits often show layers starting with the least soluble at the bottom and the most soluble on top. Deposits of niter (potassium nitrate) are formed by decomposition of organic material in contact with atmosphere, mostly in caves; because of the good water solubility of niter the formation of larger deposits requires special environmental conditions. 
+
+==History==
+Neither elemental potassium nor potassium salts (as separate entities from other salts) were known in Roman times, and the Latin name of the element, kalium, is not Classical Latin but rather neo-Latin. Kalium was taken from the word "alkali", which in turn came from al-qalyah "plant ashes." The similar-sounding English term alkali is from this same root – potassium in Modern Standard Arabic is بوتاسيوم būtāsyūm.
+
+Humphry Davy 
+The English name for the element potassium comes from the word "potash", and refers to the method by which potash was obtained – leaching the ash of burnt wood or tree leaves and evaporating the solution in a pot. Potash is primarily a mixture of potassium salts because plants have little or no sodium content, and the rest of a plant's major mineral content consists of calcium salts of relatively low solubility in water. While potash has been used since ancient times, it was not understood for most of its history to be a fundamentally different substance from sodium mineral salts. Georg Ernst Stahl obtained experimental evidence that led him to suggest the fundamental difference of sodium and potassium salts in 1702, and Henri Louis Duhamel du Monceau was able to prove this difference in 1736. The exact chemical composition of potassium and sodium compounds, and the status as chemical element of potassium and sodium, was not known then, and thus Antoine Lavoisier did not include the alkali in his list of chemical elements in 1789. 
+
+Potassium metal was first isolated in 1807 in England by Sir Humphry Davy, who derived it from caustic potash (KOH, potassium hydroxide) by the use of electrolysis of the molten salt with the newly discovered voltaic pile. Potassium was the first metal that was isolated by electrolysis. Later in the same year, Davy reported extraction of the metal sodium from a mineral derivative (caustic soda, NaOH, or lye) rather than a plant salt, by a similar technique, demonstrating that the elements, and thus the salts, are different. Although the production of potassium and sodium metal should have shown that both are elements, it took some time before this view was universally accepted. 
+
+For a long time the only significant applications for potash were the production of glass, bleach, soap and gunpowder as potassium nitrate. Potassium soaps from animal fats and vegetable oils were especially prized, as they tended to be more water-soluble and of softer texture, and were known as soft soaps. The discovery by Justus Liebig in 1840 that potassium is a necessary element for plants and that most types of soil lack potassium caused a steep rise in demand for potassium salts. Wood-ash from fir trees was initially used as a potassium salt source for fertilizer, but, with the discovery in 1868 of mineral deposits containing potassium chloride near Staßfurt, Germany, the production of potassium-containing fertilizers began at an industrial scale. Other potash deposits were discovered, and by the 1960s Canada became the dominant producer. 
+
+==Commercial production==
+ Sylvite from New Mexico
+Potassium salts such as carnallite, langbeinite, polyhalite, and sylvite form extensive deposits in ancient lake bottoms and seabeds, making extraction of potassium salts in these environments commercially viable. The principal source of potassium – potash – is mined in Canada, Russia, Belarus, Germany, Israel, United States, Jordan, and other places around the world. The first mined deposits were located near Staßfurt, Germany, but the deposits span from Great Britain over Germany into Poland. They are located in the Zechstein and were deposited in the Middle to Late Permian. The largest deposits ever found lie 1000 m below the surface of the Canadian province of Saskatchewan. The deposits are located in the Elk Point Group produced in the Middle Devonian. Saskatchewan, where several large mines have operated since the 1960s, pioneered the use of freezing of wet sands (the Blairmore formation) in order to drive mine shafts through them. The main potash mining company in Saskatchewan is the Potash Corporation of Saskatchewan. The water of the Dead Sea is used by Israel and Jordan as a source for potash, while the concentration in normal oceans is too low for commercial production at current prices. 
+
+Monte Kali, a potash mining and beneficiation waste heap in Hesse, Germany, consisting mostly of sodium chloride.
+
+Several methods are applied to separate the potassium salts from the present sodium and magnesium compounds. The most-used method is to precipitate some compounds relying on the solubility difference of the salts at different temperatures. Electrostatic separation of the ground salt mixture is also used in some mines. The resulting sodium and magnesium waste is either stored underground or piled up in slag heaps. Most of the mined potassium minerals end up as potassium chloride after processing. The mineral industry refers to potassium chloride either as potash, muriate of potash, or simply MOP. 
+
+Pure potassium metal can be isolated by electrolysis of its hydroxide in a process that has changed little since Davy. Although the electrolysis process was developed and used in industrial scale in the 1920s the thermal method by reacting sodium with potassium chloride in a chemical equilibrium reaction became the dominant method in the 1950s. The production of sodium potassium alloys is possible by changing the reaction time and the amount of sodium used in the reaction. The Griesheimer process employing the reaction of potassium fluoride with calcium carbide was also used to produce potassium. 
+:Na + KCl → NaCl + K (Thermal method)
+:2 KF + CaC2 → 2 K + CaF2 + 2 C (Griesheimer process)
+
+Reagent-grade potassium metal cost about $10.00/pound ($22/kg) in 2010 when purchased in tonne quantities. Lower purity metal is considerably cheaper. The market is volatile due to the difficulty of the long-term storage of the metal. It must be stored under a dry inert gas atmosphere or anhydrous mineral oil to prevent the formation of a surface layer of potassium superoxide. This superoxide is a pressure-sensitive explosive that will detonate when scratched. The resulting explosion will usually start a fire that is difficult to extinguish. Burkhardt, p. 34 
+
+==Biological role==
+
+===Biochemical function===
+
+The action of the sodium-potassium pump is an example of primary active transport. The two carrier proteins on the left are using ATP to move sodium out of the cell against the concentration gradient. The proteins on the right are using secondary active transport to move potassium into the cell.
+
+Potassium is the eighth or ninth most common element by mass (0.2%) in the human body, so that a 60 kg adult contains a total of about 120 g of potassium. The body has about as much potassium as sulfur and chlorine, and only the major minerals calcium and phosphorus are more abundant. 
+
+Potassium cations are important in neuron (brain and nerve) function, and in influencing osmotic balance between cells and the interstitial fluid, with their distribution mediated in all animals (but not in all plants) by the so-called Na+/K+-ATPase pump. This ion pump uses ATP to pump three sodium ions out of the cell and two potassium ions into the cell, thus creating an electrochemical gradient over the cell membrane. In addition, the highly selective potassium ion channels (which are tetramers) are crucial for the hyperpolarization, in for example neurons, after an action potential is fired. The most recently resolved potassium ion channel is KirBac3.1, which gives a total of five potassium ion channels (KcsA, KirBac1.1, KirBac3.1, KvAP, and MthK) with a determined structure. All five are from prokaryotic species.
+
+Potassium can be detected by taste because it triggers three of the five types of taste sensations, according to concentration. Dilute solutions of potassium ions taste sweet, allowing moderate concentrations in milk and juices, while higher concentrations become increasingly bitter/alkaline, and finally also salty to the taste. The combined bitterness and saltiness of high-potassium solutions makes high-dose potassium supplementation by liquid drinks a palatability challenge. 
+
+===Membrane polarization===
+Potassium is also important in preventing muscle contraction and the sending of all nerve impulses in animals through action potentials. By nature of their electrostatic and chemical properties, K+ ions are larger than Na+ ions, and ion channels and pumps in cell membranes can distinguish between the two types of ions, actively pumping or passively allowing one of the two ions to pass, while blocking the other. 
+
+A shortage of potassium in body fluids may cause a potentially fatal condition known as hypokalemia, typically resulting from vomiting, diarrhea, and/or increased diuresis. Deficiency symptoms include muscle weakness, paralytic ileus, ECG abnormalities, decreased reflex response and in severe cases respiratory paralysis, alkalosis and cardiac arrhythmia. 
+
+===Filtration and excretion===
+Potassium is an essential macromineral in human nutrition; it is the major cation (positive ion) inside animal cells, and it is thus important in maintaining fluid and electrolyte balance in the body. Sodium makes up most of the cations of blood plasma at a reference range of about 145 mmol/L (3.345 g)(1 mmol/L = 1mEq/L), and potassium makes up most of the cell fluid cations at about 150 mmol/L (4.8 g). Plasma is filtered through the glomerulus of the kidneys in enormous amounts, about 180 liters per day. Thus 602 g of sodium and 33 g of potassium are filtered each day. All but the 1–10 g of sodium and the 1–4 g of potassium likely to be in the diet must be reabsorbed. Sodium must be reabsorbed in such a way as to keep the blood volume exactly right and the osmotic pressure correct; potassium must be reabsorbed in such a way as to keep serum concentration as close as possible to 4.8 mmol/L (about 0.190 g/L). Sodium pumps in the kidneys must always operate to conserve sodium. Potassium must sometimes be conserved also, but, as the amount of potassium in the blood plasma is very small and the pool of potassium in the cells is about thirty times as large, the situation is not so critical for potassium. Since potassium is moved passively in counter flow to sodium in response to an apparent (but not actual) Donnan equilibrium, the urine can never sink below the concentration of potassium in serum except sometimes by actively excreting water at the end of the processing. Potassium is secreted twice and reabsorbed three times before the urine reaches the collecting tubules. At that point, it usually has about the same potassium concentration as plasma. At the end of the processing, potassium is secreted one more time if the serum levels are too high.
+
+If potassium were removed from the diet, there would remain a minimum obligatory kidney excretion of about 200 mg per day when the serum declines to 3.0–3.5 mmol/L in about one week, and can never be cut off completely, resulting in hypokalemia and even death. 
+
+The potassium moves passively through pores in the cell membrane. When ions move through pumps there is a gate in the pumps on either side of the cell membrane and only one gate can be open at once. As a result, approximately 100 ions are forced through per second. Pores have only one gate, and there only one kind of ion can stream through, at 10 million to 100 million ions per second. ; for a diagram of the potassium pores are viewed, see The pores require calcium in order to open although it is thought that the calcium works in reverse by blocking at least one of the pores. ; includes a detailed picture of atoms in the pump. Carbonyl groups inside the pore on the amino acids mimic the water hydration that takes place in water solution by the nature of the electrostatic charges on four carbonyl groups inside the pore. 
+
+===In diet===
+
+====Adequate intake====
+A potassium intake sufficient to support life can in general be guaranteed by eating a variety of foods. Clear cases of potassium deficiency (as defined by symptoms, signs and a below-normal blood level of the element) are rare in healthy individuals. Foods rich in potassium include yam, parsley, dried apricots, dried milk, chocolate, various nuts (especially almonds and pistachios), potatoes, bamboo shoots, bananas, avocados, soybeans, and bran, although it is also present in sufficient quantities in most fruits, vegetables, meat and fish. 
+
+====Optimal intake====
+Epidemiological studies and studies in animals subject to hypertension indicate that diets high in potassium can reduce the risk of hypertension and possibly stroke (by a mechanism independent of blood pressure), and a potassium deficiency combined with an inadequate thiamine intake has produced heart disease in rats. There is some debate regarding the optimal amount of dietary potassium. For example, the 2004 guidelines of the Institute of Medicine specify a DRI of 4,700 mg of potassium (100 mEq), though most Americans consume only half that amount per day, which would make them formally deficient as regards this particular recommendation. Likewise, in the European Union, in particular in Germany and Italy, insufficient potassium intake is somewhat common. Italian researchers reported in a 2011 meta-analysis that a 1.64 g higher daily intake of potassium was associated with a 21% lower risk of stroke. 
+
+====Medical supplementation and disease====
+Supplements of potassium in medicine are most widely used in conjunction with loop diuretics and thiazides, classes of diuretics that rid the body of sodium and water, but have the side-effect of also causing potassium loss in urine. A variety of medical and non-medical supplements are available. Potassium salts such as potassium chloride may be dissolved in water, but the salty/bitter taste of high concentrations of potassium ion make palatable high concentration liquid supplements difficult to formulate. Typical medical supplemental doses range from 10 mmol (400 mg, about equal to a cup of milk or 6 USfloz. of orange juice) to 20 mmol (800 mg) per dose. Potassium salts are also available in tablets or capsules, which for therapeutic purposes are formulated to allow potassium to leach slowly out of a matrix, as very high concentrations of potassium ion (which might occur next to a solid tablet of potassium chloride) can kill tissue, and cause injury to the gastric or intestinal mucosa. For this reason, non-prescription supplement potassium pills are limited by law in the US to only 99 mg of potassium.
+
+Individuals suffering from kidney diseases may suffer adverse health effects from consuming large quantities of dietary potassium. End stage renal failure patients undergoing therapy by renal dialysis must observe strict dietary limits on potassium intake, as the kidneys control potassium excretion, and buildup of blood concentrations of potassium (hyperkalemia) may trigger fatal cardiac arrhythmia. 
+
+==Applications==
+
+===Fertilizer===
+Potassium and magnesium sulfate fertilizer
+Potassium ions are an essential component of plant nutrition and are found in most soil types. They are used as a fertilizer in agriculture, horticulture, and hydroponic culture in the form of chloride (KCl), sulfate (), or nitrate (). Agricultural fertilizers consume 95% of global potassium chemical production, and about 90% of this potassium is supplied as KCl. The potassium content of most plants range from 0.5% to 2% of the harvested weight of crops, conventionally expressed as amount of . Modern high-yield agriculture depends upon fertilizers to replace the potassium lost at harvest. Most agricultural fertilizers contain potassium chloride, while potassium sulfate is used for chloride-sensitive crops or crops needing higher sulfur content. The sulfate is produced mostly by decomposition of the complex minerals kainite (MgSO4·KCl·3H2O) and langbeinite (MgSO4·K2SO4). Only a very few fertilizers contain potassium nitrate. In 2005, about 93% of world potassium production was consumed by the fertilizer industry. 
+
+===Food===
+The potassium cation is a nutrient necessary for human life and health. Potassium chloride is used as a substitute for table salt by those seeking to reduce sodium intake so as to control hypertension. The USDA lists tomato paste, orange juice, beet greens, white beans, potatoes, bananas and many other good dietary sources of potassium, ranked in descending order according to potassium content. 
+
+Potassium sodium tartrate (KNaC4H4O6, Rochelle salt) is the main constituent of baking powder; it is also used in the silvering of mirrors. Potassium bromate () is a strong oxidizer (E924), used to improve dough strength and rise height. Potassium bisulfite () is used as a food preservative, for example in wine and beer-making (but not in meats). It is also used to bleach textiles and straw, and in the tanning of leathers. 
+
+===Industrial===
+Major potassium chemicals are potassium hydroxide, potassium carbonate, potassium sulfate, and potassium chloride. Megatons of these compounds are produced annually. Schultz 
+
+Potassium hydroxide is a strong base, which is used in industry to neutralize strong and weak acids, to control pH and to manufacture potassium salts. It is also used to saponify fats and oils, in industrial cleaners, and in hydrolysis reactions, for example of esters. Schultz, p. 95 
+
+Potassium nitrate (KNO3) or saltpeter is obtained from natural sources such as guano and evaporites or manufactured via the Haber process; it is the oxidant in gunpowder (black powder) and an important agricultural fertilizer. Potassium cyanide (KCN) is used industrially to dissolve copper and precious metals, in particular silver and gold, by forming complexes. Its applications include gold mining, electroplating, and electroforming of these metals; it is also used in organic synthesis to make nitriles. Potassium carbonate ( or potash) is used in the manufacture of glass, soap, color TV tubes, fluorescent lamps, textile dyes and pigments. Schultz, p. 99 Potassium permanganate (KMnO4) is an oxidizing, bleaching and purification substance and is used for production of saccharin. Potassium chlorate (KClO3) is added to matches and explosives. Potassium bromide (KBr) was formerly used as a sedative and in photography. 
+
+Potassium chromate (K2CrO4) is used in inks, dyes, stains (bright yellowish-red color); in explosives and fireworks; in the tanning of leather, in fly paper and safety matches, but all these uses are due to the properties of chromate ion containment rather than potassium ions.
+
+====Niche uses====
+Potassium compounds are so pervasive that thousands of small uses are in place. The superoxide KO2 is an orange solid that acts as a portable source of oxygen and a carbon dioxide absorber. It is widely used in respiration systems in mines, submarines and spacecraft as it takes less volume than the gaseous oxygen. Greenwood, p. 74 
+: 4 KO2 + 2 CO2 → 2 K2CO3 + 3 O2
+
+Potassium cobaltinitrite is used as artist's pigment under the name of Aureolin or Cobalt Yellow. 
+
+====Laboratory uses====
+An alloy of sodium and potassium, NaK is a liquid used as a heat-transfer medium and a desiccant for producing dry and air-free solvents. It can also be used in reactive distillation. The ternary alloy of 12% Na, 47% K and 41% Cs has the lowest melting point of −78 °C of any metallic compound. 
+
+Metallic potassium is used in several types of magnetometers. 
+
+==Precautions==
+A reaction of potassium metal with water. Hydrogen is liberated that burns with a pink or lilac flame, the flame color owing to burning potassium vapor. Strongly alkaline potassium hydroxide is formed in solution.
+
+Potassium reacts very violently with water producing potassium hydroxide (KOH) and hydrogen gas.
+
+:2 K (s) + 2 H2O (l) → 2 KOH (aq) + H2↑ (g)
+
+This reaction is exothermic and releases enough heat to ignite the resulting hydrogen. It in turn may explode in the presence of oxygen. Potassium hydroxide is a strong alkali that causes skin burns. Finely divided potassium will ignite in air at room temperature. The bulk metal will ignite in air if heated. Because its density is 0.89 g/cm3, burning potassium floats in water that exposes it to atmospheric oxygen. Many common fire extinguishing agents, including water, either are ineffective or make a potassium fire worse. Nitrogen, argon, sodium chloride (table salt), sodium carbonate (soda ash), and silicon dioxide (sand) are effective if they are dry. Some Class D dry powder extinguishers designed for metal fires are also effective. These agents deprive the fire of oxygen and cool the potassium metal. 
+
+Potassium reacts violently with halogens and will detonate in the presence of bromine. It also reacts explosively with sulfuric acid. During combustion potassium forms peroxides and superoxides. These peroxides may react violently with organic compounds such as oils. Both peroxides and superoxides may react explosively with metallic potassium. 
+
+Because potassium reacts with water vapor present in the air, it is usually stored under anhydrous mineral oil or kerosene. Unlike lithium and sodium, however, potassium should not be stored under oil for longer than 6 months, unless in an inert (oxygen free) atmosphere, or under vacuum. After prolonged storage in air dangerous shock-sensitive peroxides can form on the metal and under the lid of the container, and can detonate upon opening. 
+
+Because of the highly reactive nature of potassium metal, it must be handled with great care, with full skin and eye protection and preferably an explosion-resistant barrier between the user and the metal. Ingestion of large amounts of potassium compounds can lead to hyperkalemia strongly influencing the cardiovascular system. Potassium chloride is used in the United States for executions via lethal injection. 
+
+==See also==
+
+==References==
+
+==Bibliography==
+* 
+* 
+* 
+* 
+
+==External links==
+* Potassium at The Periodic Table of Videos (University of Nottingham)
+
+*
+
+

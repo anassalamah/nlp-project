@@ -1,0 +1,93 @@
+[[Allosteric regulation]]
+
+Allosteric regulation of an enzyme
+
+In biochemistry, allosteric regulation is the regulation of an enzyme or other protein by binding an effector molecule at the protein's allosteric site (that is, a site other than the protein's active site). Allosteric sites allow effectors to bind to the protein, often resulting in a conformational change or other change in the effectiveness of the enzyme. Effectors that enhance the protein's activity are referred to as allosteric activators, whereas those that decrease the protein's activity are called allosteric inhibitors. The term allostery comes from the Greek allos (ἄλλος), "other", and stereos (στερεὀς), "solid (object)", in reference to the fact that the regulatory site of an allosteric protein is physically distinct from its active site. Allosteric regulations are a natural example of control loops, such as feedback from downstream products or feedforward from upstream substrates. Long-range allostery is especially important in cell signaling. 
+
+== Models of allosteric regulation ==
+
+A - Active site B - Allosteric site C - Substrate D - Inhibitor E - EnzymeThis is a diagram of allosteric regulation of an enzyme.
+
+Most allosteric effects can be explained by the concerted MWC model put forth by Monod, Wyman, and Changeux, J. Monod, J. Wyman, J.P. Changeux. (1965). On the nature of allosteric transitions:A plausible model. J. Mol. Biol., May;12:88-118. or by the sequential model described by Koshland, Nemethy, and Filmer. D.E. Jr Koshland, G. Némethy, D. Filmer (1966) Comparison of experimental binding data and theoretical models in proteins containing subunits. Biochemistry. Jan;5(1):365-8 Both postulate that enzyme subunits exist in one of two conformations, tensed (T) or relaxed (R), and that relaxed subunits bind substrate more readily than those in the tense state. The two models differ most in their assumptions about subunit interaction and the preexistence of both states.
+
+=== Concerted model ===
+
+The concerted model of allostery, also referred to as the symmetry model or MWC model, postulates that enzyme subunits are connected in such a way that a conformational change in one subunit is necessarily conferred to all other subunits. Thus, all subunits must exist in the same conformation. The model further holds that, in the absence of any ligand (substrate or otherwise), the equilibrium favors one of the conformational states, T or R. The equilibrium can be shifted to the R or T state through the binding of one ligand (the allosteric effector or ligand) to a site that is different from the active site (the allosteric site).
+
+=== Sequential model ===
+
+The sequential model of allosteric regulation holds that subunits are not connected in such a way that a conformational change in one induces a similar change in the others. Thus, all enzyme subunits do not necessitate the same conformation. Moreover, the sequential model dictates that molecules of substrate bind via an induced fit protocol. In general, when a subunit randomly collides with a molecule of substrate, the active site, in essence, forms a glove around its substrate. While such an induced fit converts a subunit from the tensed state to relaxed state, it does not propagate the conformational change to adjacent subunits. Instead, substrate-binding at one subunit only slightly alters the structure of other subunits so that their binding sites are more receptive to substrate. To summarize:
+
+* subunits need not exist in the same conformation
+* molecules of substrate bind via induced-fit protocol
+* conformational changes are not propagated to all subunits
+*
+
+=== Morpheein model ===
+
+The morpheein model of allosteric regulation is a dissociative concerted model. 
+
+A morpheein is a homo-oligomeric structure that can exist as an ensemble of physiologically significant and functionally different alternate quaternary assemblies. Transitions between alternate morpheein assemblies involve oligomer dissociation, conformational change in the dissociated state, and reassembly to a different oligomer. The required oligomer disassembly step differentiates the morpheein model for allosteric regulation from the classic MWC and KNF models. 
+
+The discovery of morpheeins has revealed a previously unforeseen mechanism to target universally essential enzymes for species-specific drug design and discovery. A morpheein-based inhibitor would function by binding to and stabilizing the inactive morpheein form of the enzyme, thereby shifting the equilibrium to favor that form. 
+
+Porphobilinogen synthase (PBGS) is the prototype morpheein. 
+
+== Allosteric resource ==
+=== Allosteric database ===
+Allostery is a direct and efficient means for regulation of biological macromolecule function, produced by the binding of a ligand at an allosteric site topographically distinct from the orthosteric site. Due to the often high receptor selectivity and lower target-based toxicity, allosteric regulation is also expected to play an increasing role in drug discovery and bioengineering. The AlloSteric Database (ASD, http://mdl.shsmu.edu.cn/ASD) Z. Huang, L. Zhu, Y. Cao, G. Wu, X. Liu, et al (2011) ASD: a comprehensive database of allosteric proteins and modulators. Nucleic Acids Res Volume 39, D663-669 provides a central resource for the display, search and analysis of the structure, function and related annotation for allosteric molecules. Currently, ASD contains allosteric proteins from more than 100 species and modulators in three categories (activators, inhibitors, and regulators). Each protein is annotated with detailed description of allostery, biological process and related diseases, and each modulator with binding affinity, physicochemical properties and therapeutic area. Integrating the information of allosteric proteins in ASD should allow the prediction of allostery for unknown proteins, to be followed with experimental validation. In addition, modulators curated in ASD can be used to investigate potential allosteric targets for a query compound, and can help chemists to implement structure modifications for novel allosteric drug design.
+
+== Allosteric modulation ==
+
+=== Positive modulation ===
+
+Positive allosteric modulation (also known as allosteric activation) occurs when the binding of one ligand enhances the attraction between substrate molecules and other binding sites. An example is the binding of oxygen molecules to hemoglobin, where oxygen is effectively both the substrate and the effector. The allosteric, or "other", site is the active site of an adjoining protein subunit. The binding of oxygen to one subunit induces a conformational change in that subunit that interacts with the remaining active sites to enhance their oxygen affinity...
+
+=== Negative modulation ===
+
+Negative allosteric modulation (also known as allosteric inhibition) occurs when the binding of one ligand decreases the affinity for substrate at other active sites. For example, when 2,3-BPG binds to an allosteric site on hemoglobin, the affinity for oxygen of all subunits decreases. This is when a regulator is absent from the binding site. 
+
+Another example is strychnine, a convulsant poison, which acts as an allosteric inhibitor of the glycine receptor. Glycine is a major post-synaptic inhibitory neurotransmitter in mammalian spinal cord and brain stem. Strychnine acts at a separate binding site on the glycine receptor in an allosteric manner; i.e., its binding lowers the affinity of the glycine receptor for glycine. Thus, strychnine inhibits the action of an inhibitory transmitter, leading to convulsions.
+
+Another instance in which negative allosteric modulation can be seen is between ATP and the enzyme Phosphofructokinase within the negative feedback loop that regulates glycolysis. Phosphofructokinase (generally referred to as PFK) is an enzyme that catalyses the third step of glycolysis: the phosphorylation of Fructose-6-phosphate into Fructose 1,6-bisphosphate. PFK can be allosterically inhibited by high levels of ATP within the cell. When ATP levels are high, ATP will bind to an allosteric site on phosphofructokinase, causing a change in the enzyme's three-dimensional shape. This change causes its affinity for substrate (fructose-6-phosphate and ATP) at the active site to decrease, and the enzyme is deemed inactive. This causes glycolysis to cease when ATP levels are high, thus conserving the body's glucose and maintaining balanced levels of cellular ATP. In this way, ATP serves as a negative allosteric modulator for PFK, despite the fact that it is also a substrate of the enzyme.
+
+== Types of allosteric regulation ==
+=== Homotropic ===
+
+A homotropic allosteric modulator is a substrate for its target enzyme, as well as a regulatory molecule of the enzyme's activity. It is typically an activator of the enzyme. For example, O2 is a homotropic allosteric modulator of hemoglobin.
+
+=== Heterotropic ===
+
+A heterotropic allosteric modulator is a regulatory molecule that is not also the enzyme's substrate. It may be either an activator or an inhibitor of the enzyme. For example, H+, CO2, and 2,3-bisphosphoglycerate are heterotropic allosteric modulators of hemoglobin. 
+
+Some allosteric proteins can be regulated by both their substrates and other molecules. Such proteins are capable of both homotropic and heterotropic interactions.
+
+== Non-regulatory allostery ==
+
+A non-regulatory allosteric site refers to any non-regulatory component of an enzyme (or any protein), that is not itself an amino acid. For instance, many enzymes require sodium binding to ensure proper function. However, the sodium does not necessarily act as a regulatory subunit; the sodium is always present and there are no known biological processes to add/remove sodium to regulate enzyme activity. Non-regulatory allostery could comprise any other ions besides sodium (calcium, magnesium, zinc), as well as other chemicals and possibly vitamins.
+
+== Pharmacology ==
+
+Allosteric modulation of a receptor results from the binding of allosteric modulators at a different site (a "regulatory site") from that of the endogenous ligand (an "active site") and enhances or inhibits the effects of the endogenous ligand. Under normal circumstances, it acts by causing a conformational change in a receptor molecule, which results in a change in the binding affinity of the ligand. In this way, an allosteric ligand modulates the receptor's activation by its primary (orthosteric) ligand, and can be thought to act like a dimmer switch in an electrical circuit, adjusting the intensity of the response.
+
+For example, the GABAA receptor has two active sites that the neurotransmitter gamma-aminobutyric acid (GABA) binds, but also has benzodiazepine and general anaesthetic agent regulatory binding sites. These regulatory sites can each produce positive allosteric modulation, potentiating the activity of GABA. Diazepam is an agonist at the benzodiazepine regulatory site, and its antidote flumazenil is an antagonist.
+
+More recent examples of drugs that allosterically modulate their targets include the calcium-mimicking cinacalcet and the HIV treatment maraviroc.
+
+=== Allosteric sites as drug targets ===
+
+Allosteric sites may represent a novel discovery#Targets: New and Established|drug target]. There are a number of advantages in using allosteric modulators as preferred therapeutic agents over classic orthosteric ligands. For example, G protein-coupled receptor (GPCR) allosteric binding sites have not faced the same evolutionary pressure as orthosteric sites to accommodate an endogenous ligand, so are more diverse. A. Christopoulos, L.T. May, V.A. Avlani and P.M. Sexton (2004) G protein-coupled receptor allosterism:the promise and the problem(s). Biochemical Society Transactions Volume 32, part 5 Therefore greater GPCR selectivity may be obtained by targeting allosteric sites. This is particularly useful for GPCRs where selective orthosteric therapy has been difficult because of sequence conservation of the orthosteric site across receptor subtypes. Also, these modulators have a decreased potential for toxic effects, since modulators with limited co-operativity will have a ceiling level to their effect, irrespective of the administered dose. Another type of pharmacological selectivity that is unique to allosteric modulators is based on co-operativity. An allosteric modulator may display neutral co-operativity with an orthosteric ligand at all subtypes of a given receptor except the subtype of interest, which is termed "absolute subtype selectivity". If an allosteric modulator does not possess appreciable efficacy, it can provide another powerful therapeutic advantage over orthosteric ligands, namely the ability to selectively tune up or down tissue responses only when the endogenous agonist is present. Oligomer-specific small molecule binding sites are drug targets for medically relevant morpheeins. 
+
+== See also ==
+* ASD database
+* Cooperative binding
+* Enzyme kinetics
+* Protein dynamics
+* Receptor theory
+
+== References ==
+
+==External links==
+*Instant insight introducing a classification system for protein allostery mechanisms from the Royal Society of Chemistry
+
+

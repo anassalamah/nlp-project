@@ -1,0 +1,95 @@
+[[Green fluorescent protein]]
+
+The green fluorescent protein (GFP) is a protein composed of 238 amino acid residues (26.9 kDa) that exhibits bright green fluorescence when exposed to light in the blue to ultraviolet range. Although many other marine organisms have similar green fluorescent proteins, GFP traditionally refers to the protein first isolated from the jellyfish Aequorea victoria. The GFP from A. victoria has a major excitation peak at a wavelength of 395 nm and a minor one at 475 nm. Its emission peak is at 509 nm, which is in the lower green portion of the visible spectrum. The fluorescence quantum yield (QY) of GFP is 0.79. The GFP from the sea pansy (Renilla reniformis) has a single major excitation peak at 498 nm.
+
+In cell and molecular biology, the GFP gene is frequently used as a reporter of expression. In modified forms it has been used to make biosensors, and many animals have been created that express GFP as a proof-of-concept that a gene can be expressed throughout a given organism. The GFP gene can be introduced into organisms and maintained in their genome through breeding, injection with a viral vector, or cell transformation. To date, the GFP gene has been introduced and expressed in many Bacteria, Yeast and other Fungi, fish (such as zebrafish), plant, fly, and mammalian cells, including human. Martin Chalfie, Osamu Shimomura, and Roger Y. Tsien were awarded the 2008 Nobel Prize in Chemistry on 10 October 2008 for their discovery and development of the green fluorescent protein.
+
+==History==
+
+Aequorea victoria
+
+===Wild-type GFP (wtGFP)===
+In the 1960s and 1970s, GFP, along with the separate luminescent protein aequorin, was first purified from Aequorea victoria and its properties studied by Osamu Shimomura. In A. victoria, GFP fluorescence occurs when aequorin interacts with Ca2+ ions, inducing a blue glow. Some of this luminescent energy is transferred to the GFP, shifting the overall color towards green. However, its utility as a tool for molecular biologists did not begin to be realized until 1992 when Douglas Prasher reported the cloning and nucleotide sequence of wtGFP in Gene. The funding for this project had run out, so Prasher sent cDNA samples to several labs. The lab of Martin Chalfie expressed the coding sequence of wtGFP, with the first few amino acids deleted, in heterologous cells of E. coli and C. elegans, publishing the results in Science in 1994. Frederick Tsuji's lab independently reported the expression of the recombinant protein one month later. Remarkably, the GFP molecule folded and was fluorescent at room temperature, without the need for exogenous cofactors specific to the jellyfish. Although this near-wtGFP was fluorescent, it had several drawbacks, including dual peaked excitation spectra, pH sensitivity, chloride sensitivity, poor fluorescence quantum yield, poor photostability and poor folding at 37 °C.
+
+The first reported crystal structure of a GFP was that of the S65T mutant by the Remington group in Science in 1996. One month later, the Phillips group independently reported the wild-type GFP structure in Nature Biotech. These crystal structures provided vital background on chromophore formation and neighboring residue interactions. Researchers have modified these residues by directed and random mutagenesis to produce the wide variety of GFP derivatives in use today. Martin Chalfie, Osamu Shimomura and Roger Y. Tsien share the 2008 Nobel Prize in Chemistry for their discovery and development of the green fluorescent protein. 
+
+===GFP derivatives===
+The diversity of genetic mutations is illustrated by this San Diego beach scene drawn with living bacteria expressing 8 different colors of fluorescent proteins (derived from GFP and dsRed).
+Due to the potential for widespread usage and the evolving needs of researchers, many different mutants of GFP have been engineered. The first major improvement was a single point mutation (S65T) reported in 1995 in Nature by Roger Tsien. This mutation dramatically improved the spectral characteristics of GFP, resulting in increased fluorescence, photostability, and a shift of the major excitation peak to 488 nm, with the peak emission kept at 509 nm. This matched the spectral characteristics of commonly available FITC filter sets, increasing the practicality of use by the general researcher. A 37 °C folding efficiency (F64L) point mutant to this scaffold yielding enhanced GFP (EGFP) was discovered in 1995 by the laboratories of Thastrup and Falkow. EGFP allowed the practical use of GFPs in mammalian cells. EGFP has an extinction coefficient (denoted ε) of 55,000 M−1cm−1. The fluorescence quantum yield (QY) of EGFP is 0.60. The relative brightness, expressed as ε•QY, is 33,000 M−1cm−1.
+Superfolder GFP, a series of mutations that allow GFP to rapidly fold and mature even when fused to poorly folding peptides, was reported in 2006. 
+
+Many other mutations have been made, including color mutants; in particular, blue fluorescent protein (EBFP, EBFP2, Azurite, mKalama1), cyan fluorescent protein (ECFP, Cerulean, CyPet), and yellow fluorescent protein derivatives (YFP, Citrine, Venus, YPet). BFP derivatives (except mKalama1) contain the Y66H substitution.They exhibit a broad absorption band in the ultraviolet centered close to 380 nanometers and an emission maximum at 448 nanometers. A green fluorescent protein mutant (BFPms1) that preferentially binds Zn(II) and Cu(II) has been developed. BFPms1 have several important mutations including and the BFP chromophore (Y66H),Y145F for higher quantum yield, H148G for creating a hole into the beta-barrel and several other mutations that increase solubility. Zn(II) binding increases fluorescence intensity, while Cu(II) binding quenches fluorescence and shifts the absorbance maximum from 379 to 444 nm. Therefore they can be used as Zn biosensor. 
+
+The critical mutation in cyan derivatives is the Y66W substitution, which causes the chromophore to form with an indole rather than phenol component. Several additional compensatory mutations in the surrounding barrel are required to restore brightness to this modified chromophore due to the increased bulk of the indole group. In ECFP and Cerulean, the N-terminal half of the seventh strand exhibits two conformations. These conformations both have a complex set of van der Waals interactions with the chromophore. The Y145A and H148D mutations in Cerulean stabilize these interactions and allow the chromophore to be more planar, better packed, and less prone to collisional quenching. 
+The red-shifted wavelength of the YFP derivatives is accomplished by the T203Y mutation and is due to π-electron stacking interactions between the substituted tyrosine residue and the chromophore. These two classes of spectral variants are often employed for Förster resonance energy transfer (FRET) experiments. Genetically encoded FRET reporters sensitive to cell signaling molecules, such as calcium or glutamate, protein phosphorylation state, protein complementation, receptor dimerization, and other processes provide highly specific optical readouts of cell activity in real time.
+
+Semirational mutagenesis of a number of residues led to pH-sensitive mutants known as pHluorins, and later super-ecliptic pHluorins. By exploiting the rapid change in pH upon synaptic vesicle fusion, pHluorins tagged to synaptobrevin have been used to visualize synaptic activity in neurons. 
+
+Redox sensitive versions of GFP (roGFP) were engineered by introduction of cysteines into the beta barrel structure. The redox state of the cysteines determines the fluorescent properties of roGFP. 
+
+The nomenclature of modified GFPs is often confusing due to overlapping mapping of several GFP versions onto a single name. For example, mGFP often refers to a GFP with an N-terminal palmitoylation that causes the GFP to bind to cell membranes. However, the same term is also used to refer to monomeric GFP, which is often achieved by the dimer interface breaking A206K mutation. Wild-type GFP has a weak dimerization tendency at concentrations above 5 mg/mL. mGFP also stands for "modified GFP," which has been optimized through amino acid exchange for stable expression in plant cells.
+
+==GFP in nature==
+The purpose of both bioluminescence and GFP fluorescence in jellyfish is unknown. GFP is co-expressed with aequorin in small granules around the rim of the jellyfish bell. The secondary excitation peak (480 nm) of GFP does absorb some of the blue emission of aequorin, giving the bioluminescence a more green hue. The serine 65 residue of the GFP chromophore is responsible for the dual-peaked excitation spectra of wild-type GFP. It is conserved in all three GFP isoforms originally cloned by Prasher. Nearly all mutations of this residue consolidate the excitation spectra to a single peak at either 395 nm or 480 nm. The precise mechanism of this sensitivity is complex, but, it seems, involves donation of a hydrogen from serine 65 to glutamate 222, which influences chromophore ionization. Since a single mutation can dramatically enhance the 480 nm excitation peak, making GFP a much more efficient partner of aequorin, A. victoria appears to evolutionarily prefer the less-efficient, dual-peaked excitation spectrum. Roger Tsien has speculated that varying hydrostatic pressure with depth may affect serine 65's ability to donate a hydrogen to the chromophore and shift the ratio of the two excitation peaks. Thus, the jellyfish may change the color of its bioluminescence with depth. However, a collapse in the population of jellyfish in Friday Harbor, where GFP was originally discovered, has hampered further study of the role of GFP in the jellyfish's natural environment.
+
+==Other fluorescent proteins==
+Because of the great variety of engineered GFP derivatives, fluorescent proteins that belong to a different family, such as the bilirubin-inducible fluorescent protein UnaG, dsRed, eqFP611, Dronpa, TagRFPs, KFP, EosFP, Dendra, IrisFP and many others, are erroneously referred to as GFP derivatives. Several of these proteins display unique properties like red-shifted emission above 600 nm or photoconversion from a green-emitting state to a red-emitting state. These properties are so far unique to fluorescent proteins other than GFP derivatives.
+
+==Structure==
+GFP has a typical beta barrel structure, consisting of eleven β-sheets with six alpha helix(s) containing the covalently bonded chromophore 4-(p-hydroxybenzylidene)imidazolidin-5-one (HBI) running through the center. The beta barrel structure is a nearly perfect cylinder,42Å long and 24Å in diameter, creating what is referred to as a “β-can” formation. HBI is nonfluorescent in the absence of the properly folded GFP scaffold and exists mainly in the unionized phenol form in wtGFP. Inward-facing sidechains of the barrel induce specific cyclization reactions in the tripeptide Ser65–Tyr66–Gly67 that induce ionization of HBI to the phenolate form and chromophore formation. This process of post-translational modification is referred to as maturation. The hydrogen-bonding network and electron-stacking interactions with these sidechains influence the color, intensity and photostability of GFP and its numerous derivatives. The tightly packed nature of the barrel excludes solvent molecules, protecting the chromophore fluorescence from quenching by water. 
+
+ GFP molecules drawn in cartoon style, one fully and one with the side of the beta barrel cut away to reveal the chromophore (highlighted as ball-and-stick). From . GFP ribbon diagram. From . 
+
+==Applications==
+
+===Fluorescence Microscopy===
+Superresolution with two fusion proteins (GFP-Snf2H and RFP-H2A), Co-localisation studies (2CLM) in the nucleus of a bone cancer cell. 120.000 localized molecules in a widefield area(470 µm2)
+The availability of GFP and its derivatives has thoroughly redefined fluorescence microscopy and the way it is used in cell biology and other biological disciplines. While most small fluorescent molecules such as FITC (fluorescein isothiocyanate) are strongly phototoxic when used in live cells, fluorescent proteins such as GFP are usually much less harmful when illuminated in living cells. This has triggered the development of highly automated live-cell fluorescence microscopy systems, which can be used to observe cells over time expressing one or more proteins tagged with fluorescent proteins. For example, GFP had been widely used in labelling the spermatozoa of various organisms for identification purposes as in Drosophila melanogaster, where expression of GFP can be used as a marker for a particular characteristic. GFP can also be expressed in different structures enabling morphological distinction. In such cases, the gene for the production of GFP is spliced into the genome of the organism in the region of the DNA that codes for the target proteins and that is controlled by the same regulatory sequence; that is, the gene's regulatory sequence now controls the production of GFP, in addition to the tagged protein(s). In cells where the gene is expressed, and the tagged proteins are produced, GFP is produced at the same time. Thus, only those cells in which the tagged gene is expressed, or the target proteins are produced, will fluoresce when observed under fluorescence microscopy. Analysis of such time lapse movies has redefined the understanding of many biological processes including protein folding, protein transport, and RNA dynamics, which in the past had been studied using fixed (i.e., dead) material. Obtained data are also used to calibrate mathematical models of intracellular systems and to estimate rates of gene expression. 
+
+The Vertico SMI microscope using the SPDM Phymod technology uses the so-called "reversible photobleaching" effect of fluorescent dyes like GFP and its derivatives to localize them as single molecules in an optical resolution of 10 nm. This can also be performed as a co-localization of two GFP derivatives (2CLM). 
+
+Another powerful use of GFP is to express the protein in small sets of specific cells. This allows researchers to optically detect specific types of cells in vitro (in a dish), or even in vivo (in the living organism). Genetically combining several spectral variants of GFP is a useful trick for the analysis of brain circuitry (Brainbow). Other interesting uses of fluorescent proteins in the literature include using FPs as sensors of neuron membrane potential, tracking of AMPA receptors on cell membranes, viral entry and the infection of individual influenza viruses and lentiviral viruses, etc.
+
+It has also been found that new lines of transgenic GFP rats can be relevant for gene therapy as well as regenerative medicine. By using "high-expresser" GFP, transgenic rats display high expression in most tissues, and many cells that have not been characterized or have been only poorly characterized in previous GFP-transgenic rats. Through its ability to form internal chromophore without requiring accessory cofactors, enzymes or substrates other than molecular oxygen, GFP makes for an excellent tool in all forms of biology. 
+
+GFP has been shown to be useful in cryobiology as a viability assay. Correlation of viability as measured by trypan blue assays were 0.97. Another application is the use of GFP co-transfection as internal control for transfection efficiency in mammalian cells. 
+
+A novel possible use of GFP includes using it as a sensitive monitor of intracellular processes via an eGFP laser system made out of a human embryonic kidney cell line. The first engineered living laser is made by an eGFP expressing cell inside a reflective optical cavity and hitting it with pulses of blue light. At a certain pulse threshold, the eGFP’s optical output becomes brighter and completely uniform in color of pure green with a wavelength of 516 nm. Before being emitted as laser light, the light bounces back and forth within the resonator cavity and passes the cell numerous times. By studying the changes in optical activity, researchers may better understand cellular processes. 
+
+GFP is used widely in cancer research to label and track cancer cells. GFP-labelled cancer cells have been used to model metastasis, the process by which cancer cells spread to distant organs. 
+
+===Transgenic pets===
+
+ GloFish, the first pet sold with these proteins artificially present. mice expressing GFP under UV light (left & right), compared to normal mouse (center) 
+
+Alba, a green-fluorescent rabbit, was created by a French laboratory commissioned by Eduardo Kac using GFP for purposes of art and social commentary. The US company Yorktown Technologies markets to aquarium shops green fluorescent zebrafish (GloFish) that were initially developed to detect pollution in waterways. NeonPets, a US-based company has marketed green fluorescent mice to the pet industry as NeonMice. Green fluorescent pigs, known as Noels, were bred by a group of researchers led by Wu Shinn-Chih at the Department of Animal Science and Technology at National Taiwan University. Scientists in Taiwan breed fluorescent green pigs A Japanese-American Team created green-fluorescent cats as proof of concept to use them potentially as model organisms for diseases, particularly HIV. In 2009 a South Korean team from Seoul National University bred the first transgenic beagles with fibroblast cells from sea anemons. The dogs give off a red fluorescent light, and they are meant to allow scientists to study the genes that cause human diseases like narcolepsy and blindness. 
+
+===GFP in fine art===
+
+ Julian Voss-Andreae's GFP-based sculpture Steel Jellyfish (2006). The image shows the stainless-steel sculpture at Friday Harbor Laboratories on San Juan Island (Wash., USA), the place of GFP's discovery. 
+
+Julian Voss-Andreae, a German-born artist specializing in "protein sculptures," created sculptures based on the structure of GFP, including the 1.70 m (5'6") tall "Green Fluorescent Protein" (2004) and the 1.40 m (4'7") tall "Steel Jellyfish" (2006). The latter sculpture is located at the place of GFP's discovery by Shimomura in 1962, the University of Washington's Friday Harbor Laboratories. 
+
+==See also==
+* pGLO
+*Yellow fluorescent protein
+
+==References==
+
+==Further reading==
+* Popular science book describing history and discovery of GFP
+* 
+
+==External links==
+
+* GFP Antibodies
+* Novus Biologicals: GFP Antibody
+* A comprehensive article on fluorescent proteins at Scholarpedia
+* Brief summary of landmark GFP papers
+* Interactive Java applet demonstrating the chemistry behind the formation of the GFP chromophore
+* Video of 2008 Nobel Prize lecture of Roger Tsien on fluorescent proteins
+* Excitation and emission spectra for various fluorescent proteins
+* Green Fluorescent Protein Chem Soc Rev themed issue dedicated to the 2008 Nobel Prize winners in Chemistry, Professors Osamu Shimomura, Martin Chalfie and Roger Y. Tsien
+* Molecule of the Month, June 2003: an illustrated overview of GFP by David Goodsell.
+
+

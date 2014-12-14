@@ -1,0 +1,53 @@
+[[Phenylalanine]]
+
+Phenylalanine (abbreviated as Phe or F) is an α-amino acid with the formula C6H5CH2CH(NH2)COOH. This essential amino acid is classified as nonpolar because of the hydrophobic nature of the benzyl side chain. L-Phenylalanine (LPA) is an electrically neutral amino acid, one of the 23 common amino acids used to biochemically form proteins, coded for by DNA. The codons for L-phenylalanine are UUU and UUC. Phenylalanine is a precursor for tyrosine, the monoamine signaling molecules dopamine, norepinephrine (noradrenaline), and epinephrine (adrenaline), and the skin pigment melanin.
+
+Phenylalanine is found naturally in the breast milk of mammals. It is used in the manufacture of food and drink products and sold as a nutritional supplement for its reputed analgesic and antidepressant effects. It is a direct precursor to the neuromodulator phenylethylamine, a commonly used dietary supplement.
+
+==History==
+The first description of phenylalanine was made in 1879, when Schulze and Barbieri identified a compound with the empirical formula, C9H11NO2, in yellow lupine (Lupinus luteus) seedlings. In 1882, Erlenmeyer and Lipp first synthesized phenylalanine from phenylacetaldehyde, hydrogen cyanide, and ammonia. 
+
+The genetic codon for phenylalanine was first discovered by J. Heinrich Matthaei and Marshall W. Nirenberg in 1961. They showed that by using m-RNA to insert multiple uracil repeats into the genome of the bacterium E. coli, they could cause the bacterium to produce a polypeptide consisting solely of repeated phenylalanine amino acids. This discovery helped to establish the nature of the coding relationship that links information stored in genomic nucleic acid with protein expression in the living cell.
+
+==Other biological roles==
+L-Phenylalanine is biologically converted into L-tyrosine, another one of the DNA-encoded amino acids. L-tyrosine in turn is converted into L-DOPA, which is further converted into dopamine, norepinephrine (noradrenaline), and epinephrine (adrenaline). The latter three are known as the catecholamines.
+
+Phenylalanine uses the same active transport channel as tryptophan to cross the blood–brain barrier. In excessive quantities, supplementation can interfere with the production of serotonin and other aromatic amino acids as well as nitric oxide due to the overuse (eventually, limited availability) of the associated cofactors, iron or tetrahydrobiopterin. The corresponding enzymes in for those compounds are the aromatic amino acid hydroxylase family and nitric oxide synthase.
+
+===In plants===
+Phenylalanine is the starting compound used in the flavonoid biosynthesis. Lignan is derived from phenylalanine and from tyrosine. Phenylalanine is converted to cinnamic acid by the enzyme phenylalanine ammonia-lyase. 
+
+==Phenylketonuria==
+
+The genetic disorder phenylketonuria (PKU) is the inability to metabolize phenylalanine. Individuals with this disorder are known as "phenylketonurics" and must regulate their intake of phenylalanine. A (rare) "variant form" of phenylketonuria called hyperphenylalaninemia is caused by the inability to synthesize a coenzyme called tetrahydrobiopterin, which can be supplemented. Pregnant women with hyperphenylalaninemia may show similar symptoms of the disorder (high levels of phenylalanine in blood) but these indicators will usually disappear at the end of gestation. Individuals who cannot metabolize phenylalanine must monitor their intake of protein to control the buildup of phenylalanine as their bodies convert protein into its component amino acids.
+
+Phenylketonurics often use blood tests to monitor the amount of phenylalanine in their blood. Lab results may report phenylalanine levels in different units, including mg/dL and μmol/L. One mg/dL of phenylalanine is approximately equivalent to 60 μmol/L.
+
+A non-food source of phenylalanine is the artificial sweetener aspartame. This compound, sold under the trade names Equal and NutraSweet, is metabolized by the body into several chemical byproducts including phenylalanine. The breakdown problems phenylketonurics have with protein and the attendant buildup of phenylalanine in the body also occurs with the ingestion of aspartame, although to a lesser degree. Accordingly, all products in Australia, the U.S. and Canada that contain aspartame must be labeled: "Phenylketonurics: Contains phenylalanine." In the UK, foods containing aspartame must carry ingredient panels that refer to the presence of "aspartame or E951" and they must be labeled with a warning "Contains a source of phenylalanine." In Brazil, the label "Contém Fenilalanina" (Portuguese for "Contains Phenylalanine") is also mandatory in products which contain it. These warnings are placed to aid individuals who have been diagnosed with PKU so that they can avoid such foods.
+
+Geneticists have recently sequenced the genome of macaques. Their investigations have found "some instances where the normal form of the macaque protein looks like the diseased human protein" including markers for PKU. 
+
+==D-, L- and DL-phenylalanine==
+The stereoisomer D-phenylalanine (DPA) can be produced by conventional organic synthesis, either as a single enantiomer or as a component of the racemic mixture. It does not participate in protein biosynthesis although it is found in proteins in small amounts - particularly aged proteins and food proteins that have been processed. The biological functions of D-amino acids remain unclear although some, such as D-phenylalanine, may have pharmacological activity. D-phenylalanine, in particular, has been postulated to inhibit the enzymes that breakdown enkephalins, giving it a potential analgesic profile.
+
+DL-Phenylalanine (DLPA) is marketed as a nutritional supplement for its supposed analgesic and antidepressant activities. DL-Phenylalanine is a mixture of D-phenylalanine and L-phenylalanine. The reputed analgesic activity of DL-phenylalanine may be explained by the possible blockage by D-phenylalanine of enkephalin degradation by the enzyme carboxypeptidase A. The mechanism of DL-phenylalanine's supposed antidepressant activity may be accounted for by the precursor role of L-phenylalanine in the synthesis of the neurotransmitters norepinephrine and dopamine. Elevated brain levels of norepinephrine and dopamine are thought to have an antidepressant effect. D-Phenylalanine is absorbed from the small intestine and transported to the liver via the portal circulation. A small amount of D-phenylalanine appears to be converted to L-phenylalanine. D-Phenylalanine is distributed to the various tissues of the body via the systemic circulation. It appears to cross the blood–brain barrier less efficiently than L-phenylalanine, and so a small amount of an ingested dose of D-phenylalanine is excreted in the urine without penetrating the central nervous system.
+
+L-Phenylalanine is an antagonist at α2δ Ca2+ calcium channels with a Ki of 980 nM. At higher doses, this may play a role in its analgesic and antidepressant properties.
+
+In the brain, L-phenylalanine is a competitive antagonist at the glycine binding site of NMDA receptor and at the glutamate binding site of AMPA receptor. At the glycine binding site of NMDA receptor L-phenylalanine has an apparent equilibrium dissociation constant (KB) of 573 µM estimated by Schild regression which is considerably lower than brain L-phenylalanine concentration observed in untreated human phenylketonuria. 
+L-Phenylalanine also inhibits neurotransmitter release at glutamatergic synapses in hippocampus and cortex with IC50 of 980 µM, a brain concentration seen in classical phenylketonuria, whereas D-phenylalanine has a significantly smaller effect. 
+
+==Commercial synthesis==
+L-Phenylalanine is produced for medical, feed, and nutritional applications, such as aspartame, in large quantities by utilizing the bacterium Escherichia coli, which naturally produces aromatic amino acids like phenylalanine. The quantity of L-phenylalanine produced commercially has been increased by genetically engineering E. coli, such as by altering the regulatory promoters or amplifying the number of genes controlling enzymes responsible for the synthesis of the amino acid. 
+
+==See also==
+*Hyperphenylalanemia
+
+==References==
+
+==External links==
+* Phenylalanine MS Spectrum
+* Phenylalanine at ChemSynthesis
+* Food Sources of Phenylalanine
+
+

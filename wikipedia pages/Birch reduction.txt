@@ -1,0 +1,137 @@
+[[Birch reduction]]
+
+The Birch reduction is an organic reaction which is particularly useful in synthetic organic chemistry. The reaction was reported in 1944 by the Australian chemist Arthur Birch (1915–1995) working in the Dyson Perrins Laboratory in the University of Oxford, building on earlier work by Wooster and Godfrey in 1937. It converts aromatic compounds having a benzenoid ring into a product, 1,4-cyclohexadienes, in which two hydrogen atoms have been attached on opposite ends of the molecule. It is the organic reduction of aromatic rings in liquid ammonia with sodium, lithium or potassium and an alcohol, such as ethanol and tert-butanol. This reaction is quite unlike catalytic hydrogenation, which usually reduces the aromatic ring all the way to a cyclohexane.
+
+The original reaction reported by Arthur Birch in 1944 utilized sodium and ethanol. Subsequently A. L. Wilds noted that better yields result with lithium. Also the use of t-butyl alcohol has become common. The reaction is one of the main organic reactions utilized in all types of syntheses.
+
+: The Birch reduction
+
+An example is the reduction of naphthalene: 
+
+: naphthalene Birch Reduction
+
+Several reviews have been published. 
+
+==Basic reaction mechanism==
+A solution of sodium in liquid ammonia consists of the electride salt + e−, associated with the intense blue color of these solutions. The solvated electrons add to the aromatic ring to give a radical anion (the arrows depicting the movement of the single electrons should be 'fish-hook' arrows). The added alcohol supplies a proton to the radical anion and also to the penultimate carbanion; for most substrates ammonia is not acidic enough. 
+ 
+: Reaction mechanism of the Birch reduction
+
+==Regioselectivity==
+
+The reduction of anisole is one of the simplest examples and is shown in equation 1. Still another example is that of benzoic acid illustrated in equation 2.
+
+Where the radical-anion is protonated initially determines the structure of the product. With an electron donor such as methoxy (MeO), alkyl protonation has been thought by some investigators as being ortho (i.e. adjacent or 1,2) to the substituent. Other investigators have thought the protonation is meta (1,3) to the substituent. Arthur Birch favored meta protonation. With electron withdrawing substituents protonation has been thought to come at the site (ipso) of the substituent or para (1,4). Again, there has been varied opinion. A. J. Birch’s empirical rules say that for the donor substituents the final product has the maximum number of substituents on the final double bonds. For electron withdrawing groups the double bonds of the product have avoided the substituents. The placement preference of groups in the mechanism and in the final product is termed regioselectivity.
+
+350px
+
+350px
+
+==Overall details of the reaction mechanism==
+The solution of metal in ammonia provides electrons which are taken up by the aromatic ring to form the corresponding radical anion B in the first step of the reaction. This is followed by protonation by the alcohol to form a cyclohexadienyl radical C. Next, a second electron is transferred to the radical to form a cyclohexadienyl carbanion D. In the last step a second proton leads the cyclohexadienyl carbanion to the unconjugated cyclohexadienyl product. These steps are outlined below for the case of anisole.
+
+900px
+
+The reaction is known to be third order – first order in aromatic, first order in the alkali metal, and first order in the alcohol. 
+This requires the rate-limiting step to be the conversion of radical anion B to the cyclohexadienyl radical C.
+
+==Reaction regioselectivity==
+Birch Reduction has several intricate mechanistic features. These features govern the reaction’s regioselectivity and are considered below. Birch’s rule for aromatics with electron donors such as methoxyl or alkyl is that the product will have the residual double bonds bearing the maximum number of substituents. For aromatics with electron withdrawing groups such as carboxyl, the substituent groups avoid the double bonds. In both cases, with electron donating and with withdrawing groups, the residual double bonds are unconjugated (vide infra). It has been a matter of intense interest to understand reaction mechanisms accounting for this regioselectivity. The essential features are:
+
+*In liquid ammonia alkali metals dissolve to give a blue solution thought of simplistically as having “free electrons”. The electrons are taken up by the aromatic ring, one at a time. Once the first electron has been absorbed, a radical-anion has been formed. Next the alcohol molecule donates its hydroxylic hydrogen to form a new C-H bond; at this point a radical has been formed. This is followed by the second electron being picked up to give a carbanion of the cyclohexadienyl type (i.e. with C=C-C-C=C in a six-ring and charged minus ). Then this cyclohexadienyl anion is protonated by the alcohol present. The protonation takes place in the middle of the cyclohexadienyl system. This (regio-)selectivity is unique and characteristic.
+
+*Where the radical-anion is protonated initially determines the structure of the product. With an electron donor as methoxy (MeO) or alkyl protonation has been thought by some investigators as being ortho (i.e. adjacent or 1,2) to the substituent. Other investigators have thought the protonation is meta (1,3) to the substituent. Arthur Birch favored meta protonation. With electron withdrawing substituents protonation has been thought to come at the site (ipso) of the substituent or para (1,4). Again, there has been varied opinion. A. J. Birch’s empirical rules say that for the donor substituents the final product has the maximum number of substituents on the final double bonds. For electron withdrawing groups the double bonds of the product have avoided the substituents. The placement preference of groups in the mechanism and in the final product is termed regioselectivity.
+
+*The reaction mechanism provides the details of molecular change as a reaction proceeds. In the case of donating groups A. J. Birch's preference for meta protonation of the radical anion was based on qualitative reasoning. And it had been noted that no experimental test of this was known.
+
+*In 1961 a simple computation of the electron densities of the radical anion revealed that it was the ortho site which was most negative and thus most likely to protonate. However, A. J. Birch seemed to overlook this result. Additionally, the second proton had been determined by the computations to occur in the center of the cyclohexadienyl anion to give an unconjugated product.
+
+*Of historical interest is the uncertainty in the chemical literature at this point. Indeed, there were some further computational results reported. These varied from suggesting a preference for meta radical-anion protonation to suggesting a mixture of ortho and meta protonation.
+
+*In 1990 and 1993 an esoteric test was devised which showed that ortho protonation of the radical anion was preferred over meta (seven to one). This was accompanied by more modern computation which concurred. Both experiment and computations were in agreement with the early 1961 computations.
+
+*With electron withdrawing groups there are literature examples demonstrating the nature of the carbanion just before final protonation. This revealed that the initial radical-anion protonation occurs para to the withdrawing substituent.
+
+*The remaining item for discussion is the final protonation of the cyclohexadienyl anion. In 1961 it was found that simple Hückel computations were unable to distinguish between the different protonation sites. However, when the computations were modified with somewhat more realistic assumptions, the Hückel computations revealed the center carbon to the preferred. The more modern 1990 and 1993 computations were in agreement.
+
+==Underlying mechanism of the Birch reduction==
+The original Birch mechanism suggested that the initial radical anion protonation was meta to the ring methoxy and alkyl groups and the last step, protonation of a cyclohexadienyl anion, was ortho. Birch’s original mechanism was based on qualitative reasoning, namely that the radical anion’s electron density, resulting from the addition of an electron, would become highest meta to an electron donor (such as methoxy or methyl) due to avoiding the usual ortho-para high density in the neutral species. 
+
+==Hückel computations==
+Using simple Hückel computations in 1961 it was shown that the Birch mechanism was incorrect. The correct mechanism O is depicted below. "Base-Catalyzed Rearrangements," Chapter 6 of "Molecular Rearrangements," Zimmerman, H. E., Ed. P. DeMayo, Interscience, 345–406, New York, 1963. 
+The two a-priori alternative mechanisms O and M:
+
+850px
+
+==Subsequent literature and varying views==
+However, Birch did not accept this conclusion and continued publications suggesting meta protonation of the radical anion. He suggested the meta attack results from “opposition of the ortho and para initial charge”. 
+
+Bothner-By in 1959 had given qualitative arguments favoring meta-protonation as had been suggested previously by Birch.
+
+Burnham in 1969 concluded that protonation is unlikely to occur predominantly at the ortho position and the reaction most probably occurs at the meta position but may occur at both sites at similar rates. 
+
+Subsequently, Birch in a review article (and refs therein) noted that no experimental method at the time existed which would determine which was correct. But he did note that publication by Burnham favored meta attack.
+
+In 1980 publications Birch collaborated with Leo Radom and considered ortho and meta
+densities to be close with a slight ortho preference but with mixtures of ortho and meta protonation occurring. RHF/sto-3g and UHF/sto-3g computations were used to conclude that both ortho and meta substitutions would occur with a slight preference for ortho. 
+
+Thus there had been a decade of controversy in the literature in which each of these two possible mechanisms was considered to be correct.
+
+==Experimental testing and computational verification==
+Then in 1990 and 1993 a method was finally devised to experimentally assess whether the anisole and toluene radical anion protonated ortho or meta. The esoteric method began with the premise that the isotope selectivity in protonation in a protium–deuterium medium would be greater for the radical anion, of the first protonation step, than for the carbanion of the penultimate step. The reasoning was that carbanions are much more basic than the corresponding radical anions and thus will react more exothermically and less selectively in protonation. Experimentally it was determined that less deuterium at the ortho site than meta resulted (1:7) for a variety of methoxylated aromatics. This is a consequence of the greater selectivity of the radical anion protonation. Computations (e.g. ROHF/6-31g) of the electron densities concurred with the experimental observations. Also, it was ascertained that frontier orbital densities did not, and these had been used in some previous reports.
+
+Subsequently, in 1992 and 1996 Birch published twice still suggesting that meta protonation was preferred. (showed mechanism w meta) (still suggests meta) This was a reversal of his earlier views as published with Leo Radom.
+
+However, textbooks, publishing on the mechanism of the Birch Reduction, have noted that ortho protonation of the initial radical anion is preferred. “Advanced Organic Chemistry: Reactions and synthesis”, Francis A. Carey, Richard J. Sundberg, p. 437 
+
+==Birch reduction with electron withdrawing substituents==
+In contrast to the examples with electron donating substituents, the case with withdrawing groups is more readily obvious. Thus, as depicted below, the structure of the penultimate dianion D is characterized by its being subject to trapping by alkyl halides.
+
+Mechanism of reduction of benzoic acids, including possible alkylation
+
+900px
+
+This dianion results independent of whether alcohol is used in the reduction or not. Thus the initial protonation by t-butyl alcohol or ammonia is para rather than ipso as seen in the step from B to C. 
+
+==Second step of the Birch reduction with regiochemistry giving unconjugated cyclohexadienes==
+The second step of the Birch reduction affording unconjugated cyclohexadienes also poses mechanistic questions. Thus as shown in the figure below there are three resonance structures B, C and D for the carbanion. Simple Hückel computations lead, as noted in the first entry of the table below, to equal electron densities at the three atoms 1, 3 and 5. However, in contrast to densities the Hückel computation is less naïve about bond orders, Zimmerman, H. E. in “Molecular Rearrangements”, De Mayo, P. Ed., Interscience, New York, 1963, pp. 350–352 and bonds 2–3 and 5–6 will be shortened as shown in the first entry of the table. With bond orders modifying simple exchange integrals in a Mulliken-Wheland-Mann computation it was shown that electron density at the central atom 1 become largest. More modern RHF computations lead to the same result. 
+
+Electron introduction to benzene and 3 resonance structures for the carbanion of the second step, and central protonation to give the unconjugated diene:
+450px
+
+Five carbons of the cyclohexadienyl anion. 
+
+ Approximation Density Atom 3 Density Atom 2 Density Atom 1 Bond Order 2–3 Bond Order 1–2 
+ Hückel (1st approx) 0.333 0.00 0.333 0.788 0.578 
+ 2nd approx 0.317 0.00 0.365 0.802 0.564 
+ 3rd approx 0.316 0.00 0.368 0.802 0.562 
+
+There are known precedents for central anion protonation. Paufler, R. M. (1960) Ph.D. Thesis, Northwestern University, Evanston, IL. Thus conjugated enolates as C=C-C=C-O- have been known for some time as kinetically protonating in the center of the enolate system to afford the β,γ-unsaturated carbonyl compound under conditions where the anion, and not the enol, is the species protonated.
+
+==Birch alkylation==
+In the presence of an alkyl halide the carbanion can also undergo nucleophilic substitution with carbon-carbon bond formation. In substituted aromatic compounds an electron-withdrawing substituent, such as a carboxylic acid, stabilizes a carbanion and the least-substituted olefin is generated. With an electron-donating substituent the opposite effect is obtained. The reaction produces more of the less thermodynamically stable non-conjugated 1,4-addition product than the more stable conjugated 1,3-diene because the largest orbital coefficient of the HOMO of the conjugated pentadienyl anion intermediate is on the central carbon atom. Once formed, the resulting 1,4-cyclohexadiene is unable to equilibrate to the thermodynamically more stable product; therefore, the observed kinetic product is produced. Experimental alkali metal alternatives that are safer to handle, such as the M-SG reducing agent, also exist.
+
+In Birch alkylation the anion formed in the Birch reduction is trapped by a suitable electrophile such as a haloalkane, for example: 
+
+: Birch Alkylation Org Synth 1990
+
+ 
+In the reaction depicted below, 1,4-dibromobutane is added to t-butyl benzoate to form an alkylated 1,4-cyclohexadiene product: 
+
+: Birch alkylation
+
+==Modifications of the Birch reduction==
+Since liquid ammonia has to be condensed into the flask and has to evaporate overnight after the reaction is complete, the whole procedure can be quite troublesome and time-consuming. However, alternative solvents have been employed, such as THF as well as a mixture of n-propylamine and ethylenediamine, both with comparable results. The latter one actually is a modification of the Benkeser Reaction, which in its original forms tends to reduce naphthalene all the way to octahydro- and decahydronaphthalene.
+
+: Modified Benkeser reduction
+
+This reduction of naphthalene to isotetralin (1,4,5,8-tetrahydronaphthalene) produces some tetralin (1,2,3,4-tetrahydronaphthalene) as byproduct, as is the case with the regular Birch reduction.
+
+==See also==
+* Benkeser reaction
+* Solvated electron
+* Bouveault–Blanc reduction
+
+== References ==
+
+

@@ -1,0 +1,47 @@
+[[Intertropical Convergence Zone]]
+
+The thunderstorms of the Intertropical Convergence Zone form a line across the eastern Pacific Ocean
+Infra-red image from GOES 14 showing the intertropical convergence zone.
+Vertical velocity at 500 hPa, July average. Ascent (negative values) is concentrated close to the solar equator; descent (positive values) is more diffuse 
+
+The Intertropical Convergence Zone (ITCZ), known by sailors as the doldrums, is the area encircling the earth near the equator where the northeast and southeast trade winds come together.
+
+The ITCZ was originally identified from the 1920s to the 1940s as the "Intertropical Front" (ITF), but after the recognition in the 1940s and 1950s of the significance of wind field convergence in tropical weather production, the term "ITCZ" was then applied. When it lies near the equator, it is called the near-equatorial trough. Where the ITCZ is drawn into and merges with a monsoonal circulation, it is sometimes referred to as a monsoon trough, a usage more common in Australia and parts of Asia. In the seamen's speech the zone is referred to as the doldrums because of its erratic weather patterns with stagnant calms and violent thunderstorms.
+
+The ITCZ appears as a band of clouds, usually thunderstorms, that circle the globe near the equator. In the Northern Hemisphere, the trade winds move in a southwestern direction from the northeast, while in the Southern Hemisphere, they move northwestward from the southeast. When the ITCZ is positioned north or south of the equator, these directions change according to the Coriolis effect imparted by the rotation of the earth. For instance, when the ITCZ is situated north of the equator, the southeast trade wind changes to a southwest wind as it crosses the equator. The ITCZ is formed by vertical motion largely appearing as convective activity of thunderstorms driven by solar heating, which effectively draw air in; these are the trade winds. The ITCZ is effectively a tracer of the ascending branch of the Hadley cell, and is wet. The dry descending branch is the horse latitudes.
+
+The location of the intertropical convergence zone varies over time. Over land, it moves back and forth across the equator following the sun's zenith point. Over the oceans, where the convergence zone is better defined, the seasonal cycle is more subtle, as the convection is constrained by the distribution of ocean temperatures. Sometimes, a double ITCZ forms, with one located north and another south of the equator. When this occurs, a narrow ridge of high pressure forms between the two convergence zones, one of which is usually stronger than the other.
+
+==South Pacific convergence zone==
+The South Pacific convergence zone (SPCZ) is a reverse-oriented, or west-northwest to east-southeast aligned, trough extending from the west Pacific warm pool southeastwards towards French Polynesia. It lies just south of the equator during the Southern Hemisphere warm season, but can be more extratropical in nature, especially east of the International Date Line. It is considered the largest and most important piece of the ITCZ, and has the least dependence upon heating from a nearby land mass during the summer than any other portion of the monsoon trough. E. Linacre and B. Geerts. Movement of the South Pacific convergence zone Retrieved on 2006-11-26. The southern ITCZ in the southeast Pacific and southern Atlantic, known as the SITCZ, occurs during the Southern Hemisphere fall between 3° and 10° south of the equator east of the 140th meridian west longitude during cool or neutral El Niño–Southern Oscillation (ENSO) patterns. When ENSO reaches its warm phase, otherwise known as El Niño, the tongue of lowered sea surface temperatures due to upwelling off the South American continent disappears, which causes this convergence zone to vanish as well. 
+
+==Effects on weather==
+The ITCZ moves farther away from the equator during the Northern summer than the Southern one due to the North-heavy arrangement of the continents.
+Variation in the location of the intertropical convergence zone drastically affects rainfall in many equatorial nations, resulting in the wet and dry seasons of the tropics rather than the cold and warm seasons of higher latitudes. Longer term changes in the intertropical convergence zone can result in severe droughts or flooding in nearby areas.
+
+In some cases, the ITCZ may become narrow, especially when it moves away from the equator; the ITCZ can then be interpreted as a front along the leading edge of the equatorial air. Djurić, D: Weather Analysis. Prentice Hall, 1994. ISBN 0-13-501149-3. There appears to be a 15-25 day cycle in thunderstorm activity along the ITCZ, which is roughly half the wavelength of the Madden–Julian oscillation (MJO). Patrick A. Harr. Tropical Cyclone Formation/Structure/Motion Studies. Office of Naval Research Retrieved on 2006-11-26. 
+
+Within the ITCZ the average winds are slight, unlike the zones north and south of the equator where the trade winds feed. Early sailors named this belt of calm the doldrums because of the inactivity and stagnation they found themselves in after days of no wind. To find oneself becalmed in this region in a hot and muggy climate could mean death in an era when wind was the only effective way to propel ships across the ocean. Even today leisure and competitive sailors attempt to cross the zone as quickly as possible as the erratic weather and wind patterns may cause unexpected delays.
+
+==Role in tropical cyclone formation==
+Tropical cyclogenesis depends upon low-level vorticity as one of its six requirements, and the ITCZ fills this role as it is a zone of wind change and speed, otherwise known as horizontal wind shear. As the ITCZ migrates more than 500 km from the equator during the respective hemisphere's summer season, increasing Coriolis force makes the formation of tropical cyclones within this zone more possible. In the north Atlantic and the northeastern Pacific oceans, tropical waves move along the axis of the ITCZ causing an increase in thunderstorm activity, and under weak vertical wind shear, these clusters of thunderstorms can become tropical cyclones.
+
+==Hazards==
+Thunderstorms along the Intertropical Convergence Zone played a role in the loss of Air France Flight 447, which left Rio de Janeiro–Galeão International Airport on Sunday, May 31, 2009, at 7 p.m. (4:00 p.m. EDT) and had been expected to land at Paris's Charles de Gaulle Airport on Monday June 1, 2009, at 11:15 a.m. "Q & A Turbulences" 1.June.2009 The Guardian The aircraft crashed with no survivors while flying through a series of large ITCZ thunderstorms, and ice forming rapidly on airspeed sensors was the precipitating cause for the cascade of human errors which ultimately doomed the flight. Most aircraft flying these routes are able to avoid the larger convective cells without incident.
+
+==See also==
+*Asymmetry of the Intertropical Convergence Zone
+*List of countries located on the equator
+*Doldrums
+
+==Notes==
+
+==References==
+
+*Short NASA article with high resolution photo
+
+==External links==
+*The ITCZ in Africa via the University of South Carolina
+*A Shifting Band of Rain from March 2011 Scientific American
+
+

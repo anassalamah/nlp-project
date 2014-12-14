@@ -1,0 +1,102 @@
+[[Null hypothesis]]
+
+In statistical inference of observed data of a scientific experiment, the null hypothesis refers to a general statement or default position that there is no relationship between two measured phenomena, or that a potential medical treatment has no effect. Rejecting or disproving the null hypothesis – and thus concluding that there are grounds for believing that there is a relationship between two phenomena or that a potential treatment has a measurable effect – is a central task in the modern practice of science, and gives a precise sense in which a claim is capable of being proven false.
+
+In statistical significance, the null hypothesis is often denoted H0 (read “H-nought”) and is generally assumed true until evidence indicates otherwise (e.g., H0: μ = 500 hours). The concept of a null hypothesis is used differently in two approaches to statistical inference. In the significance testing approach of Ronald Fisher, a null hypothesis is potentially rejected or disproved on the basis of data that is significant under its assumption, but never accepted or proved. In the hypothesis testing approach of Jerzy Neyman and Egon Pearson, a null hypothesis is contrasted with an alternative hypothesis, and these are distinguished on the basis of data, with certain error rates. Proponents of these two approaches criticize each other, though today a hybrid approach is widely practiced and presented in textbooks. This hybrid is in turn criticized as incorrect and incoherent—see statistical hypothesis testing. Statistical significance plays a pivotal role in statistical hypothesis testing where it is used to determine if a null hypothesis can be rejected or retained.
+
+==History==
+The term was originally coined by English geneticist and statistician Ronald Fisher in The Design of Experiments (1935), in the lady tasting tea experiment. OED quote: 1935 R. A. Fisher, The Design of Experiments ii. 19, "We may speak of this hypothesis as the 'null hypothesis', and it should be noted that the null hypothesis is never proven or established, but is possibly disproved, in the course of experimentation." In Fisher's formulation, "the null hypothesis is never proved or established, but is possibly disproved, in the course of experimentation." A different approach was developed by Jerzy Neyman and Egon Pearson, who rather than disproving the null hypothesis, selected between a null hypothesis and a second hypothesis, the alternative hypothesis, which asserts a particular relationship between the phenomena. The alternative need not be the logical negation of the null hypothesis; it predicts the results from the experiment if the alternative hypothesis is true. The use of alternative hypotheses is not part of Fisher's formulation, and Fisher criticized its use, particularly using the complementary hypothesis as alternative hypothesis, arguing that experiment is not "able to prove the opposite hypothesis ... because it is inexact". However, the Neyman–Pearson approach of deciding between a null hypothesis and an alternative hypothesis, frequently the complementary hypothesis, has become standard—more precisely, a hybrid of these distinct approaches is now the textbook treatment and standard practice.
+
+In the Fisher approach, the null hypothesis can never be proven. Data, such as the results of an observation or experiment, can only reject or fail to reject a null hypothesis. For example, if comparison of two groups (for example, comparing subjects treated with a medication with untreated subjects) reveals no statistically significant difference between the two, it does not prove that there really is no difference; it only shows that the results were not sufficient to reject the null hypothesis. 
+
+==Principle==
+Hypothesis testing works by collecting data and measuring how likely the particular set of data is, assuming the null hypothesis is true, when the study is on a random representative sample. The null hypothesis assumes no relationship between variables in the population from which the sample is selected. If the data-set of a random representative sample is very unlikely relative to the null hypothesis, defined as being part of a class of sets of data that only rarely will be observed, the experimenter rejects the null hypothesis concluding it (probably) is false. This class of data-sets is usually specified via a test statistic which is designed to measure the extent of apparent departure from the null hypothesis. The procedure works by assessing whether the observed departure measured by the test statistic is larger than a value defined so that the probability of occurrence of a more extreme value is small under the null hypothesis (usually in less than either 5% or 1% of similar data-sets in which the null hypothesis does hold). If the data do not contradict the null hypothesis, then only a weak conclusion can be made; namely that the observed data set provides no strong evidence against the null hypothesis. As the null hypothesis could be true or false, in this case, in some contexts this is interpreted as meaning that the data give insufficient evidence to make any conclusion, on others it means that there is no evidence to support changing from a currently useful regime to a different one.
+
+For instance, a certain drug may reduce the chance of having a heart attack. Possible null hypotheses are "this drug does not reduce the chances of having a heart attack" or "this drug has no effect on the chances of having a heart attack". The test of the hypothesis consists of administering the drug to half of the people in a study group as a controlled experiment. If the data show a statistically significant change in the people receiving the drug, the null hypothesis is rejected.
+
+==Choice of the null hypothesis==
+The choice of null hypothesis (H0) and consideration of directionality (see "one-tailed test") is critical. Consider the question of whether a tossed coin is fair (i.e. that on average it lands heads up 50% of the time). A potential null hypothesis is "this coin is not biased toward heads" (one-tail test). The experiment is to repeatedly toss the coin. A possible result of 5 tosses is 5 heads. Under this null hypothesis, the data are considered unlikely (with a fair coin, the probability of this is 1/25=3.1% and the result would be even more unlikely if the coin were biased in favour of tails). The data refute the null hypothesis (that the coin is either fair or biased toward tails) and the conclusion is that the coin is biased towards heads.
+
+Alternatively, the null hypothesis, "this coin is fair" could be examined by looking out for either too many tails or too many heads, and thus the types of outcomes that would tend to contradict this null hypothesis are those where a large number of heads or a large number of tails are observed. Thus a possible diagnostic outcome would be that all tosses yield the same outcome, and the probability of 5 of a kind is 6% under the null hypothesis. This is not statistically significant, preserving the null hypothesis in this case.
+
+This example illustrates that the conclusion reached from a statistical test may depend on the precise formulation of the null and alternative hypotheses. The example data set demonstrates the point, but is actually too small to support either conclusion . Generally, fewer than 30 trials puts any "yes-or-no" conclusion at risk.
+
+The example also illustrates one hazard of hypothesis testing, that of multiple testing. In practice, using a single dataset to evaluate or test a large number of different null hypotheses that are in fact true will lead to erroneous conclusions unless appropriate corrections are made to the testing procedure, for example using the Bonferroni correction. Increasing the number of different tests made on a single dataset, without accounting for the number of tests being conducted, increases the number of these that would suggest that the corresponding null hypothesis should be rejected. This hazard becomes important in the context of data mining. This topic is often discussed under the heading of "testing hypotheses suggested by the data".
+
+==Testing for differences==
+
+In scientific and medical research, null hypotheses play a major role in testing the significance of differences in treatment and control groups. This use, while widespread, offers several grounds for criticism, including straw man, Bayesian criticism and publication bias.
+
+The typical null hypothesis at the outset of the experiment is that no difference exists between the control and experimental groups (for the variable being compared). Other possibilities include:
+
+* that values in samples from a given population can be modeled using a certain family of statistical distributions.
+* that the variability of data in different groups is the same, although they may be centered around different values.
+
+===Example===
+Given the test scores of two random samples of men and women, does one group differ from the other? A possible null hypothesis is that the mean male score is the same as the mean female score:
+
+: H0: μ1 = μ2
+
+where:
+
+: H0 = the null hypothesis
+: μ1 = the mean of population 1, and
+: μ2 = the mean of population 2.
+
+A stronger null hypothesis is that the two samples are drawn from the same population, such that the variance and shape of the distributions are also equal.
+
+==Terminology==
+
+; Simple hypothesis : Any hypothesis which specifies the population distribution completely.
+; Composite hypothesis : Any hypothesis which does not specify the population distribution completely.
+
+A point hypothesis is more complicated to describe. The term arises in contexts where the set of all possible population distributions is put in a parametric form. A point hypothesis is one where exact values are specified for either all the parameters or for a subset of the parameters. Formally, the case where only a subset of parameters is defined is still a composite hypothesis; nonetheless, the term point hypothesis is often applied in such cases, particularly where the hypothesis test can be structured in such a way that the distribution of the test statistic (the distribution under the null hypothesis) does not depend on the parameters whose values have not been specified under the point null hypothesis. Careful treatments of point hypotheses for subsets of parameters do consider them as composite hypotheses and study how the p-value for a fixed critical value of the test statistic varies with the parameters that are not specified by the null hypothesis.
+
+A one-tailed hypothesis is a hypothesis in which the value of a parameter is specified as being either:
+*above or equal to a certain value, or
+* below or equal to a certain value.
+An example of a one-tailed null hypothesis would be that, in a medical context, an existing treatment, A, is no worse than a new treatment, B. The corresponding alternative hypothesis would be that B is better than A. Here if the null hypothesis weren't rejected (i.e. there is no reason to reject the hypothesis that A is at least as good as B), the conclusion would be that treatment A should continue to be used. If the null hypothesis were rejected, i.e. there is evidence that B is better than A, the result would be that treatment B would be used in future. An appropriate hypothesis test would look for evidence that B is better than A, not for evidence that the outcomes of treatments A and B are different. Formulating the hypothesis as a "better than" comparison is said to give the hypothesis directionality.
+
+==Directionality==
+
+Quite often statements of point null hypotheses appear not to have a "directionality", namely, that values larger or smaller than a hypothesized value are conceptually identical. However, null hypotheses can and do have "direction"—in many instances statistical theory allows the formulation of the test procedure to be simplified, thus the test is equivalent to testing for an exact identity. For instance, when formulating a one-tailed alternative hypothesis, application of Drug A will lead to increased growth in patients, then the true null hypothesis is the opposite of the alternative hypothesis, i.e. application of Drug A will not lead to increased growth in patients (a composite null hypothesis). The effective null hypothesis will be application of Drug A will have no effect on growth in patients (a point null hypothesis).
+
+In order to understand why the effective null hypothesis is valid, it is instructive to consider the above hypotheses. The alternative predicts that exposed patients experience increased growth compared to the control group. That is,
+
+: H1: μdrug > μcontrol (where μ = the patients' mean growth)
+
+The true null hypothesis is:
+: HT: μdrug ≤ μcontrol
+
+The effective null hypothesis is:
+: H0: μdrug = μcontrol
+
+The reduction occurs because, in order to gauge support for the alternative, classical hypothesis testing requires calculating how often the results would be as or more extreme than the observations. This requires measuring the probability of rejecting the null hypothesis for each possibility it includes, and second to ensure that these probabilities are all less than or equal to the test's quoted significance level. For reasonable test procedures the largest such probability occurs on the region boundary HT, specifically for the cases included in H0 only. Thus the test procedure can be defined (that is the critical values can be defined) for testing the null hypothesis HT exactly as if the null hypothesis of interest was the reduced version H0.
+
+Fisher said, "the null hypothesis must be exact, that is free of vagueness and ambiguity, because it must supply the basis of the 'problem of distribution,' of which the test of significance is the solution", implying a more restrictive domain for H0. 
+Fisher, R.A. (1966). The design of experiments. 8th edition. Hafner:Edinburgh. According to this view, the null hypothesis must be numerically exact—it must state that a particular quantity or difference is equal to a particular number. In classical science, it is most typically the statement that there is no effect of a particular treatment; in observations, it is typically that there is no difference between the value of a particular measured variable and that of a prediction. The majority of null hypotheses in practice do not meet this "exactness" criterion. For example, consider the usual test that two means are equal where the true values of the variances are unknown—exact values of the variances are not specified.
+
+Most statisticians believe that it is valid to state direction as a part of null hypothesis, or as part of a null hypothesis/alternative hypothesis pair. 
+For example see Null hypothesis However, the results are not a full description of all the results of an experiment, merely a single result tailored to one particular purpose. For example, consider an H0 that claims the population mean for a new treatment is an improvement on a well-established treatment with population mean 10 (known from long experience), with the one-tailed alternative being that the new treatment's mean > 10. If the sample evidence obtained through x-bar equals −200 and the corresponding t-test statistic equals −50, the conclusion from the test would be that there is no evidence that the new treatmnent is better than the existing one: it would not report that it is markedly worse, but that is not what this particular test is looking for. To overcome any possible ambiguity in reporting the result of the test of a null hypothesis, it is best to indicate whether the test was two-sided and, if one-sided, to include the direction of the effect being tested.
+
+The statistical theory required to deal with the simple cases of directionality dealt with here, and more complicated ones, makes use of the concept of an unbiased test.
+
+==See also==
+
+* Bayes factor
+* Counternull
+* Likelihood-ratio test
+* Presumption of innocence
+* Statistical hypothesis testing
+
+==References==
+
+* 
+
+==Further reading==
+*.
+
+==External links==
+* HyperStat Online: Null hypothesis
+
+

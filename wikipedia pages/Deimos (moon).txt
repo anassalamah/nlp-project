@@ -1,0 +1,70 @@
+[[Deimos (moon)]]
+
+Deimos is the smaller and outermore of the two natural satellites of the planet Mars with a mean radius of 6.2 km, the other being Phobos. Deimos takes 30.3 hours to orbit Mars. Its systematic designation is Mars II. The name "Deimos" is pronounced , or sometimes or like the Greek . In Greek mythology, Deimos was the twin brother of Phobos and personified Terror.
+
+==Discovery==
+
+Deimos (Viking 2, 5 October 1977). 
+
+Deimos was discovered by Asaph Hall, Sr. at the United States Naval Observatory in Washington, D.C on 12 August 1877, at about 07:48 UTC (given in contemporary sources as "11 August 14:40" Washington mean time, using an astronomical convention of beginning a day at noon, so 12 hours must be added to get the actual local mean time). Hall, A.; Observations of the Satellites of Mars, Astronomische Nachrichten, Vol. 91, No. 2161 (17 October 1877, signed 21 September 1877) pp. 11/12–13/14 Morley, T. A.; A Catalogue of Ground-Based Astrometric Observations of the Martian Satellites, 1877–1982, Astronomy and Astrophysics Supplement Series (ISSN 0365-0138), Vol. 77, No. 2 (February 1989), pp. 209–226 (Table II, p. 220: first observation of Deimos on 1877-08-12.32526) Notes: The Satellites of Mars, The Observatory, Vol. 1, No. 6 (20 September 1877), pp. 181–185 The Discovery of the Satellites of Mars, Monthly Notices of the Royal Astronomical Society, Vol. 38, No. 4, (8 February 1878), pp. 205–209 Hall also discovered Phobos on 18 August 1877, at about 09:14 GMT, after deliberately searching for Martian moons.
+
+It is named after Deimos, a figure representing dread in Greek Mythology. The names, at first spelled Phobus and Deimus, were suggested by Henry Madan (1838–1901), Science Master of Eton, from Book XV of the Iliad, where Ares (the Roman god Mars) summons Dread (Deimos) and Fear (Phobos). Hall, A.; Names of the Satellites of Mars, Astronomische Nachrichten, Vol. 92, No. 2187 (14 March 1878, signed 7 February 1878), p. 47/48 
+
+== Physical characteristics ==
+Surface.png|thumb|125px|left|Deimos surface from 30 km (Viking, 1977). [http://nssdc.gsfc.nasa.gov/imgcat/html/object_page/vo2_423b63.html Deimos - Viking 2 Orbiter ]]
+Deimos, like Mars's other moon, Phobos, has spectra, albedos and densities similar to those of a C- or D-type asteroid. Like most bodies of its size, Deimos is highly non-spherical with triaxial dimensions of 15 × 12.2 × 11 km making it 0.56 times smaller than Phobos. Deimos is composed of rock rich in carbonaceous material, much like C-type asteroids and carbonaceous chondrite meteorites. It is cratered, but the surface is noticeably smoother than that of Phobos, caused by the partial filling of craters with regolith. The regolith is highly porous and has a radar-estimated density of only 1.471 g/cm3. The two largest craters, Swift and Voltaire, each measure about 3 km across.
+
+It has an escape velocity of 5.6 m/s and apparent magnitude of 12.45. 
+
+=== Named geological features ===
+
+Only two geological features on Deimos have been given names. The craters Swift and Voltaire are named after writers who speculated on the existence of two Martian moons before Phobos and Deimos were discovered. of Planetary Nomenclature, USGS Astrogeology Research Program 
+DEIMOS 
+
+ Crater Named after Coordinates Diameter (m) 
+ Swift Jonathan Swift 1000 
+ Voltaire Voltaire 1900 Nomenclature: Crater, craters 
+
+== Orbital characteristics ==
+Orbits of Phobos and Deimos (to scale). 
+Deimos's orbit is nearly circular and is close to Mars's equatorial plane. Deimos, Mars's outer moon, is possibly an asteroid that was perturbed by Jupiter into an orbit that allowed it to be captured by Mars, though this hypothesis is still controversial and disputed. Both Deimos and Phobos have very circular orbits which lie almost exactly in Mars's equatorial plane, and hence a capture origin requires a mechanism for circularizing the initially highly eccentric orbit, and adjusting its inclination into the equatorial plane, most likely by a combination of atmospheric drag and tidal forces, although it is not clear that sufficient time was available for this to have occurred for Deimos. 
+Curiosity's view of the Mars moons: Phobos passing in front of Deimos - in real-time (video-gif, 1 August 2013). 
+As seen from Mars, Deimos would have an angular diameter of no more than 2.5 minutes (sixty minutes make one degree), one twelfth of the width of Luna as seen from Earth, and would therefore appear almost star-like to the naked eye. Richardson, R. S., If You Were on Mars, Astronomical Society of the Pacific Leaflets, Vol. 4, Leaflet No. 178 (December 1943), pp. 214–221 At its brightest ("full moon") it would be about as bright as Venus is from Earth; at the first- or third-quarter phase it would be about as bright as Vega. With a small telescope, a Martian observer could see Deimos's phases, which take 1.2648 days (Deimos's synodic period) to run their course. 
+
+Unlike Phobos, which orbits so fast that it actually rises in the west and sets in the east, Deimos rises in the east and sets in the west. However, the Sun-synodic orbital period of Deimos of about 30.4 hours exceeds the Martian solar day ("sol") of about 24.7 hours by such a small amount that 2.7 days elapse between its rising and setting for an equatorial observer.
+
+Because Deimos's orbit is relatively close to Mars and has only a very small inclination to Mars's equator, it cannot be seen from Martian latitudes greater than 82.7°.
+
+===Solar transits===
+Deimos transits the Sun - as viewed by the Mars Opportunity rover (4 March 2004).
+
+Deimos regularly passes in front of the Sun as seen from Mars. It is too small to cause a total eclipse, appearing only as a small black dot moving across the Sun. Its angular diameter is only about 2.5 times the angular diameter of Venus during a transit of Venus from Earth. On 4 March 2004 a transit of Deimos was photographed by Mars Rover Opportunity, and on 13 March 2004 a transit was photographed by Mars Rover Spirit.
+
+==Origin==
+Deimos — the smallest moon of Mars (Viking, 3 October 1995).
+The origin of the Martian moons is still controversial. Burns, J. A., "Contradictory Clues as to the Origin of the Martian Moons," in Mars, H. H. Kieffer et al., eds., U. Arizona Press, Tucson, 1992 The main hypotheses are that they formed either by capture or by accretion. Because of the similarity to the composition of C- or D-type asteroids, one hypothesis is that the moons may be objects captured into Martian orbit from the asteroid belt, with orbits that have been circularized either by atmospheric drag or tidal forces, Cazenave, A.; A. Dobrovolskis and B. Lago, "Orbital history of the Martian satellites with inferences on their origin," Icarus, Volume 44, No. 3, December 1980, pp 730–744 as capture requires dissipation of energy. The current Martian atmosphere is too thin to capture a Phobos-sized object by atmospheric braking. Geoffrey Landis has pointed out that the capture could have occurred if the original body was a binary asteroid that separated due to tidal forces. Landis, G. A., "Origin of Martian Moons from Binary Asteroid Dissociation," American Association for the Advancement of Science Annual Meeting; Boston, MA, 2001; abstract. The main alternative hypothesis is that the moons accreted in the present position. Another hypothesis is that Mars was once surrounded by many Phobos- and Deimos-sized bodies, perhaps ejected into orbit around it by a collision with a planetesimal. Craddock, R. A.; (1994); The Origin of Phobos and Deimos, Abstracts of the 25th Annual Lunar and Planetary Science Conference, held in Houston, TX, 14–18 March 1994, p. 293 
+
+==Exploration==
+Overall, its exploration history is similar to Mars and Phobos. Mars Phobos and Deimos Survey (M-PADS)–A Martian Moons Orbiter and Phobos Lander (Ball, Andrew J.; Price, Michael E.; Walker, Roger J.; Dando, Glyn C.; Wells, Nigel S. and Zarnecki,
+John C. (2009). Mars Phobos and Deimos Survey (M-PADS)–A Martian Moons Orbiter and Phobos Lander. Advances in Space Research, 43(1), pp. 120–127.) However, no landing or sample returns have been attempted.
+
+A sample return mission called Gulliver has been conceptualized, Dr. Britt - The Gulliver Mission: Sample Return from Deimos in which 1 kilogram (2.2 pounds) of material from Deimos would be returned to Earth. Another design is OSIRIS-REx 2, which would use heritage from the first OSIRIS-REx. Elifritz, T. L. - OSIRIS-REx II to Mars 
+
+==See also==
+* List of missions to the moons of Mars
+* Moons of Mars
+* Phobos and Deimos in fiction
+* Transit of Deimos from Mars
+
+==References==
+
+==External links==
+
+*Deimos Profile by NASA's Solar System Exploration
+*Deimos rotation movie
+*Animation of Deimos
+*USGS Deimos nomenclature
+
+ 
+
+

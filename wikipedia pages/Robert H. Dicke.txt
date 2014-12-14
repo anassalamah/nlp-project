@@ -1,0 +1,56 @@
+[[Robert H. Dicke]]
+
+Robert Henry Dicke (May 6, 1916 – March 4, 1997) was an American physicist who made important contributions to the fields of astrophysics, atomic physics, cosmology and gravity. 
+
+==Biography==
+Born in St. Louis, Missouri, Dicke completed his bachelor's degree at Princeton University and his doctorate, in 1939, from the University of Rochester in nuclear physics. During the Second World War he worked in the Radiation Laboratory at the Massachusetts Institute of Technology where he worked on the development of radar and designed the Dicke radiometer, a microwave receiver. He used this to set a limit on the temperature of the microwave background radiation, from the roof of the Radiation Laboratory, of less than 20 kelvins.
+
+In 1946, he returned to Princeton University, where he remained for the rest of his career. He did some work in atomic physics, particularly on the laser and measuring the gyromagnetic ratio of the electron. An important contribution to the field of Spectroscopy and Radiative Transfer was his prediction of the phenomenon called Dicke narrowing (aka collisional narrowing): When the mean free path of an atom is much smaller than the wavelength of one of its radiation transitions, the atom changes velocity and direction many times during the emission or absorption of a photon. This causes an averaging over different Doppler states and results in an atomic linewidth that is much narrower than the Doppler width. Dicke narrowing occurs at relatively low pressures in the millimeter wave and microwave regions (where it is used in atomic clocks to improve precision). Dicke narrowing is analogous to the Mössbauer effect for gamma rays.
+
+In 1956, about two years before Townes and Schawlow filed their patent application, Dicke filed a patent titled "Molecular Amplification Generation Systems and Methods" with claims of how to build an infrared laser and the use of an open resonator and the patent was awarded on September 9, 1958.
+
+He spent the remainder of his career developing a program of precision tests of general relativity using the framework of the equivalence principle. In 1957, he first proposed an alternative theory of gravitation inspired by Mach's principle and Paul Dirac's large numbers hypothesis. In 1961, this led to the Brans–Dicke theory of gravitation, developed with Carl H. Brans, an equivalence-principle violating modification of general relativity. A highlight experiment was the classic test of the equivalence principle by Roll, Krotkov and Dicke, a factor of 100 more accurate than previous work. He also made measurements of solar oblateness which were useful in understanding the perihelion precession of Mercury's orbit, one of the classical tests of general relativity.
+
+Dirac had noted that the gravitational constant G is very roughly equal to the inverse age of the universe (in certain 'natural' units), and had concluded that G must vary to maintain this equality. Dicke realized that Dirac's relation could be a selection effect: fundamental physical laws connect G to the lifetime of what are called main sequence stars, such as our Sun, and these stars, according to Dicke, are necessary for the existence of life. At any other epoch, when the equality did not hold, there would be no intelligent life around to notice the discrepancy. This was the first modern application of what is now called the weak anthropic principle.
+
+In the early 1960s, work on Brans–Dicke theory led Dicke to think about the early Universe, and with Jim Peebles he re-derived the prediction of a cosmic microwave background (having allegedly forgotten the earlier prediction of George Gamow and co-workers). Naturally, Dicke, with David Todd Wilkinson and Peter G. Roll immediately set about building a Dicke radiometer to search for the radiation, but they were famously scooped by the accidental detection made by Arno Penzias and Robert Woodrow Wilson (also using a Dicke radiometer), who were working at Bell Labs just a few miles from Princeton. Nevertheless, Dicke's group made the second clean detection, and their theoretical interpretation of Penzias & Wilson's results showed that theories of the early universe had moved from pure speculation into well-tested physics.
+
+Dicke (1970) gave an interesting argument that the universe must have very nearly the critical density of matter needed to stop it expanding forever. Standard models of the universe pass through stages dominated by radiation, matter, curvature etc. Transitions between stages are very special cosmic times which a priori could differ by many orders of magnitude. Since there is a non-negligible amount of matter, either we are coincidentally living close to the transition to or from the matter-dominated stage, or we are in the middle of it; the latter is preferred since the coincidences are highly unlikely (an application of the Copernican principle). This implies a negligible curvature, so the universe must have almost critical density. This has been called the "Dicke coincidence" argument. In fact it gives the wrong answer, since we seem to be living at the time of transition between the matter and dark energy stages. An anthropic explanation of the failure of Dicke's argument was given by Weinberg. 
+
+Robert Dicke is also responsible for developing the lock-in amplifier, which is an indispensable tool in the area of applied science and engineering. Some believe that Robert Dicke deserved a Nobel Prize just for the invention of such a powerful and ubiquitous device. Many of Dicke's experiments capitalize on lock-in in some way or another. However, in an interview with Martin Harwit he claims that even though he is often credited with the invention of the device; he believes he read about it in a review of scientific equipment written by Michels a professor at Bryn Mawr. 
+
+In 1970, Dicke was awarded the National Medal of Science. In 1973 he was awarded the Comstock Prize in Physics from the National Academy of Sciences. 
+
+== Marriage and family life ==
+Dicke married Annie Currie in 1942. Annie, of Scottish descent, was born in Barrow-in-Furness in England in 1920 and as a young girl immigrated to Rochester, New York, via Australia and New Zealand, of which Annie had very fond memories. To her dying day, Annie would state that Australia was nice but New Zealand was Utopia.
+
+At the beginning of World War II Robert was asked to assist the war effort by applying his skills to the development of radar with the Massachusetts Institute of Technology. Therefore, this is where they began their married life. During this time, Annie became friends with a number of the wives of other professors working on similar projects. However due to security concerns none of them knew what their husbands' work entailed and could never discuss it.
+
+At the end of the war, Robert and Annie moved to Princeton, New Jersey where Robert was on the faculty at Princeton University. Robert died there March 4, 1997. Annie continued to live in Princeton until 2002. For the last years of her life she lived in Hightstown, New Jersey at Meadow Lakes Retirement Community until her death in 2005.
+
+They had one daughter, Nancy born in 1945, and two sons, John born in 1946 and James born in 1953. At the time of Robert's death they had six grandchildren and two great grandchildren.
+
+==References==
+
+*
+*
+*
+*
+
+==Bibliography==
+*
+*
+*
+*
+*
+*
+
+==External links==
+
+*National Academy of Sciences biography
+*BAAS 29 (1997) 1469, obituary
+*A Look at the Abandoned Contributions to Cosmology of Dirac, Sciama and Dicke (arxiv:0708.3518)
+* Oral History interview transcript with Robert Dicke 2 May 1983, American Institute of Physics, Niels Bohr Library and Archives
+* Oral History interview transcript with Robert Dicke 18 June 1985, American Institute of Physics, Niels Bohr Library and Archives
+
+

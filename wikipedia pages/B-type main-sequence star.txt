@@ -1,0 +1,32 @@
+[[B-type main-sequence star]]
+
+A B-type main-sequence star (B V) is a main-sequence (hydrogen-burning) star of spectral type B and luminosity class V. These stars have from 2 to 16 times the mass of the Sun and surface temperatures between 10,000 and 30,000 K. , Tables VII and VIII. B-type stars are extremely luminous and blue. Their spectra have neutral helium, which are most prominent at the B2 subclass, and moderate hydrogen lines. Examples include Regulus and Algol A. SIMBAD, entries on Regulus and Algol A, accessed June 19, 2007. 
+
+This class of stars was introduced with the Harvard sequence of stellar spectra and published in the Revised Harvard photometry catalogue. The definition of type B stars was the presence of non-ionized helium lines with the absence of singly ionized helium in the blue-violet portion of the spectrum. All of the spectral classes, including the B type, were subdivided with a numerical suffix that indicated the degree to which they approached the next classification. Thus B2 is two tenths of the way from type B (or B0) to type A. 
+
+Later, however, more refined spectra showed lines of ionized helium for stars of type B0. Likewise, A0 stars also show weak lines of non-ionized helium. Subsequent catalogues of stellar spectra classified the stars based on the strengths of absorption lines at specific frequencies, or by comparing the strengths of different lines. Thus, in the MK Classification system, the spectral class B0 has the line at wavelength 438.7 nm being stronger than the line at 420.0 nm. The Balmer series of hydrogen lines grows stronger through the B class, then peak at type A2. The lines of ionized silicon are used to determine the sub-class of the B-type stars, while magnesium lines are used to distinguish between the temperature classes. 
+
+Type-B stars do not have a corona and lack a convection zone in their outer atmosphere. They have a higher mass loss rate than smaller stars such as the Sun, and their stellar wind has velocities of about 3,000 km/s. The energy generation in main-sequence B-type stars comes from the CNO cycle of thermonuclear fusion. Because the CNO cycle is very temperature sensitive, the energy generation is heavily concentrated at the center of the star, which results in a convection zone about the core. This results in a steady mixing of the hydrogen fuel with the helium byproduct of the nuclear fusion. Many B-type stars have a rapid rate of rotation, with an equatorial rotation velocity of about 200 km/s. 
+
+==Spectral Standard Stars==
+The revised Yerkes Atlas system (Johnson & Morgan 1953) Fundamental stellar photometry for standards of spectral type on the revised system of the Yerkes spectral atlas H.L. Johnson & W.W. Morgan, 1953, Astrophysical Journal, 117, 313 listed a dense grid of B-type dwarf spectral standard stars, however not all of these have survived to this day as standards. The "anchor points" of the MK spectral classification system among the B-type main-sequence dwarf stars, i.e. those standard stars that have remain unchanged since at least the 1940s, are upsilon Orionis (B0 V), eta Aurigae (B3 V), eta Ursae Majoris (B3 V). MK ANCHOR POINTS, Robert F. Garrison Spectral Classification, W.W. Morgan & P.C. Keenan, 1973, Annual Review of Astronomy and Astrophysics, vol. 11, p.29 
+Besides these anchor standards, the seminal review of MK classification by Morgan & Keenan (1973) listed "dagger standards" of Tau Scorpii (B0 V), Omega Scorpii (B1 V), 42 Orionis (B1 V), 22 Scorpii (B2 V), Rho Aurigae (B5 V), and 18 Tau (B8 V). The Revised MK Spectra Atlas of Morgan, Abt, & Tapscott (1978) Revised MK Spectral Atlas for stars earlier than the sun, W.W. Morgan, W. W., H.A. Abt, J.W. Tapscott, 1978, Williams Bay: Yerkes Observatory, and Tucson: Kitt Peak National Observatory further contributed the standards beta2 Sco (B2 V), 29 Persei (B3 V), HD 36936 (B5 V), and HD 21071 (B7 V). 
+Gray & Garrison (1994) The late B-type stars: Refined MK classification, confrontation with stromgren photometry, and the effects of rotation, R.F. Gray & R.O. Garrison, 1994, The Astronomical Journal, vol. 107, no. 4, p. 1556-1564 contributed
+two B9 V standards: omega For A and HR 2328. The only published B4 V standard is 90 Leonis,
+from Lesh (1968). The Kinematics of the Gould Belt: an Expanding Group? J.R. Lesh, 1968, Astrophysical Journal Supplement, vol. 17, p.371 (Table 1) There has been little agreement in the literature on choice of B6 V standard.
+
+==Chemical peculiarities==
+Some of the B-type stars of stellar class B0&ndash;B3 exhibit unusually strong lines of non-ionized helium. These chemically peculiar stars are termed helium-strong stars. These often have strong magnetic fields in their photosphere. In contrast, there are also helium-weak B-type stars with understrength helium lines and strong hydrogen spectra. Other chemically peculiar B-types stars are mercury–manganese stars with spectral types B7-B9. Finally, there are Be stars that show a prominent emission spectrum of hydrogen. 
+
+== Planets ==
+
+B-type stars with planets include the main-sequence B-type's HIP 78530 b, the subgiant's Kappa Andromedae b and a few subdwarf B stars.
+
+== See also ==
+
+* Stellar classification, Class B
+* Star count, surveys of stars
+
+==References==
+
+ 

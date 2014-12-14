@@ -1,0 +1,43 @@
+[[Decarboxylation]]
+
+Decarboxylation
+
+Decarboxylation is a chemical reaction that removes a carboxyl group and releases carbon dioxide (CO2). Usually, decarboxylation refers to a reaction of carboxylic acids, removing a carbon atom from a carbon chain. The reverse process, which is the first chemical step in photosynthesis, is called carboxylation, the addition of CO2 to a compound. Enzymes that catalyze decarboxylations are called decarboxylases or, the more formal term, carboxy-lyases (EC number 4.1.1).
+
+== In organic chemistry ==
+The term "decarboxylation" literally means removal of the COOH (carboxyl group) and its replacement with a proton. The term simply relates the state of the reactant and product. Decarboxylation is one of the oldest organic reactions, since it often entails simple pyrolysis, and volatile products distill from the reactor. Heating is required because the reaction is less favorable at low temperatures. Yields are highly sensitive to conditions. In retrosynthesis, decarboxylation reactions can be considered the opposite of homologation reactions, in that the chain length becomes one carbon shorter. Metals, especially copper compounds, are usually required. Such reactions proceed via the intermediacy of metal carboxylate complexes.
+
+Decarboxylation of aryl carboxylates can generate the equivalent of the corresponding aryl anion, which in turn can undergo cross coupling reactions.
+
+Alkylcarboxylic acids and their salts do not always undergo decarboxylation readily. http://www.chem.ucalgary.ca/courses/350/Carey5th/Ch19/ch19-3-4.html, Decarboxylation, Dr. Ian A. Hunt, Department of Chemistry, University of Calgary Exceptions are the decarboxylation of beta-keto acids, α,β-unsaturated acids, and α-phenyl, α-nitro, and α-cyanoacids. Such reactions are accelerated due to the formation of a zwitterionic tautomer in which the carbonyl is protonated and the carboxyl group is deprotonated. Typically fatty acids do not decarboxylate readily. Reactivity of an acid towards decarboxylation depends upon stability of carbanion intermediate formed in above mechanism.
+Many reactions have been named after early workers in organic chemistry. The Barton decarboxylation, Kolbe electrolysis, Kochi reaction and Hunsdiecker reaction are radical reactions. The Krapcho decarboxylation is a related decarboxylation of an ester. In ketonic decarboxylation a carboxylic acid is converted to a ketone.
+
+===Protodecarboxylation===
+Protodecarboxylations involve the conversion of a carboxylic acid to the corresponding hydrocarbon. This is conceptually the same as the more general term "decarboxylation" as defined above except that it specifically requires that the carboxyl group is, as expected, replaced by a proton. The reaction is especially common in conjunction with the malonic ester synthesis and Knoevenagel condensations. The reaction involves the conjugate base of the carboxl group, a carboxylate ion, and an unsaturated receptor of electron density, such as a protonated carbonyl group. Where reactions entail heating the carboxylic acid with concentrated hydrochloric acid such a direct route is impossible as it would produce protonated carbon dioxide. In these cases, the reaction is likely to occur by initial addition of water and a proton. 
+
+== In biochemistry ==
+Common biosynthetic oxidative decarboxylations of amino acids to amines are: 
+* tryptophan to tryptamine
+* phenylalanine to phenylethylamine
+* tyrosine to tyramine
+* histidine to histamine
+* serine to ethanolamine
+* glutamic acid to GABA
+* lysine to cadaverine
+* arginine to agmatine
+* ornithine to putrescine
+* 5-HTP to serotonin
+* L-DOPA to dopamine
+
+Other decarboxylation reactions from the citric acid cycle include: 
+* pyruvate to acetyl-CoA (see pyruvate decarboxylation)
+* oxalosuccinate to α-ketoglutarate
+* α-ketoglutarate to succinyl-CoA.
+
+==Case studies==
+Upon heating, Δ9-Tetrahydrocannabinolic acid decarboxylates to give the psychoactive compound Δ9-Tetrahydrocannabinol. Tetrahydrocannabinolic acid (THC) is better known as the active ingredient in cannabis resin. Tetrahydrocannabinolic acid In beverages stored for long periods, very small amounts of benzene may form from benzoic acid by decarboxylation catalyzed by the presence of vitamin C. http://www.cfsan.fda.gov/~dms/benzdata.html 
+The addition of catalytic amounts of cyclohexenone has been reported to catalyze the decarboxylation of amino acids. http://www.erowid.org/archive/rhodium/chemistry/tryptophan.html, Tryptamine from Tryptophan However, using such catalysts may also yield an amount of unwanted by-products.
+
+==References==
+
+

@@ -1,0 +1,270 @@
+[[Metaphysics]]
+
+Metaphysics is a traditional branch of philosophy concerned with explaining the fundamental nature of being and the world that encompasses it, Geisler, Norman L. "Baker Encyclopedia of Christian Apologetics" page 446. Baker Books, 1999. although the term is not easily defined. Metaphysics (Stanford Encyclopedia of Philosophy). Traditionally, metaphysics attempts to answer two basic questions in the broadest possible terms: What is it (that is, whatever it is that there is) like? 
+
+# What is ultimately there?
+# What is it like?
+
+A person who studies metaphysics is called a metaphysicist&thinsp; Random House Dictionary Onlinemetaphysicist or a metaphysician. Random House Dictionary Onlinemetaphysician The metaphysician attempts to clarify the fundamental notions by which people understand the world, e.g., existence, objects and their properties, space and time, cause and effect, and possibility. A central branch of metaphysics is ontology, the investigation into the basic categories of being and how they relate to each other. Another central branch of metaphysics is cosmology, the study of the origin, fundamental structure, nature, and dynamics of the universe. Some include Epistemology as another central focus of metaphysics but this can be questioned.
+
+Prior to the modern history of science, scientific questions were addressed as a part of metaphysics known as natural philosophy. Originally, the term "science" (Latin scientia) simply meant "knowledge". The scientific method, however, transformed natural philosophy into an empirical activity deriving from experiment unlike the rest of philosophy. By the end of the 18th century, it had begun to be called "science" to distinguish it from philosophy. Thereafter, metaphysics denoted philosophical enquiry of a non-empirical character into the nature of existence. Peter Gay, The Enlightenment, vol. 1 (The Rise of Modern Paganism), Chapter 3, Section II, pp. 132–141. Some philosophers of science, such as the neo-positivists, say that natural science rejects the study of metaphysics, while other philosophers of science strongly disagree.
+
+==Etymology==
+The word "metaphysics" derives from the Greek words μετά (metá, "beyond", "upon" or "after") and φυσικά (physiká, "physics"). In the English language, the word comes by way of the Medieval Latin metaphysica, the neuter plural of Medieval Greek metaphysika. Various dictionaries trace its first appearance in English to the mid-sixteenth century, although in some cases as early as 1387. It was first used as the title for several of Aristotle's works, because they were usually anthologized after the works on physics in complete editions. The prefix meta- ("beyond") indicates that these works come "after" the chapters on physics. However, Aristotle himself did not call the subject of these books "Metaphysics": he referred to it as "first philosophy." The editor of Aristotle's works, Andronicus of Rhodes, is thought to have placed the books on first philosophy right after another work, Physics, and called them (ta meta ta physika biblia) or "the books that come after the on physics". This was misread by Latin scholiasts, who thought it meant "the science of what is beyond the physical".
+
+However, once the name was given, the commentators sought to find intrinsic reasons for its appropriateness. For instance, it was understood to mean "the science of the world beyond nature" (physis in Greek), that is, the science of the immaterial. Again, it was understood to refer to the chronological or pedagogical order among our philosophical studies, so that the "metaphysical sciences" would mean "those that we study after having mastered the sciences that deal with the physical world" (St. Thomas Aquinas, "In Lib, Boeth. de Trin.", V, 1).
+
+There is a widespread use of the term in current popular literature which replicates this error, i.e. that metaphysical means spiritual non-physical: thus, "metaphysical healing" means healing by means of remedies that are not physical. 
+
+==Origins and nature of metaphysics==
+
+Although the word "metaphysics" goes back to Aristotelean philosophy, Aristotle himself credited earlier philosophers with dealing with metaphysical questions. The first known philosopher, according to Aristotle, is Thales of Miletus, who taught that all things derive from a single first cause or Arche.
+
+Metaphysics as a discipline was a central part of academic inquiry and scholarly education even before the age of Aristotle, who considered it "the Queen of Sciences." Its issues were considered no less important than the other main formal subjects of physical science, medicine, mathematics, poetics and music. Since the beginning of modern philosophy during the seventeenth century, problems that were not originally considered within the bounds of metaphysics have been added to its purview, while other problems considered metaphysical for centuries are now typically subjects of their own separate regions in philosophy, such as philosophy of religion, philosophy of mind, philosophy of perception, philosophy of language, and philosophy of science.
+
+==Central questions==
+
+Most positions that can be taken with regards to any of the following questions are endorsed by one or another notable philosopher. It is often difficult to frame the questions in a non-controversial manner.
+
+===Being, existence and reality===
+The nature of Being is a perennial topic in metaphysics. For instance, Parmenides taught that reality was a single unchanging Being. The 20th century philosopher Heidegger thought previous philosophers had lost sight of the question of Being (qua Being) in favour of the questions of beings (existing things), so that a return to the Parmenidean approach was needed. An ontological catalogue is an attempt to list the fundamental constituents of reality. The question of whether or not existence is a predicate has been discussed since the Early Modern period, not least in relation to the ontological argument for the existence of God. Existence, that something is, has been contrasted with essence, the question of what something is. Reflections on the nature of the connection and distinction between existence and essence dates back to Aristotle's Metaphysics, and later found one of its most influential interpretations in the ontology of the eleventh century metaphysician Avicenna (Ibn Sina). This question is discussed in details in one of the latest publications on this topic, see: Nader El-Bizri, 'Avicenna and Essentialism', Review of Metaphysics 54 (2001), pp. 753–778 Since existence without essence seems blank, it is associated with nothingness by philosophers such as Hegel.
+
+===Empirical and conceptual objects===
+
+====Objects and their properties====
+
+The world seems to contain many individual things, both physical, like apples, and abstract, such as love and the number 3; the former objects are called particulars. Particulars are said to have attributes, e.g., size, shape, color, location, and two particulars may have some such attributes in common. Such attributes are also termed Universals or Properties; the nature of these, and whether they have any real existence and if so of what kind, is a long-standing issue, realism and nominalism representing opposing views.
+
+Metaphysicians concerned with questions about universals or particulars are interested in the nature of objects and their properties, and the relationship between the two. Some, e.g., Plato, argue that properties are abstract objects, existing outside of space and time, to which particular objects bear special relations. David Armstrong holds that universals exist in time and space but only at their instantiation and their discovery is a function of science. Others maintain that particulars are a bundle or collection of properties (specifically, a bundle of properties they have).
+
+Biological literature contains abundant references to taxa (singular "taxon"), groups like the mammals or the poppies. Some authors claim (or at least presuppose) that taxa are real entities, that to say that an animal is included in Mammalia (the scientific name for the mammal group) is to say that it bears a certain relation to Mammalia, an abstract object. Advocates of phylogenetic nomenclature, a more nominalistic view, oppose this reading; in their opinion, calling an animal a mammal is a shorthand way of saying that it is descended from the last common ancestor of, say, humans and platypuses. 
+
+===Cosmology and cosmogony===
+
+Metaphysical Cosmology is the branch of metaphysics that deals with the world as the totality of all phenomena in space and time. Historically, it has had quite a broad scope, and in many cases was founded in religion. The ancient Greeks drew no distinction between this use and their model for the cosmos. However, in modern times it addresses questions about the Universe which are beyond the scope of the physical sciences. It is distinguished from religious cosmology in that it approaches these questions using philosophical methods (e.g. dialectics).
+
+Cosmogony deals specifically with the origin of the universe.
+
+Modern metaphysical cosmology and cosmogony try to address questions such as:
+* What is the origin of the Universe? What is its first cause? Is its existence necessary? (see monism, pantheism, emanationism and creationism)
+* What are the ultimate material components of the Universe? (see mechanism, dynamism, hylomorphism, atomism)
+* What is the ultimate reason for the existence of the Universe? Does the cosmos have a purpose? (see teleology)
+
+===Determinism and free will===
+
+Determinism is the philosophical proposition that every event, including human cognition, decision and action, is causally determined by an unbroken chain of prior occurrences. It holds that no random, spontaneous, stochastic, intrinsically mysterious, or miraculous events occur. The principal consequence of the deterministic claim is that it poses a challenge to the existence of free will.
+
+The problem of free will is the problem of whether rational agents exercise control over their own actions and decisions. Addressing this problem requires understanding the relation between freedom and causation, and determining whether the laws of nature are causally deterministic. Some philosophers, known as Incompatibilists, view determinism and free will as mutually exclusive. If they believe in determinism, they will therefore believe free will to be an illusion, a position known as Hard Determinism. Proponents range from Baruch Spinoza to Ted Honderich.
+
+Others, labeled Compatibilists (or "Soft Determinists"), believe that the two ideas can be coherently reconciled. Adherents of this view include Thomas Hobbes and many modern philosophers such as John Martin Fischer.
+
+Incompatibilists who accept free will but reject determinism are called Libertarians, a term not to be confused with the political sense. Robert Kane and Alvin Plantinga are modern defenders of this theory.
+
+===Identity and change===
+
+The Greeks took some extreme positions on the nature of change: Parmenides denied that change occurs at all, while Heraclitus thought change was ubiquitous: "ou cannot step into the same river twice."
+
+Identity, sometimes called Numerical Identity, is the relation that a "thing" bears to itself, and which no "thing" bears to anything other than itself (cf. sameness). According to Leibniz, if some object x is identical to some object y, then any property that x has, y will have as well. However, it seems, too, that objects can change over time. If one were to look at a tree one day, and the tree later lost a leaf, it would seem that one could still be looking at that same tree. Two rival theories to account for the relationship between change and identity are Perdurantism, which treats the tree as a series of tree-stages, and Endurantism, which maintains that the tree—the same tree—is present at every stage in its history.
+
+===Mind and matter===
+
+The nature of matter was a problem in its own right in early philosophy. Aristotle himself introduced the idea of matter in general to the Western world, adapting the term hyle, which originally meant "lumber." Early debates centered on identifying a single underlying principle. Water was claimed by Thales, air by Anaximenes, Apeiron (the Boundless) by Anaximander, fire by Heraclitus. Democritus, in conjunction with his mentor, Leucippus, conceived of an atomic theory many centuries before it was accepted by modern science. It is worth noting, however, that the grounds necessary to ensure validity to the proposed theory's veridical nature were not scientific, but just as philosophical as those traditions espoused by Thales and Anaximander.
+
+The nature of the mind and its relation to the body has been seen as more of a problem as science has progressed in its mechanistic understanding of the brain and body. Proposed solutions often have ramifications about the nature of mind as a whole. René Descartes proposed substance dualism, a theory in which mind and body are essentially different, with the mind having some of the attributes traditionally assigned to the soul, in the seventeenth century. This creates a conceptual puzzle about how the two interact (which has received some strange answers, such as occasionalism). Evidence of a close relationship between brain and mind, such as the Phineas Gage case, have made this form of dualism increasingly unpopular.
+
+Another proposal discussing the mind-body problem is idealism, in which the material is sweepingly eliminated in favor of the mental. Idealists, such as George Berkeley, claim that material objects do not exist unless perceived and only as perceptions. The "German idealists" such as Fichte, Hegel and Schopenhauer took Kant as their starting-point, although it is debatable how much of an idealist Kant himself was. Idealism is also a common theme in Eastern philosophy. Related ideas are panpsychism and panexperientialism, which say everything has a mind rather than everything exists in a mind. Alfred North Whitehead was a twentieth-century exponent of this approach.
+
+Idealism is a monistic theory which holds that there is a single universal substance or principle. Neutral monism, associated in different forms with Baruch Spinoza and Bertrand Russell, seeks to be less extreme than idealism, and to avoid the problems of substance dualism. It claims that existence consists of a single substance that in itself is neither mental nor physical, but is capable of mental and physical aspects or attributesthus it implies a dual-aspect theory.
+
+For the last one hundred years, the dominant metaphysics has without a doubt been materialistic monism. Type identity theory, token identity theory, functionalism, reductive physicalism, nonreductive physicalism, eliminative materialism, anomalous monism, property dualism, epiphenomenalism and emergence are just some of the candidates for a scientifically informed account of the mind. (It should be noted that while many of these positions are dualisms, none of them are substance dualism.)
+
+Prominent recent philosophers of mind include David Armstrong, Ned Block, David Chalmers, Patricia and Paul Churchland, Donald Davidson, Daniel Dennett, Fred Dretske, Douglas Hofstadter, Jerry Fodor, David Lewis, Thomas Nagel, Hilary Putnam, John Searle, John Smart, Ludwig Wittgenstein, and Fred Alan Wolf.
+
+===Necessity and possibility===
+
+Metaphysicians investigate questions about the ways the world could have been. David Lewis, in "On the Plurality of Worlds," endorsed a view called Concrete Modal realism, according to which facts about how things could have been are made true by other concrete worlds, just like ours, in which things are different. Other philosophers, such as Gottfried Leibniz, have dealt with the idea of possible worlds as well. The idea of necessity is that any necessary fact is true across all possible worlds. A possible fact is true in some possible world, even if not in the actual world. For example, it is possible that cats could have had two tails, or that any particular apple could have not existed. By contrast, certain propositions seem necessarily true, such as analytic propositions, e.g., "All bachelors are unmarried." The particular example of analytic truth being necessary is not universally held among philosophers. A less controversial view might be that self-identity is necessary, as it seems fundamentally incoherent to claim that for any x, it is not identical to itself; this is known as the law of identity, a putative "first principle". Aristotle describes the principle of non-contradiction, "It is impossible that the same quality should both belong and not belong to the same thing ... This is the most certain of all principles ... Wherefore they who demonstrate refer to this as an ultimate opinion. For it is by nature the source of all the other axioms."
+
+===Religion and spirituality===
+Theology is the study of a god or gods and the nature of the divine. Whether there is a god (monotheism), many gods (polytheism) or no gods (atheism), or whether it is unknown or unknowable whether any gods exist (agnosticism; apophatic theology), and whether a divine entity directly intervenes in the world (theism), or its sole function is to be the first cause of the universe (deism); these and whether a god or gods and the world are different (as in panentheism and dualism), or are identical (as in pantheism), are some of the primary metaphysical questions concerning philosophy of religion.
+
+Within the standard Western philosophical tradition, theology reached its peak under the medieval school of thought known as scholasticism, which focused primarily on the metaphysical aspects of Christianity. The work of the scholastics is still an integral part of modern philosophy, with key figures such as Thomas Aquinas still playing an important role in the philosophy of religion. 
+
+===Space and time===
+
+In Book XI of the Confessions, Saint Augustine of Hippo asked the fundamental question about the nature of time. A traditional realist position in ontology is that time and space have existence apart from the human mind. Idealists, including Kant, claim that space and time are mental constructs used to organize perceptions, or are otherwise surreal.
+
+Suppose that one is sitting at a table, with an apple in front of him or her; the apple exists in space and in time, but what does this statement indicate? Could it be said, for example, that space is like an invisible three-dimensional grid in which the apple is positioned? Suppose the apple, and all physical objects in the universe, were removed from existence entirely. Would space as an "invisible grid" still exist? René Descartes and Leibniz believed it would not, arguing that without physical objects, "space" would be meaningless because space is the framework upon which we understand how physical objects are related to each other. Newton, on the other hand, argued for an absolute "container" space. The pendulum swung back to relational space with Einstein and Ernst Mach.
+
+While the absolute/relative debate, and the realism debate are equally applicable to time and space, time presents some special problems of its own. The flow of time has been denied in ancient times by Parmenides and more recently by J. M. E. McTaggart in his paper The Unreality of Time.
+
+The direction of time, also known as "time's arrow", is also a puzzle, although physics is now driving the debate rather than philosophy. It appears that fundamental laws are time-reversible and the arrow of time must be an "emergent" phenomenon, perhaps explained by a statistical understanding of thermodynamic entropy.
+
+Common sense tells us that objects persist across time, that there is some sense in which you are the same person you were yesterday, in which the oak is the same as the acorn, in which you perhaps even can step into the same river twice. Philosophers have developed two rival theories for how this happens, called "endurantism" and "perdurantism". Broadly speaking, endurantists hold that a whole object exists at each moment of its history, and the same object exists at each moment. Perdurantists believe that objects are four-dimensional entities made up of a series of temporal parts like the frames of a movie.
+
+==Styles and methods of metaphysics==
+* Rational versus empirical. Rationalism is a method or a theory "in which the criterion of the truth is not sensory but intellectual and deductive" (Bourke 263). Rationalist metaphysicians aim to deduce the nature of reality by armchair, a priori reasoning. Empiricism holds that the senses are the primary source of knowledge about the world.
+* Analytical versus systemic. The "system building" style of metaphysics attempts to answer all the important questions in a comprehensive and coherent way, providing a theory of everything or complete picture of the world. The contrasting approach is to deal with problems piecemeal.
+* Dogmatic versus critical. Under the scholastic approach of the Middle Ages, a number of themes and ideas were not open to be challenged. Kant and others thought this "dogmatism" should be replaced by a critical approach.
+* Individual versus collective. Scholasticism and Analytical philosophy are examples of collaborative approaches to philosophy. Many other philosophers expounded individual visions.
+* Parsimonious versus Adequate. Should a metaphysical system posit as little as possible, or as much as needed?
+* Descriptive versus revisionary. Peter Strawson makes the distinction between descriptive metaphysics, which sets out to investigate our deepest assumptions, and revisionary metaphysics, which sets out to improve or rectify them. Oxford Companion to Philosophy 
+
+==History and schools of metaphysics==
+
+===Pre-Socratic metaphysics in Greece===
+The first known philosopher, according to Aristotle, is Thales of Miletus. Rejecting mythological and divine explanations, he sought a single first cause or Arche (origin or beginning) under which all phenomena could be explained, and concluded that this first cause was in fact moisture or water. Thales also taught that the world is harmonious, has a harmonious structure, and thus is intelligible to rational understanding. Other Miletians, such as Anaximander and Anaximenes, also had a monistic conception of the first cause.
+
+Another school was the Eleatics, Italy. The group was founded in the early fifth century BCE by Parmenides, and included Zeno of Elea and Melissus of Samos. Methodologically, the Eleatics were broadly rationalist, and took logical standards of clarity and necessity to be the criteria of truth. Parmenides' chief doctrine was that reality is a single unchanging and universal Being. Zeno used reductio ad absurdum, to demonstrate the illusory nature of change and time in his paradoxes.
+
+Heraclitus of Ephesus, in contrast, made change central, teaching that "all things flow". His philosophy, expressed in brief aphorisms, is quite cryptic. For instance, he also taught the unity of opposites.
+
+Democritus and his teacher Leucippus, are known for formulating an atomic theory for the cosmos. Barnes (1987). They are considered forerunners of the scientific method.
+
+===Socrates and Plato===
+Socrates is known for his dialectic or questioning approach to philosophy rather than a positive metaphysical doctrine.
+
+His pupil, Plato is famous for his theory of forms (which he confusingly places in the mouth of Socrates in the dialogues he wrote to expound it). Platonic realism (also considered a form of idealism As universals were considered by Plato to be ideal forms, this stance is confusingly also called Platonic idealism. This should not be confused with Idealism, as presented by philosophers such as Immanuel Kant: as Platonic abstractions are not spatial, temporal, or mental they are not compatible with the later Idealism's emphasis on mental existence. ) is considered to be a solution to the problem of universals; i.e., what particular objects have in common is that they share a specific Form which is universal to all others of their respective kind.
+
+The theory has a number of other aspects:
+* Epistemological: knowledge of the Forms is more certain than mere sensory data.
+* Ethical: The Form of the Good sets an objective standard for morality.
+* Time and Change: The world of the Forms is eternal and unchanging. Time and change belong only to the lower sensory world. "Time is a moving image of Eternity".
+* Abstract objects and mathematics: Numbers, geometrical figures, etc., exist mind-independently in the World of Forms.
+
+Platonism developed into Neoplatonism, a philosophy with a monotheistic and mystical flavour that survived well into the early Christian era.
+
+===Aristotle===
+Plato's pupil Aristotle wrote widely on almost every subject, including metaphysics. His solution to the problem of universals contrasts with Plato's. Whereas Platonic Forms exist in a separate realm, and can exist uninstantiated in visible things, Aristotelean essences "indwell" in particulars.
+
+Potentiality and Actuality The words "potentiality" and "actuality" are one set of translations from the
+original Greek terms of Aristotle. Other translations (including Latin) and alternative Greek terms are sometimes used in scholarly work on the subject. are principles of a dichotomy which Aristotle used throughout his philosophical works to analyze motion, causality and other issues.
+
+The Aristotelean theory of change and causality stretches to four causes: the material, formal, efficient and final. The efficient cause corresponds to what is now known as a cause simpliciter. Final causes are explicitly teleological, a concept now regarded as controversial in science. The Matter/Form dichotomy was to become highly influential in later philosophy as the substance/essence distinction.
+
+===Scholasticism and the Middle Ages===
+Between about 1100 and 1500, philosophy as a discipline took place as part of the Catholic church's teaching system, known as scholasticism. Scholastic philosophy took place within an established
+framework blending Christian theology with Aristotelean teachings. Although fundamental orthodoxies could not be challenged, there were nonetheless deep metaphysical disagreements, particularly over the problem of universals, which engaged Duns Scotus and Pierre Abelard. William of Ockham is remembered for his principle of ontological parsimony.
+
+===Rationalism and Continental Rationalism===
+
+In the early modern period (17th and 18th centuries), the system-building scope of philosophy is often linked to the rationalist method of philosophy, that is the technique of deducing the nature of the world by pure reason. The scholastic concepts of substance and accident were employed.
+* Leibniz proposed in his Monadology a plurality of non-interacting substances.
+* Descartes is famous for his Dualism of material and mental substances.
+* Spinoza believed reality was a single substance of God-or-nature.
+
+===British empiricism===
+British empiricism marked something of a reaction to rationalist and system-building philosophy, or speculative metaphysics as it was pejoratively termed. The sceptic David Hume famously declared that most metaphysics should be consigned to the flames (see below). Hume was notorious among his contemporaries as one of the first philosophers to openly doubt religion, but is better known now for his critique of causality. John Stuart Mill, Thomas Reid and John Locke were less sceptical, embracing a more cautious style of metaphysics based on realism, common sense and science. Other philosophers, notably George Berkeley were led from empiricism to idealistic metaphysics.
+
+===Kant===
+Immanuel Kant attempted a grand synthesis and revision of the trends already mentioned: scholastic philosophy, systematic metaphysics, and skeptical empiricism, not to forget the burgeoning science of his day. Like the systems builders, he had an overarching framework in which all questions were to be addressed. Like Hume, who famously woke him from his 'dogmatic slumbers', he was suspicious of metaphysical speculation, and also places much emphasis on the limitations of the human mind.
+
+Kant saw rationalist philosophers as aiming for a kind of metaphysical knowledge he defined as the synthetic apriori—that is knowledge that does not come from the senses (it is a priori) but is nonetheless about reality (synthetic). Inasmuch as it is about reality, it is unlike abstract mathematical propositions (which he terms analytical apriori), and being apriori it is distinct from empirical, scientific knowledge (which he terms synthetic aposteriori). The only synthetic apriori knowledge we can have is of how our minds organise the data of the senses; that organising framework is space and time, which for Kant have no mind-independent existence, but nonetheless operate uniformly in all humans. Apriori knowledge of space and time is all that remains of metaphysics as traditionally conceived. There is a reality beyond sensory data or phenomena, which he calls the realm of noumena; however, we cannot know it as it is in itself, but only as it appears to us. He allows himself to speculate that the origins of God, morality, and free will might exist in the noumenal realm, but these possibilities have to be set against its basic unknowability for humans. Although he saw himself as having disposed of metaphysics, in a sense, he has generally been regarded in retrospect as having a metaphysics of his own.
+
+19th Century philosophy was overwhelmingly influenced by Kant and his successors. Schopenhauer, Schelling, Fichte and Hegel all purveyed their own panoramic versions of German Idealism, Kant's own caution about metaphysical speculation, and refutation of idealism, having fallen by the wayside. The idealistic impulse continued into the early 20th century with British idealists such as F. H. Bradley and J. M. E. McTaggart.
+
+Followers of Karl Marx took Hegel's dialectic view of history and re-fashioned it as materialism.
+
+===Early analytical philosophy and positivism===
+During the period when idealism was dominant in philosophy, science had been making great advances. The arrival of a new generation of scientifically minded philosophers led to a sharp decline in the popularity of idealism during the 1920s.
+
+Analytical philosophy was spearheaded by Bertrand Russell and G. E. Moore. Russell and William James tried to compromise between idealism and materialism with the theory of neutral monism.
+
+The early to mid 20th century philosophy also saw a trend to reject metaphysical questions as meaningless. The driving force behind this tendency was the philosophy of Logical Positivism as espoused by the Vienna Circle.
+
+At around the same time, the American pragmatists were steering a middle course between materialism and idealism.
+System-building metaphysics, with a fresh inspiration from science, was revived by A. N. Whitehead and Charles Hartshorne.
+
+===Continental philosophy===
+The forces that shaped analytical philosophy—the break with idealism, and the influence of science — were much less significant outside the English speaking world, although there was a shared turn toward language. Continental philosophy continued in a trajectory from post Kantianism.
+
+The phenomenology of Husserl and others was intended as a collaborative project for the investigation of the features and structure of consciousness common to all humans, in line with Kant's basing his synthetic apriori on the uniform operation of consciousness. It was officially neutral with regards to ontology, but was nonetheless to spawn a number of metaphysical systems. Brentano's concept of intentionality would become widely influential, including on analytical philosophy.
+
+Heidegger, author of Being and Time, saw himself as re-focusing on Being-qua-being, introducing the novel concept of Dasein in the process. Classing himself an existentialist, Sartre wrote an extensive study of Being and Nothingness.
+
+The speculative realism movement marks a return to full blooded realism.
+
+===Later analytical philosophy===
+While early analytic philosophy tended to reject metaphysical theorizing, under the influence of logical positivism, it was revived in the second half of the twentieth century. Philosophers such as David K. Lewis and David Armstrong developed elaborate theories on a range of topics such as universals, causation, possibility and necessity and abstract objects. However, the focus of analytical philosophy is generally away from the construction of all-encompassing systems and towards close analysis of individual ideas.
+
+Among the developments that led to the revival of metaphysical theorizing were Quine's attack on the analytic-synthetic distinction, which was generally taken to undermine Carnap's distinction between existence questions internal to a framework and those external to it. S. Yablo and A. Gallois, "Does Ontology Rest on a Mistake?", Proceedings of the Aristotelian Society, Supplementary Volumes, Vol. 72, (1998), pp. 229–261, 263–283 first part 
+
+The philosophy of fiction, the problem of empty names, and the debate over existence's status as a property have all risen out of relative obscurity to become central concerns, while perennial issues such as free will, possible worlds, and the philosophy of time have had new life breathed into them. Everett, Anthony and Thomas Hofweber (eds.) (2000), Empty Names, Fiction and the Puzzles of Non-Existence. Van Inwagen, Peter, and Dean Zimmerman (eds.) (1998), Metaphysics: The Big Questions. 
+ 
+
+==Rejections of metaphysics==
+A number of individuals have suggested that much of metaphysics should be rejected. In the 18th century, David Hume took an extreme position, arguing that all genuine knowledge involves either mathematics or matters of fact and that metaphysics, which goes beyond these, is worthless. He concludes his Enquiry Concerning Human Understanding with the statement:
+
+::If we take in our hand any volume; of divinity or school metaphysics, for instance; let us ask, Does it contain any abstract reasoning concerning quantity or number? No. Does it contain any experimental reasoning concerning matter of fact and existence? No. Commit it then to the flames: for it can contain nothing but sophistry and illusion. 
+
+In the 1930s, A. J. Ayer and Rudolf Carnap endorsed Hume's position; Carnap quoted the passage above. They argued that metaphysical statements are neither true nor false but meaningless since, according to their verifiability theory of meaning, a statement is meaningful only if there can be empirical evidence for or against it. Thus, while Ayer rejected the monism of Spinoza, noted above, he avoided a commitment to pluralism, the contrary position, by holding both views to be without meaning. Carnap took a similar line with the controversy over the reality of the external world. 
+
+33 years after Hume's Enquiry appeared, Immanuel Kant published his Critique of Pure Reason. Though he followed Hume in rejecting much of previous metaphysics, he argued that there was still room for some synthetic a priori knowledge, concerned with matters of fact yet obtainable independent of experience. These included fundamental structures of space, time, and causality. He also argued for the freedom of the will and the existence of "things in themselves", the ultimate (but unknowable) objects of experience.
+
+The logical atomist Ludwig Wittgenstein introduced the concept that metaphysics could be influenced by theories of Aesthetics, via Logic, vis. a world composed of "atomical facts". Wittgenstein, Ludwig. "Tractatus Logico-Philosophicus". Major Works: Selected Philosophical Writings. Harper Perennial Modern Classics, 2009. 
+
+== Metaphysics in science ==
+Much recent work has been devoted to analyzing the role of metaphysics in scientific theorizing. Alexandre Koyré led this movement, declaring in his book Metaphysics and Measurement, "It is not by following experiment, but by outstripping experiment, that the scientific mind makes progress." Imre Lakatos maintained that all scientific theories have a metaphysical "hard core" essential for the generation of hypotheses and theoretical assumptions. Thus, according to Lakatos, "scientific changes are connected with vast cataclysmic metaphysical revolutions." Lakatos, Imre (1970). "Science: reason or religion". Section 1 of "Falsification and the methodology of scientific research programs" in Imre Lakatos & Alan Musgrave, Criticism and the Growth of Knowledge. Cambridge University Press. ISBN 0-521-07826-1.
+ 
+
+An example from biology of Lakatos' thesis: David Hull has argued that changes in the ontological status of the species concept have been central in the development of biological thought from Aristotle through Cuvier, Lamarck, and Darwin. Darwin's ignorance of metaphysics made it more difficult for him to respond to his critics because he could not readily grasp the ways in which their underlying metaphysical views differed from his own. 
+
+In physics, new metaphysical ideas have arisen in connection with quantum mechanics, where subatomic particles arguably do not have the same sort of individuality as the particulars with which philosophy has traditionally been concerned. Also, adherence to a deterministic metaphysics in the face of the challenge posed by the quantum-mechanical uncertainty principle led physicists like Albert Einstein to propose alternative theories that retained determinism. 
+
+In chemistry, Gilbert Newton Lewis addressed the nature of motion, arguing that an electron should not be said to move when it has none of the properties of motion. 
+
+Katherine Hawley notes that the metaphysics even of a widely accepted scientific theory may be challenged if it can be argued that the metaphysical presuppositions of the theory make no contribution to its predictive success. 
+
+==See also==
+
+* on First Philosophy#Meditation VI: Concerning the Existence of Material Things, and the Real Distinction between Mind and Body|Concerning existence of material things, and real distinction between mind and body (Descartes)]
+* Epistemology
+* Essence
+* Logic
+* Metaphilosophy
+* Metaethics
+* Mind–body problem
+* Nihilism
+* Ontology
+* Personal identity
+* Philosophical logic
+* Philosophical realism
+* Philosophical theology
+* Philosophy of Mathematics
+* Philosophy of physics
+* Pluralism (philosophy of mind)
+* Substance theory
+
+==Notes and references==
+
+==Bibliography==
+* 
+* Butchvarov, Panayot (1979). Being Qua Being: A Theory of Identity, Existence and Predication. Bloomington and London: Indiana University Press.
+* Harris, E. E. (1965). The Foundations of Metaphysics in Science. London: George Allen and Unwin.
+* Harris, E. E. (2000). The Restitution of Metaphysics. New York: Humanity Books.
+* Kant, I (1781). Critique of Pure Reason.
+* Gale, Richard M. (2002). The Blackwell Guide to Metaphysics. Oxford: Blackwell.
+* Gay, Peter. (1966). The Enlightenment: An Interpretation (2 vols.). New York: W. W. Norton & Company.
+*Macdonald, S and Congreve, J (2014), "Metaphysics: Explained!", London. 
+* Lowe, E. J. (2002). A Survey of Metaphysics. Oxford: Oxford University Press.
+* Loux, M. J. (2006). Metaphysics: A Contemporary Introduction (3rd ed.). London: Routledge.
+* Kim, J. and Ernest Sosa Ed. (1999). Metaphysics: An Anthology. Blackwell Philosophy Anthologies.
+* Kim, J. and Ernest Sosa, Ed. (2000). A Companion to Metaphysics. Malden Massachusetts, Blackwell, Publishers.
+* Le Poidevin R. & al. Ed. (2009). The Routledge Companion to Metaphysics. New York, Routledge.
+* Werner Heisenberg (1958), "Atomic Physics and Causal Law," from The Physicist's Conception of Nature
+
+==Further reading==
+* The London Philosophy Study Guide offers many suggestions on what to read, depending on the student's familiarity with the subject: Logic & Metaphysics.
+
+==External links==
+
+* 
+* 
+* 
+* 
+* Metaphysics at Encyclopædia Britannica
+* Aristotle's Metaphysics trans. by W. D. Ross
+* Hume's Enquiry Concerning Human Understanding: Mirrored at eBooks@Adelaide
+
+ 
+
+

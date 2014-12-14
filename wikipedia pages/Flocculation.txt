@@ -1,0 +1,69 @@
+[[Flocculation]]
+
+Flocculation, in the field of chemistry, is a process wherein colloids come out of suspension in the form of floc or flake; either spontaneously or due to the addition of a clarifying agent. The action differs from precipitation in that, prior to flocculation, colloids are merely suspended in a liquid and not actually dissolved in a solution. In the flocculated system, there is no formation of a cake, since all the flocs are in the suspension.
+
+== Term definition ==
+
+According to the IUPAC definition, flocculation is "a process of contact and adhesion whereby the particles of a dispersion form larger-size clusters." Flocculation is synonymous with agglomeration, aggregation, and coagulation / coalescence. 
+
+During flocculation, gentle mixing accelerates the rate of particle collision, and the destabilized particles are further aggregated and enmeshed into larger precipitates. Flocculation is affected by several parameters, including mixing speeds, mixing intensity, and mixing time. The product of the mixing intensity and mixing time is used to describe flocculation process.
+
+== Applications ==
+
+=== Surface chemistry ===
+
+In colloid chemistry, flocculation refers to the process by which fine particulates are caused to clump together into a floc. The floc may then float to the top of the liquid (creaming), settle to the bottom of the liquid (sedimentation), or be readily filtered from the liquid.
+
+=== Physical chemistry ===
+
+For emulsions, flocculation describes clustering of individual dispersed droplets together, whereby the individual droplets do not lose their identity. Adamson A.W. and Gast A.P. (1997) "Physical Chemistry of Surfaces", John Wiley and Sons. Flocculation is thus the initial step leading to further aging of the emulsion (droplet coalescence and the ultimate separation of the phases).(1993)
+
+=== Civil engineering/earth sciences ===
+
+In civil engineering, and in the earth sciences, flocculation is a condition in which clays, polymers or other small charged particles become attached and form a fragile structure, a floc. In dispersed clay slurries, flocculation occurs after mechanical agitation ceases and the dispersed clay platelets spontaneously form flocs because of attractions between negative face charges and positive edge charges.
+
+=== Biology ===
+
+In biology, flocculation refers to the asexual aggregation of microorganisms.
+
+==== Cheese production ====
+
+Flocculation is widely employed to measure the progress of curd formation while in the initial stages of making many cheeses to determine how long the curds must set. The reaction involving the rennet micelles are modeled by Smoluchowski Kinetics. 
+
+==== Brewing ====
+
+Flocculation refers to the rate at which yeast settles to the bottom of the fermentation vessel. Yeast strains with higher flocculation will settle out of the beer faster once fermentation is complete.
+
+=== Water treatment ===
+
+Flocculation and sedimentation are widely employed in the purification of drinking water as well as sewage treatment, storm-water treatment and treatment of other industrial wastewater streams.
+
+== Deflocculation ==
+
+A deflocculant is a chemical additive to prevent a colloid from coming out of suspension or to thin suspensions or slurries. It is used to reduce viscosity or prevent flocculation and is sometimes incorrectly called a "dispersant." Most deflocculants are low-molecular-weight anionic polymers that neutralize positive charges on suspended particles, in particular clays and aryl-alkyl derivative of sulfonic acid. Examples include polyphosphates, lignosulfonates, quebracho tannins, and various water-soluble synthetic polymers.
+
+Deflocculation is also used to describe the undesired colloidification effect in an activated sludge basin if the sludge is subjected to high-speed mixing. In general, deflocculation can be prevented or reduced by applying gentle mixing (e.g., by using submersible propeller mixers that utilize large/wide propeller blades and operate at low rotational speed).
+
+== See also ==
+
+* Aggregation (disambiguation)
+* Algaculture
+* Clay-water interaction
+* Drilling mud
+* Isoelectric point
+* Lamella clarifier
+* Ostwald ripening
+* Seawater
+* Sedimentation
+* Soil structure
+* Yeast flocculation
+* Smoluchowski coagulation equation
+* Deposition (geology)
+* Depletion force
+
+== References ==
+
+== Further reading ==
+* John Gregory (2006), Particles in water: properties and processes, Taylor & Francis, ISBN 1-58716-085-4
+
+

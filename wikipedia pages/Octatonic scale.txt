@@ -1,0 +1,132 @@
+[[Octatonic scale]]
+
+Octatonic scales on C .
+
+An octatonic scale is any eight-note musical scale. Among the most famous of these is a scale in which the notes ascend in alternating intervals of a whole step and a half step, creating a symmetric scale. In classical theory, in contradistinction to jazz theory, this scale is commonly simply called the octatonic scale, although there are forty-two other non-enharmonically equivalent, non-transpositionally equivalent eight-tone sets possible. In jazz theory this scale is more particularly called the diminished scale (Campbell 2001, p. 126), or symmetric diminished scale (Hatfield 2005, p. 125), because it can be conceived as a combination of two interlocking diminished seventh chords, just as the augmented scale can be conceived as a combination of two interlocking augmented triads. The earliest systematic treatment of the octatonic scale was Edmond de Polignac's unpublished treatise, "Etude sur les successions alternantes de tons et demi-tons (Et sur la gamme dite majeure-mineure)" from c. 1879 (Kahan 2009), which preceded Vito Frazzi's Scale alternate per pianoforte of 1930 by a full half-century (Sanguinetti 1993). The term octatonic pitch collection was first introduced into English by Arthur Berger in 1963 (Van den Toorn 1983).
+
+==Construction and enumeration==
+The twelve tones of the chromatic scale are covered by three disjoint diminished seventh chords. The notes from exactly two such seventh-chords combination form an octatonic collection. Because there are exactly three ways to select two from three, there are exactly three octatonic scales in the 12-tone system.
+
+Octatonic scales are modes of limited transposition, specifically, second modes, according to Olivier Messiaen. Each octatonic scale has exactly two modes: the first begins its ascent with a whole step between its first two notes, while the second begins its ascent with a half step (semitone).
+
+Each of the three distinct scales can form differently named scales with the same sequence of tones by starting at a different point in the scale. With alternative starting points listed in parentheses, the three are:
+*E diminished (F/G, A, C diminished): E, F, F, G, A, B, C, D, E
+*D diminished (F, A, B diminished): D, E, F, G, A, B, B, C, D
+*D diminished (E, G, B diminished): D, E, E, F, G, A, B, C, D
+Diminished scales on E, D, and D, ascending.
+
+It may also be represented as 0134679t or labeled as set class 8-28 (Schuijer 2008, p. 109).
+
+==Properties==
+
+Among the collection's remarkable features is that it is the only collection that can be disassembled into four transpositionally-related pitch pairs in six different ways, each of which features a different interval class (Cohn). For example:
+*semitone: (C, C), (D, E) (F, G), (A, B)
+*whole step: (C, D), (E, F), (G, A), (B, C)
+*minor third:(C, E), (F, A), (C, E), (G, B)
+*major third:(C, E), (F, B), (E, G), (A, C)
+*perfect fourth: (C, F), (B, E), (G, C), (E, A)
+*tritone: (C, F), (E, A), (C, G), (E, B)
+
+Another remarkable feature of the diminished scale is that it contains the first four notes of four minor scales separated by minor thirds. For Example: C, D, E, F and (enharmonically) F, G, A, B. Also E, F, G, A, and A, B, C, D.
+
+The scale "allows familiar harmonic and linear configurations such as triads and modal tetrachords to be juxtaposed unusually but within a rational framework" though the relation of the diatonic scale to the melodic and harmonic surface is thus generally oblique (Pople 1991, 2).
+
+==History==
+Joseph Schillinger suggests that the scale was formulated already by Persian traditional music in the 7th century AD, where it was called "Zar ef Kend", meaning "string of pearls", the idea being that the two different sizes of intervals were like two different sizes of pearls (see Joseph Schillinger, The Schillinger System of Musical Composition, Vol 1).
+
+Octatonic scales first occurred in Western music as byproducts of a series of minor-third transpositions. Agmon locates one in the music of Scarlatti, from the 1730s. Langlé's 1797 harmony treatise contains a sequential progression with a descending octatonic bass, supporting harmonies that use all and only the notes of an octatonic scale (p. 72, ex. 25.2).
+
+The question of when Western composers first began to select octatonic scales as primary compositional material is difficult to determine. One strong candidate is a recurring theme in Franz Liszt's Feux Follets, the fifth of his first book of Études d'exécution transcendente (composed 1826, and twice revised). See descending arpeggiated figures of bars 7 and 8, 10 and 11, 43, 45 through 48, 122, and 124 through 126. In turn, all three distinct octatonic scales are used, respectively containing all, and only, the notes of each of these scales.
+
+Liszt was to become an idol of the Russian school, and starting with Glinka's opera Ruslan and Lyudmila (first performed 1842) the diminished scale was often used by Russian composers to evoke scenes of magic and exotic mystery. Still, Nikolai Rimsky-Korsakov claimed the diminished scale as "his discovery" in his My Musical Life (van den Toorn 1983). He certainly used the scale extensively in his opera Kashchey the Immortal, which premiered in 1902. Following that, the scale was extensively used by his student Igor Stravinsky, particularly in his Russian period ballets Petrushka and The Rite of Spring dating from 1911 and 1913 respectively. Van den Toorn catalogues many octatonic moments in Stravinsky's music, although Tymoczko argues that many of them are byproducts of other syntactic concerns. The scale also may be found with some frequency in music of Claude Debussy, Maurice Ravel, Alexander Scriabin and Béla Bartók. In Bartók's Bagatelles, Improvisations, Fourth Quartet, Cantata Profana, and Improvisations, the octatonic is used with the diatonic, whole tone, and other "abstract pitch formations" (Antokoletz 1984) all "entwined...in a very complex mixture." Mikrokosmos 99, 101, and 109 are octatonic pieces, as is no. 33 of the Forty-Four Duos for two violins. "In each piece, changes of motive and phrase correspond to changes from one of the three octatonic scales to another, and one can easily select a single central and referential form of 8-28 in the context of each complete piece." However, even his larger pieces also feature "sections that are intelligible as 'octatonic music'" (Wilson 1992, p. 26–27).
+
+Twentieth-century composers who used octatonic collections include Samuel Barber, Béla Bartók, Ernest Bloch, Benjamin Britten, Julian Cochran, George Crumb, Claude Debussy, Irving Fine, Ross Lee Finney, Alberto Ginastera, John Harbison, Aram Khatchaturian, Witold Lutosławski, Olivier Messiaen, Darius Milhaud, Henri Dutilleux, Robert Morris, Carl Orff, Jean Papineau-Couture, Krzysztof Penderecki, Francis Poulenc, Sergei Prokofiev, Maurice Ravel, Alexander Scriabin, Dmitri Shostakovich, Igor Stravinsky, Toru Takemitsu, Joan Tower (Alegant 2010, 109), Robert Xavier Rodriguez, and Frank Zappa (Clement 2009, 214). Other composers include Jennifer Higdon. Also Willem Pijper (Chan 2005, 52). The Progressive Metal band Dream Theater also made use of the octatonic scale in their 2005 song "Octavarium".
+
+In the 1920s Heinrich Schenker criticized the use of the octatonic scale, specifically Stravinsky's Concerto for Piano and Wind Instruments, for the oblique relation between the diatonic scale and the harmonic and melodic surface (Pople 1991, 2).
+
+==Harmonic implications==
+
+===Jazz===
+Both the half-whole diminished and its partner mode, the whole-half diminished (with a tone rather than a semitone beginning the pattern) are commonly used in jazz improvisation, frequently under different names. The whole-half diminished scale is commonly used in conjunction with diminished harmony (e.g., the "C dim7" chord) while the half-whole scale is used in dominant harmony (e.g., with a "G79" chord).
+
+===Petrushka chord===
+Petrushka chord in piano during the second tableau of Petrushka(Taruskin 1987, 269) ()
+
+Igor Stravinsky's ballet Petrushka is characterized by the so-called Petrushka chord, which combines major triads transpositionally related by a tritone. Taruskin's ascription of explanatory power to the chord's status as an octatonic subset has been challenged by Tymoczko.
+
+===Bitonality===
+In both of the short works by Bartók mentioned above ("Diminished Fifth" and "Harvest Song") the octatonic collection is partitioned into two (symmetrical) four-note segments (4-10 or 0235) of the natural minor scales a tritone apart. Paul Wilson argues against viewing this as bitonality since "the larger octatonic collection embraces and supports both supposed tonalities." (Wilson 1992, p. 27)
+
+===Triads===
+As mentioned above in the context of Stravinsky's Petrushka chord, both the C major and F major triads are obtainable from a single permutation of the diminished scale. In fact a unique aspect of the diminished scale when compared to all other octotonic scales is the presence of four major and four minor triads. If one takes the D diminished scale as outlined above, one can produce the following triads:
+
+*C major (C E G)
+*C minor (C E G)
+*E major (E G B)
+*E minor (E G B)
+*F major (F A C)
+*F minor (F A C)
+*A major (A C E)
+*A minor (A C E)
+
+The D whole/half (and the C half whole) diminished scale supports two diminished triads, C, E, G, and D, F, A(or G), both of which can be inverted three times to produce four diminished triads as well.
+
+*C dim (C E G)
+*Eb dim (E G B)
+*G dim (G B C)
+*B dim (B C E)
+
+and
+
+*D dim (D F A)
+*F dim (F A(G) B)
+*G dim (A(G) B D)
+* B dim (B D F)
+
+This is of particular interest to jazz musicians as it facilitates the creation of chord voicings, especially polychords (e.g. C/G or A/E) as expressing a dominant function on B7, F7, A7 and C7, and upper structure voicings on dominant seventh chords. The sequence of triads given above is an instance of the neo-Riemannian PR cycle, alternating parallels and relatives.
+
+===Alpha chord===
+
+Two diminished seventh chords in the octatonic scale (one red, one blue) may be rearranged as the alpha chord .
+
+The alpha-chord collection is, "a vertically organized statement of the octatonic scale as two diminished seventh chords," such as: C–E–G–B–C–E–F–A. (Wilson 1992, p. 7)
+
+One of the most important subsets of the alpha collection, the alpha chord (such as E–G–C–E ; using the theorist Ernő Lendvaï's terminology, the C alpha chord) may be considered a mistuned major chord or major/minor in first inversion (in this case, C major/minor). (Wilson 1992, p. 9) The number of semitones in the interval array of the alpha chord corresponds to the Fibonacci sequence.(Slayton 2010, p.15)
+
+==See also==
+*Complexe sonore
+*Alpha scale
+*Beta scale
+*Delta scale
+*Gamma scale
+*List of pieces which use the octatonic scale
+
+==Sources==
+*Agmon, Eytan (1990). "Equal Divisions of the Octave in a Scarlatti Sonata." In Theory Only 11/5.
+*Alegant, Brian (2010). The Twelve-Tone Music of Luigi Dallapiccola. ISBN 978-1-58046-325-6.
+*Antokoletz, Elliott (1984). The Music of Béla Bartók: A Study of Tonality and Progression in Twentieth-Century Music. Berkeley and Los Angeles: University of California Press. Cited in Wilson directly above. ISBN 0-520-06747-9.
+*Baur, Steven (1999). "Ravel's 'Russian' Period: Octatonicism in His Early Works, 1893–1908." Journal of the American Musicological Society 52.1
+*Berger, Arthur (1963). "Problems of Pitch Organization in Stravinsky". Perspectives of New Music II/I (Autumn/Winter).
+*Campbell, Gary (2001). Triad Pairs for Jazz: Practice and Application for the Jazz Improvisor. ISBN 0-7579-0357-6.
+*Chan, Hing-yan (2005). New Music in China and the C.C. Liu Collection at the University of Hong Kong. ISBN 9789622097728.
+*Cohn, Richard (1991). "Bartók's Octatonic Strategies.: A Motivic Approach." "Journal of the American Musicological Society 44.
+*Frazzi, Vito (1930). Scale alternate per pianoforte con diteggiature di Ernesto Consolo (Forlivesi).
+*Hatfield, Ken (2005). Mel Bay Jazz and the Classical Guitar Theory and Applications. ISBN 0-7866-7236-6.
+*Kahan, Sylvia (2009). In Search of New Scales: Prince Edmond de Polignac, Octatonic Explorer. Rochester, NY: University of Rochester Press. ISBN 978-1-58046-305-8.
+* Keeling, Andrew (2007). King Crimson: Red: An Analysis by Andrew Keeling.
+*Langlé, Honoré François Marie (1797). Traité d'harmonie et de modulation. Paris: Boyer.
+*Pople, Anthony (1991). Berg: Violin Concerto. ISBN 0-521-39976-9.
+*Sanguinetti, Giorgio (1993). "Il primo studio teorico sulle scale octatoniche: Le 'scale alternate' di Vito Frazzi." Studi Musicali 22.2
+*Schuijer, Michiel (2008). Analyzing Atonal Music: Pitch-Class Set Theory and Its Contexts. ISBN 978-1-58046-270-9.
+*Slayton, Michael K. (2010). Women of Influence in Contemporary Music: Nine American Composers. ISBN 9780810877481.
+*Taruskin, Richard (Spring, 1987). "Chez Pétrouchka- Harmony and Tonality "chez" Stravinsky", 19th-Century Music, Vol. 10, No. 3, Special Issue: Resolutions I., pp. 265–286.
+*Tymoczko, Dmitri (2002). "Stravinsky and the Octatonic: A Reconsideration" Music Theory Spectrum 24.1
+*Van den Toorn, Pieter (1983). The Music of Igor Stravinsky. New Haven: Yale University Press.
+*Wollner, Fritz (1924) "7 mysteries of Stravinsky in Progression" 1924 German international school of music study.
+*Wilson, Paul (1992). The Music of Béla Bartók. ISBN 0-300-05111-5.
+* Cited in Wilson (1992).
+
+==Further reading==
+*Taruskin, Richard (Spring 1985). "Chernomor to Kashchei: Harmonic Sorcery; or Stravinsky's 'Angle'", Journal of the American Musicological Society 38:1, p. 74–142.
+
+

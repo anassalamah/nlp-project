@@ -1,0 +1,131 @@
+[[Barium]]
+
+Barium is a chemical element with symbol Ba and atomic number 56. It is the fifth element in Group 2, a soft silvery metallic alkaline earth metal. Because of its high chemical reactivity barium is never found in nature as a free element. Its hydroxide was known in pre-modern history as baryta; this substance does not occur as a mineral, but can be prepared by heating barium carbonate.
+
+The most common naturally occurring minerals of barium are barite (barium sulfate, BaSO4) and witherite (barium carbonate, BaCO3), both being insoluble in water. Barium's name originates from the alchemical derivative "baryta", which itself comes from Greek βαρύς (barys), meaning "heavy." Barium was identified as a new element in 1774, but not reduced to a metal until 1808, shortly after electrolytic isolation techniques became available.
+
+Barium has only a few industrial applications. The metal has been historically used to scavenge air in vacuum tubes. It is a component of YBCO (high-temperature superconductors) and electroceramics, and is added to steel and cast iron to reduce the size of carbon grains within the microstructure of the metal. Barium compounds are added to fireworks to impart a green color. Barium sulfate is used as an insoluble heavy additive to oil well drilling fluid, and in purer form, as X-ray radiocontrast agents for imaging the human gastrointestinal tract. Soluble barium compounds are poisonous due to release of the soluble barium ion, and therefore have been used as rodenticides.
+
+==Characteristics==
+===Physical properties===
+Oxidized barium
+Barium is a soft, silvery-white metal, with a slight golden shade when ultrapure. The silvery-white color of barium metal rapidly vanishes upon oxidation in air yielding a dark gray oxide layer. Barium has a medium specific weight and good electrical conductivity. Ultrapure barium is very hard to prepare, and therefore many properties of barium have not been accurately measured yet. 
+
+At room temperature and pressure, barium has a body-centered cubic structure, with a barium–barium distance of 503 picometers, expanding with heating at a rate of approximately 1.8/°C. It is a very soft metal with a Mohs hardness of 1.25. Its melting temperature of 1000 K is intermediate between those of the lighter strontium (1050 K) and heavier radium (973 K); however, its boiling point of 2170 K exceeds that of strontium (1655 K) . The density (3.62 g·cm−3) is again intermediate between those of strontium (2.36 g·cm−3) and radium (~5 g·cm−3). 
+
+===Chemical reactivity===
+Barium is chemically similar to magnesium, calcium, and strontium, being even more reactive. It always exhibits the oxidation state of +2. Reactions with chalcogens are highly exothermic (release energy); the reaction with oxygen or air occurs at room temperature, and therefore barium is stored under oil or inert gas atmosphere. Reactions with other nonmetals, such as carbon, nitrogen, phosphorus, silicon, and hydrogen, are generally exothermic and proceed upon heating. Reactions with water and alcohols are also very exothermic and release hydrogen gas: 
+: Ba + 2 ROH → Ba(OR)2 + H2↑ (R is an alkyl or a hydrogen atom)
+
+Additionally, barium reacts with ammonia to form complexes such as Ba(NH3)6. 
+
+The metal is readily attacked by most acids. Sulfuric acid is a notable exception, as passivation stops the reaction by forming the insoluble barium sulfate. Barium combines with several metals, including aluminium, zinc, lead, and tin, forming intermetallic phases and alloys. 
+
+===Compounds===
+
+ style=\"margin-bottom: 5px;\"|Selected alkaline earth and zinc salts densities, g·cm−3 
+ ]] ]] ]] ]] ]] ]] ]] ]] 
+ ]] 3.34 2.59 3.18 2.15 2.96 2.83 2.9 1.7 
+ ]] 5.1 3.7 4.24 3.05 3.96 3.5 4.78 3.26 
+ 5.72 4.3 4.89 3.89 4.49 4.29 4.96 4.16 
+ ]] 5.6 4.09 4.95 2.09 3.54 4.4 1.57 — 
+
+Barium salts are typically white when solid and colorless when dissolved, as barium ions provide no specific coloring. They are also denser than their strontium or calcium analogs, except for the halides (see table; zinc is given for comparison).
+
+Barium hydroxide ("baryta") was known to alchemists who produced it by heating barium carbonate. Unlike calcium hydroxide, it absorbs very little CO2 in aqueous solutions and is therefore insensitive to atmospheric fluctuations. This property is used in calibrating pH equipment.
+
+Volatile barium compounds burn with a green to pale green flame, which is an efficient test to detect a barium compound. The color results from spectral lines at 455.4, 493.4, 553.6, and 611.1 nm. 
+
+Organobarium compounds are a growing class of compounds: for example, dialkylbariums are known, as are alkylhalobariums. 
+
+===Isotopes===
+
+Barium occurs naturally on Earth as a mixture of seven primordial nuclides, barium-130, 132, and 134 through 138. The first two are thought to be radioactive: barium-130 should decay to xenon-130 via double beta plus decay, and barium-132 should similarly decay to xenon-132. The corresponding half-lives should exceed the age of the Universe by at least thousand times. Their abundances are ~0.1% relative to that of natural barium. Their radioactivity is so weak that they pose no danger to life. Out of the stable isotopes, barium-138 makes up 71.7% of all barium, and the lighter the isotope, the less it is abundant. In total, barium has about 50 known isotopes, ranging in mass between 114 and 153. The most stable metastable isotope is barium-133, which has a half-life of approximately 10.51 years, and five more isotopes have their half-lives longer than a day. Barium also has 10 meta states, out of which barium-133m1 is the most stable, having a half-live of about 39 hours. 
+
+==History==
+Sir Humphry Davy, who first isolated barium metal
+Alchemists in the early Middle Ages knew about some barium minerals. Smooth pebble-like stones of mineral barite found in Bologna, Italy, were known as "Bologna stones." Witches and alchemists were attracted to them because after exposure to light they would glow for years. The phosphorescent properties of barite heated with organics were described by V. Casciorolus in 1602. 
+
+Carl Scheele identified barite as containing a new element in 1774, but could not isolate barium, only barium oxide. Johan Gottlieb Gahn also isolated barium oxide two years later in similar studies. Oxidized barium was at first called "barote," by Guyton de Morveau, a name that was changed by Antoine Lavoisier to baryta. Also in the 18th century, English mineralogist William Withering noted a heavy mineral in the lead mines of Cumberland, now known to be witherite. Barium was first isolated by electrolysis of molten barium salts in 1808, by Sir Humphry Davy in England. Davy, H. (1808) "Electro-chemical researches on the decomposition of the earths; with observations on the metals obtained from the alkaline earths, and on the amalgam procured from ammonia," Philosophical Transactions of the Royal Society of London, vol. 98, pp. 333–370. Davy, by analogy with calcium named "barium" after baryta, with the "-ium" ending signifying a metallic element. Robert Bunsen and Augustus Matthiessen obtained pure barium by electrolysis of a molten mixture of barium chloride and ammonium chloride. 
+
+The production of pure oxygen in the Brin process was a large-scale application of barium peroxide in the 1880s, before it was replaced by electrolysis and fractional distillation of liquefied air in the early 1900s. In this process barium oxide reacts at 500 - with air to form barium peroxide, which decomposes at above 700 C by releasing oxygen: 
+:2 BaO + O2 ⇌ 2 BaO2
+
+In 1908, barium sulfate was first applied as a radiocontrast agent in X-ray imaging of the digestive system. 
+
+==Occurrence and production==
+The abundance of barium is 0.0425% in the Earth's crust and 13 µg/L in sea water. The main commercial source of barium is barite (also called barytes or heavy spar), which is a barium sulfate mineral. Its deposits are spread all over the world. The only other commercial source is far less important than barite; it is witherite, a barium carbonate mineral. Its main deposits are located in England, Romania, and the former USSR. 
+
+The barite reserves are estimated between 0.7 and 2 billion tonnes. The maximum production was achieved in 1981, at 8.3 million tonnes, and only 7–8% of it was used to make barium or its compounds. The barite production has again risen since the second half of the 1990s: from 5.6 million tonnes in 1996 to 7.6 in 2005 and 7.8 in 2011. China accounts for more than 50% of this output, followed by India (14% in 2011), Morocco (8.3%), US (8.2%), Turkey (2.5%), Iran and Kazakhstan (2.6% each). Miller, M. M. Barite. USGS.gov 
+
+The mined ore is washed, crushed, classified, and separated from quartz. If the quartz penetrates too deep into the ore, or the iron, zinc, or lead content is abnormally high, then froth flotation methods are applied. The product is a 98% pure barite (by mass); the purity should be no less than 95%, with a minimal content of iron and silicon dioxide. It is then reduced by carbon to barium sulfide: 
+:BaSO4 + 2 C → BaS + 2 CO2↑
+
+The water-soluble barium sulfide is the starting point for other compounds: dissolved BaS upon reaction with oxygen gives the hydroxide, with nitric acid the nitrate, with carbon dioxide the carbonate, and so on. The nitrate can be thermally decomposed to yield the oxide. Barium metal is produced by reduction with aluminium at 1100 C. The intermetallic compound BaAl4 is produced first: 
+:3 BaO + 14 Al → 3 BaAl4 + Al2O3
+
+It is an intermediate, which reacts with barium oxide to give the metal. Note that not all barium is reduced. 
+:8 BaO + BaAl4 → Ba↑ + 7 BaAl2O4
+
+The remaining barium oxide reacts with the formed aluminium oxide: 
+:BaO + Al2O3 → BaAl2O4
+
+and the overall reaction is 
+:4 BaO + 2 Al → 3 Ba↑ + BaAl2O4
+
+The thus produced barium vapor is collected at the cooler part of the apparatus and then packed into molds under argon atmosphere. This method is used commercially and can yield ultrapure barium. Commonly sold barium is about 99% pure, with main impurities being strontium and calcium (up to 0.8% and 0.25%) and other contaminants contributing less than 0.1%. 
+
+A similar reaction with silicon at 1200 C yields barium and barium metasilicate. Electrolysis is not used because barium readily dissolves in molten halides and is rather impure when isolated with this method. 
+Benitoite crystals on natrolite. The mineral is named for the San Benito River in San Benito County where it was first found.
+
+===Gemstone===
+A barium-containing mineral benitoite (barium titanium silicate) occurs as a very rare blue fluorescent gemstone, and is the official state gem of California.
+
+==Applications==
+===Metal and alloys===
+Barium, as a metal or when alloyed with aluminium, is used to remove unwanted gases (gettering) from vacuum tubes, such as TV picture tubes. Barium is suitable for this purpose because of its low vapor pressure and reactivity towards oxygen, nitrogen, carbon dioxide, and water; it can even partly remove noble gases by dissolving them in the crystal lattice. This application is gradually disappearing due to the rising popularity of the tubeless LCD and plasma sets. 
+
+Other uses of elemental barium are minor and include an additive to silumin (aluminium–silicon alloys) that refines their structure, as well as 
+* bearing alloys;
+* lead–tin soldering alloys – to increase the creep resistance;
+* alloy with nickel for spark plugs;
+* additive to steel and cast iron as an inoculant;
+* alloys with calcium, manganese, silicon, and aluminium as high-grade steel deoxidizers.
+
+===Barium sulfate and barite===
+Amoebiasis as seen in radiograph of barium-filled colon
+Barium sulfate (the mineral barite, BaSO4) is important to the petroleum industry, for example, as a drilling fluid in oil and gas wells. The precipitate of the compound (called "blanc fixe", from a French expression meaning "permanent white") is used in paints and varnishes, and also as a filler in ringing ink, plastics, and rubbers. It is also a paper coating pigment. In the form of nanoparticles, it can improve physical properties of some polymers, such as epoxies. 
+
+Barium sulfate has a low toxicity and relatively high density of ca. 4.5 g·cm−3 (and thus opacity to X-rays). For this reason it is used as a radiocontrast agent in X-ray imaging of the digestive system ("barium meals" and "barium enemas"). Lithopone, a pigment that contains barium sulfate and zinc sulfide, is a permanent white that has good covering power, and does not darken when exposed to sulfides. 
+
+===Other barium compounds===
+Green barium fireworks
+Aside from the sulfate, other compounds of barium find only niche applications. Applications are limited by the toxicity of Ba2+ ions (barium carbonate is a rat poison), which is not a problem for the insoluble BaSO4.
+* Barium oxide is used in a coating for the electrodes of fluorescent lamps, which facilitates the release of electrons.
+* Barium carbonate is used in glassmaking. Being a heavy element, barium increases the refractive index and luster of the glass. The compound is also used to reduce leaks of X-rays from cathode ray tubes (CRT) TV sets. 
+* Barium, typically as barium nitrate, is added to fireworks to impart them a green color. The species responsible for the brilliant green is barium monochloride; in the absence of chlorine a yellow or "apple" green is produced instead.
+* Barium peroxide can be used as a catalyst to start an aluminothermic reaction when welding rail tracks together. It can also be used in green tracer ammunition and as a bleaching agent. 
+* Barium titanate is a promising electroceramic. 
+* Barium fluoride is used for optics in infrared applications because of its wide transparency range of 0.15–12 micrometers. 
+* YBCO was the first high-temperature superconductor that could be cooled by liquid nitrogen, as its transition temperature of 93 K exceeded the boiling point of nitrogen (77 K). 
+
+==Biological dangers and precautions==
+Because of the high reactivity of the metal, toxicological data are available only for compounds. Water-soluble barium compounds are poisonous. At low doses, barium ions act as a muscle stimulant, whereas higher doses affect the nervous system, causing cardiac irregularities, tremors, weakness, anxiety, dyspnea and paralysis. This may be due to the ability of Ba2+ to block potassium ion channels, which are critical to the proper function of the nervous system. Other target organs for water-soluble barium compounds (i.e., barium ions) are eyes, immune system, heart, respiratory system, and skin. They affect the body strongly, causing, for example, blindness and sensitization. 
+
+Barium is not carcinogenic, and it does not bioaccumulate. However, inhaled dust containing insoluble barium compounds can accumulate in the lungs, causing a benign condition called baritosis. For comparison to the soluble poisons, the insoluble sulfate is nontoxic and is thus not classified as a dangerous good. 
+
+To avoid a potentially vigorous chemical reaction, barium metal is kept under argon or mineral oils. Contact with air is dangerous, as it may cause ignition. Moisture, friction, heat, sparks, flames, shocks, static electricity, reactions with oxidizers and acids should be avoided. Everything that may make contact with barium should be grounded. Those who work with the metal should wear pre-cleaned non-sparking shoes, flame-resistant rubber clothes, rubber gloves, apron, goggles, and a gas mask; they are not allowed to smoke in the working area and must wash themselves after handling barium. 
+
+==See also==
+* Han purple and Han blue
+
+==References==
+
+==External links==
+* Barium at The Periodic Table of Videos (University of Nottingham)
+* Elementymology & Elements Multidict
+* 3-D Holographic Display Using Strontium Barium Niobate
+
+*
+
+

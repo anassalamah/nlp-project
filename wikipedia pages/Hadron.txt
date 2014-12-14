@@ -1,0 +1,60 @@
+[[Hadron]]
+
+In particle physics, a hadron (, hadrós, "stout, thick") is a composite particle made of quarks held together by the strong force (in a similar way as molecules are held together by the electromagnetic force).
+
+Hadrons are categorized into two families: baryons (such as protons and neutrons, made of three quarks) and mesons (such as pions, made of one quark and one antiquark). A tetraquark state (an exotic meson), named the Z(4430)– was discovered in 2014 by the LHCb collaboration. LHCb collaboration (2014): Observation of the resonant character of the Z(4430)– state Other types of exotic hadrons may exist, such as pentaquarks (exotic baryons), but no current evidence conclusively suggests their existence. W.-M. Yao et al. (2006): Particle listings – &Theta;+ C. Amsler et al. (2008): Pentaquarks 
+
+Of the hadrons, protons are stable, and neutrons bound within atomic nuclei are stable, whereas other hadrons are unstable under ordinary conditions; free neutrons decay with a half life of about 880 seconds. Experimentally, hadron physics is studied by colliding protons or nuclei of heavy elements such as lead, and detecting the debris in the produced particle showers.
+
+==Etymology==
+The term "hadron" was introduced by Lev B. Okun in a plenary talk at the 1962 International Conference on High Energy Physics. 
+ In this talk he said:
+Not withstanding the fact that this report deals with weak interactions, we shall frequently have to speak of strongly interacting particles. These particles pose not only numerous scientific problems, but also a terminological problem. The point is that "strongly interacting particles" is a very clumsy term which does not yield itself to the formation of an adjective. For this reason, to take but one instance, decays into strongly interacting particles are called non-leptonic. This definition is not exact because "non-leptonic" may also signify "photonic". In this report I shall call strongly interacting particles "hadrons", and the corresponding decays "hadronic" (the Greek ἁδρός signifies "large", "massive", in contrast to λεπτός which means "small", "light"). I hope that this terminology will prove to be 
+
+==Properties==
+alt=A green and a magenta ("antigreen") arrow canceling out each other out white, representing a meson; a red, a green, and a blue arrow canceling out to white, representing a baryon; a yellow ("antiblue"), a magenta, and a cyan ("antired") arrow canceling out to white, representing an antibaryon.
+
+According to the quark model, 
+ the properties of hadrons are primarily determined by their so-called valence quarks. For example, a proton is composed of two up quarks (each with electric charge +, for a total of + together) and one down quark (with electric charge −). Adding these together yields the proton charge of +1. Although quarks also carry color charge, hadrons must have zero total color charge because of a phenomenon called color confinement. That is, hadrons must be "colorless" or "white". These are the simplest of the two ways: three quarks of different colors, or a quark of one color and an antiquark carrying the corresponding anticolor. Hadrons with the first arrangement are called baryons, and those with the second arrangement are mesons.
+
+Hadrons, however, are not composed of just three or two quarks, because of the strength of the strong force. More accurately, strong force gluons have enough energy (E) to have resonances composed of massive (m) quarks (E > mc2) . Thus, virtual quarks and antiquarks, in a 1:1 ratio, form the majority of massive particles inside a hadron. The two or three quarks are the excess of quarks vs. antiquarks in hadrons, and vice versa in anti-hadrons. Because the virtual quarks are not stable wave packets (quanta), but irregular and transient phenomena, it is not meaningful to ask which quark is real and which virtual; only the excess is apparent from the outside. Massless virtual gluons compose the numerical majority of particles inside hadrons.
+
+Like all subatomic particles, hadrons are assigned quantum numbers corresponding to the representations of the Poincaré group: JPC(m), where J is the spin quantum number, P the intrinsic parity (or P-parity), and C, the charge conjugation (or C-parity), and the particle's mass, m. Note that the mass of a hadron has very little to do with the mass of its valence quarks; rather, due to mass–energy equivalence, most of the mass comes from the large amount of energy associated with the strong interaction. Hadrons may also carry flavor quantum numbers such as isospin (or G parity), and strangeness. All quarks carry an additive, conserved quantum number called a baryon number (B), which is + for quarks and − for antiquarks. This means that baryons (groups of three quarks) have B = 1 whereas mesons have B = 0.
+
+Hadrons have excited states known as resonances. Each ground state hadron may have several excited states; several hundreds of resonances have been observed in particle physics experiments. Resonances decay extremely quickly (within about 10−24 seconds) via the strong nuclear force.
+
+In other phases of matter the hadrons may disappear. For example, at very high temperature and high pressure, unless there are sufficiently many flavors of quarks, the theory of quantum chromodynamics (QCD) predicts that quarks and gluons will no longer be confined within hadrons, "because the strength of the strong interaction diminishes with energy". This property, which is known as asymptotic freedom, has been experimentally confirmed in the energy range between 1 GeV (gigaelectronvolt) and 1 TeV (teraelectronvolt). 
+ 
+
+All free hadrons except the proton (and antiproton) are unstable.
+
+==Baryons==
+
+All known baryons are made of three valence quarks, so they are fermions, i.e., they have odd half-integral spin, because they have an odd number of quarks. As quarks possess baryon number B = , baryons have baryon number B = 1. The best-known baryons are the proton and the neutron.
+
+One can hypothesise baryons with further quark-antiquark pairs in addition to their three quarks. Hypothetical baryons with one extra quark-antiquark pair (5 quarks in all) are called pentaquarks. 
+ Several pentaquark candidates were found in the early 2000s, but upon further review these states have now been established as nonexistent. 
+ (This does not rule against pentaquarks in general, only the candidates put forward).
+
+Each type of baryon has a corresponding antiparticle (antibaryon) in which quarks are replaced by their corresponding antiquarks. For example, just as a proton is made of two up-quarks and one down-quark, its corresponding antiparticle, the antiproton, is made of two up-antiquarks and one down-antiquark.
+
+==Mesons==
+
+Mesons are hadrons composed of a quark-antiquark pair. They are bosons, meaning they have integral spin, i.e., 0, 1, or −1, as they have an even number of quarks. They have baryon number B = 0. Examples of mesons commonly produced in particle physics experiments include pions and kaons. Pions also play a role in holding atomic nuclei together via the residual strong force.
+
+In principle, mesons with more than one quark-antiquark pair may exist; a hypothetical meson with two pairs is called a tetraquark. Several tetraquark candidates were found in the 2000s, but their status is under debate. Mysterious Subatomic Particle May Represent Exotic New Form of Matter Several other hypothetical "exotic" mesons lie outside the quark model of classification. These include glueballs and hybrid mesons (mesons bound by excited gluons).
+
+==See also==
+
+* Hadronization, the formation of hadrons out of quarks and gluons
+* Large Hadron Collider (LHC)
+* List of particles
+* Standard model
+* Subatomic particles
+* Hadron therapy, a.k.a. particle therapy
+
+==References==
+
+ 
+
+

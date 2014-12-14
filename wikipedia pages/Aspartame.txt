@@ -1,0 +1,134 @@
+[[Aspartame]]
+
+Aspartame (APM; or ) is an artificial, non-saccharide sweetener used as a sugar substitute in some foods and beverages. In the European Union, it is codified as E951. Aspartame is a methyl ester of the aspartic acid/phenylalanine dipeptide. It was first sold under the brand name NutraSweet; It was first synthesized in 1965 and the patent expired in 1992.
+
+The safety of aspartame has been the subject of several political and medical controversies, congressional hearings and Internet hoaxes Aspartame on Snopes.com ACSH Debunks Internet Health Hoax A Web of Deceit since its initial approval for use in food products by the U.S. Food and Drug Administration (FDA) in 1981. A 2007 medical review on the subject concluded that "the weight of existing scientific evidence indicates that aspartame is safe at current levels of consumption as a non-nutritive sweetener". However, because its breakdown products include phenylalanine, aspartame must be avoided by people with the genetic condition phenylketonuria (PKU).
+
+==Chemistry==
+Aspartame is a methyl ester of the dipeptide of the natural amino acids L-aspartic acid and L-phenylalanine. Under strongly acidic or alkaline conditions, aspartame may generate methanol by hydrolysis. Under more severe conditions, the peptide bonds are also hydrolyzed, resulting in the free amino acids. 
+ 
+
+While known aspects of synthesis are covered by patents, many details are proprietary. Two approaches to synthesis are used commercially. In the chemical synthesis, the two carboxyl groups of aspartic acid are joined into an anhydride, and the amino group is protected by a compound that will prevent further reactions of that group. Phenylalanine is methylated and combined with the N-protected aspartic anhydride, then the blocking group is removed from aspartic acid by acid hydrolysis. The drawback of this technique is that a byproduct, the bitter tasting β-form, is produced when the wrong carboxyl group from aspartic acid links to phenylalanine. A process using an enzyme from Bacillus thermoproteolyticus to catalyze the condensation of the chemically altered amino acids will produce high yields without the β-form byproduct. A variant of this method, which has not been used commercially, uses unmodified aspartic acid, but produces low yields. Methods for directly producing aspartyl-phenylalanine by enzymatic means, followed by chemical methylation, have also been tried, but not scaled for industrial production. 
+
+==Properties and use==
+Beta-aspartame differs from aspartame based upon which carboxyl group of aspartate binds to the nitrogen of phenylalanine.
+
+Aspartame, an artificial sweetener, is approximately 200 times sweeter than sucrose, or table sugar. Due to this property, even though aspartame produces four kilocalories of energy per gram when metabolized, the quantity of aspartame needed to produce a sweet taste is so small that its caloric contribution is negligible. The taste of aspartame and other artificial sweeteners differs from that of table sugar in the times of onset and how long the sweetness lasts, though aspartame comes closest to sugar's taste profile among approved artificial sweeteners. The sweetness of aspartame lasts longer than sucrose, so it is often blended with other artificial sweeteners such as acesulfame potassium to produce an overall taste more like sugar. Aspartame can be synthesized from its constituent amino acids, L-phenylalanine and L-aspartate.
+
+Like many other peptides, aspartame may hydrolyze (break down) into its constituent amino acids under conditions of elevated temperature or high pH. This makes aspartame undesirable as a baking sweetener, and prone to degradation in products hosting a high pH, as required for a long shelf life. The stability of aspartame under heating can be improved to some extent by encasing it in fats or in maltodextrin. The stability when dissolved in water depends markedly on pH. At room temperature, it is most stable at pH 4.3, where its half-life is nearly 300 days. At pH 7, however, its half-life is only a few days. Most soft-drinks have a pH between 3 and 5, where aspartame is reasonably stable. In products that may require a longer shelf life, such as syrups for fountain beverages, aspartame is sometimes blended with a more stable sweetener, such as saccharin. 
+
+Aspartame's major decomposition products are its cyclic dipeptide (in a 2,5-diketopiperazine, or DKP, form), the de-esterified dipeptide (aspartyl-phenylalanine), and its constituent components, phenylalanine, aspartic acid, and methanol. At 180 °C, aspartame undergoes decomposition to form a diketopiperazine derivative. 
+
+In products such as powdered beverages, the amine in aspartame can undergo a Maillard reaction with the aldehyde groups present in certain aroma compounds. The ensuing loss of both flavor and sweetness can be prevented by protecting the aldehyde as an acetal.
+
+Descriptive analyses of solutions containing aspartame report a sweet aftertaste as well as bitter and off-flavor aftertastes. 
+
+==Discovery and approval==
+Aspartame was discovered in 1965 by James M. Schlatter, a chemist working for G.D. Searle & Company. Schlatter had synthesized aspartame as an intermediate step in generating a tetrapeptide of the hormone gastrin, for use in assessing an anti-ulcer drug candidate. He accidentally discovered its sweet taste when he licked his finger, which had become contaminated with aspartame, to lift up a piece of paper. Mazur, R.H. (1984). Discovery of aspartame. In Aspartame: Physiology and Biochemistry (L. D. Stegink and L. J. Filer Jr., Eds.). Marcel Dekker, New York, pp. 3–9. 
+
+In 1975, prompted by issues regarding Flagyl and Aldactone, a U.S. FDA task force team reviewed 25 studies submitted by the manufacturer, including 11 on aspartame. The team reported "serious deficiencies in Searle's operations and practices". The FDA sought to authenticate 15 of the submitted studies against the supporting data. In 1979, the Center for Food Safety and Applied Nutrition (CFSAN) concluded, since many problems with the aspartame studies were minor and did not affect the conclusions, the studies could be used to assess aspartame's safety. 
+
+In 1980, the FDA convened a Public Board of Inquiry (PBOI) consisting of independent advisors charged with examining the purported relationship between aspartame and brain cancer. The PBOI concluded aspartame does not cause brain damage, but it recommended against approving aspartame at that time, citing unanswered questions about cancer in laboratory rats. Testimony of Dr. Adrian Gross, Former FDA Investigator to the U.S. Senate Committee on Labor and Human Resources, 3 November 1987. Hearing title: "NutraSweet Health and Safety Concerns." Document # Y 4.L 11/4:S.HR6.100, page 430–439. 
+
+Citing data from a Japanese study that had not been available to the members of the PBOI, FDA Statement on Aspartame, 18 November 1996 and after seeking advice from an expert panel that found fault with statistical analyses underlying the PBOI's hesitation, yet argued against approval, FDA commissioner Hayes approved aspartame for use in dry goods. In 1983, the FDA further approved aspartame for use in carbonated beverages, and for use in other beverages, baked goods, and confections in 1993. In 1996, the FDA removed all restrictions from aspartame, allowing it to be used in all foods.
+
+Several European Union countries approved aspartame in the 1980s, with EU-wide approval in 1994. The European Commission Scientific Committee on Food reviewed subsequent safety studies and reaffirmed the approval in 2002. The European Food Safety Authority reported in 2006 that the previously established Acceptable daily intake was appropriate, after reviewing yet another set of studies. EFSA ::. Opinion of the Scientific Panel on food additives, flavourings, processing aids and materials in contact with food (AFC) related to a new long-term carcinogenicity study on aspartame 
+
+==Compendial status==
+* British Pharmacopoeia 
+* United States Pharmacopeia 
+
+==Safety and approval controversies==
+
+Aspartame has been found to be safe for human consumption by more than ninety countries worldwide, Health Canada: Food Standards Australia New Zealand: with FDA officials describing aspartame as "one of the most thoroughly tested and studied food additives the agency has ever approved" and its safety as "clear cut", but has been the subject of several controversies, hoaxes and health scares. 
+
+Initially aspartame was approved by the U.S. Food and Drug Administration (FDA) in 1974, however, problems with Searle's safety testing program, including testing of aspartame, were discovered subsequently. The approval was rescinded the following year, but after outside reviews of the problematic tests and additional testing, final approval was granted in 1981. Because allegations of conflicts of interest marred the FDA's approval of aspartame, the U.S. Government Accountability Office reviewed the actions of involved officials in 1986 and the approval process in 1987; neither the allegations of conflict of interest nor problems in the final approval process were substantiated. GAO 1986. "Six Former HHS Employees' Involvement in Aspartame's Approval." United States General Accounting Office, GAO/HRD-86-109BR, July 1986. 
+
+In addition, the Centers for Disease Control investigated in 1984 and was unable to find any significant epidemiological associations to serious risk or harm. 
+
+Since December 1998, a widely circulated email hoax cited aspartame as the cause of numerous diseases. – the Nancy Markle chain email. 
+
+The weight of existing scientific evidence indicates that aspartame is safe at current levels of consumption as a non-nutritive sweetener. Reviews conducted by regulatory agencies decades after aspartame was first approved have supported its continued availability. Reveiws by: EFSA 2012 USFDA 2007 The consumer advocacy group the Center for Science in the Public Interest continues to promote the position that aspartame is not safe. Coke Shouldn't Bother Rehabilitating Aspartame's Image, Says CSPI ~ Newsroom ~ News from CSPI ~ Center for Science in the Public Interest 
+
+==Safety and health effects==
+The safety of aspartame has been studied extensively since its discovery with research that includes animal studies, clinical and epidemiological research, and postmarketing surveillance, with aspartame being one of the most rigorously tested food ingredients to date. Peer-reviewed comprehensive review articles and independent reviews by governmental regulatory bodies have analyzed the published research on the safety of aspartame and have found aspartame is safe for consumption at current levels. Food Standards Australia New Zealand: Aspartame has been deemed safe for human consumption by over one hundred (100) regulatory agencies in their respective countries, including the UK Food Standards Agency, the European Food Safety Authority (EFSA) and Health Canada. 
+
+===Intake===
+The acceptable daily intake (ADI) value for aspartame, as well as other food additives studied, is defined as the "amount of a food additive, expressed on a body weight basis, that can be ingested daily over a lifetime without appreciable health risk." The Joint FAO/WHO Expert Committee on Food Additives (JECFA) and the European Commission's Scientific Committee on Food has determined this value is 40 mg/kg of body weight for aspartame, while FDA has set its ADI for aspartame at 50 mg/kg. 
+
+The primary source for exposure to aspartame in the United States is diet soft drinks, though it can be consumed in other products, such as pharmaceutical preparations, fruit drinks, and chewing gum among others in smaller quantities. A 12 US fluid ounce (355 ml) can of diet soda contains 180 mg of aspartame, and for a 75 kg adult, it takes approximately 21 cans of diet soda daily to consume the 3750 mg of aspartame that would surpass the FDA's 50 milligrams per kilogram of body weight ADI of aspartame from diet soda alone. 
+
+Reviews have analyzed studies which have looked at the consumption of aspartame in countries worldwide, including the United States, countries in Europe and Australia, among others. These reviews have found that the even high levels of intake of aspartame, studied across multiple countries and different methods of measuring aspartame consumption, is well below the ADI for safe consumption of aspartame. Reviews have also found that populations that are believed to be especially high consumers of aspartame such as children and diabetics are below the ADI for safe consumption, even considering extreme worst-case scenario calculations of consumption. 
+
+In a report released on 10 December 2013, the EFSA said that, after an extensive examination of evidence, it ruled out the "potential risk of aspartame causing damage to genes and inducing cancer," and deemed the amount found in diet sodas an amount safe to consume. 
+
+=== Metabolites ===
+Aspartame is rapidly hydrolyzed in the small intestines. Even with ingestion of very high doses of aspartame (over 200 mg/kg), no aspartame is found in the blood due to the rapid breakdown. These metabolites have been studied in a wide range of populations including infants, children, adolescents, and healthy adults. In healthy adults and children, even enormous doses of aspartame do not lead to plasma levels of metabolites that are a concern for safety.
+
+Upon ingestion, aspartame breaks down into residual components, including aspartic acid, phenylalanine, methanol, in ratio of 4:5:1 by mass and further breakdown products including formaldehyde and formic acid, accumulation of the latter being suspected as the major cause of injury in methanol poisoning. Human studies show that formic acid is excreted faster than it is formed after ingestion of aspartame. In some fruit juices, higher concentrations of methanol can be found than the amount produced from aspartame in beverages. 
+
+====Aspartate====
+Aspartic acid (aspartate) is one of the most common amino acids in the typical diet. As with methanol and phenylalanine, intake of aspartic acid from aspartame is less than would be expected from other dietary sources. At the 90th percentile of intake, aspartame provides only between 1% and 2% of the daily intake of aspartic acid. There has been some speculation that aspartame, in conjunction with other amino acids like glutamate, may lead to excitotoxicity, inflicting damage on brain and nerve cells. However, clinical studies have shown no signs of neurotoxic effects, and studies of metabolism suggest it is not possible to ingest enough aspartic acid and glutamate through food and drink to levels that would be expected to be toxic. 
+
+====Methanol====
+The methanol produced by the metabolism of aspartame is absorbed and quickly converted into formaldehyde and then completely oxidized to formic acid, which, due to its long half life, is considered the primary mechanism of toxicity in methanol poisoning. The methanol from aspartame is unlikely to be a safety concern for several reasons. The amount of methanol in aspartame is less than that found in fruit juices and citrus fruits, and there are other dietary sources for methanol such as fermented beverages. Therefore, the amount of methanol produced from aspartame is likely to be less than that from natural sources. With regard to formaldehyde, it is rapidly converted in the body, and the amounts of formaldehyde from the metabolism of aspartame are trivial when compared to the amounts produced routinely by the human body and from other foods and drugs. At the highest expected human doses of consumption of aspartame, there are no increased blood levels of methanol or formic acid, and ingesting aspartame at the 90th percentile of intake would produce 25 times less methanol than what would be considered toxic. 
+
+====Phenylalanine and phenylketonuria====
+High levels of the naturally-occurring essential amino acid phenylalanine are a health hazard to those born with phenylketonuria (PKU), a rare inherited disease that prevents phenylalanine from being properly metabolized. Since individuals with PKU must consider aspartame as an additional source of phenylalanine, foods containing aspartame sold in the United States must state "Phenylketonurics: Contains Phenylalanine" on their product labels. Code of Federal Regulations Title 21 
+
+In the UK, foods that contain aspartame are legally required by the country's Food Standards Agency to list the substance among the product's ingredients and carry the warning "Contains a source of phenylalanine" – this is usually at the foot of the list of ingredients. Manufacturers are also required to print '"with sweetener(s)" on the label close to the main product name on foods that contain "sweeteners such as aspartame" or "with sugar and sweetener(s)" on "foods that contain both sugar and sweetener". Aspartame – Labelling, UK Food Standards Agency, 18 July 2006. Retrieved on 22 July 2007. 
+
+In Canada, foods that contain aspartame are legally required by the country to list the substance among the product's ingredients and include a measure of the amount of aspartame per serving. As well, labels must state that the product contains phenylalanine – this is usually in the order of ingredients, contained in brackets. 
+
+Phenylalanine is one of the essential amino acids and is required for normal growth and maintenance of life. Concerns about the safety of phenylalanine from aspartame center largely on hypothetical changes in neurotransmitter levels as well as ratios of neurotransmitters to each other in the blood and brain that could lead to neurological symptoms. Reviews of the literature have found no consistent findings to support such concerns, and while high doses of aspartame consumption may have some biochemical effects, these effects are not seen in toxicity studies to suggest aspartame can adversely affect neuronal function. Like methanol, the typical diet will lead to ingestion of significantly higher amounts of phenylalanine than would be expected from aspartame consumption. 
+People with the genetic disorder phenylketonuria are advised to avoid aspartame as they have a decreased ability to metabolize phenylalanine. Common foods such as milk, meat, and fruits provide far greater amounts of these metabolites in a diet than does aspartame. 
+
+===Lactation===
+In a study done in 1979, the effect of aspartame ingestion on blood and milk amino acid levels in lactating women was tested. Baker, G. L., L. J. Filer, JR., and L. D. Stegink. "Plasma, Erythrocyte and Human Milk Levels of Free Amino Acids in Lactating Women Administered Aspartame or Lactose." The American Society for Nutrition 109 (1979): 2173–2181. Print. In this study, six women from the ages of 20 to 29 with established lactation were studied after oral administration of aspartame or lactose (50 mg/kg body weight) in a random order, with the intent to study the differences in breast milk between the two. The study resulted with the conclusion that aspartame administration at 50 mg/kg body weight has a small effect upon the milk aspartate levels and although a small increase in aspartate time-effect scores was noted over the four-hour postabsorptive period, no significant difference was noted over the entire 24-hour watching period. 
+
+===Cancer===
+
+Reviews have found no association between aspartame and cancer. These reviews have looked at numerous carcinogenicity studies in animals, epidemiologic studies in humans, as well as in vitro genotoxicity studies. These studies have found no significant evidence that aspartame causes cancer in animals, damages the genome, or causes cancer in humans at doses currently used. This position is supported by multiple regulatory agencies like the FDA and EFSA as well as scientific bodies such as the National Cancer Institute. 
+
+Concern about possible carcinogenic properties of aspartame was originally raised and popularized in the mainstream media by John Olney in the 1970s and again in 1996 by suggesting that aspartame may be related to brain tumors. Reviews have found that these concerns were flawed, due to reliance on the ecological fallacy and the purported mechanism of causing tumors being unlikely to actually cause cancer. Independent agencies such as the FDA and National Cancer Institute have reanalyzed multiple studies based on these worries and found no association between aspartame and brain cancer. 
+
+As discussed in the article on controversies around aspartame, the Cesare Maltoni Cancer Research Center of the European Ramazzini Foundation of Oncology and Environmental Sciences released several studies which claimed that aspartame can increase several malignancies in rodents, concluding that aspartame is a potential carcinogen at normal dietary doses. The EFSA and the FDA discounted the study results and found no reason to revise their previously established acceptable daily intake levels for aspartame.
+
+=== Neurological and psychiatric symptoms ===
+Numerous allegations have been made on the Internet and in consumer magazines purporting neurotoxic effects of aspartame leading to neurological or psychiatric symptoms such as seizures, headaches, and mood changes. Review of the biochemistry of aspartame has found no evidence that the doses consumed would plausibly lead to neurotoxic effects. 
+Comprehensive reviews have not found any evidence for aspartame as a cause for these symptoms. 
+One review did provide a theoretical biochemical background of neurotoxicity and suggested further testing. 
+However, a panel of EFSA experts noted that this review's conclusions were partially based on Internet sources and therefore were not scientifically robust. These experts also concurred with a critique that significant scientific errors were made in the critical review that led to unsubstantiated and misleading interpretations. A review of the pediatric literature did not show any significant findings for safety concerns with regard to neuropsychiatric conditions such as panic attacks, mood changes, hallucinations or with ADHD or seizures. 
+
+====Headaches====
+Headaches are the most common symptom reported by consumers. While one small review noted aspartame is likely one of many dietary triggers of migraines, in a list that includes "cheese, chocolate, citrus fruits, hot dogs, monosodium glutamate, aspartame, fatty foods, ice cream, caffeine withdrawal, and alcoholic drinks, especially red wine and beer," 
+other reviews have noted conflicting studies about headaches 
+and still more reviews lack any evidence and references to support this claim. 
+
+===Weight change and hunger===
+
+Since the caloric contribution of aspartame is negligible, it has been used as a means for weight loss through its role as a sugar substitute, with reviews finding that aspartame may aid in weight loss as part of a multidisciplinary weight loss program. On its own, aspartame is not known by medical literature to cause weight gain or weight loss. Although researchers have theorized that aspartame contributes to hunger or increases appetite psychologically, broad reviews and regulators conclude that aspartame has no appreciable effect on appetite. 
+
+==Commercial uses==
+Under the trade names Equal, NutraSweet, and Canderel, aspartame is an ingredient in approximately 6,000 consumer foods and beverages sold worldwide, including (but not limited to) diet sodas and other soft drinks, instant breakfasts, breath mints, cereals, sugar-free chewing gum, cocoa mixes, frozen desserts, gelatin desserts, juices, laxatives, chewable vitamin supplements, milk drinks, pharmaceutical drugs and supplements, shake mixes, tabletop sweeteners, teas, instant coffees, topping mixes, wine coolers and yogurt. It is provided as a table condiment in some countries. Aspartame is less suitable for baking than other sweeteners, because it breaks down when heated and loses much of its sweetness. 
+
+===NutraSweet Company===
+In 1985, Monsanto Company bought G.D. Searle, and the aspartame business became a separate Monsanto subsidiary, the NutraSweet Company. In March 2000, Monsanto sold it to J.W. Childs Equity Partners II L.P. J.W. Childs Equity Partners II, L.P, Food & Drink Weekly, 5 June 2000 European use patents on aspartame expired starting in 1987, and the U.S. patent expired in 1992. Since then, the company has competed for market share with other manufacturers, including Ajinomoto, Merisant and the Holland Sweetener Company.
+
+===Ajinomoto===
+Many aspects of industrial synthesis of aspartame were established by Ajinomoto. In 2004, the market for aspartame, in which Ajinomoto, the world's largest aspartame manufacturer, had a 40 percent share, was 14,000 metric tons a year, and consumption of the product was rising by 2 percent a year. Ajinomoto acquired its aspartame business in 2000 from Monsanto for $67M. 
+
+In 2008, Ajinomoto sued British supermarket chain Asda, part of Wal-Mart, for a malicious falsehood action concerning its aspartame product when the substance was listed as excluded from the chain's product line, along with other "nasties". In July 2009, a British court found in favour of Asda. In June 2010, an appeals court reversed the decision, allowing Ajinomoto to pursue a case against Asda to protect aspartame's reputation. Asda said that it would continue to use the term "no nasties" on its own-label products, but the suit was settled in 2011 with ASDA choosing to remove references to aspartame from its packaging. 
+
+In November 2009, Ajinomoto announced a new brand name for its aspartame sweetener – AminoSweet. 
+* 
+
+===Holland Sweetener Company===
+A joint venture of DSM and Tosoh, the Holland Sweetener Company manufactured aspartame using the enzymatic process developed by Toyo Soda (Tosoh) and sold as the brand Sanecta. Additionally, they developed a combination aspartame-acesulfame salt under the brand name Twinsweet. They left the sweetener industry in late 2006, because "global aspartame markets are facing structural oversupply, which has caused worldwide strong price erosion over the last five years", making the business "persistently unprofitable". DSM press release, 30 March 2006 
+
+===Competing products===
+Because sucralose, unlike aspartame, retains its sweetness after being heated, and has at least twice the shelf life of aspartame, it has become more popular as an ingredient. This, along with differences in marketing and changing consumer preferences, caused aspartame to lose market share to sucralose. In 2004, aspartame traded at about $30/kg and sucralose, which is roughly three times sweeter by weight, at around $300/kg. 
+
+==References==
+
+

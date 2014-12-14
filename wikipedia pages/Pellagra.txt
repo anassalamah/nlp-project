@@ -1,0 +1,85 @@
+[[Pellagra]]
+
+Pellagra is a vitamin deficiency disease most frequently caused by a chronic lack of niacin (vitamin B3 or synonym: vitamin PP (from: Anti-Pellagra)) in the diet. It can be caused by decreased intake of niacin or tryptophan, and possibly by excessive intake of leucine. It may also result from alterations in protein metabolism in disorders such as carcinoid syndrome. A deficiency of the amino acid lysine can lead to a deficiency of niacin, as well. 
+
+==Signs and symptoms==
+The dermatologic features of this disorder include desquamation, erythema, scaling, and keratosis of sun-exposed areas, all of which this patient had.
+Pellagra is classically described by "the four Ds": diarrhea, dermatitis, dementia and death. 
+A more comprehensive list of symptoms includes:
+* High sensitivity to sunlight
+* Aggression
+* Dermatitis, alopecia (hair loss), edema (swelling)
+* Smooth, beefy red glossitis (tongue inflammation)
+* Red skin lesions
+* Insomnia
+* Weakness
+* Mental confusion
+* Ataxia (lack of coordination), paralysis of extremities, peripheral neuritis (nerve damage)
+* Diarrhea
+* Dilated cardiomyopathy (enlarged, weakened heart)
+* Eventually dementia
+
+Frostig and Spies (acc. to Cleary and Cleary) described more specific psychological symptoms of pellagra as: 
+* Psychosensory disturbances (impressions as being painful, annoying bright lights, odors intolerance causing nausea and vomiting, dizziness after sudden movements)
+
+* Psychomotor disturbances (restlessness, tense and a desire to quarrel, increased preparedness for motor action)
+
+* Emotional disturbances
+Despite clinical symptoms, blood level of tryptophan or urinary metabolites such as 2-pyridone/N-methylniacinamide ratio <2 or NAD/NADP ratio in erythrocytes could be used to diagnose pellagra. Diagnosis could be confirmed after rapid improvements in the symptoms in patients using high doses of niacin (50–500 mg/day) or niacin enriched food. 
+
+==Pathophysiology==
+Pellagra can develop according to several mechanisms, all of which ultimately revolve around niacin deficiency. The first is simple dietary lack of niacin. Second, it may result from deficiency of tryptophan, an essential amino acid found in meat, poultry, fish, eggs, and peanuts that the body converts into niacin. Third, it may be caused by excess leucine, though the relationship is unclear. 
+
+Some conditions can prevent the absorption of dietary niacin or tryptophan and lead to pellagra. Inflammation of the jejunum or ileum can prevent nutrient absorption, leading to pellagra, and this can in turn be caused by Crohn's disease. Gastroenterostomy can also cause pellagra. Chronic alcoholism can also cause poor absorption which combines with a diet already low in niacin and tryptophan to produce pellagra. Hartnup disease is a genetic disorder that reduces tryptophan absorption, leading to pellagra.
+
+Alterations in protein metabolism may also produce pellagra-like symptoms. An example is carcinoid syndrome, a disease in which neuroendocrine tumors along the GI tract use tryptophan as the source for serotonin production, which limits the available tryptophan for niacin synthesis. In normal patients, only one percent of dietary tryptophan is converted to serotonin; however, in patients with carcinoid syndrome, this value may increase to 70%. Carcinoid syndrome thus may produce Niacin deficiency and clinical manifestations of pellagra. Anti-tuberculosis medication tends to bind to vitamin B6 and reduce niacin synthesis.
+
+Several therapeutic drugs can provoke pellagra. These include the antibiotics isoniazid and chloramphenicol, the anti-cancer agent fluorouracil, and the immunosuppressant mercaptopurine. 
+
+==Treatment==
+Untreated, the disease can kill within four or five years. Treatment is with nicotinamide, which has the same vitamin function as niacin and a similar chemical structure, but has lower toxicity. The frequency and amount of nicotinamide administered depends on the degree to which the condition has progressed.
+
+==Epidemiology==
+Pellagra can be common in people who obtain most of their food energy from maize, notably rural South America, where maize is a staple food. If maize is not nixtamalized, it is a poor source of tryptophan, as well as niacin. Nixtamalization corrects the niacin deficiency, and is a common practice in Native American cultures that grow corn. Following the corn cycle, the symptoms usually appear during spring, increase in the summer due to greater sun exposure, and return the following spring. Indeed, pellagra was once endemic in the poorer states of the U.S. South, such as Mississippi and Alabama, as well as among the residents of jails and orphanages as studied by Dr. Joseph Goldberger.
+
+Pellagra is common in Africa, Indonesia, North Korea, and China. In affluent societies, a majority of patients with clinical pellagra are poor, homeless, alcohol-dependent, or psychiatric patients who refuse food. Pellagra was common among prisoners of Soviet labor camps (the Gulag). In addition, pellagra, as a micronutrient deficiency disease, frequently affects populations of refugees and other displaced people due to their unique, long-term residential circumstances and dependence on food aid. Refugees typically rely on limited sources of niacin provided to them, such as groundnuts; the instability in the nutritional content and distribution of food aid can be the cause of pellagra in displaced populations. In the 2000s, there were outbreaks in countries such as Angola, Zimbabwe and Nepal. In Angola specifically, recent reports show a similar incidence of pellagra since 2002 with clinical pellagra in 0.3% of women and 0.2% of children and niacin deficiency in 29.4% of women and 6% of children related to high untreated corn consumption. 
+
+In other countries such as the Netherlands and Denmark, even with sufficient intake of niacin, cases have been reported. In this case deficiency might happen not just because of poverty or malnutrition but secondary to alcoholism, drug interaction (psychotropic, cytostatic, tuberclostatic or analgesics), HIV, vitamin B2 and B6 deficiency, or malabsorption syndromes such as Hartnup and carcinoid. 
+
+==History==
+The traditional food preparation method of maize ("corn"), nixtamalization, by native New World cultivators who had domesticated corn required treatment of the grain with lime, an alkali. The lime treatment has been shown to make niacin nutritionally available and reduce the chance of developing pellagra. When maize cultivation was adopted worldwide, this preparation method was not accepted because the benefit was not understood. The original cultivators, often heavily dependent on maize, did not suffer from pellagra; it became common only when maize became a staple that was eaten without the traditional treatment.
+
+Pellagra was first described for its dermatological effect in Spain in 1735 by Gaspar Casal. He explained that the disease causes dermatitis in exposed skin areas such as hands, feet and neck and that the origin of the disease is poor diet and atmospheric influences. His work published in 1762 by his friend Juan Sevillano was titled ‘Historia Natural y Medicina del Principado de Asturias’ or Natural and Medical History of the Principality of Asturias (1762). This led to the disease being known as "Asturian leprosy", and it is recognized as the first modern pathological description of a syndrome. It was an endemic disease in northern Italy, where it was named pelle agra (pelle = skin; agra = sour) by Francesco Frapoli of Milan. In the 19th century Roussel started a campaign in France to restrict consumption of maize and eradicated the disease in France, but it remained endemic in many rural areas of Europe. Because pellagra outbreaks occurred in regions where maize was a dominant food crop, the belief for centuries was that the maize either carried a toxic substance or was a carrier of disease. Pellagra was also conjectured to be carried by insects. Later, the lack of pellagra outbreaks in Mesoamerica, where maize is a major food crop, led researchers to investigate processing techniques in that region.
+
+Dr. Joseph Goldberger
+
+Pellagra was studied mostly in Europe until the late 19th century when it became an epidemic especially in the southern United States. In the early 1900s, pellagra reached epidemic proportions in the American South. Between 1906 and 1940 more than 3 million Americans were affected by pellagra with more than 100,000 deaths, yet the epidemic resolved itself right after dietary niacin fortification. Pellagra deaths in South Carolina numbered 1,306 during the first ten months of 1915; 100,000 Southerners were affected in 1916. At this time, the scientific community held that pellagra was probably caused by a germ or some unknown toxin in corn. The Spartanburg Pellagra Hospital in Spartanburg, South Carolina, was the nation's first facility dedicated to discovering the cause of pellagra. It was established in 1914 with a special congressional appropriation to the U.S. Public Health Service (PHS) and set up primarily for research. In 1915, Joseph Goldberger, assigned to study pellagra by the Surgeon General of the United States, showed it was linked to diet by inducing the disease in prisoners, using the Spartanburg Pellagra Hospital as his clinic. By 1926, Goldberger established that a balanced diet or a small amount of brewer's yeast prevented pellagra.
+
+Goldberger experimented on 11 prisoners (one was dismissed because of prostatitis). Before the experiment, the prisoners were eating fruits and vegetables from the prison garden. Goldberger started feeding them a restricted diet of grits, syrup, mush, biscuits, cabbage, sweet potatoes, rice, collards, and coffee with sugar (no milk). About two weeks into the experiment, the prisoners complained of headaches, confusion, and loss of appetite. In the third week, six of the 11 broke out in pellagra, and two prisoners begged for release. Goldberger cured them, feeding them fruits and vegetables again, and gave them their freedom. In 1920’s he connected pellagra to the diet of rural areas with corn-based diets rather than infection, contrary to the common medical ideas of that time. Despite all his efforts few physicians took up his ideas due to necessity of social reform, especially in the land system of that time, which led to many avoidable deaths and stereotypes. Goldberger is remembered as the "unsung hero of American clinical epidemiology". However, he failed to identify a specific element whose absence caused pellagra.
+
+In 1937, Conrad Elvehjem, of Madison, Wisconsin, showed the vitamin niacin cured pellagra (manifested as black tongue in dogs). Later studies by Dr. Tom Spies, Marion Blankenhorn, and Clark Cooper established that niacin also cured pellagra in humans, for which Time Magazine dubbed them its 1938 Men of the Year in comprehensive science.
+
+Research conducted between 1900 and 1950 found the number of cases of women with pellagra was consistently double the number of cases of afflicted men. This is thought to be due to the inhibitory effect of estrogen on the conversion of the amino acid tryptophan to niacin, or to the differential and unequal access to quality foods within the household. Some researchers of the time gave a few explanations regarding the difference. As primary wage earners, men were given consideration and preference at the dinner table. They also had pocket money to buy food outside the household. Women gave quality protein foods to their children first. Women also would eat after everyone else.
+
+Gillman and Gillman related skeletal tissue and pellagra in their research in South African Blacks. They provide some of the best evidence for skeletal manifestations of pellagra and the reaction of bone in malnutrition. They claimed radiological studies of adult pellagrins demonstrated marked osteoporosis. A negative mineral balance in pellagrins was noted, which indicated active mobilization and excretion of endogenous mineral substances, and undoubtedly impacted the turnover of bone. Extensive dental caries were present in over half of pellagra patients. In most cases, caries were associated with "severe gingival retraction, sepsis, exposure of cementum, and loosening of teeth". 
+
+==See also==
+* Central chromatolysis
+* Hartnup disease
+* Unethical human experimentation in the United States
+
+==References==
+
+==Further reading==
+
+* 
+* 
+* 
+* 
+* 
+* Kraut, Alan. "Dr. Joseph Goldberger and the War on Pellagra, By Alan Kraut, Ph.D." Office of History, National Institutes of Health. Web. 03 Sept. 2010.
+
+==External links==
+* Pellagra
+
+

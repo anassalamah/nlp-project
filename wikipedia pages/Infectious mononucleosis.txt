@@ -1,0 +1,111 @@
+[[Infectious mononucleosis]]
+
+Infectious mononucleosis (IM; also known as mono, glandular fever, Pfeiffer's disease, Filatov's disease, and sometimes colloquially as the kissing disease (from its oral transmission) is an infectious, widespread viral disease caused by the Epstein–Barr virus (EBV), one type of herpes virus, against which over 90% of adults are likely to have acquired immunity by the age of 40. Occasionally, the symptoms can recur at a later period. Most people are exposed to the virus as children, when the disease produces no noticeable or only flu-like symptoms. In developing countries, people are exposed to the virus in early childhood more often than in developed countries. As a result, the disease in its observable form is more common in developed countries. It is most common among adolescents and young adults.
+
+Especially in adolescents and young adults, the disease is characterized by fever, sore throat and fatigue, along with several other possible signs and symptoms. It is primarily diagnosed by observation of symptoms, but suspicion can be confirmed by several diagnostic tests. It is generally a self-limiting disease, and little treatment is normally required.
+
+==Signs and symptoms==
+Main symptoms of infectious mononucleosis 
+The signs and symptoms of infectious mononucleosis vary with age.
+
+===Adolescents and young adults===
+In adolescence and young adulthood, the disease presents with a characteristic triad: 
+*Fever – usually lasting 10–14 days; often mild, especially in the last 5–7 days. 
+*Sore throat (acute pharyngitis) – usually severe for 3–5 days, before resolving in the next 7–10 days. 
+*Swollen glands (lymphadenopathy) – mobile; usually located around the back of the neck (posterior cervical lymph nodes) and sometimes throughout the body. 
+
+Another major symptom is exhaustion (fatigue). Headaches are common, and abdominal pains with nausea or vomiting sometimes also occur. Symptoms most often disappear after about 2–3 weeks. However, fatigue and a general feeling of being unwell (malaise) may sometimes last for months. Fatigue lasts more than one month in an estimated 9–22% of cases. In cases where fatigue lingers, it generally passes spontaneously within 2 years. Mild fever, swollen neck glands and body aches may also persist beyond 4 weeks. Most people are able to resume their usual activities within 2–3 months. 
+
+The most prominent sign of the disease is often the pharyngitis, which is frequently accompanied by enlarged tonsils with pus—an exudate similar to that seen in cases of strep throat. In about 50% of cases, small reddish-purple spots called petechiae can be seen on the roof of the mouth. Palatal enanthem can also occur, but is relatively uncommon. 
+
+Enlargement of the spleen is common in the second and third weeks, although this may not be apparent on physical examination; some enlargement of the liver may also be present. Jaundice occasionally occurs. 
+
+A small minority of people spontaneously present a rash, usually on the arms or trunk, which can be macular (morbilliform) or papular. Almost all people given amoxicillin or ampicillin eventually develop a generalized, itchy maculopapular rash, which however does not imply that the person will have adverse reactions to penicillins again in the future. Occasional cases of erythema nodosum and erythema multiforme have been reported. 
+
+===Older adults===
+Infectious mononucleosis mainly affects younger adults. When older adults do catch the disease, they less often have characteristic signs and symptoms such as the sore throat and lymphadenopathy. Instead, they may primarily experience prolonged fever, fatigue, malaise and body pains. They are more likely to have liver enlargement and jaundice. People over 40 years of age are more likely to develop serious illness. (See Prognosis.)
+
+===Children===
+In infancy and pre-adolescence, the disease produces only flu-like symptoms, if any at all. When found, symptoms tend to be similar to those of common throat infections (mild pharyngitis, with or without tonsillitis). 
+
+===Incubation period===
+The exact length of the incubation period is unclear. A review of the literature made a speculative estimate of 33–49 days. In adolescents and young adults, symptoms are thought to appear around 4–6 weeks after initial infection. Onset is often gradual, though it can be abrupt. The main symptoms may be preceded by 1–2 weeks of fatigue, malaise and body aches. 
+
+==Cause==
+
+===Epstein–Barr virus===
+About 90% of cases of infectious mononucleosis are caused by the Epstein–Barr virus, a member of the Herpesviridae family of DNA viruses. It is one of the most commonly found viruses throughout the world. Contrary to common belief, the Epstein–Barr virus is not highly contagious. It can only be contracted through direct contact with an infected person’s saliva, such as through kissing or sharing toothbrushes, cups, etc. Mononucleosis and Epstein-Barr: What's the connection?. MayoClinic.com (2011-11-22). Retrieved on 2013-08-03. About 95% of the population has been exposed to this virus by the age of 40, but only 15-20% of teenagers and about 40% of exposed adults actually become infected. Schonbeck, John and Frey, Rebecca. The Gale Encyclopedia of Medicine. Vol. 2. 4th ed. Detroit: Gale, 2011. Online. 
+
+===Cytomegalovirus===
+A minority of cases of infectious mononucleosis are caused by human cytomegalovirus (CMV), another type of herpes virus. This virus is found in body fluids including saliva, urine, blood, and tears. Larsen, Laura. Sexually Transmitted Diseases Sourcebook. Health Reference Series Detroit: Omnigraphics, Inc., 2009. Online. A person becomes infected with this virus by direct contact with infected body fluids. Cytomegalovirus is most commonly transmitted through kissing and sexual intercourse. It can also be transferred from an infected mother to her unborn child. This virus is often "silent" because the signs and symptoms cannot be felt by the person infected. However, it can cause life-threatening illness in infants, HIV patients, transplant recipients, and those with weak immune systems. For those with weak immune systems, cytomegalovirus can cause more serious illnesses such as pneumonia and inflammations of the retina, esophagus, liver, large intestine, and brain. Approximately 90% of the human population has been infected with cytomegalovirus by the time they reach adulthood, but most are unaware of the infection. Carson-DeWitt and Teresa G. The Gale Encyclopedia of Medicine. Vol. 2. 3rd ed. Detroit: Gale, 2006. Once a person becomes infected with cytomegalovirus, the virus stays in his/her body fluids throughout his or her lifetime.
+
+===Transmission===
+Epstein–Barr virus infection is spread via saliva, and has an incubation period of four to seven weeks. The length of time that an individual remains contagious is unclear, but the chances of passing the illness to someone else may be the highest during the first six weeks following infection. Some studies indicate that a person can spread the infection for many months, possibly up to a year and a half. 
+
+==Pathophysiology==
+The virus replicates first within epithelial cells in the pharynx (which causes pharyngitis, or sore throat), and later primarily within B cells (which are invaded via their CD21). The host immune response involves cytotoxic (CD8-positive) T cells against infected B lymphocytes, resulting in enlarged, atypical lymphocytes (Downey cells). 
+
+When the infection is acute (recent onset, instead of chronic), heterophile antibodies are produced. 
+
+When symptoms of infectious mononucleosis have been caused by cytomegalovirus, or by adenovirus or Toxoplasma gondii (toxoplasmosis), a heterophile antibody test will test negative. 
+
+Mononucleosis is sometimes accompanied by secondary cold agglutinin disease, an autoimmune disease in which abnormal circulating antibodies directed against red blood cells can lead to a form of autoimmune hemolytic anemia. The cold agglutinin detected is of anti-i specificity. 
+
+==Diagnosis==
+Infectious mononucleosis, peripheral smear, high power showing reactive lymphocytes
+Exudative pharyngitis in a person with infectious mononucleosis
+The most commonly used diagnostic criterion is the presence of 50% lymphocytes with at least 10% atypical lymphocytes (large, irregular nuclei), while the person also has fever, pharyngitis and adenopathy. Furthermore, it should be confirmed by a serological test. The atypical lymphocytes resembled monocytes when they were first discovered, thus the term "mononucleosis" was coined. Diagnostic tests are used to confirm infectious mononucleosis, but the disease should be suspected from symptoms prior to the results from hematology. These criteria are specific; however, they are not particularly sensitive and are more useful for research than for clinical use. Only half the patients presenting with the symptoms held by mononucleosis and a positive heterophile antibody test (monospot test) meet the entire criteria. One key procedure is to differentiate between infectious mononucleosis and mononucleosis-like symptoms.
+
+A few studies on infectious mononucleosis have been conducted in a primary care environment, the best of which studied 700 patients, of which 15 were found to have mononucleosis upon a heterophile antibody test. More useful in a diagnostic sense are the signs and symptoms themselves. The presence of splenomegaly, and posterior cervical, axillary and inguinal adenopathies are the most useful to suspect a diagnosis of infectious mononucleosis. On the other hand, the absence of cervical adenopathy and fatigue are the most useful to dismiss the idea of infectious mononucleosis as the correct diagnosis. The insensitivity of the physical examination in detecting splenomegaly means it should not be used as evidence against infectious mononucleosis. 
+
+In the past, the most common test for diagnosing infectious mononucleosis was the heterophile antibody test, which involves testing heterophile antibodies by agglutination of guinea pig, sheep and horse red blood cells. As with the aforementioned criteria, this test is specific but not particularly sensitive (with a false-negative rate of as high as 25% in the first week, 5–10% in the second, and 5% in the third). About 90% of patients have heterophile antibodies by week 3, disappearing in under a year. The antibodies involved in the test do not interact with the Epstein–Barr virus or any of its antigens. More recently, more sensitive tests have been developed, such as the immunoglobulin G (IgG) and immunoglobulin M (IgM) tests. IgG, when positive, reflects a past infection, whereas IgM reflects a current infection. When negative, these tests are more accurate in ruling out infectious mononucleosis. However, when positive, they feature similar sensitivities to the heterophile antibody test. Therefore, these tests are useful for diagnosing infectious mononucleosis in people with highly suggestive symptoms and a negative heterophile antibody test. Another test searches for the Epstein–Barr nuclear antigen, while it is not normally recognizable until several weeks into the disease, and is useful for distinguishing between a recent-onset of infectious mononucleosis and symptoms caused by a previous infection. Elevated hepatic transaminase levels is highly suggestive of infectious mononucleosis, occurring in up to 50% of patients. 
+
+A fibrin ring granuloma may be present.
+
+===Differential diagnosis===
+About 10% of people who present a clinical picture of infectious mononucleosis do not have an acute Epstein–Barr-virus infection. A differential diagnosis of acute infectious mononucleosis needs to take into consideration acute cytomegalovirus infection and Toxoplasma gondii infections. Because their management is much the same, it is not always helpful, or possible, to distinguish between Epstein–Barr-virus mononucleosis and cytomegalovirus infection. However, in pregnant women, differentiation of mononucleosis from toxoplasmosis is important, since it is associated with significant consequences for the fetus.
+
+Acute HIV infection can mimic signs similar to those of infectious mononucleosis, and tests should be performed for pregnant women for the same reason as toxoplasmosis. 
+
+Patients with infectious mononucleosis are sometimes misdiagnosed with a streptococcal pharyngitis (because of the classical clinical triad of fever, pharyngitis and adenopathy) and are given antibiotics such as ampicillin or amoxicillin as treatment.
+
+Other conditions from which to distinguish infectious mononucleosis include leukemia, tonsillitis, diphtheria, common cold and influenza (flu). 
+
+==Treatment==
+Infectious mononucleosis is generally self-limiting, so only symptomatic and/or supportive treatments are used. The need for rest and return to usual activities after the acute phase of the infection may reasonably be based on the person's general energy levels. In particular, bed rest need not be prescribed, and a return to normal activities is desirable as soon as it is comfortable for them to be resumed (gradually, if necessary). Nevertheless, in an effort to decrease the risk of splenic rupture experts advise avoidance of contact sports and other heavy physical activity, especially when involving increased abdominal pressure or the Valsalva maneuver (as in rowing or weight training), for at least the first 3–4 weeks of illness or until splenomegaly has resolved, as determined by a treating physician. 
+
+===Medications===
+In terms of medications, paracetamol or NSAIDs, such as ibuprofen, may be used to reduce fever and pain. Prednisone, a corticosteroid, is commonly used as an anti-inflammatory to reduce symptoms of pharyngeal pain, odynophagia, or enlarged tonsils, although its use remains controversial due to the rather limited benefit and the potential of side effects. National Center for Emergency Medicine Informatics - Mononucleosis http://www.ncemi.org/cse/cse0314.htm Intravenous corticosteroids, usually hydrocortisone or dexamethasone, are not recommended for routine use but may be useful if there is a risk of airway obstruction, severe thrombocytopenia, or hemolytic anemia. Antibiotic Expert Group. Therapeutic guidelines: Antibiotic. 13th ed. North Melbourne: Therapeutic Guidelines; 2006. There is little evidence to support the use of aciclovir, although it may reduce initial viral shedding. However, the antiviral drug valacyclovir has recently been shown to lower or eliminate the presence of the Epstein–Barr virus in subjects afflicted with acute mononucleosis, leading to a significant decrease in the severity of symptoms. Although antivirals are not recommended for patients presenting with simple infectious mononucleosis, they may be useful (in conjunction with steroids) in the management of patients with severe EBV manifestations, such as EBV meningitis, peripheral neuritis, hepatitis, or hematologic complications. 
+
+Although antibiotics exert no antiviral action they may be indicated to treat bacterial secondary infections of the throat, such as with streptococcus (strep throat). However, ampicillin and amoxicillin are contraindicated during acute Epstein–Barr virus infection since the vast majority of patients treated with them develop a diffuse non-allergic rash. 
+
+Opioid analgesics are also relatively contraindicated due to risk of respiratory depression. 
+
+==Prognosis==
+Serious complications are uncommon, occurring in less than 5% of cases: 
+* CNS complications include meningitis, encephalitis, hemiplegia, Guillain-Barré syndrome, and transverse myelitis. Infection with the Epstein–Barr virus has also been proposed as a risk factor for the development of multiple sclerosis (MS), but this has not been confirmed.
+* Hematologic: Hemolytic anemia (direct Coombs test is positive) and various cytopenias, and bleeding (caused by thrombocytopenia) can occur. 
+* Mild jaundice
+* Hepatitis with the Epstein–Barr virus is rare.
+* Upper airway obstruction from tonsillar hypertrophy is rare.
+* Fulminant disease course of immunocompromised patients is rare.
+* Splenic rupture is rare.
+* Myocarditis and pericarditis are rare.
+* Postural orthostatic tachycardia syndrome
+* Chronic fatigue syndrome
+
+Once the acute symptoms of an initial infection disappear, they often do not return. But once infected, the patient carries the virus for the rest of his or her life. The virus typically lives dormantly in B lymphocytes. Independent infections of mononucleosis may be contracted multiple times, regardless of whether the patient is already carrying the virus dormantly. Periodically, the virus can reactivate, during which time the patient is again infectious, but usually without any symptoms of illness. Usually, a patient has few, if any, further symptoms or problems from the latent B lymphocyte infection. However, in susceptible hosts under the appropriate environmental stressors, the virus can reactivate and cause vague physical symptoms (or may be subclinical), and during this phase the virus can spread to others. 
+
+==History==
+
+Surprisingly perhaps, the characteristic symptomatology of infectious mononucleosis does not appear to have been reported until the late nineteenth century. In 1885, the renowned Russian pediatrician Nil Filatov reported an infectious process he called "idiopathic denitis" exhibiting symptoms that correspond to infectious mononucleosis, and in 1889 a German balneologist and pediatrician, Emil Pfeiffer, independently reported similar cases (some of lesser severity) that tended to cluster in families, for which he coined the term Drüsenfieber ("glandular fever"). Н. Филатов: Лекции об острых инфекционных болезнях у детей Filatov: Lektsii ob ostrikh infeksionnîkh boleznyakh u dietei. 2 volumes. Moscow, A. Lang, 1887. E. Pfeiffer: Drüsenfieber. Jahrbuch für Kinderheilkunde und physische Erziehung, Wien, 1889, 29: 257–264. The term "infectious mononucleosis" was coined in 1920 by Thomas Peck Sprunt and Frank Alexander Evans in a classic clinical description of the disease published in the Bulletin of the Johns Hopkins Hospital, entitled "Mononuclear leukocytosis in reaction to acute infection (infectious mononucleosis)". Sprunt TPV, Evans FA. Mononuclear leukocytosis in reaction to acute infection (infectious mononucleosis). Bulletin of the Johns Hopkins Hospital. Baltimore, 1920;31:410-417. 
+
+The Epstein–Barr virus was first identified in Burkitt's lymphoma cells by Michael Anthony Epstein and Yvonne Barr at the University of Bristol in 1964. The link with infectious mononucleosis was uncovered in 1967 by Werner and Gertrude Henle at the Children's Hospital of Philadelphia, after a laboratory technician handling the virus contracted the disease: comparison of serum samples collected from the technician before and after the onset revealed development of antibodies to the virus. 
+
+==References==
+
+==External links==
+
+*
+
+

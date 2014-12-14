@@ -1,0 +1,63 @@
+[[Tabula rasa]]
+
+Roman tabula or wax tablet with stylus
+Tabula rasa, means "blank slate" in Latin and originates from the Roman tabula or wax tablet used for notes, which was blanked by heating the wax and then smoothing it, to give a tabula rasa.. This equates to the English term, "blank slate" (or more literally, "scraped tablet") that refers to writing on a slate sheet in chalk. Both may be refreshed repeatedly, by melting of the wax or by erasing the chalk.
+
+The term also is used as the name of an epistemological theory that individuals are born without built-in mental content and that all of their knowledge comes from experience and perception. Generally, proponents of the tabula rasa thesis favour the "nurture" side of the nature versus nurture debate, when it comes to aspects of one's personality, social and emotional behaviour, and intelligence.
+
+==History==
+In Western philosophy, traces of the concept that became called tabula rasa appear as early as the writings of Aristotle. Aristotle writes of the unscribed tablet in what is probably the first textbook of psychology in the Western canon, his treatise "Περί Ψυχῆς" (De Anima or On the Soul, Book III, chapter 4). Regardless of some arguments by the Stoics and Peripatetics, however, the notion of the mind as a blank slate went largely unnoticed for more than 1,000 years.
+
+In the eleventh century, the theory of tabula rasa was developed more clearly by the Persian philosopher Ibn Sina (known as "Avicenna" in the Western world). He argued that the "...human intellect at birth resembled a tabula rasa, a pure potentiality that is actualized through education and comes to know," and that knowledge is attained through "...empirical familiarity with objects in this world from which one abstracts universal concepts," which develops through a "...syllogistic method of reasoning; observations lead to prepositional statements, which when compounded lead to further abstract concepts." He further argued that the intellect itself "...possesses levels of development from the material intellect (al-‘aql al-hayulani), that potentiality can acquire knowledge to the active intellect (al-‘aql al-fa‘il), the state of the human intellect at conjunction with the perfect source of knowledge." Sajjad H. Rizvi (2006), Avicenna/Ibn Sina (CA. 980–1037), Internet Encyclopedia of Philosophy 
+
+In the twelfth century, the Andalusian-Islamic philosopher and novelist, Ibn Tufail, known as "Abubacer" or "Ebn Tophail" in the West, demonstrated the theory of tabula rasa as a thought experiment through his Arabic philosophical novel, Hayy ibn Yaqzan, in which he depicted the development of the mind of a feral child "from a tabula rasa to that of an adult, in complete isolation from society" on a desert island, through experience alone. The Latin translation of his philosophical novel, entitled Philosophus Autodidactus, published by Edward Pococke the Younger in 1671, had an influence on John Locke's formulation of tabula rasa in An Essay Concerning Human Understanding. G. A. Russell (1994), The Impact of the Philosophus autodidactus: Pocockes, John Locke and the Society of Friends, in: G. A. Russell (ed.), The 'Arabick' Interest of the Natural Philosophers in Seventeenth-Century England, pp. 224–262, Brill Publishers, ISBN 90-04-09459-8. 
+
+Female Figure (Sibyl with Tabula Rasa) by Diego Velázquez, c 1648
+In the thirteenth century, St. Thomas Aquinas brought the Aristotelian and Avicennian notions to the forefront of Christian thought. These notions sharply contrasted with the previously held Platonic notions of the human mind as an entity that preexisted somewhere in the heavens, before being sent down to join a body here on Earth (see Plato's Phaedo and Apology, as well as others). St. Bonaventure (also thirteenth century) was one of the fiercest intellectual opponents of Aquinas, offering some of the strongest arguments toward the Platonic idea of the mind.
+
+The writings of Avicenna, Ibn Tufail, and Aquinas on the tabula rasa theory stood unprogressed and untested for several centuries. In fact, the modern idea of the theory is attributed mostly to John Locke's expression of the idea in An Essay Concerning Human Understanding written in the seventeenth century. In Locke's philosophy, tabula rasa was the theory that at birth the (human) mind is a "blank slate" without rules for processing data, and that data is added and rules for processing are formed solely by one's sensory experiences. The notion is central to Lockean empiricism. As understood by Locke, tabula rasa meant that the mind of the individual was born blank, and it also emphasized the freedom of individuals to author their own soul. Individuals are free to define the content of their character—but basic identity as a member of the human species cannot be altered. This presumption of a free, self-authored mind combined with an immutable human nature leads to the Lockean doctrine of "natural" rights. Locke's idea of tabula rasa is frequently compared with Thomas Hobbes's viewpoint of human nature, in which humans are endowed with inherent mental content—particularly with selfishness.
+
+Tabula rasa also features in Sigmund Freud's psychoanalysis. Freud depicted personality traits as being formed by family dynamics (see Oedipus complex, etc.). Freud's theories imply that humans lack free will, but also that genetic influences on human personality are minimal. In Freudian psychoanalysis, one is largely determined by one's upbringing. 
+
+The eighteenth-century philosopher Jean-Jacques Rousseau used tabula rasa to support his argument that warfare is an advent of society and agriculture, rather than something that occurs from the human state of nature. Since tabula rasa states that humans are born with a "blank-slate", Rousseau uses this to suggest that humans must learn warfare.
+
+The tabula rasa concept became popular in social sciences during the twentieth century. Early ideas of eugenics posited that human intelligence correlated strongly with social class, but these ideas were rejected, and the idea that genes (or simply "blood") determined a person's character became regarded as racist. By the 1970s, scientists such as John Money had come to see gender identity as socially constructed, rather than rooted in genetics.
+
+==Science==
+
+===Psychology and neurobiology===
+
+Psychologists and neurobiologists have shown evidence that initially, the entire cerebral cortex is programmed and organized to process sensory input, control motor actions, regulate emotion, and respond reflexively (under predetermined conditions). 
+ These programmed mechanisms in the brain subsequently act to learn and refine the ability of the organism. 
+ 
+For example, psychologist Steven Pinker showed that—in contrast to written language—the brain is "programmed" to pick up spoken language spontaneously. 
+
+There have been claims by a minority in psychology and neurobiology, however, that the brain is tabula rasa only for certain behaviours. For instance, with respect to one's ability to acquire both general and special types of knowledge or skills, Howe argued against the existence of innate talent. M. J. Howe, J. W. Davidson and J. A. Sloboda. (1998). Innate talents: reality or myth? Behav Brain Sci, 21, 399-407; discussion 407-42. There also have been neurological investigations into specific learning and memory functions, such as Karl Lashley's study on mass action and serial interaction mechanisms.
+
+Important evidence against the tabula rasa model of the mind comes from Behavioural genetics, especially twin and adoption studies. These indicate strong genetic influences on personal characteristics such as IQ, alcoholism, gender identity, and other traits. Pinker, Steven. The Blank Slate. New York: Penguin. 2002. Critically, multivariate studies show that the distinct faculties of the mind, such as memory and reason, fractionate along genetic boundaries. Cultural universals such as emotion and the relative resilience of psychological adaptation to accidental biological changes (for instance the David Reimer case of gender reassignment following an accident) also support basic biological mechanisms in the mind.
+
+===Computer science===
+In computer science, tabula rasa refers to the development of autonomous agents with a mechanism to reason and plan toward their goal, but no "built-in" knowledge-base of their environment. Thus they truly are a blank slate.
+
+In reality autonomous agents possess an initial data-set or knowledge-base, but this cannot be immutable or it would hamper autonomy and heuristic ability. Even if the data-set is empty, it usually may be argued that there is a built-in bias in the reasoning and planning mechanisms. Either intentionally or unintentionally placed there by the human designer, it thus negates the true spirit of tabula rasa. The Jargon Files: "Sussman attains enlightenment", also see the article section koan#Uncarved block|Hacker koan: Uncarved block] 
+
+A synthetic (programming) language parser (LR(1), LALR(1) or SLR(1), for example) could be considered a special case of a tabula rasa, as it is designed to accept any of a possibly infinite set of source language programs, within a single programming language, and to output either a good parse of the program, or a good machine language translation of the program, either of which represents a success, or, alternately, a failure, and nothing else. The "initial data-set" is a set of tables which are generally produced mechanically by a parser table generator, usually from a BNF representation of the source language, and represents a "table representation" of that single programming language.
+
+==See also==
+
+* Veil of ignorance
+
+==Notes==
+
+==References==
+* Aristotle, On the Soul (De Anima), W. S. Hett (trans.), pp. 1–203 in Aristotle, Volume 8, Loeb Classical Library, William Heinemann, London, UK, 1936.
+* Avicenna, De Anima (Fi’l-Nafs), F. Rahman (trans.), London, UK, 1954.
+* Tufail, Ibn, ibn Yaqdhan|The Improvement of Human Reason: Exhibited in the Life of Hai Ebn Yokdhan] (Hayy ibn Yaqzan), Simon Ockley (trans.), pp. 1–195, Edm. Powell, London, UK, 1708.
+* Aquinas, Thomas, Summa Theologica, Fathers of the English Dominican Province (trans.), Daniel J. Sullivan (ed.), vols. 19–20 in Robert Maynard Hutchins (ed.), Great Books of the Western World, Encyclopædia Britannica, Inc., Chicago, IL, 1952.
+* Locke, John, An Essay Concerning Human Understanding, Kenneth P. Winkler (ed.), pp. 33–36, Hackett Publishing Company, Indianapolis, IN, 1996.
+*
+
+==External links==
+*
+
+

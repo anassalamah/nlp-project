@@ -1,0 +1,79 @@
+[[Maunder Minimum]]
+
+The Maunder minimum in a 400 year history of sunspot numbers
+
+The Maunder Minimum, also known as the "prolonged sunspot minimum," is the name used for the period starting in about 1645 and continuing to about 1715 when sunspots became exceedingly rare, as noted by solar observers of the time.
+
+The term was introduced after John A. Eddy published a landmark 1976 paper in Science. PDF Copy Astronomers before Eddy had also named the period after the solar astronomers Annie and E. Walter Maunder (1851–1928) who studied how sunspot latitudes changed with time. Who named the Maunder Minimum? The period the husband and wife team examined included the second half of the 17th century. Two papers were published in Edward Maunder's name in 1890 and 1894, and he cited earlier papers written by Gustav Spörer. Due to the social climate of the time, Annie's contribution was not publicly recognized. http://www.underthemicroscope.com/notable-irish-scientist-annie-maunder-the-lady-computer/ 
+
+During one 30-year period within the Maunder Minimum, Spörer observed fewer than 50 sunspots, as opposed to a more typical 40,000–50,000 spots in modern times. 
+
+Like the Dalton Minimum and Spörer Minimum, the Maunder Minimum coincided with a period of lower-than-average European temperatures. 
+
+==Sunspot observations==
+The Maunder Minimum occurred between 1645 and 1715 when very few sunspots were observed. This was not due to a lack of observations; during the 17th century, Giovanni Domenico Cassini carried out a systematic program of solar observations at the Observatoire de Paris, thanks to the astronomers Jean Picard and Philippe de La Hire. Johannes Hevelius also performed observations on his own. The total numbers of sunspots (but not Wolf numbers) in different years were as follows:
+
+ Year Sunspots 
+ 1610 9 
+ 1620 6 
+ 1630 9 
+ 1640 0 
+ 1650 3 
+ 1660 Some sunspots reported by Jan Heweliusz in Machina Coelestis 
+ 1670 0 
+ 1680 1 huge sunspot observed by Giovanni Domenico Cassini 
+
+During the Maunder Minimum enough sunspots were sighted so that 11-year cycles could be extrapolated from the count. The maxima occurred in 1676, 1684, 1695, 1705 and 1716.
+
+The sunspot activity was then concentrated in the southern hemisphere of the Sun, except for the last cycle when the sunspots appeared in the northern hemisphere, too. 
+
+According to Spörer's law, at the start of a cycle, spots appear at ever lower latitudes until they average at about lat. 15° at solar maximum. The average then continues to drift lower to about 7° and after that, while spots of the old cycle fade, new cycle spots start appearing again at high latitudes.
+
+The visibility of these spots is also affected by the velocity of the sun's surface rotation at various latitudes:
+
+ Solar latitude Rotation period (days) 
+ 0° 24.7 
+ 35° 26.7 
+ 40° 28.0 
+ 75° 33.0 
+
+Visibility is somewhat affected by observations being done from the ecliptic. The ecliptic is inclined 7° from the plane of the Sun's equator (latitude 0°).
+
+==Little Ice Age==
+
+The Maunder Minimum coincided with the middle part of the Little Ice Age, during which Europe and North America were subjected to very cold winters. A causal connection between low sunspot activity and cold winters has recently been made using data from the NASA's Solar Radiation and Climate Experiment which shows that solar UV output is more variable over the course of the solar cycle than scientists had previously thought. In 2011 an article was published in the Nature Geoscience journal that could tie low solar activity to mild winters in some places (southern Europe and Canada) and colder winters in others (northern Europe and the United States). In Europe, the winter of 1708–9 was extremely cold. Niles' Weekly Register, Volume 15, Supplement, History of the Weather 
+
+==Other observations==
+Solar activity events recorded in radiocarbon.
+Graph showing proxies of solar activity, including changes in sunspot number and cosmogenic isotope production.
+
+Some scientists hypothesize that the dense wood used in Stradivarius instruments was caused by slow tree growth during the cooler period. Instrument maker Antonio Stradivari was born a year before the start of the Maunder Minimum. 
+
+Past solar activity may be recorded by various proxies including carbon-14 and beryllium-10. These indicate lower solar activity during the Maunder Minimum. The scale of changes resulting in the production of carbon-14 in one cycle is small (about one percent of medium abundance) and can be taken into account when radiocarbon dating is used to determine the age of archaeological artifacts.
+
+Other historical sunspot minima have been detected either directly or by the analysis of carbon-14 in tree rings; these include the Spörer Minimum (1450–1540), and less markedly the Dalton Minimum (1790–1820). In a 2012 study, sunspot minima have been detected by analysis of carbon-14 in lake sediments. In total there seem to have been 18 periods of sunspot minima in the last 8,000 years, and studies indicate that the sun currently spends up to a quarter of its time in these minima.
+
+One recently published paper, based on an analysis of a Flamsteed drawing, suggests that the Sun's surface rotation slowed in the deep Maunder minimum (1684). 
+
+During the Maunder Minimum auroras had been observed normally. Detailed analysis has been published by Wilfried Schröder and J. P. Legrand et al. 
+
+The fundamental papers on the Maunder minimum (Eddy, Legrand, Gleissberg, Schröder, Landsberg et al.) have been published in Case studies on the Spörer, Maunder and Dalton Minima. 
+
+==See also==
+*Global warming
+*Solar minimum
+
+==References==
+
+==Further reading==
+*
+*
+* What's wrong with the sun? (Nothing)
+* Solar poles to become quadrupolar in May 2012 (Hinode)
+
+==External links==
+
+* HistoricalClimatology.com, further links and resources, updated 2014
+* Climate History Network, network of historical climatologists, updated 2014
+
+

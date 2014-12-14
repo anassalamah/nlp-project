@@ -1,0 +1,103 @@
+[[Organometallic chemistry]]
+
+n-Butyllithium, an organometallic compound. Four lithium atoms (in purple) form a tetrahedron, with four butyl groups attached to the faces (carbon is black, hydrogen is white).
+
+Organometallic chemistry is the study of chemical compounds containing bonds between carbon and a metal. Since many compounds without such bonds are chemically similar, an alternative may be compounds containing metal-element bonds of a largely covalent character. Organometallic chemistry combines aspects of inorganic chemistry and organic chemistry. Organometallic compounds are widely used in homogeneous catalysis. Basic Organometallic Chemistry: Concepts, Syntheses and Applications|Authors B. D. Gupta, Anil J. Elias| year 2013| Publisher Universities Press, CRC Press| ISBN=978-81-7371-8748. 
+
+== Organometallic compounds ==
+Organometallic compounds are distinguished by the prefix "organo-" e.g. organopalladium compounds. Examples of such organometallic compounds include all Gilman reagents, which contain lithium and copper. Tetracarbonyl nickel, and ferrocene are examples of organometallic compounds containing transition metals. Other examples include organomagnesium compounds like iodo(methyl)magnesium MeMgI, diethylmagnesium (Et2Mg), and all Grignard reagents; organolithium compounds such as n-butyllithium (n-BuLi), organozinc compounds such as diethylzinc (Et2Zn) and chloro(ethoxycarbonylmethyl)zinc (ClZnCH2C(=O)OEt); and organocopper compounds such as lithium dimethylcuprate (Li+–).
+
+The term "metalorganics" usually refers to metal-containing compounds lacking direct metal-carbon bonds but which contain organic ligands. Metal beta-diketonates, alkoxides, and dialkylamides are representative members of this class.
+
+In addition to the traditional metals, lanthanides, actinides, and semimetals, elements such as boron, silicon, arsenic, and selenium are considered to form organometallic compounds, e.g. organoborane compounds such as triethylborane (Et3B).
+
+===Coordination compounds with organic ligands===
+Many complexes feature coordination bonds between a metal and organic ligands. The organic ligands often bind the metal through a heteroatom such as oxygen or nitrogen, in which case such compounds are considered coordination compounds. However, if any of the ligands form a direct M-C bond, then complex is usually considered to be organometallic, e.g., 2+. Furthermore, many lipophilic compounds such as metal acetylacetonates and metal alkoxides are called "metalorganics."
+
+Many organic coordination compounds occur naturally. For example, hemoglobin and myoglobin contain an iron center coordinated to the nitrogen atoms of a porphyrin ring; magnesium is the center of a chlorin ring in chlorophyll. The field of such inorganic compounds is known as bioinorganic chemistry. In contrast to these coordination compounds, methylcobalamin (a form of Vitamin B12), with a cobalt-methyl bond, is a true organometallic complex, one of the few known in biology. This subset of complexes are often discussed within the subfield of bioorganometallic chemistry. Basic Organometallic Chemistry: Concepts, Syntheses and Applications|Authors B. D. Gupta, Anil J. Elias| year 2013| Publisher Universities Press, CRC Press| ISBN=978-81-7371-8748. Illustrative of the many functions of the B12-dependent enzymes, the MTR enzyme catalyzes the transfer of a methyl group from a nitrogen on N5-methyl-tetrahydrofolate to the sulfur of homocysteine to produce methionine.
+
+The status of compounds in which the canonical anion has a delocalized structure in which the negative charge is shared with an atom more electronegative than carbon, as in enolates, may vary with the nature of the anionic moiety, the metal ion, and possibly the medium; in the absence of direct structural evidence for a carbon–metal bond, such compounds are not considered to be organometallic.
+
+===Structure and properties===
+
+The metal-carbon bond in organometallic compounds is generally of character intermediate between ionic and covalent. Primarily ionic metal-carbon bonds are encountered either when the metal is very electropositive (as in the case of Group 1 or Group 2 metals) or when the carbon-containing ligand exists as a stable carbanion. Carbanions can be stabilized by resonance (as in the case of the aromatic cyclopentadienyl anion) or by the presence of electron-withdrawing substituents (as in the case of the triphenylmethyl anion). Hence, the bonding in compounds like sodium acetylide and triphenylmethylpotassium is primarily ionic. On the other hand, the ionic character of metal-carbon bonds in the organometallic compounds of transition metals, other metals, and metalloids tends to be intermediate, owing to the middle-of-the-road electronegativity of such metals.
+
+Organometallic compounds with bonds that have characters in between ionic and covalent are very important in industry, as they are both relatively stable in solutions and relatively ionic to undergo reactions. Two important classes are organolithium and Grignard reagents. In certain organometallic compounds such as ferrocene or dibenzenechromium, the pi orbitals of the organic moiety ligate the metal. In metal carbonyl and metal alkenes, back bonding(pi bonding) of electron density from metal to ligand antibonding orbitals makes stronger synergestic bonds. Basic Organometallic Chemistry: Concepts, Syntheses and Applications|Authors B. D. Gupta, Anil J. Elias| year 2013| Publisher Universities Press, CRC Press| ISBN=978-81-7371-8748. 
+
+==Applications==
+Organometallics find practical uses in stoichiometric and catalytic processes, especially processes involving carbon monoxide and alkene-derived polymers. All the world's polyethylene and polypropylene are produced via organometallic catalysts, usually heterogeneously via Ziegler-Natta catalysis. Acetic acid is produced via metal carbonyl catalysts in the Monsanto process and Cativa process. Most synthetic aldehydes are produced via hydroformylation. The bulk of the synthetic alcohols, at least those larger than ethanol, are produced by hydrogenation of hydroformylation derived aldehydes. Similarly, the Wacker process is used in the oxidation of ethylene to acetaldehyde.
+
+Organolithium, organomagnesium, and organoaluminium compounds are highly basic and highly reducing. They catalyze many polymerization reactions, but are also useful stoichiometrically.
+
+III-V semiconductors are produced from trimethylgallium, trimethylindium, trimethylaluminium and related nitrogen / phosphorus / arsenic / antimony compounds. These volatile compounds are decomposed along with ammonia, arsine, phosphine and related hydrides on a heated substrate via metalorganic vapor phase epitaxy (MOVPE) process for applications such as light emitting diodes (LEDs) fabrication.
+
+Organometallic compounds may be found in the environment and some, such as organolead and organomercury compounds are a toxic hazard. 
+
+==Concepts and techniques==
+As in other areas of chemistry, electron counting is useful for organizing organometallic chemistry. The 18-electron rule is helpful in predicting the stabilities of metal carbonyls and related compounds. Basic Organometallic Chemistry: Concepts, Syntheses and Applications|Authors B. D. Gupta, Anil J. Elias| year 2013| Publisher Universities Press, CRC Press| ISBN=978-81-7371-8748. Chemical bonding and reactivity in organometallic compounds is often discussed from the perspective of the isolobal principle. 
+
+NMR and infrared spectroscopy are common techniques used to determine structure. The dynamic properties of organometallic compounds is often probed with variable-temperature NMR and chemical kinetics.
+
+Organometallic compounds undergo several important reactions:
+* oxidative addition and reductive elimination
+* transmetalation
+* carbometalation
+* Hydrometalation
+* electron transfer
+* beta-hydride elimination
+* organometallic substitution reaction
+* carbon-hydrogen bond activation
+* cyclometalation
+* Migratory insertion
+* Nucleophilic abstraction
+
+== History ==
+Early developments in organometallic chemistry include Louis Claude Cadet’s synthesis of methyl arsenic compounds related to cacodyl, William Christopher Zeise's platinum-ethylene complex, Edward Frankland’s discovery of dimethyl zinc, Ludwig Mond’s discovery of Ni(CO)4, and Victor Grignard’s organomagnesium compounds. The abundant and diverse products from coal and petroleum led to Ziegler-Natta, Fischer-Tropsch, hydroformylation catalysis which employ CO, H2, and alkenes as feedstocks and ligands.
+
+Tetraethyllead previously was combined with gasoline as an antiknock agent. Due to lead's toxicity it is no longer used, its replacements being other organometallic compounds such as ferrocene and methylcyclopentadienyl manganese tricarbonyl (MMT).
+
+Recognition of organometallic chemistry as a distinct subfield culminated in the Nobel Prizes to Ernst Fischer and Geoffrey Wilkinson for work on metallocenes. In 2005, Yves Chauvin, Robert H. Grubbs and Richard R. Schrock shared the Nobel Prize for metal-catalyzed olefin metathesis.
+
+=== Organometallic chemistry timeline ===
+* 1760 Louis Claude Cadet de Gassicourt investigates inks based on Cobalt salts and isolates Cacodyl from cobalt mineral containing arsenic
+* 1827 Zeise's salt is the first platinum / olefin complex
+* 1848 Edward Frankland discovers diethylzinc
+* 1863 Charles Friedel and James Crafts prepare organochlorosilanes
+* 1890 Ludwig Mond discovers Nickel carbonyl
+* 1899 Introduction of Grignard reaction
+* 1900 Paul Sabatier works on hydrogenation organic compounds with metal catalysts. Hydrogenation of fats kicks off advances in food industry, see margarine
+* 1909 Paul Ehrlich introduces Salvarsan for the treatment of syphilis, an early arsenic based organometallic compound
+* 1912 Nobel Prize Victor Grignard and Paul Sabatier
+* 1930 Henry Gilman works on lithium cuprates, see Gilman reagent
+* 1951 Walter Hieber was awarded the Alfred Stock prize for his work with metal carbonyl chemistry. 
+* 1951 Ferrocene is discovered
+* 1963 Nobel prize for Karl Ziegler and Giulio Natta on Ziegler-Natta catalyst
+* 1965 Discovery of cyclobutadieneiron tricarbonyl
+* 1968 Heck reaction
+* 1973 Nobel prize Geoffrey Wilkinson and Ernst Otto Fischer on sandwich compounds
+* 1981 Nobel prize Roald Hoffman and Kenichi Fukui for creation of the Woodward-Hoffman Rules
+* 2001 Nobel prize W. S. Knowles, R. Noyori and Karl Barry Sharpless for asymmetric hydrogenation
+* 2005 Nobel prize Yves Chauvin, Robert Grubbs, and Richard Schrock on metal-catalyzed alkene metathesis
+* 2010 Nobel prize Richard F. Heck, Ei-ichi Negishi, Akira Suzuki for palladium catalyzed cross coupling reactions
+
+== Organometallics ==
+* Period 2 elements: organolithium chemistry, organoberyllium chemistry, organoborane chemistry,
+* Period 3 elements: organomagnesium chemistry, organoaluminum chemistry, organosilicon chemistry
+* Period 4 elements: organotitanium chemistry, organochromium chemistry, organomanganese chemistry organoiron chemistry, organocobalt chemistry organonickel chemistry, organocopper chemistry, organozinc chemistry, organogallium chemistry, organogermanium chemistry
+* Period 5 elements: organoruthenium chemistry. organopalladium chemistry, organosilver chemistry, organocadmium chemistry, organoindium chemistry, organotin chemistry
+* Period 6 elements: organolanthanide chemistry, organoosmium chemistry, organoiridium chemistry, organoplatinum chemistry, organogold chemistry, organomercury chemistry, organothallium chemistry, organolead chemistry
+* Period 7 elements: organouranium chemistry
+
+== See also ==
+*Bioorganometallic chemistry
+
+* Compounds of carbon with other elements in the periodic table:
+
+== References ==
+
+== External links ==
+* MIT OpenCourseWare: Organometallic Chemistry
+* Rob Toreki's Organometallic HyperTextbook
+* web listing of US chemists who specialize in organometallic chemistry
+
+*

@@ -1,0 +1,41 @@
+[[Binary pulsar]]
+
+Artist's impression of a binary pulsar
+A binary pulsar is a pulsar with a binary companion, often a white dwarf or neutron star. (In at least one case, the double pulsar PSR J0737-3039, the companion neutron star is another pulsar as well.) Binary pulsars are one of the few objects which allow physicists to test general relativity because of the strong gravitational fields in their vicinities. Although the binary companion to the pulsar is usually difficult or impossible to observe, the timing of the pulses from the pulsar itself can be measured with extraordinary accuracy by radio telescopes.
+
+The first binary pulsar, PSR B1913+16 or the "Hulse-Taylor binary pulsar" was discovered in 1974 at Arecibo by Joseph Hooton Taylor, Jr. and Russell Hulse, for which they won the 1993 Nobel Prize in Physics. While Hulse was observing the newly discovered pulsar PSR B1913+16, he noticed that the rate at which it pulsed varied regularly. It was concluded that the pulsar was orbiting another star very closely at a high velocity, and that the pulse period was varying due to the Doppler effect: As the pulsar was moving towards us, the pulses would be more frequent; and conversely, as it moved away from us fewer would be detected in a given time period. One can think of the pulses like the ticks of a clock; changes in the ticking are indications of changes in the pulsars speed toward and away from us. Hulse and Taylor also determined that the stars were approximately equally massive by observing these pulse fluctuations, which led them to believe the other object was also a neutron star. Pulses from this system are now tracked to within 15 μs. 
+
+The study of the PSR B1913+16 binary pulsar also led to the first accurate determination of neutron star masses, using relativistic timing effects. When the two bodies are in close proximity, the gravitational field is stronger, the passage of time is slowed – and the time between pulses (or ticks) is lengthened. Then as the pulsar clock travels more slowly through the weakest part of the field it regains time. A special relativistic effect, time dilation, acts around the orbit in a similar fashion. This relativistic time delay is the difference between what one would expect to see if the pulsar were moving at a constant distance and speed around its companion in a circular orbit, and what is actually observed.
+
+Binary pulsars are currently the only tools scientists have to detect evidence of gravitational waves; Einstein’s theory of general relativity predicts that two neutron stars would emit gravitational waves as they orbit a common center of mass, which would carry away orbital energy and cause the two stars to draw closer together and shorten their orbital period. A 10-parameter model incorporating information about the pulsar timing, the Keplerian orbits and three post-Keplerian corrections (the rate of periastron advance, a factor for gravitational redshift and time dilation, and a rate of change of the orbital period from gravitational radiation emission) is sufficient to completely model the binary pulsar timing. 
+
+The measurements made of the orbital decay of the PSR B1913+16 system were a near perfect match to Einstein’s equations. Relativity predicts that over time a binary system’s orbital energy will be converted to gravitational radiation. Data collected by Taylor and Joel M. Weisberg and their colleagues of the orbital period of PSR B1913+16 supported this relativistic prediction; they reported in 1982 and subsequently that there was a difference in the observed minimum separation of the two pulsars compared to that expected if the orbital separation had remained constant. In the decade following its discovery the system’s orbital period had decreased by about 76 millionths of a second per year - this means that the pulsar was approaching its maximum separation more than a second earlier than it would have if the orbit had remained the same. Subsequent observations continue to show this decrease.
+
+Sometimes the relatively normal companion star of a binary pulsar will swell up to the point that it dumps its outer layers onto the pulsar. This interaction can heat the gas being exchanged between the bodies and produce X-ray light which can appear to pulsate, in a process called the X-ray binary stage. The flow of matter from one stellar body to another often leads to the creation of an accretion disk about the recipient star.
+
+Pulsars also create a "wind" of relativistically outflowing particles, which in the case of binary pulsars can blow away the magnetosphere of their companions and have a dramatic effect on the pulse emission.
+
+==See also==
+
+*Astronomy
+*PSR B1913+16
+*PSR J0737-3039
+*Square Kilometre Array
+
+==References==
+
+==External links==
+*Prof. Martha Haynes Astro 201 Binary Pulsar PSR 1913+16 Website
+*Nobel Prize for the binary pulsar discovery
+*Neutron Star Masses
+
+* 
+* 
+* 
+
+ 
+
+*pulsar
+*binary pulsar
+
+

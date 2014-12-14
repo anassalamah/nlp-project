@@ -1,0 +1,151 @@
+[[The Theory of Communicative Action]]
+
+The Theory of Communicative Action () is Jürgen Habermas magnum opus that continues his project set out in On the Logic of the Social Sciences of finding a way to ground "the social sciences in a theory of language."
+
+This project is carried out over two volumes, the two volumes are Reason and the Rationalization of Society, (Handlungsrationalität und gesellschaftliche Rationalisierung) which establishes a concept of communicative rationality, and Lifeworld and System: A Critique of Functionalist Reason, (Zur Kritik der funktionalistischen Vernunft), which creates the two level concept of society and lays out the critical theory for modernity. After these books, Habermas expanded upon the theory of communicative action by using it as the basis of his theory of morality, democracy, and law.
+
+The Theory of Communicative Action was the subject of a collection of critical essays published in 1986, has inspired many responses by social theorists and philosophers, and in 1998 the International Sociological Association listed this work as the eighth most important sociological book of the 20th century. 
+
+==Theory==
+
+The theory of communicative action is a critical project which reconstructs a concept of reason which is not grounded in instrumental or objectivistic terms, but rather in an emancipatory communicative act. This reconstruction proposes "human action and understanding can be fruitfully analysed as having a linguistic structure", and each utterance relies upon the anticipation of freedom from unnecessary domination. These linguistic structures of communication can be used to establish a normative understanding of society. This conception of society is used "to make possible a conceptualization of the social-life context that is tailored to the paradoxes of modernity."
+
+This project started after the critical reception of Habermas's book Knowledge and Human Interests after which Habermas chose to move away from contextual and historical analysis of social knowledge toward what would become the theory of communicative action. The theory of communicative action understands language as the foundational component of society and is an attempt to update Marxism by "drawing on Systems theory (Luhmann), developmental psychology (Piaget, Kohlberg), and social theory (Weber, Durkheim, Parsons, Mead, etc.)" 
+
+Based on lectures initially developed in On the Pragmatics of Social Interaction Habermas was able to expand his theory to a large understanding of society. 
+Thomas A. McCarthy states that The Theory of Communicative Action has three interrelated concerns: (1) to develop a concept of rationality that is no longer tied to, and limited by, the subjectivistic and individualistic premises of modern philosophy and social theory; (2) to construct a two-level concept of society that integrates the lifeworld and systems paradigms; and, finally, (3) to sketch out, against this background, a critical theory of modernity which analyzes and accounts for its pathologies in a way that suggests a redirection rather than an abandonment of the project of enlightenment.
+
+==Theory of Communicative Action Vol. 1==
+
+The Theory of Communicative Action Volume 1 sets to "to develop a concept of rationality that is no longer tied to, and limited by, the subjectivistic and individualistic premises of modern philosophy and social theory."
+With this failure of the search for ultimate foundations by "first philosophy" or "the philosophy of consciousness", an empirically tested theory of rationality must be a pragmatic theory based on science and social science. This implies that any universalist claims can only be validated by testing against counterexamples in historical (and geographical) contexts – not by using transcendental ontological assumptions. This leads him to look for the basis of a new theory of communicative action in the tradition of sociology. He starts by rereading Max Weber's description of rationality and arguing it has a limited view of human action. Habermas argues that Weber's basic theoretical assumptions with regard to social action prejudiced his analysis in the direction of purposive rationality, which purportedly arises from the conditions of commodity production. Taking the definition of action as human behaviour with intention, or with subjective meaning attached, then Weber's theory of action is based on a solitary acting subject and does not encompass the coordinating actions that are inherent to a social body.
+
+According to Weber, rationalisation (to use this word in the sense it has in sociological theory) creates three spheres of value: the differentiated zones of science, art and law. For him, this fundamental disunity of reason constitutes the danger of modernity. This danger arises not simply from the creation of separate institutional entities but through the specialisation of cognitive, normative, and aesthetic knowledge that in turn permeates and fragments everyday consciousness. This disunity of reason implies that culture moves from a traditional base in a consensual collective endeavour to forms which are rationalised by commodification and led by individuals with interests which are separated from the purposes of the population as a whole.
+
+This 'purposive rational action' is steered by the "media" of the state, which substitute for oral language as the medium of the coordination of social action. An antagonism arises between these two principles of societal integration—language, which is oriented to understanding and collective well being, and "media", which are systems of success-oriented action.
+
+Following Weber, Habermas sees specialisation as the key historical development, which leads to the alienating effects of modernity, which 'permeate and fragment everyday consciousness'.
+
+Habermas points out that the "sociopsychological costs" of this limited version of rationality are ultimately borne by individuals, which is what György Lukács had in mind when he developed Marx's concept, reification, in his History and Class Consciousness. They surface as widespread neurotic illnesses, addictions, psychosomatic disorders, and behavioural and emotional difficulties; or they find more conscious expression in criminal actions, protest groups and religious cults. Lukács thought that reification, although it runs deep, is constrained by the potential of rational argument to be self-reflexive and transcend its occupational use by oppressive agencies. Habermas agrees with this optimistic analysis, in contrast to Adorno and Horkheimer, and thinks that freedom and ideals of reconciliation are ingrained in the mechanisms of the linguistically mediated sociation of humanity.
+
+==Theory of Communicative Action Vol. 2==
+Habermas finds in the work of George Herbert Mead (1863–1931) and Émile Durkheim (1858–1917) concepts which can be used to free Weber's theory of rationalisation from the aporias of the philosophy of consciousness. Mead's most productive concept is his theoretical base of communication and Durkheim's is his idea of social integration. Mead also stressed the social character of perception: our first encounters are social.
+
+From these bases, Habermas develops his concept of communicative action: communicative action serves to transmit and renew cultural knowledge, in a process of achieving mutual understandings. It then coordinates action towards social integration and solidarity. Finally, communicative action is the process through which people form their identities.
+
+Society is integrated socially both through the actions of its members and systemically by the requirements of the economic/hierarchical/oppressive system in a way that tends to interpenetrate and overwhelm autonomous action orientations. This gives rise to a dual concept of modern society; the internal subjective viewpoint of the "lifeworld" and the external viewpoint of the "system".
+
+Following Weber again, an increasing complexity arises from the structural and institutional differentiation of the lifeworld, which follows the closed logic of the systemic rationalisation of our communications. There is a transfer of action co-ordination from 'language' over to 'steering media', such as money and power, which bypass consensus-oriented communication with a 'symbolic generalisation of rewards and punishments'. After this process the lifeworld "is no longer needed for the coordination of action". This results in humans ('lifeworld actors') losing a sense of responsibility with a chain of negative social consequences. Lifeworld communications lose their purpose becoming irrelevant for the coordination of central life processes. This has the effect of ripping the heart out of social discourse, allowing complex differentiation to occur but at the cost of social pathologies. 
+
+"In the end, systemic mechanisms suppress forms of social integration even in those areas where a consensus dependent co-ordination of action cannot be replaced, that is, where the symbolic reproduction of the lifeworld is at stake. In these areas, the mediatization of the lifeworld assumes the form of colonisation".
+Habermas argues that Horkheimer and Adorno, like Weber before them, confused system rationality with action rationality. This prevented them from dissecting the effects of the intrusion of steering media into a differentiated lifeworld, and the rationalisation of action orientations that follows. They could then only identify spontaneous communicative actions within areas of apparently 'non-rational' action, art and love on the one hand or the charisma of the leader on the other, as having any value.
+
+According to Habermas, lifeworlds become colonised by steering media when four things happen:
+
+1. Traditional forms of life are dismantled.
+
+2. Social roles are sufficiently differentiated.
+
+3. There are adequate rewards of leisure and money for the alienated labour.
+
+4. Hopes and dreams become individuated by state canalization of welfare and culture.
+
+These processes are institutionalised by developing global systems of jurisprudence.
+He here indicates the limits of an entirely juridified concept of legitimation and practically calls for more anarchistic 'will formation' by autonomous networks and groups.
+
+"Counterinstitutions are intended to dedifferentiate some parts of the formally organised domains of action, remove them from the clutches of the steering media, and return these 'liberated areas' to the action co-ordinating medium of reaching understanding".
+
+Once we have extricated ourselves from Weber's overly negative use of rationalisation, it is possible to look at the Enlightenment ideal of reason in a fresh light.
+Rationality is redefined as thinking that is ready to submit to criticism and systematic examination as an ongoing process. A broader definition is that rationality is a disposition expressed in behaviour for which good reasons can be given.
+
+Habermas is now ready to make a preliminary definition of the process of communicative rationality: this is communication that is "oriented to achieving, sustaining and reviewing consensus – and indeed a consensus that rests on the intersubjective recognition of criticisable validity claims". With this key definition he shifts the emphasis in our concept of rationality from the individual to the social. This shift is fundamental to the Theory of Communicative Action. It is based on an assumption that language is implicitly social and inherently rational.
+
+Argument of some kind is central to the process of achieving a rational result. Contested validity claims are thematised and attempts are then made to vindicate or criticise them in a systematic and rigorous way. This may seem to favour verbal language, but allowance is also given for 'practical discourses' in which claims to normative rightness are made thematic and pragmatically tested. Non-verbal forms of cultural expression could often fall into this category.
+
+Habermas proposes three integrated conditions from which argumentative speech can produce valid results:
+
+"The structure of the ideal speech situation (which means that the discourse is) immunised against repression and inequality in a special way… The structures of a ritualised competition for the better arguments… The structures that determine the construction of individual arguments and their interrelations".
+
+If we accept such principles of rational argumentation, Communicative Rationality is:
+
+1. The processes by which different validity claims are brought to a satisfactory resolution.
+
+2. The relations to the world that people take to forward validity claims for the expressions they deem important.
+
+Habermas then discusses three further types of discourse that can be used to achieve valid results in addition to verbal argument: these are the Aesthetic, the Therapeutic and the Explicative. Because these are not followed through in the Theory of Communicative Action the impression is given that these are secondary forms of discourse.
+
+1. Aesthetic discourses work by mediators arguments bringing us to consider a work or performance which itself demonstrates a value.
+
+"A work validated through aesthetic experience can then in turn take the place of an argument and promote the acceptance of precisely those standards according to which it counts as an authentic work.
+
+Habermas considers the mediation of the critic, the curator or the promoter as essential to bring people to the revelatory aesthetic experience. This mediation is often locked into economic interests either directly or through state agency.
+
+When Habermas considers the question of context he does refer to culture.
+
+Every process of understanding takes place against the background of a culturally ingrained preunderstanding... The interpretative task consists in incorporating the others interpretation of the situation into one's own... this does not mean that interpretation must lead in every case to a stable and unambiguously differentiated assignment.
+
+Speech acts are embedded in contexts that are also changed by them. The relationship is dynamic and occurs in both directions. To see context as a fixed background or preunderstanding is to push it out of the sphere of communicative action.
+
+2. Therapeutic discourse is that which serves to clarify systematic self-deception. Such self-deceptions typically arise from developmental experiences, which have left certain rigidities of behaviour or biases of value judgement. These rigidities do not allow flexible responses to present time exigencies. Habermas sees this in terms of psychoanalysis but does not expand on this in TCA. (Habermas discusses psychoanalysis in Knowledge and Human Interests (1972))
+
+A related aspect of this discourse is the adoption of a reflective attitude, which is a basic condition of rational communication.
+
+But the claim to be free from illusions implies a dimension of self-analysis if it is to engage with change. The most intractable illusions are surely embedded within our subconscious.
+
+3. Explicative discourse focuses on the very means of reaching understanding – the means of (linguistic) expression. Rationality must include a willingness to question the grammar of any system of communication used to forward validity claims. The question of whether visual language can put forward an argument is not broached by Habermas. Although language is broadly defined as any communicative action upon which you can be reflective it is verbal discourse that is prioritised in Habermas' arguments. Verbal language certainly has the prominent place in his model of human action. Oral contexts of communication have been relatively little studied and the distinction between oral and literary forms is not made in Theory of Communicative Action.
+
+As the System colonises the lifeworld most enterprises are not driven by the motives of their members.
+The bureaucratic disempowering and desiccation of spontaneous processes of opinion and will formation expands the scope for engineering mass loyalty and makes it easier to uncouple political decision making from concrete, identity forming contexts of life.
+
+The system does this by rewarding or coercing that which legitimates it from the cultural spheres. Such conditions of public patronage invisibly negate the freedom that is supposedly available in the cultural field.
+
+==See also==
+* Argumentation Ethics
+* communicative action
+* Communicative rationality
+* Foucault–Habermas debate
+* Rationality
+* Rationality and power
+* Wilhelm von Humboldt
+
+==Notes==
+
+==References==
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+
+
+[[Wikipedia:Articles for deletion/National Police Cadet Corps/Dragon & Lion Dance Troupe]]
+
+:The following discussion is an archived debate of the proposed deletion of the article below. Please do not modify it. Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a deletion review). No further edits should be made to this page. 
+
+The result of the debate was DELETE. Mo0[Talk:Mo0|talk]] 07:48, 19 June 2006 (UTC)
+===National Police Cadet Corps/Dragon & Lion Dance Troupe===
+Two extracurricular activities at a school (apparently in Hong Kong); school clubs are nonnotable in themselves NawlinWiki 02:32, 13 June 2006 (UTC)
+*Delete I would have suggested Merge with the school entry but there doesn't seem to be one! BlueValour 02:37, 13 June 2006 (UTC)
+*Delete, not notable. --Coredesat 07:39, 13 June 2006 (UTC)
+
+* Delete nn. use of first-person plural in text ("Our skills...") suggests advertising, vanity. Tychocat 09:23, 13 June 2006 (UTC)
+*Merge to Nanyang Girls' High School. The school is actually in Singapore, and the clubs are not notable in themselves. Lots of Singapore schools have these student organisations. Kimchi.sg 10:44, 13 June 2006 (UTC)
+
+*Note: This debate has been included in the list of Singapore-related deletions. -- Kimchi.sg 10:52, 13 June 2006 (UTC)
+*Delete. Not notable. *drew 11:16, 13 June 2006 (UTC)
+*Delete, nn. --Terence Ong (talk:Terence Ong|Chat] | Contribs) 15:25, 15 June 2006 (UTC)
+*Delete Barely notable.--Auger Martel 10:46, 17 June 2006 (UTC)
+*Delete Not Notable, NPOV, being in first person, and sounds like advertising. Advanced 15:55, 17 June 2006 (UTC)
+*Delete. Advert-like page about two not-notable extra-curricular activities within a single school. (Not even worth merging with the school's page since there's nothing particularly notable about these two activities at the school.) Singopo 07:41, 18 June 2006 (UTC)
+
+:The above discussion is preserved as an archive of the debate. Please do not modify it. Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a deletion review). No further edits should be made to this page. 

@@ -1,0 +1,59 @@
+[[Saponification]]
+
+Saponification via sodium hydroxide. (Only one carbon from the glycerine spine is shown, labelled CG)
+
+The products are an alcohol and a sodium/fatty-acid salt. Repeated three times (once for each carbon of the parent triglyceride) results in glycerol and soap
+
+Saponification is a process that produces soap, usually from fats and lye. It involves a reaction between a base, usually sodium hydroxide (caustic soda), and an ester group on a compound. Triglycerides are an example, which is an ester of a fatty acid. The triglycerides are hydrolyzed to form the sodium salt of a carboxylate. In addition to soap, such traditional saponification processes produce glycerol. "Saponifiable substances" are those that can be converted into soap. K. Schumann, K. Siekmann “Soaps” in Ullmann’s Encyclopedia of Industrial Chemistry 2005, Wiley-VCH, Weinheim 
+
+== Saponification of triglyceride ==
+
+Vegetable oils and animal fats are the main materials that are saponified. These greasy materials, triesters called triglycerides, are mixtures derived from diverse fatty acids. Triglycerides can be converted to soap in either a one- or a two-step process. In the traditional one-step process, the triglyceride is treated with a strong base (e.g., lye), which accelerates cleavage of the ester bond and releases the fatty acid salt and glycerol. This process is the main industrial method for producing glycerol. If necessary, soaps may be precipitated by salting it out with saturated sodium chloride. The saponification value is the amount of base required to saponify a fat sample. For soap making, the triglycerides are highly purified, but saponification includes other base hydrolysis of unpurified triglycerides, for example, the conversion of the fat of a corpse into adipocere, often called "grave wax." This process is more common where the amount of fatty tissue is high, the agents of decomposition are absent or only minutely present.
+
+===Mechanism of base hydrolysis===
+
+The mechanism by which esters are cleaved by base involves a series of equilibria. John McMurry, Organic Chemistry (2nd Edition). The hydroxide anion adds to (or "attacks") the carbonyl group of the ester. The immediate product is called an orthoester:
+:Saponification part I
+Expulsion of the alkoxide generates a carboxylic acid:
+:Saponification part II
+The alkoxide is more basic than the conjugate base of the carboxylic acid, and hence proton transfer is rapid: 
+:saponification part III
+
+In a classic laboratory procedure, the triglyceride trimyristin is obtained by extracting it from nutmeg with diethyl ether. Organic Syntheses 1:538 Link Saponification to the sodium salt of myristic acid takes place with NaOH in water. The acid itself can be obtained by adding dilute hydrochloric acid. Organic Syntheses 1:379 Link 
+
+===Steam hydrolysis===
+Triglycerides are also saponified in a two-step process that begins with steam hydrolysis of the triglyceride. This process gives the carboxylic acid, not its salt, as well as glycerol. Subsequently, the fatty acid is neutralized with alkali to give the soap. The advantage of the two-step process is that the fatty acids can be purified, which leads to soaps of improved quality. Steam hydrolysis proceeds via a mechanism similar to the base-catalysed route, involving the attack of water (not hydroxide) at the carbonyl center. The process is slower, hence the requirement for steam.
+
+== Applications ==
+Knowledge of saponification is relevant to many technologies and many aspects of everyday life.
+
+=== Soft vs hard soap ===
+Depending on the nature of the alkali used in their production, soaps have distinct properties. Sodium hydroxide (NaOH) gives "hard soap", whereas, when potassium hydroxide (KOH) is used, a soft soap is formed.
+
+=== Lithium soaps ===
+Lithium derivatives of 12-hydroxystearate and several other carboxylic acids are important constituents of lubricating greases. In lithium-based greases, lithium carboxylates are thickeners. "Complex soaps" are also common, these being combinations of metallic soaps, such as lithium and calcium soaps. Thorsten Bartels et al. "Lubricants and Lubrication" in Ullmann's Encyclopedia of Industrial Chemistry, 2005, Weinheim. 
+
+=== Fire extinguishers ===
+Fires involving cooking fats and oils (classified as class K (US) or F (Australia/Europe/Asia)) burn hotter than flammable liquids, rendering a standard class B extinguisher ineffective. Flammable liquids have flash points under 37 degrees Celsius. Cooking oil is a combustible liquid, since it has a flash point over 37 degrees Celsius. Such fires should be extinguished with a wet chemical extinguisher. Extinguishers of this type are designed to extinguish cooking fats and oils through saponification. The extinguishing agent rapidly converts the burning substance to a non-combustible soap. This process is endothermic, meaning that it absorbs thermal energy from its surroundings, which decreases the temperature of the surroundings, further inhibiting the fire.
+
+== Saponification in art conservation ==
+Saponification can occur in oil paintings over time, causing visible damage and deformation. The ground layer or paint layers of oil paintings commonly contain heavy metals in pigments such as lead white, red lead, or zinc white. If those heavy metals react with free fatty acids in the oil medium that binds the pigments together, soaps may form in a paint layer that can then migrate upward to the painting's surface. Silvia A. Centeno and Dorothy Mahon, "The Chemistry of Aging in Oil Paintings: Metal Soaps and Visual Changes." The Metropolitan Museum of Art Bulletin’’, Summer 2009, pp. 12–19. 
+
+Saponification in oil paintings was first described in 1997. Researchers in the Netherlands discovered it while analyzing Rembrandt's The Anatomy Lesson of Dr. Nicolaes Tulp (1632). See Centeno, p. 14. It is believed to be widespread, having been observed in many works dating from the fifteenth through the twentieth centuries, works of different geographic origin, and works painted on various supports, such as canvas, paper, wood, and copper. Chemical analysis may reveal saponification occurring in a painting’s deeper layers before any signs are visible on the surface, even in paintings centuries old. Centeno, p. 16. 
+
+The saponified regions may deform the painting's surface through the formation of visible lumps or protrusions that can scatter light. These soap lumps may be prominent only on certain regions of the painting rather than throughout. In John Singer Sargent’s famous Portrait of Madame X, for example, the lumps only appear on the blackest areas, which may be because of the artist’s use of more medium in those areas to compensate for the tendency of black pigments to soak it up. Centeno, pp. 12–13, 15. The process can also form chalky white deposits on a painting’s surface, a deformation often described as "blooming" or "efflorescence," and may also contribute to the increased transparency of certain paint layers within an oil painting over time. Centeno, pp. 16, 19. 
+
+The process is still not fully understood. Saponification does not occur in all oil paintings containing the right materials. It is not yet known what triggers the process, what makes it worse, or whether it can be halted. Centeno, p. 19. At present, retouching is the only known restoration method.
+
+== See also ==
+
+* Soap
+* Unsaponifiable
+* Adipocere
+
+== References ==
+
+== External links ==
+* Animation of the mechanism of base hydrolysis
+
+

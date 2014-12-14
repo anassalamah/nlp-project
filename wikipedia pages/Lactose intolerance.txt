@@ -1,0 +1,149 @@
+[[Lactose intolerance]]
+
+Lactose intolerance, also called lactase deficiency and hypolactasia, is the inability to digest lactose, a sugar found in milk and to a lesser extent dairy products. As a genetic disorder, it prevents babies from drinking human milk.
+
+Lactose intolerant individuals have insufficient levels of lactase, an enzyme that catalyzes hydrolysis of lactose into glucose and galactose, in their digestive system. In most cases this causes symptoms which may include abdominal bloating and cramps, flatulence, diarrhea, nausea, borborygmi (rumbling stomach), or vomiting after consuming significant amounts of lactose. Some studies have produced evidence that milk consumption by lactose intolerant individuals may be a significant cause of inflammatory bowel disease. Vesa TH, Marteau P, Korpela R (2000) Lactose intolerance. J Am Coll Nutr 19:165S–175S 
+
+Most mammals normally cease to produce lactase, becoming lactose intolerant, after weaning, but some human populations have developed lactase persistence, in which lactase production continues into adulthood. It is estimated that 75% of adults worldwide show some decrease in lactase activity during adulthood. The frequency of lactose intolerance ranges from 5% in Northern European countries (England, Scotland, Ireland, Scandinavia, and Iceland) to 71% in Italy (Sicily) to more than 90% in most African and Asian countries. This distribution is now thought to have been caused by recent natural selection favoring lactase-persistent individuals in cultures in which dairy products are available as a food source. Beja-Pereira A et al. Gene-culture coevolution between cattle milk protein genes and human lactase genes" Nat Genet 2003; 35: 311−313. While it was first thought that this would mean that populations in Europe, India, Arabia, and Africa had high frequencies of lactase persistence because of a particular mutation, it was later shown that lactase persistence is caused by several independently occurring mutations. Ingram CJ, Mulcare CA, Itan Y, Thomas MG, Swallow DM. 2009.Lactose digestion and the evolutionary genetics of lactase persistence" Hum Genet 2009 Jan;124(6) 579-91. Epub 2008 Nov 26. 
+
+== Terminology ==
+"Lactose intolerance" primarily refers to a syndrome having one or more symptoms upon the consumption of food substances containing lactose. Individuals may be lactose intolerant to varying degrees, depending on the severity of these symptoms. "Lactose malabsorption" refers to the physiological concomitant of lactase deficiency (i.e., the body does not have sufficient lactase capacity to digest the amount of lactose ingested). A medical condition with similar symptoms is fructose malabsorption.
+
+Lactase deficiency has a number of causes and is classified as one of three types:
+* Primary lactase deficiency is genetic, only affects adults and is caused by the absence of a lactase persistence allele. It is the most common cause of lactose intolerance as a majority of the world's population lacks these alleles. 
+* Secondary, acquired, or transient lactase deficiency is caused by an injury to the small intestine, usually during infancy, from acute gastroenteritis, diarrhea, chemotherapy, intestinal parasites or other environmental causes. 
+* Congenital lactase deficiency is a very rare, autosomal recessive genetic disorder that prevents lactase expression from birth. It is particularly common in Finland. People with congenital lactase deficiency cannot digest lactose from birth, and therefore cannot digest breast milk.
+
+Lactose intolerance is not an allergy, because it is not an immune response, but rather a problem with digestion caused by lactase deficiency. Milk allergy is a separate condition, with distinct symptoms that occur when the presence of milk proteins trigger an immune reaction.
+
+==Symptoms==
+The principal symptom of lactose intolerance is an adverse reaction to products containing lactose (primarily milk), including abdominal bloating and cramps, flatulence, diarrhea, nausea, borborygmi (rumbling stomach) and vomiting (particularly in adolescents). These appear thirty minutes to two hours after consumption. The severity of symptoms typically increases with the amount of lactose consumed; most lactose-intolerant people can tolerate a certain level of lactose in their diet without ill-effect. 
+
+=== Nutritional implications of CLD===
+Congenital lactase deficiency (CLD), where the production of lactase is inhibited from birth, can be dangerous in any society because of infants' initial reliance on human breast milk for nutrition until they are weaned onto other foods. Before the 20th century, babies born with CLD often did not survive, but death rates decreased with soybean-derived infant formulas and manufactured lactose-free dairy products. name="Sinden, A.A 1991 Emedicine|PED|1270|Lactose Intolerance" Guandalini S, Frye R, Rivera-Hernández D, Miller L, Borowitz S Beyond infancy, individuals affected by CLD usually have the same nutritional concerns as any lactose-intolerant adult.
+
+==Causes==
+Lactose intolerance is a consequence of lactase deficiency, which may be genetic or environmentally induced. In either case, symptoms are caused by insufficient levels of the enzyme lactase in the lining of the duodenum. Lactose, a disaccharide molecule found in milk and dairy products, cannot be directly absorbed through the wall of the small intestine into the bloodstream so, in the absence of lactase, passes intact into the colon. Bacteria in the colon can metabolise lactose, and the resulting fermentation produces copious amounts of gas (a mixture of hydrogen, carbon dioxide and methane) that causes the various abdominal symptoms. The unabsorbed sugars and fermentation products also raise the osmotic pressure of the colon, causing an increased flow of water into the bowels (diarrhea). The LCT gene provides the instructions for making lactase. There is a specific DNA sequence in the MCM6 gene that helps control whether the LCT gene is turned on or off. http://ghr.nlm.nih.gov/gene/MCM6 Possibly years ago, some humans developed a mutation in the MCM6 gene that keeps the LCT gene turned on even after breast feeding is stopped. http://www.slate.com/articles/health_and_science/human_evolution/2012/10/evolution_of_lactose_tolerance_why_do_humans_keep_drinking_milk.html People who are lactose intolerant do not have this mutation in the MCM6 gene. The LCT gene which encodes the lactase protein and the MCM6 gene are both located on the long arm (q) of chromosome 2 in region 21. The locus can be expressed as 2q21. The lactose deficiency also could be linked to certain heritages. Seventy-five percent of all African-American, Jewish, Mexican-American, and Native American adults are lactose intolerant. 
+
+== Diagnosis ==
+To assess lactose intolerance, intestinal function is challenged by ingesting more dairy products than can be readily digested. Clinical symptoms typically appear within 30 minutes, but may take up to two hours, depending on other foods and activities. Substantial variability in response (symptoms of nausea, cramping, bloating, diarrhea, and flatulence) is to be expected, as the extent and severity of lactose intolerance varies among individuals.
+
+Lactose intolerance is distinct from milk allergy, an immune response to cow's milk protein. They may be distinguished in diagnosis by giving lactose-free milk, producing no symptoms in the case of lactose intolerance, but the same reaction as to normal milk in the presence of a milk allergy. It is possible for a person to have both conditions. If positive confirmation is necessary, four tests are available. 
+
+=== Hydrogen breath test ===
+This is the most accurate lactose intolerance test. In a hydrogen breath test, after an overnight fast, 25 grams of lactose (in a solution with water) is swallowed. If the lactose cannot be digested, enteric bacteria metabolize it and produce hydrogen, which, along with methane, if produced, can be detected on the patient's breath by a clinical gas chromatograph or compact solid-state detector. The test takes about 2 to 3 hours to complete. If the hydrogen levels in the patient's breath are high, they may have lactose intolerance. This test is not usually done on babies and very young children, because it can cause severe diarrhea. http://www.webmd.com/digestive-disorders/tc/lactose-intolerance-exams-and-tests 
+
+=== Blood test ===
+In conjunction, measuring blood glucose level every 10 to 15 minutes after ingestion will show a "flat curve" in individuals with lactose malabsorption, while the lactase persistent will have a significant "top", with a typical elevation of 50% to 100%, within one to two hours. However, due to the need for frequent blood sampling, this approach has been largely replaced by breath testing.
+
+After an overnight fast, blood is drawn and then 50 grams of lactose (in aqueous solution) is swallowed. Blood is then drawn again at the 30 minute, 1-hour, 2-hour, and 3-hour mark. If the lactose cannot be digested, blood glucose levels will rise by less than 20 mg/dL. 
+
+=== Stool acidity test ===
+This test can be used to diagnose lactose intolerance in infants, for whom other forms of testing are risky or impractical. The infant is given lactose to drink. If the individual is tolerant, the lactose is digested and absorbed in the small intestine; otherwise it is not digested and absorbed and it reaches the colon. The bacteria in the colon, mixed with the lactose, cause acidity in stools. Stools passed after the ingestion of the lactose are tested for level of acidity. If the stools are acidic, the infant is intolerant to lactose. 
+Stool pH in lactose intolerance is less than 5.5.
+
+=== Intestinal biopsy ===
+An intestinal biopsy can confirm lactase deficiency following discovery of elevated hydrogen in the hydrogen breath test. Modern techniques have enabled a bedside test, identifying presence of lactase enzyme on upper gastrointestinal endoscopy instruments. However, for research applications such as mRNA measurements, a specialist laboratory is required.
+
+=== Stool sugar chromatography ===
+It is a confirmatory test for lactose intolerance. 
+
+=== Genetic diagnostic ===
+It is used in primary lactose intolerance. Lactase activity persistence in adults is associated with two polymorphisms: C/T 13910 and G/A 22018 located in MCM6 gene. These polymorphisms may be detected by molecular biology techniques at the DNA extracted from blood or saliva samples; genetic kits specific for this diagnosis are available. The procedure consists of extracting and amplifying DNA from the sample, following with a hybridation protocol in a strip. Colored bands are obtained as final result, and depending on the different combination, it would be possible to determine whether the patient is lactose intolerant. This test allows a non-invasive definitive diagnostic.
+
+== Management ==
+Lactose intolerance is not considered a condition that requires treatment in societies where the diet contains relatively little dairy produce. However, those living among societies that are largely lactose-tolerant may find lactose intolerance troublesome. Although there was no way to reinstate lactase production , some individuals have reported that their intolerance varies over time, depending on health status and pregnancy Roy, Barakat, Nwakakwa, Shojamanesh, Khurana, July 5, 2006 About 44% of lactose-intolerant women regain the ability to digest lactose during pregnancy. This might be caused by slow intestinal transit and intestinal flora changes during pregnancy. Lactose intolerance can also be managed by ingesting live yougurt cultures containing Lactobacilli that are able to digest the Lactose in other dairy products. This may explain why many South Asians though genetically Lactose intolerant are able to consume large quantities of milk without much symptoms of Lactose intolerance. Consuming live yougurt cultures is very common in the South Asian population. http://www.efsa.europa.eu/en/efsajournal/doc/1763.pdf Lactose intolerance is not usually an absolute condition: The reduction in lactase production, and the amount of lactose that can therefore be tolerated, varies from person to person. Since lactose intolerance poses no further threat to a person's health, the condition is managed by minimizing the occurrence and severity of symptoms. Berdanier and Hargrove recognise four general principles in dealing with lactose intolerance—avoidance of dietary lactose, substitution to maintain nutrient intake, regulation of calcium intake and use of enzyme substitute. 
+
+=== Avoiding lactose-containing products ===
+Since each individual's tolerance to lactose varies, according to the U.S. National Institutes of Health (NIH), "Dietary control of lactose intolerance depends on people learning through trial and error how much lactose they can handle." Label reading is essential, as commercial terminology varies according to language and region. 
+
+Lactose is present in two large food categories—conventional dairy products, and as a food additive (casein, caseinate, whey), which may contain traces of lactose.
+
+==== Dairy products ====
+Lactose is a water-soluble substance. Fat content and the curdling process affect tolerance of foods. After the curdling process, lactose is found in the water-based portion (along with whey and casein), but not in the fat-based portion. Dairy products that are "reduced-fat" or "fat-free" generally have slightly higher lactose content. Low-fat dairy foods also often have various dairy derivatives, such as milk solids, added, increasing the lactose content.
+
+;Milk
+Human milk has a high lactose content, around 9%. Unprocessed cow milk is about 4.7% lactose. Unprocessed milk from other bovids contains a similar fraction of lactose (goat milk 4.7%, Composition of Human, Cow, and Goat Milks — Goat Milk — goatworld.com buffalo 4.86%, yak 4.93%, C:\JAG2\Jiang.vp sheep 4.6%)
+
+;Butter
+The butter-making process separates the majority of milk's water components from the fat components. Lactose, being a water soluble molecule, will largely be removed, but will still be present in small quantities in the butter unless it is also fermented to produce cultured butter. Clarified butter, however, contains very little lactose and is safe for most lactose-intolerant people.
+
+;Yogurt, frozen yogurt and kefir
+People can be more tolerant of traditionally made yogurt than milk, because it contains lactase produced by the bacterial cultures used to make the yogurt. Frozen yogurt will contain similarly reduced lactose levels.
+
+;Cheeses
+Traditionally made hard cheeses, and soft ripened cheeses may create less reaction than the equivalent amount of milk because of the processes involved. Fermentation and higher fat content contribute to lesser amounts of lactose. Traditionally made Emmental or Cheddar might contain 10% of the lactose found in whole milk. In addition, the ageing methods of traditional cheeses (sometimes over two years) reduce their lactose content to practically nothing. http://www.ilovecheese.com/lactose_intolerant_faqs.asp Commercial cheeses, however, are often manufactured by processes that do not have the same lactose-reducing properties. Ageing of some cheeses is governed by regulations; Example of cheese regulations: "West Country Farmhouse Cheddar" must be aged for 9 months in other cases there is no quantitative indication of degree of ageing and concomitant lactose reduction, and lactose content is not usually indicated on labels.
+
+;Sour cream
+If made in the traditional way, this may be tolerable, but most modern brands add milk solids. 
+
+;Examples of lactose levels in foods
+As industry standardization has not been established concerning lactose content analysis methods (non-hydrated form or the mono-hydrated form), Goat Milk Composition and considering that dairy content varies greatly according to labeling practices, geography and manufacturing processes, lactose numbers may not be very reliable. The following table contains a guide to the typical lactose levels found in various foods. http://www.gastro.net.au/diets/lactose.html 
+
+:
+ Dairy product Serving size Lactose content Percentage 
+ Milk, regular 250 ml 12 g 4.80% 
+ Milk, reduced fat 250 ml 13 g 5.20% 
+ Yogurt, plain, regular 200 g 9 g 4.50% 
+ Yogurt, plain, low-fat 200 g 12 g 6.00% 
+ Cheddar cheese 30 g 0.02 g 0.07% 
+ Cottage cheese 30 g 0.1 g 0.33% 
+ Butter 1 tsp (5.9ml) 0.03 g 0.51% 
+ Ice cream 50 g 3 g 6.00% 
+
+==== Lactose in non-dairy products ====
+Lactose (also present when labels state lactoserum, whey, milk solids, modified milk ingredients, etc.) is a commercial food additive used for its texture, flavour and adhesive qualities, and is found in foods such as processed meats (sausages/hot dogs, sliced meats, pâtés), gravy stock powder, margarines, sliced breads, breakfast cereals, potato chips, processed foods, medications, pre-prepared meals, meal replacement (powders and bars), protein supplements (powders and bars) and even beers in the milk stout style. Some barbecue sauces and liquid cheeses used in fast-food restaurants may also contain lactose.
+
+Kosher products labeled pareve or fleishig are free of milk. However, if a "D" (for "Dairy") is present next to the circled "K", "U", or other hechsher, the food product likely contains milk solids, although it may also simply indicate that the product was produced on equipment shared with other products containing milk derivatives.
+
+==== Alternative products ====
+Plant-based "milks" and derivatives such as soy milk, rice milk, almond milk, coconut milk, hazelnut milk, oat milk, hemp milk, and peanut milk are inherently lactose-free.
+
+Low-lactose and lactose-free versions of foods are often available to replace dairy-based foods for those with lactose intolerance.
+
+=== Lactase supplementation ===
+When lactose avoidance is not possible, or on occasions when a person chooses to consume such items, then enzymatic lactase supplements may be used. 
+
+Lactase enzymes similar to those produced in the small intestines of humans are produced industrially by fungi of the genus Aspergillus. The enzyme, β-galactosidase, is available in tablet form in a variety of doses, in many countries without a prescription. It functions well only in high-acid environments, such as that found in the human gut due to the addition of gastric juices from the stomach. Unfortunately, too much acid can denature it, and it therefore should not be taken on an empty stomach. Also, the enzyme is ineffective if it does not reach the small intestine by the time the problematic food does. Lactose-sensitive individuals can experiment with both timing and dosage to fit their particular needs.
+
+While essentially the same process as normal intestinal lactose digestion, direct treatment of milk employs a different variety of industrially produced lactase. This enzyme, produced by yeast from the genus Kluyveromyces, takes much longer to act, must be thoroughly mixed throughout the product, and is destroyed by even mildly acidic environments. Its main use is in producing the lactose-free or lactose-reduced dairy products sold in supermarkets.
+
+=== Rehabituation to dairy products ===
+For healthy individuals with secondary lactose intolerance, it may be possible in some cases for the bacteria in the large intestine to adapt to an altered diet and break down small quantities of lactose more effectively Lactose intolerant? Drink more milk Steve Tally by habitually consuming small amounts of dairy products several times a day over a period of time. This is not suitable for people who have an underlying or chronic illness which may have damaged the intestinal tract in a way which prevents the lactase enzyme from being expressed.
+
+Some studies indicate that environmental factors—more specifically, the consumption of lactose—may "play a more important role than genetic factors in the etio-pathogenesis of milk intolerance",. 
+
+==Lactase persistence==
+
+Lactase persistence is the phenotype associated with various autosomal dominant alleles prolonging the activity of lactase beyond infancy; conversely, lactase non-persistence is the phenotype associated with primary lactase deficiency (see above). Among mammals, lactase persistence is unique to humans — it evolved relatively recently (in the last 10,000 years) among some populations, and the majority of people worldwide remain lactase non-persistent. For this reason lactase persistence is of some interest to the fields of anthropology and human genetics, which typically use the genetically derived persistence/non-persistence terminology.
+
+Genetic analysis shows that lactase persistence has developed multiple times in different places independently in an example of convergent evolution. 
+
+Recognition of the extent and genetic basis of lactose intolerance is relatively recent. Though its symptoms were described as early as Hippocrates (460-370 B.C.), until the 1960s the prevailing assumption in the medical community was that tolerance was the norm and intolerance either the result of milk allergy, an intestinal pathogen, or else was psychosomatic (it being recognised that some cultures did not practice dairying, and people from those cultures often reacted badly to consuming milk). There were two reasons for this perception. Firstly, many Western countries have a predominantly European heritage, and so have low frequencies of lactose intolerance, and have an extensive cultural history of dairying. Therefore, tolerance actually was the norm in most of the societies investigated by medical researchers at that point. Secondly, within even these societies lactose intolerance tends to be under-reported: genetically lactase non-persistent individuals can tolerate varying quantities of lactose before showing symptoms, and their symptoms differ in severity. Most are able to digest a small quantity of milk, for example in tea or coffee, without suffering any adverse effects. Fermented dairy products, such as cheese, also contain dramatically less lactose than plain milk. Therefore, in societies where tolerance is the norm, many people who consume only small amounts of dairy or have only mild symptoms, may be unaware that they cannot digest lactose. Eventually, however, it was recognised that in the United States lactose intolerance is correlated with race. Subsequent research revealed that intolerance was more common globally than lactase persistence, and that the variation was genetic. 
+
+== See also ==
+* Dairy allergy
+* Food allergy
+* Food intolerance
+* Gastroenterology
+* Gluten intolerance
+* Lactose content of foods
+* Soy cheese
+* Soy milk and Plant milk
+* Sucrose intolerance
+
+== References ==
+
+== Further reading ==
+
+* 
+* 
+* 
+* 
+* 
+
+==External links==
+* Human Culture, an Evolutionary Force
+* Wiki on living without dairy products
+
+

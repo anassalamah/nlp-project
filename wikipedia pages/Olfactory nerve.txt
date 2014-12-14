@@ -1,0 +1,42 @@
+[[Olfactory nerve]]
+
+The olfactory nerve (), known as the first cranial nerve, or simply CNI, carries the sensory information for the sense of smell. Derived from the embryonic nasal placode, the olfactory nerve is capable of regeneration. The olfactory nerve is sensory in nature and originates on the olfactory mucosa in the anterosuperior nasal cavity. Mcgraw Hill's Anatomy and Physiology Revealed From the olfactory mucosa, the nerve travels down the olfactory tract until it reaches the olfactory bulb, where the fascicles of the olfactory nerve pass through foramina on the cribriform plate, which resides on the roof of the nasal cavity. These fascicles are not visible on a cadaver brain because they are severed upon removal. Saladin, Kenneth. "The Cranial Nerves." Anatomy and Physiology: The Unity of Form and Function. 6th ed. New York City: Mcgraw-Hill, 2012. 548. 
+
+==Structure==
+The specialized olfactory receptor neurons of the olfactory nerve are located in the olfactory mucosa of the upper parts of the nasal cavity. The olfactory nerves do not form two trunks as do the remaining cranial nerves. Rather, they consist of a collection of many sensory nerve fibers that extend from the olfactory epithelium to the olfactory bulb, passing through the many openings of the Cribriform plate of the Ethmoid bone, a sieve-like structure.
+
+Olfactory receptor neurons continue to be born throughout life and extend new axons to the olfactory bulb. Olfactory ensheathing glia wrap bundles of these axons and are thought to facilitate their passage into the central nervous system.
+
+The sense of smell (olfaction) arises from the stimulation of olfactory (or odorant) receptors by small molecules of different spatial, chemical, and electrical properties that pass over the nasal epithelium in the nasal cavity during inhalation. These interactions are transduced into electrical activity in the olfactory bulb, which then transmits the electrical activity to other parts of the olfactory system and the rest of the central nervous system via the olfactory tract.
+
+The olfactory nerve is the shortest of the twelve cranial nerves and one of only two cranial nerves (the other being the optic nerve) that do not join with the brainstem.
+
+==Function==
+The functional components of the olfactory nerve include SVA, special visceral afferent, which carries the modality of smell.
+
+==Clinical significance==
+===Examination===
+Damage to this nerve impairs the sense of smell. To test the function of the olfactory nerve, doctors block one of the patient's nostrils and place a pungent odor (such as damp coffee essence) under the open nostril. The test is then repeated on the other nostril. If the patient can smell the coffee, not necessarily identify what it is, the patient’s olfactory nerve is functioning.
+
+===Lesions===
+Lesions to the olfactory nerve can occur because of blunt trauma, such as coup-contra-coup damage, meningitis, and tumors of the frontal lobe. They often lead to a reduced ability to taste and smell. However, lesions of the olfactory nerve do not lead to a reduced ability to sense pain from the nasal epithelium. This is because pain from the nasal epithelium is not carried to the central nervous system by the olfactory nerve; rather, it is carried to the central nervous system by the trigeminal nerve (cranial nerve V).
+
+==See also==
+
+* Cranial nerves
+* Phantosmia
+* Anterior olfactory nucleus
+* Nasal administration
+
+==Additional Images==
+
+File:Slide21ior.JPG|Olfactory nerve.Deep dissection.Inferior view.
+
+==External links==
+* 
+* ()
+* Notes on Olfactory Nerve
+
+==Notes==
+
+

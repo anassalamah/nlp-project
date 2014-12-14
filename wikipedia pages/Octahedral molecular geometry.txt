@@ -1,0 +1,96 @@
+[[Octahedral molecular geometry]]
+
+Idealized structure of a compound with octahedral coordination geometry.
+Structure of sulfur hexafluoride, an example of a molecule with the octahedral coordination geometry.
+In chemistry, octahedral molecular geometry describes the shape of compounds wherein six atoms or groups of atoms or ligands are symmetrically arranged around a central atom, defining the vertices of an octahedron. The octahedron has eight faces, hence the prefix octa. The octahedron is one of the Platonic solids, although octahedral molecules typically have an atom in their centre and no bonds between the ligand atoms. A perfect octahedron belongs to the point group Oh. Examples of octahedral compounds are sulfur hexafluoride SF6 and molybdenum hexacarbonyl Mo(CO)6. The term "octahedral" is used somewhat loosely by chemists, focusing on the geometry of the bonds to the central atom and not considering differences among the ligands themselves. For example, hexammine chloride|], which is not octahedral in the mathematical sense due to the orientation of the N-H bonds, is referred to as octahedral. von Zelewsky, A. "Stereochemistry of Coordination Compounds" John Wiley: Chichester, 1995. ISBN 047195599X. 
+
+The concept of octahedral coordination geometry was developed by Alfred Werner to explain the stoichiometries and isomerism in coordination compounds. His insight allowed chemists to rationalize the number of isomers of coordination compounds. Octahedral transition-metal complexes containing amines and simple anions are often referred to Werner-type complexes.
+
+== Isomerism in octahedral complexes ==
+
+When two or more types of ligands (La, Lb, ...) are coordinated to an octahedral metal centre (M), the complex can exist as isomers. The naming system for these isomers depends upon the number and arrangement of different ligands.
+
+=== cis and trans ===
+For MLa4Lb2, two isomers exist. These isomers of MLa4Lb2 are cis, if the Lb ligands are mutually adjacent, and trans, if the Lb groups are situated 180° to each other. It was the analysis of such complexes that led Alfred Werner to the 1913 Nobel Prize winning postulation of octahedral complexes.
+
+Image:Cis-dichlorotetraamminecobalt(III).png|cis-+
+Image:Trans-dichlorotetraamminecobalt(III).png|trans-+
+
+=== Facial and meridional isomers===
+For MLa3Lb3, two isomers are possible - a facial isomer (fac) in which each set of three identical ligands occupies one face of the octahedron surrounding the metal atom, so that any two of these three ligands
+are mutually cis, and a meridional isomer (mer) in which each set of three identical ligands occupies a plane passing through the metal atom.
+
+Image:Fac-trichlorotriamminecobalt(III).png|fac-
+Image:Mer-trichlorotriamminecobalt(III).png|mer-
+
+=== Chirality ===
+More complicated complexes, with several different kinds of ligands or with bidentate ligands can also be chiral, with pairs of isomers which are non-superimposable mirror images or enantiomers of each other.
+
+Image:Delta-tris(oxalato)ferrate(III)-3D-balls.png|Λ-3−
+Image:Lambda-tris(oxalato)ferrate(III)-3D-balls.png|Δ-3−
+Image:Delta-cis-dichlorobis(ethylenediamine)cobalt(III).png|chloride|Λ-cis-]
+Image:Lambda-cis-dichlorobis(ethylenediamine)cobalt(III).png|Δ-cis-+
+
+=== Other ===
+For MLa2Lb2Lc2, a total of six isomers are possible. Miessler G.L. and Tarr D.A. Inorganic Chemistry (2nd ed. Prentice-Hall 1999) p.290 
+# One isomer in which all three pairs of identical ligands are trans
+# Three distinct isomers in which one pair of identical ligands (La or Lb or Lc) is trans while the other two are cis. 
+# Two enantiomeric chiral isomers in which all three pairs of identical ligands are cis. 
+
+The number of possible isomers can reach 30 for an octahedral complex with six different ligands (in contrast, only two stereoisomers are possible for a tetrahedral complex with four different ligands). The following table lists all possible combinations for monodentate ligands:
+
+ Formula Number of isomers Number of enantiomeric pairs 
+ ML6 1 0 
+ MLa5Lb 1 0 
+ MLa4Lb2 2 0 
+ MLa4LbLc 2 0 
+ MLa3Lb3 2 0 
+ MLa3Lb2Lc 3 0 
+ MLa3LbLcLd 5 1 
+ MLa2Lb2Lc2 6 1 
+ MLa2Lb2LcLd 8 2 
+ MLa2LbLcLdLe 15 6 
+ MLaLbLcLdLeLf 30 15 
+
+Thus, all 15 diastereomers of MLaLbLcLdLeLf are chiral, whereas for MLa2LbLcLdLe, six diastereomers are chiral and three are not: the ones where La are trans. One can see that octahedral coordination allows much greater complexity than the tetrahedron that dominates organic chemistry. The tetrahedron MLaLbLcLd exists as a single enatiomeric pair. To generate two diastereomers in an organic compound, at least two carbon centers are required.
+
+== Trigonal prismatic geometry ==
+
+For compounds with the formula MX6, the chief alternative to octahedral geometry is a trigonal prismatic geometry, which has symmetry D3h. In this geometry, the six ligands are also equivalent. There are also distorted trigonal prisms, with C3v symmetry; a prominent example is W(CH3)6. The interconversion of Δ- and Λ-complexes, which is usually slow, is proposed to proceed via a trigonal prismatic intermediate, a process called the "Bailar twist." An alternative pathway for the racemization of these same complexes is the Ray–Dutt twist.
+
+== Splitting of the energy of the d-orbitals in octahedral complexes ==
+
+For a "free ion", e.g. gaseous Ni2+ or Mo0, the energy of the d-orbitals are equi-energetic, that is they are "degenerate." In an octahedral complex, this degeneracy is lifted. The energy of the d'z2 and d'x2&minus;y2, the so-called eg set, which are aimed directly at the ligands are destabilized. On the other hand, the energy of the dxz, dxy, and dyz orbitals, the so-called t2g set, are stabilized. The labels t2g and eg refer to irreducible representations, which describe the symmetry properties of these orbitals. The energy gap separating these two sets is the basis of Crystal Field Theory and the more comprehensive Ligand Field Theory. The loss of degeneracy upon the formation of an octahedral complex from a free ion is called crystal field splitting or ligand field splitting. The energy gap is labeled Δo, which varies according to the number and nature of the ligands. If the symmetry of the complex is lower than octahedral, the eg and t2g levels can split further. For example, the t2g and eg sets split further in trans-MLa4Lb2.
+
+Ligand strength has the following order for these electron donors:
+weak: iodine < bromine < fluorine < acetate < oxalate < water < pyridine < cyanide :strong
+
+So called "weak field ligands" give rise to small Δo and absorb light at longer wavelengths.
+
+== Reactions ==
+
+Given that a virtually uncountable variety of octahedral complexes exist, it is not surprising that a wide variety of reactions have been described. These reactions can be classified as follows:
+
+* Ligand substitution reactions (via a variety of mechanisms)
+* Ligand addition reactions, including among many, protonation
+* Redox reactions (where electrons are gained or lost)
+* Rearrangements where the relative stereochemistry of the ligand change within the coordination sphere.
+
+Many reactions of octahedral transition metal complexes occur in water. When an anionic ligand replaces a coordinated water molecule the reaction is called an anation. The reverse reaction, water replacing an anionic ligand, is called an "aquation reaction." For example, the 2+ slowly aquates to give 3+ in water, especially in the presence of acid or base. Addition of concentrated HCl converts the aquo complex back to the chloride, via an anation process.
+
+== See also ==
+
+* Octahedral clusters
+* AXE method
+* Molecular geometry
+
+== References ==
+
+== External links ==
+* Chem| Chemistry, Structures, and 3D Molecules 
+* Indiana University Molecular Structure Center
+* Point Group Symmetry Examples
+* Molecular Modeling
+* Animated Trigonal Planar Visual
+
+

@@ -1,0 +1,116 @@
+[[Hyperthermia]]
+
+Hyperthermia is elevated body temperature due to failed thermoregulation that occurs when a body produces or absorbs more heat than it dissipates. Extreme temperature elevation then becomes a medical emergency requiring immediate treatment to prevent disability or death.
+
+The most common causes include heat stroke and adverse reactions to drugs. The former is an acute temperature elevation caused by exposure to excessive heat, or combination of heat and humidity, that overwhelms the heat-regulating mechanisms. The latter is a relatively rare side effect of many drugs, particularly those that affect the central nervous system. Malignant hyperthermia is a rare complication of some types of general anesthesia.
+
+Hyperthermia can also be deliberately induced using drugs or medical devices and may be used in the treatment of some kinds of cancer and other conditions, most commonly in conjunction with radiotherapy. Information from the U.S. National Cancer Institute 
+
+Hyperthermia differs from fever in that the body's temperature set point remains unchanged. The opposite is hypothermia, which occurs when the temperature drops below that required to maintain normal metabolism.
+
+==Classification==
+
+Hyperthermia is defined as a temperature greater than 37.5 –, depending on the reference used, that occurs without a change in the body's temperature set point. 
+
+The normal human body temperature in health can be as high as 37.7 C in the late afternoon. Hyperthermia requires an elevation from the temperature that would otherwise be expected. Such elevations range from mild to extreme; body temperatures above 40 C can be life-threatening.
+
+==Signs and symptoms==
+Hot, dry, skin is typical as blood vessels dilate in an attempt to increase heat loss. An inability to cool the body through perspiration may cause the skin to feel dry.
+
+Other signs and symptoms vary. Accompanying dehydration can produce nausea, vomiting, headaches, and low blood pressure and the latter can lead to fainting or dizziness, especially if the standing position is assumed quickly.
+
+In severe heat stroke, there may be confused, hostile, or seemingly intoxicated behavior. Heart rate and respiration rate will increase (tachycardia and tachypnea) as blood pressure drops and the heart attempts to maintain adequate circulation. The decrease in blood pressure can then cause blood vessels to contract reflexly, resulting in a pale or bluish skin color in advanced cases. Young children, in particular, may have seizures. Eventually, organ failure, unconsciousness and death will result.
+
+==Causes==
+
+===Heat stroke===
+Heat stroke occurs when thermoregulation is overwhelmed by a combination of excessive metabolic production of heat (exertion), excessive environmental heat, and insufficient or impaired heat loss, resulting in an abnormally high body temperature. In severe cases, temperatures can exceed 40 C. Heat stroke may be non-exertional (classic) or exertional. 
+Significant physical exertion in hot conditions can generate heat beyond the ability to cool, because, in addition to the heat, humidity of the environment may reduce the efficiency of the body's normal cooling mechanisms. Heat loss mechanisms are limited to vasodilation of skin vessels and increased rate of sweating. Vasodilation dissipates heat by convection and sweating by evaporation. However, thermoregulation can be assisted with shade or fans. Other factors, such as insufficient water intake, consuming alcohol, or lack of air conditioning, can worsen the problem. 
+The principles of physics involved include:
+* Newton's law of cooling which states that dry heat loss is proportional to temperature difference between the human body (shell) and surroundings;
+* Stefan-Boltzmann law which states that the higher the temperature of an object, the more it radiates, and the energy radiating from an object and received by the human body is proportional to temperature difference between object and skin.
+
+Non-exertional heat stroke mostly affects the young and elderly. In the elderly in particular, it can be precipitated by medications such as anticholinergic drugs, antihistamines, and diuretics that reduce vasodilation, sweating, and other heat-loss mechanisms. In this situation, the body's tolerance for high environmental temperature may be insufficient, even at rest.
+thumb
+Heat waves in the United States are followed by a rise in the death rate and these 'classical hyperthermia' deaths involve the elderly and infirm. This is partly because thermoregulation involves cardiovascular, respiratory and renal systems which may be inadequate for the additional stress because of the existing burden of aging and disease, further compromised by medications. During the July 1995 heat wave in Chicago, there were at least 700 heat-related deaths. The strongest risk factors were being confined to bed, and living alone, while the risk was reduced for those with working air conditioners and those with access to transportation. Even then, reported deaths may be underestimates as diagnosis can be misclassified as stroke or heart attack. 
+
+===Drugs===
+Some drugs cause excessive internal heat production. The rate of drug-induced hyperthermia is higher where use of these drugs is higher. 
+
+* Many psychotropic medications, such as selective serotonin reuptake inhibitors (SSRIs), monoamine oxidase inhibitors (MAOIs), and tricyclic antidepressants, can cause hyperthermia. Serotonin syndrome is a rare adverse reaction to overdose of these medications or the use of several simultaneously. Similarly, neuroleptic malignant syndrome is an uncommon reaction to neuroleptic agents. These syndromes are differentiated by other associated symptoms, such as tremor in serotonin syndrome and "lead-pipe" muscle rigidity in neuroleptic malignant syndrome. 
+* Various stimulant drugs, including amphetamines, cocaine, PCP, LSD, and MDMA can produce hyperthermia as an adverse effect. 
+* Malignant hyperthermia is a rare reaction to common anesthetic agents (such as halothane) or the paralytic agent succinylcholine. Those who suffer this reaction, which is potentially fatal, have a genetic predisposition. 
+* The use of anticholinergics, more specifically muscarinic antagonists are thought to cause mild hyperthermic episodes due to its parasympatholytic effects. The sympathetic nervous system a.k.a the "Fight or Flight Response" dominates by raising catecholamine levels by the blocked action of the Rest and Digest System. 
+
+===Personal protective equipment===
+Those working in industry, the military and first responders, may be required to wear personal protective equipment (PPE) against hazards such as chemical agents, gases, fire, small arms and even Improvised Explosive Devices (IEDs). PPE includes a range of hazmat suits, firefighting turnout gear, body armor and bomb suits, amongst others. Depending on design, the wearer may be encapsulated in a microclimate, due to an increase in thermal resistance and decrease in vapor permeability. As physical work is performed, the body’s natural thermoregulation (i.e., sweating) becomes ineffective. This is compounded by increased work rates, high ambient temperature and humidity levels, and direct exposure to the sun. The net effect is that desired protection from some environmental threats inadvertently increases the threat of heat stress.
+
+===Other===
+Other rare causes of hyperthermia include thyrotoxicosis and an adrenal gland tumor, called pheochromocytoma, both of which can cause increased heat production. Damage to the central nervous system, from brain hemorrhage, status epilepticus, and other kinds of injury to the hypothalamus can also cause hyperthermia. 
+
+==Pathophysiology==
+A summary of the differences between hyperthermia, hypothermia, and fever.Hyperthermia: Characterized on the left. Normal body temperature (thermoregulatory set-point) is shown in green, while the hyperthermic temperature is shown in red. As can be seen, hyperthermia can be conceptualized as an increase above the thermoregulatory set-point.Hypothermia: Characterized in the center: Normal body temperature is shown in green, while the hypothermic temperature is shown in blue. As can be seen, hypothermia can be conceptualized as a decrease below the thermoregulatory set-point.Fever: Characterized on the right: Normal body temperature is shown in green. It reads "New Normal" because the thermoregulatory set-point has risen. This has caused what was the normal body temperature (in blue) to be considered hypothermic.
+
+A fever occurs when the core temperature is set higher, through the action of the pre-optic region of the anterior hypothalamus. For example, in response to a bacterial or viral infection, certain white blood cells within the blood will release pyrogens which have a direct effect on the anterior hypothalamus, causing body temperature to rise, much like raising the temperature setting on a thermostat.
+
+In contrast, hyperthermia occurs when the body temperature rises without a change in the heat control centers.
+
+Some of the gastrointestinal symptoms of acute exertional heat stroke, such as vomiting, diarrhea, and gastrointestinal bleeding, may be caused by barrier dysfunction and subsequent endotoxemia. Ultraendurance athletes have been found to have significantly increased plasma endotoxin levels. Endotoxin stimulates many inflammatory cytokines, which in turn may cause multiorgan dysfunction. Experimentally, monkeys treated with oral antibiotics prior to induction of heat stroke do not become endotoxemic. Lambert, Patrick. Role of gastrointestinal permeability in exertional heatstroke. Exercise and Sport Science Reviews. 32(4): 185-190. 2004 
+
+There is scientific support for the concept of a temperature set point - that is, maintenance of an optimal temperature for the metabolic processes that life depends on. Nervous activity in the preoptic-anterior hypothalamus of the brain triggers heat losing (sweating, etc.) or heat generating (shivering and muscle contraction, etc.) activities through stimulation of the autonomic nervous system. The pre-optic anterior hypothalamus has been shown to contain warm sensitive, cool sensitive, and temperature insensitive neurons, to determine the body's temperature setpoint. As the temperature that these neurons are exposed to rises above 37 °C, the rate of electrical discharge of the warm-sensitive neurons increases progressively. Cold-sensitive neurons increase their rate of electrical discharge progressively below 37 °C. 
+
+==Diagnosis==
+Hyperthermia is generally diagnosed by the combination of unexpectedly high body temperature and a history that supports hyperthermia instead of a fever. Most commonly this means that the elevated temperature has occurred in a hot, humid environment (heat stroke) or in someone taking a drug for which hyperthermia is a known side effect (drug-induced hyperthermia). The presence of signs and symptoms related to hyperthermia syndromes, such as extrapyramidal symptoms characteristic of neuroleptic malignant syndrome, and the absence of signs and symptoms more commonly related to infection-related fevers, are also considered in making the diagnosis.
+
+If fever-reducing drugs lower the body temperature, even if the temperature does not return entirely to normal, then hyperthermia is excluded. 
+
+==Prevention==
+When ambient temperature is excessive, humans and many animals cool themselves below ambient by evaporative cooling of sweat (or other aqueous liquid; saliva in dogs, for example); this helps to prevent potentially fatal hyperthermia. The effectiveness of evaporative cooling depends upon humidity; wet-bulb temperature, which takes account of humidity, or more complex calculated quantities such as Wet Bulb Globe Temperature (WBGT) which also takes account of solar radiation, give useful indications of the degree of heat stress, and are used by several agencies as the basis for heat stress prevention guidelines. (Wet-bulb temperature is essentially the lowest skin temperature attainable by evaporative cooling at a given ambient temperature and humidity.)
+
+A sustained wet-bulb temperature exceeding 35 °C is likely to be fatal even to fit and healthy people, unclothed in the shade next to a fan; at this temperature, environmental heat gain instead of loss occurs. New Scientist magazine: Thermogeddon: When the Earth gets too hot for human, Hazel Muir, 26 October 2010. Viewable online wet-bulb temperatures only very rarely exceeded 30 °C anywhere, although significant global warming may change this. 
+
+In cases of heat stress caused by physical exertion, hot environments or protective equipment, prevention or mitigation by frequent rest breaks, careful hydration and monitoring body temperature, should be attempted. However, in situations demanding prolonged exposure to a hot environment or wearing protective equipment, a personal cooling system is required as a matter of health and safety. A variety of active or passive, personal, cooling systems exist which can be categorized by their power sources and whether they are man or vehicle mounted.
+
+Due to the broad variety of operating conditions, a these devices must meet specific requirements, such as rate and duration of cooling, need for physical mobility and autonomy, access to power, and conformance with health and safety regulations. For example, active liquid systems operate on the basis of chilling water and circulating it through a garment that cools the skin surface area that it covers through conduction. This type of system has proven successful in certain Military, Law Enforcement and Industrial applications. Bomb disposal technicians wearing bomb suits to protect against an Improvised Explosive Device (IED) use a small, ice-based chiller unit strapped to their leg with a Liquid Circulating Garment, usually a vest, worn over their torso to maintain their core temperature at safe levels. By contrast, soldiers traveling in combat vehicles can face microclimate temperatures in excess of 65 °C and require a multiple user, vehicle-powered cooling system with rapid connection capabilities. Requirements for Hazmat teams, the medical community and workers in heavy industry will vary further.
+
+ Hyperthermia Prevention Cost per day 
+ Keep water on head (use commercial, wetted sweat bands) 0 
+ Keep cool water on head + 
+ Shade, or move to an existing shade + 
+ Dress for running a 26.2 mile marathon + 
+ Stay wet with sweat or keep the patient wet with water 0 
+ Air movement, by fans or by moving the person / patient + 
+ Air movement, by fans with water mist spray (used by some football teams) + 
+ Lower the air temperature, open windows, operate mechanical refrigeration, let the air flow over or thru ice. + 
+ Place the person / patient in water, …tubs, pools, rivers, lakes, etc. + 
+
+==Treatment==
+The underlying cause must be removed. Mild hyperthemia caused by exertion on a hot day may be adequately treated through self-care measures, such as increased water consumption and resting in a cool place. Hyperthermia that results from drug exposure requires prompt cessation of that drug, and occasionally the use of other drugs as counter measures. Fever-reducing drugs such as paracetamol and aspirin have value in treating hyperthermia. 
+
+When body temperature is significantly elevated, mechanical cooling methods are used to remove heat and to restore the body's ability to regulate its own temperatures. Passive cooling techniques, such as resting in a cool, shady area and removing clothing can be applied immediately. Active cooling methods, such as sponging the head, neck, and trunk with cool water, remove heat from the body and thereby speed the body's return to normal temperatures. Drinking water and turning a fan or dehumidifying air conditioning unit on the affected person may improve the effectiveness of the body's evaporative cooling mechanisms (sweating).
+
+Sitting in a bathtub of tepid or cool water (immersion method) can remove a significant amount of heat in a relatively short period of time. It is thought by some that immersion in very cold water is counterproductive, as it causes vasoconstriction in the skin and thereby prevents heat from escaping the body core. However one British analysis of various studies stated "supporters of other cooling methods suggest that iced water immersion may cause peripheral vasoconstriction and therefore slow cooling, although this has never been proven experimentally. Indeed, a recent study using normal volunteers has shown that cooling rates were fastest when the coldest water was used". Br J Sports Med 2005: review 17 papers on EHS from 1966-2003 In exertional heat stroke, studies have shown that although there are practical limitations, cool water immersion is the most effective cooling technique and the biggest predictor of outcome is degree and duration of hyperthermia. No superior cooling method has been found for nonexertional heat stroke. Bouchama A, Dehbi M. Cooling and hemodynamic management in heatstroke: practical recommendations. Crit Care. 11(3): R54. 2007 
+
+When the body temperature reaches about 40 °C, or if the affected person is unconscious or showing signs of confusion, hyperthermia is considered a medical emergency that requires treatment in a proper medical facility. In a hospital, more aggressive cooling measures are available, including intravenous hydration, gastric lavage with iced saline, and even hemodialysis to cool the blood. 
+
+==Epidemiology==
+The frequency of environmental hyperthermia can vary significantly from year to year depending on factors such as heat waves. Stastically, outdoor workers, including agricultural workers, are at increased risk of experiencing heat stress and the resulting negative health effects. Between 1992 and 2006, 68 crop workers died from heat stroke, representing a rate 20 times that of US civilian workers overall. 
+
+==See also==
+*Heat cramps
+*Ice sock
+*Rhabdomyolysis
+
+==References==
+
+==External links==
+*American Red Cross Tips to Beat the Heat
+* CDC Emergency Preparedness and Response: Extreme Heat
+* CDC - NIOSH Workplace Safety and Health Topics: Heat Stress
+* CDC - NIOSH Preventing Heat-related Illness or Death of Outdoor Workers
+* OSHA - NIOSH Infosheet: Protecting Workers from Heath Illness
+*Excessive Heat Events Guidebook, from the United States' Environmental Protection Agency (EPA)
+*Cold Water Immersion: The Gold Standard for Exertional Heatstroke Treatment
+*Physiological Responses to Exercise in the Heat—Chapter 3 of Nutritional Needs in Hot Environments by the Institute of Medicine of the U.S. National Academies (of Science) (N.B.: entire book is available in HTML format via this link)
+
+

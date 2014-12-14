@@ -1,0 +1,121 @@
+[[Telomerase reverse transcriptase]]
+
+Telomerase reverse transcriptase (abbreviated to TERT, or hTERT in humans) is a catalytic subunit of the enzyme telomerase, which, together with the telomerase RNA component (TERC), comprises the most important unit of the telomerase complex. 
+
+Telomerases are part of a distinct subgroup of RNA-dependent polymerases. Telomerase lengthens telomeres in DNA strands, thereby allowing senescent cells that would otherwise become postmitotic and undergo apoptosis to exceed the Hayflick limit and become potentially immortal, as is often the case with cancerous cells. To be specific, TERT is responsible for catalyzing the addition of nucleotides in a TTAGGG sequence to the ends of a chromosome’s telomeres. This addition of repetitive DNA sequences prevents degradation of the chromosomal ends following multiple rounds of replication. 
+
+hTERT absence (usually as a result of a chromosomal mutation) is associated with the disorder Cri du chat. 
+
+== Function ==
+
+Telomerase is a ribonucleoprotein polymerase that maintains telomere ends by addition of the telomere repeat TTAGGG. The enzyme consists of a protein component with reverse transcriptase activity, encoded by this gene, and an RNA component that serves as a template for the telomere repeat. Telomerase expression plays a role in cellular senescence, as it is normally repressed in postnatal somatic cells, resulting in progressive shortening of telomeres. Studies in mice suggest that telomerase also participates in chromosomal repair, since de novo synthesis of telomere repeats may occur at double-stranded breaks. Alternatively spliced variants encoding different isoforms of telomerase reverse transcriptase have been identified; the full-length sequence of some variants has not been determined. Alternative splicing at this locus is thought to be one mechanism of regulation of telomerase activity. 
+
+==Regulation of hTERT==
+
+The hTERT gene, located on chromosome 5, consists of 16 exons and 15 introns spanning 35 kb. The core promoter of hTERT includes 330 base pairs upstream of the translation start site (ATG), as well as 37 base pairs of exon 2 of the hTERT gene. The hTERT promoter is GC-rich and lacks TATA and CAAT boxes but contains many sites for several transcription factors giving indication of a high level of regulation by multiple factors in many cellular contexts. Transcription factors that can activate hTERT include many oncogenes (cancer-causing genes) such as c-Myc, Sp1, HIF-1, AP2, Estrogen receptor, and many more, while many cancer suppressing genes such as p53, WT1, and Menin produce factors that suppress hTERT activity . Another form of up-regulation is through demethylation of histones proximal to the promoter region, imitating the low density of trimethylated histones seen in embryonic stem cells. This allows for the recruitment of histone acetyltransferase (HAT) to unwind the sequence allowing for transcription of the gene. 
+
+Telomere deficiency is often linked to aging, cancers and the conditions dyskeratosis congenita (DKC) and Cri du chat. Meanwhile, over-expression of hTERT is often associated with cancers and tumor formation. The regulation of hTERT is extremely important to the maintenance of stem and cancer cells and can be used in multiple ways in the field of regenerative medicine.
+
+== Stem cells ==
+
+=== hTERT in stem cells ===
+
+hTERT is often up-regulated in cells that divide rapidly, including both embryonic stem cells and adult stem cells. It elongates the telomeres of stem cells, which, as a consequence, increases the lifespan of the stem cells by allowing for indefinite division without shortening of telomeres. Therefore, it is responsible for the self-renewal properties of stem cells. Telomerase are found specifically to target shorter telomere over longer telomere, due to various regulatory mechanisms inside the cells that reduce the affinity of telomerase to longer telomeres. This preferential affinity maintains a balance within the cell such that the telomeres are of sufficient length for their function and yet, at the same time, not contribute to aberrant telomere elongation 
+ 
+High expression of hTERT is also often used as a landmark for pluripotency and multipotency state of embryonic and adult stem cells. Over-expression of hTERT was found to immortalize certain cell types as well as impart different interesting properties to different stem cells. 
+
+=== Immortalization ===
+
+hTERT immortalizes various normal cells in culture, thereby endowing the self-renewal properties of stem cells to non-stem cell cultures. There are multiple ways in which immortalization of non-stem cells can be achieved, one of which being via the introduction of hTERT into the cells. Differentiated cells often express hTERC and TP1, a telomerase-associated protein that helps form the telomerase assembly, but does not express hTERT. Hence, hTERT acts as the limiting factor for telomerase activity in differentiated cells However, with hTERT over-expression, active telomerase can be formed in differentiated cells. This method has been used to immortalize prostate epithelial and stromal-derived cells, which are typically difficult to culture in vitro. hTERT introduction allows in vitro culture of these cells and available for possible future research. hTERT introduction have an advantage over the use of viral protein for immortalization in that it does not involve the inactivation of tumor suppressor gene, which might lead to cancer formation. 
+
+=== Enhancement of stem cell properties ===
+
+Over-expression of hTERT in stem cells changes the properties of the cells. hTERT over-expression increases the stem cell properties of human mesenchymal stem cells. The expression profile of mesenchymal stem cells converges towards embryonic stem cells, suggesting that these cells may have embryonic stem cell-like properties. However, it has been observed that mesenchymal stem cells undergo decreased levels of spontaneous differentiation. This suggests that the differentiation capacity of adult stem cells may be dependent on telomerase activities. Therefore, over-expression of hTERT, which is akin to increasing telomerase activities, may create adult stem cells with a larger capacity for differentiation and hence, a larger capacity for treatment.
+ 
+Increasing the telomerase activities in stem cells gives different effects depending on the intrinsic nature of the different types of stem cells. Hence, not all stem cells will have increased stem-cell properties. For example, research has shown that telomerase can be upregulated in CD34+ Umbilical Cord Blood Cells through hTERT over-expression. The survival of these stem cells was enhanced, although there was no increase in the amount of population doubling. 
+
+== Clinical signficance ==
+
+Deregulation of telomerase expression in somatic cells may be involved in oncogenesis. 
+
+Genome-wide association studies suggest TERT is a susceptibility gene for development of many cancers, including lung cancer. 
+
+=== Role in cancer ===
+
+Telomerase activity is associated with the number of times a cell can divide playing an important role in the immortality of cell lines, such as cancer cells. The enzyme complex acts through the addition of telomeric repeats to the ends of chromosomal DNA. This generates immortal cancer cells. In fact, there is a strong correlation between telomerase activity and malignant tumors or cancerous cell lines. Not all types of human cancer have increased telomerase activity. 90% of cancers are characterized by increased telomerase activity. Lung cancer is the most well characterized type of cancer associated with telomerase. There is a lack of substantial telomerase activity in some cell types such as primary human fibroblasts, which become senescent after about 30–50 population doublings. There is also evidence that telomerase activity is increased in tissues, such as germ cell lines, that are self-renewing. Normal somatic cells, on the other hand, do not have detectable telomerase activity. Since the catalytic component of telomerase is its reverse transcriptase, hTERT, and the RNA component hTERC, hTERT is an important gene to investigate in terms of cancer and tumorigenesis.
+ 
+The hTERT gene has been examined for mutations and their association with the risk of contracting cancer. Over two hundred combinations of hTERT polymorphisms and cancer development have been found. There were several different types of cancer involved, and the strength of the correlation between the polymorphism and developing cancer varied from weak to strong. The regulation of hTERT has also been researched to determine possible mechanisms of telomerase activation in cancer cells. Glycogen synthase kinase 3 (GSK3) seems to be over-expressed in most cancer cells. GSK3 is involved in promoter activation through controlling a network of transcription factors. Leptin is also involved in increasing mRNA expression of hTERT via signal transducer and activation of transcription 3 (STAT3), proposing a mechanism for increased cancer incidence in obese individuals. There are several other regulatory mechanisms that are altered or aberrant in cancer cells, including the Ras signaling pathway and other transcriptional regulators. Phosphorylation is also a key process of post-transcriptional modification that regulates mRNA expression and cellular localization. Clearly, there are many regulatory mechanisms of activation and repression of hTERT and telomerase activity in the cell, providing methods of immortalization in cancer cells.
+
+=== Therapeutic potential ===
+
+If increased telomerase activity is associated with malignancy, then possible cancer treatments could involve inhibiting its catalytic component, hTERT, to reduce the enzyme’s activity and cause cell death. Since normal somatic cells do not express TERT, telomerase inhibition in cancer cells can cause senescence and apoptosis without affecting normal human cells. It has been found that dominant-negative mutants of hTERT could reduce telomerase activity within the cell. This led to apoptosis and cell death in cells with short telomere lengths, a promising result for cancer treatment. Although cells with long telomeres did not experience apoptosis, they developed mortal characteristics and underwent telomere shortening. Telomerase activity has also been found to be inhibited by phytochemicals such as isoprenoids, genistein, curcumin, etc. These chemicals play a role in inhibiting the mTOR pathway via down-regulation of phosphorylation. The mTOR pathway is very important in regulating protein synthesis and it interacts with telomerase to increase its expression. Several other chemicals have been found to inhibit telomerase activity and are currently being tested as potential clinical treatment options such as nucleoside analogues, retinoic acid derivatives, quinolone antibiotics, and catechin derivatives. There are also other molecular genetic-based methods of inhibiting telomerase, such as antisense therapy and RNA interference. 
+
+hTERT peptide fragments have been shown to induce a cytotoxic T-cell reaction against telomerase-positive tumor cells in vitro. The response is mediated by dendritic cells, which can display hTERT-associated antigens on MHC class I and II receptors following adenoviral transduction of an hTERT plasmid into dendritic cells, which mediate T-cell responses. Dendritic cells are then able to present telomerase-associated antigens even with undetectable amounts of telomerase activity, as long as the hTERT plasmid is present. Immunotherapy against telomerase-positive tumor cells is a promising field in cancer research that has been shown to be effective in in vitro and mouse model studies. 
+
+== Medical implications ==
+
+=== iPS cells ===
+
+Induced pluripotent stem cells (iPS cells) are somatic cells that have been reprogrammed into a stem cell-like state by the introduction of four factors (Oct3/4, Sox2, Klf4, and c-Myc). iPS cells have the ability to self-renew indefinitely and contribute to all three germ layers when implanted into a blastocyst or use in teratoma formation. 
+
+Early development of iPS cell lines were not efficient, as they yielded up to 5% of somatic cells successfully reprogrammed into a stem cell-like state. By using immortalized somatic cells (differentiated cells with hTERT upregulated), iPS cell reprogramming was increased by twenty fold compared to reprogramming using mortal cells. 
+
+The reactivation of hTERT, and subsequently telomerase, in human iPS cells has been used as an indication of pluripotency and reprogramming to an ES (embryonic stem) cell-like state when using mortal cells. Reprogrammed cells that do not express sufficient hTERT levels enter a quiescent state following a number of replications depending on the length of the telomeres while maintaining stem cell-like abilities to differentiate. Reactivation of TERT activity can be achieved using only three of the four reprogramming factors described by Takahashi and Yamanaka: To be specific, Oct3/4, Sox2 and Klf4 are essential, whereas c-Myc is not. However, this study was done with cells containing endogenous levels of c-Myc that may have been sufficient for reprogramming.
+
+Telomere length in healthy adult cells elongates and acquires epigenetic characteristics similar to those of ES cells when reprogrammed as iPS cells. Some epigenetic characteristics of ES cells include a low density of tri-methylated histones H3K9 and H4K20 at telomeres, as well as an increased detectable amount of TERT transcripts and protein activity. Without the restoration of TERT and associated telomerase proteins, the efficiency of iPS cells would be drastically reduced. iPS cells would also lose the ability to self-renew and would eventually senesce. 
+
+DKC (dyskeratosis congenita) patients are all characterized by the defective maintenance of telomeres leading to problems with stem cell regeneration. iPS cells derived from DKC patients with a heterozygous mutation on the TERT gene display a 50% reduction in telomerase activity compared to wild type iPS cells. Conversely, mutations on the TERC gene (RNA portion of telomerase complex) can be overcome by up-regulation due to reprogramming as long as the hTERT gene is intact and functional. Lastly, iPS cells generated with DKC cells with a mutated dyskerin (DKC1) gene cannot assemble the hTERT/RNA complex and thus do not have functional telomerase. 
+
+The functionality and efficiency of a reprogrammed iPS cell is determined by the ability of the cell to re-activate the telomerase complex and elongate its telomeres allowing for self-renewal. hTERT is a major limiting component of the telomerase complex and a deficiency of intact hTERT impedes the activity of telomerase, making iPS cells an unsuitable pathway towards therapy for telomere-deficient disorders. 
+
+=== Androgen therapy ===
+
+Although the mechanism is not fully understood, exposure of TERT-deficient hematopoietic cells to androgens resulted in an increased level of TERT activity. Cells with a heterozygous TERT mutation, like those in DKC (dyskeratosis congenita) patients, which normally exhibit low baseline levels of TERT, could be restored to normal levels comparable to control cells. TERT mRNA levels are also increased with exposure to androgens. Androgen therapy may become a suitable method for treating circulatory ailments such as bone marrow degeneration and low blood count linked with DKC and other telomerase-deficient conditions. 
+
+=== Aging ===
+
+As organisms age and cells proliferate, telomeres shorten with each round of replication. Cells restricted to a specific lineage are capable of division only a set number of times, set by the length of telomeres, before they senesce. Depletion and uncapping of telomeres has been linked to organ degeneration, failure, and fibrosis due to progenitors' becoming quiescent and unable to differentiate. Using an in vivo TERT deficient mouse model, reactivation of the TERT gene in quiescent populations in multiple organs reactivated telomerase and restored the cells’ abilities to differentiate. Reactivation of TERT down-regulates DNA damage signals associated with cellular mitotic checkpoints allowing for proliferation and elimination of a degenerative phenotype. In another study, introducing the TERT gene into healthy one-year-old mice using an engineered adeno-associated virus led to a 24% increase in lifespan, without any increase in cancer. 
+
+=== Gene therapy ===
+The hTERT gene has become a main focus for gene therapy involving cancer due to its expression in tumor cells but not somatic adult cells. One method is to prevent the translation of hTERT mRNA through the introduction of siRNA, which are complimentary sequences that bind to the mRNA preventing processing of the gene post transcription. This method does not completely eliminate telomerase activity, but it does lower telomerase activity and levels of hTERT mRNA seen in the cytoplasm. Higher success rates were seen in vitro when combining the use of antisense hTERT sequences with the introduction of a tumor-suppressing plasmid by adenovirus infection such as PTEN. 
+
+Another method that has been studied is manipulating the hTERT promoter to induce apoptosis in tumor cells. Plasmid DNA sequences can be manufactured using the hTERT promoter followed by genes encoding for specific proteins. The protein can be a toxin, an apoptotic factor, or a viral protein. Toxins such as diphtheria toxin interfere with cellular processes and eventually induce apoptosis. Apoptotic death factors like FADD (Fas-Associated protein with Death Domain) can be used to force cells expressing hTERT to undergo apoptosis. Viral proteins like viral thymidine kinase can be used for specific targeting of a drug. By introducing a prodrug only activated by the viral enzyme, specific targeting of cells expressing hTERT can be achieved. By using the hTERT promoter, only cells expressing hTERT will be affected and allows for specific targeting of tumor cells. 
+
+Aside from cancer therapies, the hTERT gene has been used to promote the growth of hair follicles. 
+
+A schematic animation for gene therapy is shown as follows.
+
+Final gif.gif|center|HTERT Final gif|]
+
+== Interactions ==
+
+Telomerase reverse transcriptase has been shown to interact with:
+* HSP90AA1, 
+* Ku70, 
+* Ku80, 
+* MCRS1, 
+* Nucleolin, 
+* PINX1, and
+* YWHAQ. 
+
+==See also==
+* telomerase
+* reverse transcriptase
+
+==References==
+
+==Further reading==
+
+*
+*
+*
+*
+*
+*
+
+==External links==
+* GeneReviews/NCBI/NIH/UW entry on Dyskeratosis Congenita
+* GeneReviews/NCBI/NIH/UW entry on Pulmonary Fibrosis, Familial
+* 
+
+

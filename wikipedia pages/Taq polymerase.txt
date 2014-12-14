@@ -1,0 +1,38 @@
+[[Taq polymerase]]
+
+Taq polymerase is a thermostable DNA polymerase named after the thermophilic bacterium Thermus aquaticus from which it was originally isolated by Thomas D. Brock in 1965. It is often abbreviated to "Taq Pol" (or simply "Taq"), and is frequently used in polymerase chain reaction (PCR), a method for greatly amplifying short segments of DNA.
+
+T. aquaticus is a bacterium that lives in hot springs and hydrothermal vents, and Taq polymerase was identified as an enzyme able to withstand the protein-denaturing conditions (high temperature) required during PCR. Therefore it replaced the DNA polymerase from E. coli originally used in PCR. Taqs optimum temperature for activity is 75–80°C, with a half-life of greater than 2 hours at 92.5°C, 40 minutes at 95°C and 9 minutes at 97.5°C, and can replicate a 1000 base pair strand of DNA in less than 10 seconds at 72°C. 
+
+One of Taqs drawbacks is its lack of 3' to 5' exonuclease proofreading activity resulting in relatively low replication fidelity. Originally its error rate was measured at about 1 in 9,000 nucleotides. The remaining two domains act in coordination, via coupled domain motion. Some thermostable DNA polymerases have been isolated from other thermophilic bacteria and archaea, such as Pfu DNA polymerase, possessing a proofreading activity, and are being used instead of (or in combination with) Taq for high-fidelity amplification. 
+
+Taq makes DNA products that have A (adenine) overhangs at their 3' ends. This may be useful in TA cloning, whereby a cloning vector (such as a plasmid) that has a T (thymine) 3' overhang is used, which complements with the A overhang of the PCR product, thus enabling ligation of the PCR product into the plasmid vector.
+
+==Taq polymerase in PCR==
+In the early 1980s, Kary Mullis was working at Cetus Corporation on the application of synthetic DNAs to biotechnology. He was familiar with the use of DNA oligonucleotides as probes for binding to target DNA strands, as well as their use as primers for DNA sequencing and cDNA synthesis. In 1983, he began using two primers, one to hybridize to each strand of a target DNA, and adding DNA polymerase to the reaction. This led to exponential DNA replication, greatly amplifying the amounts of DNA between the primers. 
+
+However, after each round of replication the mixture needs to be heated above 90°C to denature the newly formed DNA, allowing the strands to separate and act as templates in the next round of amplification. This heating step also inactivates the DNA polymerase that was in use before the discovery of Taq polymerase, the Klenow fragment of the DNA Polymerase I from E. coli. 
+
+Use of the thermostable Taq enables running the PCR at high temperature (~60°C and above), which facilitates high specificity of the primers and reduces the production of unspecific products, such as primer dimer. However, use of the thermostable polymerase eliminates the need for having to add new enzyme to the PCR reaction during the thermocycling process. A single closed tube in a relatively simple machine can be used to carry out the entire process. Thus, the use of Taq polymerase was the key idea that made PCR applicable to a large variety of molecular biology problems concerning DNA analysis. 
+
+==Patent issues==
+Hoffmann-La Roche eventually bought the PCR and Taq patents from Cetus for $330 million, from which it may have received up to $2 billion in royalties. Detailed history of Cetus Corporation and the commercial aspects of PCR. In 1989, Science Magazine named Taq polymerase its first "Molecule of the Year". Kary Mullis received the Nobel Prize in 1993, the only one awarded for research performed at a biotechnology company. By the early 1990s, the PCR technique with Taq polymerase was being used in many areas, including basic molecular biology research, clinical testing, and forensics. It also began to find a pressing application in direct detection of the HIV in AIDS. 
+
+In December 1999, U.S. District Judge Vaughn Walker ruled that the 1990 patent involving Taq polymerase was issued, in part, on misleading information and false claims by scientists with Cetus Corporation. The ruling supported a challenge by Promega Corporation against Hoffman-La Roche, which purchased the Taq patents in 1991. Judge Walker cited previous discoveries by other laboratories, including the laboratory of Professor John Trela in the University of Cincinnati department of biological sciences, as the basis for the ruling. Curran, Chris, Bio-Medicine, Dec. 7, 1999 
+
+==Protein domain==
+
+===Function===
+In molecular biology, this protein domain, Taq polymerase exonuclease, refers to a domain found in prokaryotic Taq DNA polymerase (thermostable).
+
+===Structure===
+This domain where it assumes a ribonuclease H-like motif. The domain confers 5'-3' exonuclease activity to the polymerase. 
+
+==See also==
+*DNA polymerase I
+*DNA replication
+*DNA syrc
+
+== References ==
+
+

@@ -1,0 +1,92 @@
+[[Interactive proof system]]
+
+In computational complexity theory, an interactive proof system is an abstract machine that models computation as the exchange of messages between two parties. The parties, the verifier and the prover, interact by exchanging messages in order to ascertain whether a given string belongs to a language or not. The prover is all-powerful and possesses unlimited computational resources, but cannot be trusted, while the verifier has bounded computation power. Messages are sent between the verifier and prover until the verifier has an answer to the problem and has "convinced" itself that it is correct.
+
+All interactive proof systems have two requirements:
+* Completeness: if the statement is true, the honest verifier (that is, one following the protocol properly) will be convinced of this fact by an honest prover.
+* Soundness: if the statement is false, no prover, even if it doesn't follow the protocol, can convince the honest verifier that it is true, except with some small probability.
+
+It is assumed that the verifier is always honest.
+
+The specific nature of the system, and so the complexity class of languages it can recognize, depends on what sort of bounds are put on the verifier, as well as what abilities it is given &mdash; for example, most interactive proof systems depend critically on the verifier's ability to make random choices. It also depends on the nature of the messages exchanged &mdash; how many and what they can contain. Interactive proof systems have been found to have some important implications for traditional complexity classes defined using only one machine. The main complexity classes describing interactive proof systems are AM and IP.
+
+== NP ==
+
+The complexity class NP may be viewed as a very simple proof system. In this system, the verifier is a deterministic, polynomial-time machine (a P machine). The protocol is:
+* The prover looks at the input and computes the solution using its unlimited power and returns a polynomial-size proof certificate.
+* The verifier verifies that the certificate is valid in deterministic polynomial time. If it is valid, it accepts; otherwise, it rejects.
+
+In the case where a valid proof certificate exists, the prover is always able to make the verifier accept by giving it that certificate. In the case where there is no valid proof certificate, however, the input is not in the language, and no prover, however malicious it is, can convince the verifier otherwise, because any proof certificate will be rejected.
+
+== Arthur–Merlin and Merlin–Arthur protocols ==
+
+Although NP may be viewed as using interaction, it wasn't until 1985 that the concept of computation through interaction was conceived by two independent groups of researchers. One approach, by László Babai, who published "Trading group theory for randomness", László Babai. Trading group theory for randomness. Proceedings of the Seventeenth Annual Symposium on the Theory of Computing, ACM. 1985. defined the Arthur–Merlin (AM) class hierarchy. In this presentation, Arthur (the verifier) is a probabilistic, polynomial-time machine, while Merlin (the prover) has unbounded resources.
+
+The class MA in particular is a simple generalization of the NP interaction above in which the verifier is probabilistic instead of deterministic. Also, instead of requiring that the verifier always accept valid certificates and reject invalid certificates, it is more lenient:
+* Completeness: if the string is in the language, the prover must be able to give a certificate such that the verifier will accept with probability at least 2/3 (depending on the verifier's random choices).
+* Soundness: if the string is not in the language, no prover, however malicious, will be able to convince the verifier to accept the string with probability exceeding 1/3.
+
+This machine is potentially more powerful than an ordinary NP interaction protocol, and the certificates are no less practical to verify, since BPP algorithms are considered as abstracting practical computation (see BPP).
+
+== Public coins versus private coins ==
+
+In the same conference where Babai defined his proof system for MA, Shafi Goldwasser, Silvio Micali and Charles Rackoff Extended abstract published a paper defining the interactive proof system IP. This has the same machines as the MA protocol, except that f(n) rounds are allowed for an input of size n. In each round, the verifier performs computation and passes a message to the prover, and the prover performs computation and passes information back to the verifier. At the end the verifier must make its decision. For example, in an IP protocol, the sequence would be VPVPVPV, where V is a verifier turn and P is a prover turn.
+
+In Arthur–Merlin protocols, Babai defined a similar class AM which allowed f(n) rounds, but he put one extra condition on the machine: the verifier must show the prover all the random bits it uses in its computation. The result is that the verifier cannot "hide" anything from the prover, because the prover is powerful enough to simulate everything the verifier does if it knows what random bits it used. This is called a public coin protocol, because the random bits ("coin flips") are visible to both machines. The IP approach is called a private coin protocol by contrast.
+
+The essential problem with public coins is that if the prover wishes to maliciously convince the verifier to accept a string which is not in the language, it seems like the verifier might be able to thwart its plans if it can hide its internal state from it. This was a primary motivation in defining the IP proof systems.
+
+In 1986, Goldwasser and Sipser Shafi Goldwasser and Michael Sipser. Private coins versus public coins in interactive proof systems. Proceedings of ACM STOC'86, pp. 58–68. 1986. showed, perhaps surprisingly, that the verifier's ability to hide coin flips from the prover does it little good after all, in that an Arthur–Merlin public coin protocol with only two more rounds can recognize all the same languages. The result is that public-coin and private-coin protocols are roughly equivalent. In fact, as Babai shows in 1988, AM=AM for all constant k, so the IP have no advantage over AM. László Babai and Shlomo Moran. Arthur–Merlin games: a randomized proof system, and a hierarchy of complexity classes. Journal of Computer and System Sciences, 36: p.254–276. 1988. 
+
+To demonstrate the power of these classes, consider the graph isomorphism problem, the problem of determining whether it is possible to permute the vertices of one graph so that it is identical to another graph. This problem is in NP, since the proof certificate is the permutation which makes the graphs equal. It turns out that the 
+complement of the graph isomorphism problem, a co-NP problem not known to be in NP, has an AM algorithm and the best way to see it is via a private coins algorithm. O. Goldreich, S. Micali, A. Wigderson. Proofs that yield nothing but their validity. Journal of the ACM, volume 38, issue 3, p.690–728. July 1991. 
+
+== IP ==
+
+Private coins may not be helpful, but more rounds of interaction are helpful. If we allow the probabilistic verifier machine and the all-powerful prover to interact for a polynomial number of rounds, we get the class of problems called IP.
+In 1992, Adi Shamir revealed in one of the central results of complexity theory that IP equals PSPACE, the class of problems solvable by an ordinary deterministic Turing machine in polynomial space. Adi Shamir. IP = PSPACE. Journal of the ACM, volume 39, issue 4, p.869–877. October 1992. 
+
+== QIP ==
+
+If we allow the elements of the system to use quantum computation, the system is called a quantum interactive proof system, and the corresponding complexity class is called QIP. A series of recent results culminating in a paper published in 2010 is believed to have demonstrated that QIP = PSPACE. 
+
+== Zero knowledge ==
+
+Not only can interactive proof systems solve problems not believed to be in NP, but under assumptions about the existence of one-way functions, a prover can convince the verifier of the solution without ever giving the verifier information about the solution. This is important when the verifier cannot be trusted with the full solution. At first it seems impossible that the verifier could be convinced that there is a solution when the verifier has not seen a certificate, but such proofs, known as zero-knowledge proofs are in fact believed to exist for all problems in NP and are valuable in cryptography. Zero-knowledge proofs were first mentioned in the original 1985 paper on IP by Goldwasser, Micali and Rackoff, but the extent of their power was shown by Oded Goldreich, Silvio Micali and Avi Wigderson. 
+
+== MIP ==
+One goal of IP's designers was to create the most powerful possible interactive proof system, and at first it seems like it cannot be made more powerful without making the verifier more powerful and so impractical. Goldwasser et al. overcame this in their 1988 "Multi prover interactive proofs: How to remove intractability assumptions", which defines a variant of IP called MIP in which there are two independent provers. M. Ben-or, Shafi Goldwasser, J. Kilian, and A. Wigderson. Multi prover interactive proofs: How to remove intractability assumptions. Proceedings of the 20th ACM Symposium on Theory of Computing, pp. 113–121. 1988. The two provers cannot communicate once the verifier has begun sending messages to them. Just as it's easier to tell if a criminal is lying if he and his partner are interrogated in separate rooms, it's considerably easier to detect a malicious prover trying to trick the verifier into accepting a string not in the language if there is another prover it can double-check with.
+
+In fact, this is so helpful that Babai, Fortnow, and Lund were able to show that MIP = NEXPTIME, the class of all problems solvable by a nondeterministic machine in exponential time, a very large class. László Babai, L. Fortnow, and C. Lund. Non-deterministic exponential time has two-prover interactive protocols. Computational Complexity, volume 1, pp. 3–40. 1991. NEXPTIME contains PSPACE, and is believed to strictly contain PSPACE. Adding a constant number of additional provers beyond two does not enable recognition of any more languages. This result paved the way for the celebrated PCP theorem, which can be considered to be a "scaled-down" version of this theorem.
+
+MIP also has the helpful property that zero-knowledge proofs for every language in NP can be described without the assumption of one-way functions that IP must make. This has bearing on the design of provably unbreakable cryptographic algorithms. Moreover, a MIP protocol can recognize all languages in IP in only a constant number of rounds, and if a third prover is added, it can recognize all languages in NEXPTIME in a constant number of rounds, showing again its power over IP.
+
+== PCP ==
+
+While the designers of IP considered generalizations of Babai's interactive proof systems, others considered restrictions. A very useful interactive proof system is PCP(f(n), g(n)), which is a restriction of MA where Arthur can only use f(n) random bits and can only examine g(n) bits of the proof certificate sent by Merlin (essentially using random access).
+
+There are a number of easy-to-prove results about various PCP classes. PCP(0,poly), the class of polynomial-time machines with no randomness but access to a certificate, is just NP. PCP(poly,0), the class of polynomial-time machines with access to polynomially many random bits is co-RP. Arora and Safra's first major result was that PCP(log, log) = NP; put another way, if the verifier in the NP protocol is constrained to choose only O(log n) bits of the proof certificate to look at, this won't make any difference as long as it has O(log n) random bits to use. Sanjeev Arora and Shmuel Safra. Probabilistic Checking of Proofs: A New Characterization of NP. Journal of the ACM, volume 45, issue 1, pp. 70–122. January 1998. 
+
+Furthermore, the PCP theorem asserts that the number of proof accesses can be brought all the way down to a constant. That is, NP = PCP(log, O(1)). Sanjeev Arora, C. Lund, R. Motwani, M. Sudan, and M. Szegedy. Proof Verification and the Hardness of Approximation Problems. Proceedings of the 33rd IEEE Symposium on Foundations of Computer Science, pp. 13–22. 1992. They used this valuable characterization of NP to prove that approximation algorithms do not exist for the optimization versions of certain NP-complete problems unless P = NP. Such problems are now studied in the field known as hardness of approximation.
+
+== See also ==
+* Oracle (computer science)
+
+== References ==
+
+== Textbooks ==
+* Arora, Sanjeev; Barak, Boaz, "Complexity Theory: A Modern Approach", Cambridge University Press, March 2009.
+* Section 10.4: Interactive Proof Systems, pp. 354&ndash;366.
+* Section 19.2: Games against nature and interactive protocols, pp. 469&ndash;480.
+
+== External links ==
+* Dexter Kozen. Interactive Proofs. CS682 Spring 2004 lecture notes. Department of Computer Science, Cornell University.
+* Complexity Zoo: 
+** MA, MA', MAEXP, MAE
+** AM, AMEXP, AM intersect co-AM, AM[polylog], coAM, BP•NP
+** QMA, QMA+, QMA(2), QMAlog, QMAM
+** IP, MIP, IPP, QIP, QIP(2), compIP, frIP
+** PCP(r(n),q(n))
+* Larry Gonick. "Proof Positive?". A comic strip about interactive proof systems.
+
+

@@ -1,0 +1,114 @@
+[[Vascular endothelial growth factor]]
+
+Vascular endothelial growth factor (VEGF) is a signal protein produced by cells that stimulates vasculogenesis and angiogenesis. It is part of the system that restores the oxygen supply to tissues when blood circulation is inadequate.
+Serum concentration of VEGF is high in bronchial asthma and diabetes mellitus. 
+VEGF's normal function is to create new blood vessels during embryonic development, new blood vessels after injury, muscle following exercise, and new vessels (collateral circulation) to bypass blocked vessels.
+
+When VEGF is overexpressed, it can contribute to disease. Solid cancers cannot grow beyond a limited size without an adequate blood supply; cancers that can express VEGF are able to grow and metastasize. Overexpression of VEGF can cause vascular disease in the retina of the eye and other parts of the body. Drugs such as bevacizumab and Ranibizumab can inhibit VEGF and control or slow those diseases.
+
+VEGF is a sub-family of growth factors, to be specific, the platelet-derived growth factor family of cystine-knot growth factors. They are important signaling proteins involved in both vasculogenesis (the de novo formation of the embryonic circulatory system) and angiogenesis (the growth of blood vessels from pre-existing vasculature).
+
+==Classification==
+
+The most important member is VEGF-A. Other members are Placenta growth factor (PGF), VEGF-B, VEGF-C and VEGF-D. The latter ones were discovered later than VEGF-A, and, before their discovery, VEGF-A was called just VEGF.
+
+Crystal structure of Vammin, a VEGF-F from a snake venom
+
+A number of VEGF-related proteins encoded by viruses (VEGF-E) and in the venom of some snakes (VEGF-F) have also been discovered.
+
++Comparison 
+ Type Function 
+ VEGF-A * Angiogenesis ** ↑ Migration of endothelial cells ** ↑ mitosis of endothelial cells ** ↑ Matrix metalloproteinase activity ** ↑ αvβ3 activity ** creation of blood vessel lumen ** creates fenestrations *Chemotactic for macrophages and granulocytes * Vasodilation (indirectly by NO release) 
+ VEGF-B Embryonic angiogenesis (myocardial tissue, to be specific) 
+ VEGF-C Lymphangiogenesis 
+ VEGF-D Needed for the development of lymphatic vasculature surrounding lung bronchioles 
+ PlGF Important for Vasculogenesis, Also needed for angiogenesis during ischemia, inflammation, wound healing, and cancer. 
+ 
+
+Activity of VEGF-A, as its name implies, has been studied mostly on cells of the vascular endothelium, although it does have effects on a number of other cell types (e.g., stimulation monocyte/macrophage migration, neurons, cancer cells, kidney epithelial cells). In vitro, VEGF-A has been shown to stimulate endothelial cell mitogenesis and cell migration. VEGF-A is also a vasodilator and increases microvascular permeability and was originally referred to as vascular permeability factor.
+
+==Alternative classification==
+Schematic representation of The different isoforms of human VEGF
+The broad term 'VEGF' covers a number of proteins from two families, that result from alternate splicing of mRNA from a single, 8-exon, VEGF gene. The two different families are referred to according to their terminal exon (exon 8) splice site - the proximal splice site (denoted VEGFxxx) or distal splice site (VEGFxxxb). In addition, alternate splicing of exon 6 and 7 alters their heparin-binding affinity, and amino acid number (in humans: VEGF121, VEGF121b, VEGF145, VEGF165, VEGF165b, VEGF189, VEGF206; the rodent orthologs of these proteins contain one fewer amino acid). These domains have important functional consequences for the VEGF splice variants, as the terminal (exon 8) splice site determines whether the proteins are pro-angiogenic (proximal splice site, expressed during angiogenesis) or anti-angiogenic (distal splice site, expressed in normal tissues). In addition, inclusion or exclusion of exons 6 and 7 mediate interactions with heparan sulfate proteoglycans (HSPGs) and neuropilin co-receptors on the cell surface, enhancing their ability to bind and activate the VEGF receptors (VEGFRs). A VEGF-A splice variant defective for heparan sulfate and neuropilin-1 binding shows attenuated signaling through VEGFR-2 Recently, VEGF-C has been shown to be an important inducer of neurogenesis in the murine subventricular zone, without exerting angiogenic effects. Shin, Y. J., J. S. Choi, et al. (2010). "Induction of vascular endothelial growth factor receptor-3 mRNA in glial cells following focal cerebral ischemia in rats." J Neuroimmunol 229(1-2): 81-90. 
+
+receptors.png|thumb|left|200px|Types of VEGF and their VEGF receptors. [http://www.cancerpublications.com/newsletter/colorectal/AIO/v2n3/Article2/a2f1.gif cancerpublications.com. ]]
+
+==Mechanism==
+All members of the VEGF family stimulate cellular responses by binding to tyrosine kinase receptors (the VEGFRs) on the cell surface, causing them to dimerize and become activated through transphosphorylation, although to different sites, times, and extents. The VEGF receptors have an extracellular portion consisting of 7 immunoglobulin-like domains, a single transmembrane spanning region, and an intracellular portion containing a split tyrosine-kinase domain. VEGF-A binds to VEGFR-1 (Flt-1) and VEGFR-2 (KDR/Flk-1). VEGFR-2 appears to mediate almost all of the known cellular responses to VEGF. The function of VEGFR-1 is less well-defined, although it is thought to modulate VEGFR-2 signaling. Another function of VEGFR-1 may be to act as a dummy/decoy receptor, sequestering VEGF from VEGFR-2 binding (this appears to be particularly important during vasculogenesis in the embryo). VEGF-C and VEGF-D, but not VEGF-A, are ligands for a third receptor (VEGFR-3), which mediates lymphangiogenesis. The receptor (VEGFR3)is the site of binding of main ligands (VEGFC and VEGFD), which mediates perpetual action and function of ligands on
+target cells. Vascular endothelial growth factor-C can stimulate lymphangiogenesis (via VEGFR3) and angiogenesis via VEGFR2. Vascular endothelial growth factor-R3 has been detected in lymphatic endothelial cells in CL of many species, cattle, buffalo and primate. Ali, Ibne et al. (2013)"Expression and localization of locally produced growth factors regulating lymphangiogenesis during different stages of the estrous cycle in corpus luteum of buffalo" (Bubalus bubalis). Theriogenology http://www.sciencedirect.com/science/article/pii/S0093691X13004263 
+
+==Production==
+VEGFxxx production can be induced in cells that are not receiving enough oxygen. When a cell is deficient in oxygen, it produces HIF, hypoxia-inducible factor, a transcription factor. HIF stimulates the release of VEGFxxx, among other functions (including modulation of erythropoeisis). Circulating VEGFxxx then binds to VEGF Receptors on endothelial cells, triggering a Tyrosine Kinase Pathway leading to angiogenesis. The expression of angiopoietin-2 in the absence of VEGF leads to endothelial cell death and vascular regression. 
+
+Conversely, a German study done in vivo found that VEGF concentrations actually decreased after a 25% reduction in oxygen intake for 30 minutes. 
+
+HIF1 alpha and HIF1 beta are constantly being produced but HIF1 alpha is highly O2 labile, so, in aerobic conditions, it is degraded. When the cell becomes hypoxic, HIF1 alpha persists and the HIF1alpha/beta complex stimulates VEGF release.
+
+==Clinical significance==
+
+===VEGF in disease===
+VEGFxxx has been implicated with poor prognosis in breast cancer. Numerous studies show a decreased overall survival and disease-free survival in those tumors overexpressing VEGF. The overexpression of VEGFxxx may be an early step in the process of metastasis, a step that is involved in the "angiogenic" switch. Although VEGFxxx has been correlated with poor survival, its exact mechanism of action in the progression of tumors remains unclear.
+
+VEGFxxx is also released in rheumatoid arthritis in response to TNF-α, increasing endothelial permeability and swelling and also stimulating angiogenesis (formation of capillaries).
+
+VEGFxxx is also important in diabetic retinopathy (DR). The microcirculatory problems in the retina of people with diabetes can cause retinal ischaemia, which results in the release of VEGFxxx, and a switch in the balance of pro-angiogenic VEGFxxx isoforms over the normally expressed VEGFxxxb isoforms. VEGFxxx may then cause the creation of new blood vessels in the retina and elsewhere in the eye, heralding changes that may threaten the sight.
+
+VEGFxxx plays a role in the disease pathology of the wet form age-related macular degeneration (AMD), which is the leading cause of blindness for the elderly of the industrialized world. The vascular pathology of AMD shares certain similarities with diabetic retinopathy, although the cause of disease and the typical source of neovascularization differs between the two diseases.
+
+VEGF-D serum levels are significantly elevated in patients with angiosarcoma. 
+
+Once released, VEGFxxx may elicit several responses. It may cause a cell to survive, move, or further differentiate. Hence, VEGF is a potential target for the treatment of cancer. The first anti-VEGF drug, a monoclonal antibody named bevacizumab, was approved in 2004. Approximately 10-15% of patients benefit from bevacizumab therapy; however, biomarkers for bevacizumab efficacy are not yet known.
+
+Current studies show that VEGFs are not the only promoters of angiogenesis. In particular, FGF2 and HGF are potent angiogenic factors.
+
+Patients suffering from pulmonary emphysema have been found to have decreased levels of VEGF in the pulmonary arteries.
+
+In the kidney, increased expression of VEGFxxx in glomeruli directly causes the glomerular hypertrophy that is associated with proteinuria. 
+
+VEGF alterations can be predictive of early-onset pre-eclampsia. 
+
+=== Anti-VEGF therapies ===
+Anti-VEGF therapies are important in the treatment of certain cancers and in age-related macular degeneration. They can involve monoclonal antibodies such as bevacizumab (Avastin), antibody derivatives such as ranibizumab (Lucentis), or orally-available small molecules that inhibit the tyrosine kinases stimulated by VEGF: lapatinib (Tykerb), sunitinib (Sutent), sorafenib (Nexavar), axitinib, and pazopanib. (Some of these therapies target VEGF receptors rather than the VEGFs.) THC and Cannabidiol both inhibit VEGF and slow Glioma growth.
+
+Both antibody-based compounds are commercialized. The first three orally available compounds are commercialized, as well. The latter two (axitinib and pazopanib) are in clinical trials, the results of which presented (June 7) at the American Society of Clinical Oncology meeting. 
+
+Bergers and Hanahan concluded in 2008 that anti-VEGF drugs can show therapeutic efficacy in mouse models of cancer and in an increasing number of human cancers. But, "the benefits are at best transitory and are followed by a restoration of tumour growth and progression." 
+
+Later studies into the consequences of VEGF inhibitor use have shown that, although they can reduce the growth of primary tumours, VEGF inhibitors can concomitantly promote invasiveness and metastasis of tumours. 
+
+AZ2171 (Cediranib), a multi-targeted tyrosine kinase inhibitor has been shown to have anti-edema effects by reducing the permeability and aiding in vascular normalization.
+
+A 2010 Cochrane Systematic Review studied the effectiveness of ranibizumab and pegaptanib, on patients suffering from macular edema caused by central retinal vein occlusion. Participants on both treatment groups showed improvement in visual acuity measures and a reduction in macular edema symptoms over six months. 
+
+====Pre-clinical====
+VEGF is also inhibited by thiazolidinediones (used for diabetes mellitus type 2 and related disease), and this effect on granulosa cells gives the potential of thiazolidinediones to be used in ovarian hyperstimulation syndrome. 
+
+====Neovascular age-related macular degeneration====
+Ranibizumab, a monoclonal antibody fragment (Fab) derived from bevacizumab, has been developed by Genetech for intraocular use. In 2006, FDA approved the drug for the treatment of neovascular age-related macular degeneration (wet AMD). The drug had undergone three successful clinical trials by then. 
+
+In the October 2006 issue of the New England Journal of Medicine (NEJM), Rosenfield, et al. reported that monthly intravitreal injection of ranibizumab led to significant increase in the level of mean visual acuity compared to that of sham injection. It was concluded from the two-year, phase III study that ranibizumab is very effective in the treatment of minimally classic (MC) or occult wet AMD (age-related macular degeneration) with low rates of ocular adverse effects. 
+
+Another study published in the January 2009 issue of Ophthalmology provides the evidence for the efficacy of ranibizumab. Brown, et al. reported that monthly intravitreal injection of ranibizumab led to significant increase in the level of mean visual acuity compared to that of photodynamic therapy with verteporfin. It was concluded from the two year, phase III study that ranibizumab was superior to photodynamic therapy with verteporfin in the treatment of predominantly classic (PC) Wet AMD with low rates of ocular adverse effects. 
+
+Although the efficacy of ranibizumab is well-supported by extensive clinical trials, the cost effectiveness of the drug is questioned. Since the drug merely stabilizes patient conditions, ranibizumab must be administered monthly. At a cost of $2,000.00 per injection, the cost to treat wet AMD patients in the United States is greater than $10.00 billion per year. Due to high cost, many ophthalmologists have turned to bevacizumab as the alternative intravitreal agent in the treatment of wet AMD. The drug costs $15.00 to 50.00 in the United States.
+
+In 2007, Raftery, et al. reported in the British Journal of Ophthalmology that, unless ranibizumab is 2.5 times more effective the bevacizumab, ranibizumab is not cost-effective. It was concluded that the price of ranibizumab would have to be drastically reduced for the drug to be cost-effective. 
+
+Off-label use of intravitreal bevacizumab has become a widespread treatment for neovascular age-related macular degeneration. Patent Docs: Genentech Acts to Halt Off-label Use of Avastin® for Age-related Macular Degeneration Although the drug is not FDA-approved for non-oncologic uses, some studies suggest that bevacizumab is effective in increasing visual acuity with low rates of ocular adverse effects. However, due to small sample size and lack of randomized control trial, the result is not conclusive.
+
+In October 2006, the National Eye Institute (NEI) of the National Institutes of Health (NIH) announced that it would fund a comparative study trial of ranibizumab and bevacizumab to assess the relative efficacy and ocular adversity in treating wet AMD. This study, called the Comparison of Age-Related Macular Degeneration Treatment Trials (CATT Study), will enroll about 1,200 patients with newly diagnosed wet AMD, randomly assigning the patients to different treatment groups.
+
+By May 2012, anti-VEGF treatment with Avastin has been accepted by Medicare, is quite reasonably priced, and effective. Lucentis has a similar but smaller molecular structure to Avastin, and is FDA-approved (2006) for treating MacD, yet remains more costly, as is the more recent (approved in 2011) EYLEA (aflibercept). Tests on these treatments are ongoing relative to the efficacy of one over another.
+
+==See also==
+* Proteases in angiogenesis
+
+== References ==
+
+==Further reading==
+
+== External links ==
+* 
+* - the Vascular Endothelial Growth Factor Structure in Interactive 3D
+
+

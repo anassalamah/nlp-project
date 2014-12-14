@@ -1,0 +1,133 @@
+[[Indole]]
+
+Indole is an aromatic heterocyclic organic compound. It has a bicyclic structure, consisting of a six-membered benzene ring fused to a five-membered nitrogen-containing pyrrole ring. Indole is a common component of fragrances and the precursor to many pharmaceuticals. Compounds that contain an indole ring are called indoles. The amino acid tryptophan is an indole derivative and the precursor of the neurotransmitter serotonin. 
+
+== General properties and occurrence ==
+Indole is a solid at room temperature. Indole can be produced by bacteria as a degradation product of the amino acid tryptophan. It occurs naturally in human feces and has an intense fecal odor. At very low concentrations, however, it has a flowery smell, http://www.leffingwell.com/olfact5.htm and is a constituent of many flower scents (such as orange blossoms) and perfumes. It also occurs in coal tar.
+
+The corresponding substituent is called indolyl.
+
+Indole undergoes electrophilic substitution, mainly at position 3. Substituted indoles are structural elements of (and for some compounds the synthetic precursors for) the tryptophan-derived tryptamine alkaloids like the neurotransmitter serotonin, and melatonin. 
+Other indolic compounds include the plant hormone auxin (indolyl-3-acetic acid, IAA), tryptophol, the anti-inflammatory drug indomethacin, the betablocker pindolol, and the naturally occurring hallucinogen dimethyltryptamine.
+
+The name indole is a portmanteau of the words indigo and oleum, since indole was first isolated by treatment of the indigo dye with oleum.
+
+==History==
+Baeyer's original structure for indole, 1869
+Indole chemistry began to develop with the study of the dye indigo. Indigo can be converted to isatin and then to oxindole. Then, in 1866, Adolf von Baeyer reduced oxindole to indole using zinc dust. In 1869, he proposed a formula for indole (left). 
+
+Certain indole derivatives were important dyestuffs until the end of the 19th century. In the 1930s, interest in indole intensified when it became known that the indole nucleus is present in many important alkaloids, as well as in tryptophan and auxins, and it remains an active area of research today. 
+
+==Occurrence in nature==
+Indole is biosynthesized via anthranilate. It condenses with serine via Michael addition of indole to PLP-aminoacrylate.
+:Indole is produced via anthranilate and is alkylated to give the amino acid tryptophan.
+
+Indole is a major constituent of coal-tar, and the 220–260 °C distillation fraction is the main industrial source of the material.
+
+==Synthetic routes==
+Indole and its derivatives can also be synthesized by a variety of methods. 
+
+The main industrial routes start from aniline via vapor-phase reaction with ethylene glycol in the presence of catalysts:
+
+:Reaction of aniline and ethylene glycol to give indole.
+
+In general, reactions are conducted between 200 and 500 °C. Yields can be as high as 60%. Other precursors to indole include formyltoluidine, 2-ethylaniline, and 2-(2-nitrophenyl)ethanol, all of which undergo cyclizations. Gerd Collin and Hartmut Höke “Indole” Ullmann's Encyclopedia of Industrial Chemistry 2002, Wiley-VCH, Weinheim. . Many other methods have been developed that are applicable.
+
+===Leimgruber-Batcho indole synthesis===
+
+:The Leimgruber-Batcho indole synthesis
+The Leimgruber-Batcho indole synthesis is an efficient method of synthesizing indole and substituted indoles. Originally disclosed in a patent in 1976, this method is high-yielding and can generate substituted indoles. This method is especially popular in the pharmaceutical industry, where many pharmaceutical drugs are made up of specifically substituted indoles.
+
+===Fischer indole synthesis===
+
+:The Fischer indole synthesis
+One-pot microwave-assisted synthesis of indole from phenylhydrazine and pyruvic acid
+One of the oldest and most reliable methods for synthesizing substituted indoles is the Fischer indole synthesis, developed in 1883 by Emil Fischer. Although the synthesis of indole itself is problematic using the Fischer indole synthesis, it is often used to generate indoles substituted in the 2- and/or 3-positions. Indole can still be synthesized, however, using the Fischer indole synthesis by reacting phenylhydrazine with pyruvic acid followed by decarboxylation of the formed indole-2-carboxylic acid. This has also been accomplished in a one-pot synthesis using microwave irradiation. 
+
+===Other indole-forming reactions===
+
+* Bartoli indole synthesis
+* Bischler-Möhlau indole synthesis
+* Fukuyama indole synthesis
+* Gassman indole synthesis
+* Hemetsberger indole synthesis
+* Larock indole synthesis
+* Madelung synthesis
+* Nenitzescu indole synthesis
+* Reissert indole synthesis
+* Baeyer-Emmerling indole synthesis
+* In the Diels-Reese reaction dimethyl acetylenedicarboxylate reacts with diphenylhydrazine to an adduct, which in xylene gives dimethyl indole-2,3-dicarboxylate and aniline. With other solvents, other products are formed: with glacial acetic acid a pyrazolone, and with pyridine a quinoline.
+
+==Chemical reactions of indole==
+
+===Basicity===
+Unlike most amines, indole is not basic. The bonding situation is completely analogous to that in pyrrole. Very strong acids such as hydrochloric acid are required to protonate indole. The protonated form has an pKa of −3.6. The sensitivity of many indolic compounds (e.g., tryptamines) under acidic conditions is caused by this protonation.
+
+===Electrophilic substitution===
+The most reactive position on indole for electrophilic aromatic substitution is C-3, which is 1013 times more reactive than benzene. For example, it is alkylated by phosphorylated serine in the biosynthesis of the amino acid tryptophan (see figure above). Vilsmeier-Haack formylation of indole will take place at room temperature exclusively at C-3. Since the pyrrollic ring is the most reactive portion of indole, electrophilic substitution of the carbocyclic (benzene) ring can take place only after N-1, C-2, and C-3 are substituted.
+
+:The Vilsmeyer-Haack formylation of indole
+
+Gramine, a useful synthetic intermediate, is produced via a Mannich reaction of indole with dimethylamine and formaldehyde. It is the precursor to indole acetic acid and synthetic tryptophan.
+
+:Synthesis of Gramine from indole
+
+===Nitrogen-H acidity and organometallic indole anion complexes===
+The N-H center has a pKa of 21 in DMSO, so that very strong bases such as sodium hydride or butyl lithium and water-free conditions are required for complete deprotonation. The resulting alkali metal derivatives can react in two ways. The more ionic salts such as the sodium or potassium compounds tend to react with electrophiles at nitrogen-1, whereas the more covalent magnesium compounds (indole Grignard reagents) and (especially) zinc complexes tend to react at carbon-3 (see figure below). In analogous fashion, polar aprotic solvents such as DMF and DMSO tend to favour attack at the nitrogen, whereas nonpolar solvents such as toluene favour C-3 attack. 
+
+:Formation and reactions of the indole anion
+
+===Carbon acidity and C-2 lithiation===
+
+After the N-H proton, the hydrogen at C-2 is the next most acidic proton on indole. Reaction of N-protected indoles with butyl lithium or lithium diisopropylamide results in lithiation exclusively at the C-2 position. This strong nucleophile can then be used as such with other electrophiles.
+
+Bergman and Venemalm developed a technique for lithiating the 2-position of unsubstituted indole. 
+
+:2-position lithiation of indole
+
+Alan Katritzky also developed a technique for lithiating the 2-position of unsubstituted indole. 
+
+===Oxidation of indole===
+Due to the electron-rich nature of indole, it is easily oxidized. Simple oxidants such as N-bromosuccinimide will selectively oxidize indole 1 to oxindole (4 and 5).
+
+:Oxidation of indole by N-bromosuccinimide
+
+===Cycloadditions of indole===
+
+Only the C-2 to C-3 pi-bond of indole is capable of cycloaddition reactions. Intramolecular variants are often higher-yielding than intermolecular cycloadditions. For example, Padwa et al. have developed this Diels-Alder reaction to form advanced strychnine intermediates. In this case, the 2-aminofuran is the diene, whereas the indole is the dienophile. Indoles also undergo intramolecular and cycloadditions.
+:Example of a cycloaddition of indole
+
+Despite mediocre yields, intermolecular cycloadditions of indole derivatives have been well documented. a) The intermolecular Pictet-Spengler condensation with chiral carbonyl derivatives in the stereoselective syntheses of optically-active isoquinoline and indole alkaloids Enrique L. Larghi, Marcela Amongero, Andrea B. J. Bracca, and Teodoro S. Kaufman Arkivoc (RL-1554K) pp 98-153 2005 (Online Review); b) Teodoro S. Kaufman “Synthesis of Optically-Active Isoquinoline and Indole Alkaloids Employing the Pictet-Spengler Condensation with Removable Chiral Auxiliaries Bound to Nitrogen”. in “New Methods for the Asymmetric Synthesis of Nitrogen Heterocycles”; Ed.: J. L. Vicario. ISBN 81-7736-278-X. Research SignPost, Trivandrum, India. 2005. Chapter 4, pp. 99-147. One example is the Pictet-Spengler reaction between tryptophan derivatives and aldehydes. The Pictet-Spengler reaction of indole derivatives, such as tryptophan, leads to a mixture of diastereomers as products. The formation of multiple products reduces the chemical yield of the desired product.
+
+==Applications==
+Natural jasmine oil, used in the perfume industry, contains around 2.5% of indole. Since 1 kilogram of the natural oil requires processing several million jasmine blossoms and costs around $10,000, indole (among other things) is used in the manufacture of synthetic jasmine oil (which costs around $10/kg).
+
+==See also==
+* Isoindole
+* Martinet dioxindole synthesis
+* Skatole (3-methylindole)
+* Stollé synthesis
+* Tryptamines
+
+==General references==
+
+* Indoles Part One, W. J. Houlihan (ed.), Wiley Interscience, New York, 1972.
+* 
+* 
+* Joule, J., In Science of Synthesis, Thomas, E. J., Ed.; Thieme: Stuttgart, (2000); Vol. 10, p. 361. ISBN 3-13-112241-2 (GTV); ISBN 0-86577-949-X (TNY).
+* Schoenherr, H.; Leighton, J. L. Direct and Highly Enantioselective Iso-Pictet-Spengler Reactions with alpha-Ketoamides: Access to Underexplored Indole Core Structures. Org. Lett. 2012, 14, 2610.
+
+==References==
+
+==See also==
+
+* Indole-3-butyric acid
+* Indole test – biochemical test for bacterial identification
+
+==External links==
+
+* Synthesis of indoles (overview of recent methods)
+* Synthesis and propierties of indoles at chemsynthesis.com
+
+ 
+

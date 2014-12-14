@@ -1,0 +1,55 @@
+[[V(D)J recombination]]
+
+V(D)J recombination, also known as somatic recombination, is a mechanism of genetic recombination in the early stages of immunoglobulin (Ig) and T cell receptors (TCR) production of the immune system. V(D)J recombination takes place in the primary lymphoid tissue (the bone marrow for B cells, and Thymus for T cells). V(D)J recombination nearly randomly combines Variable, Diverse, and Joining gene segments in vertebrate lymphocytes, and because of its randomness in choosing different genes, is able to diversely encode proteins to match antigens from bacteria, viruses, parasites, dysfunctional cells such as tumor cells, and pollens.
+
+For discoveries concerning V(D)J recombination as genetic basis of antibody diversity Susumu Tonegawa was awarded Nobel Prize in Physiology or Medicine in 1987.
+
+== Background ==
+Human antibody molecules (and B cell receptors) are composed of heavy and light chains with both constant (C) and variable (V) regions that are encoded by genes on three loci.
+
+#Immunoglobulin heavy locus (IGH@) on chromosome 14, containing gene segments for the immunoglobulin heavy chain
+#Immunoglobulin kappa (κ) locus (IGK@) on chromosome 2, containing gene segments for the immunoglobulin light chain
+#Immunoglobulin lambda (λ) locus (IGL@) on chromosome 22, containing gene segments for the immunoglobulin light chain
+
+Each heavy chain and light chain gene contains multiple copies of three different types of gene segments for the variable regions of the antibody proteins. For example, the immunoglobulin heavy chain region contains 44 Variable (V) gene segments plus 27 Diversity (D) gene segments and 6 Joining (J) gene segments. The light chains also possess numerous V and J gene segments, but do not have D gene segments. DNA rearrangement causes one copy of each type of gene segment to be selected in any given lymphocyte, generating an enormous antibody repertoire; roughly 3×1011 combinations are possible, although some are removed due to self reactivity.
+
+Most T cell receptors are composed of an alpha chain and a beta chain. The T cell receptor genes are similar to immunoglobulin genes in that they too contain multiple V, D and J gene segments in their beta chains (and V and J gene segments in their alpha chains) that are rearranged during the development of the lymphocyte to provide that cell with a unique antigen receptor.
+
+Failure of the cell to create a successful product that does not self-react leads to apoptosis.
+
+==In immunoglobulins==
+Simplistic overview of V(D)J recombination of immunoglobulin heavy chains
+
+===Heavy chain===
+In the developing B cell, the first recombination event to occur is between one D and one J gene segment of the heavy chain locus. Any DNA between these two gene segments is deleted. This D-J recombination is followed by the joining of one V gene segment, from a region upstream of the newly formed DJ complex, forming a rearranged VDJ gene segment. All other gene segments between V and D segments are now deleted from the cell’s genome. Primary transcript (unspliced RNA) is generated containing the VDJ region of the heavy chain and both the constant mu and delta chains (Cμ and Cδ). (i.e. the primary transcript contains the segments: V-D-J-Cμ-Cδ). The primary RNA is processed to add a polyadenylated (poly-A) tail after the Cμ chain and to remove sequence between the VDJ segment and this constant gene segment. Translation of this mRNA leads to the production of the Ig μ heavy chain protein.
+
+===Light chain===
+The kappa (κ) and lambda (λ) chains of the immunoglobulin light chain loci rearrange in a very similar way, except the light chains lack a D segment. In other words, the first step of recombination for the light chains involves the joining of the V and J chains to give a VJ complex before the addition of the constant chain gene during primary transcription. Translation of the spliced mRNA for either the kappa or lambda chains results in formation of the Ig κ or Ig λ light chain protein.
+
+Assembly of the Ig μ heavy chain and one of the light chains results in the formation of membrane bound form of the immunoglobulin IgM that is expressed on the surface of the immature B cell.
+
+==In T cell receptors==
+During thymocyte development, the T cell receptor (TCR) chains undergo essentially the same sequence of ordered recombination events as that described for immunoglobulins. D-to-J recombination occurs first in the β chain of the TCR. This process can involve either the joining of the Dβ1 gene segment to one of six Jβ1 segments or the joining of the Dβ2 gene segment to one of seven Jβ2 segments. DJ recombination is followed (as above) with Vβ-to-DβJβ rearrangements. All gene segments between the Vβ-Dβ-Jβ gene segments in the newly formed complex are deleted and the primary transcript is synthesized that incorporates the constant domain gene (Vβ-Dβ-Jβ-Cβ). mRNA transcription splices out any intervening sequence and allows translation of the full length protein for the TCR Cβ chain.
+
+The rearrangement of the alpha (α) chain of the TCR follows β chain rearrangement, and resembles V-to-J rearrangement described for Ig light chains (see above). The assembly of the β- and α- chains results in formation of the αβ-TCR that is expressed on a majority of T cells.
+
+==Mechanism==
+
+===Recombination signal sequences===
+The regional gene segments (V, D, J) are flanked by Recombination Signal Sequences (RSSs) that are recognized by a group of enzymes known collectively as the VDJ recombinase. RSSs are composed of seven conserved nucleotides (a heptamer) that reside next to the gene encoding sequence followed by a spacer (containing either 12 or 23 unconserved nucleotides) followed by a conserved nonamer (9 base pairs). The RSSs are present on the 3’ side (downstream) of a V region and the 5’ side (upstream) of the J region. These are the sides that will be involved in the joining. Only a pair of dissimilar spacer RSSs are efficiently recombined (i.e. one with a spacer of 12 nucleotides will be recombined with one that has a spacer containing 23 nucleotides). This is known as the 12/23 rule of recombination (or "one turn/two turn" rule).
+
+===VDJ recombinase===
+VDJ recombinase refers to a collection of enzymes some of which are lymphocyte specific, and some that are expressed in many cell types. The initial steps of VDJ recombination are carried out by critical lymphocyte specific enzymes, called recombination-activating gene-1 and -2 (RAG1 and RAG2). These enzymes associate with each other to recognize the RSS sequences and induce DNA cleavage at the RSS sequences. This cleavage only takes place on one strand of DNA, which leads to a nucleotide attack and creation of a hairpin loop.
+
+Other enzymes of the VDJ recombinase are expressed in multiple cell types and are involved in DNA repair following the activity of RAG1 and RAG2. RAG1 is homologous to transposase. One of these enzymes is called the DNA-dependent protein kinase complex (DNA-PK) that repairs double-stranded DNA. DNA-PK binds to each end of the broken DNA and recruits several other proteins, including Artemis nuclease, XRCC4 (X-ray repair cross-complementing factor 4), DNA ligase IV, Cernunnos (also called XLF or XRCC4-like factor), and any of several DNA polymerases. DNA-PK complexes on each DNA end phosphorylate (add phosphate groups to) each other, resulting in activation of Artemis. Artemis then breaks the hairpin loop that was formed by the RAG proteins. XRCC4 and Cernunnos act in concert with DNA-PK to align the two DNA ends with each other, and also help to recruit the enzyme, terminal deoxynucleotidyl transferase (TdT), which adds nucleotides randomly to the ends, providing junctional diversity. DNA polymerases λ and μ insert additional nucleotides as needed to make the two ends compatible for joining. Ligase IV finally links DNA strands on opposite ends of the break to each other, completing the joining process. 
+
+Because of the variability in the exact position of cleavage of the hairpin loop by Artemis, as well as the random nucleotide addition by terminal deoxynucleotidyl transferase (TdT), the final DNA sequence, and thus the sequence of the resulting antibody, is highly variable, even when the same two V, D, or J segments are joined. This great diversity allows VDJ recombination to generate antibodies, even to epitopes that neither the organism nor its ancestors have ever previously encountered.
+
+==References==
+
+==Further reading==
+* 
+
+* V(D)J Recombination. Series: Advances in Experimental Medicine and Biology, Vol. 650 Ferrier, Pierre (Ed.) Landes Bioscience 2009, XII, 199 p. ISBN 978-1-4419-0295-5
+
+

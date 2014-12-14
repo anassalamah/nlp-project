@@ -1,0 +1,186 @@
+[[Persistent vegetative state]]
+
+A persistent vegetative state is a disorder of consciousness in which patients with severe brain damage are in a state of partial arousal rather than true awareness. It is a diagnosis of some uncertainty in that it deals with a syndrome. After four weeks in a vegetative state (VS), the patient is classified as in a persistent vegetative state. This diagnosis is classified as a permanent vegetative state (PVS) after approximately one year of being in a vegetative state. 
+
+==Definition==
+
+===Medical definition===
+A wakeful unconscious state that lasts longer than a few weeks is referred to as a persistent vegetative state. 
+
+===Lack of legal clarity===
+Unlike brain death, permanent vegetative state (PVS) is recognized statute as death in very few legal systems. In the US and UK, courts have required petitions before termination of life support that demonstrate that any recovery of cognitive functions above a vegetative state is assessed as impossible by authoritative medical opinion. 
+
+This legal grey area has led to vocal advocates that those in PVS should be allowed to die. Others are equally determined that, if recovery is at all possible, care should continue. The existence of a small number of diagnosed PVS cases that have eventually resulted in improvement makes defining recovery as "impossible" particularly difficult in a legal sense. Diagnosing The Permanent Vegetative State by Ronald Cranford, MD This legal and ethical issue raises questions about autonomy, quality of life, appropriate use of resources, the wishes of family members, and professional responsibilities.
+
+== History ==
+The syndrome was first described in 1940 by Ernst Kretschmer who called it apallic syndrome. The term persistent vegetative state was coined in 1972 by Scottish spinal surgeon Bryan Jennett and American neurologist Fred Plum to describe a syndrome that seemed to have been made possible by medicine's increased capacities to keep patients' bodies alive. 
+
+== Classification ==
+There are several definitions that vary by technical versus laymen's usage There are different legal implications in different countries.
+
+The vegetative state is a chronic or long-term condition. This condition differs from a coma: a coma is a state that lacks both awareness and wakefulness. Patients in a vegetative state may have awoken from a coma, but still have not regained awareness. In the vegetative state patients can open their eyelids occasionally and demonstrate sleep-wake cycles, but completely lack cognitive function. The vegetative state is also called a "coma vigil". The chances of regaining awareness diminish considerably as the time spent in the vegetative state increases. http://content.nejm.org/cgi/content/abstract/330/21/1499 
+
+The persistent vegetative state is the standard usage (except in the UK) for a medical diagnosis, made after numerous neurological and other tests, that due to extensive and irrevocable brain damage a patient is highly unlikely ever to achieve higher functions above a vegetative state. This diagnosis does not mean that a doctor has diagnosed improvement as impossible, but does open the possibility, in the US, for a judicial request to end life support. Informal guidelines hold that this diagnosis can be made after four weeks in a vegetative state. US caselaw has shown that successful petitions for termination have been made after a diagnosis of a persistent vegetative state, although in some cases, such as that of Terri Schiavo, such rulings have generated widespread controversy.
+
+In the UK, the term 'persistent vegetative state' is discouraged in favor of two more precisely defined terms that have been strongly recommended by the Royal College of Physicians (RCP). These guidelines recommend using a continuous vegetative state for patients in a vegetative state for more than four weeks. A medical definition of a permanent vegetative state can be made if, after exhaustive testing and a customary 12 months of observation, a medical diagnosis that it is impossible by any informed medical expectations that the mental condition will ever improve. Hence, a "continuous vegetative state" in the UK may remain the diagnosis in cases that would be called "persistent" in the US or elsewhere.
+
+While the actual testing criteria for a diagnosis of "permanent" in the UK are quite similar to the criteria for a diagnosis of "persistent" in the US, the semantic difference imparts in the UK a legal presumption that is commonly used in court applications for ending life support. The UK diagnosis is generally only made after 12 months of observing a static vegetative state. A diagnosis of a persistent vegetative state in the US usually still requires a petitioner to prove in court that recovery is impossible by informed medical opinion, while in the UK the "permanent" diagnosis already gives the petitioner this presumption and may make the legal process less time-consuming. 
+
+In common usage, the "permanent" and "persistent" definitions are sometimes conflated and used interchangeably. However, the acronym "PVS" is intended to define a "persistent vegetative state", without necessarily the connotations of permanence, and is used as such throughout this article.
+
+Bryan Jennett, who originally coined the term "persistent vegetative state", has now recommended using the UK division between continuous and permanent in his most recent book The Vegetative State. This is one for purposes of precision, on the grounds that "the 'persistent' component of this term ... may seem to suggest irreversibility". 
+
+The Australian National Health and Medical Research Council has suggested "post coma unresponsiveness" as an alternative term for "vegetative state" in general. 
+
+== Signs and symptoms ==
+Most PVS patients are unresponsive to external stimuli and their conditions are associated with different levels of consciousness. Some level of consciousness means a person can still respond, in varying degrees, to stimulation. A person in a coma, however, cannot. In addition, PVS patients often open their eyes in response to feeding, which has to be done by others; they are capable of swallowing, whereas patients in a coma subsist with their eyes closed (Emmett, 1989).
+
+PVS patients' eyes might be in a relatively fixed position, or track moving objects, or move in a disconjugate (i.e. completely unsynchronized) manner. They may experience sleep-wake cycles, or be in a state of chronic wakefulness. They may exhibit some behaviors that can be construed as arising from partial consciousness, such as grinding their teeth, swallowing, smiling, shedding tears, grunting, moaning, or screaming without any apparent external stimulus.
+
+Individuals in PVS are seldom on any life-sustaining equipment other than a feeding tube because the brainstem, the center of vegetative functions (such as heart rate and rhythm, respiration, and gastrointestinal activity) is relatively intact (Emmett, 1989).
+
+== Causes ==
+There are three causes of PVS (persistent vegetative state):
+# Acute traumatic brain injury
+# Non-traumatic: neurodegenerative disorder or metabolic disorder of the brain
+# Severe congenital abnormality of the central nervous system
+
+Medical books (such as Lippincott, Williams, and Wilkins. (2007). In A Page: Pediatric Signs and Symptoms) describe several potential causes of PVS, which are as follows:
+
+* Bacterial, viral, or fungal infection, including meningitis
+*Increased intracranial pressure, such as a tumor or abscess
+*Vascular pressure which causes intracranial hemorrhaging or stroke
+*Hypoxic ischemic injury (hypotension, cardiac arrest, arrhythmia, near-drowning)
+*Toxins such as uremia, ethanol, atropine, opiates, lead, colloidal silver 
+*Trauma: Concussion, contusion
+*Seizure, both nonconvulsive status epilepticus and postconvulsive state (postictal state)
+*Electrolyte imbalance, which involves hyponatremia, hypernatremia, hypomagnesemia, hypoglycemia, hyperglycemia, hypercalcemia, and hypocalcemia
+*Postinfectious: Acute disseminated encephalomyelitis (ADEM)
+*Endocrine disorders such as adrenal insufficiency and thyroid disorders
+*Degenerative and metabolic diseases including urea cycle disorders, Reye syndrome, and mitochondrial disease
+*Systemic infection and sepsis
+*Hepatic encephalopathy
+
+In addition, these authors claim that doctors sometimes use the mnemonic device AEIOU-TIPS to recall portions of the differential diagnosis: Alcohol ingestion and acidosis, Epilepsy and encephalopathy, Infection, Opiates, Uremia, Trauma, Insulin overdose or inflammatory disorders, Poisoning and psychogenic causes, and Shock.
+
+== Diagnosis ==
+Despite converging agreement about the definition of persistent vegetative state, recent reports have raised concerns about the accuracy of diagnosis in some patients, and the extent to which, in a selection of cases, residual cognitive functions may remain undetected and patients are diagnosed as being in a persistent vegetative state. Objective assessment of residual cognitive function can be extremely difficult as motor responses may be minimal, inconsistent, and difficult to document in many patients, or may be undetectable in others because no cognitive output is possible (Owen et al., 2002). In recent years, a number of studies have demonstrated an important role for functional neuroimaging in the identification of residual cognitive function in persistent vegetative state; this technology is providing new insights into cerebral activity in patients with severe brain damage. Such studies, when successful, may be particularly useful where there is concern about the accuracy of the diagnosis and the possibility that residual cognitive function has remained undetected.
+
+===Diagnostic experiments===
+Researchers have begun to use functional neuroimaging studies to study implicit cognitive processing in patients with a clinical diagnosis of persistent vegetative state. Activations in response to sensory stimuli with positron emission tomography (PET), functional magnetic resonance imaging (fMRI), and electrophysiological methods can provide information on the presence, degree, and location of any residual brain function. However, use of these techniques in people with severe brain damage is methodologically, clinically, and theoretically complex and needs careful quantitative analysis and interpretation.
+
+For example, PET studies have shown the identification of residual cognitive function in persistent vegetative state. That is, an external stimulation, such as a painful stimulus, still activates 'primary' sensory cortices in these patients but these areas are functionally disconnected from 'higher order' associative areas needed for awareness. These results show that parts of the cortex are indeed still functioning in 'vegetative' patients (Matsuda et al., 2003).
+
+In addition, other PET studies have revealed preserved and consistent responses in predicted regions of auditory cortex in response to intelligible speech stimuli. Moreover, a preliminary fMRI examination revealed partially intact responses to semantically ambiguous stimuli, which are known to tap higher aspects of speech comprehension (Boly, 2004).
+
+Furthermore, several studies have used PET to assess the central processing of noxious somatosensory stimuli in patients in PVS. Noxious somatosensory stimulation activated midbrain, contralateral thalamus, and primary somatosensory cortex in each and every PVS patient, even in the absence of detectable cortical evoked potentials. In conclusion, somatosensory stimulation of PVS patients, at intensities that elicited pain in controls, resulted in increased neuronal activity in primary somatosensory cortex, even if resting brain metabolism was severely impaired. However, this activation of primary cortex seems to be isolated and dissociated from higher-order associative cortices (Laureys et al., 2002).
+
+Also, there is evidence of partially functional cerebral regions in catastrophically injured brains. To study five patients in PVS with different behavioral features, researchers employed PET, MRI and magnetoencephalographic (MEG) responses to sensory stimulation. In three of the five patients, co-registered PET/MRI correlate areas of relatively preserved brain metabolism with isolated fragments of behavior. Two patients had suffered anoxic injuries and demonstrated marked decreases in overall cerebral metabolism to 30–40% of normal. Two other patients with non-anoxic, multifocal brain injuries demonstrated several isolated brain regions with higher metabolic rates, that ranged up to 50–80% of normal. Nevertheless, their global metabolic rates remained <50% of normal. MEG recordings from three PVS patients provide clear evidence for the absence, abnormality or reduction of evoked responses. Despite major abnormalities, however, these data also provide evidence for localized residual activity at the cortical level. Each patient partially preserved restricted sensory representations, as evidenced by slow evoked magnetic fields and gamma band activity. In two patients, these activations correlate with isolated behavioral patterns and metabolic activity. Remaining active regions identified in the three PVS patients with behavioral fragments appear to consist of segregated corticothalamic networks that retain connectivity and partial functional integrity. A single patient who suffered severe injury to the tegmental mesencephalon and paramedian thalamus showed widely preserved cortical metabolism, and a global average metabolic rate of 65% of normal. The relatively high preservation of cortical metabolism in this patient defines the first functional correlate of clinical– pathological reports associating permanent unconsciousness with structural damage to these regions. The specific patterns of preserved metabolic activity identified in these patients reflect novel evidence of the modular nature of individual functional networks that underlie conscious brain function. The variations in cerebral metabolism in chronic PVS patients indicate that some cerebral regions can retain partial function in catastrophically injured brains (Schiff et al., 2002).
+
+=== Misdiagnoses ===
+Misdiagnosis of PVS is not uncommon. One study of 40 patients in the United Kingdom reported that 43% of those patients classified as in a PVS were misdiagnosed and another 33% able to recover whilst the study was underway. Some cases of PVS may actually be cases of patients being in an undiagnosed minimally conscious state. Since the exact diagnostic criteria of the minimally conscious state were formulated only in 2002, there may be chronic patients diagnosed as PVS before the notion of the minimally conscious state became known.
+
+Whether or not there is conscious awareness in vegetative state is a prominent issue. Three completely different aspects of this issue should be distinguished. First, some patients can be conscious simply because they are misdiagnosed (see above). In fact, they are not in vegetative state. Second, sometimes a patient was correctly diagnosed but, then, examined during a beginning recovery. Third, perhaps some day the very notion of the vegetative state will change so as to include elements of conscious awareness. Inability to disentangle these three cases leads to confusion. An example of such confusion is the response to a recent experiment using magnetic resonance imaging which revealed that a woman diagnosed with PVS was able to activate predictable portions of her brain in response to the tester's requests that she imagine herself playing tennis or moving from room to room in her house. The brain activity in response to these instructions was indistinguishable from those of healthy patients. 
+
+In 2010, Martin Monti and fellow researchers, working at the MRC Cognition and Brain Sciences Unit at the University of Cambridge, reported in an article in the New England Journal of Medicine Willful Modulation of Brain Activity in Disorders of Consciousness at nejm.org that some patients in persistent vegetative states responded to verbal instructions by displaying different patterns of brain activity on fMRI scans. Five out of a total of 54 diagnosed patients were apparently able to respond when instructed to think about one of two different physical activities. One of these five was also able to "answer" yes or no questions, again by imagining one of these two activities. Richard Alleyne and Martin Beckford, Patients in 'vegetative' state can think and communicate,Telegraph (United Kingdom), Feb 4, 2010 It is unclear, however, whether the fact that portions of the patients' brains light up on fMRI could help these patients assume their own medical decision making. 
+
+In November 2011, a publication in The Lancet presented bedside EEG apparatus and indicated that its signal could be used to detect awareness in three of 16 patients diagnosed in the vegetative state. Damian Cruse et al: Bedside detection of awareness in the vegetative state: a cohort study, The Lancet, Early Online Publication, 10 November 2011, (abstract) 
+
+==Recovery==
+Many patients emerge spontaneously from a vegetative state within a few weeks. The chances of recovery depend on the extent of injury to the brain and the patient's age – younger patients having a better chance of recovery than older patients. A 1994 report found that of those who were in a vegetative state a month after a trauma, 54% had regained consciousness by a year after the trauma, whereas 28% had died and 18% were still in the vegetative state. But for non-traumatic injuries such as strokes, only 14% had recovered consciousness at one year, 47% had died, and 39% were still vegetative. Patients who were vegetative six months after the initial event were much less likely to have recovered consciousness a year after the event than in the case of those who were simply reported vegetative at one month. A New Scientist article from 2000 gives a pair of graphs] showing changes of patient status during the first 12 months after head injury and after incidents depriving the brain of oxygen. After a year, the chances that a PVS patient will regain consciousness are very low and most patients who do recover consciousness experience significant disability. The longer a patient is in a PVS, the more severe the resulting disabilities are likely to be. Rehabilitation can contribute to recovery, but many patients never progress to the point of being able to take care of themselves. Recovery after long periods of time in a PVS has been reported on several occasions and is often treated as a spectacular event.
+
+There are two dimensions of recovery from a persistent vegetative state: recovery of consciousness and recovery of function. Recovery of consciousness can be verified by reliable evidence of awareness of self and the environment, consistent voluntary behavioral responses to visual and auditory stimuli, and interaction with others. Recovery of function is characterized by communication, the ability to learn and to perform adaptive tasks, mobility, self-care, and participation in recreational or vocational activities. Recovery of consciousness may occur without functional recovery, but functional recovery cannot occur without recovery of consciousness (Ashwal, 1994).
+
+==Possible treatment and cures==
+Currently no treatment for vegetative state exists that would satisfy the efficacy criteria of evidence-based medicine. Several methods have been proposed which can roughly be subdivided into four categories: pharmacological methods, surgery, physical therapy, and various stimulation techniques. Pharmacological therapy mainly uses activating substances such as tricyclic antidepressants or methylphenidate. Mixed results have been reported using dopaminergic drugs such as amantadine and bromocriptine and stimulants such as dextroamphetamine. Surgical methods such as deep brain stimulation are used less frequently due to the invasiveness of the procedures. Stimulation techniques include sensory stimulation, sensory regulation, music and musicokinetic therapy, social-tactile interaction, etc. Below are some details related to treatments that have demonstrated some hope.
+
+===Zolpidem===
+There is currently limited evidence that the imidazopyridine hypnotic drug zolpidem (Stilnox/Ambien) can have positive behavioral effects in some people with PVS. As of yet, few scientific studies have been published on the effectiveness and the results have been sometimes contradictory. 
+
+===Levodopa===
+In addition, there have been several case studies analyzed that emphasize another pharmacological possibility of treatment for patients in a persistent vegetative state. Three patients whose brains had been damaged by severe head injury recovered from a persistent vegetative state after the administration of a drug called levodopa, which boosts the body's dopamine levels. In all three cases, the patients were deeply comatose on arrival to the hospital, remained unresponsive to simple verbal commands, and their condition was unchanged for a lengthy period of time even after intensive treatment including surgery. All three patients were diagnosed as being in a persistent vegetative state for three, seven, and twelve months respectively (Matsuda et al., 2003).
+
+Case 1 describes a 14 year old boy who, three months after his trauma, could not follow moving objects with his eyes and experienced tremor-like involuntary movements as well as hypertonicity (increased tension of the muscles, meaning the muscle tone is abnormally rigid, hampering proper movement). Levodopa was recommended to relieve the patient’s parkinsonian features. Surprisingly, after nine days of treatment the patient’s involuntary movements were reduced and he began to respond toward voices. Three months after treatment, he was able to walk and obtained the intelligence of an elementary school child. One year after his trauma, he was able to walk to high school by himself. Case 2 involves a young adult who underwent deep brain stimulation one year after the trauma and showed no improvement. Levodopa was administered and one year later, once his tubes were removed, he said, "I want to eat sushi and drink beer!" Case 3 describes a middle-aged man who experienced spasticity of his extremities, was administered levodopa, and was able to say his name and address correctly after only two months.
+After neurological evaluation, all three cases revealed asymmetrical rigidity or tremor and presynaptic damage in the dopaminergic (uses dopamine as neurotransmitter) systems. In conclusion, levodopa should be considered for patients in a persistent vegetative state with atypical features in their limbs and who have MRI evidence of lesions in the dopaminergic pathway, particularly presynaptic lesions in areas such as the substantia nigra or ventral tegmentum. Data shows that only 6% of adult patients recover after being in a vegetative state for six to twelve months. This poor recovery rate demonstrates the significance in the rapid recovery of patients that begin levodopa treatment, particularly in those who were in a vegetative state for almost a year.
+
+===Baclofen===
+This unexpected and late recovery of consciousness raises an interesting hypothesis of possible effects of partially regained spinal cord outputs on reactivation of cognition. Other case studies have shown that recovery of consciousness with persistent severe disability 19 months after a non-traumatic brain injury was at least in part triggered and maintained by intrathecal baclofen administration (Sarà M et al., 2007).
+
+===Removal of cold intubated oxygen===
+Another documented case reports recovery of a small number of patients following the removal of assisted respiration with cold oxygen. The researchers found that in many nursing homes and hospitals unheated oxygen is given to non-responsive patients via tracheal intubation. This bypasses the warming of the upper respiratory tract and causes a chilling of aortic blood and chilling of the brain. The researchers describe a small number of cases in which removal of the chilled oxygen was followed by recovery from the PVS and recommend either warming of oxygen with a heated nebulizer or removal of the assisted oxygen if it is no longer needed. The authors further recommend additional research to determine if this chilling effect may either delay recovery or even may contribute to brain damage. 
+
+===Bifocal extradural cortical stimulation===
+In December 2008, Dr Sergio Canavero, Director of the Advanced Neuromodulation Group based in Turin, Italy and one of the leading experts in the field of cortical stimulation, announced that a girl (Greta) in the permanent vegetative state (i.e. vegetative state lasting more than 12 months), recovered consciousness and was regraded as minimally conscious following several months of bifocal extradural cortical stimulation (Canavero et al. 2009), a minimally invasive neurosurgical technique he and others developed for the treatment of central pain, Parkinson's disease, stroke rehabilitation, depression, and other neurologic and psychiatric disorders (Canavero 2009). Simultaneous stimulation of the fronto-parietal "consciousness" network achieved a marked improvement of the default network of the brain. A measure of voluntary responsiveness has been obtained. Previous attempts at deep brain stimulation - Terri Schiavo being one of the patients - failed to restore consciousness. This kind of stimulation can also be guided by results of Transcranial Magnetic Stimulation (TMS) as this was able to transitorily improve a patient in PVS (Dr Pape, Chicago 2009 Pape T, Rosenow J, Lewis G, Ahmed G, Walker M, Guernon A, Roth H, Patil V. (2009). Repetitive transcranial magnetic stimulation-associated neurobehavioral gains during coma recovery, Brain Stimul, 2(1):22-35. Epub 2008 Oct 23. ) and another in the minimally conscious state (2010).
+
+==Epidemiology==
+In the United States, it is estimated that there may be between 15,000–40,000 patients who are in a persistent vegetative state, but due to poor nursing home records exact figures are hard to determine. 
+
+==Ethics and policy==
+An ongoing debate exists as to how much care, if any, patients in a persistent vegetative state should receive in health systems plagued by limited resources. In a case before the New Jersey Superior Court, Betancourt v. Trinitas, a community hospital sought a ruling that dialysis and CPR for such a patient constitutes futile care. An American bioethicist, Jacob M. Appel, argued that any money spent treating PVS patients would be better spent on other patients with a higher likelihood of recovery. Appel on Betancourt v. Trinitas 
+The patient died naturally prior to a decision in the case, resulting in the court finding the issue moot.
+
+In 2010, British and Belgian reported in an article in the New England Journal of Medicine that some patients in persistent vegetative states actually had enough consciousness to "answer" yes or no questions on fMRI scans. Richard Alleyne and Martin Beckford, Patients in 'vegetative' state can think and communicate, Telegraph (United Kingdom), Feb 4, 2010 However, it is unclear whether the fact that portions of the patients' brains light up on fMRI will help these patient assume their own medical decision making. Professor Geraint Rees, Director of the Institute of Cognitive Neuroscience at University College London, responded to the study by observing that, "As a clinician, it would be important to satisfy oneself that the individual that you are communicating with is competent to make those decisions. At the moment it is premature to conclude that the individual able to answer 5 out of 6 yes/no questions is fully conscious like you or I." In contrast, Jacob M. Appel of the Mount Sinai Hospital told the Telegraph that this development could be a welcome step toward clarifying the wishes of such patients. Appel stated: "I see no reason why, if we are truly convinced such patients are communicating, society should not honour their wishes. In fact, as a physician, I think a compelling case can be made that doctors have an ethical obligation to assist such patients by removing treatment. I suspect that, if such individuals are indeed trapped in their bodies, they may be living in great torment and will request to have their care terminated or even active euthanasia." 
+
+== Notable PVS patients ==
+
+* Tony Bland
+* Paul Brophy 
+* Sunny von Bülow
+* Gustavo Cerati
+* Nancy Cruzan
+* Gary Dockery
+* Eluana Englaro
+* Lia Lee
+
+* Marlise Munoz 
+* Justina Pelletier
+* Haleigh Poutre
+* Karen Ann Quinlan
+* Terri Schiavo
+* Aruna Shanbaug
+* Ariel Sharon
+* Vice Vukov
+* Chayito Valdez
+* Kardam, Prince of Turnovo
+
+The longest documented case of survival in a persistent vegetative state was Elaine Esposito, who remained PVS for thirty-seven years and 111 days from 1941 to 1978. 
+
+== See also ==
+* Locked-in syndrome
+* Process Oriented Coma Work, for an approach to working with residual consciousness in patients in comatose and persistent vegetative states
+* Brain death
+* Botulism
+* Catatonia
+
+==Notes==
+
+Canavero S, Massa-Micon B, Cauda F, Montanaro E.Bifocal extradural cortical stimulation-induced recovery of consciousness in the permanent post-traumatic vegetative state.J Neurol. 2009 May;256(5):834-6.
+
+Canavero S. Textbook of therapeutic cortical stimulation. New York: Nova Science, 2009
+
+==References==
+This article contains text from the NINDS public domain pages on TBI. and .
+
+* Borthwick C (1996) The permanent vegetative state: ethical crux, medical fiction? Issues Law Med. 1996 Fall;12(2):167-85. The author questions the validity of most PVS diagnoses, and the validity of the basic nosology. The fulltext is available on the author's website.
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+==Further reading==
+* Connolly, Kate. Car crash victim trapped in a coma for 23 years was conscious, The Guardian, November 23, 2009.
+* Hall, Alan. 'I screamed, but there was nothing to hear': Man trapped in 23-year 'coma' reveals horror of being unable to tell doctors he was conscious, Daily Mail, November 23, 2009.
+* Machado, Calixto, et al. A Cuban Perspective on Management of Persistent Vegetative State. MEDICC Review 2012;14(1):44–8.
+
+and signs: Cognition, perception, emotional state and behaviour]
+
+

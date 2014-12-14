@@ -1,0 +1,128 @@
+[[String Quartets, Op. 76 (Haydn)]]
+
+The six String Quartets, Op. 76 by Joseph Haydn were composed in 1796 or 1797 and dedicated to the Hungarian count Joseph Georg von Erdödy In full, Joseph Georg Erasmus Adrian Gabriel Michael Anton Franz von Erdödy. (1754–1824). They form the last complete set of string quartets that Haydn composed. At the time of the commission, Haydn was employed at the court of Prince Nicolaus Esterházy II and was composing the oratorio The Creation as well as Princess Maria Hermenegild Esterházy's annual mass.
+
+Although accounts left by visitors to the Esterházy estate indicate that the quartets were completed by 1797, an exclusivity agreement meant that they were not published until 1799. Heartz, Daniel, Mozart, Haydn and Early Beethoven 1781-1802, p. 212-215, Norton (2009), ISBN 978-0-393-06634-0 Correspondence between Haydn and his Viennese publishers Artaria reveal confusion as regards their release: Haydn had promised Messrs. Longman Clementi & Co. in London the first publishing rights, but a lack of communication led him to worry that their publication in Vienna might also be, unintentionally, their first appearance in full. In the event, their publication in London and Vienna was almost simultaneous. 
+
+The Op. 76 quartets are among Haydn's most ambitious chamber works, deviating more than their predecessors from standard sonata form and each emphasizing their thematic continuity through the seamless and near-continual exchange of motifs between instruments. Grave, p. 312. 
+
+== Opus 76, No. 1 ==
+
+This G-major quartet is numbered variously as No. 60, No. 40 (in the FHE) and No. 75 (in the Hoboken catalogue, where its full designation is Hob.III:75). It consists of four movements:
+
+# Allegro con spirito
+# Adagio sostenuto
+# Menuetto. Presto
+# Allegro ma non troppo
+
+Although its opening key signature indicates that the work is in G major, the quartet moves in and out of G minor and the last movement begins in the key of G minor. Keller, p. 208. 
+
+The first movement, an alla breve in G major, is in sonata form. After a short introduction, the exposition begins in measure 3, ending in the dominant key of D major in measure 88. The development section lasts from measure 89-139, with the recapitulation beginning in G major in measure 140.
+
+The second movement is in C major and 2/4 time and again uses sonata form. It has a hymn-like character and has been compared with the slow movements of Mozart's Jupiter symphony and Haydn's own 99th symphony. 
+
+The third movement in G major is the minuet, but, unusual in a minuet written at this time, the tempo indication is Presto, giving it the feel of a scherzo when played. The trio section is more lyrical and features the first violin playing a Ländler while accompanied pizzicato. 
+
+The finale, alla breve and in sonata form, is written in G minor rather than the expected G major, producing an unusual, darker ambience until G major returns for the movement's coda. 
+
+== Opus 76, No. 2 ("Fifths") ==
+
+This quartet in D minor is numbered as No. 61, No. 41 (in the FHE) and Hob.III:76. In a reference to the falling perfect fifths at its start, it is known as the Fifths (or, in German, the Quinten) quartet. The movements are:
+
+# Allegro
+# Andante o più tosto allegretto
+# Menuetto. Allegro ma non troppo
+# Vivace assai
+
+The first movement is in D minor, common time and sonata form. The falling fifths motif dominates the exposition and is featured heavily in the development using inversion, stretto and other devices. 
+
+The second movement is a ternary variation form in D major and 6/8 time.
+
+The third movement, a D-minor minuet in 3/4 time with trio in D major, has been called the "Witches' Minuet" ("Hexenminuett"). The minuet is a two-part canon: the two violins play (in parallel octaves) above the viola and cello (also playing in parallel octaves) who follow one measure behind the violins. Haydn previously used a two-part canon with the lower string trailing the upper strings by a single bar in the minuet of his 44th Symphony.
+
+The last movement, in D minor and 2/4 time, uses sonata allegro form. It ends in D major.
+
+This quartet inspired the initial name of the Nevsky String Quartet, which was originally called "The Quinten Quartet".
+
+== Opus 76, No. 3 ("Emperor")==
+
+The Quartet No. 62 in C major, Op. 76, No. 3, boasts the nickname Emperor, because in the second movement, Haydn quotes the melody from "Gott erhalte Franz den Kaiser" ("God Save Emperor Francis"), an anthem he wrote for Emperor Francis II. This same melody is known to modern listeners for its later use in the German national anthem, the Deutschlandlied. The quartet consists of four movements:
+
+*I. Allegro
+*II. Poco adagio; cantabile
+*III. Menuetto. Allegro
+*IV. Finale. Presto
+
+The first movement of the quartet is in the home key of C major, in common time, and is written in sonata form. The second movement, in G major cut time, is in strophic variation form, with the "Emperor's Hymn" as the theme. The third movement, in C major and A minor, is a standard minuet and trio. The fourth movement, in C minor and C Major, is in sonata form.
+
+Samuel Adler has singled out this work's second movement as an outstanding example of how to score for string instruments, observing of the movement's final variation:
+This is a wonderful lesson in orchestration, for too often the extremes in the range are wasted too early in a work, and the final buildup is, as a result, anticlimactic. The other formal factor to notice is that the entire structure is an accumulation of the elements which have slowly entered the harmonic and contrapuntal scheme in the course of the variations and have become a natural part of the statement theme. Samuel Adler, The Study of Orchestration (New York: Norton, 1989), 110-115, quotation at 113. 
+
+== Opus 76, No. 4 ("Sunrise") ==
+
+The Quartet No. 63 in B flat major, Op. 76, No. 4, is nicknamed Sunrise due to the rising theme over sustained chords that begins the quartet. It consists of four movements:
+
+*I. Allegro con spirito
+*II. Adagio
+*III. Menuetto. Allegro
+*IV. Finale. Allegro, ma non troppo
+
+===First movement analysis===
+; Exposition
+The opening of the movement begins in a way that seemingly contradicts the allegro con spirito marking. Violin II, viola, and cello sustain a tonic chord while the first violin plays the melody (the "sunrise" motif) on top. In measure 7, the same instruments sustain a dominant 7th chord while the first violin again plays a rising solo on top. In measure 22, all instruments reach forte, and allegro con spirito character is apparent through the 16th-note movement and lively staccato eighth-notes trading off between the parts. In measure 37, the opening sunrise theme returns, this time with the solo in the cello and the sustained chords in the violins and viola. The lively 16th-note section returns in measure 50, beginning with 16th-notes in the cello which move to the viola, and finally, the violins. In measure 60, all instruments drop to piano for a six-measure staccato eighth-note section before jumping to an all 16th-note ff in measure 66 to finish off the exposition.
+
+; Development
+The development in measure 69 begins with the same texture as does the opening of the movement—with the 2nd violin, viola, and cello sustaining a chord while the 1st violin plays a solo on top. The first chord, sustained from bars 69-72, is a d minor chord, the relative minor of the dominant F major. The second chord, sustained from bars 75-79, is an F sharp diminished seventh chord, resolving to G minor in measure 80, which signifies the return of trading moving 16th-notes. The following 5 measures revolve around G minor, only to modulate to E-flat major in measure 86. The major tonality lasts but two measures, as it shifts to F minor in measure 88, F sharp diminished in 89, and G minor in measure 90. In measure 96, the violins play staccato eighth-notes followed by eighth note rests, while the viola and cello fill in the violins' eighth note rests with their own eighth notes. This sets up a pattern for the rest of the development section, in which one instrument, mainly the 1st violin (in measures 98-102), fills in an eighth-rest with a lone eighth-note, thus giving each measure a steady eighth-note pulse. Throughout this section, the dynamic gradually drops from forte to pianissimo by means of a poco a poco decrescendo. When the pianissimo is finally reached in measure 105, the retransition to the recapitulation begins, ending on the dominant seventh chord (F) of the original key, B flat Major.
+
+; Recapitulation
+In measure 108, the beginning of the recapitulation begins just as the beginning of the exposition does—the 2nd violin, viola, and cello sustaining a tonic chord while the 1st violin plays the sunrise motif above it. In measure 135, the allegro con spirito 16th-note section returns in the 1st violin, punctuated by staccato eighth-notes in the other instruments. The 16th-notes trade off to the 2nd violin, culminating in an all-instrument unison in measure 140. After this, the opening theme returns again, with the solo line beginning with the cello and moving up through the viola to the 2nd violin. In measure 151, all strings crescendo to the returning 16th-note theme in measure 152. In measure 162, the staccato eighth-note trade-off section returns, in the tonic key and piano dynamic. A fortissimo appears in measure 172, beginning the lead into the I7 chord fermata. Beginning in the following measure, the viola, and two violins pass each other the opening sunrise motif for a measure at a time, while the remaining instruments sustain chords. The tonic returns in measure 181, with a brief teaser of the staccato eighth-note theme, to be replaced by the 16th-notes played by all instruments in the fortissimo dynamic. In the final three bars, all four instruments play a succession of tonic B flat major chords.
+
+== Opus 76, No. 5 ("Largo") ==
+
+The Quartet No. 64 in D major, Op. 76, No. 5, is sometimes nicknamed Largo because the second movement with that tempo distinction dominates the quartet both in length and in character. The work consists of four movements:
+
+*I. Allegretto
+*II. Largo. Cantabile e mesto
+*III. Menuetto. Allegro
+*IV. Finale. Presto
+
+The first movement (in D Major, 6/8 time) is not in sonata form, but in a combination of ternary and variation form. The second movement, written in F-sharp major in cut time, is in sonata form. The third movement, in D major and D minor, is a standard minuet and trio, while the fourth movement's D Major, cut time Presto is in an irregular sonata form. Grave, p. 305 
+
+== Opus 76, No. 6 ==
+
+The Quartet No. 65 in E-flat major, Op. 76, No. 6, consists of four movements:
+
+*I. Allegretto - Allegro
+*II. Fantasia. Adagio
+*III. Menuetto. Presto
+*IV. Finale. Allegro spiritoso
+
+The first movement, written in 2/4 time, is in the strophic variation form.
+
+The second movement is a 3/4 time Fantasia written in the key of B major (without a key signature). According to Keller, author of The Great Haydn Quartets, the composer quotes in a different key his own second movement from Op. 76, no. 4 "Sunrise" Quartet. Indeed, the two basic motifs are identical aside from the difference in key signature: the first violin begins on the note of the key in each, goes down a half step, and returns to the original note in both movements, all under a slur in 3/4 time. Additionally, in both pieces, the viola and cello play in slurred succession the notes in the 3rd, 4th, 3rd and 1st, 2nd, 1st scale degrees, respectively. All of this occurs while the 2nd violin holds the 5th scale degree for the duration of the measure.
+
+The third movement is written in an old minuet form in which an Alternativo section replaces the more common trio. The alternativo section is built upon a series of ascending and descending iambic scales.
+
+The finale, in 3/4 time, is in sonata form.
+
+== See also ==
+*List of string quartets by Joseph Haydn
+
+== Notes ==
+
+== Footnotes ==
+
+== References ==
+*Barrett-Ayres, Reginald. Joseph Haydn and the String Quartet. New York: Schirmer Books, 1974. pp. 297–312.
+*Berger, Melvin. Guide to Chamber Music. New York: Dover, 1985. pp. 217–224.
+*Grave, Floyd, and Margaret Grave. The String Quartets of Joseph Haydn. New York: Oxford University Press, 2006. pp. 301–322.
+*Keller, Hans. The Great Haydn Quartets: Their Interpretation. London: J.M. Dent & Sons Ltd., 1986. pp. 208–234.
+*Webster, James. "Haydn, (Franz) Joseph" at Grove Music Online (ed. L. Macy), accessed 20 March 2007.
+
+== External links ==
+*
+*Peter Gutmann. Article on the Op. 76 Quartets at Classicalnotes.net
+
+76
+
+

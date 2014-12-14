@@ -1,0 +1,194 @@
+[[Aphasia]]
+
+Aphasia (, or ) is a disturbance of the comprehension and expression of language caused by dysfunction in the brain. This class of language disorder ranges from having difficulty remembering words to losing the ability to speak, read, or write. This also affects visual language such as sign language. 
+Aphasia is usually caused by brain damage, most commonly caused by stroke. Brain damage linked to aphasia can also be caused by other brain diseases, including cancer, epilepsy and Alzheimer's disease. Carenotes, "General Information: Aphasia", Truven Health Analytics Inc., 2012 
+
+Acute aphasia disorders usually develop quickly as a result of head injury or stroke, and progressive forms of aphasia develop slowly from a brain tumor, infection, or dementia. The area and extent of brain damage or atrophy will determine the type of aphasia and its symptoms. Aphasia types include expressive aphasia, receptive aphasia, conduction aphasia, anomic aphasia, global aphasia, primary progressive aphasias and many others. Medical evaluations for the disorder range from clinical screenings by a neurologist to extensive tests by a speech-language pathologist or neuropsychologist. 
+Most acute aphasia patients can recover some or most skills by working with a speech-language pathologist. This rehabilitation can take two or more years and is most effective when begun quickly. Only a small minority will recover without therapy, such as those suffering a transient ischemic attack. Improvement varies widely, depending on the aphasia's cause, type, and severity. Recovery also depends on the patient's age, health, motivation, handedness, and educational level. 
+
+==Classification==
+The Third International Webster's Dictionary defines aphasia as: "The loss or impairment of the power to use words as symbols or ideas that results from a brain lesion." The word aphasia comes from the word ἀφασία aphasia, in Ancient Greek, which means What Is Aphasia? What Causes Aphasia? "speechlessness", ἀφασία, Henry George Liddell, Robert Scott, A Greek-English Lexicon, on Perseus. derived from ἄφατος aphatos, "speechless" ἄφατος, Henry George Liddell, Robert Scott, A Greek-English Lexicon, on Perseus. from ἀ- a-, "not, un" and φημί phemi, "I speak".
+
+Classifying the various and differing subtypes of aphasia is difficult and has led to disagreements among experts. The localizationist model is the original model, but modern anatomical techniques and analyses have shown that precise connections between brain regions and symptom classification do not exist. The neural organization of language is complicated; language is a comprehensive and complex behavior and it makes sense that it is not the product of some small, circumscribed region of the brain.
+
+No classification of patients in subtypes and groups of subtypes has proven fully adequate. Only about 60% of patients will fit in a classification scheme such as fluent/nonfluent/pure aphasias. There is a huge variation among patients with the same diagnosis, and aphasias can be highly selective. For instance, patients with naming deficits (anomic aphasia) might show an inability only for naming buildings, or people, or colors. 
+
+===Localizationist model===
+Cortex
+The localizationist model attempts to classify the aphasia by major characteristics and then link these to areas of the brain in which the damage has been caused. The initial two categories here were devised by early neurologists working in the field, namely Paul Broca and Carl Wernicke. Other researchers have added to the model, resulting in it often being referred to as the "Boston-Neoclassical Model".
+
+* Individuals with expressive aphasia (also called Broca's aphasia) were once thought to have frontal lobe damage, though more recent work by Nina Dronkers using imaging and 'lesion analysis' has revealed that patients with Expressive aphasia may be affected by having lesions in the medial insular cortex. Broca analysis did not study these lesions because his studies did not dissect the brains of diseased patients, and therefore only the more temporal damage was visible. In a somewhat informative and somewhat anecdotal imaging study, Dronkers and Odile Plaisant scanned the preserved brains of Broca's original patients' non-living brains using a non-invasive MRI scanner to re-examine the precise location of the brain injury being studied. Damage to a region of the motor association cortex in the left frontal lobe (Broca's area) is associated with disruption to the ability to speak. Individuals with Expressive aphasia often have right-sided weakness or paralysis of the arm and leg, because the frontal lobe is also important for body movement. 
+* In contrast to Expressive aphasia, damage to the temporal lobe may result in a fluent aphasia that is called receptive aphasia (also known as Sensory aphasia and Wernicke's aphasia). Patients suffering from receptive aphasia, unlike Broca's aphasia patients, produce speech without any grammatical problem. However, because the Wernicke's area, which is responsible for language comprehension, is damaged, receptive aphasia patients cannot convey the meaning. These individuals usually have no body weakness, because their brain injury is not near the parts of the brain that control movement.
+* Working from Wernicke's model of aphasia, Ludwig Lichtheim proposed five other types of aphasia, but these were not tested against real patients until modern imaging made more in-depth studies available. Five other types of aphasia in the localizationist model can be identified as:
+
+#Auditory verbal agnosia (also known as Pure Word Deafness)
+#Conduction aphasia
+#Apraxia of speech (now considered a separate disorder in itself)
+#Transcortical motor aphasia (also known as Adynamic aphasia and Extrasylvian motor aphasia)
+#Transcortical sensory aphasia
+
+* Anomic aphasia, also known as anomia or dysnomia, is another type of aphasia proposed under what is commonly known as the Boston-Neoclassical model, which, in essence, is a difficulty with naming.
+
+* Global aphasia, results from damage to extensive portions of the perisylvian region of the brain. An individual with global aphasia will have difficulty understanding both spoken and written language and will also have difficulty speaking. This is a severe type of aphasia that makes it quite difficult when communicating with the individual. 
+
+* Isolation aphasia, sometimes known as mixed transcortical aphasia or semantic transcortical aphasia, Neurolinguistic Aphasia, Alexander Luria, Wlater de Gruyet Press, reprinted 2010. is a type of disturbance in language skill that causes the inability to comprehend what is being said to you or the difficulty in creating speech with meaning without affecting the ability to recite what has been said and to acquire newly presented words. This type of aphasia is caused by brain damage that isolates the parts of the brain from other parts of the brain that are in charge of speech. The brain damages are caused to left temporal/parietal cortex that spares the Wernicke's area. Isolation aphasia patients can repeat what other people say, thus they do recognize words, but they can't comprehend the meaning of what they are hearing and repeating, and cannot produce meaningful speech of their own. 
+
+===Progressive aphasias===
+Primary progressive aphasia (PPA) is associated with progressive illnesses or dementia, such as 
+frontotemporal dementia / Pick Complex Motor neuron disease, Progressive supranuclear palsy, and Alzheimer's disease, which is the gradual process of progressively losing the ability to think. It is characterized by the gradual loss of the ability to name objects. People suffering from PPA may have difficulties comprehending what others are saying. They can also have difficulty trying to find the right words to make a sentence. There are three classifications of Primary Progressive Aphasia : Progressive nonfluent aphasia (PNFA), Semantic Dementia (SD), and Logopenic progressive aphasia (LPA) 
+
+Progressive Jargon Aphasia is a fluent or receptive aphasia in which the patient's speech is incomprehensible, but appears to make sense to them. Speech is fluent and effortless with intact syntax and grammar, but the patient has problems with the selection of nouns. Either they will replace the desired word with another that sounds or looks like the original one or has some other connection or they will replace it with sounds. As such, patients with jargon aphasia often use neologisms, and may perseverate if they try to replace the words they cannot find with sounds. Substitutions commonly involve picking another (actual) word starting with the same sound (e.g., clocktower - colander), picking another semantically related to the first (e.g., letter - scroll), or picking one phonetically similar to the intended one (e.g., lane - late).
+
+===Tripartite classification: Fluent, non-fluent, and "pure" aphasias===
+The different types of aphasia can be divided into three categories: fluent, non-fluent, and "pure" aphasias. 
+
+* Receptive aphasias, also called fluent aphasias, are impairments related mostly to the input or reception of language, with difficulties either in auditory verbal comprehension or in the repetition of words, phrases, or sentences spoken by others. Speech is easy and fluent, but there are difficulties related to the output of language as well, such as paraphasia. Examples of fluent aphasias are: Receptive aphasia, Transcortical sensory aphasia, Conduction aphasia, Anomic aphasia 
+
+* Expressive aphasias, also called nonfluent aphasias, are difficulties in articulating, but in most cases there is relatively good auditory verbal comprehension. Examples of nonfluent aphasias are: Expressive aphasia, Transcortical motor aphasia, Global aphasia 
+
+* "Pure" aphasias are selective impairments in reading, writing, or the recognition of words. These disorders may be quite selective. For example, a person is able to read but not write, or is able to write but not read. Examples of pure aphasias are: Pure alexia, Agraphia, Auditory verbal agnosia 
+
+===Primary and secondary cognitive processes===
+Aphasias can be divided into primary and secondary cognitive processes.
+* Primary aphasia is due to problems with cognitive language-processing mechanisms, which can include: Transcortical sensory aphasia, Semantic Dementia, Apraxia of speech, Progressive nonfluent aphasia, and Expressive aphasia
+* Secondary aphasia is the result of other problems, like memory impairments, attention disorders, or perceptual problems, which can include: Transcortical motor aphasia, Dynamic aphasia, Anomic aphasia, Receptive aphasia, Progressive jargon aphasia, Conduction aphasia, and Dysarthria. 
+
+===Cognitive neuropsychological model===
+Several neuropsychological models of aphasia have been introduced since Alexander Luria's seminal book in the 1960s titled Higher Cortical Functions in Man. The cognitive neuropsychological model of Max Coltheart builds on cognitive neuropsychology. It assumes that language processing can be broken down into a number of modules, each of which with a specific function. Luria's Areas of the Human Cortex Involved in Language Illustrated summary of Luria's book Traumatic Aphasia Hence, there is a module that recognises phonemes as they are spoken and a module that stores formulated phonemes before they are spoken. In the clinical setting, use of this model involves conducting a battery of assessments (usually from the PALPA, the "psycholinguistic assessment of language processing in adult acquired aphasia ... that can be tailored to the investigation of an individual patient's impaired and intact abilities" ), each of which tests one or a number of these modules. Once a diagnosis is reached as to where the impairment lies, therapy can proceed to treat the individual module.
+
+===Deaf aphasia===
+There have been many instances showing that there is a form of aphasia among deaf individuals. Sign language is, after all, a form of communication that has been shown to use the same areas of the brain as verbal forms of communication. Mirror neurons become activated when an animal is acting in a particular way or watching another individual act in the same manner. These mirror neurons are important in giving an individual the ability to mimic movements of hands. Broca's area of speech production has been shown to contain several of these mirror neurons resulting in significant similarities of brain activity between sign language and vocal speech communication. Facial communication is a significant portion of how animals interact with each other. Humans use facial movements to create, what other humans perceive, to be faces of emotions. While combining these facials movements with speech, a more full form of language is created which enables the species to interact with a much more complex and detailed form of communication. Sign language also uses these facial movements and emotions along with the primary hand movement way of communicating. These facial movement forms of communication come from the same areas of the brain. When dealing with damages to certain areas of the brain, vocal forms of communication are in jeopardy of severe forms of aphasia. Since these same areas of the brain are being used for sign language, these same, at least very similar, forms of aphasia can show in the deaf community. Individuals can show a form of Wernicke's aphasia with sign language and they show deficits in their abilities in being able to produce any form of expressions. Broca's aphasia shows up in some patients, as well. These individuals find tremendous difficulty in being able to actually sign the words they are trying to express. 
+
+==Signs and symptoms==
+People with aphasia may experience any of the following behaviors due to an acquired brain injury, although some of these symptoms may be due to related or concomitant problems such as dysarthria or apraxia and not primarily due to aphasia.
+
+* inability to comprehend language
+* inability to pronounce, not due to muscle paralysis or weakness
+* inability to speak spontaneously
+* inability to form words
+* inability to name objects
+* poor enunciation
+* excessive creation and use of personal neologisms
+* inability to repeat a phrase
+* persistent repetition of phrases
+
+* paraphasia (substituting letters, syllables or words)
+* agrammatism (inability to speak in a grammatically correct fashion)
+* dysprosody (alterations in inflexion, stress, and rhythm)
+* incomplete sentences
+* inability to read
+* inability to write
+* limited verbal output
+* difficulty in naming
+* Speech disorder
+* Speaking Gibberish
+
+===Presentation===
+Acute aphasias
+
+The following table summarizes some major characteristics of different acute aphasias:
+
+ Type of aphasia Repetition Naming Auditory comprehension Fluency 
+ Receptive aphasia mild–mod mild–severe defective fluent paraphasic 
+ Transcortical sensory aphasia good mod–severe poor fluent 
+ Conduction aphasia poor poor relatively good fluent 
+ Anomic aphasia mild mod–severe mild fluent 
+ Expressive aphasia mod–severe mod–severe mild difficulty non-fluent, effortful, slow 
+ Transcortical motor aphasia good mild–severe mild non-fluent 
+ Global aphasia poor poor poor non-fluent 
+ Mixed transcortical aphasia moderate poor poor non-fluent 
+ 
+
+*Individuals with Receptive aphasia may speak in long sentences that have no meaning, add unnecessary words, and even create new "words" (neologisms). For example, someone with Receptive aphasia may say, "You know that smoodle pinkered and that I want to get him round and take care of him like you want before", meaning "The dog needs to go out so I will take him for a walk". They have poor auditory and reading comprehension, and fluent, but nonsensical, oral and written expression. Individuals with Receptive aphasia usually have great difficulty understanding the speech of both themselves and others and are, therefore, often unaware of their mistakes.
+
+*Individuals with Transcortical sensory aphasia, in principle the most general and potentially among the most complex forms of aphasia, may have similar deficits as in Receptive aphasia, but their repetition ability may remain intact.
+
+*Individuals with Conduction aphasia have deficits in the connections between the speech-comprehension and speech-production areas. This might be caused by damage to the arcuate fasciculus, the structure that transmits information between Wernicke's area and Broca's area. Similar symptoms, however, can be present after damage to the insula or to the auditory cortex. Auditory comprehension is near normal, and oral expression is fluent with occasional paraphasic errors. Repetition ability is poor.
+
+*Individuals with Anomic aphasia have difficulty with naming. The patients may have difficulties naming certain words, linked by their grammatical type (e.g., difficulty naming verbs and not nouns) or by their semantic category (e.g., difficulty naming words relating to photography but nothing else) or a more general naming difficulty. Patients tend to produce grammatic, yet empty, speech. Auditory comprehension tends to be preserved. Anomic aphasia is the aphasia presentation of tumors in the language zone; it is the aphasia presentation of Alzheimer's disease. 
+
+*Individuals with Expressive aphasia frequently speak short, meaningful phrases that are produced with great effort. Expressive aphasia is thus characterized as a nonfluent aphasia. Affected people often omit small words such as "is", "and", and "the". For example, a person with Expressive aphasia may say, "Walk dog," which could mean "I will take the dog for a walk", "You take the dog for a walk" or even "The dog walked out of the yard". Individuals with Expressive aphasia are able to understand the speech of others to varying degrees. Because of this, they are often aware of their difficulties and can become easily frustrated by their speaking problems.
+
+*Individuals with Transcortical motor aphasia have similar deficits as Expressive aphasia, except repetition ability remains intact. Auditory comprehension is generally fine for simple conversations, but declines rapidly for more complex conversations. It is associated with right hemiparesis, meaning that there can be paralysis of the patient's right face and arm.
+
+* Individuals with Global aphasia have severe communication difficulties and will be extremely limited in their ability to speak or comprehend language. They may be totally nonverbal, and/or use only facial expressions and gestures to communicate. It is associated with right hemiparesis, meaning that there can be paralysis of the patient's right face and arm.
+
+*Individuals with Mixed transcortical aphasia have similar deficits as in global aphasia, but repetition ability remains intact.
+
+Subcortical aphasias
+
+*Subcortical aphasias Characteristics and symptoms depend upon the site and size of subcortical lesion. Possible sites of lesions include the thalamus, internal capsule, and basal ganglia.
+
+==Causes==
+Aphasia usually results from lesions to the language-relevant areas of the frontal, temporal and parietal lobes of the brain, such as Broca's area, Wernicke's area, and the neural pathways between them. These areas are almost always located in the left hemisphere, and in most people this is where the ability to produce and comprehend language is found. However, in a very small number of people, language ability is found in the right hemisphere. In either case, damage to these language areas can be caused by a stroke, traumatic brain injury, or other brain injury.
+
+Aphasia may also develop slowly, as in the case of a brain tumor or progressive neurological disease, e.g., Alzheimer's or Parkinson's disease. It may also be caused by a sudden hemorrhagic event within the brain. Certain chronic neurological disorders, such as epilepsy or migraine, can also include transient aphasia as a prodromal or episodic symptom. 
+
+Aphasia can result from herpesviral encephalitis. The herpes simplex virus affects the frontal and temporal lobes, subcortical structures, and the hippocampal tissue, which can trigger aphasia. 
+
+Aphasia is also listed as a rare side-effect of the fentanyl patch, an opioid used to control chronic pain. 
+Adverse side effects including chronic aphasia can be caused by cortico-steroids.
+
+==Management==
+There is no one treatment proven to be effective for all types of aphasias. The reason that there is no universal treatment for aphasia is because of the nature of the disorder and the various ways it is presented, as explained in the above sections. Aphasia is rarely exhibited identically, implying that treatment needs to be catered specifically to the individual. Studies have shown that, although there is no consistency on treatment methodology in literature, there is a strong indication that treatment in general has positive outcomes. 
+
+A multi-disciplinary team, including doctors (often a physician is involved, but more likely a clinical neuropsychologist will head the treatment team), physiotherapist, occupational therapist, speech-language pathologist, and social worker, works together in treating aphasia. For the most part, treatment relies heavily on repetition and aims to address language performance by working on task-specific skills. The primary goal is to help the individual and those closest to them adjust to changes and limitations in communication. 
+
+Treatment techniques mostly fall under two approaches:
+#Substitute Skill Model - an approach that uses an aid to help with spoken language, i.e. a writing board
+#Direct Treatment Model - an approach that targets deficits with specific exercises 
+
+Several treatment techniques include the following:
+*Visual Communication Therapy (VIC) - the use of index cards with symbols to represent various components of speech
+*Visual Action Therapy (VAT) - involves training individuals to assign specific gestures for certain objects
+*Functional Communication Treatment (FCT) - focuses on improving activities specific to functional tasks, social interaction, and self-expression
+*Promoting Aphasic's Communicative Effectiveness (PACE) - a means of encouraging normal interaction between patients and clinicians. In this kind of therapy the focus is on pragmatic communication rather than treatment itself. Patients are asked to communicate a given message to their therapists by means of drawing, making hand gestures or even pointing to an object. 
+*Other - i.e. drawing as a way of communicating, trained conversation partners 
+
+More recently, computer technology has been incorporated into treatment options. A key indication for good prognosis is treatment intensity. A minimum of two–three hours per week has been specified to produce positive results. The main advantage of using computers is that it can greatly increase intensity of therapy. These programs consist of a large variety of exercises and can be done at home in addition to face-to-face treatment with a therapist. However, since aphasia presents differently among individuals, these programs must be dynamic and flexible in order to adapt to the variability in impairments. Another barrier is the capability of computer programs to imitate normal speech and keep up with the speed of regular conversation. Therefore, computer technology seems to be limited in a communicative setting, however is effective in producing improvements in communication training. 
+
+Several examples of programs used are StepByStep, Lingraphica, Computer-Based Visual Communication (C-VIC), TouchSpeak (TS), and Sentence Shaper. 
+
+Melodic intonation therapy is often used to treat non-fluent aphasia and has proved to be very effective in some cases. 
+
+==History==
+The first recorded case of aphasia is from an Egyptian papyrus, the Edwin Smith Papyrus, which details speech problems in a person with a traumatic brain injury to the temporal lobe. During the second half of the 19th century, Aphasia was a major focus for scientists and philosophers who were working in the beginning stages in the field of psychology. 
+
+==Prevention==
+Following are some precautions that should be taken to avoid aphasia, by decreasing the risk of stroke, the main cause of aphasia:
+* Exercising regularly
+* Eating a healthy diet
+* Keeping alcohol consumption low and avoiding tobacco use
+* Controlling blood pressure 
+
+==Notable cases==
+
+* Ralph Waldo Emerson 
+
+==See also==
+
+* Agnosia
+* Aphasiology
+* Aprosodia
+
+* Auditory processing disorder
+* Lethologica
+* Origin of speech
+
+==References==
+
+==Sources==
+*
+
+==External links==
+
+* 
+* Luria's Areas of the Human Cortex Involved in Language Illustrated summary of Luria's book Traumatic Aphasia
+* Video clips showing patients with Expressive-type aphasia 
+* A video clip with a patient exhibiting Receptive aphasia
+
+ 
+
+and signs: Speech and voice]
+
+

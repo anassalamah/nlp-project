@@ -1,0 +1,254 @@
+[[Cortisol]]
+
+Cortisol is a steroid hormone, more specifically a glucocorticoid, produced by the zona fasciculata of the adrenal cortex. It is released in response to stress and a low level of blood glucocorticoid. Its primary functions are to increase blood sugar through gluconeogenesis, suppress the immune system, and aid the metabolism of fat, protein, and carbohydrate. It also decreases bone formation. 
+
+Various forms of cortisol are used to treat a variety of diseases. Hydrocortisone (INN, USAN, BAN), which is an identical molecule to cortisol, is one such medication. It can be used to treat people who lack adequate stores of endogenous cortisol. It is on the World Health Organization's List of Essential Medicines, a list of the most important medication needed in a basic health system. 
+
+==Physiology==
+
+===Production and release===
+Cortisol is produced in the human body by the adrenal gland in the zona fasciculata, the second of three layers comprising the adrenal cortex. The cortex forms the outer "bark" of each adrenal gland, situated atop the kidneys. The release of cortisol is controlled by the hypothalamus, a part of the brain. The secretion of corticotropin-releasing hormone (CRH) by the hypothalamus triggers cells in the neighboring anterior pituitary to secrete another hormone, the adrenocorticotropic hormone (ACTH), into the vascular system, through which blood carries it to the adrenal cortex.
+
+Cortisol for injection
+
+===Main functions in the body===
+In the fasting state, cortisol stimulates gluconeogenesis (formation of glucose, in the liver, from certain amino acids, glycerol, lactate, and/or propionate), and activates anti-stress and anti-inflammatory pathways. | It inhibits production of interleukin (IL)-12, interferon (IFN)-gamma, IFN-alpha and tumor-necrosis-factor (TNF)-alpha by antigen-presenting cells (APCs) and T helper (Th)1 cells, but upregulates IL-4, IL-10, and IL-13 by Th2 cells. This results in a shift towards a Th2 immune response rather than general immunosuppression. The activation of the stress system (and resulting increase in cortisol and Th2 shift) seen during an infection is believed to be a protective mechanism which prevents an overactivation of the inflammatory response. 
+
+Cortisol prevents the release of substances in the body that cause inflammation. It is used to treat conditions resulting from over activity of the B-cell-mediated antibody response. Examples include inflammatory and rheumatoid diseases, as well as allergies. Low-potency hydrocortisone, available over the counter in some countries, is used to treat skin problems such as rashes, eczema, and others.
+
+Cortisol plays an important role in glycogenolysis, the breaking down of glycogen to glucose-1-phosphate and glucose, in liver and muscle tissue. Glycogenolysis is stimulated by epinephrine and/or norepinephrine. Cortisol facilitates the activation of glycogen phosphorylase, which is necessary for epinephrine to have an effect on glycogenolysis. 
+
+Elevated levels of cortisol, if prolonged, can lead to proteolysis and muscle wasting. Several studies have shown a lipolytic (breakdown of fat) effect of cortisol, although, under some conditions, cortisol may somewhat suppress lipolysis. Another function is to decrease bone formation. 
+
+===Pregnancy===
+
+During human pregnancy, increased fetal production of cortisol between weeks 30 and 32 initiates production of fetal lung surfactant to promote maturation of the lungs. In fetal lambs, glucocorticoids (principally cortisol) increase after about day 130, with lung surfactant increasing greatly, in response, by about day 135, and although lamb fetal cortisol is mostly of maternal origin during the first 122 days, 88 percent or more is of fetal origin by day 136 of gestation. Although the timing of fetal cortisol concentration elevation in sheep may vary somewhat, it averages about 11.8 days before the onset of labor. In several livestock species (e.g. the cow, sheep, goat and pig), the surge of fetal cortisol late in gestation triggers the onset of parturition by removing the progesterone block of cervical dilation and myometrial contraction. The mechanisms yielding this effect on progesterone differ among species. In the sheep, where progesterone sufficient for maintaining pregnancy is produced by the placenta after about day 70 of gestation, the pre-partum fetal cortisol surge induces placental enzymatic conversion of progesterone to estrogen. (The elevated level of estrogen stimulates prostaglandin secretion and oxytocin receptor development.) In the pregnant cow, where progesterone maintaining pregnancy is provided by the corpus luteum, luteolysis is induced by endometrial release of prostaglandin F2alpha, in response to fetal cortisol (and estrogen). 
+
+Exposure of fetuses to cortisol during gestation can have a variety of developmental outcomes, including alterations in prenatal and postnatal growth patterns. In marmosets, a species of New World primates, pregnant females have varying levels of cortisol during gestation, both within and between females. Mustoe et al. (2012) showed that infants born to mothers with high gestational cortisol during the first trimester of pregnancy had lower rates of growth in body mass indices (BMI) than infants born to mothers with low gestational cortisol (approximately 20% lower). However, postnatal growth rates in these high-cortisol infants was more rapid than low-cortisol infants later in postnatal periods, and complete catch-up in growth had occurred by 540 days of age. These results suggest that gestational exposure to cortisol in fetuses has important potential fetal programming effects on both pre- and post-natal growth in primates. 
+
+=== Other effects ===
+
+Cortisol is released in response to stress, sparing available glucose for the brain, generating new energy from stored reserves, and diverting energy from low-priority activities (such as the immune system) in order to survive immediate threats or prepare for the exertion of rising to a new day. However, prolonged cortisol secretion (which may be due to chronic stress or the excessive secretion seen in Cushing's syndrome) results in significant physiological changes.
+
+==== Immune system ====
+
+Cortisol can weaken the activity of the immune system. Cortisol prevents proliferation of T-cells by rendering the interleukin-2 producer T-cells unresponsive to interleukin-1 (IL-1), and unable to produce the T-cell growth factor. Cortisol also has a negative-feedback effect on interleukin-1. 
+
+IL-1 must be especially useful in combating some diseases; however, endotoxic bacteria have gained an advantage by forcing the hypothalamus to increase cortisol levels (forcing the secretion of CRH hormone, thus antagonizing IL-1). The suppressor cells are not affected by glucosteroid response-modifying factor (GRMF), so the effective setpoint for the immune cells may be even higher than the setpoint for physiological processes (reflecting leukocyte redistribution to lymph nodes, bone marrow, and skin). Rapid administration of corticosterone (the endogenous Type I and Type II receptor agonist) or RU28362 (a specific Type II receptor agonist) to adrenalectomized animals induced changes in leukocyte distribution. Natural killer cells are affected by cortisol. 
+
+==== Bone metabolism ====
+
+Cortisol reduces bone formation, favoring long-term development of osteoporosis. It transports potassium out of cells in exchange for an equal number of sodium ions (see above). This can trigger the hyperkalemia of metabolic shock from surgery. Cortisol also reduces calcium absorption in the intestine. 
+
+==== Collagen ====
+
+Collagen is a molecule that makes connective tissue. It's vital for structural support and is found in muscles, tendons and joints, as well as throughout the entire body. Cortisol inhibits Collagen. Stress studies showed that in laboratory rats, cortisol-induced collagen loss in the skin is ten times greater than in any other tissue. 
+
+==== Wound healing ====
+Cortisol and the stress response have known deleterious effects on the immune system. High levels of perceived stress and increases in cortisol have been found to lengthen wound healing time in healthy, male adults. Those who had the lowest levels of cortisol the day following a 4mm punch biopsy had the fastest healing time. Ebrecht, M., Hextall, J., Kirtley, L, Taylor, A., Dyson, M., & Weinman, J. (2004). Perceived stress and cortisol levels predict speed of wound healing in healthy male adults. Psychoneuroendocrinology, 29 (6), 798-809. In dental students, wounds from punch biopsies took an average of 40% longer to heal when performed three days before an examination as opposed to biopsies performed on the same students during summer vacation. 
+
+In mice, glucocorticoids have been shown to increase following an acute stressor. Wounded mice that underwent a restrained stress test took an average of 3.10 days longer to heal than control mice. In addition, glucocorticoids were shown to increase in the restraint stress test mice, but not in control mice or restraint test mice given a glucocorticoid receptor antagonist. In a study of Siberian hamsters, stress only increased glucocorticoids and wound healing time in rodents that were exposed to a stressor and kept in isolation. Social facilitation speeded wound healing time, mitigating the effects of the stressor. 
+
+==== Insulin ====
+
+Cortisol counteracts insulin, contributes to hyperglycemia-causing hepatic gluconeogenesis and inhibits the peripheral utilization of glucose (insulin resistance) by decreasing the translocation of glucose transporters (especially GLUT4) to the cell membrane. However, cortisol increases glycogen synthesis (glycogenesis) in the liver. The permissive effect of cortisol on insulin action in liver glycogenesis is observed in hepatocyte culture in the laboratory, although the mechanism for this is unknown.
+
+==== Amino acids ====
+
+Cortisol raises the free amino acids in the serum. It does this by inhibiting collagen formation, decreasing amino acid uptake by muscle, and inhibiting protein synthesis. Cortisol (as opticortinol) may inversely inhibit IgA precursor cells in the intestines of calves. Cortisol also inhibits IgA in serum, as it does IgM; however, it is not shown to inhibit IgE. 
+
+==== Gastric and renal secretion ====
+
+Cortisol stimulates gastric-acid secretion. Cortisol's only direct effect on the hydrogen ion excretion of the kidneys is to stimulate the excretion of ammonium ions by deactivating the renal glutaminase enzyme. Net chloride secretion in the intestines is inversely decreased by cortisol in vitro (methylprednisolone). 
+
+==== Water ====
+
+Cortisol acts as antidiuretic hormone, controlling one-half of intestinal diuresis; it has also been shown to control kidney diuresis in dogs. The decline in water excretion following a decline in cortisol (dexamethasone) in dogs is probably due to inverse stimulation of antidiuretic hormone (ADH or arginine vasopressin), which is not overridden by water loading. Humans and other animals also use this mechanism. 
+
+==== Copper ====
+
+Cortisol stimulates many copper enzymes (often to 50% of their total potential), probably to increase copper availability for immune purposes. This includes lysyl oxidase, an enzyme that cross-links collagen and elastin. Especially valuable for immune response is cortisol's stimulation of the superoxide dismutase, since this copper enzyme is almost certainly used by the body to permit superoxides to poison bacteria.
+
+Cortisol causes an inverse four- or fivefold decrease of metallothionein (a copper storage protein) in mice; however, rodents do not synthesize cortisol themselves. This may be to furnish more copper for ceruloplasmin synthesis or to release free copper. Cortisol has an opposite effect on aminoisobuteric acid than on the other amino acids. If alpha-aminoisobuteric acid is used to transport copper through the cell wall, this anomaly might be explained.
+
+==== Sodium ====
+
+Cortisol inhibits sodium loss through the small intestine of mammals. Sodium depletion, however, does not affect cortisol levels so cortisol cannot be used to regulate serum sodium. Cortisol's original purpose may have been sodium transport. This hypothesis is supported by the fact that freshwater fish utilize cortisol to stimulate sodium inward, while saltwater fish have a cortisol-based system for expelling excess sodium. 
+
+==== Potassium ====
+
+A sodium load augments the intense potassium excretion by cortisol. Corticosterone is comparable to cortisol in this case. For potassium to move out of the cell, cortisol moves an equal number of sodium ions into the cell. This should make pH regulation much easier (unlike the normal potassium-deficiency situation, in which two sodium ions move in for each three potassium ions that move out—closer to the deoxycorticosterone effect).
+
+Nevertheless, cortisol consistently causes serum alkalosis; in a deficiency, serum pH does not change. The purpose of this may be to reduce serum pH to an optimum value for some immune enzymes during infection, when cortisol declines. Potassium is also blocked from loss in the kidneys by a decline in cortisol (9 alpha fluorohydrocortisone). 
+
+==== Memory ====
+
+Cortisol works with epinephrine (adrenaline) to create memories of short-term emotional events; this is the proposed mechanism for storage of flash bulb memories, and may originate as a means to remember what to avoid in the future. However, long-term exposure to cortisol damages cells in the hippocampus; this damage results in impaired learning. Furthermore, it has been shown that cortisol inhibits memory retrieval of already stored information. 
+
+==== Maternal separation ====
+
+Changes in cortisol have also been linked to various types of separation. One widely studied form of separation is maternal separation. Following maternal separation, there is a significant increase in cortisol among both the mother and the infant. These changes are due to dysfunctions in the Hypothalamic-pituitary-adrenal (HPA) axis during a critical period in childhood. One study found that cortisol levels measured in the hair significantly decreased in peer-reared Rhesus monkeys in comparison to mother-reared monkeys at the age of two years. This difference was significant at the mark of two years, and remained significant when tested again at three and a half years. This study marks the importance of maternal care, showing that despite being raised by a large peer support group, Rhesus monkeys experience long-lasting hypocortisolism when raised without their mother. 
+
+These effects of maternal separation on cortisol also continue much later in life. One study which examined mid-aged men and women and found that separation lasting 1 or more years during childhood is associated with greater cortisol levels upon daily awakening but decreased magnitude of natural diurnal cortisol fluctuations, possibly symbolizing a diminished activity of the HPA axis. Another study examined adults who were put in to foster care during World War II.
+
+Those separated from both of their parents had higher levels of cortisol in comparison to those who were not separated. These effects were seen more than 60 years after the childhood separation had occurred. This study also found that the length of separation did not affect hormonal responses. . 
+
+These studies mark the importance of maternal care and its effect on cortisol levels not only during childhood separations, but also cortisol levels later in life. More research is needed in this area to be sure of the definite cause of different HPA axis functioning later in life. Also, future research is needed to be sure there is indeed a critical period for maternal separation and its resulting decrease in cortisol. 
+
+Aside from maternal separation, studies have found that increases in cortisol levels are also associated with romantic partner separations. These increases in cortisol were more commonly found when the partner who was left for a period of 4 to 6 days has a high attachment anxiety. This could be due to increased stress when their partner was away. But, further evidence is needed to identify the relationship between romantic separation and cortisol. 
+
+==== Additional effects ====
+
+- Increases blood pressure by increasing the sensitivity of the vasculature to epinephrine and norepinephrine; in the absence of cortisol, widespread vasodilation occurs 
+
+-Inhibits secretion of corticotropin-releasing hormone (CRH), resulting in feedback inhibition of ACTH (Adrenocorticotropic hormone or corticotropin) secretion. Some researchers believe that this normal feedback system may become dysregulated when animals are exposed to chronic stress 
+
+- Causes the kidneys to produce hypotonic urine 
+
+- Shuts down the reproductive system, resulting in an increased chance of miscarriage and (in some cases) temporary infertility. Fertility returns after cortisol levels return to normal. 
+
+- Has anti-inflammatory properties, reducing histamine secretion and stabilizing lysosomal membranes. Stabilization of lysosomal membranes prevents their rupture, preventing damage to healthy tissues 
+
+- Stimulates hepatic detoxification by inducing tryptophan oxygenase (reducing serotonin levels in the brain), glutamine synthase (reducing glutamate and ammonia levels in the brain), cytochrome P-450 hemoprotein (mobilizing arachidonic acid), and metallothionein (reducing heavy metals in the body) 
+
+- In addition to cortisol's effects in binding to the glucocorticoid receptor, because of its molecular similarity to aldosterone it also binds to the mineralocorticoid receptor. Aldosterone and cortisol have a similar affinity for the mineralocorticoid receptor; however, glucocorticoids circulate at roughly 100 times the level of mineralocorticoids. An enzyme exists in mineralocorticoid target tissues to prevent overstimulation by glucocorticoids and allow selective mineralocorticoid action. This enzyme—11-beta hydroxysteroid dehydrogenase type II (Protein:HSD11B2)—catalyzes the deactivation of glucocorticoids to 11-dehydro metabolites 
+
+- There are potential links between cortisol, appetite, and obesity. 
+
+===Normal levels===
+
+Normal values indicated in the following tables pertain to humans (normals vary among species).
+Measured cortisol levels, and therefore reference ranges, depend on the analytical method used and factors such as age and sex. Test results should, therefore, always be interpreted using the reference range from the laboratory that produced the result. 
+
+ Reference ranges for blood plasma content of free cortisol 
+ Time Lower limit Upper limit Unit 
+ 09:00 am 140 Biochemistry Reference Ranges at Good Hope Hospital Retrieved 8 November 2009 700 nmol/L 
+ 5 Derived from molar values using molar mass of 362 g/mol 25 μg/dL 
+ Midnight 80 350 nmol/L 
+ 2.9 13 μg/dL 
+
+Using the molecular weight of 362.460 g/mole, the conversion factor from µg/dl to nmol/L is approximately 27.6; thus, 10 µg/dl is approximately equal to 276 nmol/L.
+
+ Reference ranges for urinalysis of free cortisol 
+ Lower limit Upper limit Unit 
+ 28 Converted from µg/24h, using molar mass of 362.460 g/mol or 30 280 or 490 nmol/24h 
+ 10 or 11 Converted from nmol/24h, using molar mass of 362.460 g/mol 100 or 176 µg/24 h 
+
+====Patterns====
+
+Diurnal cycles of cortisol levels are found in several animal species, including humans. In species that exhibit such cycles, different timing of diurnal maxima and minima has been observed, not only in different species but also, in some cases, within the same species. 
+
+In humans, the amount of cortisol present in the blood undergoes diurnal variation; the level peaks in the early morning (approximately 8 am) and reaches its lowest level at about midnight-4 am, or three to five hours after the onset of sleep. Information about the light/dark cycle is transmitted from the retina to the paired suprachiasmatic nuclei in the hypothalamus. This pattern is not present at birth; estimates of when it begins vary from two weeks to nine months of age. 
+
+Changed patterns of serum cortisol levels have been observed in connection with abnormal ACTH levels, clinical depression, psychological stress, and physiological stressors such as hypoglycemia, illness, fever, trauma, surgery, fear, pain, physical exertion, or temperature extremes. Cortisol levels may also differ for individuals with autism or Asperger's syndrome. 
+
+There is also significant individual variation, although a given person tends to have consistent rhythms. 
+
+Ultradian as well as circadian cycles of cortisol secretion have been observed, e.g. a cycle period of about 2 h in cattle and about 1 h in sheep. 
+
+===Binding===
+Most serum cortisol (all but about 4%) is bound to proteins, including corticosteroid binding globulin (CBG) and serum albumin. Free cortisol passes easily through cellular membranes, where they bind intracellular cortisol receptors. 
+
+===Regulation===
+The primary control of cortisol is the pituitary gland peptide, adrenocorticotropic hormone (ACTH). ACTH probably controls cortisol by controlling the movement of calcium into the cortisol-secreting target cells. ACTH is in turn controlled by the hypothalamic peptide corticotropin-releasing hormone (CRH), which is under nervous control. CRH acts synergistically with arginine vasopressin, angiotensin II, and epinephrine. (In swine, which do not produce arginine vasopressin, lysine vasopressin acts synergistically with CRH. )
+
+When activated macrophages start to secrete interleukin-1 (IL-1), which synergistically with CRH increases ACTH, T-cells also secrete glucosteroid response modifying factor (GRMF or GAF) as well as IL-1; both increase the amount of cortisol required to inhibit almost all the immune cells. Immune cells then assume their own regulation, but at a higher cortisol setpoint. The increase in cortisol in diarrheic calves is minimal over healthy calves, however, and falls over time. The cells do not lose all their fight-or-flight override because of interleukin-1's synergism with CRH. Cortisol even has a negative feedback effect on interleukin-1 —especially useful to treat diseases that force the hypothalamus to secrete too much CRH, such as those caused by endotoxic bacteria. The suppressor immune cells are not affected by GRMF, so the immune cells' effective setpoint may be even higher than the setpoint for physiological processes. GRMF (known as GAF in this reference) affects primarily the liver (rather than the kidneys) for some physiological processes. 
+
+High-potassium media (which stimulates aldosterone secretion in vitro) also stimulate cortisol secretion from the fasciculata zone of canine adrenals — unlike corticosterone, upon which potassium has no effect. 
+
+Potassium loading also increases ACTH and cortisol in humans. This is probably the reason why potassium deficiency causes cortisol to decline (as mentioned) and causes a decrease in conversion of 11-deoxycortisol to cortisol. This may also have a role in rheumatoid-arthritis pain; cell potassium is always low in RA. 
+
+==== Factors generally reducing cortisol levels ====
+
+* Magnesium supplementation decreases serum cortisol levels after aerobic exercise, but not after resistance training. 
+* Omega-3 fatty acids have a dose-dependent effect in slightly reducing cortisol release influenced by mental stress, suppressing the synthesis of interleukin-1 and -6 and enhancing the synthesis of interleukin-2; the former promotes higher CRH release. Omega-6 fatty acids, on the other hand, have an inverse effect on interleukin synthesis. 
+* Music therapy can reduce cortisol levels in certain situations. 
+* Massage therapy can reduce cortisol. 
+* Laughing, and the experience of humour, can lower cortisol levels. 
+* Soy-derived phosphatidylserine interacts with cortisol; the correct dose, however, is unclear. 
+* Black tea may hasten recovery from a high-cortisol condition. 
+* Regular dancing has been shown to lead to significant decreases in salivary cortisol concentrations. 
+
+====Factors generally increasing cortisol levels====
+* Viral infections increase cortisol levels through activation of the HPA axis by cytokines. 
+* Caffeine may increase cortisol levels. 
+* Sleep deprivation 
+* Intense (high VO2 max) or prolonged physical exercise stimulates cortisol release to increase gluconeogenesis and maintain blood glucose. Proper nutrition and high-level conditioning can help stabilize cortisol release.
+* The Val/Val variation of the BDNF gene in men and the Val/Met variation in women are associated with increased salivary cortisol in a stressful situation. 
+* Hypoestrogenism and melatonin supplementation increase cortisol levels in postmenopausal women. 
+* Severe trauma or stressful events can elevate cortisol levels in the blood for prolonged periods. 
+* Subcutaneous adipose tissue regenerates cortisol from cortisone. 
+* Anorexia nervosa may be associated with increased cortisol levels. 
+* The serotonin receptor gene 5HTR2C is associated with increased cortisol production in men. 
+* Stimuli associated with sexual intercourse can increase cortisol levels in gilts (a young female pig that has not produced her first litter). 
+* Severe calorie restriction causes elevated baseline levels of cortisol. 
+* Continuous consumption of alcohol over an extended period of time has been shown to raise cortisol levels in the body.
+* Posing in low-power nonverbal displays through close, contractive postures can increase cortisol levels. 
+
+==Disorders of cortisol production==
+* Hypercortisolism: Excessive levels of cortisol in the blood. (See Cushing's syndrome.)
+* Hypocortisolism (adrenal insufficiency): Insufficient levels of cortisol in the blood.
+
+The relationship between cortisol and ACTH, and some consequent conditions, are as follows:
+
+ THE DISORDERS OF CORTISOL SECRETION 
+ Plasma ACTH 
+ ↓ ↑ 
+ Plasma Cortisol ↑ Primary hypercortisolism (Cushing's syndrome) Secondary hypercortisolism (pituitary or ectopic tumor, Cushing's disease, pseudo-Cushing's syndrome) 
+ ↓ Secondary hypocortisolism (pituitary tumor, Sheehan's syndrome) Primary hypocortisolism (Addison's disease, Nelson's syndrome) 
+
+A 2010 study has found that serum cortisol predicts increased cardiovascular mortality in patients with acute coronary syndrome. 
+
+==Pharmacology==
+Hydrocortisone is the pharmaceutical term for cortisol used in oral administration, intravenous injection, or topical application. It is used as an immunosuppressive drug, given by injection in the treatment of severe allergic reactions such as anaphylaxis and angioedema, in place of prednisolone in patients needing steroid treatment but unable take oral medication, and perioperatively in patients on long-term steroid treatment to prevent Addisonian crisis. It may be used topically for allergic rashes, eczema, psoriasis, and certain other inflammatory skin conditions. It may also be injected into inflamed joints resulting from diseases such as gout. Fluticasone propionate is a corticosteroid used in nasal sprays and asthma inhalers.
+
+Compared to hydrocortisone, prednisolone is about four times as strong and dexamethasone about forty times as strong, in their anti-inflammatory effect. For side effects, see corticosteroid and prednisolone.
+
+Topical hydrocortisone creams and ointments are available in most countries without prescription in strengths ranging from 0.05% to 2.5% (depending on local regulations) with stronger forms available by prescription only. Covering the skin after application increases the absorption and effect. Such enhancement is sometimes prescribed, but otherwise should be avoided to prevent overdose and systemic impact.
+
+Advertising for the dietary supplement CortiSlim originally (and falsely) claimed that it contributed to weight loss by blocking cortisol. The manufacturer was fined $12 million by the Federal Trade Commission in 2007 for false advertising and no longer claims in their marketing that CortiSlim is a cortisol antagonist. 
+
+==Biochemistry==
+
+===Biosynthesis===
+Steroidogenesis, showing cortisol at right.
+
+Cortisol is synthesized from cholesterol. Synthesis takes place in the zona fasciculata of the adrenal cortex. (The name cortisol is derived from cortex.) While the adrenal cortex also produces aldosterone (in the zona glomerulosa) and some sex hormones (in the zona reticularis), cortisol is its main secretion in humans and several other species. (However, in cattle, corticosterone levels may approach or exceed. cortisol levels.). The medulla of the adrenal gland lies under the cortex, mainly secreting the catecholamines adrenaline (epinephrine) and noradrenaline (norepinephrine) under sympathetic stimulation.
+
+The synthesis of cortisol in the adrenal gland is stimulated by the anterior lobe of the pituitary gland with adrenocorticotropic hormone (ACTH); ACTH production is in turn stimulated by corticotropin-releasing hormone (CRH), which is released by the hypothalamus. ACTH increases the concentration of cholesterol in the inner mitochondrial membrane, via regulation of the STAR (steroidogenic acute regulatory) protein. It also stimulates the main rate-limiting step in cortisol synthesis, in which cholesterol is converted to pregnenolone and catalyzed by Cytochrome P450SCC (side-chain cleavage enzyme). 
+
+===Metabolism===
+
+Cortisol is metabolized by the 11-beta hydroxysteroid dehydrogenase system (11-beta HSD), which consists of two enzymes: 11-beta HSD1 and 11-beta HSD2.
+* 11-beta HSD1 utilizes the cofactor NADPH to convert biologically inert cortisone to biologically active cortisol
+* 11-beta HSD2 utilizes the cofactor NAD+ to convert cortisol to cortisone
+
+Overall, the net effect is that 11-beta HSD1 serves to increase the local concentrations of biologically active cortisol in a given tissue; 11-beta HSD2 serves to decrease local concentrations of biologically active cortisol.
+
+Cortisol is also metabolized into 5-alpha tetrahydrocortisol (5-alpha THF) and 5-beta tetrahydrocortisol (5-beta THF), reactions for which 5-alpha reductase and 5-beta reductase are the rate-limiting factors, respectively. 5-Beta reductase is also the rate-limiting factor in the conversion of cortisone to tetrahydrocortisone (THE).
+
+An alteration in 11-beta HSD1 has been suggested to play a role in the pathogenesis of obesity, hypertension, and insulin resistance known as metabolic syndrome. 
+
+An alteration in 11-beta HSD2 has been implicated in essential hypertension and is known to lead to the syndrome of apparent mineralocorticoid excess (SAME).
+
+== Health disparities ==
+
+By measuring salivary cortisol, researchers have found a decrease in cortisol concentration in people with leadership roles as compared to non-leadership roles. The results were independent of differences in education and income. 
+
+Cortisol, as well as other glucocorticoids, have been used as biomarkers of psychological stress. 
+
+Lower socioeconomic status is associated with higher evening levels of cortisol. 
+
+Obese patients have higher hair cortisol levels than overweight and normal weight subjects. ahead of print 
+
+==References==
+
+==External links==
+
+*Cortisol MS Spectrum
+*Dosage Side Effects and Drug Interaction Warnings
+*Cortisol (serum/plasma) at Lab Tests Online 
+*Cortisol: analyte monograph - The Association for Clinical Biochemistry and Laboratory Medicine
+*How to stay healthy with Cortisol
+
+

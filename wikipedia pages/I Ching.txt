@@ -1,0 +1,297 @@
+[[I Ching]]
+
+The I Ching, also known as the Classic of Changes, Book of Changes, Zhouyi and Yijing, is one of the oldest of the Chinese classic texts. Wilhelm, R. I Ching Introduction. English translation by Cary F. Baynes; HTML edition by Dan Baruth. Retrieved on: January 20, 2008. The book contains a divination system comparable to Western geomancy or the West African Ifá system; in Western cultures and modern East Asia, it is still widely used for this purpose.
+
+Traditionally, the I Ching and its hexagrams were thought to pre-date recorded history, and based on traditional Chinese accounts, its origins trace back to the 3rd and 2nd millennia BCE. Modern scholarship suggests that the earliest layers of the text may date from the end of the 2nd millennium BCE, but place doubts on the mythological aspects in the traditional accounts. Some consider the I Ching the oldest extant book of divination, dating from 1,000 BCE and before. The oldest manuscript that has been found, albeit incomplete, dates back to the Warring States period (475–221 BCE). 
+
+During the Warring States Period, the text was re-interpreted as a system of cosmology and philosophy that subsequently became intrinsic to Chinese culture. It centered on the ideas of the dynamic balance of opposites, the evolution of events as a process, and acceptance of the inevitability of change.
+
+The standard text originated from the Old Text version (古文經) transmitted by Fei Zhi (费直, c. 50 BCE-10 CE) of the Han Dynasty, which survived Qin’s book-burning. During the Han Dynasty this version competed with the bowdlerised new text (今文經) version transmitted by Tian He at the beginning of the Western Han. However, by the time of the Tang Dynasty the Old Text version became accepted as standard.
+
+==History==
+
+===Traditional view===
+Traditionally it was believed that the principles of the I Ching originated with the mythical Fu Xi (伏羲 Fú Xī). A. Terrien de la Couperie, "China and the Chinese: Their Early History and Future Prospects," In this respect he is seen as an early culture hero, one of the earliest legendary rulers of China (traditional dates 2800 BCE-2737 BCE), reputed to have had the 8 trigrams (八卦 bā guà) revealed to him on the back of a mythic dragon horse. By the time of the legendary Yu (禹 Yǔ) 2194 BCE – 2149 BCE, the trigrams had supposedly been developed into 64 hexagrams (六十四卦 lìu shí sì gùa), which were recorded in the scripture Lian Shan (連山 Lián Shān; also called Lian Shan Yi). Lian Shan, meaning "continuous mountains" in Chinese, begins with the hexagram Bound (艮 gèn), which depicts a mountain (¦¦|) mounting on another and is believed to be the origin of the scripture's name.
+
+After the traditionally recorded Xia Dynasty was overthrown by the Shang Dynasty, the hexagrams are said to have been re-deduced to form Gui Cang (歸藏 Guī Cáng; also called Gui Cang Yi), and the hexagram responding (坤 kūn) became the first hexagram. Gui Cang may be literally translated into "return and be contained", which refers to earth as the first hexagram itself indicates. At the time of Shang's last king, Zhou Wang, King Wen of Zhou is said to have deduced the hexagram and discovered that the hexagrams beginning with Initiating (乾 qián) revealed the rise of Zhou. He then gave each hexagram a description regarding its own nature, thus Gua Ci (卦辭 guà cí, "Explanation of Hexagrams").
+
+When King Wu of Zhou, son of King Wen, toppled the Shang Dynasty, his brother Zhou Gong Dan is said to have created Yao Ci (爻辭 yáo cí, "Explanation of Horizontal Lines") to clarify the significance of each horizontal line in each hexagram. It was not until then that the whole context of I Ching was understood. Its philosophy heavily influenced the literature and government administration of the Zhou Dynasty (1122 BCE-256 BCE).
+
+Later, during the time of Spring and Autumn Period (722 BCE-481 BCE), Confucius is traditionally said to have written the Shi Yi (十翼 shí yì, "Ten Wings"), a group of commentaries on the I Ching. By the time of Han Wu Di (漢武帝 Hàn Wǔ Dì) of the Western Han Dynasty (c. 200 BCE), Shi Yi was often called Yi Zhuan (易傳 yì zhùan, "Commentary on the I Ching"). Together with the commentaries by Confucius, I Ching is also often referred to as Zhou Yi (周易 zhōu yì, "Changes of Zhou"). All later texts about Zhou Yi were explanations only, due to the classic's deep meaning.
+
+=== Modernist view ===
+Oracle turtle shell In the past 50 years a "Modernist" history of the I Ching emerged based on research into Shang and Zhou dynasties' oracle bones, Zhou bronze inscriptions and other sources (Marshall 2001, Rutt 1996, Shaughnessy 1993, Smith 2008). In the 1970s, Chinese archaeologists discovered intact Han dynasty-era tombs in Mawangdui near Changsha, Hunan province. One of the tombs contained the Mawangdui Silk Texts, a 2nd-century BCE new text version of the I Ching, the Dao De Jing and other works, which are mostly similar yet in some ways diverge from the received, or traditional texts preserved historically. This version of the I Ching, despite its textual form, belongs to the same textual tradition as the standard text, which suggests it was prepared from an old text version for the use of its Han patron.
+
+Rather than being the work of one or several legendary or historical figures, the core divinatory text is now thought to be an accretion of Western Zhou divinatory concepts. According to Daniel Woolf, the text reached a "definitive form" at the end of the 2nd millennium BCE. As for the Shi Yi commentaries traditionally attributed to Confucius, scholars from the time of the 11th century CE scholar Ouyang Xiu onward have doubted this, based on textual analysis, and modern scholars date most of them to the Warring States period (475 BCE-256 or 221 BCE), with some sections perhaps being as late as the Western Han period (206 BCE-9 CE).
+
+==Structure==
+The text of the I Ching is a set of oracular statements represented by 64 sets of six lines each called hexagrams (卦 guà). 
+
+Each hexagram is a figure composed of six stacked horizontal lines (爻 yáo), each line is either Yang (an unbroken, or solid line), or Yin (broken, an open line with a gap in the center). With six such lines stacked from bottom to top there are 26 or 64 possible combinations, and thus 64 hexagrams represented.
+
+The hexagram diagram is composed of two three-line arrangements called trigrams (卦 guà). There are 23, hence 8, possible trigrams. The traditional view was that the hexagrams were a later development and resulted from combining two trigrams. However, in the earliest relevant archaeological evidence, groups of numerical symbols on many Western Zhou bronzes and a very few Shang oracle bones, such groups already usually appear in sets of six. A few have been found in sets of three numbers, but these are somewhat later. Numerical sets greatly predate the groups of broken and unbroken lines, leading modern scholars to doubt the mythical early attributions of the hexagram system, (Shaugnessy 1993).
+
+When a hexagram is cast using one of the traditional processes of divination with I Ching, each 
+Yin and Yang line will be indicated as either moving (that is, changing), or fixed (unchanging). Sometimes called old lines, a second hexagram is created by changing moving lines to their opposite. These are referred to in the text by the numbers six through nine as follows:
+
+* Nine is old Yang (—θ—), an unbroken line changing into Yin, a broken line (—&nbsp;—);
+* Eight is young Yin (—&nbsp;—), a broken line without change;
+* Seven is young Yang (———), an unbroken line without change;
+* Six is old Yin (—X—), a broken line changing into Yang, an unbroken line (———).
+
+The oldest method for casting the hexagrams, the yarrow stalk method, was gradually replaced during the Han Dynasty by the three coins method and the yarrow stalk method was lost. With the coin method, the probability of yin or yang is equal while with the recreated yarrow stalk method of Zhu Xi (1130–1200), the probability of old yang is three times greater than old yin. 
+
+There have been several arrangements of the trigrams and hexagrams over the ages. The bā gùa is a circular arrangement of the trigrams, traditionally printed on a mirror, or disk. According to legend, Fu Xi found the bā gùa on the scales of a tortoise's back. 
+
+They function like a magic square with the four axes summing to the same value, using 0 and 1 to represent Yin and Yang: 000 + 111 = 101 + 010 = 011 + 100 = 110 + 001 = 111.
+
+The King Wen sequence is the traditional (i.e. "classical") sequence of the hexagrams used in most contemporary editions of the I Ching.
+
+===Trigrams===
+The eight trigrams
+
+The solid line represents Yang, the creative principle. 
+
+The open line represents Yin, the receptive principle. 
+
+These principles are also represented in a common circular symbol (☯), known as taijitu (太極圖), but more commonly known in the west as the Yin-Yang (陰陽) diagram, expressing the idea of complementarity of changes: when Yang is at top, Yin is increasing, and vice versa.
+
+In the following lists, the trigrams and hexagrams are represented using a common textual convention, horizontally from left-to-right, using '|' for Yang and '¦' for Yin, rather than the traditional bottom-to-top. 
+
+In a more modern usage, the numbers 0 and 1 can also be used to represent Yin and Yang, being read left-to-right. 
+
+There are eight possible trigrams (八卦 bāguà):
+
+ Trigram Figure Binary Value Name Translation: Wilhelm Wilhelm, R. & Baynes, C., (1967): \"The I Ching or Book of Changes\", With foreword by Carl Jung, Introduction, Bollingen Series XIX, Princeton University Press, (1st ed. 1950) Image in Nature (pp.l-li) Direction (p. 269) Family Relationship (p. 274) Body Part (p. 274) Attribute (p. 273) Stage/ State (pp.l-li) Animal (p. 273) 
+ 1 ☰ 111 乾qián the Creative, Force heaven, sky天 northwest father head strong creative 馬horse 
+ 2 ☱ 110 兌duì the Joyous, Open lake澤 west third daughter mouth pleasure tranquil (complete devotion) 羊sheep, goat 
+ 3 ☲ 101 離lí the Clinging, Radiance fire火 south second daughter eye light-giving, dependence clinging, clarity, adaptable 雉pheasant 
+ 4 ☳ 100 震zhèn the Arousing, Shake thunder雷 east first son foot inciting movement initiative 龍dragon 
+ 5 ☴ 011 巽xùn the Gentle, Ground wind風 southeast first daughter thigh penetrating gentle entrance 雞fowl 
+ 6 ☵ 010 坎kǎn the Abysmal, Gorge water水 north second son ear dangerous in-motion 豕pig 
+ 7 ☶ 001 艮gèn Keeping Still, Bound mountain山 northeast third son hand resting, stand-still completion 狗wolf, dog 
+ 8 ☷ 000 坤kūn the Receptive, Field earth地 southwest mother belly devoted, yielding receptive 牛cow 
+
+The first 3 lines of the hexagram, called the lower trigram, are seen as the inner aspect of the change that is occurring. The upper trigram (the last three lines of the hexagram), is the outer aspect. The change described is thus the dynamic of the inner (personal) aspect relating to the outer (external) situation. Thus, hexagram 04 ¦|¦¦¦| Enveloping, is composed of the inner trigram ¦|¦ Gorge, relating to the outer trigram ¦¦| Bound.
+
+===Hexagram lookup table===
+
+ Upper → Lower ↓ ☰ 乾 QiánHeaven ☳ 震 ZhènThunder ☵ 坎 KǎnWater ☶ 艮 GènMountain ☷ 坤 KūnEarth ☴ 巽 XùnWind ☲ 離 LíFlame ☱ 兌 DuìLake 
+ ☰ 乾 QiánHeaven 01 ䷀ 34 ䷡ 05 ䷄ 26 ䷙ 11 ䷊ 09 ䷈ 14 ䷍ 43 ䷪ 
+ ☳ 震 ZhènThunder 25 ䷘ 51 ䷲ 03 ䷂ 27 ䷚ 24 ䷗ 42 ䷩ 21 ䷔ 17 ䷐ 
+ ☵ 坎 KǎnWater 06 ䷅ 40 ䷧ 29 ䷜ 04 ䷃ 07 ䷆ 59 ䷺ 64 ䷿ 47 ䷮ 
+ ☶ 艮 GènMountain 33 ䷠ 62 ䷽ 39 ䷦ 52 ䷳ 15 ䷎ 53 ䷴ 56 ䷷ 31 ䷞ 
+ ☷ 坤 KūnEarth 12 ䷋ 16 ䷏ 08 ䷇ 23 ䷖ 02 ䷁ 20 ䷓ 35 ䷢ 45 ䷬ 
+ ☴ 巽 XùnWind 44 ䷫ 32 ䷟ 48 ䷯ 18 ䷑ 46 ䷭ 57 ䷸ 50 ䷱ 28 ䷛ 
+ ☲ 離 LíFlame 13 ䷌ 55 ䷶ 63 ䷾ 22 ䷕ 36 ䷣ 37 ䷤ 30 ䷝ 49 ䷰ 
+ ☱ 兌 DuìLake 10 ䷉ 54 ䷵ 60 ䷻ 41 ䷨ 19 ䷒ 61 ䷼ 38 ䷥ 58 ䷹ 
+
+===The hexagrams===
+The text of the I Ching describes each of the 64 hexagrams, and later scholars added commentaries and analyses of each one; these have been subsumed into the text comprising the I Ching.
+
+In the table below, each hexagram's translation is accompanied by a form of R. Wilhelm translation (which is the source for the Unicode names), followed by a retranslation.
+
+ Hexagram R. Wilhelm Modern Interpretation 
+ 01. |||||| ䷀ Force (乾 qián) The Creative Possessing Creative Power & Skill 
+ 02. ¦¦¦¦¦¦ ䷁ Field (坤 kūn) The Receptive Needing Knowledge & Skill; Do not force matters and go with the flow , 
+ 03. |¦¦¦|¦ ䷂ Sprouting (屯 zhūn) Difficulty at the Beginning Sprouting 
+ 04. ¦|¦¦¦| ䷃ Enveloping (蒙 méng) Youthful Folly Detained, Enveloped and Inexperienced , 
+ 05. |||¦|¦ ䷄ Attending (需 xū) Waiting Uninvolvement (Wait for now), Nourishment 
+ 06. ¦|¦||| ䷅ Arguing (訟 sòng) Conflict Engagement in Conflict 
+ 07. ¦|¦¦¦¦ ䷆ Leading (師 shī) The Army Bringing Together, Teamwork 
+ 08. ¦¦¦¦|¦ ䷇ Grouping (比 bǐ) Holding Together Union 
+ 09. |||¦|| ䷈ Small Accumulating (小畜 xiǎo chù) Small Taming Accumulating Resources 
+ 10. ||¦||| ䷉ Treading (履 lǚ) Treading (Conduct) Continuing with Alertness 
+ 11. |||¦¦¦ ䷊ Pervading (泰 tài) Peace Pervading 
+ 12. ¦¦¦||| ䷋ Obstruction (否 pǐ) Standstill Stagnation 
+ 13. |¦|||| ䷌ Concording People (同人 tóng rén) Fellowship Fellowship, Partnership 
+ 14. ||||¦| ䷍ Great Possessing (大有 dà yǒu) Great Possession Independence, Freedom 
+ 15. ¦¦|¦¦¦ ䷎ Humbling (謙 qiān) Modesty Being Reserved, Refraining 
+ 16. ¦¦¦|¦¦ ䷏ Providing-For (豫 yù) Enthusiasm Inducement, New Stimulus 
+ 17. |¦¦||¦ ䷐ Following (隨 suí) Following Following 
+ 18. ¦||¦¦| ䷑ Corrupting (蠱 gǔ) Work on the Decayed Repairing 
+ 19. ||¦¦¦¦ ䷒ Nearing (臨 lín) Approach Approaching Goal, Arriving 
+ 20. ¦¦¦¦|| ䷓ Viewing (觀 guān) Contemplation The Withholding 
+ 21. |¦¦|¦| ䷔ Gnawing Bite (噬嗑 shì kè) Biting Through Deciding 
+ 22. |¦|¦¦| ䷕ Adorning (賁 bì) Grace Embellishing 
+ 23. ¦¦¦¦¦| ䷖ Stripping (剝 bō) Splitting Apart Stripping, Flaying 
+ 24. |¦¦¦¦¦ ䷗ Returning (復 fù) Return Returning 
+ 25. |¦¦||| ䷘ Without Embroiling (無妄 wú wàng) Innocence Without Rashness 
+ 26. |||¦¦| ䷙ Great Accumulating (大畜 dà chù) Great Taming Accumulating Wisdom 
+ 27. |¦¦¦¦| ䷚ Swallowing (頤 yí) Mouth Corners Seeking Nourishment 
+ 28. ¦||||¦ ䷛ Great Exceeding (大過 dà guò) Great Preponderance Great Surpassing 
+ 29. ¦|¦¦|¦ ䷜ Gorge (坎 kǎn) The Abysmal Water Darkness, Gorge 
+ 30. |¦||¦| ䷝ Radiance (離 lí) The Clinging Clinging, Attachment 
+ 31. ¦¦|||¦ ䷞ Conjoining (咸 xián) Influence Attraction 
+ 32. ¦|||¦¦ ䷟ Persevering (恆 héng) Duration Perseverance 
+ 33. ¦¦|||| ䷠ Retiring (遯 dùn) Retreat Withdrawing 
+ 34. ||||¦¦ ䷡ Great Invigorating (大壯 dà zhuàng) Great Power Great Boldness 
+ 35. ¦¦¦|¦| ䷢ Prospering (晉 jìn) Progress Expansion, Promotion 
+ 36. |¦|¦¦¦ ䷣ Brightness Hiding (明夷 míng yí) Darkening of the Light Brilliance Injured 
+ 37. |¦|¦|| ䷤ Dwelling People (家人 jiā rén) The Family Family 
+ 38. ||¦|¦| ䷥ Polarising (睽 kuí) Opposition Division, Divergence 
+ 39. ¦¦|¦|¦ ䷦ Limping (蹇 jiǎn) Obstruction Halting, Hardship 
+ 40. ¦|¦|¦¦ ䷧ Taking-Apart (解 xiè) Deliverance Liberation, Solution 
+ 41. ||¦¦¦| ䷨ Diminishing (損 sǔn) Decrease Decrease 
+ 42. |¦¦¦|| ䷩ Augmenting (益 yì) Increase Increase 
+ 43. |||||¦ ䷪ Parting (夬 guài) Breakthrough Separation 
+ 44. ¦||||| ䷫ Coupling (姤 gòu) Coming to Meet Encountering 
+ 45. ¦¦¦||¦ ䷬ Clustering (萃 cuì) Gathering Together Association, Companionship 
+ 46. ¦||¦¦¦ ䷭ Ascending (升 shēng) Pushing Upward Growing Upward 
+ 47. ¦|¦||¦ ䷮ Confining (困 kùn) Oppression Exhaustion 
+ 48. ¦||¦|¦ ䷯ Welling (井 jǐng) The Well Replenishing, Renewal 
+ 49. |¦|||¦ ䷰ Skinning (革 gé) Revolution Abolishing the Old 
+ 50. ¦|||¦| ䷱ Holding (鼎 dǐng) The Cauldron Establishing the New 
+ 51. |¦¦|¦¦ ䷲ Shake (震 zhèn) Arousing Mobilizing 
+ 52. ¦¦|¦¦| ䷳ Bound (艮 gèn) The Keeping Still Immobility 
+ 53. ¦¦|¦|| ䷴ Infiltrating (漸 jiàn) Development Auspicious Outlook, Infiltration 
+ 54. ||¦|¦¦ ䷵ Converting The Maiden (歸妹 guī mèi) The Marrying Maiden Marrying 
+ 55. |¦||¦¦ ䷶ Abounding (豐 fēng) Abundance Goal Reached, Ambition Achieved 
+ 56. ¦¦||¦| ䷷ Sojourning (旅 lǚ) The Wanderer Travel 
+ 57. ¦||¦|| ䷸ Ground (巽 xùn) The Gentle Subtle Influence 
+ 58. ||¦||¦ ䷹ Open (兌 duì) The Joyous Overt Influence 
+ 59. ¦|¦¦|| ䷺ Dispersing (渙 huàn) Dispersion Dispersal 
+ 60. ||¦¦|¦ ䷻ Articulating (節 jié) Limitation Discipline 
+ 61. ||¦¦|| ䷼ Centre Confirming (中孚 zhōng fú) Inner Truth Staying Focused, Avoid Misrepresentation 
+ 62. ¦¦||¦¦ ䷽ Small Exceeding (小過 xiǎo guò) Small Preponderance Small Surpassing 
+ 63. |¦|¦|¦ ䷾ Already Fording (既濟 jì jì) After Completion Completion 
+ 64. ¦|¦|¦| ䷿ Not-Yet Fording (未濟 wèi jì) Before Completion Incompletion 
+
+====Hexagram table references====
+
+The hexagrams, though, are mere mnemonics for the philosophical concepts embodied in each one. The philosophy centres around the ideas of balance through opposites and acceptance of change.
+
+==Unicode==
+
+I Ching trigrams were added to the Unicode Standard in June, 1993 with the release of version 1.1. The other encoded I Ching symbols were added to the Unicode Standard in April, 2003 with the release of version 4.0.
+
+The symbols are spread out between Unicode blocks:
+* Miscellaneous Symbols (U+2600–U+26FF):
+** Monograms: U+268A (⚊) and U+268B (⚋)
+** Digrams: U+268C–U+268F (⚌ ⚍ ⚎ ⚏)
+** Trigrams: U+2630–U+2637 (☰ ☱ ☲ ☳ ☴ ☵ ☶ ☷)
+* Yijing Hexagram Symbols (U+4DC0–U+4DFF):
+** Hexagrams: U+4DC0–U+4DFF
+
+There is an extension of the "Yi Jing" Unicode characters for the Tài Xuán Jīng (: Canon of Supreme Mystery) by Xiong (author) 53 BCE-18 CE), from U+1D300 through U+1D356. Their Chinese aliases most accurately reflect their interpretation; Unicode Charts for example, the Chinese alias of code point U+1D300 (𝌀) is "rén", which translates into English as man and yet the English alias is "". Five additional digrams cover code points U+1D301 to U+1D305 (𝌁 𝌂 𝌃 𝌄 𝌅) and eighty–one tetragrams cover code points U+1D306 to U+1D356.
+
+==Implications of the title==
+* (yì) used as an adjective, means "easy" or "simple", whilst as a verb it indicates "change" or "the exchange or substitution of one thing for another".
+* (jīng) here means "classic (i.e. text)". It is a post-Qin Dynasty term later added to any text that had been officially canonised, hence the same character was later appropriated to translate the Sanskrit word 'sūtra' into Chinese in reference to Buddhist scripture. In this sense the two concepts, in as much as they mean 'treatise,' 'great teaching,' or 'canonical scripture,' are equivalent.
+The usual reading of its title is "The Classic of Changes" in reference to the divinatory usage of its hexagram figures. The other senses of yi are secondary, but still informed its sense. Thus, a punning reading as "The Easy Classic", reflects the ease of milfoil divination in contradistinction to the older systems of plastromancy and scapulamancy. Similarly, the sense of "the exchange or substitution of one thing for another" alludes to the posing of a question and the receiving of an answer.
+
+==Philosophy==
+Yin and yang, whilst common expressions associated with many schools of classical Chinese culture, are especially associated with the Taoists.
+
+Another view holds that the I Ching is primarily a Confucianist ethical or philosophical document. This view is based upon the following:
+* The Wings or Appendices are attributed to Confucius.
+* The study of the I Ching was required as part of the Civil Service Exams in the period that these exams only studied Confucianist texts.
+* It is one of the Five Confucian Classics.
+* It does not appear in any surviving editions of the Daozang.
+* The major commentaries were written by Confucianists, or Neo-Confucianists.
+* Taoist scripture avoids, even mocks, attempts at categorizing the world's myriad phenomena and forming a static philosophy. However, Taoist ritual frequently uses the eight trigrams, and they are fundamental for alchemical practice, both internal and external.
+* Wú wéi (), is an important concept of Taoism with regard to understanding when to act and when not to act. The understanding is one of instinctive wisdom rather than exemplified by natural action, such as the planets orbiting the Sun; they do without doing — without ends or means, effort or error. Thus, understanding when and how to act is not knowledge in the sense of calculating the right time and way, what is free of toil and care does not hesitate and cannot falter. Action without action, \"wu wei is effortless action.
+
+Although the work's popularity diminished due to the rise of Chinese Buddhism during the dynasty, the I Ching returned to prominent attention of scholars during the Song dynasty. This was concomitant with the reassessment of Confucianism by Confucians in the light of Taoist and Buddhist metaphysics, and is known in the West as Neo-Confucianism. The book, unquestionably an ancient Chinese scripture, helped Song Confucian thinkers to synthesize Buddhist and Taoist cosmologies with Confucian and Mencian ethics. The end product was a new cosmogony that could be linked to the so-called "lost Tao" of Confucius and Mencius.
+
+===Binary sequence===
+In his article Explication de l'Arithmétique Binaire (1703) Gottfried Leibniz wrote that he found in the hexagrams a base for claiming the universality of the binary numeral system. Leibniz G., Explication de l'Arithmétique Binaire, Mathematischen Schriften, ed. C. Gerhardt, Berlin 1879, vol.7, p.223; engl. transl.[http://www.leibniz-translations.com/binary.htm He took the layout of the combinatorial exercise found in the hexagrams to represent binary sequences, so that ¦¦¦¦¦¦ would correspond to the binary sequence 000000 and ¦¦¦¦¦| would be 000001, and so forth.
+
+The binary arrangement of hexagrams is associated with the famous Chinese scholar and philosopher Shao Yung (a neo-Confucian and Taoist) in the 11th century. He displayed it in two different formats, a circle, and a rectangular block. Thus, he clearly understood the sequence represented a logical progression of values. However, while it is true that these sequences do represent the values 0 through 63 in a binary display, there is no evidence that Shao understood that the numbers could be used in computations such as addition or subtraction.
+
+Richard S. Cook states that the I Ching demonstrated a relation between the golden ratio (aka the division in extreme and mean ratio) and "linear recurrence sequences" (the Fibonacci numbers are examples of "linear recurrence sequences") :
+
+...the hexagram sequence, showing that its classification of binary sequences demonstrates knowledge of the convergence of certain linear recurrence sequences ... to division in extreme and mean ratio... that the complex hexagram sequence encapsulates a careful and ingenious demonstration of the LRS (linear recurrence sequences)/DEMR (division in the extreme mean ratio relation), that this knowledge results from general combinatorial analysis, and is reflected in elements emphasized in ancient Chinese and Western mathematical traditions.
+ Cook, Richard S. (2006). [http://stedt.berkeley.edu/html/publications.html#mng5 STEDT Monograph 5: Classical Chinese Combinatorics: Derivation of the I Ching Hexagram Sequence. ISBN 0-944613-44-6. 
+
+==Divination==
+
+In imperial China the I Ching had two distinct functions. The first was as a compendium and classic of ancient cosmic principles. The second function was that of divination text. As a divination text the world of the I Ching was that of the marketplace fortune teller and roadside oracle. These individuals served the illiterate peasantry. The educated Confucian elite in China were of an entirely different disposition. The future results of our actions were a function of our personal virtues. The Confucian literati actually had little use for the I Ching as a work of divination. In the collected works of the countless educated literati of ancient China there are actually few references to the I Ching as a divination text. Any eyewitness account of traditional Chinese society, such as S. Wells Williams The Middle Kingdom, and many others, can clarify this very basic distinction. Williams tells us of the I Ching, "The hundreds of fortune- tellers seen in the streets of Chinese towns, whose answers to their perplexed customers are more or less founded on these cabala, indicate their influence among the illiterate; while among scholars, who have long since conceded all divination to be vain..". (The Middle Kingdom, vol. 1, p. 632)
+
+==Symbolism==
+
+The Flag of South Korea contains the Taiji symbol, or tàijítú, (yin and yang in dynamic balance, called taegeuk in Korean), representing the origin of all things in the universe. The taegeuk is surrounded by four of the eight trigrams, starting from top left and going clockwise: Heaven, Water, Earth, Fire. In addition, the Republic of Korea Air Force aircraft roundel incorporates the Taiji in conjunction with the trigrams representing Heaven.
+
+The flag of the Empire of Vietnam used the Li (Fire) trigram and was known as cờ quẻ Ly (Li trigram flag) because the trigram represents South. Its successor the Republic of Vietnam connected the middle lines, turning it into the Qián (Heaven) trigram. (see Flag of the Republic of Vietnam).
+
+==Influence==
+
+The I Ching has influenced countless Chinese philosophers, artists and even businesspeople throughout history. In more recent times, several Western artists and thinkers have used it in fields as diverse as psychoanalysis, music, film, drama, dance, eschatology, and fiction writing. Nylan, M. (2001). The Five Confucian 'Classics'. Yale University Press. 204, 206. ISBN 978-0-300-08185-5. The I Ching's influence is summarized by Nylan, as follows: "Outside China, the Changes is without doubt the best-known Chinese book, in addition to being the most familiar of the five classics. Beginning with Gottfried Wilhelm von Leibniz (1646–1716) and continuing through Carl Jung (1875–1961) and Joseph Needham (1900–1995), the work has had considerable influence on intellectuals in Europe and America, who have mined it for alternate theories of structural change in the natural world". 
+
+Prior to the Tokugawa period (1603–1868 CE) in Japan, the I Ching was little known and used mostly for divination until Buddhist monks popularized the Chinese classic for its philosophical, cultural and political merits in other literate groups such as the samurai. The Hagakure, a collection of commentaries on the Way of the Warrior, cautions against mistaking it for a work of divination. 
+
+==Commentaries==
+Chinese civilization, as with early Western civilization, accepted various pre-scientific explanations of natural events, and the I Ching has been cited as an example of this. As a manual of divination it interpreted natural events through readings based on symbols expressed in the trigrams and hexagrams. Thus any observation in nature could be interpreted as to its significance and cause. This might be compared to the Roman practice of basing decisions on the state of animals' livers. While usually sympathetic to the claims of Chinese culture and science, Joseph Needham, in his second volume of Science and Civilization in China (p. 311) stated: "Yet really they dynasty scholars would have been wiser to tie a millstone about the neck of the I Ching and cast it into the sea". Snow, Eric. (June 27, 1999) "Christianity: A Cause of Modern Science?". Retrieved on: February 16, 2008 
+
+Abraham (1999) states that Confucius' ten commentaries, called the Ten Wings, transformed the I Ching from a divination text into a "philosophical masterpiece". It was this form of the I Ching that inspired the post-Warring States Taoists. It has influenced Confucians and other philosophers and scientists ever since. Abraham, Ralph H. (1999) Commentaries on the I Ching. Chapter 1 Legendary History. Retrieved on: February 15, 2008 However, Helmut Wilhelm in his Change/Eight Lectures on the I Ching, cautions: "It can no longer be said with certainty whether any of the material—and if any, how much—comes from Confucius' own hand". Wilhelm, H. (1973) Change: Eight Lectures On The I Ching., p. 12. Princeton: Princeton University Press, Translated into English from the German by Cary F. Baynes. 
+
+==Translations==
+
+There are hundreds of translations of the I Ching into English alone, to say nothing of translations and commentaries into almost every language of the world. For discussions of the translations into English, see David Knechtges, "THE PERILS AND PLEASURES OF TRANSLATION: THE CASE OF THE CHINESE CLASSICS" , a scholarly discussion and history of translations into Western languages, and Chapter 5, "The Westward Travels of the Changes, in Richard J. Smith, The I Ching: A Biography (Princeton, N.J.: Princeton University Press, 2012), a discussion for general readers. The following is only a selection.
+
+;English
+* Anthony, Carol K. and Moog, Hanna. (2002). I Ching: The Oracle of the Cosmic Way. Stow, MA: Anthony Publishing Company, Inc., ISBN 1-890764-00-0.
+* Balkin, Jack M. (2002). The Laws of Change: I Ching and the Philosophy of Life. New York: Schocken Books. ISBN 0-8052-4199-X.
+* Barrett, Hilary. (2010). Walking your path, creating your future. London: Arcturus Publishing Limited. ISBN 978-1-84837-453-9.
+* Benson, Robert G. (2003). I Ching for a New Age: The Book of Answers for Changing Times. New York: Square One Publishers.
+* Blofeld, J. (1965). The Book of Changes: A New Translation of the Ancient Chinese I Ching. New York: E. P. Dutton.
+* Cornelius, J. Edward and Cornelius, Marlene (1998). Yî King: A Beastly Book of Changes, Red Flame: A Thelemic Research Journal, Issue 5. Aleister Crowley's notes and comments.
+* Huang, Alfred (1998). The Complete I Ching: the Definitive Translation From the Taoist Master Alfred Huang. Rochester, VT: Inner Traditions.
+* Hua-Ching Ni (2nd ed. 1999). I Ching: The Book of Changes and the Unchanging Truth. Los Angeles: Seven Star Communications.
+* Karcher, Stephen (2002). I Ching: The Classic Chinese Oracle of Change: The First Complete Translation with Concordance. London: Vega Books. ISBN 1-84333-003-2. Multiple alternative translations.
+* Legge, James (1964). I Ching: Book of Changes, With introduction and study guide by Ch'u Chai and Winberg Chai. New York: Citadel Press. Reprint of 1899 century translation. A "highly literal" translation which reflected 19th-century Chinese interpretations and remained the "standard English language version until the mid-twentieth century." Smith, The I Ching: A Biography p. 184-85. PDF (18.5 MB)
+* Lynn, Richard J. (1994). The Classic of Changes, A New Translation of the I Ching as Interpreted by Wang Bi. New York: Columbia University Press. ISBN 0-231-08294-0.
+* McClatchie, Thomas (1876). A Translation of the Confucian Yi-king. Shanghai: American Presbyterian Mission Press.
+* Pearson, Margaret (2011). The Original I Ching: An Authentic Translation of the Book of Changes. Rutland, VT: Tuttle Publishing. ISBN 978-0-8048-4181-8. Removes gender-based yin/yang abstractions added by later Chinese commentators that do not exist in the original.
+* Ritsema, Rudolf and Karcher, Stephen (1994). I Ching: The Classic Chinese Oracle of Change: The First Complete Translation with Concordance. Shaftesbury, Dorset, Element.
+* Shaughnessy, Edward L. (1996). I Ching, The Classic of Changes. Ballantine. New York: ISBN 0-345-36243-8. First English translation of the Mawangdui texts (c. 200 BCE).
+* Wilhelm, Richard and Baynes, Cary (1967). The I Ching or Book of Changes, With foreword by Carl Jung. 3rd. ed., Bollingen Series XIX. Princeton NJ: Princeton University Press (1st ed. 1950). Very well respected.
+
+* Wu Wei (revised 2005). I Ching, The Book Of Answers. Malibu, CA: Power Press. ISBN 0-943015-41-3.
+* Cheng Yi (1988, 2003). I Ching: The Book of Change, Trans. by Thomas Cleary. Boston, London: Shambhala Publications. ISBN 1-59030-015-7.
+
+;Latin
+* Régis, P. Jean-Baptiste (1736). Y-King: Antiquissimus Sinarum Liber quem ex Latina Interpretatione. Stuttgart, Tübingen: Cotta, 1834, 1839.
+
+;Other languages
+* Bashar Abdulah's first Arabic translation of the Chinese most important philosophical book "Book of Changes" or ICHING, by Dar Fadaat Publishing House, Amman Jordan, 2008. ISBN 978-9957-30-043-2
+
+==See also==
+
+* Ba gua
+* Da Liu Ren
+* Feng Shui
+* Lingqijing
+* Lo Shu Square
+* Qi Men Dun Jia
+* T'ai chi ch'uan
+* Yellow River Map
+* Yin and yang
+
+== Notes and references ==
+
+==Bibliography==
+
+* Marshall, S. J. (2001). The Mandate of Heaven: Hidden History in the I Ching. Columbia University Press. ISBN 0-231-12299-3
+* Reifler, Samuel. (1974). "I Ching: A New Interpretation for Modern Times". Bantam New Age Books. ISBN 0-553-27873-8
+* Rutt, R. (1996). Zhouyi: The Book of Changes. Curzon Press.
+* Shaughnessy, Edward L. (1993). "I ching 易經 (Chou I 周易) ", pp. 216–228 in Loewe, Michael (ed.). Early Chinese Texts: A Bibliographical Guide, (Early China Special Monograph Series No. 2), Society for the Study of Early China, and the Institute of East Asian Studies, University of California, Berkeley, ISBN 1-55729-043-1.
+* Smith, Richard J. (2008). Fathoming the Cosmos and Ordering the World: The Yijing (I Ching or Classic of Changes) and Its Evolution in China. University of Virginia Press. ISBN 978-0-8139-2705-3
+* Smith, Richard J. The I Ching: A Biography. Princeton, N.J.: Princeton University Press, 2012. 278p. ISBN 9780691145099.
+* Smith, Richard J., "Some Western-Language Works on the Yijing, Topically Organized: An Online Guide for Students," Education About Asia 8.2 (Fall 2003). Extensive annotated bibliography.
+*
+
+==External links==
+
+* / Wilhelm, Baynes “The I Ching or Book of Changes” (Association Française des Professeurs de Chinois)
+* Yi Jing at the Chinese Text Project
+* I Ching: An Annotated Bibliography by Hacker et al.
+* 
+* I Ching: deoxy.org
+* Chujian Zhouyi
+* I-ching - Philosophy and Practice
+* Yixue Bibliography general bibliography (multilingual) of Western works on the Yijing
+
+ 
+
+

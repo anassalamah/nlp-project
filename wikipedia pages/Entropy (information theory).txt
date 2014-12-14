@@ -1,0 +1,401 @@
+[[Entropy (information theory)]]
+
+2 bits of entropy.
+In information theory, entropy is a measure of the uncertainty in a random variable. In this context, the term usually refers to the Shannon entropy, which quantifies the expected value of the information contained in a message. In this context, a 'message' means a specific realization of the random variable. Entropy is typically measured in bits, nats, or bans. Shannon entropy is the average unpredictability in a random variable, which is equivalent to its information content (with the opposite sign). Shannon entropy provides an absolute limit on the best possible lossless encoding or compression of any communication, assuming that the communication may be represented as a sequence of independent and identically distributed random variables.
+
+A single toss of a fair coin has an entropy of one bit. A series of two fair coin tosses has an entropy of two bits. The number of fair coin tosses is its entropy in bits. This random selection between two outcomes in a sequence over time, whether the outcomes are equally probable or not, is often referred to as a Bernoulli process. The entropy of such a process is given by the binary entropy function. The entropy rate for a fair coin toss is one bit per toss. However, if the coin is not fair, then the uncertainty, and hence the entropy rate, is lower. This is because, if asked to predict the next outcome, we could choose the most frequent result and be right more often than wrong. The difference between what we know, or predict, and the information that the unfair coin toss reveals to us is less than one heads-or-tails "message", or bit, per toss. Schneier, B: Applied Cryptography, Second edition, page 234. John Wiley and Sons. 
+
+This definition of "entropy" was introduced by Claude E. Shannon in his 1948 paper "A Mathematical Theory of Communication". (PDF) 
+
+==Introduction==
+Entropy is a measure of unpredictability of information content. To get an informal, intuitive understanding of the connection between these three English terms, consider the example of a poll on some political issue. Usually, such polls happen because the outcome of the poll isn't already known. In other words, the outcome of the poll is relatively unpredictable, and actually performing the poll and learning the results gives some new information; these are just different ways of saying that the entropy of the poll results is large. Now, consider the case that the same poll is performed a second time shortly after the first poll. Since the result of the first poll is already known, the outcome of the second poll can be predicted well and the results should not contain much new information; in this case the entropy of the second poll results is small.
+
+Now consider the example of a coin toss. When the coin is fair, that is, when the probability of heads is the same as the probability of tails, then the entropy of the coin toss is as high as it could be. This is because there is no way to predict the outcome of the coin toss ahead of time—the best we can do is predict that the coin will come up heads, and our prediction will be correct with probability 1/2. Such a coin toss has one bit of entropy since there are two possible outcomes that occur with equal probability, and learning the actual outcome contains one bit of information. Contrarily, a coin toss with a coin that has two heads and no tails has zero entropy since the coin will always come up heads, and the outcome can be predicted perfectly.
+
+English text has fairly low entropy. In other words, it is fairly predictable. Even if we don't know exactly what is going to come next, we can be fairly certain that, for example, there will be many more e's than z's, that the combination 'qu' will be much more common than any other combination with a 'q' in it, and that the combination 'th' will be more common than 'z', 'q', or 'qu'. After the first few letters one can often guess the rest of the word. Uncompressed, English text has between 0.6 and 1.3 bits of entropy for each character of message. 
+
+If a compression scheme is lossless—that is, you can always recover the entire original message by decompressing—then a compressed message has the same quantity of information as the original, but communicated in fewer characters. That is, it has more information, or a higher entropy, per character. This means a compressed message has less redundancy. Roughly speaking, Shannon's source coding theorem says that a lossless compression scheme cannot compress messages, on average, to have more than one bit of information per bit of message. The entropy of a message multiplied by the length of that message is a measure of how much information the message contains.
+
+Shannon's theorem also implies that no lossless compression scheme can compress all messages. If some messages come out smaller, at least one must come out larger due to the pigeonhole principle. In practical use, this is generally not a problem, because we are usually only interested in compressing certain types of messages, for example English documents as opposed to gibberish text, or digital photographs rather than noise, and it is unimportant if a compression algorithm makes some unlikely or uninteresting sequences larger. However, the problem can still arise even in everyday use when applying a compression algorithm to already compressed data: for example, making a ZIP file of music in the FLAC audio format is unlikely to achieve much extra saving in space.
+
+==Definition==
+Named after Boltzmann's H-theorem, Shannon defined the entropy H (Greek letter Eta) of a discrete random variable X with possible values {x1, ..., x'n} and probability mass function P(X) as:
+
+:
+
+Here E is the expected value operator, and I is the information content of X. 
+I(X) is itself a random variable.
+
+When taken from a finite sample, the entropy can explicitly be written as
+:
+
+where b is the base of the logarithm used. Common values of b are 2, Euler's number e, and 10, and the unit of entropy is bit for b = 2, nat for b = e, and dit (or digit) for b = 10. Schneider, T.D, Information theory primer with an appendix on logarithms, National Cancer Institute, 14 April 2007. 
+
+In the case of p(x'i) = 0 for some i, the value of the corresponding summand 0 logb(0) is taken to be 0, which is consistent with the well-known limit:
+
+:.
+
+==Example==
+Entropy H(X) (i.e. the expected surprisal) of a coin flip, measured in bits, graphed versus the fairness of the coin Pr(X=1), where X=1 represents a result of heads.Note that the maximum of the graph depends on the distribution. Here, at most 1 bit is required to communicate the outcome of a fair coin flip (2 possible values), but the result of a fair die (6 possible values) would require at most log26 bits.
+
+Consider tossing a coin with known, not necessarily fair, probabilities of coming up heads or tails; this is known as the Bernoulli process.
+
+The entropy of the unknown result of the next toss of the coin is maximized if the coin is fair (that is, if heads and tails both have equal probability 1/2). This is the situation of maximum uncertainty as it is most difficult to predict the outcome of the next toss; the result of each toss of the coin delivers one full bit of information.
+
+However, if we know the coin is not fair, but comes up heads or tails with probabilities p and q, where p ≠ q, then there is less uncertainty. Every time it is tossed, one side is more likely to come up than the other. The reduced uncertainty is quantified in a lower entropy: on average each toss of the coin delivers less than one full bit of information.
+
+The extreme case is that of a double-headed coin that never comes up tails, or a double-tailed coin that never results in a head. Then there is no uncertainty. The entropy is zero: each toss of the coin delivers no new information as the outcome of each coin toss is always certain. In this respect, entropy can be normalized by dividing it by information length. This ratio is called metric entropy and is a measure of the randomness of the information.
+
+==Rationale==
+As said, for a random variable X with n outcomes {x1, ..., x'n}, the Shannon entropy, a measure of uncertainty (see further below) and denoted by H(X), is defined as
+:
+ (1) 
+
+where p(x'i) is the probability mass function of outcome x'i.
+
+To understand the meaning of Eq. (1), first consider a set of n possible outcomes (events) {x1, ..., x'n}, with equal probability p(xi) = 1/n. An example would be a fair die with n values, from 1 to n. The uncertainty for such a set of n outcomes is defined by
+:
+ (2) 
+
+For concreteness, consider the case in which the base of the logarithm is b = 2. To specify an outcome of a fair n-sided die roll, we must specify one of the n values, which requires log2(n) bits i.e. the number of bits required to represent the outcomes in binary form. For our n sided die, this would be binary numbers {000, ..., (n-1)}. Hence in this case, the uncertainty of an outcome is the number of bits needed to specify the outcome.
+
+Intuitively, if we have two independent sources of uncertainty, the overall uncertainty should be the sum of the individual uncertainties. The logarithm captures this additivity characteristic for independent uncertainties. For example, consider appending to each value of the first die the value of a second die, which has m possible outcomes {y1, ..., ym}. There are thus mn possible outcomes . The uncertainty for such a set of mn outcomes is then
+:
+
+ (3) 
+
+Thus the uncertainty of playing with two dice is obtained by adding the uncertainty of the second die logb(m) to the uncertainty of the first die logb(n). In the case that b = 2 this means that to specify the outcome of an n-sided die roll and an m-sided die roll, we need to specify log2(n) + log2(m) = log2(mn) bits.
+
+Now return to the case of playing with one die only (the first one). Since the probability of each event is 1/n, we can write
+:
+
+In the case of a non-uniform probability mass function (or density in the case of continuous random variables), we let
+:
+
+ (4) 
+
+which is also called a surprisal; the lower the probability p(x'i), i.e. p(x'i) → 0, the higher the uncertainty or the surprise, i.e. u'i → ∞, for the outcome x'i.
+
+The average uncertainty , with being the average operator, is obtained by
+:
+
+ (5) 
+
+and is used as the definition of the entropy H(X) in Eq. (1). In his original formulation, Shannon proved that this definition (up to a multiplicative factor) was the only one that satisfied a few key requirements. The above also explains why information entropy and information uncertainty can be used interchangeably. 
+In the case that b = 2, Eq. (1) measures the expected number of bits we need to specify the outcome of a random experiment.
+
+One may also define the conditional entropy of two events X and Y taking values xi and yj respectively, as
+
+:
+
+where p(xi,yj) is the probability that X=xi and Y=yj. This quantity should be understood as the amount of randomness in the random variable X given that you know the value of Y. For example, the entropy associated with a six-sided die is H(die), but if you were told that it had in fact landed on 1, 2, or 3, then its entropy would be equal to H (die: the die landed on 1, 2, or 3).
+
+==Aspects==
+
+===Relationship to thermodynamic entropy===
+
+The inspiration for adopting the word entropy in information theory came from the close resemblance between Shannon's formula and very similar known formulae from statistical mechanics.
+
+In statistical thermodynamics the most general formula for the thermodynamic entropy S of a thermodynamic system is the Gibbs entropy,
+:
+where kB is the Boltzmann constant, and pi is the probability of a microstate. The Gibbs entropy was defined by J. Willard Gibbs in 1878 after earlier work by Boltzmann (1872). Compare: Boltzmann, Ludwig (1896, 1898). Vorlesungen über Gastheorie : 2 Volumes – Leipzig 1895/98 UB: O 5262-6. English version: Lectures on gas theory. Translated by Stephen G. Brush (1964) Berkeley: University of California Press; (1995) New York: Dover ISBN 0-486-68455-5 
+
+The Gibbs entropy translates over almost unchanged into the world of quantum physics to give the von Neumann entropy, introduced by John von Neumann in 1927,
+:
+where ρ is the density matrix of the quantum mechanical system and Tr is the trace.
+
+At an everyday practical level the links between information entropy and thermodynamic entropy are not evident. Physicists and chemists are apt to be more interested in changes in entropy as a system spontaneously evolves away from its initial conditions, in accordance with the second law of thermodynamics, rather than an unchanging probability distribution. And, as the minuteness of Boltzmann's constant kB indicates, the changes in S/kB for even tiny amounts of substances in chemical and physical processes represent amounts of entropy that are extremely large compared to anything in data compression or signal processing. Furthermore, in classical thermodynamics the entropy is defined in terms of macroscopic measurements and makes no reference to any probability distribution, which is central to the definition of information entropy.
+
+At a multidisciplinary level, however, connections can be made between thermodynamic and informational entropy, although it took many years in the development of the theories of statistical mechanics and information theory to make the relationship fully apparent. In fact, in the view of Jaynes (1957), thermodynamic entropy, as explained by statistical mechanics, should be seen as an application of Shannon's information theory: the thermodynamic entropy is interpreted as being proportional to the amount of further Shannon information needed to define the detailed microscopic state of the system, that remains uncommunicated by a description solely in terms of the macroscopic variables of classical thermodynamics, with the constant of proportionality being just the Boltzmann constant. For example, adding heat to a system increases its thermodynamic entropy because it increases the number of possible microscopic states of the system that are consistent with the measurable values of its macroscopic variables, thus making any complete state description longer. (See article: maximum entropy thermodynamics). Maxwell's demon can (hypothetically) reduce the thermodynamic entropy of a system by using information about the states of individual molecules; but, as Landauer (from 1961) and co-workers have shown, to function the demon himself must increase thermodynamic entropy in the process, by at least the amount of Shannon information he proposes to first acquire and store; and so the total thermodynamic entropy does not decrease (which resolves the paradox). Landauer's principle has implications on the amount of heat a computer must dissipate to process a given amount of information, though modern computers are nowhere near the efficiency limit.
+
+===Entropy as information content===
+
+Entropy is defined in the context of a probabilistic model. Independent fair coin flips have an entropy of 1 bit per flip. A source that always generates a long string of B's has an entropy of 0, since the next character will always be a 'B'.
+
+The entropy rate of a data source means the average number of bits per symbol needed to encode it. Shannon's experiments with human predictors show an information rate between 0.6 and 1.3 bits per character in English; the PPM compression algorithm can achieve a compression ratio of 1.5 bits per character in English text.
+
+From the preceding example, note the following points:
+
+# The amount of entropy is not always an integer number of bits.
+# Many data bits may not convey information. For example, data structures often store information redundantly, or have identical sections regardless of the information in the data structure.
+
+Shannon's definition of entropy, when applied to an information source, can determine the minimum channel capacity required to reliably transmit the source as encoded binary digits (see caveat below in italics). The formula can be derived by calculating the mathematical expectation of the amount of information contained in a digit from the information source. See also Shannon-Hartley theorem.
+
+Shannon's entropy measures the information contained in a message as opposed to the portion of the message that is determined (or predictable). Examples of the latter include redundancy in language structure or statistical properties relating to the occurrence frequencies of letter or word pairs, triplets etc. See Markov chain.
+
+===Data compression===
+
+Entropy effectively bounds the performance of the strongest lossless compression possible, which can be realized in theory by using the typical set or in practice using Huffman, Lempel-Ziv or arithmetic coding. The performance of existing data compression algorithms is often used as a rough estimate of the entropy of a block of data. T. Schürmann and P. Grassberger, Entropy Estimation of Symbol Sequences, CHAOS,Vol. 6, No. 3 (1996) 414–427 T. Schürmann, Bias Analysis in Entropy Estimation J. Phys. A: Math. Gen. 37 (2004) L295-L301. See also Kolmogorov complexity. In practice, compression algorithms deliberately include some judicious redundancy in the form of checksums to protect against errors.
+
+=== World's technological capacity to store and communicate entropic information ===
+A 2011 study in Science estimates the world's technological capacity to store and communicate optimally compressed information normalized on the most effective compression algorithms available in the year 2007, therefore estimating the entropy of the technologically available sources. "The World's Technological Capacity to Store, Communicate, and Compute Information", Martin Hilbert and Priscila López (2011), Science (journal), 332(6025), 60–65; free access to the article through here: martinhilbert.net/WorldInfoCapacity.html 
+
++ All figures in entropically compressed exabytes 
+ Type of Information 1986 2007 Increase 
+ Storage 2.6 295 113.5x 
+ Broadcast 432 1900 4.398x 
+ Telecommunications 0.281 65 231.3x 
+
+The authors estimate humankind technological capacity to store information (fully entropically compressed) in 1986 and again in 2007. They break the information into three categories - To store information on a medium, to receive information through a one-way broadcast networks, to exchange information through two-way telecommunication networks. 
+
+===Limitations of entropy as information content===
+There are a number of entropy-related concepts that mathematically quantify information content in some way:
+* the self-information of an individual message or symbol taken from a given probability distribution,
+* the entropy of a given probability distribution of messages or symbols, and
+* the entropy rate of a stochastic process.
+(The "rate of self-information" can also be defined for a particular sequence of messages or symbols generated by a given stochastic process: this will always be equal to the entropy rate in the case of a stationary process.) Other quantities of information are also used to compare or relate different sources of information.
+
+It is important not to confuse the above concepts. Often it is only clear from context which one is meant. For example, when someone says that the "entropy" of the English language is about 1 bit per character, they are actually modeling the English language as a stochastic process and talking about its entropy rate.
+
+Although entropy is often used as a characterization of the information content of a data source, this information content is not absolute: it depends crucially on the probabilistic model. A source that always generates the same symbol has an entropy rate of 0, but the definition of what a symbol is depends on the alphabet. Consider a source that produces the string ABABABABAB... in which A is always followed by B and vice versa. If the probabilistic model considers individual letters as independent, the entropy rate of the sequence is 1 bit per character. But if the sequence is considered as "AB AB AB AB AB..." with symbols as two-character blocks, then the entropy rate is 0 bits per character.
+
+However, if we use very large blocks, then the estimate of per-character entropy rate may become artificially low. This is because in reality, the probability distribution of the sequence is not knowable exactly; it is only an estimate. For example, suppose one considers the text of every book ever published as a sequence, with each symbol being the text of a complete book. If there are N published books, and each book is only published once, the estimate of the probability of each book is 1/N, and the entropy (in bits) is −log2(1/N) = log2(N). As a practical code, this corresponds to assigning each book a unique identifier and using it in place of the text of the book whenever one wants to refer to the book. This is enormously useful for talking about books, but it is not so useful for characterizing the information content of an individual book, or of language in general: it is not possible to reconstruct the book from its identifier without knowing the probability distribution, that is, the complete text of all the books. The key idea is that the complexity of the probabilistic model must be considered. Kolmogorov complexity is a theoretical generalization of this idea that allows the consideration of the information content of a sequence independent of any particular probability model; it considers the shortest program for a universal computer that outputs the sequence. A code that achieves the entropy rate of a sequence for a given model, plus the codebook (i.e. the probabilistic model), is one such program, but it may not be the shortest.
+
+For example, the Fibonacci sequence is 1, 1, 2, 3, 5, 8, 13, ... . Treating the sequence as a message and each number as a symbol, there are almost as many symbols as there are characters in the message, giving an entropy of approximately log2(n). So the first 128 symbols of the Fibonacci sequence has an entropy of approximately 7 bits/symbol. However, the sequence can be expressed using a formula = F(n−1) + F(n−2) for n={3,4,5,...}, F(1)=1, F(2)=1 and this formula has a much lower entropy and applies to any length of the Fibonacci sequence.
+
+===Limitations of entropy as a measure of unpredictability===
+In cryptanalysis, entropy is often roughly used as a measure of the unpredictability of a cryptographic key. For example, a 128-bit key that is randomly generated has 128 bits of entropy. It takes (on average) guesses to break by brute force. If the key's first digit is 0, and the others random, then the entropy is 127 bits, and it takes (on average) guesses.
+
+However, entropy fails to capture the number of guesses required if the possible keys are not of equal probability. If the key is half the time "password" and half the time a true random 128-bit key, then the entropy is approximately 65 bits. Yet half the time the key may be guessed on the first try, if your first guess is "password", and on average, it takes around guesses (not ) to break this password.
+
+Similarly, consider a 1000000-digit binary one-time pad. If the pad has 1000000 bits of entropy, it is perfect. If the pad has 999999 bits of entropy, evenly distributed (each individual bit of the pad having 0.999999 bits of entropy) it may still be considered very good. But if the pad has 999999 bits of entropy, where the first digit is fixed and the remaining 999999 digits are perfectly random, then the first digit of the ciphertext will not be encrypted at all.
+
+===Data as a Markov process===
+A common way to define entropy for text is based on the Markov model of text. For an order-0 source (each character is selected independent of the last characters), the binary entropy is:
+
+:
+
+where p'i is the probability of i. For a first-order Markov source (one in which the probability of selecting a character is dependent only on the immediately preceding character), the entropy rate is:
+
+: 
+
+where i is a state (certain preceding characters) and is the probability of j given i as the previous character.
+
+For a second order Markov source, the entropy rate is
+
+:
+
+===b-ary entropy===
+In general the b-ary entropy of a source = (S,P) with source alphabet S = {a1, ..., an} and discrete probability distribution P = {p1, ..., pn} where pi is the probability of ai (say pi = p(ai)) is defined by:
+
+:
+
+Note: the b in "b-ary entropy" is the number of different symbols of the ideal alphabet used as a standard yardstick to measure source alphabets. In information theory, two symbols are necessary and sufficient for an alphabet to encode information. Therefore, the default is to let b = 2 ("binary entropy"). Thus, the entropy of the source alphabet, with its given empiric probability distribution, is a number equal to the number (possibly fractional) of symbols of the "ideal alphabet", with an optimal probability distribution, necessary to encode for each symbol of the source alphabet. Also note that "optimal probability distribution" here means a uniform distribution: a source alphabet with n symbols has the highest possible entropy (for an alphabet with n symbols) when the probability distribution of the alphabet is uniform. This optimal entropy turns out to be logb(n).
+
+==Efficiency==
+A source alphabet with non-uniform distribution will have less entropy than if those symbols had uniform distribution (i.e. the "optimized alphabet"). This deficiency in entropy can be expressed as a ratio called efficiency:
+
+: 
+
+Efficiency has utility in quantifying the effective use of a communications channel. This formulation is also referred to as the normalized entropy, as the entropy is divided by the maximum entropy .
+
+==Characterization==
+Shannon entropy is characterized by a small number of criteria, listed below. Any definition of entropy satisfying these assumptions has the form
+:
+where K is a constant corresponding to a choice of measurement units.
+
+In the following, pi = Pr (X = xi) and .
+
+===Continuity===
+The measure should be continuous, so that changing the values of the probabilities by a very small amount should only change the entropy by a small amount.
+
+===Symmetry===
+The measure should be unchanged if the outcomes xi are re-ordered.
+: etc.
+
+===Maximum===
+The measure should be maximal if all the outcomes are equally likely (uncertainty is highest when all possible events are equiprobable).
+:
+
+For equiprobable events the entropy should increase with the number of outcomes.
+:
+
+===Additivity===
+The amount of entropy should be independent of how the process is regarded as being divided into parts.
+
+This last functional relationship characterizes the entropy of a system with sub-systems. It demands that the entropy of a system can be calculated from the entropies of its sub-systems if the interactions between the sub-systems are known.
+
+Given an ensemble of n uniformly distributed elements that are divided into k boxes (sub-systems) with b1, ..., bk elements each, the entropy of the whole ensemble should be equal to the sum of the entropy of the system of boxes and the individual entropies of the boxes, each weighted with the probability of being in that particular box.
+
+For positive integers bi where b1 + ... + bk = n,
+:
+
+Choosing k = n, b1 = ... = bn = 1 this implies that the entropy of a certain outcome is zero: H1(1) = 0. This implies that the efficiency of a source alphabet with n symbols can be defined simply as being equal to its n-ary entropy. See also Redundancy (information theory).
+
+==Further properties==
+The Shannon entropy satisfies the following properties, for some of which it is useful to interpret entropy as the amount of information learned (or uncertainty eliminated) by revealing the value of a random variable X:
+
+* Adding or removing an event with probability zero does not contribute to the entropy:
+::.
+* It can be confirmed using the Jensen inequality that
+::.
+:This maximal entropy of logb(n) is effectively attained by a source alphabet having a uniform probability distribution: uncertainty is maximal when all possible events are equiprobable.
+* The entropy or the amount of information revealed by evaluating (X,Y) (that is, evaluating X and Y simultaneously) is equal to the information revealed by conducting two consecutive experiments: first evaluating the value of Y, then revealing the value of X given that you know the value of Y. This may be written as
+::
+* If Y=f(X) where f is deterministic, then H(f(X)|X) = 0. Applying the previous formula to H(X, f(X)) yields
+:: 
+:so H(f(X)) ≤ H(X), thus the entropy of a variable can only decrease when the latter is passed through a deterministic function.
+* If X and Y are two independent experiments, then knowing the value of Y doesn't influence our knowledge of the value of X (since the two don't influence each other by independence):
+::
+* The entropy of two simultaneous events is no more than the sum of the entropies of each individual event, and are equal if the two events are independent. More specifically, if X and Y are two random variables on the same probability space, and (X,Y) denotes their Cartesian product, then
+::
+Proving this mathematically follows easily from the previous two properties of entropy.
+
+==Extending discrete entropy to the continuous case: differential entropy==
+
+The Shannon entropy is restricted to random variables taking discrete values. The corresponding formula for a continuous random variable with probability density function f(x) with finite or infinite support on the real line is defined by analogy, using the above form of the entropy as an expectation:
+
+:
+
+This formula is usually referred to as the continuous entropy, or differential entropy. A precursor of the continuous entropy h is the expression for the functional H in the H-theorem of Boltzmann.
+
+Although the analogy between both functions is suggestive, the following question must be set: is the differential entropy a valid extension of the Shannon discrete entropy? Differential entropy lacks a number of properties that the Shannon discrete entropy has – it can even be negative – and thus corrections have been suggested, notably limiting density of discrete points.
+
+To answer this question, we must establish a connection between the two functions:
+
+We wish to obtain a generally finite measure as the bin size goes to zero. In the discrete case, the bin size is the (implicit) width of each of the n (finite or infinite) bins whose probabilities are denoted by pn. As we generalize to the continuous domain, we must make this width explicit.
+
+To do this, start with a continuous function f discretized into bins of size .
+
+By the mean-value theorem there exists a value xi in each bin such that
+
+:
+
+and thus the integral of the function f can be approximated (in the Riemannian sense) by
+
+:
+
+where this limit and "bin size goes to zero" are equivalent.
+
+We will denote
+
+:
+
+and expanding the logarithm, we have
+
+:
+
+As Δ → 0, we have
+
+:
+
+But note that log(Δ) → −∞ as Δ → 0, therefore we need a special definition of the differential or continuous entropy:
+
+:
+
+which is, as said before, referred to as the differential entropy. This means that the differential entropy is not a limit of the Shannon entropy for n → ∞. Rather, it differs from the limit of the Shannon entropy by an infinite offset.
+
+It turns out as a result that, unlike the Shannon entropy, the differential entropy is not in general a good measure of uncertainty or information. For example, the differential entropy can be negative; also it is not invariant under continuous co-ordinate transformations.
+
+==Relative entropy==
+
+Another useful measure of entropy that works equally well in the discrete and the continuous case is the relative entropy of a distribution. It is defined as the Kullback–Leibler divergence from the distribution to a reference measure m as follows. Assume that a probability distribution p is absolutely continuous with respect to a measure m, i.e. is of the form p(dx) = f(x)m(dx) for some non-negative m-integrable function f with m-integral 1, then the relative entropy can be defined as
+:
+
+In this form the relative entropy generalises (up to change in sign) both the discrete entropy, where the measure m is the counting measure, and the differential entropy, where the measure m is the Lebesgue measure. If the measure m is itself a probability distribution, the relative entropy is non-negative, and zero if p = m as measures. It is defined for any measure space, hence coordinate independent and invariant under co-ordinate reparameterizations if one properly takes into account the transformation of the measure m. The relative entropy, and implicitly entropy and differential entropy, do depend on the "reference" measure m.
+
+==Use in combinatorics==
+Entropy has become a useful quantity in combinatorics.
+
+===Loomis-Whitney inequality===
+A simple example of this is an alternate proof of the Loomis-Whitney inequality: for every subset A ⊆ Zd, we have
+:
+where Pi is the orthogonal projection in the ith coordinate:
+:
+
+The proof follows as a simple corollary of Shearer's inequality: if X1, ..., Xd are random variables and S1, ..., Sn are subsets of {1, ..., d} such that every integer between 1 and d lies in exactly r of these subsets, then
+:
+where is the Cartesian product of random variables Xj with indexes j in Si (so the dimension of this vector is equal to the size of Si).
+
+We sketch how Loomis-Whitney follows from this: Indeed, let X be a uniformly distributed random variable with values in A and so that each point in A occurs with equal probability. Then (by the further properties of entropy mentioned above) H(X) = log|A|, where |A| denotes the cardinality of A. Let Si = {1, 2, ..., i−1, i+1, ..., d}. The range of is contained in Pi(A) and hence . Now use this to bound the right side of Shearer's inequality and exponentiate the opposite sides of the resulting inequality you obtain.
+
+===Approximation to binomial coefficient===
+For integers 0 < k < n let q = k/n. Then
+:
+where 
+: Aoki, New Approaches to Macroeconomic Modeling. page 43. 
+
+Here is a sketch proof. Note that is one term of the expression
+: 
+Rearranging gives the upper bound. For the lower bound one first shows, using some algebra, that it is the largest term in the summation. But then,
+:
+since there are n+1 terms in the summation. Rearranging gives the lower bound.
+
+A nice interpretation of this is that the number of binary strings of length n with exactly k many 1's is approximately . Probability and Computing, M. Mitzenmacher and E. Upfal, Cambridge University Press 
+
+==See also==
+
+*Conditional entropy
+*Cross entropy – is a measure of the average number of bits needed to identify an event from a set of possibilities between two probability distributions
+*Entropy (arrow of time)
+*Entropy encoding – a coding scheme that assigns codes to symbols so as to match code lengths with the probabilities of the symbols.
+*Entropy estimation
+*Entropy power inequality
+*Entropy rate
+*Fisher information
+*Hamming distance
+*History of entropy
+*History of information theory
+*Information geometry
+*Joint entropy – is the measure how much entropy is contained in a joint system of two random variables.
+*Kolmogorov-Sinai entropy in dynamical systems
+*Levenshtein distance
+*Mutual information
+*Negentropy
+*Perplexity
+*Qualitative variation – other measures of statistical dispersion for nominal distributions
+*Quantum relative entropy – a measure of distinguishability between two quantum states.
+*Rényi entropy – a generalisation of Shannon entropy; it is one of a family of functionals for quantifying the diversity, uncertainty or randomness of a system.
+*Shannon index
+*Theil index
+*Typoglycemia
+*Weighted entropy
+
+==References==
+
+==Further reading==
+
+===Textbooks on information theory===
+
+* Arndt, C. Information Measures, Information and its Description in Science and Engineering (Springer Series: Signals and Communication Technology), 2004, ISBN 978-3-540-40855-0
+
+* Ash, RB. Information Theory. New York: Interscience, 1965. ISBN 0-470-03445-9. New York: Dover 1990. ISBN 0-486-66521-6
+
+* Gallager, R. Information Theory and Reliable Communication. New York: John Wiley and Sons, 1968. ISBN 0-471-29048-3
+
+* Goldman, S. Information Theory. New York: Prentice Hall, 1953. New York: Dover 1968 ISBN 0-486-62209-6, 2005 ISBN 0-486-44271-3
+
+* Cover, TM, Thomas, JA. Elements of information theory, 1st Edition. New York: Wiley-Interscience, 1991. ISBN 0-471-06259-6.
+:2nd Edition. New York: Wiley-Interscience, 2006. ISBN 0-471-24195-4.
+
+* MacKay, DJC. Information Theory, Inference, and Learning Algorithms Cambridge: Cambridge University Press, 2003. ISBN 0-521-64298-1
+
+* 
+
+* Mansuripur, M. Introduction to Information Theory. New York: Prentice Hall, 1987. ISBN 0-13-484668-0
+
+*Pierce, JR. "An introduction to information theory: symbols, signals and noise". Dover (2nd Edition). 1961 (reprinted by Dover 1980).
+
+* Reza, F. An Introduction to Information Theory. New York: McGraw-Hill 1961. New York: Dover 1994. ISBN 0-486-68210-2
+
+* Shannon, CE. Warren Weaver. The Mathematical Theory of Communication. Univ of Illinois Press, 1949. ISBN 0-252-72548-4
+
+* Stone, JV. Chapter 1 of book "Information Theory: A Tutorial Introduction", University of Sheffield, England, 2014. ISBN 978-0956372857.
+
+==External links==
+* 
+* Introduction to entropy and information on Principia Cybernetica Web
+* Entropy an interdisciplinary journal on all aspect of the entropy concept. Open access.
+* Information is not entropy, information is not uncertainty ! – a discussion of the use of the terms "information" and "entropy".
+* I'm Confused: How Could Information Equal Entropy? – a similar discussion on the bionet.info-theory FAQ.
+* Description of information entropy from "Tools for Thought" by Howard Rheingold
+* A java applet representing Shannon's Experiment to Calculate the Entropy of English
+* Slides on information gain and entropy
+*An Intuitive Guide to the Concept of Entropy Arising in Various Sectors of Science – a wikibook on the interpretation of the concept of entropy.
+* Calculator for Shannon entropy estimation and interpretation
+* A Light Discussion and Derivation of Entropy
+* Network Event Detection With Entropy Measures, Dr. Raimund Eimann, University of Auckland, PDF; 5993 kB – a PhD thesis demonstrating how entropy measures may be used in network anomaly detection.
+
+ 
+
+

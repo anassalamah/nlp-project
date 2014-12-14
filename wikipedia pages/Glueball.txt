@@ -1,0 +1,70 @@
+[[Glueball]]
+
+ 
+In particle physics, a glueball is a hypothetical composite particle. * Frank Close and Phillip R. Page, "Glueballs", Scientific American, vol. 279 no. 5 (November 1998) pp. 80–85 It consists solely of gluon particles, without valence quarks. Such a state is possible because gluons carry color charge and experience the strong interaction. Glueballs are extremely difficult to identify in particle accelerators, because they mix with ordinary meson states. 
+Glueball on arxiv.org 
+
+Theoretical calculations show that glueballs should exist at energy ranges accessible with current collider technology. However, due to the aforementioned difficulty (among others), they have () so far not been observed and identified with certainty. Wolfgang Ochs, "The Status of Glueballs" J.Phys.G: Nuclear and Particle Physics 40, 67 (2013) DOI: 10.1088/0954-3899/40/4/043001 http://arxiv.org/pdf/1301.5183v3.pdf The prediction that glueballs exist is one of the most important predictions of the Standard Model of Particle Physics that has not yet been confirmed experimentally. Y.K. Hsiao, C.Q. Geng, "Identifying Glueball at 3.02 GeV in Baryonic B Decays" (Version 2: October 9, 2013) http://arxiv.org/abs/1302.3331 
+
+==Properties of glueballs==
+
+In principle, it is theoretically possible for all properties of glueballs to be calculated exactly and derived directly from the equations and fundamental physical constants of quantum chromodynamics (QCD) without further experimental input. So, the predicted properties of these hypothetical particles can be described in exquisite detail using only Standard Model physics which have quite wide acceptance in the theoretical physics literature. But, the fact that QCD calculations are so difficult that solutions to these equations are almost always numerical approximations (reached by several very different methodologies) and the considerable uncertainty in the measurement of some of the relevant key physical constants (relative to electroweak interactions) can lead to variation in theoretical predictions of glueball properties like mass and branching ratios in glueball decays.
+
+===Constituent Particles and Color Charge===
+Theoretical studies of glueballs have focused on glueballs consisting of either two gluons or three gluons, by analogy to mesons and baryons that have two and three quarks respectively. As in the case of mesons and baryons, glueballs would be QCD color charge neutral (aka isospin = 0). The baryon number of a glueball is zero.
+
+===Total Angular Momentum=== 
+Two gluon glueballs can have total angular momentum (J) of 0 (which are scalar or pseudo-scalar) or 2 (tensor). Three gluon glueballs can have total angular momentum (J) of 1 (vector boson) or 3. All glueballs have integer total angular momentum which implies that they are bosons rather than fermions. 
+
+Glueballs are the only particles predicted by the Standard Model with total angular momentum (J) (sometimes called "intrinsic spin") that could be either 2 or 3 in their ground states, although mesons made of two quarks with J=0 and J=1 with similar masses have been observed and excited states of other mesons can have these values of total angular momentum.
+
+Fundamental particles with ground states having J=0 or J=2 are easily distinguished from glueballs. The hypothetical graviton, while having a total angular momentum J=2 would be massless and lack color charge, and so would be easily distinguished from glueballs. The Standard Model Higgs boson for which an experimentally measured mass of about 125-126 GeV/c^2 has been determined (although the status of the measured particle as a true Standard Model Higgs boson has not been definitively established), is the only fundamental particle with J=0 in the Standard Model, also lacks color charge and hence does not engage in strong force interactions. The Higgs boson is about 25-80 times as heavy as the mass of the various glueball states predicted by the Standard Model.
+
+===Electric Charge=== 
+All glueballs would have electric charge, Q(e), of zero as gluons themselves do not have an electric charge.
+
+===Mass and Parity===
+Glueballs are predicted by quantum chromodynamics to be massive, notwithstanding the fact that gluons themselves have zero rest mass in the Standard Model. Glueballs with all four possible combinations of quantum numbers P (parity) and C (c-parity) for every possible total angular momentum have been considered, producing at least fifteen possible glueball states including excited glueball states that share the same quantum numbers but have differing masses with the lightest states having masses as low as 1.4 GeV/c^2 (for a glueball with quantum numbers J=0, P=+, C=+), and the heaviest states having masses as great as almost 5 GeV/c^2 (for a glueball with quantum numbers J=0, P=+, C=-). Wolfgang Ochs, "The Status of Glueballs" J.Phys.G: Nuclear and Particle Physics 40, 6 (2013) DOI: 10.1088/0954-3899/40/4/043001 http://arxiv.org/pdf/1301.5183v3.pdf 
+
+These masses are on the same order of magnitude as the masses of many experimentally observed mesons and baryons, as well as to the masses of the tau lepton, charm quark, bottom quark, some hydrogen isotypes and some helium isotypes.
+
+===Stability and Decay Channels=== 
+Just as all Standard Model mesons and baryons, except the proton, are unstable in isolation, all glueballs are predicted by the Standard Model to be unstable in isolation, with various QCD calculations predicting the total decay width (which is functionally related to half-life) for various glueball states. QCD calculations also make predictions regarding the expected decay patterns of glueballs. Walter Taki, "Search for Glueballs" (1996) http://www.slac.stanford.edu/cgi-wrap/getdoc/ssi96-006.pdf See, e.g., Walaa I. Eshraim, Stanislaus Janowski, "Branching ratios of the pseudoscalar glueball with a mass of 2.6 GeV", prepared for Proceedings of Confinement X - Conference on Quark Confinement and the Hadron Spectrum (Munich/Germany, 8-12 October 2012) (pre-print published January 15, 2013) http://arxiv.org/abs/1301.3345 For example, glueballs would not have radiative or two photon decays, but would have decays into pairs of pions, pairs of kaons, or pairs of eta mesons. Walter Taki, "Search for Glueballs" (1996) http://www.slac.stanford.edu/cgi-wrap/getdoc/ssi96-006.pdf 
+
+==Practical impact on macroscopic low energy physics== 
+Because Standard Model glueballs are so ephemeral (decaying almost immediately into more stable decay products) and are only generated in high energy physics, glueballs only arise synthetically in the natural conditions found on Earth that humans can easily observe. They are scientifically notable mostly because they are a testable prediction of the Standard Model, and not because of phenomenological impact on macroscopic processes, or their engineering applications.
+
+==Lattice QCD simulations==
+Lattice field theory provides a way to study the glueball spectrum theoretically and from first principles. Some of the first quantities calculated using lattice QCD methods (in 1980) were glueball mass estimates. B. Berg. Plaquette-plaquette correlations in the su(2) lattice gauge theory. Phys. Lett., B97:401, 1980. Morningstar and Peardon computed in 1999 the masses of the lightest glueballs in QCD without dynamical quarks. The three lowest states are tabulated below. The presence of dynamical quarks would slightly alter these data, but also makes the computations more difficult. Since that time calculations within QCD (lattice and sum rules) find the lightest glueball to be a scalar with mass in the range of about 1000–1700 MeV. Wolfgang Ochs, "The status of glueballs" Source: JOURNAL OF PHYSICS G-NUCLEAR AND PARTICLE PHYSICS Volume: 40 Issue: 4 Article Number: 043001 DOI: 10.1088/0954-3899/40/4/043001 Published: APR 2013 
+
+ J P'C mass 
+ 0++ 1730 ±80 MeV 
+ 2++ 2400 ±120 MeV 
+ 0−+ 2590 ±130 MeV 
+ 
+
+==Experimental candidates==
+
+Particle accelerator experiments are often able to identify unstable composite particles and assign masses to those particles to a precision of approximately 1 MeV/c^2, without being able to immediately assign to the particle resonance that is observed all of the properties of that particle. Scores of such particles have been detected, although particles detected in some experiments but not others can be viewed as doubtful. Some of the candidate particle resonances that could be glueballs, although the evidence is not definitive, include the following:
+
+* X(3020) observed by the BABAR collaboration is a candidate for an excited state of the 2-+, 1+- or 1-- glueball states with a mass of about 3.02 GeV/c^2. Y.K. Hsiao, C.Q. Geng, "Identifying Glueball at 3.02 GeV in Baryonic B Decays" (Version 2: October 9, 2013) http://arxiv.org/abs/1302.3331 
+* f0(500)/σ -- the properties of this particle are possibly consistent with a 1000 MeV or 1500 MeV mass glueball. 
+
+ 
+* f0(980) -- the structure of this composite particle is consistent with the existence of a light glueball. 
+* f0(1370) -- existence of this resonance is disputed but is a candidate for a glueball-meson mixing state 
+* f0(1500) -- existence of this resonance is undisputed but its status as a glueball-meson mixing state or pure glueball is not well established. 
+* f0(1710) -- existence of this resonance is undisputed but its status as a glueball-meson mixing state or pure glueball is not well established. 
+* Gluon jets at the LEP experiment show a 40% excess over theoretical expectations of electromagnetically neutral clusters which suggests that electromagnetically neutral particles expected in gluon rich environments such as glueballs are likely to be present. 
+
+Many of these candidates have been the subject of active investigation for at least eighteen years. Walter Taki, "Search for Glueballs" (1996) http://www.slac.stanford.edu/cgi-wrap/getdoc/ssi96-006.pdf The GlueX experiment, scheduled to begin in 2014, has been specifically designed to produce more definitive experimental evidence glueballs.
+
+==See also==
+*Exotic meson
+*GlueX
+*Gluon
+*Yang–Mills theory
+
+==References==
+
+

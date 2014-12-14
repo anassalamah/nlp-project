@@ -1,0 +1,340 @@
+[[Gospel of John]]
+
+The Gospel of John (also referred to as the Gospel According to John, the Fourth Gospel, or simply John) is one of the four canonical gospels in the Christian Bible. In the New Testament it traditionally appears fourth, after the synoptic gospels of Matthew, Mark and Luke. John begins with the witness and affirmation of John the Baptist and concludes with the death, burial, resurrection, and post-resurrection appearances of Jesus.
+
+ states that the book derives from the testimony of the "disciple whom Jesus loved" and early church tradition identified him as John the Apostle, one of Jesus' Twelve Apostles. The gospel is closely related in style and content to the three surviving Epistles of John such that commentators treat the four books, Lindars 1990 p. 63. along with the Book of Revelation, as a single body of Johannine literature. According to most modern scholars, however, the apostle John was not the author of any of these books. "Although ancient traditions attributed to the Apostle John the Fourth Gospel, the Book of Revelation, and the three Epistles of John, modern scholars believe that he wrote none of them." Harris, Stephen L., Understanding the Bible (Palo Alto: Mayfield, 1985) p. 355 
+
+Raymond E. Brown has proposed the development of a tradition from which the gospel arose. Ehrman, Bart D.. Jesus, Interrupted, HarperCollins, 2009. ISBN 0-06-117393-2 The discourses seem to be concerned with issues of the church-and-synagogue debate at the time when the Gospel was written. Lindars 1990 p. 53. It is notable that, in the gospel, the community appears to define itself primarily in contrast to Judaism, rather than as part of a wider Christian community. Bruce Chilton and Jacob Neusner, Judaism in the New Testament: Practices and Beliefs (New York: Routledge, 1995), 5. "by their own word what they (the writers of the New Testament) set forth in the New Testament must qualify as a Judaism. ... o distinguish between the religious world of the New Testament and an alien Judaism denies the authors of the New Testament books their most fiercely held claim and renders incomprehensible much of what they said." Though Christianity started as a movement within Judaism, Christians and Jews gradually became bitterly opposed. Lindars 1990 p. 60. 
+
+John presents a "higher" Christology than the synoptic gospels, meaning that it describes Jesus as the incarnation of the divine Logos through whom all things were made, as the object of veneration. Only in John does Jesus talk at length about himself and his divine role, often sharing such information with the disciples only. Against the synoptics, John focuses largely on different miracles (including the resurrection of Lazarus), given as signs meant to engender faith. Synoptic elements such as parables and exorcisms are not found in John. It presents a realized eschatology in which salvation is already present for the believer.
+
+==Composition==
+
+===Authorship===
+
+The gospel identifies its author as "the disciple whom Jesus loved." Although the text does not name this disciple, by the beginning of the 2nd century, a tradition had begun to form which identified him with John the Apostle, one of the Twelve (Jesus' innermost circle). Although some notable New Testament scholars affirm traditional Johannine scholarship, the majority do not believe that John or one of the Apostles wrote it, Anderson 2007, p. 19."These facts pose a major problem for the traditional view of John's authorship, and they are one of the key reasons critical scholars reject it." Lindars, 1990, p. 20."It is thus important to see the reasons why the traditional identification is regarded by most scholars as untenable." The New Interpreter's Dictionary of the Bible: Volume 3 Abingdon Press, 2008. p. 362 "Presently, few commentators would argue that a disciple of Jesus actually wrote the Fourth Gospel,..." Marilyn Mellowes The Gospel of John From Jesus to Christ: A Portrait of Jesus' World. PBS 2010-11-3. "Tradition has credited John, the son of Zebedee and an apostle of Jesus, with the authorship of the fourth gospel. Most scholars dispute this notion;..." D. A. Carson, Douglas J. Moo. An introduction to the New Testament. Zondervan; 2 New edition. 2005. Pg 233 “The fact remains that despite support for Johannine authorship by a few front rank scholars in this century and by many popular writers, a large majority of contemporary scholars reject this view.” "To most modern scholars direct apostolic authorship has therefore seemed unlikely." "John, Gospel of." Cross, F. L., ed. The Oxford dictionary of the Christian church. New York: Oxford University Press. 2005 and trace it instead to a "Johannine community" which traced its traditions to John; the gospel itself shows signs of having been composed in three "layers", reaching its final form about 90–100 AD. Harris 1985 pp. 302–10. "John." Harris 1985 pp. 367–432. "Glossary." According to Victorinus Victorinus, CA 11.I and Irenaeus, Irenaeus AH 3.11 the Bishops of Asia Minor requested John, in his old age, to write a gospel in response to Cerinthus, the Ebionites and other Jewish Christian groups which they deemed heretical. Hill 2004 pp. 391, 444. This understanding remained in place until the end of the 18th century. Fonck, Leopold. "Gospel of St. John." The Catholic Encyclopedia. Vol. 8. New York: Robert Appleton Company, 1910. 9 Jun 2009. 
+
+The earliest manuscripts to contain the beginning of the gospel (Papyrus 66 and Papyrus 75), dating from around the year 200, entitle the gospel "The Gospel according to John".
+
+According to some, the Gospel of John developed over a period of time in various stages, Anderson 2007 p. 77. summarized by Raymond E. Brown as follows: Brown 1997 pp. 363–4. 
+# An initial version based on personal experience of Jesus;
+# A structured literary creation by the evangelist which draws upon additional sources;
+# The final harmony that presently exists in the New Testament canon, around 85–90 AD. Lindars 1990 p. 16. 
+
+Within this view of a complex and multi-layered history, it is meaningless to speak of a single "author" of John, but the title perhaps belongs best to the evangelist who came at the end of this process. Lindars 1990 p. 20. "It is the evangelist who comes at the end of the process who is the real author of the Fourth Gospel." The final composition's comparatively late date, and its insistence upon Jesus as a divine being walking the earth in human form, renders it highly problematical to scholars who attempt to evaluate Jesus' life in terms of literal historical truth. Harris, Stephen L., Understanding the Bible. Palo Alto: Mayfield. 1985. p. 268. so that "it is primarily in the Synoptics that we must seek information about Jesus." Sanders, E. P. The historical figure of Jesus. Penguin, 1993. p. 57. 
+
+==Sources==
+
+===Order of material===
+Stained glass depiction of St. John at St. Matthew's German Evangelical Lutheran Church in Charleston, South Carolina.
+Among others, Rudolf Bultmann suggested Das Evangelium des Johannes, 1941 (translated as The Gospel of John: A Commentary, 1971) that the text of the gospel is partially out of order; for instance, chapter 6 should follow chapter 4: Wikisource: John in KJV 
+
+:4:53 So the father knew that it was at the same hour, in the which Jesus said unto him, Thy son liveth: and himself believed, and his whole house.
+:4:54 This is again the second miracle that Jesus did, when he was come out of Judaea into Galilee.
+:6:1 After these things Jesus went over the sea of Galilee, which is the sea of Tiberias.
+:6:2 And a great multitude followed him, because they saw his miracles which he did on them that were diseased.
+
+Chapter 5 deals with a visit to Jerusalem, while chapter 7 opens with Jesus again in Galilee because "he would not walk in Judaea, because the Jews sought to kill him," a consequence of the incident in Jerusalem described in chapter 5. There are more proposed rearrangements.
+
+===Signs Gospel===
+
+One possible construction of the "internal evidence" states that the Beloved Disciple wrote an account of the life of Jesus, but that this disciple died unexpectedly, necessitating that a revised gospel be written. It may be that John “is the source" of the Johannine tradition but "not the final writer of the tradition." Anderson 2007 p. 78. Therefore, scholars are no longer looking for the identity of a single writer but for numerous authors whose authorship has been absorbed into the gospel's development over a period of time and in several stages. Brown 1979 pp. 31–4. The Muratorian fragment (c. 180) states that while John was the primary author, several people were involved, that mutual revision was part of the original intent of the authors, and that the editors included the apostle Andrew. Geza Vermes, The authentic gospel of Jesus, London, Penguin Books. 2004. A note on sources, p. x–xvii. 
+
+The hypothesis of the Gospel being composed in layers over a period of time had its start with Rudolf Bultmann in 1941. Bultmann suggested that the author(s) of John depended in part on an author who wrote an earlier account. This hypothetical "Signs Gospel" listing Christ's miracles was independent of, and not used by, the synoptic gospels. It was believed to have been circulating before the year 70 AD. Bultmann's conclusion was so controversial that heresy proceedings were instituted against him and his writings. (See: Depiction of Jesus and more detailed discussions linked below.)
+
+Nevertheless, scholars such as Raymond Edward Brown continue to consider this hypothesis a plausible possibility. They believe the original author of the Signs Gospel to be the Beloved Disciple. They argue that the disciple who formed this community was both an historical person and a companion of Jesus Christ. Brown goes one step further by suggesting that the Beloved Disciple had been a follower of John the Baptist before joining Jesus. 
+
+===Discourses===
+The author may have used a source consisting of lengthy discourses, Funk 1993 p. 542–8. "Glossary." but this issue has not been clarified. Theissen 1998. Ch. 2. "Christian sources about Jesus." 
+
+===Inspiration===
+The author has Jesus foretell that new knowledge will come to his followers after his death. This reference indicates that the author may have included new information, not previously revealed, that is derived from spiritual inspiration rather than from historical records or recollection. Sanders, E. P. The historical figure of Jesus. Penguin, 1993. Chapter 6, Problems with primary sources. p 57-77. 
+
+===Trimorphic Protennoia===
+
+In terminology close to that found in later Gnostic works, one tract, generally known as the Trimorphic Protennoia, must either be dependent on John or the other way round. Lindars 1990 p. 65. 
+
+===Date===
+
+The gospel was apparently written near the end of the 1st century. 'The time of origin is to be put around the turn of the century.' Theissen, Gerd and Annette Merz. The historical Jesus: a comprehensive guide. Fortress Press. 1998. translated from German (1996 edition). p. 36. 'he Gospel circulated abroad during the first half of the 2nd century but was probably composed about 90—100 CE.' Harris, Stephen L., Understanding the Bible. Palo Alto: Mayfield. 1985. p. 303. Bart Ehrman argues that there are differences in the composition of the Greek within the Gospel, such as breaks and inconsistencies in sequence, repetitions in the discourse, as well as passages that he believes clearly do not belong to their context, and believes that these suggest redaction. Ehrman, Bart. A Brief Introduction to the New Testament. Oxford University Press, USA. 2004. ISBN 0-19-516123-8. p. 164–5. 
+
+The so-called "Monarchian Prologue" to the Fourth Gospel supports AD 96 or one of the years immediately following as to the time of its writing. Fonck, Leopold. "Gospel of St. John." The Catholic Encyclopedia. Vol. 8. New York: Robert Appleton Company, 1910. 7 Aug 2009. Scholars set a range of c. 90–100. Bruce 1981 p. 7. The gospel was already in existence early in the 2nd century. Livingstone, E. A. The Concise Oxford Dictionary of the Christian Church. Oxford University Press, USA, 2006. ISBN 978-0-19-861442-5. p. 313 It is thought that the Gospel of John was composed in stages (probably two or three). Mark Allan Powell. Jesus as a figure in history. Westminster John Knox Press, 1998. ISBN 0-664-25703-8/978-0664257033. p. 43. Since the middle of the 2nd century writings of Justin Martyr use language very similar to that found in the Gospel of John, the Gospel is considered to have been in existence at least at that time. Justin Martyr NTCanon.org. Retrieved 25 April 2007. The Rylands Library Papyrus P52, which records a fragment of this gospel, is usually dated to the first half of the 2nd century. Nongbri, Brent, 2005. "The Use and Abuse of P52: Papyrological Pitfalls in the Dating of the Fourth Gospel." Harvard Theological Review 98:23–52. 
+
+Conservative scholars consider internal evidences, such as the lack of the mention of the destruction of the Temple and a number of passages that they consider characteristic of an eyewitness, , , , , , , , McMenamin, Mark A. S., "The historical Jesus," Homiletic and Pastoral Review CIX, 2008:6. sufficient evidence that the gospel was composed before 100 and perhaps as early as 50–70. Stegall, Thomas L. "Reconsidering the Date of John's Gospel," Chafer Theological Seminary Journal 14.2 (2009): 70–103. In the 1970s, scholars Leon Morris and John A.T. Robinson independently suggested such earlier dates for the gospel's composition. Morris 1995 p. 59. Robinson 1977 pp. 284, 307. " later books, which argue that all the Gospels, incl. Jn., are very early, have not carried widespread conviction." "Robinson, John Arthur Thomas." Cross, F. L., ed. The Oxford dictionary of the Christian church. New York: Oxford University Press. 2005. Evidence supporting this position comes from the New Testament scholar Daniel Wallace. https://bible.org/seriespage/gospel-john-introduction-argument-outline The strongest argument for this position appears to be that the word ἐστιν ("is" in John 5:2, "Now there is at Jerusalem by the sheep market a pool, which is called in the Hebrew tongue Bethesda...") cannot be a historical present.
+
+The noncanonical Dead Sea Scrolls suggest an early Jewish origin, having parallels and similarities to the Essene Scroll, and Rule of the Community. Rule of the Community. "And by His knowledge, everything has been brought into being. And everything that is, He established by His purpose; and apart from Him nothing is done." Many phrases are duplicated in the Gospel of John and the Dead Sea Scrolls. These are sufficiently numerous to challenge the theory that the Gospel of John was the last to be written among the four Gospels Roberts, “An Unpublished Fragment of the Fourth Gospel in the John Rylands Library”, Bulletin of the John Rylands Library XX, 1936:45–55. and that it shows marked non-Jewish influence. 
+
+===Textual history and manuscripts===
+The Rylands Papyrus is perhaps the earliest New Testament fragment; dated from its handwriting to about 125.
+Probably the earliest surviving New Testament manuscript, Rylands Library Papyrus P52, is a Greek papyrus fragment discovered in Egypt in 1920 (now at the John Rylands Library, Manchester). Although P52 has no more than 114 legible letters, it must come from a substantial codex book; as it is written on both sides in a generously scaled script, with on one side and on the other. The surviving text agrees with that of the corresponding passages in the Gospel of John, but it cannot necessarily be assumed that the original manuscript contained the full Gospel of John in its canonical form. Metzger and Aland list the probable date for this manuscript as c. 125 Bruce M. Metzger. The text of the New Testament: its transmission, corruption, and restoration. Oxford University Press, 1992. ISBN 0-19-507297-9. p.56 Kurt Aland, Barbara Aland. The Text of the New Testament: an Introduction to the Critical Editions and to the Theory and Practice of Modern Textual Criticism. Wm. B. Eerdmans, 1995. ISBN 0-8028-4098-1/978-0802840981. p.99 but the difficulty of estimating the date of a literary text based solely on paleographic evidence must allow potentially for a range that extends from before 100 to well into the second half of the 2nd century. P52 is small, and although a plausible reconstruction can be attempted for most of the fourteen lines represented, the proportion of the text of the Gospel of John for which it provides a direct witness is so small that it is rarely cited in textual debate. Tuckett p. 544. Skypoint.com Historian.net Other notable early manuscripts of John include Papyrus 66 and Papyrus 75, in consequence of which a substantially complete text of the Gospel of John exists from the beginning of the 3rd century at the latest. Hence the textual evidence for the Gospel of John is commonly accepted as both earlier and more reliable than that for any other of the canonical Gospels.
+
+Much current research on the textual history of the Gospel of John is being done by the International Greek New Testament Project.
+
+====Egerton gospel====
+The mysterious Egerton Gospel appears to represent a parallel but independent tradition to the Gospel of John. According to scholar Ronald Cameron, it was originally composed some time between the middle of the 1st century and early in the 2nd century, and it was probably written shortly before the Gospel of John. Ronald Cameron, editor. The Other Gospels: Non-Canonical Gospel Texts, 1982 Scholar Robert W. Funk and the Jesus Seminar place the Egerton fragment in the 2nd century, perhaps as early as 125, which would make it as old as the oldest fragments of John. Funk 1993 p. 543. 
+
+===Position in the New Testament===
+In the standard order of the canonical gospels, John is fourth, after the three interrelated synoptic gospels Matthew, Mark and Luke. In the earliest surviving gospel collection, Papyrus 45 of the 3rd century, it is placed second in the order Matthew, John, Luke and Mark, an order which is also found in other very early New Testament manuscripts. In syrcur it is placed third in the order Matthew, Mark, John and Luke. Thomas Spencer Baynes, The Encyclopædia Britannica: A Dictionary of Arts, Sciences, and General Literature, 9th Ed., Vol. 5. A. & C. Black, 1833 pp.13 
+
+==Narrative summary (structure and content)==
+Jesus giving the Farewell Discourse (John 14–17) to his eleven remaining disciples, from the Maesta by Duccio, 1308–1311.
+
+After the prologue, the narrative of the gospel begins with verse 6, and consists of two parts. The first part relates Jesus' public ministry from John the Baptist recognizing him as the Lamb of God to the raising of Lazarus and Jesus' final public teaching. In this first part, John emphasizes seven of Jesus' miracles, always calling them "signs." The second part presents Jesus in dialogue with his immediate followers and gives an account of his Passion and Crucifixion and of his appearances to the disciples after his Resurrection. In the "appendix", Jesus restores Peter after his denial, hints at how Peter would die, and declines to answer Peter's question about the fate of the Beloved Disciple.
+
+Raymond E. Brown, a scholar of the social environment where the Gospel and Letters of John emerged, labeled the first and second parts the "Book of Signs" and the "Book of Glory", respectively. Studies in John 
+
+===Hymn to the Word===
+This prologue is intended to identify Jesus as the eternal Word (Logos) of God. Cross 2005. "John, Gospel of." Thus John asserts Jesus' innate superiority over all divine messengers, whether angels or prophets. Harris 1985. Here John adapts the doctrine of the Logos, God's creative principle, from Philo, a 1st-century Hellenized Jew. 
+
+Philo had adopted the term Logos from Greek philosophy, using it in place of the Hebrew concept of Wisdom (sophia) as the intermediary (angel) between the transcendent Creator and the material world. Some scholars argue that the prologue was taken over from an existing hymn and added at a later stage in the gospel's composition. 
+
+===Seven signs===
+
+This section recounts Jesus' public ministry. It consists of seven miracles or "signs," interspersed with long dialogues and discourses, including several "I am" sayings. The miracles culminate with his most potent, the raising of Lazarus from the dead. In John, it is this last miracle, and not the temple incident, that prompts the authorities to have Jesus executed.
+
+===Last teachings and death===
+
+This section opens with an account of the Last Supper that differs significantly from that found in the synoptics. Here, Jesus washes the disciples' feet instead of ushering in a new covenant of his body and blood. This account of foot washing might refer to a local tradition by which foot washing served as a Christian initiation ritual rather than baptism. Johnson, Maxwell E. "The Apostolic Tradition" in The Oxford History of Christian Worship. Oxford University Press, USA. 2005. page 32-75. ISBN 0-19-513886-4 John then devotes almost five chapters to farewell discourses. Jesus declares his unity with the Father, promises to send the Paraclete, describes himself as the "true vine," explains that he must leave (die) before the Holy Spirit comes, and prays that his followers be one.
+
+The Jesus Seminar has argued that verses John 14:30–31 represent a conclusion, and that the next three chapters have been inserted into the text later. This argument considers the farewell discourse not to be authentic, and postulates that it was constructed after the death of Jesus. Funk, Robert W., Roy W. Hoover, and the Jesus Seminar. The five gospels. HarperSanFrancisco. 1993. "Introduction," p 1-30. However, scholars such as Herman Ridderbos see John 14:30–31 as a "provisional ending" just to that part of the discourse and not an ending to the entire discourse. The Gospel according to John by Herman Ridderbos 1997 ISBN 978-0-8028-0453-2 pages 510–512 In 2004 Scott Kellum published a detailed analysis of the literary unity of the entire Farewell Discourse and stated that it shows that it was written by a single author, and that its structure and placement within the Gospel of John is consistent with the rest of that gospel. John, Jesus, and History, Volume 2 by Paul N. Anderson, Felix Just, Tom Thatcher 2007 ISBN 1589832930 page 273 The Unity of the Farewell Discourse by L. Scott Kellum 2004 ISBN 0567080765 pages 1–6 
+
+John then records Jesus' arrest, trial, execution, and resurrection appearances, including "doubting Thomas." Significantly, John does not have Jesus claim to be the Son of God or the Messiah before the Sanhedrin or Pilate, and he omits the midday darkness and the earthquake that is said in Matthew to have accompanied Jesus' death. The gospel also omits Jesus' ascension. John's revelation of divinity is Jesus' triumph over death, the eighth and greatest sign. 
+
+, in which the Beloved Disciple is said to be the author, is commonly assumed to be an appendix, probably added to allay concerns after the death of the Beloved Disciple. Chapter 21 states that there had been a rumor that the End would come before the Beloved Disciple died.
+
+==Characteristics==
+Though the three Synoptic Gospels share a considerable amount of text, over 90% of John's Gospel is unique to it. Marshall, Celia Brewer and Celia B. Sinclair. A Guide Through the New Testament. Westminster John Knox Press, 1994. ISBN 0-664-25484-5 The synoptics describe much more of Jesus' life, miracles, parables, and exorcisms. However, the material unique to John is notable, especially in its effect on later Christianity.
+
+As a gospel, John is a story about the life of Jesus. The Gospel can be divided into four parts: The Cradle, the Cross, and the Crown: An Introduction to the New Testament by Andreas J. Köstenberger, L. Scott Kellum 2009 ISBN 978-0-8054-4365-3 page 305 
+* Prologue
+* The Book of signs
+* The Book of exaltation (Passion narrative)
+* The Epilogue. C. Marvin Pate, et al. "The Story of Israel: a biblical theology" (InterVarsity Press: Downers Grove, 2004), 153. 
+
+The Prologue is a hymn identifying Jesus as the divine Logos. The Book of Signs recounts Jesus' public ministry, and includes the signs worked by Jesus and some of his teachings. The Passion narrative recounts the Last Supper (focusing on Jesus' farewell discourse), Jesus' arrest and crucifixion, his burial, and resurrection. The Epilogue records a resurrection appearance of Jesus to the disciples in Galilee.
+
+Following on from the "higher criticism" of the 19th century, scholars such as Adolf von Harnack Adolf von Harnack What is Christianity? Lectures Delivered in the University of Berlin during the Winter-Term 1899–1900 "In particular, the fourth Gospel, which does not emanate or profess to emanate from the apostle John, cannot be taken as an historical authority in the ordinary meaning of the word. The author of it acted with sovereign freedom, transposed events and put them in a strange light, drew up the discourses himself, and illustrated 22 great thoughts by imaginary situations. Although his work is not altogether devoid of a real, if scarcely recognizable, traditional element, it can hardly make any claim to be considered an authority for Jesus’ history; only little of what he says can be accepted, and that little with caution. On the other hand, it is an authority of the first rank for answering the question, What vivid views of Jesus’ person, what kind of light and warmth, did the Gospel disengage?" and Raymond E. Brown have questioned the gospel of John as a reliable source of information about the historical Jesus. Gospel of Saint John, in Catholic Encyclopedia 1910 Harris 1985 p. 268. John's biography is "highly problematical to scholars." 
+
+===Christology===
+According to one scholar, John portrays Jesus Christ as "a brief manifestation of the eternal Word, whose immortal spirit remains ever-present with the believing Christian." Harris p. 304. The book presents Jesus as the divine Son of God, and yet subordinate to God the Father. This gospel gives more focus to the relationship of the Son to the Father than the other gospels. It also focuses on the relation of the Redeemer to believers, the announcement of the Holy Spirit as the Comforter (Greek Paraclete), and the prominence of love as an element in Christian character.
+
+====Jesus' divine role====
+In the synoptics, Jesus speaks often about the Kingdom of God; his own divine role is obscured (see Messianic secret). In John, Jesus talks openly about his divine role. He says, for example, that he is the way, the truth, and the life. He echoes Yahweh's own statements with several "I am" declarations that also identify him with symbols of major significance. Harris pp. 302–10. He says, "I am":
+
+* "the bread of life"
+* "the light of the world"
+* "the gate of the sheep"
+* "the good shepherd"
+* "the resurrection and the life"
+* "the way, the truth, and the life" and
+* "the true vine"
+
+Critical scholars think that these claims represent the Christian community's faith in Jesus' divine authority but doubt that the historical Jesus actually made these sweeping claims. John Shelby Spong has argued that the "I Am" statements are in reference to YHWH, and interprets ("He that believeth on me, believeth not on me, but on him that sent me") as meaning that Jesus expressly denied being God. John Shelby Spong. Jesus for the Non-Religious 
+
+John also promises eternal life for those who believe in Jesus.
+
+====Logos====
+
+In the Prologue, John identifies Jesus as the Logos (Word). A term from Greek philosophy, it meant the principle of cosmic reason. In this sense, it was similar to the Hebrew concept of Wisdom, God's companion and intimate helper in creation. The Jewish philosopher Philo merged these two themes when he described the Logos as God's creator of and mediator with the material world. The evangelist adapted Philo's description of the Logos, applying it to Jesus, the incarnation of the Logos. 
+
+The opening verse of John is translated as "the Word was with God and the Word was God" in all "orthodox" English Bibles. New International Version (and Today's New International Version), New American Standard Bible, Amplified Bible, New Living Translation, King James Version, Young's Literal Translation, Darby Translation, and Wycliffe New Testament, to name a few. There are alternative views. The New World Translation of the Holy Scriptures of Jehovah's Witnesses has, "the Word was with God, and the Word was a god." The Scholar's Version of the gospel, developed by the Jesus Seminar, loosely translates the phrase as "The Logos was what God was," offered as a better representation of the original meaning of the evangelist. Funk 1998 pp. 365–440. "John." 
+
+===John the Baptist===
+
+John's account of the Baptist is different from that of the synoptic gospels. John is not called "the Baptist." John's ministry overlaps with that of Jesus, his baptism of Jesus is not explicitly mentioned, but his witness to Jesus is unambiguous. The evangelist almost certainly knew the story of John's baptism of Jesus and he makes a vital theological use of it. Barrett, C. K. The Gospel According to St. John: An Introduction with Commentary and Notes on the Greek Text. Westminster John Knox Press, 1978. p. 16 He subordinates John to Jesus, perhaps in response to members of the Baptist's sect who denied Jesus' superiority. 
+
+In John, Jesus and his disciples go to Judea early in Jesus' ministry when John has not yet been imprisoned and executed by Herod. He leads a ministry of baptism larger than John's own. The Jesus Seminar rated this account as black, containing no historically accurate information. Historically, John likely had a larger presence in the public mind than Jesus. Funk 1998 p. 268. "John the Baptist." 
+
+===Jews===
+
+In his Jerusalem speeches, John's Jesus makes unfavorable references to the Jews (the Ioudaioi, a term with a range of meanings). It has been argued that these references may constitute a rebuttal on the part of the author against Jewish criticism of the early Church. Yet the Gospel of John collectively describes the enemies of Jesus as "the Jews". In none of the other gospels do "the Jews" demand, en masse, the death of Jesus; instead, the plot to put him to death is always presented as coming from a small group of priests and rulers, the Sadducees. John's gospel is thus the primary source of the image of "the Jews" acting collectively as the enemy of Jesus. Is John's Gospel antisemitic? 
+
+Some scholars have attempted to counter charges that the Gospel of John is anti-Semitic by arguing that its author likely considered himself Jewish, did not deny that Jesus and his disciples were all Jewish, and was probably speaking to a largely Jewish community. Donald Senior, The passion of Jesus in the Gospel of John, Liturgical Press, 1991 (pp 155–156) While passages in John have been used to support anti-semitism, these passages reflect a dispute within Judaism, and it is highly questionable whether the evangelist himself was anti-semitic. "The Fourth Evangelist is still operating within a context of intra-Jewish factional dispute, although the boundaries and definitions themselves are part of that dispute. It is clear beyond doubt that once the Fourth Gospel is removed from that context, and the constraints of that context, it was all too easily read as an anti-Jewish polemic and became a tool of anti-semitism. But it is highly questionable whether the Fourth Evangelist himself can fairly be indicted for either anti-Judaism or anti-semitism." J.G.Dunn. The Question of Anti-Semitism in the New Testament Writings of the Period. Jews and Christians: the parting of the ways, A.D. 70 to 135. Wm. B. Eerdmans Publishing, 1999. p. 209. 
+
+===Gnostic elements===
+
+Though not commonly understood as Gnostic, many scholars, perhaps most notably Rudolf Bultmann, have forcefully argued that the Gospel of John has elements in common with Gnosticism. 
+Christian Gnosticism did not fully develop until the mid-2nd century, and so 2nd-century Proto-Orthodox Christians concentrated much effort in examining and refuting it. Roger E. Olson, The Story of Christian Theology, p. 36; InterVarsity Press, Downers Grove, IL, 1999 To say John’s Gospel contained elements of Gnosticism is to assume that Gnosticism had developed to a level that required the author to respond to it. Bultmann, for example, argued that the opening theme of the Gospel of John, the pre-existing Logos, was actually a Gnostic theme. Other scholars, e.g. Raymond E. Brown have convincingly argued that the pre-existing Logos theme arises from the more ancient Jewish writings in the eighth chapter of the Book of Proverbs, and was fully developed as a theme in Hellenistic Judaism by Philo Judaeus.
+
+Comparisons to Gnosticism are based not in what the author says, but in the language he uses to say it, notably, use of the concepts of Logos and Light. Other scholars, e.g. Raymond E. Brown, have argued that the ancient Jewish Qumran community also used the concept of Light versus Darkness. The arguments of Bultmann and his school were seriously compromised by the mid-20th century discoveries of the Nag Hammadi library of genuine Gnostic writings (which are dissimilar to the Gospel of John) as well as the Qumran library of Jewish writings (which are often similar to the Gospel of John).
+
+Gnostics read John but interpreted it differently from the way non-Gnostics did. Gnosticism taught that salvation came from gnosis, secret knowledge, and Gnostics did not see Jesus as a savior but a revealer of knowledge. Barnabas Lindars asserts that the gospel teaches that salvation can only be achieved through revealed wisdom, specifically belief in (literally belief into) Jesus. Lindars 1990 p. 62. 
+
+Raymond Brown contends that "The Johannine picture of a savior who came from an alien world above, who said that neither he nor those who accepted him were of this world, and who promised to return to take them to a heavenly dwelling could be fitted into the gnostic world picture (even if God's love for the world in could not)." Brown 1997 p. 375. It has been suggested that similarities between John's Gospel and Gnosticism may spring from common roots in Jewish Apocalyptic literature. 
+
+===Historical reliability===
+The differences between the Synoptics and John were acknowledged in the early Church. Harris, Stephen L., Understanding the Bible. Palo Alto: Mayfield. 1985. "John" p. 302-310 Around AD 200, Clement of Alexandria noted that John's gospel was a "spiritual gospel", distinct from the Synoptics. For example, see the discussion in Saeed Hamid-Khani, Revelation and Concealment of Christ, WUNT 120 (Tubingen: Mohr Siebeck, 2000), 1–4. However, there is some degree of debate regarding Clement's exact meaning of "spiritual gospel"; care must be taken not to ascribe to his phrase modern prejudices or expectations. Critical scholarship in the 19th century distinguished between the "biographical" approach of the synoptics and the "theological" approach of John, and began to disregard John as a historical source. Current scholarship, however, emphasizes that all four gospels are both biographical and theological. "All four Gospels should be regarded primarily as biographies of Jesus, but all four have a definite theological aim." Lindars 1990 p. 26. 
+
+According to the majority viewpoint for most of the 20th century, Jesus' teaching in John is largely irreconcilable with that found in the synoptics, and perhaps most scholars consider the Synoptic Gospels to be more accurate representations of the teaching of the historical Jesus.
+
+There are notable exceptions to this perception, e.g. the story of the calling of the first disciples. In the Synoptic Gospels the account of Jesus' calling of his first disciples from among Galilean fishermen belongs to the paranormal or unexplained. In the first chapter of the Gospel of John, by contrast, John the Baptist personally pointed those first apostles to Jesus. Furthermore, the Synoptic Gospels contradict each other about the number of times that Jesus visited Jerusalem, and so should not be given instant precedence in comparison with the Gospel of John which maintains that Jesus visited Jerusalem multiple times. 'John, however, is so different that it cannot be reconciled with the synoptics except in very general ways (e.g., Jesus lived in Palestine, taught, healed, was crucified and raised). The greatest differences, though, appear in the methods and content of Jesus’ teaching. Scholars have largely chosen the Synoptic Gospels’ version of Jesus’ teaching.' "Jesus Christ." Encyclopædia Britannica. 2010. Encyclopædia Britannica Online. 15 Nov 2010 . 
+
+The teachings of Jesus in John are distinct from those found in the synoptic gospels. Thus, since the 19th century many Jesus scholars have argued that only one of the two traditions could be authentic. 'It is impossible to think that Jesus spent his short ministry teaching in two such completely different ways, conveying such different contents, and that there were simply two traditions, each going back to Jesus, one transmitting 50 per cent of what he said and another on the other 50 per cent, with almost no overlaps. Consequently, for the last 150 years or so scholars have had to choose. They have almost unanimously, and I think entirely correctly, concluded that the teaching of the historical Jesus is to be sought in the synoptic gospels and that John represents an advanced theological development, in which meditations on the person and work of Christ are presented in the first person, as if Jesus said them.' Sanders, E. P. The historical figure of Jesus. Penguin, 1993. p. 70–71. J. D. G. Dunn comments on historical Jesus scholarship, "Few scholars would regard John as a source for information regarding Jesus' life and ministry in any degree comparable to the synoptics." Sanders, E. P. The historical figure of Jesus. Penguin, 1993. James D. G. Dunn, Jesus Remembered, Eerdmans (2003), page 165 E. P. Sanders concludes that the Gospel of John contains an "advanced theological development, in which meditations on the person and work of Christ are presented in the first person, as if Jesus said them." Sanders, E. P. The historical figure of Jesus. Penguin, 1993. p. 71. Sanders points out that the author would regard the gospel as theologically true as revealed spiritually even if its content is not historically accurate and argues that even historically plausible elements in John can hardly be taken as historical evidence, as they may well represent the author's intuition rather than historical recollection. The scholars of the Jesus Seminar identify the historical inferiority of John as foundational to their work. Funk 1993 pp. 1–30. "Introduction." Geza Vermes discounts all the teaching in John when reconstructing his view of "the authentic gospel of Jesus." Vermes, Geza. The authentic gospel of Jesus. London, Penguin Books. 2004. 
+
+While a large number of 20th-century biblical critics argue that the teaching found in John does not go back to the historical Jesus, they usually agree that gospel is not entirely without historical value. Theissen, Gerd and Annette Merz. The historical Jesus: a comprehensive guide. Fortress Press. 1998. translated from German (1996 edition). Chapter 2. Christian sources about Jesus. Several of its independent elements are historically plausible, Theissen 1998 pp. 36–7. such as Jesus being executed before Passover, as John reports. Marianne Meye Thompson, The Historical Jesus and the Johannine Christ in Culpepper, R. Alan, and Black, C. Clifton, eds. Exploring the Gospel of John. Westminster John Knox Press, 1996. p. 28 Former followers of John the Baptist probably joined Jesus' movement. It has become generally accepted that certain sayings in John are as old or older than their synoptic counterparts, that John's representation of things around Jerusalem is often superior to that of the synoptics, and that its presentation of Jesus in the garden and the prior meeting held by the Jewish authorities are possibly more historically accurate than their synoptic parallels. Henry Wansbrough, The Four Gospels in Synopsis, The Oxford Bible Commentary, pp. 1012–1013, Oxford University Press 2001 ISBN 0-19-875500-7 
+
+Throughout the 20th century a minority of prominent scholars, such as John A.T. Robinson, have argued that John is as historically reliable as the synoptics. Robinson wrote that, where the gospel narrative accounts can be checked for consistency with surviving material evidence, the account in John is commonly the more plausible. Robinson 1977 p. 201. Robinson further wrote that it is generally easier to reconcile the various synoptic accounts within John's narrative framework than to explain John's narrative within the framework of any of the synoptics, Robinson 1977 p. 125. and that when in the gospel Jesus and his disciples are described as travelling around identifiable locations the journeys can always be plausibly reconstructed on a map, Robinson 1977 p. 53. which is not the case for any synoptic gospel. Scholars such as D. A. Carson, Douglas J. Moo, and Craig Blomberg, often agree with Robinson. "Introduction to the New Testament", chapter on John, by D. Carson and D. Moo, Zondervan Books (2005) Craig L. Blomberg, Historical Reliability of the Gospels (1986, Inter-Varsity Press) Henry Wansbrough writes: "Gone are the days when it was scholarly orthodoxy to maintain that John was the least reliable of the gospels historically." Henry Wansbrough says: "Gone are the days when it was scholarly orthodoxy to maintain that John was the least reliable of the gospels historically." The Four Gospels in Synopsis, The Oxford Bible Commentary, pp. 1012–1013, Oxford University Press 2001 ISBN 0-19-875500-7 
+
+===Development===
+Some scholars today believe that parts of John represent an independent historical tradition from the synoptics, while other parts represent later traditions. Brown 1997 pp. 362–4. The Gospel was probably shaped in part by increasing tensions between synagogue and church, or between those who believed Jesus was the Messiah and those who did not. 
+
+===Chronology of Jesus' ministry===
+
+A distinctive feature of the Gospel of John is that it provides a very different chronology of Jesus' ministry from that in the synoptics. E.P. Sanders suggests that John's chronology, even when ostensibly more plausible, should nevertheless be treated with suspicion on the grounds that the Synoptic accounts are otherwise superior as historic sources. C.H. Dodd proposes that historians may mix and match between John and the synoptics on the basis of whichever appears strongest on a particular episode. Robinson says that John's chronology is consistently more likely to represent the original sequence of events.
+
+Robinson offers three arguments for preferring the chronology of John's Gospel to that of the synoptics. First, he argues that John's account of Jesus' ministry is always consistent, in that seasonal references always follow in the correct sequence, geographical distances are always consistent with indications of journey times, and references to external events always cohere with the internal chronology of Jesus' ministry. He claims that the same cannot be claimed for any of the three Synoptic accounts. For example, the harvest-tide story of is shortly followed by reference to green springtime pasture at . Again, the historically consistent reference to the period of the temple construction in , may be contrasted with the impossibility of reconciling Luke's account of the census of with historic records of Quirinius's governorship of Syria. Second, Robinson appeals to the critical principle, widely applied in textual study, that the account is most likely to be original that best explains the other variants. He argues that it would be relatively easy to have created the Synoptic chronology by selecting and editing from John's chronology; whereas expanding the Synoptic chronology to produce that found in John, would have required a wholescale rewriting of the sources. Third, Robinson claims that elements consistent with John's alternative chronology can be found in each of the Synoptic accounts, whereas the contrary is never the case. For example, Mark's explicit claim that the Last Supper was a Passover meal is contradicted by his statement that Joseph of Arimathea bought a shroud for Jesus on Good Friday; which would not have been possible if it were a festival day.
+
+====Two-year ministry====
+In John's Gospel, the public ministry of Jesus extends over rather more than two years. At the start of his ministry, Jesus is in Jerusalem for Passover, then he is in Galilee for the following Passover, before going up to Jerusalem again for his death at a third Passover. The synoptics, by contrast, only explicitly mention the final Passover, and their accounts are commonly understood as describing a public ministry of less than a year. Recent studies in ancient narrative historiography argue that it is possible for John's Gospel to record multiple Passovers—as historical testimony not theological literary-devices—and yet not represent three years, as it was not uncommon for ancient historians to organize their histories without an absolute timeline. For example, Douglas Estes cites the work of Thucydides, Herodotus, Tacitus and many others from the ancient world who wrote historiography that was often linear but not necessarily absolute (absolute time being perhaps first promoted by Joseph Scaliger, the early critical historian); see Estes, Douglas. The Temporal Mechanics of the Fourth Gospel: A Theory of Hermeneutical Relativity in the Gospel of John, BIS 92 (Leiden: Brill, 2008). If true, this would mean John's chronology is much closer to Synoptic chronology than often assumed.
+
+In favour of the Synoptic chronology, E.P. Sanders observes that a short ministry accords with the careers of other known prophetic figures of the time—who appear in the desert, raise large scale public interest, but soon come to a bloody end at the hand of the Roman military. In favour of the two-year ministry, John Robinson points out that both Matthew and Luke imply that Jesus was preaching in Galilee for at least one Passover during his ministry. The Temple tax is only collected at Passover; moreover, the massacred Galileans of would appear to have been in Jerusalem for Passover.
+
+====Cleansing of the Temple====
+
+In John, Jesus drives the money changers from the Temple at the start of his ministry, whereas in the Synoptic account this occurs at the end, immediately after Palm Sunday. In favor of the later dating of the synoptics, Geza Vermes says that this event provides a clear context and pretext for Jesus' arrest, trial and execution. It makes more sense to suppose that events proceeded quickly. But Robinson says that all three Synoptic accounts explain the reluctance of the Temple authorities to arrest Jesus on the spot, as being due to their fear of popular support for John the Baptist. Some believe this would make more sense while the Baptist was still alive.
+
+====Earlier baptizing ministry in Judea====
+In of the Gospel of John, Jesus, following his encounter with John the Baptist, undertakes an extended and successful baptizing ministry in Judea and on the banks of the River Jordan; initially as an associate of the Baptist, latterly more as a rival. In the Synoptic accounts, Jesus retreats into the wilderness following his baptism, and is presented as gathering disciples from scratch in his home country of Galilee; following which he embarks on a ministry of teaching and healing, in which baptism plays no part. In favour of the Synoptic account is the clear characterisation of Jesus and his disciples in all the Gospels as predominantly Galilean. Against this, Robinson points out that all the synoptics are agreed that, when Jesus arrives in Jerusalem in the week before his death, he already has a number of followers and disciples in the city, notably Joseph of Arimathea, and the unnamed landlord of the upper room, who knows Jesus as 'the Teacher'.
+
+====Repeated visits to Jerusalem====
+In John, Jesus not only starts his ministry in Jerusalem, he returns there for other festivals, notably at and at . As noted above, E.P Sanders regards the short, sharp prophetic career as having greater verisimilitude. Against this John Robinson notes the numerous instances in the Synoptic account of Jesus' final days in Jerusalem, when it is implied that he has been there before. In ( and ), Jesus appears to recall several previous preaching ministries in Jerusalem, when his message had been generally spurned.
+
+====Date of the crucifixion====
+
+In the Jewish calendar, each day runs from sunset to sunset, and hence the Last Supper (on the Thursday evening), and Jesus' crucifixion (on Friday afternoon), both fell on the same day. In John, this day was the 14th of Nisan in the Jewish calendar; that is the day on the afternoon of which the Passover victims were sacrificed in the Temple, which was also known as the Day of Preparation. The Passover meal itself would then have been eaten on the Friday evening (i.e. the next day in Jewish terms), which would also have been a Sabbath. In the Synoptic accounts, the Last Supper is a Passover meal, and so Jesus' trial and crucifixion must have taken place during the night time and following afternoon of the festival itself, the 15th of Nisan. In favour of the Synoptic chronology is that in the earliest Christian traditions relating to the Last Supper in the first letter of Paul to the Corinthians, there is a clear link between the Last Supper and the Passover lamb. However, Paul also calls Christ "our passover", "sacrificed for us" (), and if as according to John Jesus died on the afternoon of the 14th this was when the passover lambs were slaughtered. * Colin Humphreys and W. Graeme Waddington favor the date of Friday April 3, 33 from a combination of astronomical and historical reasons, which would have been the 14th rather than the 15th of Nisan. Also in favor of John's chronology is the near universal modern scholarly agreement that the Synoptic accounts of a formal trial before the Sanhedrin on a festival day are historically impossible. By contrast, an informal investigation by the High Priest and his cronies (without witnesses being called), as told by John, is both historically possible in an emergency on the day before a festival, and accords with the external evidence from Rabbinic sources that Jesus was put to death on the Day of Preparation for the Passover. Astronomical reconstruction of the Jewish Lunar calendar tends to favor John's chronology, in that the only year during the governorship of Pontius Pilate when the 15th Nisan is calculated as falling on a Wednesday/Thursday was AD 27, which appears too early as the year of the crucifixion, whereas the 14th of Nisan fell on a Thursday/Friday in both AD 30 and 33. 
+
+==Compared with the synoptics ==
+John 8:32 is inscribed at the entrance to Southwest Texas Junior College in Uvalde, Texas.
+The Book of John is significantly different from the Synoptic Gospels:
+* Jesus is identified with the divine Word ("Logos") and the Word is called theos ("god" in Greek). Ehrman, Bart D.. Misquoting Jesus: The Story Behind Who Changed the Bible and Why. HarperCollins, 2005. ISBN 978-0-06-073817-4 
+* The Gospel of John gives no account of the Nativity of Jesus, unlike Matthew and Luke, and his mother, while frequently mentioned, is never identified by name. John does assert that Jesus was known as the "son of Joseph" in .
+* In chapter 7:41–42, and again in 7:52, John records some of the crowd of Pharisees dismissing the possibility of Jesus' being the Messiah, on the grounds that the Messiah must be a descendent of David and born in Bethlehem, stating that Jesus instead came out of Galilee (as is stated in the Gospel of Mark); John made no effort to refute or correct this, and this has been advanced as implying that John rejected the synoptic tradition of Jesus' birth in Bethlehem.
+* The Pharisees, portrayed as more uniformly legalistic and opposed to Jesus in the synoptic gospels, are instead portrayed as sharply divided; they debate frequently in the Gospel of John's accounts. Some, such as Nicodemus, even go so far as to be at least partially sympathetic to Jesus. This is believed to be a more accurate historical depiction of the Pharisees, who made debate one of the tenets of their system of belief. Neusner, Jacob. Invitation to the Talmud: a Teaching Book (1998): 8 
+* John makes no mention of Jesus' baptism, but quotes John the Baptist's description of the descent of the Holy Spirit as a dove, as happens at Jesus' baptism in the other gospels.
+* John the Baptist publicly proclaims Jesus to be the Lamb of God. The Baptist recognizes Jesus secretly in Matthew, and not at all in Mark or Luke. The Gospel of John also has John the Baptist deny that he is Elijah, whereas Mark and Matthew identify him with Elijah.
+* The Cleansing of the Temple appears near the beginning of Jesus' ministry. In the synoptics this occurs soon before Jesus is crucified.
+* John contains four visits by Jesus to Jerusalem, three associated with the Passover feast. This chronology suggests Jesus' public ministry lasted two or three years. The synoptic gospels describe only one trip to Jerusalem in time for the Passover observance.
+* Jesus washes the disciples' feet instead of the synoptics' ritual with bread and wine (the Eucharist)
+* No other women are mentioned going to the tomb with Mary Magdalene.
+* John does not contain any parables. Rather it contains metaphoric stories or allegories, such as The Shepherd and The Vine, in which each individual element corresponds to a specific group or thing.
+* Major synoptic speeches of Jesus are absent, including the Sermon on the Mount and the Olivet discourse. 
+* While the synoptics look forward to a future Kingdom of God (using the term parousia, meaning "coming"), John presents a more "realized eschatology". "Biblical Literature." Encyclopædia Britannica Online. The Fourth Gospel 
+* The Kingdom of God is mentioned only twice in John. In contrast, the other gospels repeatedly use the Kingdom of God and the Kingdom of Heaven as important concepts.
+* The exorcisms of demons are never mentioned as in the synoptics. 
+* John never lists all of the Twelve Disciples and names at least one disciple (Nathanael) whose name is not found in the synoptics; Nathanael appears to parallel the apostle Bartholomew found in the synoptics, as both are paired with Philip in the respective gospels. While James and John are prominent disciples in the synoptics, John mentions them only in the epilogue, where they are referred to not by name but as the "sons of Zebedee."
+* Thomas the Apostle is given a personality beyond a mere name, as "Doubting Thomas".
+
+===Comparison chart of the major gospels===
+The material in the comparison chart is from Gospel Parallels by B. H. Throckmorton,
+The Five Gospels by R. W. Funk, The Gospel According to the Hebrews, by E. B. Nicholson and
+The Hebrew Gospel and the Development of the Synoptic Tradition by J. R. Edwards.
+
+ Item Matthew, Mark, Luke John Thomas Gospel of the Hebrews 
+ New Covenant The central theme of the Gospels – Love God with all your heart and your neighbor as yourself In the Synoptic Gospels this is the \"Greatest Commandment\" that sums up all of the \"Law and the Prophets\" The central theme – Love is the New Commandment given by Jesus Secret knowledge, love your friends Log 25 The central theme – Love one another The Lord says to his disciples: ”And never be you joyful, except when you behold one another with love.” Jerome, Commentary on Ephesians 
+ Forgiveness Very important – particularly in Matthew and Luke Assumed Not mentioned Very important – Forgiveness is a central theme and this gospel goes into the greatest detail In the Gospel of the Hebrews, written in the Chaldee and Syriac language but in Hebrew script, and used by the Nazarenes to this day (I mean the Gospel of the Apostles, or, as it is generally maintained, the Gospel of Matthew, a copy of which is in the library at Caesarea), we find, “Behold the mother of the Lord and his brothers said to him, ‘John the Baptist baptizes for the forgiveness of sins. Let us go and be baptized by him.’ But Jesus said to them, ‘in what way have I sinned that I should go and be baptized by him? Unless perhaps, what I have just said is a sin of ignorance.’” And in the same volume, “‘If your brother sins against you in word, and makes amends, forgive him seven times a day.’ Simon, His disciple, said to Him, ‘Seven times in a day!’ The Lord answered and said to him, ‘I say to you, Seventy times seven.’ ” Jerome, Against Pelagius 3.2 
+ The Lord's Prayer In Matthew and Luke but not Mark Not mentioned Not mentioned Important – “mahar” or \"tomorrow\" In the so-called Gospel of the Hebrews, for “bread essential to existence,” I found “mahar”, which means “of tomorrow”; so the sense is: our bread for tomorrow, that is, of the future, give us this day. Jerome, Commentary on Matthew 1 In Matthew's Hebrew Gospel it states, ‘Give us this day our bread for tomorrow.” Jerome, On Psalm 135 
+ Love and the poor Very important – The rich young man , and Assumed Important Jesus said \"Blessed are the poor, for to you belongs the Kingdom of Heaven\" Log 54 Very important – The rich young man The second rich youth said to him, “Rabbi, what good thing can I do and live?” Jesus replied, “Fulfill the law and the prophets.” “I have,” was the response. Jesus said, “Go, sell all that you have and distribute to the poor; and come, follow me.” The youth became uncomfortable, for it did not please him. And the Lord said, “How can you say, I have fulfilled the Law and the Prophets, when it is written in the Law: You shall love your neighbor as yourself and many of your brothers, sons of Abraham, are covered with filth, dying of hunger, and your house is full of many good things, none of which goes out to them?” And he turned and said to Simon, his disciple, who was sitting by Him, “Simon, son of Jonah, it is easier for a camel to go through the eye of a needle than for the rich to enter the Kingdom of Heaven. ”Origen, Commentary on Matthew 15:14 
+ Jesus starts his ministry Jesus meets John the Baptist and is baptized , , Jesus meets John the Baptist N/A – Speaks of John the Baptist Gospel of Thomas, Logion 46 Jesus meets John the Baptist and is baptized. This gospel goes into the greatest detail Epiphanius, Panarion 30:13 
+ Disciples-inner circle Peter, Andrew, James and John Matt 10:1, Mk 6:8, Lk 9:3 Peter, Andrew, the Beloved Disciple , , , , Thomas, James the Just Log 1–114 Peter, Andrew, James and John 
+ Disciples-others Philip, Bartholomew, Matthew, Thomas, James, Simon the Zealot, Judas Thaddaeus, and Judas Philip, Nathanael, Thomas, Judas not Iscariot and Judas Iscariot Peter, Log 13 Matthew, Mariam Matthew, James the Just (Brother of Jesus), Simon the Zealot, Thaddaeus, Judas Epiphanius, Panarion 30:13, Jerome, On Illustrious Men, 2 
+ Possible Authors Unknown; Although several Fathers say Matthew wrote the Gospel of the Hebrews they are silent about Greek Matthew found in the Bible. Modern scholars are in agreement that Matthew did not write Greek Matthews which is 300 lines longer than the Hebrew Gospel (See James Edwards the Hebrew Gospel) Mark the Evangelist and Luke the Evangelist The Beloved Disciple Suggested by Irenaeus first Thomas Preface to the Gospel of Thomas Matthew the Evangelist They too accept Matthew's gospel, and like the followers of Cerinthus and Merinthus, they use it alone. They call it the Gospel of the Hebrews, for in truth Matthew alone in the New Testament expounded and declared the Gospel in Hebrew using Hebrew script. Epiphanius, Panarion 30:3 
+ Virgin birth account In Matthew and Luke, but not Mark Matt 1:18 Not mentioned Not mentioned Not mentioned 
+ Jesus' baptism Described Not mentioned N/A Described in great detail 
+ Preaching style Brief one-liners; parables Essay format, Midrash Sayings, parables Brief one-liners; parables 
+ Storytelling Parables Parables Figurative language and Metaphor Language in the Gospel of John Proto-Gnostic, hidden, parables Log 109 Parables Parables of Jesus 
+ Jesus' theology 1st century liberal Judaism Similar to beliefs taught by Hillel the Elder. (e.g., \"golden rule\") Hillel Hillel the Elder Critical of Jewish Authorities ; Proto-Gnostic 1st century Judaism Similar to beliefs taught by Hillel the Elder. (e.g. \"golden rule\") Hillel Hillel the Elder 
+ Miracles Many miracles Seven Signs N/A Fewer but more credible miracles Jerome, Commentary on Matthew 2 
+ Duration of ministry 1 year Events leading up to Passover 2 years (three Passovers mentioned) N/A 1 year 
+ Location of ministry Mainly Galilee Mainly Judea, near Jerusalem N/A Mainly Galilee 
+ Last Supper Body and Blood=Bread and wine Interrupts meal for foot washing N/A Hebrew Passover is celebrated but details are N/A Epiphanius Epiphanius, Panarion 30:22 
+ Burial shroud A single piece of cloth Multiple pieces of cloth, as was the Jewish practice at the time N/A Given to the High Priest Jerome, On Illustrious Men, 2 
+ Resurrection Mary and the Women are the first to learn Jesus has arisen John adds detailed account of Mary Magdalene's experience of the Resurrection Not applicable, as Gospel of Thomas is a collection of the \"sayings\" of Jesus, not the events of his life In the Gospel of the Hebrews is the unique account of Jesus appearing to his brother, James the Just Jerome, On Illustrious Men, 2 
+
+==History==
+John was written somewhere near the end of the 1st century, probably in Ephesus, in Roman Asia. The tradition of John the Apostle was strong in Asia, and Polycarp of Smyrna reportedly knew him. Like the previous gospels, it circulated separately until Irenaeus proclaimed all four gospels to be scripture.
+
+Although the Church Fathers Polycarp and Ignatius of Antioch did not mention this gospel, Elaine Pagels (Beyond belief: the Secret Gospel of Thomas Pan Books, 2005, p. 149) suggests that Polycarp 'may not have known John's Gospel' or that, 'at any rate, he chose not to mention it, as far as we know'. Regarding Ignatius, Paul R. Trebilco (The Early Christians In Ephesus From Paul To Ignatius Siebeck: Tubingen, 2004, p. 678) says, 'Such silence does not necessarily mean that he does not know of a "John" who wrote the Fourth Gospel'. Brian H. Edwards (Why 27?: How can we be sure that we have the right books in the New Testament? Evangelical Press, 2007, p. 115) comments, 'as so often has to be said, the silence on a particular book cannot necessarily be taken as anything more than that the writer had no need to quote from it'. it is thought that its ideas are reflected in their writings. 'John, Gospel of St.' in F. L. Cross and E. A. Livingstone (eds), The Oxford Dictionary of the Christian Church (Oxford: OUP, 1997) The gospel appears to have been familiar to Papias of Hierapolis, Paul R. Trebilco, The Early Christians In Ephesus From Paul To Ignatius (Mohr Siebeck: Tubingen, 2004), p. 247 Brian H. Edwards, Why 27?: How can we be sure that we have the right books in the New Testament? (Darlington: Evangelical Press, 2007), p. 95 and was used by other early Christians, including the author of the Muratorian Canon, Bruce Metzger's translation the Christians of Vienna and Lugdunum, T. Herbert Bindley, The Epistle of the Gallican Churches (London: SPCK, 1900), p. 15 Theophilus of Antioch, To Autolycus, Book III, ch. 22 Tatian Cf. his Diatessaron and Justin Martyr. I Apol. 61.4 
+
+Papyrus 52 (), Papyrus 90 (), Papyrus 75 (), and Papyrus 66 () are early papyri containing parts of the Gospel of John.
+
+In the 2nd century, the two main, conflicting expressions of Christology were John's Logos theology, according to which Jesus was the incarnation of God's eternal Word, and adoptionism, according to which Jesus was "adopted" as God's Son. Christians who rejected Logos Christology were called "Alogi," and Logos Christology won out over adoptionism.
+
+The Gospel of John was the favorite gospel of Valentinus, a 2nd-century Gnostic leader. Pagels, Elaine. Beyond belief: the secret gospel of Thomas. New York: Random House. 2003. ISBN 0-375-50156-8 His student Heracleon wrote a commentary on the gospel, the first gospel commentary in Christian history. 
+
+In the Diatesseron, the content of John was merged with the content of the synoptics to form a single gospel that included nearly all the material in the four canonical gospels.
+
+When Irenaeus proposed that all Christians accept Mark, Matthew, Luke, and John as orthodox, and only those four gospels, he regarded John as the primary gospel, due to its high Christology. 
+
+Jerome translated John into its official Latin form, replacing various older translations.
+
+Although harmonious with the Synoptic Gospels and probably primitive (the Didascalia Apostolorum definitely refers to it and it was probably known to Papias), the Pericope Adulterae is not part of the original text of the Gospel of John. 'These verses... are certainly not part of the original text of St. John's Gospel.' Cross, F. L., ed. The Oxford dictionary of the Christian church. New York: Oxford University Press. 2005 
+
+==Representations==
+The Gospel of John has influenced Impressionist painters, Renaissance artists and classical art, literature and other depictions of Jesus, with influences in Greek, Jewish and European history.
+
+It has been depicted in live narrations and dramatized in productions, skits, plays, and passion plays, productions, as well as on film. The most recent film portrayal being that of 2003's The Gospel of John, directed by Philip Saville and narrated by Christopher Plummer, and starring Henry Ian Cusick as Jesus.
+
+==See also==
+* Free Grace theology
+* Gospel harmony
+* Last Gospel
+* List of Bible verses not included in modern translations
+* List of Gospels
+* Textual variants in the Gospel of John
+
+==References==
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* Called by F.F. Bruce "the most important work to appear in this field in a generation”. Bruce 1981 p. 59. 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+==Notes==
+
+==External links==
+
+ 
+
+Online translations of the Gospel of John:
+* The Gospel of St. John the Apostle, Douay Rheims Bible Version with commentaries by Bishop Challoner
+* Bible Gateway 35 languages/50 versions at GospelCom.net
+* Unbound Bible 100+ languages/versions at Biola University
+* Online Bible at gospelhall.org
+* Text of the Gospel with textual variants
+* The Egerton Gospel: text. Compare it with Gospel of John
+
+Related articles:
+* Gospel According to John, Encyclopædia Britannica Online.
+* A textual commentary on the Gospel of John Detailed textcritical discussion of the 300 most important variants of the Greek text (PDF, 376 pages)
+* Papyrus fragment of John at the John Rylands Library; illustrated.
+* John Rylands papyrus: text, translation, illustration and a bibliography of the discussion
+* John, Gospel of St. in the 1911 Encyclopædia Britannica – collected comments
+* Conflicts Between the Gospel of John & the Remaining Three (Synoptic) Gospels on ReligiousTolerance.com.
+* David Robert Palmer, Translation from the Greek
+* John Henry Bernard, Alan Hugh McNeile, A critical and exegetical commentary on the Gospel according to St. John, Continuum International Publishing Group, 2000.
+
+*
+
+

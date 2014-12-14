@@ -1,0 +1,87 @@
+[[Robert Nozick]]
+
+Robert Nozick (; November 16, 1938 – January 23, 2002) was an American philosopher who was most prominent in the 1970s and 1980s. He was a professor at Harvard University. He is best known for his book Anarchy, State, and Utopia (1974), a libertarian answer to John Rawls' A Theory of Justice (1971). His other work involved decision theory and epistemology.
+
+==Personal life==
+Nozick was born in Brooklyn, the son of a Jewish entrepreneur from the Russian shtetl who had been born with the name of Cohen. Nozick was married to the poet Gjertrud Schnackenberg. He died in 2002 after a prolonged struggle with stomach cancer. He is interred at Mount Auburn Cemetery in Cambridge, Massachusetts.
+
+==Career and works==
+Nozick was educated at Columbia (A.B. 1959, summa cum laude), where he studied with Sidney Morgenbesser, and later at Princeton (Ph.D. 1963) under Carl Hempel, and Oxford as a Fulbright Scholar (1963–1964).
+
+===Political philosophy===
+
+For Anarchy, State, and Utopia (1974) Nozick received a National Book Award in category Philosophy and Religion. 
+"National Book Awards – 1975". National Book Foundation. Retrieved 2012-03-08. 
+There, Nozick argues that only a minimal state "limited to the narrow functions of protection against force, theft, fraud, enforcement of contracts, and so on" could be justified without violating people's rights. For Nozick, a distribution of goods is just if brought about by free exchange among consenting adults from a just starting position, even if large inequalities subsequently emerge from the process. Nozick appealed to the Kantian idea that people should be treated as ends (what he termed 'separateness of persons'), not merely as a means to some other end. 
+
+Nozick challenged the partial conclusion of John Rawls' Second Principle of Justice of his A Theory of Justice, that "social and economic inequalities are to be arranged so that they are to be of greatest benefit to the least-advantaged members of society." Anarchy, State and Utopia claims a heritage from John Locke's Second Treatise on Government and seeks to ground itself upon a natural law doctrine, but reaches some importantly different conclusions from Locke himself in several ways. 
+
+Most controversially, Nozick argued that a consistent upholding of the non-aggression principle would allow and regard as valid consensual or non-coercive enslavement contracts between adults. He rejected the notion of inalienable rights advanced by Locke and most contemporary capitalist-oriented libertarian academics, writing in Anarchy, State and Utopia that the typical notion of a "free system" would allow adults to voluntarily enter into non-coercive slave contracts. Ellerman, David, Translatio versus Concessio: Retrieving the Debate about Contracts of Alienation with an Application to Today’s Employment Contract Obituary by The Guardian Philosopher Nozick dies at 63 From the Harvard Gazette Robert Nozick Memorial minute Robert Nozick (1938–2002) by Edward Feser A summary of the political philosophy of Robert Nozick by R. N. Johnson Robert Nozick, Libertarianism, And Utopia by Jonathan Wolff Nozick on Newcomb's Problem and Prisoners' Dilemma by S. L. Hurley Robert Nozick: Against Distributive Justice by R.J. Kilcullen Why Do Intellectuals Oppose Capitalism? by Robert Nozick Robert Nozick, Philosopher of Liberty by Roderick T. Long 
+
+===Epistemology===
+In Philosophical Explanations (1981), which received the Phi Beta Kappa Society's Ralph Waldo Emerson Award, Nozick provided novel accounts of knowledge, free will, personal identity, the nature of value, and the meaning of life. He also put forward an epistemological system which attempted to deal with both the Gettier problem and those posed by skepticism. This highly influential argument eschewed justification as a necessary requirement for knowledge. 
+
+Nozick's Four Conditions for S's knowing that P were:
+
+# P is true
+# S believes that P
+# If it were the case that (not-P), S would not believe that P
+# If it were the case that P, S would believe that P
+
+Nozick's third and fourth conditions are counterfactuals. He called this the "tracking theory" of knowledge. Nozick believed the counterfactual conditionals bring out an important aspect of our intuitive grasp of knowledge: For any given fact, the believer's method must reliably track the truth despite varying relevant conditions. In this way, Nozick's theory is similar to reliabilism. Due to certain counterexamples that could otherwise be raised against these counterfactual conditions, Nozick specified that:
+
+If P weren’t the case and S were to use M to arrive at a belief whether or not P, then S wouldn’t believe, via M, that P.
+If P were the case and S were to use M to arrive at a belief whether or not P, then S would believe, via M, that P. Keith Derose, Solving the Skeptical Problem 
+
+Where M stands for the method by which S came to arrive at a belief whether or not P.
+
+A major criticism of Nozick's theory of knowledge is his rejection of the principle of deductive closure. This principle states that if S knows X and S knows that X implies Y, then S knows Y. Nozick's truth tracking conditions do not allow for the principle of deductive closure. Nozick believes that the truth tracking conditions are more fundamental to human intuition than the principle of deductive closure. 
+
+Unlike many epistemologists, Nozick does not attempt to disprove the skeptic. Instead, he qualifies using his truth tracking theory of knowledge. For example, the skeptic may argue that one cannot know that they are not a brain in a vat. Nozick argues that one can know that they are not a brain in a vat. He simultaneously argues that in another sense, they can not know that they are not a brain in a vat. Specifically, he uses G. E. Moore's Here is one hand thought experiment. Assume one has a true belief that they have hands. Furthermore, in nearby possible worlds in which one continues to have hands, one continues to have hands. Moreover, in nearby possible worlds in which one no longer has hands, they stop believing that they have hands. Thus, they know that they have hands. 
+
+Nonetheless, Nozick admits that he cannot overcome the skeptic. Assuming one is not actually a brain in a vat, the third condition cannot be satisfied. In other words, one does not stop believing that they are not a brain in a vat in nearby possible worlds in which they are a vatted brain. If one does not know that they are not a brain in a vat, then they do not know that they have hands. Thus, Nozick argues that one can know that they have hands and also not know that they are not a handless brain in a vat.
+
+===Later books===
+The Examined Life (1989), pitched to a broader public, explores love, death, faith, reality, and the meaning of life. According to Stephen Metcalf, Nozick expresses serious misgivings about capitalist libertarianism, going so far as to reject much of the foundations of the theory on the grounds that personal freedom can sometimes only be fully actualized via a collectivist politics and that wealth is at times justly redistributed via taxation to protect the freedom of the many from the potential tyranny of an overly selfish and powerful few. The Liberty Scam: Why even Robert Nozick, gave up on the movement he inspired Nozick suggests that citizens opposed to wealth redistribution that funds programs they object to should be able to opt out by supporting alternative government approved charities with an added 5% surcharge. Nozick, Robert (1989). "The Zigzag of Politics", The Examined Life: Philosophical Meditations. Simon & Schuster. ISBN 978-0-671-72501-3 However, Jeff Riggenbach has noted that "...in an interview conducted in July 2001, he stated that he had never stopped self-identifying as a libertarian. And Roderick Long reports that in his last book, Invariances, identified voluntary cooperation as the "core principle" of ethics, maintaining that the duty not to interfere with another person's "domain of choice" is "ll that any society should (coercively) demand"; higher levels of ethics, involving positive benevolence, represent instead a "personal ideal" that should be left to "a person's own individual choice and development." And that certainly sounds like an attempt to embrace libertarianism all over again. My own view is that Nozick's thinking about these matters evolved over time and that what he wrote at any given time was an accurate reflection of what he was thinking at that time." 
+
+The Nature of Rationality (1993) presents a theory of practical reason that attempts to embellish notoriously spartan classical decision theory. Socratic Puzzles (1997) is a collection of papers that range in topic from Ayn Rand and Austrian economics to animal rights, while his last production, Invariances (2001), applies insights from physics and biology to questions of objectivity in such areas as the nature of necessity and moral value.
+
+===Utilitarianism===
+Nozick created the thought experiment of the "utility monster" to show that average utilitarianism could lead to a situation where the needs of the vast majority were sacrificed for one individual. He also wrote a version of what was essentially a previously-known thought experiment, The Experience Machine, in an attempt to show that ethical hedonism was false. Nozick asked us to imagine that "superduper neuropsychologists" have figured out a way to stimulate a person's brain to induce pleasurable experiences. We would not be able to tell that these experiences were not real. He asks us, if we were given the choice, would we choose a machine-induced experience of a wonderful life over real life? Nozick says no, then asks whether we have reasons not to plug into the machine and concludes that since it does not seem to be rational to plug in, ethical hedonism must be false.
+
+===Unusual method===
+Nozick was notable for the exploratory style of his philosophizing and for his methodological ecumenism. Often content to raise tantalizing philosophical possibilities and then leave judgment to the reader, Nozick was also notable for drawing from literature outside of philosophy (e.g., economics, physics, evolutionary biology).
+
+==Bibliography==
+* Anarchy, State, and Utopia (1974) ISBN 0-631-19780-X
+* Philosophical Explanations (1981) ISBN 0-19-824672-2
+* The Examined Life (1989) ISBN 0-671-72501-7
+* The Nature of Rationality (1993/1995) ISBN 0-691-02096-5
+* Socratic Puzzles (1997) ISBN 0-674-81653-6
+* Invariances: The Structure of the Objective World (2001/2003) ISBN 0-674-01245-3
+
+==See also==
+
+* American philosophy
+* Liberalism
+* Contributions to liberal theory
+* List of American philosophers
+* 
+
+==Notes==
+
+==Further reading==
+* 
+* Frankel Paul, Ellen, Fred D. Miller, Jr. and Jeffrey Paul (eds.), (2004) Natural Rights Liberalism from Locke to Nozick, Cambridge University Press, ISBN 0-521-61514-3
+* 
+* Robinson, Dave & Groves, Judy (2003). Introducing Political Philosophy. Icon Books. ISBN 1-84046-450-X.
+* Schaefer, David Lewis (2008) Robert Nozick and the Coast of Utopia, The New York Sun, April 30, 2008.
+* Wolff, Jonathan (1991), Robert Nozick: Property, Justice, and the Minimal State. Polity Press.
+
+==External links==
+* 
+* 
+
+ 
+
+

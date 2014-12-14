@@ -1,0 +1,92 @@
+[[Titin]]
+
+Titin , also known as connectin, is a protein that, in humans, is encoded by the TTN gene. Titin is a giant protein that functions as a molecular spring which is responsible for the passive elasticity of muscle. It is composed of 244 individually folded protein domains connected by unstructured peptide sequences. These domains unfold when the protein is stretched and refold when the tension is removed. 
+
+Titin is important in the contraction of striated muscle tissues. It connects the Z line to the M line in the sarcomere. The protein contributes to force transmission at the Z line and resting tension in the I band region. It limits the range of motion of the sarcomere in tension, thus contributing to the passive stiffness of muscle. Variations in the sequence of titin between different types of muscle (e.g., cardiac or skeletal) has been correlated with differences in the mechanical properties of these muscles. 
+
+With its length of ~27,000 to ~33,000 amino acids (depending on the splice isoform), titin is the largest known protein. Furthermore, the gene for titin contains the largest number of exons (363) discovered in any single gene, as well as the longest single exon (17,106 bp).
+
+== Genomics ==
+
+The human gene that encodes titin is found on chromosome 2 and contains 363 exons.
+
+== Isoforms ==
+
+A number of titin isoforms are produced in different striated muscle tissues as a result of alternative splicing. All but one of these isoforms are in the range of ~27,000 to ~33,000 amino acid residues in length. The exception is the small cardiac novex-3 isoform which is only 5,604 amino acid residues in length. The following table lists the known titin isoforms:
+
+ Isoform alias/description length MW 
+ Q8WZ42-1 the \"canonical\" full length sequence 34,350 3,816,030 
+ Q8WZ42-2 34,258 3,805,708 
+ Q8WZ42-3 small cardiac N2-B 26,926 2,992,939 
+ Q8WZ42-4 soleus 33,445 3,716,027 
+ Q8WZ42-5 32,900 3,653,085 
+ Q8WZ42-6 small cardiac novex-3,phosphorylated on Thr-5304 and Ser-5306. 5,604 631,567 
+ Q8WZ42-7 cardiac novex-2 27,118 3,734,648 
+ Q8WZ42-8 cardiac novex-1 27,051 3,829,846 
+ Q8WZ42-9 27,118 3,013,957 
+ Q8WZ42-10 27,051 3,006,755 
+ Q8WZ42-11 33,423 3,713,600 
+
+== Structure ==
+
+Titin is the largest known protein; its human variant consists of 34,350 amino acids, with the molecular weight of the mature "canonical" isoform of the protein being approximately 3,816,188.13 Da. Its mouse homologue is even larger, comprising 35,213 amino acids with a MW of 3,906,487.6 Da. It has a theoretical isoelectric point of 6.01. The protein's empirical chemical formula is C169 723H270 464N45 688O52 243S912. It has a theoretical instability index (II) of 42.41, classifying the protein as unstable. The protein's in vivo half-life, the time it takes for half of the amount of protein in a cell to break down after its synthesis in the cell, is predicted to be approximately 30 hours (in mammalian reticulocytes). 
+
+Titin consists primarily of a linear array of two types of modules (also referred to as protein domains; 244 copies in total): type I (fibronectin type III domain; 132 copies) and type II (immunoglobulin domain; 112 copies). This linear array is further organized into two regions:
+
+* N-terminal I-band: acts as the elastic part of the molecule and is composed mainly of type II modules. More specifically the I-band contains two regions of tandem type II immunoglobulin domains on either side of a PEVK region that is rich in proline, glutamate, valine and lysine. Titin is found between the myosin thick filament and the Z disk. 
+* C-terminal A-band: is thought to act as a protein-ruler and possesses kinase activity. The A-band is composed of alternating type I and II modules with super-repeat segments. These have been shown to align to the 43 nm axial repeats of myosin thick filaments with immunoglobulin domains correlating to myosin crowns. 
+
+== Function ==
+Sliding filament model of muscle contraction. (Titin labeled at upper right.)
+Titin is a large abundant protein of striated muscle. An N-terminal Z-disc region and a C-terminal M-line region bind to the Z-line and M-line of the sarcomere, respectively, so that a single titin molecule spans half the length of a sarcomere. Titin also contains binding sites for muscle-associated proteins so it serves as an adhesion template for the assembly of contractile machinery in muscle cells. It has also been identified as a structural protein for chromosomes. Considerable variability exists in the I-band, the M-line and the Z-disc regions of titin. Variability in the I-band region contributes to the differences in elasticity of different titin isoforms and, therefore, to the differences in elasticity of different muscle types. Of the many titin variants identified, five are described with complete transcript information available. 
+
+Titin interacts with many sarcomeric proteins including: 
+* Z line region: telethonin and alpha-actinin
+* I band region: calpain-3 and obscurin
+* M line region: myosin-binding protein C, calmodulin 1, CAPN3, and MURF1
+
+== Clinical relevance==
+Mutations in this gene are associated with hereditary myopathy with early respiratory failure, early-onset myopathy with fatal cardiomyopathy, core myopathy with heart disease, centronuclear myopathy, Limb-girdle muscular dystrophy type 2J, familial dilated cardiomyopathy 9, hypertrophic cardiomyopathy and tibial muscular dystrophy. Further research also suggests that no genetically linked form of any dystrophy or myopathy can be safely excluded from being caused by a mutation on the TTN gene. Autoantibodies to titin are produced in patients with the autoimmune disease scleroderma. 
+
+== Linguistic significance ==
+
+The name titin is derived from the Greek Titan (a giant deity, anything of great size). 
+
+As the largest known protein, titin also has the longest IUPAC name. The full chemical name, which starts methionyl... and ends ...isoleucine, contains 189,819 letters and is sometimes stated to be the longest word in the English language, or any language. It can take over three and a half hours to pronounce. However, lexicographers regard generic names of chemical compounds as verbal formulae rather than English words. 
+
+== Interactions ==
+Titin has been shown to interact with:
+
+* ANK1, 
+* ANKRD1, 
+* ANKRD23 
+* CAPN3, 
+* FHL2, 
+* OBSCN, 
+* TCAP, and
+* TRIM63. 
+
+== References ==
+
+== Further reading ==
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+== External links ==
+
+* GeneReviews/NIH/NCBI/UW entry on Familial Hypertrophic Cardiomyopathy Overview
+* GeneReviews/NCBI/NIH/UW entry on Udd Distal Myopathy, Tibial Muscular Dystrophy, Udd Myopathy
+* GeneReviews/NIH/NCBI/UW entry on Salih Myopathy or Early-Onset Myopathy with Fatal Cardiomyopathy
+* Full chemical name of Titin
+* Part of the chemical name of Titin pronounced
+* World's Longest Word Has 189,819 Letters, Takes 3.5 Hours To Pronounce (Now With Video Pronunciation!) | Geekologie
+
+

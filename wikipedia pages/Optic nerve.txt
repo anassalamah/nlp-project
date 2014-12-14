@@ -1,0 +1,96 @@
+[[Optic nerve]]
+
+The optic nerve, also known as cranial nerve II, transmits visual information from the retina to the brain. Derived from the embryonic retinal ganglion cell, a diverticulum located in the diencephalon, the optic nerve does not regenerate after transection.
+
+==Structure==
+The optic nerve is the second of twelve paired cranial nerves but is considered to be part of the central nervous system, as it is derived from an outpouching of the diencephalon during embryonic development. As a consequence, the fibers are covered with myelin produced by oligodendrocytes, rather than Schwann cells of the peripheral nervous system, and are encased within the meninges. Peripheral neuropathies like Guillain-Barré syndrome do not affect the optic nerve.
+
+The optic nerve is ensheathed in all three meningeal layers (dura, arachnoid, and pia mater) rather than the epineurium, perineurium, and endoneurium found in peripheral nerves. Fiber tracks of the mammalian central nervous system (as opposed to the peripheral nervous system) are incapable of regeneration, and, hence, optic nerve damage produces irreversible blindness. The fibres from the retina run along the optic nerve to nine primary visual nuclei in the brain, from which a major relay inputs into the primary visual cortex.
+
+The optic nerve is composed of retinal ganglion cell axons and support cells. It leaves the orbit (eye socket) via the optic canal, running postero-medially towards the optic chiasm, where there is a partial decussation (crossing) of fibres from the temporal visual fields (the nasal hemi-retina) of both eyes. The proportion of decussating fibers varies between species, and is correlated with the degree of binocular vision enjoyed by a species. Textbook of Veterinary Anatomy, 4th Edition. Dyce, Sack and Wensing Most of the axons of the optic nerve terminate in the lateral geniculate nucleus from where information is relayed to the visual cortex, while other axons terminate in the pretectal nucleus and are involved in reflexive eye movements. Other axons terminate in the suprachiasmatic nucleus and are involved in regulating the sleep-wake cycle. Its diameter increases from about 1.6 mm within the eye to 3.5 mm in the orbit to 4.5 mm within the cranial space. The optic nerve component lengths are 1 mm in the globe, 24 mm in the orbit, 9 mm in the optic canal, and 16 mm in the cranial space before joining the optic chiasm. There, partial decussation occurs, and about 53% of the fibers cross to form the optic tracts. Most of these fibres terminate in the lateral geniculate body.
+
+From the lateral geniculate body, fibers of the optic radiation pass to the visual cortex in the occipital lobe of the brain. In more specific terms, fibers carrying information from the contralateral superior visual field traverse Meyer's loop to terminate in the lingual gyrus below the calcarine fissure in the occipital lobe, and fibers carrying information from the contralateral inferior visual field terminate more superiorly, to the cuneus.
+
+==Function==
+The functional components carried in the optic nerve include SSA, special somatic afferent, which carries the sensory modality of vision.
+
+===Vision===
+The eye's blind spot is a result of the absence of photoreceptors in the area of the retina where the optic nerve leaves the eye.
+
+Each human optic nerve contains between 770,000 and 1.7 million nerve fibers, which are axons of the retinal ganglion cells of one retina. In the fovea, which has high acuity, these ganglion cells connect to as few as 5 photoreceptor cells; in other areas of retina, they connect to many thousand photoreceptors.
+
+Sensory innervation of the eyeball is via the ophthalmic branch of the trigeminal nerve. The corneal reflex tests this afferent pathway.
+
+==Clinical significance==
+===Examination===
+There are four components to the examination of the optic nerve:
+
+# Visual acuity
+# Visual fields
+# Pupillary response to light (tests both cranial nerve 2 and 3)
+# Fundoscopy
+
+===Disease===
+
+Damage to the optic nerve typically causes permanent and potentially severe loss of vision, as well as an abnormal pupillary reflex, which is diagnostically important. The type of visual field loss will depend on which portions of the optic nerve were damaged. In general:
+* Damage to the optic nerve anterior to the optic chiasm causes loss of vision in the eye on the same side as the damage.
+* Damage in the optic chiasm causes loss of vision laterally in both visual fields (bitemporal hemianopsia). It may occur in large pituitary adenoma.
+* Damage to the optic tract posterior to the chiasm causes loss of vision in the visual field on the side opposite to the damage.
+
+Injury to the optic nerve can be the result of congenital or inheritable problems like Leber's Hereditary Optic Neuropathy, glaucoma, trauma, toxicity, inflammation, ischemia, infection (very rarely), or compression from tumors or aneurysms. By far, the three most common injuries to the optic nerve are from glaucoma, optic neuritis (especially in those younger than 50 years of age), and anterior ischemic optic neuropathy (usually in those older than 50).
+
+Glaucoma is a group of diseases involving loss of retinal ganglion cells causing optic neuropathy in a pattern of peripheral vision loss, initially sparing central vision.
+
+Optic neuritis is inflammation of the optic nerve. It is associated with a number of diseases, the most notable one being multiple sclerosis.
+
+Anterior Ischemic Optic Neuropathy is a particular type of infarct that affects patients with an anatomical predisposition and cardiovascular risk factors.
+
+Optic nerve hypoplasia is the underdevelopment of the optic nerve causing little to no vision in the affected eye.
+
+Ophthalmologists and optometrists can detect and diagnose some optic nerve diseases but, those sub-specialists that are neuro-ophthalmologists, are often best suited to diagnose and treat diseases of the optic nerve.
+
+The International Foundation for Optic Nerve Diseases (IFOND) sponsors research and information on a variety of optic nerve disorders and may provide general direction.
+
+==Additional images==
+
+ Image:MRI of human eye.jpg|MRI scan of human eye showing optic nerve.
+ Image:Gray514.png|The ophthalmic artery and its branches. (optic nerve is yellow)
+ Image:Gray682.png|Superficial dissection of brain-stem. Lateral view.
+ Image:Gray683.png|Dissection of brain-stem. Lateral view.
+ Image:Gray722-svg.svg|Scheme showing central connections of the optic nerves and optic tracts.
+ Image:Gray776.png|Nerves of the orbit. Seen from above.
+ Image:Gray777.png|Nerves of the orbit, and the ciliary ganglion. Side view.
+ Image:Gray880.png|The terminal portion of the optic nerve and its entrance into the eyeball, in horizontal section.
+File:Three Main Layers of the Eye.png|Structures of the eye labeled
+File:Three Internal chambers of the Eye.png|This image shows another labeled view of the structures of the eye
+File:Slide17ior.JPG|Optic nerve.Deep dissection.Inferior view.
+File:Slide18ior.JPG|Optic nerve.Deep dissection.Inferior view.
+ File:Optic nerve.jpg|Optic nerve
+ File:Cranial endobasis of a 19-20 weeks foetus.JPG|Optic nerve
+ Image:Human brain dura mater (reflections) description.JPG|Human brain dura mater (reflections)
+ File:Slide1dd.JPG|Optic nerve
+ File:Slide5ee.JPG|Optic nerve
+ File:Slide6uu.JPG|Optic nerve
+ File:Slide3PIT.JPG|Cerebrum.Inferior view.Deep dissection
+ File:Slide2HOM.JPG|Cerebral peduncle, optic chasm, cerebral aqueduct. Inferior view. Deep dissection.
+
+==See also==
+
+* Cranial nerve
+
+== References ==
+ 
+
+==External links==
+* The optic nerve on MRI
+* 
+* IFOND
+* online case history - Optic nerve analysis with both scanning laser polarimetry with variable corneal compensation (GDx VCC) and confocal scanning laser ophthalmoscopy (HRT II - Heidelberg Retina Tomograph). Also includes actual fundus photos.
+* Animations of extraocular cranial nerve and muscle function and damage (University of Liverpool)
+* ()
+* ()
+* Notes on Optic Nerve
+
+ 
+
+

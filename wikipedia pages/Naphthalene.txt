@@ -1,0 +1,118 @@
+[[Naphthalene]]
+
+Naphthalene is an organic compound with formula . It is the simplest polycyclic aromatic hydrocarbon, and is a white crystalline solid with a characteristic odor that is detectable at concentrations as low as 0.08 ppm by mass. As an aromatic hydrocarbon, naphthalene's structure consists of a fused pair of benzene rings. It is best known as the main ingredient of traditional mothballs.
+
+==History==
+In the early 1820s, two separate reports described a white solid with a pungent odor derived from the distillation of coal tar. In 1821, John Kidd cited these two disclosures and then described many of this substance's properties and the means of its production. He proposed the name naphthaline, as it had been derived from a kind of naphtha (a broad term encompassing any volatile, flammable liquid hydrocarbon mixture, including coal tar). Naphthalene's chemical formula was determined by Michael Faraday in 1826. The structure of two fused benzene rings was proposed by Emil Erlenmeyer in 1866, and confirmed by Carl Gräbe three years later.
+
+==Structure and reactivity==
+A naphthalene molecule can be viewed as the fusion of a pair of benzene rings. (In organic chemistry, rings are fused if they share two or more atoms.) As such, naphthalene is classified as a benzenoid polycyclic aromatic hydrocarbon (PAH). There are two sets of equivalent hydrogen atoms: the alpha positions are positions 1, 4, 5, and 8 on the drawing below, and the beta positions are positions 2, 3, 6, and 7.
+
+Unlike benzene, the carbon–carbon bonds in naphthalene are not of the same length. The bonds C1–C2, C3–C4, C5–C6 and C7–C8 are about 1.36 Å (136 pm) in length, whereas the other carbon–carbon bonds are about 1.42 Å (142 pm) long. This difference, which was established by X-ray diffraction, is consistent with the valence bond model of bonding in naphthalene that involves three resonance structures (as shown below); whereas the bonds C1–C2, C3–C4, C5–C6 and C7–C8 are double in two of the three structures, the others are double in only one.
+
+:Resonance structures of naphthalene
+
+Like benzene, naphthalene can undergo electrophilic aromatic substitution. For many electrophilic aromatic substitution reactions, naphthalene reacts under milder conditions than does benzene. For example, whereas both benzene and naphthalene react with chlorine in the presence of a ferric chloride or aluminium chloride catalyst, naphthalene and chlorine can react to form 1-chloronaphthalene even without a catalyst. Likewise, whereas both benzene and naphthalene can be alkylated using Friedel–Crafts reactions, naphthalene can also be alkylated by reaction with alkenes or alcohols, with sulfuric or phosphoric acid as the catalyst.
+
+===Substituted derivatives===
+Two isomers are possible for mono-substituted naphthalenes, corresponding to substitution at an alpha or beta position. Usually, electrophiles attack at the alpha position. The selectivity for alpha over beta substitution can be rationalized in terms of the resonance structures of the intermediate: for the alpha substitution intermediate, seven resonance structures can be drawn, of which four preserve an aromatic ring. For beta substitution, the intermediate has only six resonance structures, and only two of these are aromatic. Sulfonation, however, gives a mixture of the "alpha" product 1-naphthalenesulfonic acid and the "beta" product 2-naphthalenesulfonic acid, with the ratio dependent on reaction conditions. The 1-isomer forms predominantly at 25 °C, and the 2-isomer at 160 °C.
+
+Naphthalene can be hydrogenated under high pressure in the presence of metal catalysts to give 1,2,3,4-tetrahydronaphthalene or tetralin (). Further hydrogenation yields decahydronaphthalene or decalin (). Oxidation with chromate or permanganate, or catalytic oxidation with and a vanadium catalyst, gives phthalic acid.
+
+==Production==
+Most naphthalene is derived from coal tar. From the 1960s until the 1990s, significant amounts of naphthalene were also produced from heavy petroleum fractions during petroleum refining, but today petroleum-derived naphthalene represents only a minor component of naphthalene production.
+
+Naphthalene is the most abundant single component of coal tar. Although the composition of coal tar varies with the coal from which it is produced, typical coal tar is about 10% naphthalene by weight. In industrial practice, distillation of coal tar yields an oil containing about 50% naphthalene, along with a variety of other aromatic compounds. This oil, after being washed with aqueous sodium hydroxide to remove acidic components (chiefly various phenols), and with sulfuric acid to remove basic components, undergoes fractional distillation to isolate naphthalene. The crude naphthalene resulting from this process is about 95% naphthalene by weight. The chief impurities are the sulfur-containing aromatic compound benzothiophene (<2%), indane (0.2%), indene (<2%), and methylnaphthalene (<2%). Petroleum-derived naphthalene is usually purer than that derived from coal tar. Where required, crude naphthalene can be further purified by recrystallization from any of a variety of solvents, resulting in 99% naphthalene by weight, referred to as 80 °C (melting point). Approximately 1.3M tons are produced annually. Gerd Collin, Hartmut Höke, Helmut Greim "Naphthalene and Hydronaphthalenes" in Ullmann's Encyclopedia of Industrial Chemistry, Wiley-VCH, Weinheim, 2003. . Article Online Posting Date: March 15, 2003. 
+
+In North America, coal tar producers are Koppers Inc., Ruetgers Canada Inc. and Recochem Inc., and petroleum-derived producer is Advanced Aromatics, L.P.
+In Western Europe most known producers are Koppers, Ruetgers and Deza.
+In Eastern Europe, - variety of integrated metallurgy complexes (Severstal, Evraz, Mechel, MMK) in Russia. Dedicated naphthalene and phenol maker INKOR and Yenakievsky Metallurgy plant in Ukraine, and ArcelorMittal Temirtau in Kazakhstan.
+
+===Other sources and occurrences===
+Aside from coal tar, trace amounts of naphthalene are produced by magnolias and specific types of deer, as well as the Formosan subterranean termite, possibly produced by the termite as a repellant against "ants, poisonous fungi and nematode worms." Some strains of the endophytic fungus Muscodor albus produce naphthalene among a range of volatile organic compounds, while Muscodor vitigenus produces naphthalene almost exclusively. 
+
+Naphthalene has been found in meteorites.
+
+===Naphthalene in the interstellar medium===
+Naphthalene has been tentatively detected in the interstellar medium in the direction of the star Cernis 52 in the constellation Perseus. - This spectral assignment has not been independently confirmed, and is described by the authors as "tentative" (page L58). More than 20% of the carbon in the universe may be associated with polyaromatic hydrocarbons, including naphthalene. 
+
+Protonated cations of naphthalene () are the source of part of the spectrum of the Unidentified Infrared Emissions (UIRs). Protonated naphthalene differs from neutral naphthalene (e.g. that used in mothballs) in that it has an additional hydrogen atom. The UIRs from
+"naphthalene cation" () have been observed by astronomers. This research has been publicized as "mothballs in space." 
+
+==Uses==
+
+===As a chemical intermediate===
+Naphthalene is used mainly as a precursor to other chemicals. The single largest use of naphthalene is the industrial production of phthalic anhydride, although more phthalic anhydride is made from o-xylene. Other naphthalene-derived chemicals include alkyl naphthalene sulfonate surfactants, and the insecticide 1-naphthyl-N-methylcarbamate (carbaryl). Naphthalenes substituted with combinations of strongly electron-donating functional groups, such as alcohols and amines, and strongly electron-withdrawing groups, especially sulfonic acids, are intermediates in the preparation of many synthetic dyes. The hydrogenated naphthalenes tetrahydronaphthalene (tetralin) and decahydronaphthalene (decalin) are used as low-volatility solvents. Naphthalene is also used in the synthesis of 2-naphthol, a precursor for various dyestuffs, pigments, rubber processing chemicals and other miscellaneous chemicals and pharmaceuticals. 
+
+Naphthalene sulfonic acids are used in the manufacture of naphthalene sulfonate polymer plasticizers (dispersants), which are used to produce concrete and plasterboard (wallboard or drywall). They are also used as dispersants in synthetic and natural rubbers, and as tanning agents (syntans) in leather industries, agricultural formulations (dispersants for pesticides), dyes and as a dispersant in lead–acid battery plates.
+
+Naphthalene sulfonate polymers are produced by treating naphthalene with sulfuric acid and then polymerizing with formaldehyde, followed by neutralization with sodium hydroxide or calcium hydroxide. These products are commercially sold in solution (water) or dry powder form.
+*Sulfonation Step (sulfuric acid plus naphthalene):
+
+: + → + 
+*Polymerization Step (naphthalenesulfonic acid plus formaldehyde):
+
+: + =O → + 
+*Neutralization Step (naphthalene sulfonic acid condensate plus sodium hydroxide):
+
+: + NaOH → + + 
+
+===As a solvent for chemical reactions===
+Molten naphthalene provides an excellent solubilizing medium for poorly soluble aromatic compounds. In many cases it is more efficient than other high-boiling solvent, such as dichlorobenzene, benzonitrile, nitrobenzene and durene.
+A reaction of C60 with an equimolar amount of anthracene in refluxing naphthalene gives the 1:1 Diels-Alder adduct in 67% yield. 
+
+500 px
+
+A procedure developed for aromatization of porphyrins includes heating with DDQ in naphthalene melt. It was shown that naphthalene not only provides sufficient solubility of reactants but has an influence on a selectivity of the process. 
+
+500 px
+
+===Wetting agent and surfactant===
+Alkyl naphthalene sulfonates (ANS) are used in many industrial applications as nondetergent wetting agents that effectively disperse colloidal systems in aqueous media. The major commercial applications are in the agricultural chemical industry, which uses ANS for wettable powder and wettable granular (dry-flowable) formulations, and the textile and fabric industry, which utilizes the wetting and defoaming properties of ANS for bleaching and dyeing operations.
+
+===As a fumigant===
+Naphthalene has been used as a household fumigant. It was once the primary ingredient in mothballs, though its use has largely been replaced in favor of alternatives such as 1,4-dichlorobenzene. In a sealed container containing naphthalene pellets, naphthalene vapors build up to levels toxic to both the adult and larval forms of many moths that attack textiles. Other fumigant uses of naphthalene include use in soil as a fumigant pesticide, in attic spaces to repel animals and insects, and in museum storage-drawers and cupboards to protect the contents from attack by insect pests.
+
+Naphthalene is a repellent to opossums and could be used to deter them from taking up residency in people's homes. "Removing a possums from your roof", NSW Department of the Environment and Heritage, http://www.environment.nsw.gov.au/animals/RemovingAPossumFromYourRoof.htm 
+
+===Niche applications===
+It is used in pyrotechnic special effects such as the generation of black smoke and simulated explosions. In the past, naphthalene was administered orally to kill parasitic worms in livestock. Naphthalene and its alkyl homologs are the major constituents of creosote. Naphthalene is used in engineering to study heat transfer using mass sublimation.
+
+==Health effects==
+Exposure to large amounts of naphthalene may damage or destroy red blood cells. Humans, in particular children, have developed this condition, known as hemolytic anemia, after ingesting mothballs or deodorant blocks containing naphthalene. Symptoms include fatigue, lack of appetite, restlessness, and pale skin. Exposure to large amounts of naphthalene may cause confusion, nausea, vomiting, diarrhea, blood in the urine, and jaundice (yellow coloration of the skin). Over 400 million people have an inherited condition called glucose-6-phosphate dehydrogenase deficiency. Exposure to naphthalene is more harmful for these people and may cause hemolytic anemia at lower doses. Santucci K, Shah B. Association of naphthalene with acute hemolytic anemia. Acad Emerg Med. 2000 Jan;7(1):42–7. 
+
+When the US National Toxicology Program (NTP) exposed male and female rats and mice to naphthalene vapors on weekdays for two years, male and female rats exhibited evidence of carcinogenic activity based on increased incidences of adenoma and neuroblastoma of the nose, female mice exhibited some evidence of carcinogenic activity based on increased incidences of alveolar and bronchiolar adenomas of the lung, and male mice exhibited no evidence of carcinogenic activity.
+
+The International Agency for Research on Cancer (IARC) classifies naphthalene as possibly carcinogenic to humans and animals (Group 2B). The IARC also points out that acute exposure causes cataracts in humans, rats, rabbits, and mice; and that hemolytic anemia, described above, can occur in children and infants after oral or inhalation exposure or after maternal exposure during pregnancy. Under California's Proposition 65, naphthalene is listed as "known to the State to cause cancer". Proposition 65, Office of Environmental Health Hazard Assessment A probable mechanism for the carcinogenic effects of mothballs and some types of air fresheners containing naphthalene has been identified. "Scientists May Have Solved Mystery Of Carcinogenic Mothballs", Physorg.com, June 20, 2006. 
+
+===Regulation===
+US government agencies have set occupational exposure limits to napthalene exposure. The Occupational Safety and Health Administration has set a permissible exposure limit at 10 ppm (50 mg/m3) over an eight hour time-weighted average. The National Institute for Occupational Safety and Health has set a recommended exposure limit at 10 ppm (50 mg/m3) over an eight hour time-weighted average, as well as a short-term exposure limit at 15 ppm (75 mg/m3). CDC - NIOSH Pocket Guide to Chemical Hazards 
+
+Mothballs and other products containing naphthalene have been banned within the EU since 2008. 
+
+In China, the use of naphthalene in mothballs is forbidden. It is due partly to the health effects as well as the wide use of natural camphor as replacement. However naphthalene is widely produced for moth balls and currently exported from China. Search of Chinese online shop 
+
+==See also==
+*Camphor
+*Dialin, Tetralin, Octalin, Decalin
+*List of interstellar and circumstellar molecules
+*Mothballs
+*1-Naphthol, 2-Naphthol
+*Sodium naphthalenide
+*Wagner-Jauregg reaction (classic naphthalene synthesis)
+
+==References==
+
+*CRC Handbook of Chemistry and Physics, 87th edition
+
+==External links==
+
+*Mothballs Case Profile—National Pesticide Information Center
+*Naphthalene—EPA Air Toxics Web Site
+*Naphthalene (PIM 363)—mostly on toxicity of naphthalene
+*Naphthalene—CDC – NIOSH Pocket Guide to Chemical Hazards
+*Pesticide Properties Database (PPDB) record for Naphthalene
+
+ 
+
+

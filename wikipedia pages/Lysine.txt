@@ -1,0 +1,128 @@
+[[Lysine]]
+
+Lysine (abbreviated as Lys or K) is an α-amino acid with the chemical formula HO2CCH(NH2)(CH2)4NH2. It is an essential amino acid for humans. Lysine's codons are AAA and AAG.
+
+Lysine is a base, as are arginine and histidine. The ε-amino group often participates in hydrogen bonding and as a general base in catalysis. (The ε-amino group (NH3+) is attached to the fifth carbon beginning from the α-carbon, which is attached to the carboxyl (C=OOH) group. Lysine. The Biology Project, Department of Biochemistry and Molecular Biophysics, University of Arizona. )
+
+Common posttranslational modifications include methylation of the ε-amino group, giving methyl-, dimethyl-, and trimethyllysine. The latter occurs in calmodulin. Other posttranslational modifications at lysine residues include acetylation, sumoylation, and ubiquitination. Collagen contains hydroxylysine, which is derived from lysine by lysyl hydroxylase. O-Glycosylation of hydroxylysine residues in the endoplasmic reticulum or Golgi apparatus is used to mark certain proteins for secretion from the cell.
+
+==Biosynthesis==
+As an essential amino acid, lysine is not synthesized in animals, hence it must be ingested as lysine or lysine-containing proteins. In plants and bacteria, it is synthesized from aspartic acid (aspartate): Lysine biosynthesis and catabolism, Purdue University 
+* L-aspartate is first converted to L-aspartyl-4-phosphate by aspartokinase (or Aspartate kinase). ATP is needed as an energy source for this step.
+* β-Aspartate semialdehyde dehydrogenase converts this into β-aspartyl-4-semialdehyde (or β-aspartate-4-semialdehyde). Energy from NADPH is used in this conversion.
+* Dihydrodipicolinate synthase adds a pyruvate group to the β-aspartyl-4-semialdehyde, and two water molecules are removed. This causes cyclization and gives rise to 2,3-dihydrodipicolinate.
+* This product is reduced to 2,3,4,5-tetrahydrodipicolinate (or Δ1-piperidine-2,6-dicarboxylate, in the figure: (S)-2,3,4,5-tetrahydropyridine-2,6-dicarboxylate) by dihydrodipicolinate reductase. This reaction consumes a NADPH molecule.
+* Tetrahydrodipicolinate N-acetyltransferase opens this ring and gives rise to N-succinyl-L-2-amino-6-oxoheptanedionate (or N-acyl-2-amino-6-oxopimelate). Two water molecules and one acyl-CoA (succinyl-CoA) enzyme are used in this reaction.
+* N-succinyl-L-2-amino-6-oxoheptanedionate is converted into N-succinyl-LL-2,6-diaminoheptanedionate (N-acyl-2,6-diaminopimelate). This reaction is catalyzed by the enzyme succinyl diaminopimelate aminotransferase. A glutamic acid molecule is used in this reaction and an oxoacid is produced as a byproduct.
+* N-succinyl-LL-2,6-diaminoheptanedionate (N-acyl-2,6-diaminopimelate)is converted into LL-2,6-diaminoheptanedionate (L,L-2,6-diaminopimelate) by succinyl diaminopimelate desuccinylase (acyldiaminopimelate deacylase). A water molecule is consumed in this reaction and a succinate is produced a byproduct.
+* LL-2,6-diaminoheptanedionate is converted by diaminopimelate epimerase into meso-2,6-diamino-heptanedionate (meso-2,6-diaminopimelate).
+* Finally, meso-2,6-diamino-heptanedionate is converted into L-lysine by diaminopimelate decarboxylase.
+
+500px
+
+Enzymes involved in this biosynthesis include: Nelson, D. L.; Cox, M. M. "Lehninger, Principles of Biochemistry" 3rd Ed. Worth Publishing: New York, 2000. ISBN 1-57259-153-6. 
+
+# Aspartokinase
+# β-Aspartate semialdehyde dehydrogenase
+# Dihydropicolinate synthase
+# Δ1-Piperidine-2,6-dicarboxylate dehydrogenase
+# N-succinyl-2-amino-6ketopimelate synthase
+# Succinyl diaminopimelate aminotransferase
+# Succinyl diaminopimelate desuccinylase
+# Diaminopimelate epimerase
+# Diaminopimelate decarboxylase.
+
+It is worthwhile to note, however, that in fungi, euglenoids and some prokaryotes lysine is synthesized via the alpha-aminoadipate pathway.
+
+==Metabolism==
+Lysine is metabolised in mammals to give acetyl-CoA, via an initial transamination with α-ketoglutarate. The bacterial degradation of lysine yields cadaverine by decarboxylation.
+
+Allysine is a derivative of lysine, used in the production of elastin and collagen. It is produced by the actions of the enzyme lysyl oxidase on lysine in the extracellular matrix and is essential in the crosslink formation that stabilizes collagen and elastin.
+
+==Synthesis==
+Synthetic, racemic lysine has long been known. Braun, J. V. "Synthese des inaktiven Lysins aus Piperidin" Berichte der deutschen chemischen Gesellschaft 1909, Volume 42, p 839-846. . A practical synthesis starts from caprolactam. Eck, J. C.; Marvel, C. S. "dl-Lysine Hydrochlorides" Organic Syntheses, Collected Volume 2, p.374 (1943). http://www.orgsyn.org/orgsyn/pdfs/CV2P0374.pdf Industrially, L-lysine is usually manufactured by a fermentation process using Corynebacterium glutamicum; production exceeds 600,000 tons a year. 
+
+==Dietary sources==
+The nutritional requirement per day, in milligrams of lysine per kilogram of body weight, is: infants (3–4 months) 103, children (2 years) 64, older children (10–12 years) 60 to 44, adults 12. For a 70 kg adult, 12 milligrams of lysine per kilogram of body weight is 0.84 grams of lysine. Note that recommendations were subsequently revised upwards, e.g. 30 mg/kg for adults. , page 150-152 
+
+Good sources of lysine are high-protein foods such as eggs, meat (specifically red meat, lamb, pork, and poultry), soy, beans and peas, cheese (particularly Parmesan), and certain fish (such as cod and sardines). 
+
+Lysine is the limiting amino acid (the essential amino acid found in the smallest quantity in the particular foodstuff) in most cereal grains, but is plentiful in most pulses (legumes). Consequently, meals that combine cereal grains and legumes, such as the Indian dal with rice, Middle Eastern hummus, ful medames, falafel with pita bread, the Mexican beans with rice or tortilla have arisen to provide complete protein in diets that are, by choice or by necessity, vegetarian. A food is considered to have sufficient lysine if it has at least 51 mg of lysine per gram of protein (so that the protein is 5.1% lysine). 
+
+Foods containing significant proportions of lysine include:
+
+ Food Lysine (% of protein) Notes 
+ Catfish, channel, farmed, raw 9.19% Bluefish, burbot, mahi-mahi, grouper, lingcod, mackerel, pike, salmon, scup, trout, tuna, and yellowtail also have lysine content of nearly 9.2% http://ndb.nal.usda.gov/ndb/nutrients/report/nutrientsfrm?max=25&offset=0&totCount=0&nutrient1=505&nutrient2=203&nutrient3=&subset=1&fg=&sort=c&measureby=g 
+ Beef, ground, 90% lean/10% fat, cooked 8.31% 
+ Chicken, roasting, meat and skin, cooked, roasted 8.11% 
+ Lentil, sprouts, raw 7.95% Sprouting increases the lysine content. 
+ Parmesan cheese, grated 7.75% 
+ Azuki bean (adzuki beans), mature seeds, raw 7.53% 
+ Milk, non-fat 7.48% 
+ Soybean, mature seeds, raw 7.42% 
+ Pumpkin Seed, dried 7.4% title=Nutrition Data url=http://nutritiondata.self.com/facts/nut-and-seed-products/3066/2 
+ Egg, whole, raw 7.27% 
+ Pea, split, mature seeds, raw 7.22% 
+ Winged bean (aka Goa Bean or Asparagus Pea), mature seeds, raw 7.20% 
+ Lentil, pink, raw 6.97% 
+ Kidney bean, mature seeds, raw 6.87% 
+ Chickpea, (garbanzo beans, Bengal gram), mature seeds, raw 6.69% 
+ Soybean, mature seeds, sprouts 5.74% Sprouting decreases the lysine content. 
+ Navy bean, mature seeds, raw 5.73% 
+ Amaranth, grain, uncooked 5.17% 
+ Quinoa 5% 
+
+==Properties==
+L-Lysine is a necessary building block for all protein in the body. L-Lysine plays a major role in calcium absorption; building muscle protein; recovering from surgery or sports injuries; and the body's production of hormones, enzymes, and antibodies.
+
+===Modifications===
+
+Lysine can be modified through acetylation (acetyllysine), methylation (methyllysine), ubiquitination, sumoylation, neddylation, biotinylation, pupylation, and carboxylation, which tends to modify the function of the protein of which the modified lysine residue(s) are a part. 
+
+==Clinical significance==
+Some studies have found that lysine may be beneficial for those with herpes simplex infections. 
+ One small randomized, controlled study found that it reduced outbreaks by 2.4 per year. Other studies found no benefit. 
+
+ 
+ 
+Lysine has not been approved by the FDA for herpes simplex suppression. 
+ 
+
+Lysine has a anxiolytic action through its effects on serotonin receptors in the intestinal tract, and is also hypothesized to reduce anxiety through serotonin regulation in the amygdala. One study on rats showed that overstimulation of the 5-HT4 receptors in the gut are associated with anxiety-induced intestinal pathology. Lysine, acting as a serotonin antagonist and therefore reducing the overactivity of these receptors, reduced signs of anxiety and anxiety-induced diarrhea in the sample population. Another study showed that lysine deficiency leads to a pathological increase in serotonin in the amygdala, a brain structure that is involved in emotional regulation and the stress response. Human studies have also shown correlations between reduced lysine intake and anxiety. A population-based study in Syria included 93 families whose diet is primarily grain-based and therefore likely to be deficient in lysine. Fortification of grains with lysine was shown to reduce markers of anxiety, including cortisol levels; Smiriga and colleagues concluded that anxiety reduction from lysine occurs through mechanism of serotonin alterations in the central amygdala; older primary research reports hypothesized lysine to reduce anxiety through the potentiation of benzodiazepine receptors (common targets of anxiolytic drugs such as Xanax and Ativan). (Note that all of these studies were funded by Ajinomoto, Co. Inc., an industrial manufacturer of lysine.)
+
+There are lysine conjugates that show promise in the treatment of cancer, by causing cancerous cells to destroy themselves when the drug is combined with the use of phototherapy, while leaving non-cancerous cells unharmed. 
+
+ 
+
+While chemically insignificant to lysine itself, it is worth noting that lysine is attached to dextroamphetamine to form the prodrug lisdexamfetamine (Vyvanse). In the gastrointestinal tract, the lysine molecule is cleaved from the dextroamphetamine, thereby making oral administration necessary.
+
+Lysine deficiency causes immunodeficiency in chickens. One cause of relative lysine deficiency is cystinuria, where there is impaired hepatic resorption of basic, or positively charged amino acids, including lysine. The accompanying urinary cysteine results because the same deficient amino acid transporter is normally present in the kidney as well.
+
+Limited studies suggest that a high-lysine diet or L-lysine monochloride supplements may have a moderating effect on blood pressure and the incidence of stroke. Flodin 1997 
+
+==Use of lysine in animal feed==
+
+Lysine production for animal feed is a major global industry, reaching in 2009 almost 700,000 tonnes for a market value of over €1.22 billion. "Norwegian granted for improving lysine production process" Lysine is an important additive to animal feed because it is a limiting amino acid when optimizing the growth of certain animals such as pigs and chickens for the production of meat. Lysine supplementation allows for the use of lower-cost plant protein (maize, for instance, rather than soy) while maintaining high growth rates, and limiting the pollution from nitrogen excretion. 
+ In turn, however, phosphate pollution is a major environmental cost when corn is used as feed for poultry and swine. 
+
+Lysine is industrially produced by microbial fermentation, from a base mainly of sugar. Genetic engineering research is actively pursuing bacterial strains to improve the efficiency of production and allow lysine to be made from other substrates. 
+
+==In popular culture==
+The 1993 film Jurassic Park (based on the 1990 Michael Crichton novel of the same name) features dinosaurs that were genetically altered so that they could not produce lysine. This was known as the "lysine contingency" and was supposed to prevent the cloned dinosaurs from surviving outside the park, forcing them to be dependent on lysine supplements provided by the park's veterinary staff. In reality, most vertebrates cannot produce lysine (it is an essential amino acid).
+
+In 1996, lysine became the focus of a price-fixing case, the largest in United States history. The Archer Daniels Midland Company paid a fine of US$100 million, and three of its executives were convicted and served prison time. Also found guilty in the price-fixing case were two Japanese firms (Ajinomoto, Kyowa Hakko) and a South Korean firm (Sewon). Connor, J.M.; "Global Price Fixing" 2nd Ed. Springer-Verlag: Heidelberg, 2008. ISBN 978-3-540-78669-6. Secret video recordings of the conspirators fixing lysine's price can be found online or by requesting the video from the U.S. Department of Justice, Antitrust Division. This case served as the basis of the movie The Informant!, and a book of the same title. Eichenwald, Kurt.; "The Informant: a true story" Broadway Books: New York, 2000. ISBN 0-7679-0326-9. 
+
+==See also==
+*Acetyllysine
+*Deamination
+*Lysine price-fixing conspiracy
+*Methyllysine
+*Saccharopine
+
+==References==
+
+==Sources==
+*Much of the information in this article has been translated from German Wikipedia.
+*
+
+

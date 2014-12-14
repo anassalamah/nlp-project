@@ -1,0 +1,71 @@
+[[Somatostatin]]
+
+Somatostatin (also known as growth hormone-inhibiting hormone (GHIH) or somatotropin release-inhibiting factor (SRIF)) or somatotropin release-inhibiting hormone is a peptide hormone that regulates the endocrine system and affects neurotransmission and cell proliferation via interaction with G protein-coupled somatostatin receptors and inhibition of the release of numerous secondary hormones. Somatostatin regulates insulin and glucagon.
+
+Somatostatin has two active forms produced by alternative cleavage of a single preproprotein: one of 14 amino acids, the other of 28 amino acids. 
+
+In all vertebrates, there exist six different somatostatin genes that have been named SS1, SS2, SS3, SS4, SS5, and SS6. The six different genes along with the five different somatostatin receptors allows somatostatin to possess a large range of functions. Humans have only one somatostatin gene, SST. 
+
+==Production==
+===Digestive system===
+
+Somatostatin is secreted in several locations in the digestive system:
+* stomach
+* intestine
+* delta cells of the pancreas 
+
+Somatostatin will travel through the portal blood system, to the heart, then to systemic circulation, where it will exert its digestive system effects. In the stomach, somatostatin acts on the acid-producing parietal cells via G-coupled receptor to reduce secretion. Somatostatin also indirectly decreases stomach acid production by preventing the release of other hormones, including gastrin, secretin and histamine which effectively slows down the digestive process.
+
+===Brain===
+
+ [http://developingmouse.brain-map.org/data/Sst/100053205.html?ispopup=true Sst is expressed in interneurons in the telencephalon of the embryonic day 15.5 mouse. Allen Brain Atlases]] [http://mouse.brain-map.org/experiment/show/1001 Sst expression in the adult mouse. Allen Brain Atlases]] 
+
+Somatostatin is produced by neuroendocrine neurons of the ventro medial nucleus of the hypothalamus. These neurons project to the median eminence, where somatostatin is released from neurosecretory nerve endings into the hypothalamo-hypophysial system through neuron axons. Somatostatin is then carried to the anterior pituitary gland, where it inhibits the secretion of growth hormone from somatotrope cells. The somatostatin neurons in the periventricular nucleus mediate negative feedback effects of growth hormone on its own release; the somatostatin neurons respond to high circulating concentrations of growth hormone and somatomedins by increasing the release of somatostatin, so reducing the rate of secretion of growth hormone.
+
+Somatostatin is also produced by several other populations that project centrally, i.e., to other areas of the brain, and somatostatin receptors are expressed at many different sites in the brain. In particular, there are populations of somatostatin neurons in the arcuate nucleus, the hippocampus, and the brainstem nucleus of the solitary tract.
+
+==Actions==
+D cell is visible at upper-right, and somatostatin is represented by middle arrow pointing left
+
+Somatostatin is classified as an inhibitory hormone, whose actions are spread to different parts of the body:
+
+===Anterior pituitary===
+In the anterior pituitary gland, the effects of somatostatin are:
+* Inhibit the release of growth hormone (GH) (thus opposing the effects of Growth Hormone-Releasing Hormone (GHRH))
+* Inhibit the release of thyroid-stimulating hormone (TSH) First Aid for the USMLE Step 1, 2010. Page 286. 
+* It is induced by low pH.
+* Inhibit adenylyl cyclase in parietal cells.
+* Inhibits the release of prolactin (PRL)
+
+===Gastrointestinal system===
+
+* Somatostatin is homologous with cortistatin (see somatostatin family) and suppresses the release of gastrointestinal hormones
+** Gastrin
+** Cholecystokinin (CCK)
+** Secretin
+** Motilin
+** Vasoactive intestinal peptide (VIP)
+** Gastric inhibitory polypeptide (GIP)
+** Enteroglucagon
+* Decrease rate of gastric emptying, and reduces smooth muscle contractions and blood flow within the intestine 
+* Suppresses the release of pancreatic hormones
+** Inhibits insulin release when somatostatin is released from delta cells of pancreas 
+** Inhibits the release of glucagon 
+* Suppresses the exocrine secretory action of pancreas.
+
+==Synthetic substitutes==
+
+Octreotide (brand name Sandostatin, Novartis Pharmaceuticals) is an octapeptide that mimics natural somatostatin pharmacologically, though is a more potent inhibitor of growth hormone, glucagon, and insulin than the natural hormone and has a much longer half-life (approximately 90 minutes, compared to 2–3 minutes for somatostatin). Since it is absorbed poorly from the gut, it is administered parenterally (subcutaneously, intramuscularly, or intravenously). It is indicated for symptomatic treatment of carcinoid syndrome and acromegaly. It is also finding increased use in polycystic diseases of the liver and kidney.
+
+Lanreotide (INN) is a medication used in the management of acromegaly and symptoms caused by neuroendocrine tumors, most notably carcinoid syndrome. It is a long-acting analogue of somatostatin, like octreotide.
+
+Lanreotide (as lanreotide acetate) is manufactured by Ipsen and marketed under the trade name Somatuline. It is available in several countries, including the United Kingdom, Australia, and Canada, and was approved for sale in the United States by the Food and Drug Administration (FDA) on August 30, 2007.
+
+==Evolutionary history==
+There are six somatostatin genes that have been discovered in vertebrates. The current proposed history as to how these six genes arose is based on the three whole-genome duplication events that took place in vertebrate evolution along with local duplications in teleost fish. An ancestral somatostatin gene was duplicated during the first whole-genome duplication event (1R) to create SS1 and SS2. These two genes were duplicated during the second whole-genome duplication event (2R) to create four new somatostatin genes: SS1, SS2, SS3, and one gene that was lost during the evolution of vertebrates. Tetrapods retained SS1 (also known as SS-14 and SS-28) and SS2 (also known as cortistatin) after the split in the sarcopterygii and actinopterygii lineage split. In teleost fish, SS1, SS2, and SS3 were duplicated during the third whole-genome duplication event (3R) to create SS1, SS2, SS4, SS5, and two genes that were lost during the evolution of teleost fish. SS1 and SS2 went through local duplications to give rise to SS6 and SS3. 
+
+==References==
+
+==Further reading==
+
+

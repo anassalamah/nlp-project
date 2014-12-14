@@ -1,0 +1,389 @@
+[[Kepler's laws of planetary motion]]
+
+:This article uses more modern mathematical notation and concepts than were available to Johannes Kepler. For a more historical approach, see in particular the article Astronomia nova.
+
+In astronomy, Kepler's laws of planetary motion are three scientific laws describing the motion of planets around the Sun. Kepler's laws are now traditionally enumerated in this way:
+
+Figure 1: Illustration of Kepler's three laws with two planetary orbits. (1) The orbits are ellipses, with focal points &fnof;1 and &fnof;2 for the first planet and &fnof;1 and &fnof;3 for the second planet. The Sun is placed in focal point &fnof;1. (2) The two shaded sectors A1 and A2 have the same surface area and the time for planet 1 to cover segment A1 is equal to the time to cover segment A2. (3) The total orbit times for planet 1 and planet 2 have a ratio a13/2 : a23/2.
+
+#The orbit of a planet is an ellipse with the Sun at one of the two foci.
+#A line segment joining a planet and the Sun sweeps out equal areas during equal intervals of time. Bryant, Jeff; Pavlyk, Oleksandr. "Kepler's Second Law", Wolfram Demonstrations Project. Retrieved December 27, 2009. 
+#The square of the orbital period of a planet is proportional to the cube of the semi-major axis of its orbit.
+
+Most planetary orbits are almost circles, so it is not apparent that they are actually ellipses. Calculations of the orbit of the planet Mars first indicated to Kepler its elliptical shape, and he inferred that other heavenly bodies, including those farther away from the Sun, have elliptical orbits also. Kepler's work broadly followed the heliocentric theory of Nicolaus Copernicus by asserting that the Earth orbited the Sun. It innovated in explaining how the planets' speeds varied, and using elliptical orbits rather than circular orbits with epicycles. 
+
+Isaac Newton showed in 1687 that relationships like Kepler's would apply in the solar system to a good approximation, as consequences of his own laws of motion and law of universal gravitation. Together with Newton's theories, Kepler's laws became part of the foundation of modern astronomy and physics. See also G. E. Smith, "Newton's Philosophiae Naturalis Principia Mathematica", especially the section Historical context ... in The Stanford Encyclopedia of Philosophy (Winter 2008 Edition), Edward N. Zalta (ed.). 
+
+==Nomenclature==
+It took nearly two centuries for the current formulation of Kepler's work to take on its settled form. Voltaire's Eléments de la philosophie de Newton (Elements of Newton's Philosophy) of 1738 was the first publication to use the terminology of "laws". The Biographical Encyclopedia of Astronomers in its article on Kepler (p. 620) states that the terminology of scientific laws for these discoveries was current at least from the time of Joseph de Lalande. De la Lande, Astronomie, vol. 1 (Paris, France: Desaint & Saillant, 1764). See, for example:
+* From page 390: " … mais suivant la fameuse loi de Kepler, qui sera expliquée dans le Livre suivant (892), le rapport des temps périodiques est toujours plus grand que celui des distances, une planete cinq fois plus éloigne'e du soleil, emploie à faire sa révolution douze fois plus de temps ou environ; … " ( … but according to the famous law of Kepler, which will be explained in the following book chapter (paragraph 892), the ratio of the periods is always greater than that of the distances that, for example, a planet five times farther from the sun, requires about twelve times or so more time to make its revolution the sun; … )
+* From page 429: "Les Quarrés des Temps périodiques sont comme les Cubes des Distances. 892. La plus fameuse loi du mouvement des planetes découverte par Kepler, est celle du repport qu'il y a entre les grandeurs de leurs orbites, & le temps qu'elles emploient à les parcourir; … " (The squares of the periods are as the cubes of the distances. 892. The most famous law of the movement of the planets discovered by Kepler is that of the relation that exists between the sizes of their orbits and the times that the require to traverse them; … )
+* From page 430: "Les Aires sont proportionnelles au Temps. 895. Cette loi générale du mouvement des planetes devenue si importante dans l'Astronomie, sçavior, que les aires sont proportionnelles au temps, est encore une des découvertes de Kepler; … " (Areas are proportional to times. 895. This general law of the movement of the planets has become so important in astronomy to know, that areas are proportional to times, is one of Kepler's discoveries; … )
+* From page 435: "On a appellé cette loi des aires proportionnelles aux temps, Loi de Kepler, aussi bien que celle de l'article 892, du nome de ce célebre Inventeur; … " (One called this law of areas proportional to times (the law of Kepler) as well as that of paragraph 892, by the name of that celebrated inventor; … ) It was the exposition of Robert Small, in An account of the astronomical discoveries of Kepler (1804) that made up the set of three laws, by adding in the third. Robert Small, An account of the astronomical discoveries of Kepler (London, England: J Mawman, 1804), pp. 298-299. Small also claimed, against the history, that these were empirical laws, based on inductive reasoning. Robert Small, An account of the astronomical discoveries of Kepler (London, England: J. Mawman, 1804). 
+
+Further, the current usage of "Kepler's Second Law" is something of a misnomer. Kepler had two versions of it, related in a qualitative sense, the "distance law" and the "area law". The "area law" is what became the Second Law in the set of three; but Kepler did himself not privilege it in that way. 
+
+==History==
+Johannes Kepler published his first two laws about planetary motion in 1609, having found them by analyzing the astronomical observations of Tycho Brahe. In his Astronomia nova, Kepler presented only a proof that Mars' orbit is elliptical. Evidence that the other known planets' orbits are elliptical was presented only in 1621.
+See: Johannes Kepler, Astronomia nova … (1609), p. 285. After having rejected circular and oval orbits, Kepler concluded that Mars' orbit must be elliptical. From the top of page 285: "Ergo ellipsis est Planetæ iter; … " (Thus, an ellipse is the planet's Mars' path; … ) Later on the same page: " … ut sequenti capite patescet: ubi simul etiam demonstrabitur, nullam Planetæ relinqui figuram Orbitæ, præterquam perfecte ellipticam; … " ( … as will be revealed in the next chapter: where it will also then be proved that any figure of the planet's orbit must be relinquished, except a perfect ellipse; … ) And then: "Caput LIX. Demonstratio, quod orbita Martis, … , fiat perfecta ellipsis: … " (Chapter 59. Proof that Mars' orbit, … , is a perfect ellipse: … ) The geometric proof that Mars' orbit is an ellipse appears as Protheorema XI on pages 289-290.
+Kepler stated that all planets travel in elliptical orbits having the Sun at one focus in: Johannes Kepler, Epitome Astronomiae Copernicanae of Copernican Astronomy (Linz ("Lentiis ad Danubium"), (Austria): Johann Planck, 1622), book 5, part 1, III. De Figura Orbitæ (III. On the figure shape of orbits), pages 658-665. From p. 658: "Ellipsin fieri orbitam planetæ … " (Of an ellipse is made a planet's orbit … ). From p. 659: " … Sole (Foco altero huius ellipsis) … " ( … the Sun (the other focus of this ellipse) … ). In his Astronomia nova … (1609), Kepler did not present his second law in its modern form. He did that only in his Epitome of 1621. Furthermore, in 1609, he presented his second law in two different forms, which scholars call the "distance law" and the "area law".
+* His "distance law" is presented in: "Caput XXXII. Virtutem quam Planetam movet in circulum attenuari cum discessu a fonte." (Chapter 32. The force that moves a planet circularly weakens with distance from the source.) See: Johannes Kepler, Astronomia nova … (1609), pp. 165-167. On page 167, Kepler states: " … , quanto longior est αδ quam αε, tanto diutius moratur Planeta in certo aliquo arcui excentrici apud δ, quam in æquali arcu excentrici apud ε." ( … , as αδ is longer than αε, so much longer will a planet remain on a certain arc of the eccentric near δ than on an equal arc of the eccentric near ε.) That is, the farther a planet is from the Sun (at the point α), the slower it moves along its orbit, so a radius from the Sun to a planet passes through equal areas in equal times. However, as Kepler presented it, his argument is accurate only for circles, not ellipses.
+* His "area law" is presented in: "Caput LIX. Demonstratio, quod orbita Martis, … , fiat perfecta ellipsis: … " (Chapter 59. Proof that Mars' orbit, … , is a perfect ellipse: … ), Protheorema XIV and XV, pp. 291-295. On the top p. 294, it reads: "Arcum ellipseos, cujus moras metitur area AKN, debere terminari in LK, ut sit AM." (The arc of the ellipse, of which the duration is delimited measured by the area AKM, should be terminated in LK, so that it the arc is AM.) In other words, the time that Mars requires to move along an arc AM of its elliptical orbit is measured by the area of the segment AMN of the ellipse (where N is the position of the Sun), which in turn is proportional to the section AKN of the circle that encircles the ellipse and that is tangent to it. Therefore, the area that is swept out by a radius from the Sun to Mars as Mars moves along an arc of its elliptical orbit is proportional to the time that Mars requires to move along that arc. Thus, a radius from the Sun to Mars sweeps out equal areas in equal times.
+In 1621, Kepler restated his second law for any planet: Johannes Kepler, Epitome Astronomiae Copernicanae of Copernican Astronomy (Linz ("Lentiis ad Danubium"), (Austria): Johann Planck, 1622), book 5, page 668. From page 668: "Dictum quidem est in superioribus, divisa orbita in particulas minutissimas æquales: accrescete iis moras planetæ per eas, in proportione intervallorum inter eas & Solem." (It has been said above that, if the orbit of the planet is divided into the smallest equal parts, the times of the planet in them increase in the ratio of the distances between them and the sun.) That is, a planet's speed along its orbit is inversely proportional to its distance from the Sun. (The remainder of the paragraph makes clear that Kepler was referring to what is now called angular velocity.) Kepler's third law was published in 1619. Johannes Kepler, Harmonices Mundi Harmony of the World (Linz, (Austria): Johann Planck, 1619), book 5, chapter 3, p. 189. From the bottom of p. 189: "Sed res est certissima exactissimaque quod proportio qua est inter binorum quorumcunque Planetarum tempora periodica, sit præcise sesquialtera proportionis mediarum distantiarum, … " (But it is absolutely certain and exact that the proportion between the periodic times of any two planets is precisely the sesquialternate proportion the ratio of 3:2 of their mean distances, … ")
+An English translation of Kepler's Harmonices Mundi is available as: Johannes Kepler with E.J. Aiton, A.M. Duncan, and J.V. Field, trans., The Harmony of the World (Philadelphia, Pennsylvania: American Philosophical Society, 1997); see especially p. 411. 
+
+Kepler in 1621 and Godefroy Wendelin in 1643 noted that Kepler's third law applies to the four brightest moons of Jupiter. Godefroy Wendelin wrote a letter to Giovanni Battista Riccioli about the relationship between the distances of the Jovian moons from Jupiter and the periods of their orbits, showing that the periods and distances conformed to Kepler's third law. See: Joanne Baptista Riccioli, Almagestum novum … (Bologna (Bononia), (Italy): Victor Benati, 1651), volume 1, page 492 Scholia III. In the margin beside the relevant paragraph is printed: Vendelini ingeniosa speculatio circa motus & intervalla satellitum Jovis. (The clever Wendelin's speculation about the movement and distances of Jupiter's satellites.)In 1621, Johannes Kepler had noted that Jupiter's moons obey (approximately) his third law in his Epitome Astronomiae Copernicanae of Copernican Astronomy (Linz (“Lentiis ad Danubium“), (Austria): Johann Planck, 1622), book 4, part 2, page 554. The second law ("area law" form) was contested by Nicolaus Mercator in a book from 1664; but by 1670 he was publishing in its favour in Philosophical Transactions, and as the century proceeded it became more widely accepted. The reception in Germany changed noticeably between 1688, the year in which Newton's Principia was published and was taken to be basically Copernican, and 1690, by which time work of Gottfried Leibniz on Kepler had been published. 
+
+==First Law==
+
+:"The orbit of every planet is an ellipse with the Sun at one of the two foci."
+
+Figure 2: Kepler's first law placing the Sun at the focus of an elliptical orbit
+
+Figure 4: Heliocentric coordinate system (r, θ) for ellipse. Also shown are: semi-major axis a, semi-minor axis b and semi-latus rectum p; center of ellipse and its two foci marked by large dots. For θ = 0°, r = rmin and for θ = 180°, r = rmax.
+
+Mathematically, an ellipse can be represented by the formula:
+:
+where (r, θ) are polar coordinates, d is the focal parameter, and ε is the eccentricity of the ellipse.
+
+Note that 0 < ε < 1 for an ellipse; in the limiting case ε = 0, the orbit is a circle with the sun at the centre (see section Zero eccentricity below).
+
+For a planet r is the distance from the Sun to the planet, and θ is the angle to the planet's current position from its closest approach, as seen from the Sun.
+
+At θ = 0°, perihelion, the distance is minimum 
+:
+
+At θ = 90° and at θ = 270°, the distance is equal to the semi-latus rectum.
+
+At θ = 180°, aphelion, the distance is maximum 
+:
+ 
+The semi-major axis a is the arithmetic mean between rmin and rmax:
+:
+ 
+:
+
+The semi-minor axis b is the geometric mean between rmin and rmax:
+:
+
+:
+
+The semi-latus rectum p is the harmonic mean between rmin and rmax:
+:
+
+:
+
+The eccentricity &epsilon; is the coefficient of variation between rmin and rmax:
+:
+
+The area of the ellipse is
+:
+The special case of a circle is ε = 0, resulting in r = p = rmin = rmax = a = b and A = π r2.
+
+;Practical examples
+
+ Semi-major axis Orbital eccentricity Interfocal distance Location of f2 
+ Jupiter 7,783 mn km 0.048386 75 mn km Roughly half-way between Mercury's (58 mn km) and Venus's (108 mn km) orbital distances. 
+ Saturn 14,267 mn km 0.053862 154 mn km Roughly at Earth orbit distance (150 mn km). 
+
+==Second law==
+
+:"A line joining a planet and the Sun sweeps out equal areas during equal intervals of time." 
+
+The same blue area is swept out in a given time. The green arrow is velocity. The purple arrow directed towards the Sun is the acceleration. The other two purple arrows are acceleration components parallel and perpendicular to the velocity
+
+This law relates radial distance and angular velocity in elliptical orbits. That is, in a perfectly circular orbit, the orbital radius of the satellite would be constant and therefore so would be its observed angular velocity. In elliptical orbits, the orbital radius of the satellite will vary and therefore so will its angular velocity. This is shown in the above animation where the satellite travels "faster" (greater angular velocity) when closer to the parent object, then "slower" (less angular velocity) at a more distant radius. The result is that the blue sectors are shorter but wider when close to the body, then longer but narrower at a greater distance. Kepler's 2nd law states that for a given elliptical orbit, any two sectors of equal time duration will have the same area. This implies that radial distance and angular velocity have an inversely proportional relationship in a given orbit; angular velocity is minimum at apoapsis and maximum at periapsis. The constant of proportionality is the rate at which area in the ellipse is covered.
+
+===Mathematical derivation===
+In a small time the planet sweeps out a small triangle (or, more precisely, a sector) having base line and height and area 
+ and so the constant areal velocity is 
+
+The planet moves faster when it is closer to the Sun.
+
+The area enclosed by the elliptical orbit is
+
+So the period
+
+satisfies
+:
+and the mean motion of the planet around the Sun 
+
+satisfies
+:
+
+;Practical examples
+
+ Perihelion distance Perihelion speed Aphelion distance Aphelion speed Sector area sweptin one second 
+ Mercury 46.0 mn km 59,000 m/s 69.8 mn km 38,900 m/s 1.3565×1015 m2for both perihelion and aphelion 
+ Sedna 11,423 bn km 4,640 m/s ~ 140,000 bn km ~ 430 m/s 3.01×1016 m2 (based on perihelion measurements)2.65×1016 m2 (based on aphelion measurements) 
+
+:Note: the point speeds are worked out based on v=√GM(2/d−1/a); the "area swept" figure is less accurate for Sedna due to the imprecise degree to which its orbital parameters are currently known.
+
+==Third law==
+
+The third law, published by Kepler in 1619, For a brief biography of Kepler and discussion of his third law, see: NASA: Stargaze captures the relationship between the distance of planets from the Sun, and their orbital periods.
+
+Kepler enunciated this third law in a laborious attempt to determine what he viewed as the "music of the spheres" according to precise laws, and express it in terms of musical notation. Burtt, Edwin. The Metaphysical Foundations of Modern Physical Science. p. 52. 
+So it used to be known as the harmonic law. 
+
+Mathematically, the law says that the expression has the same value for all the planets in the solar system.
+
+;Examples
+
+ Period & Semi-major axis (in relation to Earth) Period 2 : Semi-major axis 3(in relation to Earth) Period & Semi-major axis (in real terms) Period 2 : Semi-major axis 3(in real terms) Ratio 
+ Venus 0.615 yr, 0.723 AU 0.3785 : 0.3785 19.4 mn secs, 1.082×1011 m 3.769×1014 : 1.267×1033 1 : 3.362×1018 
+ Neptune 164.8 yrs, 30.1 AU 27160 : 27280 5.2 bn secs, 4.498×1012 m 2.704×1019 : 9.103×1037 1 : 3.366×1018 
+
+The modern formulation with the constant evaluated reads:
+:
+with
+* T the orbital period of the orbiting body,
+* M the mass of the star,
+* G the universal gravitational constant and
+* r the radius, the semi-major axis of the ellipse.
+
+In the full formulation under Newton's laws of motion, should be replaced by , where is the mass of the orbiting body. Consequently, the proportionality constant is not truly the same for each planet. Nevertheless, for all planets in our solar system such that variations in the proportionality constant are negligible.
+
+==Zero eccentricity==
+Kepler's laws refine the model of Copernicus, which assumed circular orbits. If the eccentricity of a planetary orbit is zero, then Kepler's laws state:
+#The planetary orbit is a circle with the Sun at the center
+#The speed of the planet in the orbit is constant
+#The square of the sidereal period is proportionate to the cube of the distance from the Sun.
+Actually, the eccentricities of the orbits of the six planets known to Copernicus and Kepler are quite small, so the rules above give excellent approximations of planetary motion, but Kepler's laws fit observations even better.
+
+Kepler's corrections to the Copernican model are not at all obvious:
+#The planetary orbit is not a circle, but an ellipse
+#The Sun is not at the center but at a focal point
+#Neither the linear speed nor the angular speed of the planet in the orbit is constant, but the area speed is constant.
+#The square of the sidereal period is proportionate to the cube of the mean between the maximum and minimum distances from the Sun.
+
+The nonzero eccentricity of the orbit of the earth makes the time from the March equinox to the September equinox, around 186 days, unequal to the time from the September equinox to the March equinox, around 179 days. A diameter would cut the orbit into equal parts, but the plane through the sun parallel to the equator of the earth cuts the orbit into two parts with areas in a 186 to 179 ratio, so the eccentricity of the orbit of the Earth is approximately
+:
+which is close to the correct value (0.016710219). (See Earth's orbit).
+The calculation is correct when the perihelion, the date that the Earth is closest to the Sun, is on a solstice. The current perihelion, near January 4, is fairly close to the solstice on December 21 or 22.
+
+==Planetary acceleration==
+A sudden sunward velocity change is applied to a planet. Then the areas of the triangles defined by the path of the planet for fixed time intervals will be equal. (Click on image for a detailed description.)
+Isaac Newton computed in his Philosophiæ Naturalis Principia Mathematica the acceleration of a planet moving according to Kepler's first and second law.
+#The direction of the acceleration is towards the Sun.
+#The magnitude of the acceleration is in inverse proportion to the square of the distance from the Sun.
+
+This suggests that the Sun may be the physical cause of the acceleration of planets.
+
+Newton defined the force on a planet to be the product of its mass and the acceleration. (See Newton's laws of motion). So:
+#Every planet is attracted towards the Sun.
+#The force on a planet is in direct proportion to the mass of the planet and in inverse proportion to the square of the distance from the Sun.
+
+Here the Sun plays an unsymmetrical part, which is unjustified. So he assumed Newton's law of universal gravitation:
+#All bodies in the solar system attract one another.
+#The force between two bodies is in direct proportion to the product of their masses and in inverse proportion to the square of the distance between them.
+
+As the planets have small masses compared to that of the Sun, the orbits conform to Kepler's laws approximately. Newton's model improves upon Kepler's model and fits actual observations more accurately. (See two-body problem).
+
+A deviation in the motion of a planet from Kepler's laws due to the gravity of other planets is called a perturbation.
+
+Below comes the detailed calculation of the acceleration of a planet moving according to Kepler's first and second laws.
+
+===Acceleration vector===
+
+From the heliocentric point of view consider the vector to the planet where is the distance to the planet and the direction is a unit vector. When the planet moves the direction vector changes:
+:
+where is the unit vector orthogonal to and pointing in the direction of rotation, and is the polar angle, and where a dot on top of the variable signifies differentiation with respect to time.
+
+So differentiating the position vector twice to obtain the velocity and the acceleration vectors:
+:
+:
+So
+:
+where the radial acceleration is
+:
+and the transversal acceleration is
+:
+
+===The inverse square law===
+Kepler's laws say that
+: 
+is constant.
+
+The transversal acceleration is zero:
+:
+So the acceleration of a planet obeying Kepler's laws is directed towards the sun.
+
+The radial acceleration is
+:
+Kepler's first law states that the orbit is described by the equation:
+:
+Differentiating with respect to time
+:
+or
+:
+Differentiating once more
+:
+The radial acceleration satisfies
+:
+Substituting the equation of the ellipse gives
+:
+The relation gives the simple final result
+:
+This means that the acceleration vector of any planet obeying Kepler's first and second law satisfies the inverse square law 
+:
+where 
+:
+is a constant, and is the unit vector pointing from the Sun towards the planet, and is the distance between the planet and the Sun.
+
+According to Kepler's third law, has the same value for all the planets. So the inverse square law for planetary accelerations applies throughout the entire solar system.
+
+The inverse square law is a differential equation. The solutions to this differential equation include the Keplerian motions, as shown, but they also include motions where the orbit is a hyperbola or parabola or a straight line. See Kepler orbit.
+
+===Newton's law of gravitation===
+By Newton's second law, the gravitational force that acts on the planet is:
+
+:
+
+where is the mass of the planet and has the same value for all planets in the solar system. According to Newton's third Law, the Sun is attracted to the planet by a force of the same magnitude. Since the force is proportional to the mass of the planet, under the symmetric consideration, it should also be proportional to the mass of the Sun, . So
+
+:
+
+where is the gravitational constant.
+
+The acceleration of solar system body number i is, according to Newton's laws:
+:
+where is the mass of body j, is the distance between body i and body j, is the unit vector from body i towards body j, and the vector summation is over all bodies in the world, besides i itself.
+
+In the special case where there are only two bodies in the world, Earth and Sun, the acceleration becomes
+:
+which is the acceleration of the Kepler motion. So this Earth moves around the Sun according to Kepler's laws.
+
+If the two bodies in the world are Moon and Earth the acceleration of the Moon becomes
+:
+So in this approximation the Moon moves around the Earth according to Kepler's laws.
+
+In the three-body case the accelerations are
+
+:
+:
+:
+
+These accelerations are not those of Kepler orbits, and the three-body problem is complicated. But Keplerian approximation is basis for perturbation calculations. See Lunar theory.
+
+==Position as a function of time ==
+Kepler used his two first laws to compute the position of a planet as a function of time. His method involves the solution of a transcendental equation called Kepler's equation.
+
+The procedure for calculating the heliocentric polar coordinates (r,θ) of a planet as a function of the time t since perihelion, is the following four steps:
+
+:1. Compute the mean anomaly where n is the mean motion. 
+:: where P is the period.
+:2. Compute the eccentric anomaly E by solving Kepler's equation:
+::
+:3. Compute the true anomaly &theta; by the equation:
+::
+:4. Compute the heliocentric distance r from the first law:
+::
+
+The important special case of circular orbit, ε = 0, gives θ = E = M. Because the uniform circular motion was considered to be normal, a deviation from this motion was considered an anomaly.
+
+The proof of this procedure is shown below.
+
+===Mean anomaly, M===
+ FIgure 5: Geometric construction for Kepler's calculation of θ. The Sun (located at the focus) is labeled S and the planet P. The auxiliary circle is an aid to calculation. Line xd is perpendicular to the base and through the planet P. The shaded sectors are arranged to have equal areas by positioning of point y.
+The Keplerian problem assumes an elliptical orbit and the four points:
+:s the Sun (at one focus of ellipse);
+:z the perihelion
+:c the center of the ellipse
+:p the planet
+and 
+: distance between center and perihelion, the semimajor axis,
+: the eccentricity,
+: the semiminor axis,
+: the distance between Sun and planet.
+: the direction to the planet as seen from the Sun, the true anomaly.
+
+The problem is to compute the polar coordinates (r,θ) of the planet from the time since perihelion, t.
+
+It is solved in steps. Kepler considered the circle with the major axis as a diameter, and 
+: the projection of the planet to the auxiliary circle
+: the point on the circle such that the sector areas |zcy| and |zsx| are equal,
+: the mean anomaly.
+
+The sector areas are related by 
+
+The circular sector area 
+
+The area swept since perihelion, 
+:
+is by Kepler's second law proportional to time since perihelion. So the mean anomaly, M, is proportional to time since perihelion, t.
+:
+where n is the mean motion.
+
+===Eccentric anomaly, E===
+When the mean anomaly M is computed, the goal is to compute the true anomaly θ. The function θ=f(M) is, however, not elementary. Kepler's solution is to use 
+:, x as seen from the centre, the eccentric anomaly
+as an intermediate variable, and first compute E as a function of M by solving Kepler's equation below, and then compute the true anomaly θ from the eccentric anomaly E. Here are the details.
+:
+
+:
+Division by a2/2 gives Kepler's equation
+:
+
+This equation gives M as a function of E. Determining E for a given M is the inverse problem. Iterative numerical algorithms are commonly used.
+
+Having computed the eccentric anomaly E, the next step is to calculate the true anomaly θ.
+
+===True anomaly, θ===
+Note from the figure that
+:
+so that
+:
+Dividing by and inserting from Kepler's first law
+:
+to get
+:&ensp;&ensp;
+The result is a usable relationship between the eccentric anomaly E and the true anomaly θ.
+
+A computationally more convenient form follows by substituting into the trigonometric identity:
+:
+Get
+:&ensp;&ensp;&ensp;
+Multiplying by 1+ε gives the result
+:
+
+This is the third step in the connection between time and position in the orbit.
+
+=== Distance, r ===
+The fourth step is to compute the heliocentric distance r from the true anomaly θ by Kepler's first law:
+:
+
+==See also==
+*Circular motion
+*Free-fall time
+*Gravity
+*Kepler orbit
+*Kepler problem
+*Kepler's equation
+*Laplace–Runge–Lenz vector
+
+==Notes==
+ 
+
+==References==
+
+==Bibliography==
+*Kepler's life is summarized on pages 523&ndash;627 and Book Five of his magnum opus, Harmonice Mundi (harmonies of the world), is reprinted on pages 635&ndash;732 of On the Shoulders of Giants: The Great Works of Physics and Astronomy (works by Copernicus, Kepler, Galileo, Newton, and Einstein). Stephen Hawking, ed. 2002 ISBN 0-7624-1348-4
+
+*A derivation of Kepler's third law of planetary motion is a standard topic in engineering mechanics classes. See, for example, pages 161&ndash;164 of .
+
+*Murray and Dermott, Solar System Dynamics, Cambridge University Press 1999, ISBN 0-521-57597-4
+*V.I. Arnold, Mathematical Methods of Classical Mechanics, Chapter 2. Springer 1989, ISBN 0-387-96890-3
+
+==External links==
+* B.Surendranath Reddy; animation of Kepler's laws: applet
+* Crowell, Benjamin, Conservation Laws, http://www.lightandmatter.com/area1book2.html, an online book that gives a proof of the first law without the use of calculus. (see section 5.2, p. 112)
+* David McNamara and Gianfranco Vidali, Kepler's Second Law - Java Interactive Tutorial, http://www.phy.syr.edu/courses/java/mc_html/kepler.html, an interactive Java applet that aids in the understanding of Kepler's Second Law.
+* Audio - Cain/Gay (2010) Astronomy Cast Johannes Kepler and His Laws of Planetary Motion
+* University of Tennessee's Dept. Physics & Astronomy: Astronomy 161 page on Johannes Kepler: The Laws of Planetary Motion 
+* Equant compared to Kepler: interactive model 
+* Kepler's Third Law:interactive model 
+* Solar System Simulator (Interactive Applet)
+* Kepler and His Laws, educational web pages by David P. Stern
+
+

@@ -1,0 +1,107 @@
+[[Novum Organum]]
+
+The title page illustration of Instauratio magna
+The Novum Organum, full original title Novum Organum Scientiarum, is a philosophical work by Francis Bacon, written in Latin and published in 1620. The title translates as new instrument, i.e. new instrument of science. This is a reference to Aristotle's work Organon, which was his treatise on logic and syllogism. In Novum Organum, Bacon details a new system of logic he believes to be superior to the old ways of syllogism. This is now known as the Baconian method.
+
+For Bacon, finding the essence of a thing was a simple process of reduction, and the use of inductive reasoning. In finding the cause of a phenomenal nature such as heat, one must list all of the situations where heat is found. Then another list should be drawn up, listing situations that are similar to those of the first list except for the lack of heat. A third table lists situations where heat can vary. The form nature, or cause, of heat must be that which is common to all instances in the first table, is lacking from all instances of the second table and varies by degree in instances of the third table.
+
+The title page of Novum Organum depicts a galleon passing between the mythical Pillars of Hercules that stand either side of the Strait of Gibraltar, marking the exit from the well-charted waters of the Mediterranean into the Atlantic Ocean. The Pillars, as the boundary of the Mediterranean, have been smashed through opening a new world for exploration. Bacon hopes that empirical investigation will, similarly, smash the old scientific ideas and lead to greater understanding of the world and heavens.
+
+The Latin tag across the bottom ("Multi pertransibunt & augebitur scientia") is taken from Daniel 12:4. It means: "Many will travel and knowledge will be increased".
+
+==Bacon and the scientific method==
+
+Bacon's work was instrumental in the historical development of the scientific method. His technique bears a resemblance to the modern formulation of the scientific method in the sense that it is centred on experimental research. Bacon's emphasis on the use of artificial experiments to provide additional observances of a phenomenon can often support the conclusion that Bacon's process and the scientific method are one, but Bacon himself should not be considered "the Father of the Experimental Philosophy." Rees, Graham and Maria Wakely The Instauratio magna Part II: Novum organum and Associated Texts. Oxford: Clarendon, 2004. Print 
+
+==Preface==
+Bacon begins the work with a rejection of pure a priori deduction as a means of discovering truth in natural philosophy. Of his philosophy, he states:Now my plan is as easy to describe as it is difficult to effect. For it is to establish degrees of certainty, take care of the sense by a kind of reduction, but to reject for the most part the work of the mind that follows upon sense; in fact I mean to open up and lay down a new and certain pathway from the perceptions of the senses themselves to the mind.
+
+The emphasis on beginning with observation pervades the entire work. In fact, it is in the idea that natural philosophy must begin with the senses that we find the revolutionary part of Bacon's philosophy, and its consequent philosophical method, eliminative induction, is one of Bacon's most lasting contributions to science and philosophy.
+
+==Instauratio Magna==
+Novum organum was actually published as part of a much larger work, Instauratio magna—the great restoration. Originally intending Instauratio magna to contain six parts (of which Novum organum constituted the second), Bacon did not come close to completing this series, as parts V and VI were never written at all. Novum organum, written in Latin and consisting of two books of aphorisms, was included in the volume that Bacon published in 1620; however, it was also unfinished, as Bacon promised several additions to its content which ultimately remained unprinted.
+
+==Book I==
+(Bacon titled this first book Aphorisms Concerning the Interpretation of Nature, and the Kingdom of Man)
+
+In the first book of aphorisms, Bacon criticises the current state of natural philosophy. The object of his assault consists largely in the syllogism, a method that he believes to be completely inadequate in comparison to what Bacon calls “true Induction:”
+
+“The syllogism is made up of propositions, propositions of words, and words are markers of notions. Thus if the notions themselves (and this is the heart of the matter) are confused, and recklessly abstracted from things, nothing built on them is sound. The only hope therefore lies in true Induction.” (aph. 14)
+
+In many of his aphorisms, Bacon reiterates the importance of inductive reasoning. Induction, methodologically opposed to deduction, entails beginning with particular cases observed by the senses and then attempting to discover the general axioms from those observations. In other words, induction presupposes nothing. Deduction, on the other hand, begins with general axioms, or first principles, by which the truth of particular cases is extrapolated. Bacon emphasises the strength of the gradual process that is inherent in induction:
+
+“There are and can only be two ways of investigating and discovering truth. The one rushes up from the sense and particulars to axioms of the highest generality and, from these principles and their indubitable truth, goes on to infer and discover middle axioms; and this is the way in current use. The other way draws axioms from the sense and particulars by climbing steadily and by degrees so that it reaches the ones of highest generality last of all; and this is the true but still untrodden way.” (aph. 19)
+
+After many similar aphoristic reiterations of these important concepts, Bacon presents his famous Idols.
+
+==The Idols (Idola) ==
+Novum organum, as suggested by its name, is focused just as much on a rejection of received doctrine as it is on a forward-looking progression. In Bacon's Idols are found his most critical examination of man-made impediments which mislead the mind's objective reasoning. They appear in previous works but were never fully fleshed out until their formulation in Novum organum:
+
+;Idols of the Tribe (Idola tribus)
+“Idols of the Tribe are rooted in human nature itself and in the very tribe or race of men. For people falsely claim that human sense is the measure of things, whereas in fact all perceptions of sense and mind are built to the scale of man and not the universe.” (aph. 41)
+
+Bacon includes in this idol the predilection of the human imagination to presuppose otherwise unsubstantiated regularities in nature. An example might be the common historical astronomical assumption that planets move in perfect circles.
+
+;Idols of the Cave (Idola specus)
+“Idols of the Cave belong to the particular individual. For everyone has (besides vagaries of human nature in general) his own special cave or den which scatters and discolours the light of nature. Now this comes either of his own unique and singular nature; or his education and association with others, or the books he reads and the several authorities of those whom he cultivates and admires, or the different impressions as they meet in the soul, be the soul possessed and prejudiced, or steady and settled, or the like; so that the human spirit (as it is allotted to particular individuals) is evidently a variable thing, all muddled, and so to speak a creature of chance...” (aph. 42)
+
+This idol stems from the particular life experiences of the individual. Variable educations can lead the individual to a preference for specific concepts or methods, which then corrupt their subsequent philosophies. Bacon himself gives the example of Aristotle, “who made his natural philosophy a mere slave to his logic.” (Aph. 54)
+
+;Idols of the Market (Idola fori)
+“There are also Idols, derived as if from the mutual agreement and association of the human race, which I call Idols of the Market on account of men's commerce and partnerships. For men associate through conversation, but words are applied according to the capacity of ordinary people. Therefore shoddy and inept application of words lays siege to the intellect in wondrous ways.” (aph. 43)
+
+Bacon considered these "the greatest nuisances of them all" (aph. 59). Because humans reason through the use of words, they are particularly dangerous because the received definitions of words, which are often falsely derived, can cause confusion. He outlines two subsets of this kind of idol and provides examples (aph 60). First, there are those words which spring from fallacious theories, such as the element of fire or the concept of a first mover. These are easy to dismantle because their inadequacy can be traced back to the fault of their derivation in a faulty theory. Second, there are those words that are the result of imprecise abstraction. Earth, for example, is a vague term that may include many different substances the commonality of which is questionable. These terms are often used elliptically, or from a lack of information or definition of the term.
+
+;Idols of the Theatre (Idola theatri)
+“Lastly, there are the Idols which have misguided into men's souls from the dogmas of the philosophers and misguided laws of demonstration as well; I call these Idols of the Theatre, for in my eyes the philsophies received and discovered are so many stories made up and acted out stories which have created sham worlds worth of the stage.” (aph. 44)
+
+These idols manifest themselves in the unwise acceptance of certain philosophical dogmas, namely Aristotle's sophistical natural philosophy (aph. 63) which was corrupted by his passion for logic, and Plato's superstitious philosophy, which relied too heavily on theological principles.
+
+==Book II==
+
+After enumerating the shortcomings of the current and past natural philosophies, Bacon can now present his own philosophy and methods.
+Bacon retains the Aristotelian causes, but redefines them in interesting ways. While traditionally the final cause was held as most important among the four ( material, formal, efficient, and final), Bacon claims that it is the least helpful and in some cases actually detrimental to the sciences(aph. 2). For Bacon, it is the formal cause which is both the most illusive and most valuable, although each of the causes provides certain practical devices. By forms and formal causes, Bacon means the universal laws of nature. To these Bacon attaches an almost occult like power:
+
+But he who knows forms grasps the unity of nature beneath the surface of materials which are very unlike. Thus is he able to identify and bring about things that have never been done before, things of the kind which neither the vicissitudes of nature, nor hard experimenting, nor pure accident could ever have actualised, or human thought dreamed of. And thus from the discovery of the forms flows true speculation and unrestricted operation (aphorism 3)
+
+In this second book, Bacon offers an example of the process that of what he calls true induction. In this example, Bacon attempts to grasp the form of heat.
+
+The first step he takes is the surveying of all known instances where the nature of heat appears to exist. To this compilation of observational data Bacon gives the name Table of Essence and Presence. The next table, the Table of Absence in Proximity, is essentially the opposite—a compilation of all the instances in which the nature of heat is not present. Because these are so numerous, Bacon enumerates only the most relevant cases. Lastly, Bacon attempts to categorise the instances of the nature of heat into various degrees of intensity in his Table of Degrees. The aim of this final table is to eliminate certain instances of heat which might be said to be the form of heat, and thus get closer to an approximation of the true form of heat. Such elimination occurs through comparison. For example, the observation that both a fire and boiling water are instances of heat allows us to exclude light as the true form of heat, because light is present in the case of the fire but not in the case of the boiling water. Through this comparative analysis, Bacon intends to eventually extrapolate the true form of heat, although it is clear that such a goal is only gradually approachable by degrees. Indeed, the hypothesis that is derived from this eliminative induction, which Bacon names The First Vintage, is only the starting point from which additional empirical evidence and experimental analysis can refine our conception of a formal cause.
+
+The "Baconian method" does not end at the First Vintage. Bacon described numerous classes of Instances with Special Powers, cases in which the phenomena one is attempting to explain is particularly relevant. These instances, of which Bacon describes 27 in Novum Organum, aid and accelerate the process of induction. They are “labour-saving devices or shortcuts intended to accelerate or make more rigorous the search for forms by providing logical reinforcement to induction.” 
+
+Aside from the First Vintage and the Instances with Special Powers, Bacon enumerates additional "aids to the intellect" which presumably are the next steps in his "method." In Aphorism 21 of Book II, Bacon lays out the subsequent series of steps in proper induction: including Supports to Induction, Rectification of Induction, Varying the Inquiry according to the Nature of the Subject, Natures with Special Powers, Ends of Inquiry, Bringing Things down to Practice, Preparatives to Inquiry, and Ascending and Descending Scale of Axioms. 
+These additional aids, however, were never explained beyond their initial limited appearance in Novum Organum. It is likely that Bacon intended them to be included in later parts of Instauratio magna and simply never got to writing about them.
+
+As mentioned above, this second book of Novum organum was far from complete and indeed was only a small part of a massive, also unfinished work, the Instauratio magna.
+
+==Bacon and Descartes==
+
+Bacon is often studied through a comparison to his contemporary René Descartes. Both thinkers were, in a sense, some of the first to question the philosophical authority of the ancient Greeks. Bacon and Descartes both believed that a critique of preexisting natural philosophy was necessary, but their respective critiques proposed radically different approaches to natural philosophy. While “one was rational and theoretical in approach and was headed by Rene Descartes; the other was practical and empirical and was led by Francis Bacon.” Cantor, Norman F., and Peter L. Klein. Seventeenth-Century Rationalism: Bacon and Descartes. Massachusetts: Blaisdell, 1969. Print They were both profoundly concerned with the extent to which humans can come to knowledge, and yet their methods of doing so projected diverging paths.
+
+On the one hand, Descartes begins with a doubt of anything which cannot be known with absolute certainty and includes in this realm of doubt the impressions of sense perception, and thus, “all sciences of corporal things, such as physics and astronomy." He thus attempts to provide a metaphysical principle (this becomes the Cogito) which cannot be doubted, on which further truths must be deduced. In this method of deduction, the philosopher begins by examining the most general axioms (such as the Cogito), and then proceeds to determine the truth about particulars from an understanding of those general axioms.
+
+Conversely, Bacon endorsed the opposite method of Induction, in which the particulars are first examined, and only then is there a gradual ascent to the most general axioms. While Descartes doubts the ability of the senses to provide us with accurate information, Bacon doubts the ability of the mind to deduce truths by itself as it is subjected to so many intellectual obfuscations, Bacon's “Idols.” In his first aphorism of New organum, Bacon states:
+
+“Man, the servant and interpreter of nature, does and understands only as much as he has observed, by fact or mental activity, concerning the order of nature; beyond that he has neither knowledge nor power.” (aph. 1)
+
+So, in a basic sense the central difference between the philosophical methods of Descartes and those of Bacon can be reduced to an argument between deductive and inductive reasoning and whether to trust or doubt the senses. However, there is another profound difference between the two thinkers' positions on the accessibility of Truth. Descartes was obsessed with absolute Truth—indeed it seems to be the object of his aims. It is slightly ambiguous whether Bacon believed such a Truth can be achieved. In his opening remarks, he proposes “to establish progressive stages of certainty.” For Bacon, a measure of truth was its power to allow predictions of natural phenomena (although Bacon's forms come close to what we might call "Truth," because they are universal, immutable laws of nature).
+
+==Original contributions==
+
+An interesting characteristic of Bacon's apparently scientific tract was that, although he amassed an overwhelming body of empirical data, he did not make any original discoveries. Indeed, that was never his intention, and such an evaluation of Bacon's legacy may wrongfully lead to an unjust comparison with Newton. Bacon never claimed to have brilliantly revealed new unshakable truths about nature—in fact, he believed that such an endeavour is not the work of single minds but that of whole generations by gradual degrees toward reliable knowledge. 
+
+In many ways, Bacon's contribution to the advancement of human knowledge lies not in the fruit of his scientific research but in the reinterpretation of the methods of natural philosophy. His innovation is summarised in The Oxford Francis Bacon:Before Bacon where else does one find a meticulously articulated view of natural philosophy as an enterprise of instruments and experiment, and enterprise designed to restrain discursive reason and make good the defects of the senses? Where else in the literature before Bacon does one come across a stripped-down natural-historical programme of such enormous scope and scrupulous precision, and designed to serve as the basis for a complete reconstruction of human knowledge which would generate new, vastly productive sciences through a form of eliminative induction supported by various other procedures including deduction? Where else does one find a concept of scientific research which implies an institutional framework of such proportions that it required generations of permanent state funding to sustain it? And all this accompanied by a thorough, searching, and devastating attack on ancient and not-so-ancient philosophies, and by a provisional natural philosophy anticipating the results of the new philosophy?” 
+
+== References ==
+ 
+
+==External links==
+* include Spedding, Devey and Wood translations
+*"Francis Bacon" at Early Modern Texts, with English translation The New Organon, prepared by Jonathan Bennett with adjustments to make the text more accessible
+*New Organon, English translation, based on the 1863 translation of James Spedding, Robert Leslie Ellis, and Douglas Denon Heath
+
+*Novum Organum (English) Thomas Fowler (ed., notes, etc.) McMillan and Co., Clarendon Press, Oxford (1878) public domain @GoogleBooks
+*Novum Organum, original Latin text
+
+

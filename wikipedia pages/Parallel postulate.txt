@@ -1,0 +1,85 @@
+[[Parallel postulate]]
+
+If the sum of the interior angles α and β is less than 180°, the two straight lines, produced indefinitely, meet on that side.
+In geometry, the parallel postulate, also called Euclid's fifth postulate because it is the fifth postulate in Euclid's Elements, is a distinctive axiom in Euclidean geometry. It states that, in two-dimensional geometry:
+
+If a line segment intersects two straight lines forming two interior angles on the same side that sum to less than two right angles, then the two lines, if extended indefinitely, meet on that side on which the angles sum to less than two right angles.
+
+Euclidean geometry is the study of geometry that satisfies all of Euclid's axioms, including the parallel postulate. A geometry where the parallel postulate does not hold is known as a non-Euclidean geometry. Geometry that is independent of Euclid's fifth postulate (i.e., only assumes the modern equivalent of the first four postulates) is known as absolute geometry (or, in other places known as neutral geometry).
+
+==Equivalent properties==
+Probably the best known equivalent of Euclid's parallel postulate is Playfair's axiom, named after the Scottish mathematician John Playfair, which states:
+
+At most one line can be drawn through any point not on a given line parallel to the given line in a plane. Euclid's Parallel Postulate and Playfair's Axiom 
+
+This axiom is not logically equivalent to the Euclidean parallel postulate since there are geometries in which one is true and the other is not. However, in the presence of the remaining axioms which give Euclidean geometry, each of these can be used to prove the other, so they are equivalent in the context of absolute geometry. 
+
+Many other statements equivalent to the parallel postulate have been suggested, some of them appearing at first to be unrelated to parallelism, and some seeming so self-evident that they were unconsciously assumed by people who claimed to have proven the parallel postulate from Euclid's other postulates. This is a summary
+
+# There is at most one line that can be drawn parallel to another given one through an external point. (Playfair's axiom)
+# The sum of the angles in every triangle is 180° (triangle postulate).
+# There exists a triangle whose angles add up to 180°.
+# The sum of the angles is the same for every triangle.
+# There exists a pair of similar, but not congruent, triangles.
+# Every triangle can be circumscribed.
+# If three angles of a quadrilateral are right angles, then the fourth angle is also a right angle.
+# There exists a quadrilateral in which all angles are right angles.
+# There exists a pair of straight lines that are at constant distance from each other.
+# Two lines that are parallel to the same line are also parallel to each other.
+# In a right-angled triangle, the square of the hypotenuse equals the sum of the squares of the other two sides (Pythagoras' Theorem). 
+# There is no upper limit to the area of a triangle. (Wallis axiom) 
+# The summit angles of the Saccheri quadrilateral are 90°.
+# If a line intersects one of two parallel lines, both of which are coplanar with the original line, then it also intersects the other. (Proclus' axiom) 
+
+However, the alternatives which employ the word "parallel" cease appearing so simple when one is obliged to explain which of the four common definitions of "parallel" is meant – constant separation, never meeting, same angles where crossed by some third line, or same angles where crossed by any third line – since the equivalence of these four is itself one of the unconsciously obvious assumptions equivalent to Euclid's fifth postulate. In the list above, it is always taken to refer to non-intersecting lines. For example, if the word "parallel" in Playfair's axiom is taken to mean 'constant separation' or 'same angles where crossed by any third line', then it is no longer equivalent to Euclid's fifth postulate, and is provable from the first four (the axiom says 'There is at most one line...', which is consistent with there being no such lines). However, if the definition is taken so that parallel lines are lines that do not intersect, or that have some line intersecting them in the same angles, Playfair's axiom is contextually equivalent to Euclid's fifth postulate and is thus logically independent of the first four postulates. Note that the latter two definitions are not equivalent, because in hyperbolic geometry the second definition holds only for ultraparallel lines.
+
+==History==
+For two thousand years, many attempts were made to prove the parallel postulate using Euclid's first four postulates. The main reason that such a proof was so highly sought after was that, unlike the first four postulates, the parallel postulate isn't self-evident. If the order the postulates were listed in the Elements is significant, it indicates that Euclid included this postulate only when he realised he could not prove it or proceed without it. 
+Many attempts were made to prove the fifth postulate from the other four, many of them being accepted as proofs for long periods of time until the mistake was found. Invariably the mistake was assuming some 'obvious' property which turned out to be equivalent to the fifth postulate (Playfair's axiom). Although known from the time of Proclus, this became known as Playfair's Axiom after John Playfair wrote a famous commentary on Euclid in 1795 in which he proposed replacing Euclid's fifth postulate by his own axiom.
+
+Proclus (410-485) wrote a commentary on The Elements where he comments on attempted proofs to deduce the fifth postulate from the other four, in particular he notes that Ptolemy had produced a false 'proof'. Proclus then goes on to give a false proof of his own. However he did give a postulate which is equivalent to the fifth postulate.
+
+Ibn al-Haytham (Alhazen) (965-1039), an Arab mathematician, made an attempt at proving the parallel postulate using a proof by contradiction, in the course of which he introduced the concept of motion and transformation into geometry. : He formulated the Lambert quadrilateral, which Boris Abramovich Rozenfeld names the "Ibn al-Haytham–Lambert quadrilateral", and his attempted proof contains elements similar to those found in Lambert quadrilaterals and Playfair's axiom. 
+
+Omar Khayyám (1050–1123), a Persian, attempted to prove the fifth postulate from another explicitly given postulate (based on the fourth of the five principles due to the Philosopher (Aristotle), namely, "Two convergent straight lines intersect and it is impossible for two convergent straight lines to diverge in the direction in which they converge." Boris A Rosenfeld and Adolf P Youschkevitch (1996), Geometry, p.467 in Roshdi Rashed, Régis Morelon (1996), Encyclopedia of the history of Arabic science, Routledge, ISBN 0-415-12411-5. He derived some of the earlier results belonging to elliptical geometry and hyperbolic geometry, though his postulate excluded the latter possibility. Boris A. Rosenfeld and Adolf P. Youschkevitch (1996), "Geometry", in Roshdi Rashed, ed., Encyclopedia of the History of Arabic Science, Vol. 2, p. 447-494 , Routledge, London and New York: The Saccheri quadrilateral was also first considered by Omar Khayyám in the late 11th century in Book I of Explanations of the Difficulties in the Postulates of Euclid. Unlike many commentators on Euclid before and after him (including Giovanni Girolamo Saccheri), Khayyám was not trying to prove the parallel postulate as such but to derive it from his equivalent postulate. He recognized that three possibilities arose from omitting Euclid's fifth postulate; if two perpendiculars to one line cross another line, judicious choice of the last can make the internal angles where it meets the two perpendiculars equal (it is then parallel to the first line). If those equal internal angles are right angles, we get Euclid's fifth postulate, otherwise, they must be either acute or obtuse. He showed that the acute and obtuse cases led to contradictions using his postulate, but his postulate is now known to be equivalent to the fifth postulate.
+
+Nasir al-Din al-Tusi (1201–1274), in his Al-risala al-shafiya'an al-shakk fi'l-khutut al-mutawaziya (Discussion Which Removes Doubt about Parallel Lines) (1250), wrote detailed critiques of the parallel postulate and on Khayyám's attempted proof a century earlier. Nasir al-Din attempted to derive a proof by contradiction of the parallel postulate. He also considered the cases of what are now known as elliptical and hyperbolic geometry, though he ruled out both of them. 
+
+Euclidean, elliptical and hyperbolic geometry. The Parallel Postulate is satisfied only for models of Euclidean geometry.
+
+Nasir al-Din's son, Sadr al-Din (sometimes known as "Pseudo-Tusi"), wrote a book on the subject in 1298, based on his father's later thoughts, which presented one of the earliest arguments for a non-Euclidean hypothesis equivalent to the parallel postulate. "He essentially revised both the Euclidean system of axioms and postulates and the proofs of many propositions from the Elements." Boris A. Rosenfeld and Adolf P. Youschkevitch (1996), "Geometry", in Roshdi Rashed, ed., Encyclopedia of the History of Arabic Science, Vol. 2, p. 447-494 , Routledge, London and New York: His work was published in Rome in 1594 and was studied by European geometers. This work marked the starting point for Saccheri's work on the subject : which opened with a criticism of Sadr al-Din's work and the work of Wallis. MacTutor's Giovanni Girolamo Saccheri 
+
+Giordano Vitale (1633-1711), in his book Euclide restituo (1680, 1686), used the Khayyam-Saccheri quadrilateral to prove that if three points are equidistant on the base AB and the summit CD, then AB and CD are everywhere equidistant. Girolamo Saccheri (1667-1733) pursued the same line of reasoning more thoroughly, correctly obtaining absurdity from the obtuse case (proceeding, like Euclid, from the implicit assumption that lines can be extended indefinitely and have infinite length), but failing to refute the acute case (although he managed to wrongly persuade himself that he had).
+
+In 1766 Johann Lambert wrote, but did not publish, Theorie der Parallellinien in which he attempted, as Saccheri did, to prove the fifth postulate. He worked with a figure that today we call a Lambert quadrilateral, a quadrilateral with three right angles (can be considered half of a Saccheri quadrilateral). He quickly eliminated the possibility that the fourth angle is obtuse, as had Saccheri and Khayyám, and then proceeded to prove many theorems under the assumption of an acute angle. Unlike Saccheri, he never felt that he had reached a contradiction with this assumption. He had proved the non-Euclidean result that the sum of the angles in a triangle increases as the area of the triangle decreases, and this led him to speculate on the possibility of a model of the acute case on a sphere of imaginary radius. He did not carry this idea any further. 
+
+Where Khayyám and Saccheri had attempted to prove Euclid's fifth by disproving the only possible alternatives, the nineteenth century finally saw mathematicians exploring those alternatives and discovering the logically consistent geometries which result. In 1829, Nikolai Ivanovich Lobachevsky published an account of acute geometry in an obscure Russian journal (later re-published in 1840 in German). In 1831, János Bolyai included, in a book by his father, an appendix describing acute geometry, which, doubtlessly, he had developed independently of Lobachevsky. Carl Friedrich Gauss had also studied the problem, but he did not publish any of his results. Upon hearing of Bolyai's results in a letter from Bolyai's father, Farkas Bolyai, Gauss stated:
+
+"If I commenced by saying that I am unable to praise this work, you would certainly be surprised for a moment. But I cannot say otherwise. To praise it would be to praise myself. Indeed the whole contents of the work, the path taken by your son, the results to which he is led, coincide almost entirely with my meditations, which have occupied my mind partly for the last thirty or thirty-five years." 
+
+The resulting geometries were later developed by Lobachevsky, Riemann and Poincaré into hyperbolic geometry (the acute case) and elliptic geometry (the obtuse case). The independence of the parallel postulate from Euclid's other axioms was finally demonstrated by Eugenio Beltrami in 1868.
+
+==Converse of Euclid's parallel postulate==
+If the sum of the two interior angles equals 180°, the lines are parallel and will never intersect.
+Euclid did not postulate the converse of his fifth postulate, which is one way to distinguish Euclidean geometry from elliptic geometry. The Elements contains the proof of an equivalent statement (Book I, Proposition 27): If a straight line falling on two straight lines make the alternate angles equal to one another, the straight lines will be parallel to one another. As De Morgan Heath, T.L., The thirteen books of Euclid's Elements, Vol.1, Dover, 1956, pg.309. pointed out, this is logically equivalent to (Book I, Proposition 16). These results do not depend upon the fifth postulate, but they do require the second postulate Coxeter, H.S.M., Non-Euclidean Geometry, 6th Ed., MAA 1998, pg.3 which is violated in elliptic geometry.
+
+==Criticism==
+Attempts to logically prove the parallel postulate, rather than the eighth axiom, Schopenhauer is referring to Euclid's Common Notion 4: Figures coinciding with one another are equal to one another. were criticized by Schopenhauer, as described in Schopenhauer's criticism of the proofs of the Parallel Postulate. However, the argument used by Schopenhauer was that the postulate is evident by perception, not that it was not a logical consequence of the other axioms.
+
+==See also==
+*For more information, see the history of non-Euclidean geometry.
+
+==Notes==
+
+==References==
+*Carroll, Lewis, Euclid and His Modern Rivals, Dover, ISBN 0-486-22968-8
+*
+*
+*
+*
+*
+
+==External links==
+* On Gauss' Mountains
+
+

@@ -1,0 +1,26 @@
+[[Combustion]]
+
+The flames caused as a result of a fuel undergoing combustion (burning)
+
+Combustion or burning colloquial meaning of burning is combustion accompanied by flames is the sequence of exothermic chemical reactions between a fuel and an oxidant accompanied by the production of heat and conversion of chemical species. The release of heat can produce light in the form of either glowing or a flame.
+
+In a complete combustion reaction, a compound reacts with an oxidizing element, such as oxygen or fluorine, and the products are compounds of each element in the fuel with the oxidizing element. The process releases heat energy.
+
+: Fuel + Oxidizer → Combustion products + Heat energy
+
+For example:
+
+:CH4(g) + 2O2(g) → CO2(g) + 2H2O(g)
+
+The standard enthalpy of reaction for methane combustion at and is . Reaction-Web 
+A simple example can be seen in the combustion of hydrogen and oxygen, a reaction commonly used to fuel rocket engines:
+
+:2H2(g) + O2(g) → 2H2O(g)
+
+The result is water vapor, with a standard enthalpy of reaction at and of . 
+
+Another example is burning of carbon, which is the main component of coal:
+
+: C(s) + O2(g) → CO2(g)
+
+Complete combustion is almost impossible to achieve. As actual combustion reactions come to equilibrium, a wide variety of major and minor species will be present, such as carbon monoxide, hydrogen and even carbon (soot or ash). Additionally, any combustion at high temperatures in atmospheric air, which is 78 percent nitrogen, will also create small amounts of several nitrogen oxides, commonly referred to as

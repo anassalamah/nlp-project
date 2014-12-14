@@ -1,0 +1,50 @@
+[[Aufbau principle]]
+
+The Aufbau principle (from the German Aufbau meaning "building up, construction": also Aufbau rule or building-up principle) is used to determine the electron configuration of an atom, molecule or ion. The principle postulates a hypothetical process in which an atom is "built up" by progressively adding electrons. As they are added, they assume their most stable conditions (electron orbitals) with respect to the nucleus and those electrons already there.
+
+According to the principle, electrons fill orbitals starting at the lowest available (possible) energy levels before filling higher levels (e.g. 1s before 2s).
+The number of electrons that can occupy each orbital is limited by the Pauli exclusion principle. If multiple orbitals of the same energy are available, Hund's rule states that unoccupied orbitals will be filled before occupied orbitals are reused (by electrons having different spins).
+
+A version of the Aufbau principle can also be used to predict the configuration of protons and neutrons in an atomic nucleus.
+
+==The Madelung energy ordering rule==
+Order in which orbitals are arranged by increasing energy according to the Madelung rule. Each diagonal red arrow corresponds to a different value of n + ℓ.
+
+The order in which these orbitals are filled is given by the n + &#x2113; rule (also known as the Madelung rule (after Erwin Madelung), or the Klechkowski rule (after Vsevolod Klechkovsky in some, mostly French and Russian-speaking, countries), or the diagonal rule. http://www.wyzant.com/resources/lessons/science/chemistry/electron_configuration Orbitals with a lower n + &#x2113; value are filled before those with higher n + &#x2113; values. In this context, n represents the principal quantum number and &#x2113; the azimuthal quantum number; the values &#x2113; = 0, 1, 2, 3 correspond to the s, p, d, and f labels, respectively.
+
+The rule is based on the total number of nodes in the atomic orbital, n + &#x2113;, which is related to the energy. In the case of equal n + &#x2113; values, the orbital with a lower n value is filled first. The fact that most of the ground state configurations of neutral atoms fill orbitals following this n + &#x2113;, n pattern was obtained experimentally, by reference to the spectroscopic characteristics of the elements. 
+
+The Madelung energy ordering rule applies only to neutral atoms in their ground state, and even in that case, there are several elements for which it predicts configurations that differ from those determined experimentally. Copper, chromium, and palladium are common examples of this property. According to the Madelung rule, the 4s orbital (n + &#x2113; = 4 + 0 = 4) is occupied before the 3d orbital (n + &#x2113; = 3 + 2 = 5). The rule then predicts the configuration of 29Cu to be 1s22s22p63s2 3p64s23d9, abbreviated 4s23d9 where denotes the configuration of Ar (the preceding noble gas). However the experimental electronic configuration of the copper atom is 4s13d10. By filling the 3d orbital, copper can be in a lower energy state. Similarly, chromium takes the electronic configuration of 4s13d5 instead of 4s23d4. In this case, chromium has a half-full 3d shell. For palladium, the Madelung rule predicts 5s24d8, but the experimental configuration 4d10 differs in the placement of two electrons.
+
+==History==
+
+===The Aufbau principle in the old quantum theory===
+In the old quantum theory, orbits with low angular momentum (s- and p-orbitals) get closer to the nucleus.
+The principle takes its name from the German, Aufbauprinzip, "building-up principle", rather than being named for a scientist. In fact, it was formulated by Niels Bohr and Wolfgang Pauli in the early 1920s, and states that:
+
+This was an early application of quantum mechanics to the properties of electrons, and explained chemical properties in physical terms. Each added electron is subject to the electric field created by the positive charge of the atomic nucleus and the negative charge of other electrons that are bound to the nucleus. Although in hydrogen there is no energy difference between orbitals with the same principal quantum number n, this is not true for the outer electrons of other atoms.
+
+In the old quantum theory prior to quantum mechanics, electrons were supposed to occupy classical elliptical orbits. The orbits with the highest angular momentum are 'circular orbits' outside the inner electrons, but orbits with low angular momentum (s- and p-orbitals) have high orbital eccentricity, so that they get closer to the nucleus and feel on average a less strongly screened nuclear charge.
+
+===The n + &#x2113; energy ordering rule===
+A periodic table in which each row corresponds to one value of n + &#x2113; was suggested by Charles Janet in 1927. In 1936, the German physicist Erwin Madelung proposed his empirical rules for the order of filling atomic subshells, based on knowledge of atomic ground states determined by the analysis of atomic spectra, and most English-language sources therefore refer to the Madelung rule. Madelung may have been aware of this pattern as early as 1926. In 1962 the Russian agricultural chemist V.M. Klechkowski proposed the first theoretical explanation for the importance of the sum n + &#x2113;, based on the statistical Thomas–Fermi model of the atom. Many French- and Russian-language sources therefore refer to the Klechkowski rule.
+
+==See also==
+* Electron configuration
+* Valence electrons
+
+==References==
+ 
+
+==Further reading==
+* Image: Understanding order of shell filling
+* Boeyens, J. C. A.: Chemistry from First Principles. Berlin: Springer Science 2008, ISBN 978-1-4020-8546-8
+* Abstract.
+*
+*
+*
+
+==External links==
+*Electron Configurations, the Aufbau Principle, Degenerate Orbitals, and Hund's Rule
+
+

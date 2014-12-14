@@ -1,0 +1,39 @@
+[[Markovnikov's rule]]
+
+Markovnikov's rule is illustrated by the reaction of propene with hydrobromic acid 
+In organic chemistry, Markovnikov's rule or Markownikoff's rule describes the outcome of some addition reactions. The rule was formulated by Russian chemist Vladimir Vasilevich Markovnikov in 1870. 
+
+== Explanation ==
+
+The rule states that with the addition of a protic acid HX to an unsymmetrical alkene, the acid hydrogen (H) becomes attached to the carbon with fewer alkyl substituents, and the halide (X) group becomes attached to the carbon with more alkyl substituents. Alternatively, the rule can be stated that the hydrogen atom is added to the carbon with the greater number of hydrogen atoms while the X component is added to the carbon with the fewer number of hydrogen atoms. Organic Chemistry, 6th Edition, by John McMurry. Section 6.9, page 187 
+
+The same is true when an alkene reacts with water in an addition reaction to form an alcohol which involve formation of carbocations. The hydroxyl group (OH) bonds to the carbon that has the greater number of carbon–carbon bonds, while the hydrogen bonds to the carbon on the other end of the double bond, that has more carbon–hydrogen bonds.
+
+The chemical basis for Markovnikov's Rule is the formation of the most stable carbocation during the addition process. The addition of the hydrogen ion to one carbon atom in the alkene creates a positive charge on the other carbon, forming a carbocation intermediate. The more substituted the carbocation (the more bonds it has to carbon or to electron-donating substituents) the more stable it is, due to induction and hyperconjugation. The major product of the addition reaction will be the one formed from the more stable intermediate. Therefore, the major product of the addition of HX (where X is some atom more electronegative than H) to an alkene has the hydrogen atom in the less substituted position and X in the more substituted position. However, the other less substituted, less stable carbocation will still be formed to some degree, and will proceed to form the minor product with the opposite attachment of X.
+
+==Anti-Markovnikov reactions==
+Mechanisms that avoid the carbocation intermediate may react through other mechanisms that are regioselective, against what Markovnikov's rule predicts, such as free radical addition. Such reactions are said to be anti-Markovnikov, since the halogen adds to the less substituted carbon, exactly the opposite of Markovnikov reaction. Again, like the positive charge, the radical is most stable when in the more substituted position. The anti-Markovnikov rule can be best explained by taking an example of addition of hydrogen bromide to propene in the presence of benzoyl peroxide. The reaction of HBr with substituted alkenes was instrumental in the study of free-radical additions. Early chemists discovered that the reason for the variability of the ratio of Markovnikov to anti-Markovnikov reaction products was due to the unrealized presence of free radical generating substances such as peroxides. The explanation is that HBr produces a Br radical, which then reacts with the double bond. Since the bromine atom is very large, it is more probable that it will encounter and react with the least substituted carbon, in this case the terminal carbon, to produce a primary addition product instead of a, in the case of propene, secondary addition product. 
+
+A new method of anti-Markovnikov addition has been described by Hamilton and Nicewicz, who utilize organic molecules and light from a low-energy diode to turn the alkene into a cation radical. http://cen.acs.org/articles/91/i15/Light-Driven-Reaction-Modifies-Double.html http://pubs.acs.org/doi/abs/10.1021/ja309635w?source=cen 
+
+Anti-Markovnikov behaviour extends to other chemical reactions than just additions to alkenes. One anti-Markovnikov manifestation is observed in hydration of phenylacetylene that, gold-catalyzed, gives regular acetophenone but with a special ruthenium catalyst catalyst system based on in-situ reaction of ruthenocene with Cp and naphthalene ligands and a second bulky pyridine ligand the other regioisomer 2-phenylacetaldehyde: 
+
+Anti-Markovnikov hydration
+
+Anti-Markovnikov behavior can also manifest itself in certain rearrangement reactions. In a titanium(IV) chloride-catalyzed formal nucleophilic substitution at enantiopure 1 in the scheme below, two racemic products are formed – 2a and 2b: . 
+
+Anti-Markovnikov rearrangement
+
+This product distribution can be rationalized by assuming that loss of the hydroxy group in 1 gives the tertiary carbocation A, which rearranges to the seemingly less attractive secondary carbocation B. Chlorine can approach this center from two faces leading to the observed mixture of isomers.
+
+Another notable example of anti-Markovnikov addition is hydroboration.
+
+==References==
+
+== See also ==
+*Zaitsev's rule
+
+==External links==
+*Khan academy lecture
+
+

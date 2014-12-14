@@ -1,0 +1,168 @@
+[[Seaborgium]]
+
+Seaborgium is a synthetic element with the symbol Sg and atomic number 106, whose most stable isotope 271Sg has a half-life of 1.9 minutes. A more recently discovered isotope 269Sg has a potentially slightly longer half-life (ca. 2.1 min) based on the observation of a single decay. Chemistry experiments with seaborgium have firmly placed it in group 6 as a heavier homologue to tungsten.
+
+==History==
+===Discovery===
+Scientists working at the Joint Institute for Nuclear Research in Dubna, USSR reported their discovery of element 106 in June 1974. Yu. Ts. Oganesyan, Yu. P. Tret’yakov, A. S. Il’inov, A. G. Demin, A. A. Pleve, S. P. Tret’yakova, V. M. Plofko, M. P. Ivanov, N. A. Danilov, Yu. S. Korotkin, and G. N. Flerov, Synthesis of Neutron-deficient Isotopes of Fermium, Kurchatovium and Element 106, Письма в Журнал экспериментальной и теоретической физики (Pis’ma v Zhurnal Eksperimental’noi i Teoreticheskoi Fiziki, Journal of Experimental and Theoretical Physics (JETP) Letters), 20(1974)580-585 (in Russian, English translation pp. 265–266) Synthesis was also reported in September 1974 at the Super HILAC accelerator at the Lawrence Berkeley Laboratory by a joint Lawrence Berkeley/Lawrence Livermore collaboration led by Albert Ghiorso and E. Kenneth Hulet. They produced the new nuclide 263Sg by bombarding a target of 249Cf with 18O ions. 
+249Cf + 18O→263Sg
+This nuclide decays by α emission with a half-life of 0.9 ± 0.2 sec.
+
+===Naming===
+
+The Berkeley/Livermore collaboration suggested the name seaborgium (Sg) to honor the American chemist Glenn T. Seaborg credited as a member of the American group in recognition of his participation in the discovery of several other actinides. The name selected by the team became controversial. The IUPAC adopted unnilhexium (symbol Unh) as a temporary, systematic element name. In 1994 a committee of IUPAC recommended that element 106 be named rutherfordium and adopted a rule that no element can be named after a living person. This ruling was fiercely objected to by the American Chemical Society. Critics pointed out that a precedent had been set when einsteinium was proposed as a name during Albert Einstein's life and a survey indicated that chemists were not concerned with the fact that Seaborg was still alive. In 1997, as part of a compromise involving elements 104 to 108, the name seaborgium for element 106 was recognized internationally. The name rutherfordium was assigned to element 104 instead.
+
+==Chemical properties==
+===Extrapolated properties===
+;Oxidation states
+Seaborgium is projected to be the third member of the 6d series of transition metals and the heaviest member of group 6 in the Periodic Table, below chromium, molybdenum and tungsten. All the members of the group readily portray their group oxidation state of +6 and the state becomes more stable as the group is descended. Thus seaborgium is expected to form a stable +6 state. For this group, stable +5 and +4 states are well represented for the heavier members and the +3 state is known but reducing, except for chromium(III).
+
+;Chemistry
+Much seaborgium chemical behavior is predicted by extrapolation from its lighter congeners molybdenum and tungsten. Molybdenum and tungsten readily form stable trioxides MO3, so seaborgium should form SgO3. The oxides MO3 are soluble in alkali with the formation of oxyanions, so seaborgium should form a seaborgate ion, SgO42−. In addition, WO3 reacts with acid, suggesting similar amphotericity for SgO3. Molybdenum oxide, MoO3, also reacts with moisture to form a hydroxide MoO2(OH)2, so SgO2(OH)2 is also feasible. The heavier homologues readily form the volatile, reactive hexahalides MX6 (X=Cl,F). Only tungsten forms the unstable hexabromide, WBr6. Therefore, the compounds SgF6 and SgCl6 are predicted, and "eka-tungsten character" may show itself in increased stability of the hexabromide, SgBr6. These halides are unstable to oxygen and moisture and readily form volatile oxyhalides, MOX4 and MO2X2. Therefore SgOX4 (X=F,Cl) and SgO2X2 (X=F,Cl) should be possible. In aqueous solution, a variety of anionic oxyfluoro-complexes are formed with fluoride ion, examples being MOF5− and MO3F33−. Similar seaborgium complexes are expected.
+
+===Experimental chemistry===
+====Gas phase====
+Initial experiments aiming at probing the chemistry of seaborgium focused on the gas thermochromatography of a volatile oxychloride. Seaborgium atoms were produced in the reaction 248Cm(22Ne,4n)266Sg, thermalised, and reacted with an O2/HCl mixture. The adsorption properties of the resulting oxychloride were measured and compared with those of molybdenum and tungsten compounds. The results indicated that seaborgium formed a volatile oxychloride akin to those of the other group 6 elements:
+
+:Sg + + 2 HCl → + 
+
+In 2001, a team continued the study of the gas phase chemistry of seaborgium by reacting the element with O2 in a H2O environment. In a manner similar to the formation of the oxychloride, the results of the experiment indicated the formation of seaborgium oxide hydroxide, a reaction well known among the lighter group 6 homologues. 
+
+:2 Sg + 3 → 2 
+: + → 
+
+====Aqueous phase====
+In its aqueous chemistry, seaborgium has been shown to resemble its lighter homologues molybdenum and tungsten, forming a stable +6 oxidation state. Seaborgium was eluted from cation exchange resin using a HNO3/HF solution, most likely as neutral SgO2F2 or the anionic complex ion −. In contrast, in 0.1 M HNO3, seaborgium does not elute, unlike Mo and W, indicating that the hydrolysis of 6+ only proceeds as far as the cationic complex +.
+
+===Summary of investigated compounds and complex ions===
+
+ Formula Names(s) 
+ SgO2Cl2 seaborgium oxychloride ; seaborgium(VI) dioxide dichloride ; seaborgyl dichloride 
+ SgO2F2 seaborgium oxyfluoride ; seaborgium(VI) dioxide difluoride ; seaborgyl difluoride 
+ SgO3 seaborgium oxide ; seaborgium(VI) oxide ; seaborgium trioxide 
+ SgO2(OH)2 seaborgium oxide hydroxide ; seaborgium(VI) dioxide dihydroxide 
+ − trifluorodioxoseaborgate(VI) 
+ + aquapentahydroxyseaborgium(VI) 
+
+==Nucleosynthesis==
+===Cold fusion experiments===
+This section deals with the synthesis of nuclei of seaborgium by so-called "cold" fusion reactions. These are processes which create compound nuclei at low excitation energy (~10-20 MeV, hence "cold"), leading to a higher probability of survival from fission. The excited nucleus then decays to the ground state via the emission of one or two neutrons only.
+
+;208Pb(54Cr,xn)262-xSg (x=1,2,3)
+The first attempt to synthesise seaborgium in cold fusion reactions was performed in September 1974 by a Soviet team led by G. N. Flerov at the Joint Institute for Nuclear Research at Dubna. They reported producing a 0.48 s spontaneous fission (SF) activity which they assigned to the isotope 259Sg. Based on later evidence it was suggested that the team most likely measured the decay of 260Sg and its daughter 256Rf. The TWG concluded that, at the time, the results were insufficiently convincing. 
+
+The Dubna team revisited this problem in 1983–1984 and were able to detect a 5 ms SF activity assigned directly to 260Sg. 
+
+The team at GSI studied this reaction for the first time in 1985 using the improved method of correlation of genetic parent-daughter decays. They were able to detect 261Sg (x=1) and 260Sg and measured a partial 1n neutron evaporation excitation function.
+ 
+
+In December 2000, the reaction was studied by a team at GANIL, France and were able to detect 10 atoms of 261Sg and 2 atoms of 260Sg to add to previous data on the reaction.
+
+After a facility upgrade, the GSI team measured the 1n excitation function in 2003 using a metallic lead target. Of significance, in May 2003, the team successfully replaced the lead-208 target with more resistant lead(II) sulfide targets (PbS) which will allow more intense beams to be used in the future. They were able to measure the 1n,2n and 3n excitation functions and performed the first detailed alpha-gamma spectroscopy on the isotope 261Sg. They detected ~1600 atoms of the isotope and identified new alpha lines as well as measuring a more accurate half-life and new EC and SF branchings. Furthermore, they were able to detect the K X-rays from the daughter rutherfordium element for the first time. They were also able to provide improved data for 260Sg, including the tentative observation of an isomeric level. The study was continued in September 2005 and March 2006. The accumulated work on 261Sg was published in 2007. 
+Work in September 2005 also aimed to begin spectroscopic studies on 260Sg.
+
+The team at the LBNL recently restudied this reaction in an effort to look at the spectroscopy of the isotope 261Sg. They were able to detect a new isomer, 261mSg, decaying by internal conversion into the ground state. In the same experiment, they were also able to confirm a K-isomer in the daughter 257Rf, namely 257m2Rf. 
+
+;207Pb(54Cr,xn)261-xSg (x=1,2)
+The team at Dubna also studied this reaction in 1974 with identical results as for their first experiments with a Pb-208 target. The SF activities were first assigned to 259Sg and later to 260Sg and/or 256Rf. Further work in 1983–1984 also detected a 5 ms SF activity assigned to the parent 260Sg. 
+
+The GSI team studied this reaction for the first time in 1985 using the method of correlation of genetic parent-daughter decays. They were able to positively identify 259Sg as a product from the 2n neutron evaporation channel. 
+
+The reaction was further used in March 2005 using PbS targets to begin a spectroscopic study of the even-even isotope 260Sg.
+
+;206Pb(54Cr,xn)260-xSg
+This reaction was studied in 1974 by the team at Dubna. It was used to assist them in their assignment of the observed SF activities in reactions using Pb-207 and Pb-208 targets. They were unable to detect any SF, indicating the formation of isotopes decaying primarily by alpha decay. 
+
+;208Pb(52Cr,xn)260-xSg (x=1,2)
+The team at Dubna also studied this reaction in their series of cold fusion reactions performed in 1974. Once again they were unable to detect any SF activities. The reaction was revisited in 2006 by the team at LBNL as part of their studies on the effect of the isospin of the projectile and hence the mass number of the compound nucleus on the yield of evaporation residues. They were able to identify 259Sg and 258Sg in their measurement of the 1n excitation function. "Measurement of the 208Pb(52Cr,n)259Sg Excitation Function", Folden et al., LBNL Annual Report 2005. Retrieved on 2008-02-29 
+
+;209Bi(51V,xn)260-xSg (x=2)
+The team at Dubna also studied this reaction in their series of cold fusion reactions performed in 1974. Once again they were unable to detect any SF activities. 
+In 1994, the synthesis of seaborgium was revisited using this reaction by the GSI team, in order to study the new even-even isotope 258Sg. Ten atoms of 258Sg were detected and decayed by spontaneous fission.
+
+===Hot fusion experiments===
+This section deals with the synthesis of nuclei of seaborgium by so-called "hot" fusion reactions. These are processes which create compound nuclei at high excitation energy (~40-50 MeV, hence "hot"), leading to a reduced probability of survival from fission and quasi-fission. The excited nucleus then decays to the ground state via the emission of 3-5 neutrons.
+
+;238U(30Si,xn)268-xSg (x=3,4,5,6)
+This reaction was first studied by Japanese scientists at the Japan Atomic Energy Research Institute (JAERI) in 1998. They detected a spontaneous fission activity which they tentatively assigned to the new isotope 264Sg or 263Db, formed by EC of 263Sg. 
+In 2006, the teams at GSI and LBNL both studied this reaction using the method of correlation of genetic parent-daughter decays. The LBNL team measured an excitation function for the 4n,5n and 6n channels, whilst the GSI team were able to observe an additional 3n activity. "Production of seaborgium isotopes in the reaction of 30Si + 238U", Nishio et al., GSI Annual Report 2006. Retrieved on 2008-02-29 "New isotope 264Sg and decay properties of 262-264Sg", Gregorich et al., LBNL repositories. Retrieved on 2008-02-29 Both teams were able to identify the new isotope 264Sg which decayed with a short lifetime by spontaneous fission.
+
+;248Cm(22Ne,xn)270-xSg (x=4?,5)
+In 1993, at Dubna, Yuri Lazarev and his team announced the discovery of long-lived 266Sg and 265Sg produced in the 4n and 5n channels of this nuclear reaction following the search for seaborgium isotopes suitable for a first chemical study.
+It was announced that 266Sg decayed by 8.57 MeV alpha-particle emission with a projected half-life of ~20 s, lending strong support to the stabilising effect of the Z=108,N=162 closed shells. 
+This reaction was studied further in 1997 by a team at GSI and the yield, decay mode and half-lives for 266Sg and 265Sg have been confirmed, although there are still some discrepancies. In the recent synthesis of 270Hs (see hassium), 266Sg was found to undergo exclusively SF with a short half-life (TSF = 360 ms). It is possible that this is the ground state, (266gSg) and that the other activity, produced directly, belongs to a high spin K-isomer, 266mSg, but further results are required to confirm this.
+
+A recent re-evaluation of the decay characteristics of 265Sg and 266Sg has suggested that all decays to date in this reaction were in fact from 265Sg, which exists in two isomeric forms. The first, 265aSg has a principal alpha-line at 8.85 MeV and a calculated half-life of 8.9 s, whilst 265bSg has a decay energy of 8.70 MeV and a half-life of 16.2 s. Both isomeric levels are populated when produced directly. Data from the decay of 269Hs indicates that 265bSg is produced during the decay of 269Hs and that 265bSg decays into the shorter-lived 261gRf isotope. This means that the observation of 266Sg as a long-lived alpha emitter is retracted and that it does indeed undergo fission in a short time.
+
+Regardless of these assignments, the reaction has been successfully used in the recent attempts to study the chemistry of seaborgium (see below).
+
+;249Cf(18O,xn)267-xSg (x=4)
+The synthesis of seaborgium was first realized in 1974 by the LBNL/LLNL team. In their discovery experiment, they were able to apply the new method of correlation of genetic parent-daughter decays to identify the new isotope 263Sg. In 1975, the team at Oak Ridge were able to confirm the decay data but were unable to identify coincident X-rays in order to prove that seaborgium was produced. In 1979, the team at Dubna studied the reaction by detection of SF activities. In comparison with data from Berkeley, they calculated a 70% SF branching for 263Sg. The original synthesis and discovery reaction was confirmed in 1994 by a different team at LBNL. 
+
+===As decay product===
+Isotopes of seaborgium have also been observed in the decay of heavier elements. Observations to date are summarised in the table below:
+
+ Evaporation Residue Observed Sg isotope 
+ 291Lv, 287Fl, 283Cn 271Sg 
+ 285Fl 269Sg 
+ 271Hs 267Sg 
+ 270Hs 266Sg 
+ 277Cn, 273Ds, 269Hs 265Sg 
+ 271Ds, 267Hs 263Sg 
+ 270Ds 262Sg 
+ 269Ds, 265Hs 261Sg 
+ 264Hs 260Sg 
+
+==Isotopes==
+
+ Isotope Year discovered discovery reaction 
+ 258Sg 1994 209Bi(51V,2n) 
+ 259Sg 1985 207Pb(54Cr,2n) 
+ 260Sg 1985 208Pb(54Cr,2n) 
+ 261gSg 1985 208Pb(54Cr,n) 
+ 261mSg 2009 208Pb(54Cr,n) 
+ 262Sg 2001 207Pb(64Ni,n) see darmstadtium 
+ 263mSg 1974 249Cf(18O,4n) 
+ 263gSg 1994 208Pb(64Ni,n) 
+ 264Sg 2006 238U(30Si,4n) 
+ 265Sg 1993 248Cm(22Ne,5n) 
+ 266Sg 2004 248Cm(26Mg,4n) 
+ 267Sg 2004 248Cm(26Mg,3n) see hassium 
+ 268Sg unknown 
+ 269Sg 2010 242Pu(48Ca,5n) see flerovium 
+ 270Sg unknown 
+ 271Sg 2003 242Pu(48Ca,3n) 
+
+There are 12 known isotopes of seaborgium (excluding meta-stable and K-spin isomers). The longest-lived is currently 269Sg which decays through alpha decay and spontaneous fission, with a half-life of around 2.1 minutes. The shortest-lived isotope is 258Sg which also decays through alpha decay and spontaneous fission. It has a half-life of 2.9 ms.
+
+===Nuclear isomerism===
+;266Sg
+Initial work identified an 8.63 MeV alpha-decaying activity with a half-life of ~21s and assigned to the ground state of 266Sg. Later work identified a nuclide decaying by 8.52 and 8.77 MeV alpha emission with a half-life of ~21s, which is unusual for an even-even nuclide. Recent work on the synthesis of 270Hs identified 266Sg decaying by SF with a short 360 ms half-life. The recent work on 277Cn and 269Hs has provided new information on the decay of 265Sg and 261Rf. This work suggested that the initial 8.77 MeV activity should be reassigned to 265Sg. Therefore the current information suggests that the SF activity is the ground state and the 8.52 MeV activity is a high spin K-isomer. Further work is required to confirm these assignments. A recent re-evaluation of the data has suggested that the 8.52 MeV activity should be associated with 265Sg and that 266Sg only undergoes fission.
+
+;265Sg
+The recent direct synthesis of 265Sg resulted in four alpha-lines at 8.94,8.84,8.76 and 8.69 MeV with a half-life of 7.4 seconds. The observation of the decay of 265Sg from the decay of 277Cn and 269Hs indicated that the 8.69 MeV line may be associated with an isomeric level with an associated half-life of ~ 20 s. It is plausible that this level is causing confusion between assignments of 266Sg and 265Sg since both can decay to fissioning rutherfordium isotopes.
+
+A recent re-evaluation of the data has indicated that there are indeed two isomers, one with a principal decay energy of 8.85 MeV with a half-life of 8.9 s, and a second isomer which decays with energy 8.70 MeV with a half-life of 16.2 s.
+
+;263Sg
+The discovery synthesis of 263Sg resulted in an alpha-line at 9.06 MeV. Observation of this nuclide by decay of 271gDs, 271mDs and 267Hs has confirmed an isomer decaying by 9.25 MeV alpha emission. The 9.06 MeV decay was also confirmed. The 9.06 MeV activity has been assigned to the ground state isomer with an associated half-life of 0.3 s. The 9.25 MeV activity has been assigned to an isomeric level decaying with a half-life of 0.9 s.
+
+Recent work on the synthesis of 271g,mDs was resulted in some confusing data regarding the decay of 267Hs. In one such decay, 267Hs decayed to 263Sg which decayed by alpha emission with a half-life of ~ 6 s. This activity has not yet been positively assigned to an isomer and further research is required.
+
+;Spectroscopic decay schemes for 261Sg
+
+This is the currently accepted decay scheme for 261Sg from the study by Streicher et al. at GSI in 2003–2006
+
+===Retracted isotopes===
+;269Sg
+In the claimed synthesis of 293Uuo in 1999 the isotope 269Sg was identified as a daughter product. It decayed by 8.74 MeV alpha emission with a half-life of 22 s. The claim was retracted in 2001. see ununoctium This isotope was finally created in 2010.
+
+==References==
+
+==External links==
+
+* Chemistry in its element podcast (MP3) from the Royal Society of Chemistry's Chemistry World: Seaborgium
+* Seaborgium at The Periodic Table of Videos (University of Nottingham)
+* WebElements.com - Seaborgium
+
+

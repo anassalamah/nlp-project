@@ -1,0 +1,58 @@
+[[Cisplatin]]
+
+Cisplatin, cisplatinum, or cis-diamminedichloroplatinum(II) See also metal amine complex (CDDP) is a chemotherapy drug. It was the first member of a class of platinum-containing anti-cancer drugs, which now also includes carboplatin and oxaliplatin. These platinum complexes react in vivo, binding to and causing crosslinking of DNA, which ultimately triggers apoptosis (programmed cell death).
+
+==Synthesis==
+The synthesis of cisplatin is a classic in inorganic chemistry. Starting from potassium tetrachloroplatinate(II), K2, the first NH3 ligand is added to any of the four equivalent positions, but the second NH3 could be added cis or trans to the bound amine ligand. Because Cl− has a larger trans effect than NH3, the second amine preferentially substitutes trans to a chloride ligand, and therefore cis to the original amine. The trans effect of the halides follows the order I->Br->Cl-, therefore the synthesis is conducted using 2− to ensure high yield and purity of the cis isomer, followed by conversion of the PtI2(NH3)2 into PtCl2(NH3)2, as first described by Dhara. 
+
+Synthesis of cisplatin
+
+==Usage==
+Cisplatin is administered intravenously as short-term infusion in normal saline for treatment of solid malignancies. It is used to treat various types of cancers, including sarcomas, some carcinomas (e.g. small cell lung cancer, and ovarian cancer), lymphomas, and germ cell tumors. It is used in combinations with bleomycin and vinblastine in testicular cancer. Praveen D*, Ranadheer Chowdary P, "A review on the use of Bleomycin-Cisplatin-Vinblastine combinations in therapy of testicular cancer" ,Indian Journal of Research in Pharmacy and Biotechnology,IJRPB 1(6) , November – December 2013 Page 793- 796 . 
+
+Cisplatin is particularly effective against testicular cancer; the cure rate was improved from 10% to 85%. 
+
+In addition, Cisplatin is used in Auger therapy.
+
+== History ==
+The compound cis- was first described by Michele Peyrone in 1845, and known for a long time as Peyrone's salt. The structure was deduced by Alfred Werner in 1893. In 1965, Barnett Rosenberg, van Camp et al. of Michigan State University discovered that electrolysis of platinum electrodes generated a soluble platinum complex which inhibited binary fission in Escherichia coli (E. coli) bacteria. Although bacterial cell growth continued, cell division was arrested, the bacteria growing as filaments up to 300 times their normal length. The octahedral Pt(IV) complex cis PtCl4(NH3)2, but not the trans isomer, was found to be effective at forcing filamentous growth of E. coli cells. The square planar Pt(II) complex, cis PtCl2(NH3)2 turned out to be even more effective at forcing filamentous growth. This finding led to the observation that cis PtCl2(NH3)2 was indeed highly effective at regressing the mass of sarcomas in rats. Confirmation of this discovery, and extension of testing to other tumour cell lines launched the medicinal applications of cisplatin. Cisplatin was approved for use in testicular and ovarian cancers by the U.S. Food and Drug Administration on 19 December 1978. 
+
+== Mechanism of action ==
+Following administration, one of the chloride ligands is slowly displaced by water (an aqua ligand), in a process termed aquation. The aqua ligand in the resulting + is itself easily displaced, allowing the platinum atom to bind to bases. Of the bases on DNA, guanine is preferred. Subsequent to formation of +, crosslinking can occur via displacement of the other chloride ligand, typically by another guanine. Cisplatin crosslinks DNA in several different ways, interfering with cell division by mitosis. The damaged DNA elicits DNA repair mechanisms, which in turn activate apoptosis when repair proves impossible. In 2008, researchers were able to show that the apoptosis induced by cisplatin on human colon cancer cells depends on the mitochondrial serine-protease Omi/Htra2. Since this was only demonstrated for colon carcinoma cells, it remains an open question if the Omi/Htra2 protein participates in the cisplatin-induced apoptosis in carcinomas from other tissues.
+
+Most notable among the changes in DNA are the 1,2-intrastrand cross-links with purine bases. These include 1,2-intrastrand d(GpG) adducts which form nearly 90% of the adducts and the less common 1,2-intrastrand d(ApG) adducts. 1,3-intrastrand d(GpXpG) adducts occur but are readily excised by the nucleotide excision repair (NER). Other adducts include inter-strand crosslinks and nonfunctional adducts that have been postulated to contribute to cisplatin's activity. Interaction with cellular proteins, particularly HMG domain proteins, has also been advanced as a mechanism of interfering with mitosis, although this is probably not its primary method of action.
+
+Note that although cisplatin is frequently designated as an alkylating agent, it has no alkyl group and so cannot carry out alkylating reactions. It is correctly classified as alkylating-like.
+
+=== Cisplatin resistance ===
+Cisplatin combination chemotherapy is the cornerstone of treatment of many cancers. Initial platinum responsiveness is high but the majority of cancer patients will eventually relapse with cisplatin-resistant disease. Many mechanisms of cisplatin resistance have been proposed including changes in cellular uptake and efflux of the drug, increased detoxification of the drug, inhibition of apoptosis and increased DNA repair. Oxaliplatin is active in highly cisplatin-resistant cancer cells in the laboratory; however, there is little evidence for its activity in the clinical treatment of patients with cisplatin-resistant cancer. The drug paclitaxel may be useful in the treatment of cisplatin-resistant cancer; the mechanism for this activity is unknown. 
+
+===Transplatin===
+Transplatin, the trans stereoisomer of cisplatin, has formula trans- and does not exhibit a comparably useful pharmacological effect. Its low activity is generally thought to be due to rapid deactivation of the drug before it can arrive at the DNA. It is toxic, and it is desirable to test batches of cis-platin for the absence of the trans isomer. In a procedure by Woollins et al., which is based on the classic 'Kurnakov test', thiourea reacts with the sample to give derivatives which can easily be separated and detected by HPLC. 
+
+==Side effects==
+Cisplatin has a number of side-effects that can limit its use:
+* Nephrotoxicity (kidney damage) is a major concern. The dose is reduced when the patient's creatinine clearance (a measure of renal function) is reduced. Adequate hydration and diuresis is used to prevent renal damage. The nephrotoxicity of platinum-class drugs seems to be related to reactive oxygen species and in animal models can be ameliorated by free radical scavenging agents (e.g., amifostine). Nephrotoxicity is a dose-limiting side effect. 
+* Neurotoxicity (nerve damage) can be anticipated by performing nerve conduction studies before and after treatment. Common neurological side effects of Cisplatin include visual perception and hearing disorder, which can occur soon after treatment begins. Milosavlievic, N., Duranton, C., Djerbi, N., Puech, P., Gounon, P., Lagadic-Gossmann, D.,…Poet, M. (2010). Nongenomic effects of cisplatin: Acute inhibition of mechanosensitive transporters and channels without actin remodeling. Molecular and Cellular Pathobiology, 70(19), 7514-7522. doi: 10.1158/0008-5472.CAN-10-1253 CNRS (Délégation Paris Michel-Ange) (2010, 5 October). Elucidating side effects of antineoplastic agent. ScienceDaily. Retrieved 7 May 2013, from http://www.sciencedaily.com­ /releases/2010/10/101005141117.htm While triggering apoptosis through interfering with DNA replication remains the primary mechanism of Cisplatin, this has not been found to contribute to neurological side effects. Recent studies have shown that Cisplatin noncompetitively inhibits an archetypal, membrane-bound mechanosensitive sodium-hydrogen ion transporter known as NHE-1. It is primarily found on cells of the peripheral nervous system, which are aggregated in large numbers near the ocular and aural stimuli-receiving centers. This noncompetitive interaction has been linked to hydroelectrolytic imbalances and cytoskeleton alterations, both of which have been confirmed in vitro and in vivo. However, NHE-1 inhibition has been found to be both dose-dependent (half-inhibition = 30 µg/mL) and reversible. 
+* Nausea and vomiting: cisplatin is one of the most emetogenic chemotherapy agents, but this symptom is managed with prophylactic antiemetics (ondansetron, granisetron, etc.) in combination with corticosteroids. Aprepitant combined with ondansetron and dexamethasone has been shown to be better for highly emetogenic chemotherapy than just ondansetron and dexamethasone.
+* Ototoxicity (hearing loss): there is at present no effective treatment to prevent this side effect, which may be severe. Audiometric analysis may be necessary to assess the severity of ototoxicity. Other drugs (such as the aminoglycoside antibiotic class) may also cause ototoxicity, and the administration of this class of antibiotics in patients receiving cisplatin is generally avoided. The ototoxicity of both the aminoglycosides and cisplatin may be related to their ability to bind to melanin in the stria vascularis of the inner ear or the generation of reactive oxygen species.
+* Electrolyte disturbance: Cisplatin can cause hypomagnesaemia, hypokalaemia and hypocalcaemia. The hypocalcaemia seems to occur in those with low serum magnesium secondary to cisplatin, so it is not primarily due to the Cisplatin.
+* Myelotoxicity: This agent can also cause profound bone marrow suppression. 
+* Hemolytic anemia can be developed after several courses of cisplatin. It is suggested that an antibody reacting with a cisplatin-red-cell membrane is responsible for hemolysis. 
+
+Approved for clinical use by the United States Food and Drug Administration (FDA) in 1978, it revolutionized the treatment of certain cancers. Detailed studies on its molecular mechanism of action, using a variety of spectroscopic methods including X-ray, NMR spectroscopy, and other physico-chemical methods, revealed its ability to form irreversible crosslinks with bases in DNA.
+
+==See also==
+*Carboplatin
+*Spiroplatin
+
+==References==
+
+==External links==
+* Cisplatin: The Invention of an Anticancer Drug by Andri Smith
+* Anti-cancer Agents: A treatment of Cisplatin and their analogues by Sia M. Liu (excellent detailed overview)
+* MedlinePlus page on cisplatin
+* IARC Monograph: "Cisplatin"
+* Cisplatinum at The Periodic Table of Videos (University of Nottingham)
+
+

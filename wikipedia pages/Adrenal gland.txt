@@ -1,0 +1,98 @@
+[[Adrenal gland]]
+
+In mammals, the adrenal glands (also known as suprarenal glands) are endocrine glands that sit at the top of the kidneys. They are chiefly responsible for releasing hormones in response to stress through the synthesis of corticosteroids such as cortisol and catecholamines such as adrenaline (epinephrine) and noradrenaline. They also produce androgens in their innermost cortical layer. The adrenal glands affect kidney function through the secretion of aldosterone, and recent data (1998) suggest that adrenocortical cells under pathological as well as under physiological conditions show neuroendocrine properties; within normal adrenal glands, this neuroendocrine differentiation seems to be restricted to cells of the zona glomerulosa and might be important for an autocrine regulation of adrenocortical function. 
+
+==Structure==
+The adrenal glands are located bilaterally in the retroperitoneum superior and slightly medial to the kidneys. In humans, the right adrenal gland is triangular in shape, whereas the left adrenal gland is semilunar in shape; in non-humans, they are quadrilateral in shape. The combined weight of the adrenal glands in an adult human ranges from 7 to 10 grams. Page 18 in: They are surrounded by an adipose capsule and renal fascia.
+
+Each adrenal gland has two distinct structures, the outer adrenal cortex and the inner medulla, both of which produce hormones. The cortex mainly produces cortisol, aldosterone and androgens, while the medulla chiefly produces adrenaline and noradrenaline. In contrast to the direct innervation of the medulla, the cortex is regulated by neuroendocrine hormones secreted from the pituitary gland which are under the control of the hypothalamus, as well as by the renin-angiotensin system.
+
+===Cortex===
+
+The adrenal cortex is devoted to production of corticosteroid and androgen hormones. Specific cortical cells produce particular hormones including aldosterone, cortisol, and androgens such as androstenedione. Under normal unstressed conditions, the human adrenal glands produce the equivalent of 35–40 mg of cortisone acetate per day. 
+
+The adrenal cortex comprises three zones, or layers. This anatomic zonation can be appreciated at the microscopic level, where each zone can be recognized and distinguished from one another based on structural and anatomic characteristics. The adrenal cortex exhibits functional zonation as well: by virtue of the characteristic enzymes present in each zone, the zones produce and secrete distinct hormones. 
+
+====Zona glomerulosa====
+The outermost layer, the zona glomerulosa is the main site for production of aldosterone, a mineralocorticoid, by the action of the enzyme aldosterone synthase (also known as CYP11B2). Aldosterone is largely responsible for the long-term regulation of blood pressure. Marieb Human Anatomy & Physiology 9th edition, chapter:16, page:629, question number:14 
+
+:The expression of neuron-specific proteins in the zona glomerulosa cells of human adrenocortical tissues has been predicted and reported by several authors and it was suggested that the expression of proteins like the neuronal cell adhesion molecule (NCAM) in the cells of the zona glomerulosa reflects the regenerative feature of these cells, which would lose NCAM immunoreactivity after moving to the zona fasciculata. However, together with other data on neuroendocrine properties of zona glomerulosa cells, NCAM expression may reflect a neuroendocrine differentiation of these cells. Paraffin sections of human adrenals immunostained for neuronal cell adhesion molecule (NCAM). Immunohistochemistry was carried out using 4-amino-9-ethylcarbazole(AEC; Dinanova, Hamburg, Germnay) and were counterstained with hematoxylin. Staining for NCAM was restricted to the zona glomerulosa (zg) and the adrenal medulla (m); a: x 20; b: x 200. .
+
+====Zona fasciculata====
+Situated between the glomerulosa and reticularis, the zona fasciculata is responsible for producing glucocorticoids, such as 11-deoxycorticosterone, corticosterone, and cortisol in humans. 
+
+====Zona reticularis====
+The inner most cortical layer, the zona reticularis produces androgens, mainly dehydroepiandrosterone (DHEA), DHEA sulfate (DHEA-S), and androstenedione (the precursor to testosterone) in humans. 
+
+===Medulla===
+
+The adrenal medulla is the core of the adrenal gland, and is surrounded by the adrenal cortex. It secretes approximately 20% noradrenaline (norepinephrine) and 80% adrenaline (epinephrine). The chromaffin cells of the medulla, named for their characteristic brown staining with chromic acid salts, are the body's main source of the circulating catecholamines adrenaline and noradrenaline. Catecholamines are derived from the amino acid tyrosine and these water-soluble hormones are the major hormones underlying the fight-or-flight response.
+
+To carry out its part of this response, the adrenal medulla receives input from the sympathetic nervous system through preganglionic fibers originating in the thoracic spinal cord from T5–T11. Because it is innervated by preganglionic nerve fibers, the adrenal medulla can be considered as a specialized sympathetic ganglion. Unlike other sympathetic ganglia, however, the adrenal medulla lacks distinct synapses and releases its secretions directly into the blood.
+
+Cortisol also promotes adrenaline synthesis in the medulla. Produced in the cortex, cortisol reaches the adrenal medulla and at high levels, the hormone can promote the upregulation of phenylethanolamine N-methyltransferase (PNMT), thereby increasing adrenaline synthesis and secretion. 
+
+===Blood supply===
+Although variations of the blood supply to the adrenal glands (and indeed the kidneys themselves) are common, there are usually three arteries that supply each adrenal gland:
+* The superior suprarenal artery is provided by the inferior phrenic artery
+* The middle suprarenal artery is provided by the abdominal aorta
+* The inferior suprarenal artery is provided by the renal artery
+
+Venous drainage of the adrenal glands is achieved via the suprarenal veins:
+* The right suprarenal vein drains into the inferior vena cava
+* The left suprarenal vein drains into the left renal vein or the left inferior phrenic vein.
+
+The suprarenal veins may form anastomoses with the inferior phrenic veins. Since the right supra-renal vein is short and drains directly into the inferior vena cava it is likely to injure the latter during removal of right adrenal for various reasons.
+
+The adrenal glands and the thyroid gland are the organs that have the greatest blood supply per gram of tissue. Up to 60 arterioles may enter each adrenal gland. This may be one of the reasons lung cancer commonly metastasizes to the adrenals.
+
+==Function==
+The adrenal gland secretes a number of different hormones which are metabolised by enzymes either within the gland or in other parts of the body. These hormones are involved in a number of different pathways. 
+
+===Aldosterone and mineralocorticoids===
+Aldosterone's effects are on the distal convoluted tubule and collecting duct of the kidney where it causes increased reabsorption of sodium and increased excretion of both potassium (by principal cells) and hydrogen ions (by intercalated cells of the collecting duct). Sodium retention is also a response of the distal colon, and sweat glands to aldosterone receptor stimulation. Although sustained production of aldosterone requires persistent calcium entry through low-voltage activated Ca2+ channels, isolated zona glomerulosa cells are considered nonexcitable, with recorded membrane voltages that are too hyperpolarized to permit Ca2+ channels entry. However, mouse zona glomerulosa cells within adrenal slices spontaneously generate membrane potential oscillations of low periodicity; this innate electrical excitability of zona glomerulosa cells provides a platform for the production of a recurrent Ca2+ channels signal that can be controlled by angiotensin II and extracellular potassium, the 2 major regulators of aldosterone production. Angiotensin II originates from plasmatic angiotensin I after the conversion of angiotensinogen by renin produced by the juxtaglomerular cells of the kidney. 
+
+===Cortisol and glucocorticoids===
+Cortisol is the main glucocorticoid under normal conditions and its actions include mobilization of fats, proteins, and carbohydrates, but it does not increase under starvation conditions. Additionally, cortisol enhances the activity of other hormones including glucagon and catecholamines. The zona fasciculata secretes a basal level of cortisol but can also produce bursts of the hormone in response to adrenocorticotropic hormone (ACTH) from the anterior pituitary.
+
+===Androgen production===
+
+===Adrenaline and noradrenaline===
+The adrenal glands are responsible for the majority of circulating adrenaline in the body, but only a small amount of circulating noradrenaline. These substances are released in the adrenal medulla, which is richly vascular. Under the influence of cortisol, the medulla releases adrenaline. The medulla can be considered an extension of the sympathetic nervous system which releases adrenaline into the blood stream rather than into a synapse as a neurotransmitter. Adrenaline and noradrenaline are catecholamines that act at adrenoreceptors throughout the body, with effects including constriction of small arteries, dilation of veins, and increasing the heart rate. 
+
+==Clinical significance==
+* Several adrenal tumors cause symptoms because they result in the over- or underproduction of certain hormones by the adrenal gland.
+* In hyperaldosteronism the adrenal glands produce too much aldosterone.
+* In pheochromocytoma the adrenal glands secretes excessive amounts of catecholamines.
+* In endogenous Cushing's syndrome the adrenal glands produce too much cortisol.
+* Adrenal insufficiency denotes a group of diseases characterized by underproduction of cortisol or aldosterone. They can be caused by problems in the adrenal glands themselves, or by impairment of the pituitary gland or hypothalamus. The ACTH stimulation test may assist in diagnosis.
+** Addison's disease is a rare disorder in which the adrenal glands do not produce sufficient amounts of glucocorticoids (mainly cortisol). This can be caused by an autoimmune reaction, by certain infections or by some other rarer causes.
+** Congenital adrenal hyperplasias are genetic defects of enzymes involved in cortisol production and can affect sex characteristics of affected patients.
+** Waterhouse–Friderichsen syndrome is adrenal gland failure due to bleeding into the adrenal glands, caused by severe bacterial infection.
+* Isolated hypoaldosteronism can rarely occur due to aldosterone synthase deficiency
+* Absent adrenal gland, rare congenital condition
+
+==History==
+===Etymology===
+The adrenal glands are named for their location relative to the kidneys. The term "adrenal" comes from ad- (Latin, "near") and renes (Latin, "kidney"). Similarly, "suprarenal" is derived from supra- (Latin, "above") and renes.
+
+==See also==
+
+* Addison disease
+* Adrenocorticotropic hormone
+* Cushing’s syndrome
+* Pheochromocytoma
+
+==References==
+
+==External links==
+
+* 
+* 
+* - "Adrenal Gland"
+* 
+* - "Posterior Abdominal Wall: The Retroperitoneal Fat and Suprarenal Glands"
+* Adrenal Gland, from Colorado State University
+* 
+
+

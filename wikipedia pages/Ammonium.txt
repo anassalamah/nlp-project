@@ -1,0 +1,63 @@
+[[Ammonium]]
+
+The ammonium cation is a positively charged polyatomic ion with the chemical formula NH4+. In the substitutive nomenclature, NH4+ is denoted by the name "azanium". It is formed by the protonation of ammonia (NH3). Ammonium is also a general name for positively charged or protonated substituted amines and quaternary ammonium cations (NR4+), where one or more hydrogen atoms are replaced by organic radical groups (indicated by R).
+
+==Acid base properties==
+Fumes from hydrochloric acid and ammonia forming a white cloud of ammonium chloride.
+
+The ammonium ion is generated when ammonia, a weak base, reacts with Brønsted acids (proton donors):
+:H+ + NH3 → NH4+
+The acid dissociation constant (pKa) of NH4+ is 9.25.
+
+The ammonium ion is mildly acidic, reacting with Brønsted bases to return to the uncharged ammonia molecule:
+:NH4+ + B− → HB + NH3
+Thus, treatment of concentrated solutions of ammonium salts with strong base gives ammonia. When ammonia is dissolved in water, a tiny amount of it converts to ammonium ions:
+:H3O+ + NH3 H2O + NH4+
+
+The degree to which ammonia forms the ammonium ion depends on the pH of the solution. If the pH is low, the equilibrium shifts to the right: more ammonia molecules are converted into ammonium ions. If the pH is high (the concentration of hydrogen ions is low), the equilibrium shifts to the left: the hydroxide ion abstracts a proton from the ammonium ion, generating ammonia.
+
+Formation of ammonium compounds can also occur in the vapor phase; for example, when ammonia vapor comes in contact with hydrogen chloride vapor, a white cloud of ammonium chloride forms, which eventually settles out as a solid in a thin white layer on surfaces.
+
+The conversion of ammonium back to ammonia is easily accomplished by the addition of a strong base.
+
+==Ammonium salts==
+Formation of ammonium
+Ammonium cation is found in a variety of salts such as ammonium carbonate, ammonium chloride, and ammonium nitrate. Most simple ammonium salts are very soluble in water. An exception is ammonium hexachloroplatinate, the formation of which was once used as a test for ammonium. The ammonium salts of nitrate and especially perchlorate are highly explosive, in these cases ammonium is the reducing agent.
+
+In an unusual process, ammonium ions form an amalgam. Such species are prepared by the electrolysis of an ammonium solution using a mercury cathode. Pseudo-binary compounds This amalgam eventually decomposes to release ammonia and hydrogen. 
+
+==Structure and bonding==
+The lone electron pair on the nitrogen atom (N) in ammonia, represented as a pair of dots, forms the bond with a proton (H+). Thereafter, all four N-H bonds are equivalent, being polar covalent bonds. The ion is isoelectronic with methane and borohydride. In terms of size, the ammonium cation (rionic = 175 pm) resembles the caesium cation (rionic = 183 pm).
+
+==Organic ammonium ions==
+
+The hydrogen atoms in the ammonium ion can be substituted with an alkyl group or some other organic group to form a substituted ammonium ion (IUPAC nomenclature": aminium ion). Depending on the number of organic groups, the ammonium cation is called a primary, secondary, tertiary, or quaternary. With the exception of the quaternary ammonium cations, the organic ammonium cations are weak acids.
+
+An example of a reaction forming an ammonium ion is that between dimethylamine, (CH3)2NH, and an acid, to give the dimethylaminium cation, (CH3)2NH:
+
+:400px
+
+Quaternary ammonium cations have four organic groups attached to the nitrogen atom. They lack a hydrogen atom bonded to the nitrogen atom. These cations, such as the tetra-n-butylammonium cation, are sometimes used to replace sodium or potassium ions to increase the solubility of the associated anion in organic solvents. Primary, secondary, and tertiary ammonium salts serve the same function, but are less lipophilic. They are also used as phase-transfer catalysts and surfactants.
+
+==Biology==
+
+Ammonium ions are a waste product of the metabolism of animals. In fish and aquatic invertebrates, it is excreted directly into the water. In mammals, sharks, and amphibians, it is converted in the urea cycle to urea, because urea is less toxic and can be stored more efficiently. In birds, reptiles, and terrestrial snails, metabolic ammonium is converted into uric acid, which is solid and can therefore be excreted with minimal water loss. 
+
+Ammonium is an important source of nitrogen for many plant species, especially those growing on hypoxic soils. However, it is also toxic to most crop species and is rarely applied as a sole nitrogen source. 
+
+==Ammonium metal==
+The ammonium ion has very similar properties to the heavier alkali metals and is often considered a close relative. Ammonium is expected to behave as a metal (NH ions in a sea of electrons) at very high pressures, such as inside gas giant planets such as Uranus and Neptune. 
+
+==See also==
+
+*Ammonium transporter
+*f-ratio
+*Hydronium (H3O+)
+*Iminium
+*Nitrification
+*Onium compounds
+
+==References==
+
+*
+

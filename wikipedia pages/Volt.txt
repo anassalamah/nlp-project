@@ -1,0 +1,73 @@
+[[Volt]]
+
+The volt (symbol: V) is the derived unit for electric potential, electric potential difference (voltage), and electromotive force. The volt is named in honour of the Italian physicist Alessandro Volta (1745&ndash;1827), who invented the voltaic pile, possibly the first chemical battery.
+
+== Definition ==
+One volt is defined as the difference in electric potential between two points of a conducting wire when an electric current of one ampere dissipates one watt of power between those points. BIPM SI Brochure: Appendix 1, p. 144 It is also equal to the potential difference between two parallel, infinite planes spaced 1 meter apart that create an electric field of 1 newton per coulomb. Additionally, it is the potential difference between two points that will impart one joule of energy per coulomb of charge that passes through it. It can be expressed in terms of SI base units (m, kg, s, and A) as:
+ 
+:
+
+It can also be expressed as amperes times ohms (current times resistance, Ohm's law), watts per ampere (power per unit current, Joule's law), or joules per coulomb (energy per unit charge):
+ 
+:
+
+=== Josephson junction definition ===
+The "conventional" volt, V90, defined 1988 by the 18th General Conference on Weights and Measures and in use from 1990, is calibrated using the Josephson effect for exact voltage-to-frequency conversion, combined with the cesium frequency standard. For the Josephson constant, KJ = 2e/h (where e is the elementary charge and h is the Planck constant), the "conventional" value KJ-90 is used:
+
+:
+
+This standard is typically realized using an array of several thousand or tens of thousands of junctions, excited by microwave signals between 10 and 80 GHz (depending on the array design). Empirically, several experiments have shown that the method is independent of device design, material, measurement setup, etc., and no correction terms are required in a practical implementation. 
+
+== Water flow analogy ==
+In the water flow analogy sometimes used to explain electric circuits by comparing them with water-filled pipes, voltage (difference in electric potential) is likened to difference in water pressure.
+
+The relationship between voltage and current is defined (in ohmic devices) by Ohm's Law.
+
+== Common voltages ==
+ A multimeter can be used to measure the voltage between two positions.
+
+1.5 V C-cell batteries
+
+Nominal voltages of familiar sources:
+* Nerve cell resting potential: around −75 mV Bullock, Orkand, and Grinnell, pp. 150–151; Junge, pp. 89–90; Schmidt-Nielsen, p. 484 
+* Single-cell, rechargeable NiMH or NiCd battery: 1.2 V
+* Single-cell, non-rechargeable (e.g., AAA, AA, C and D cells): alkaline battery: 1.5 V; zinc-carbon battery: 1.56 V if fresh and unused
+* LiFePO4 rechargeable battery: 3.3 V
+* Lithium polymer rechargeable battery: 3.75 V (see Rechargeable battery#Table of rechargeable battery technologies)
+* Transistor-transistor logic/CMOS (TTL) power supply: 5 V
+* USB: 5 V DC
+* PP3 battery: 9 V
+* Automobile electrical system: nominal 12 V, about 11.8 V discharged, 12.8 V charged, and 13.8–14.4 V while charging (vehicle running).
+* Household mains electricity: 230 V RMS in Europe, Asia and Africa, 120 V RMS in North America, 100 V RMS in Japan (see List of countries with mains power plugs, voltages and frequencies)
+* Trucks/lorries: 24 V DC (Europe), 12 V DC (North America)
+* Rapid transit third rail: 600–750 V (see List of current systems for electric rail traction)
+* High-speed train overhead power lines: 25 kV RMS at 50 Hz, but see the list of current systems for electric rail traction and 25 kV at 60 Hz for exceptions.
+* High-voltage electric power transmission lines: 110 kV RMS and up (1.15 MV RMS was the record as of 2005)
+* Lightning: Varies greatly, often around 100 MV.
+
+Note: Where RMS (root mean square) is stated above, the peak voltage is times greater than the RMS voltage for a sinusoidal signal centered around zero voltage.
+
+== History ==
+Alessandro Volta
+In 1800, as the result of a professional disagreement over the galvanic response advocated by Luigi Galvani, Alessandro Volta developed the so-called Voltaic pile, a forerunner of the battery, which produced a steady electric current. Volta had determined that the most effective pair of dissimilar metals to produce electricity is zinc and silver. In the 1880s, the International Electrical Congress, now the International Electrotechnical Commission (IEC), approved the volt as the unit for electromotive force. They made the volt equal to 108 cgs units of voltage, the cgs system at the time being the customary system of units in science. They chose such a ratio because the cgs unit of voltage is inconveniently small and one volt in this definition is approximately the emf of a Daniell cell, the standard source of voltage in the telegraph systems of the day. At that time, the volt was defined as the potential difference what is nowadays called the "voltage (difference)" across a conductor when a current of one ampere dissipates one watt of power.
+
+The international volt was defined in 1893 as 1/1.434 of the emf of a Clark cell. This definition was abandoned in 1908 in favor of a definition based on the international ohm and international ampere until the entire set of "reproducible units" was abandoned in 1948.
+
+Prior to the development of the Josephson junction voltage standard, the volt was maintained in national laboratories using specially constructed batteries called standard cells. The United States used a design called the Weston cell from 1905 to 1972.
+
+== See also ==
+
+* Rail traction voltage
+* Orders of magnitude (voltage)
+* SI electromagnetism units
+* SI prefix for unit prefixes
+* Standardised railway voltages
+* Voltmeter
+
+== Notes and references ==
+
+== External links ==
+
+* History of the electrical units.
+
+

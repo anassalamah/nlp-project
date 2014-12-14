@@ -1,0 +1,133 @@
+[[Tuba]]
+
+The tuba is the largest and lowest-pitched brass instrument. Sound is produced by vibrating or "buzzing" the lips into a large cupped mouthpiece. It first appeared in the mid 19th-century, making it one of the newest instruments in the modern orchestra and concert band. The tuba largely replaced the ophicleide. Tuba is Latin for Pipe. The horn referred to would most likely resemble what is known as a baroque trumpet.
+
+A person who plays the tuba is known as a tubaist or tubist. In the United Kingdom a person who plays the tuba in an orchestra is known simply as a tuba player; in a brass band or military band they are known as a bass player.
+
+==History==
+Prussian Patent No. 19 was granted to Wilhelm Friedrich Wieprecht and Johann Gottfried Moritz (1777–1840) VIENNA SYMPHONIC LIBRARY > VIENNA ACADEMY > Brass > Tubas > Bass tuba > HISTORY on September 12, 1835 for a "basstuba" in F1. The original Wieprecht and Moritz instrument used five valves of the Berlinerpumpen type that were the forerunners of the modern piston valve. The first tenor tuba was invented in 1838 by Carl Wilhelm Moritz (1810–1855), son of Johann Gottfried Moritz.
+
+The addition of valves made it possible to play low in the harmonic series of the instrument and still have a complete selection of notes. Prior to the invention of valves, brass instruments were limited to notes in the harmonic series, and were thus generally played very high with respect to their fundamental pitch. Harmonics starting three octaves above the fundamental pitch are about a whole step apart, making a useful variety of notes possible.
+
+The ophicleide used a bowl-shaped brass instrument mouthpiece but employed keys and tone holes similar to those of a modern saxophone. Another forerunner to the tuba was the serpent, a bass instrument that was shaped in a wavy form to make the tone holes accessible to the player. Tone holes changed the pitch by providing an intentional leak in the bugle of the instrument. While this changed the pitch, it also had a pronounced effect on the timbre. By using valves to adjust the length of the bugle the tuba produced a smoother tone that eventually led to its popularity.
+
+Adolphe Sax, like Wieprecht, was interested in marketing systems of instruments from soprano to bass, and developed a series of brass instruments known as saxhorns. The instruments developed by Sax were generally pitched in E and B, while the Wieprecht "basstuba" and the subsequent Cerveny contrabass tuba were pitched in F and C (see below on pitch systems). Sax's instruments gained dominance in France, and later in Britain and America, as a result of the popularity and movements of instrument makers such as Gustave Auguste Besson (who moved from France to Britain) and Henry Distin (who eventually found his way to America). Clifford Bevan, The Tuba Family, Scriveners, 1978. 
+
+==Roles==
+An orchestra usually has a single tuba, though an additional tuba may be asked for. It is the principal bass instrument in concert bands and military bands, and those ensembles generally have more. It serves as the bass of the brass section and of brass quintets and choirs (though many small brass ensembles will use the euphonium or bass trombone as the lowest voice), as well as reinforcement for the bass voices of the strings and woodwinds, and as a solo instrument.
+
+Well known and influential parts for the tuba include:
+* Modest Mussorgsky (orch. Ravel): Pictures at an Exhibition - Bydło, Night On Bald Mountain
+* Richard Strauss: Also sprach Zarathustra, Eine Alpensinfonie, Til Eulenspiegel
+* Shostakovich: All Symphonies, except for the Fourteenth symphony
+* Stravinsky: The Rite of Spring, Petroushka
+* Edgard Varèse: Déserts
+* Richard Wagner: Die Meistersinger von Nürnberg, Lohengrin, Ride of the Valkyries, Faust Overture
+* Sergei Prokofiev: Fifth Symphony
+* George Gershwin: An American in Paris
+* Silvestre Revueltas: Sensemayá, Noche de los mayas, Homenaje a Federico García Lorca
+* Gustav Holst: The Planets
+*Gustav Mahler: First Symphony, Second Symphony, Fifth Symphony, Sixth Symphony, Eighth Symphony
+* Ottorino Respighi: Pini di Roma
+* Hector Berlioz: Symphonie fantastique, Hungarian March
+* Paul Hindemith: Symphonic Metamorphosis
+
+Concertos have been written for the tuba by many notable composers, including Ralph Vaughan Williams, Edward Gregson, John Williams, Alexander Arutiunian, Eric Ewazen, James Barnes, Joseph Hallman, Martin Ellerby, Philip Sparke, Kalevi Aho, Arild Plau, Simon Proctor, James Woodward, Victor Davies, Josef Tal and Bruce Broughton.
+
+Tubas are also used in marching bands, drum and bugle corps, and in many jazz bands (see below). In British style brass bands, both E and B tubas are used and are normally referred to as basses.
+
+==Types and construction==
+Tuba section in a British style brass band
+
+Tubas are found in various pitches, most commonly in F, E, C, or B. The main tube of a B tuba is approximately 18 feet long, while that of a C tuba is 16 feet, of an E tuba 13 feet, and of an F tuba 12 feet. The instrument has a conical bore, meaning the bore diameter increases as a function of the tubing length from the mouthpiece to the bell. The conical bore causes the instrument to produce a preponderance of even-order harmonics.
+
+A tuba with its tubing wrapped for placing the instrument on the player's lap is usually called a concert tuba or simply a tuba. Tubas with the bell pointing forward (pavillon tournant) instead of upward are often called recording tubas because of their popularity in the early days of recorded music, as their sound could more easily be directed at the recording instrument. When wrapped to surround the body for marching, it is traditionally known as a hélicon. The modern sousaphone, named after American bandmaster John Philip Sousa, resembles a hélicon with the bell pointed up and then curved to point forward. Some ancestors of the tuba, such as the military bombardon, had unusual valve and bore arrangements compared to modern tubas. During the American Civil War, most brass bands used a branch of the brass family known as saxhorns, which, by today's standards, have a narrower bore taper than tuba—the same as true cornets and baritones, but distinct from trumpets, euphoniums, and others with different tapers or no taper. Around the start of the Civil War, saxhorns manufactured for military use in the USA were commonly wrapped with the bell pointing backwards over the player's shoulder, and these were known as over-the-shoulder saxhorns, and came in sizes from cornets down to E basses. However, the E bass, even though it shared the same tube length as a modern E tuba, has a narrower bore and as such cannot be called by the name 'tuba' except as a convenience when comparing it to other sizes of Saxhorn.
+
+Most music for the tuba is written in bass clef in concert pitch, so tuba players must know the correct fingerings for their specific instrument. Traditional British-style brass band parts for the tuba are usually written in treble clef, with the B tuba sounding two octaves and one step below and the E tuba sounding one octave and a major sixth below the written pitch. This allows musicians to change instruments without learning new fingerings for the same written music. Consequently, when its music is written in treble clef, the tuba is a transposing instrument, but not when the music is in bass clef.
+
+The lowest pitched tubas are the contrabass tubas, pitched in C or B, referred to as CC and BB tubas respectively, based on a traditional distortion of a now-obsolete octave naming convention. The fundamental pitch of a CC tuba is 32 Hz, and for a BB tuba, 29 Hz. The CC tuba is used as an orchestral instrument in the U.S., but BB tubas are the contrabass tuba of choice in German, Austrian, and Russian orchestras. In the United States the BB tuba is the most common in schools (largely due to the use of BB sousaphones in high school marching bands) and for adult amateurs. Most professionals in the U.S. play CC tubas, with BB also common, and many train in the use of all four pitches of tubas.
+
+Comparison of euphonium (left) and tuba (right)
+
+The next smaller tubas are the bass tubas, pitched in F or E (a fourth above the contrabass tubas). The E tuba often plays an octave above the contrabass tubas in brass bands, and the F tuba is commonly used by professional players as a solo instrument and, in America, to play higher parts in the classical repertoire (or parts that were originally written for the F tuba, as is the case with Berlioz). In most of Europe, the F tuba is the standard orchestral instrument, supplemented by the CC or BB only when the extra weight is desired. Wagner, for example, specifically notates the low tuba parts for Kontrabasstuba, which are played on CC or BB tubas in most regions. In the United Kingdom, the E is the standard orchestral tuba.
+
+The euphonium is sometimes referred to as a tenor tuba and is pitched in B, one octave higher than the BB contrabass tuba. The term "tenor tuba" is often used more specifically to refer to B rotary-valved tubas pitched in the same octave as euphoniums. The "Small Swiss Tuba in C" is a tenor tuba pitched in C, and provided with 6 valves to make the lower notes in the orchestral repertoire possible. The French C tuba was the standard instrument in French orchestras until overtaken by F and C tubas since the Second World War. One popular example of the use of the French C tuba is the Bydło movement in Ravel's orchestration of Mussorgsky's Pictures at an Exhibition, though the rest of the work is scored for this instrument as well.
+
+Larger BBB subcontrabass tubas exist, but are extremely rare (there are at least four known examples). The first two were built by the Gustav Besson in BBB, one octave below the BB Contrabass tuba, on the suggestion of John Philip Sousa. The monster instruments were not completed until just after Sousa's death. Later, in the 1950s, British musician Gerard Hoffnung commissioned the London firm of Paxman to create a subcontrabass tuba in EEE for use in his comedic music festivals. Also, a tuba pitched in FFF was made in Kraslice by Bohland & Fuchs probably during 1910 or 1911 and was destined for the World Exhibition in New York in 1913. Two players are needed; one to operate the valves and one to blow into the mouthpiece.
+
+===Size vs. pitch===
+In addition to the length of the instrument, which dictates the fundamental pitch, tubas also vary in overall width of the tubing sections. Tuba sizes are usually denoted by a quarter system, with 4/4 designating a normal, full-size tuba. Larger rotary instruments are known as kaisertubas and are often denoted 5/4. Larger piston tubas, particularly those with front action, are sometimes known as grand orchestral tubas (examples: The Conn 36J Orchestra Grand Bass from the 1930s, and the current model Hirsbrunner HB-50 Grand Orchestral, which is a replica of the large York tubas owned by the Chicago Symphony Orchestra). Grand orchestral tubas are generally described as 6/4 tubas. Smaller instruments may be described as 3/4 instruments. No standards exist for these designations, and their use is up to manufacturers who usually use them to distinguish among the instruments in their own product line. The size designation is related to the larger outer branches, and not to the bore of the tubing at the valves, though the bore is usually reported in instrument specifications. The quarter system is also not related to bell size, at least across manufacturers. The largest tuba is the contrabass tuba (Besson) and is the lowest.
+
+===Valves===
+Tubas are made with either piston or rotary valves. Rotary valves, invented by Joseph Riedl, are based on a design included in the original valve patents by Friedrich Blühmel and Heinrich Stölzel in 1818. Červeny of Graslitz was the first to use true rotary valves, starting in the 1840s or 1850s. Modern piston valves were developed by François Périnet for the saxhorn family of instruments promoted by Adolphe Sax around the same time. Pistons may either be oriented to point to the top of the instrument (top-action, as pictured in the figure at the top of the article) or out the front of the instrument (front-action or side-action). There are advantages and disadvantages to each valve style, but assertions concerning sound, speed, and clarity are difficult to quantify. German players generally prefer rotary valves while British and American players favor piston valves — the choice of valve type remains up to the performer.
+
+Piston valves require more maintenance than rotary valves — they require daily oiling to keep them freely operating, while rotary valves are sealed and seldom require oiling. Piston valves are easy to disassemble and re-assemble, while rotary valve disassembly and re-assembly is much more difficult and is generally left to qualified instrument repair persons.
+
+Tubas generally have from three to six valves, though some rare exceptions exist. Three-valve tubas are generally the least expensive and are almost exclusively used by beginners and amateurs, and the sousaphone (a marching version of a BB tuba) almost always has three valves. Among advanced players, four and five valve tubas are by far the most common choices, with six-valve tubas being relatively rare except among F tubas, which mostly have five or six valves.
+
+Tuba with four rotary valves
+
+The valves add tubing to the main tube of the instrument, thus lowering its fundamental pitch. The first valve lowers the pitch by a whole step (two semitones), the second valve by a semitone, and the third valve by three semitones. Used in combination, the valves are too short and the resulting pitch tends to be sharp. For example, a BB tuba becomes (in effect) an A tuba when the first valve is depressed. The third valve is long enough to lower the pitch of a BB tuba by three semitones, but it is not long enough to lower the pitch of an A tuba by three semitones. Thus, the first and third valves used in combination lower the pitch by something just short of five semitones, and the first three valves used in combination are nearly a quarter tone sharp.
+
+The fourth valve is used in place of combinations of the first and third valves, and the second and fourth used in combination are used in place of the first three valves in combination. The fourth valve can be tuned to lower the pitch of the main tube accurately by five semitones, and thus its use corrects the main problem of combinations being too sharp. By using the fourth valve by itself to replace the first and third combination, or the fourth and second valves in place of the first, second and third valve combinations, the notes requiring these fingerings are more in tune.
+
+The fifth and sixth valves are used to provide alternative fingering possibilities to improve intonation, and are also used to reach into the low register of the instrument where all the valves will be used in combination to fill the first octave between the fundamental pitch and the next available note on the open tube. The fifth and sixth valves also give the musician the ability to trill more smoothly or to use alternative fingerings for ease of playing.
+
+The bass tuba in F is pitched a fifth above the BB tuba and a fourth above the CC tuba, so it needs additional tubing length beyond that provided by four valves to play securely down to a low F as required in much tuba music. The fifth valve is commonly tuned to a flat whole step, so that when used with the fourth valve, it gives an in-tune low B. The sixth valve is commonly tuned as a flat half step, allowing the F tuba to play low G as 1-4-5-6 and low G as 1-2-4-5-6. In CC tubas with five valves, the fifth valve may be tuned as a flat whole step or as a minor third depending on the instrument.
+
+===Resonance and false tones===
+Some tubas have a strong and useful resonance that is not in the well-known harmonic series. For example, most large B tubas have a strong resonance at low E (E1, 39 Hz), which is between the fundamental and the second harmonic (an octave higher than the fundamental). These alternative resonances are often known as false tones or privileged tones. Adding the six semitones provided by the three valves, these alternative resonances let the instrument play chromatically down to the fundamental of the open bugle, (which is a 29 Hz B). The addition of valves below that note can lower the instrument a further six semitones to a 20 Hz E0. Thus, even three-valved instruments with good alternative resonances can produce very low sounds in the hands of skilled players; instruments with four valves can play even lower. The lowest note in the widely known repertoire is a 16 Hz double-pedal C in the William Kraft piece Encounters II, which is often played using a timed flutter tongue rather than by buzzing the lips. The fundamental of this pitch borders on infrasound and its overtones define the pitch in the listener's ear.
+
+The most convincing explanation for false-tones is that the horn is acting as a 'third of a pipe' rather than as a half-pipe. The bell remains an anti-node, but there would then be a node 1/3 of the way back to the mouthpiece. If so, it seems that the fundamental would be missing entirely, and would only be inferred from the overtones. However, the node and the anti-node collide in the same spot and cancel out the fundamental.
+
+Some tubas have a compensating system to allow accurate tuning when using several valves in combination, simplifying fingering and removing the need to constantly adjust slide positions. The most popular of the automatic compensation systems was invented by Blaikley (Bevan, 1978) and was patented by Boosey (later, Boosey and Hawkes, which also, later still, produced Besson instruments). The patent on the system limited its application outside of Britain, and to this day tubas with compensating valves are primarily popular in the United Kingdom and countries of the former British Empire. The Blaikley design plumbs the instrument so that if the fourth valve is used, the air is sent back through a second set of branches in the first three valves to compensate for the combination of valves. This does have the disadvantage of making the instrument significantly more 'stuffy' or resistant to air flow when compared to a non-compensating tuba. This is due to the need for the air to flow through the valves twice. It also makes the instrument heavier. But many prefer this approach to additional valves or to manipulation of tuning slides while playing to achieve improved intonation within an ensemble. Most modern professional-grade euphoniums now feature Blaikley-style compensating valves.
+
+===Materials and finish===
+
+The tuba is generally constructed of brass, which is either unfinished, lacquered or electro-plated with nickel, gold or silver. Unfinished brass will eventually tarnish and thus must be periodically polished to maintain its appearance.
+
+==Variations==
+Some tubas are capable of being converted into a marching style, known as "marching tubas". A leadpipe can be manually screwed on next to the valves. The tuba is then usually rested on the left shoulder (although some tubas allow use of the right shoulder), with the bell facing directly in front of the player. Some marching tubas are made only for marching, and cannot be converted into a concert model. Most marching bands opt for the sousaphone, an instrument that is easier to carry and almost always cheaper than a true marching tuba. The earlier Helicon is still used by bands in Europe and other parts of the world. Drum and bugle corps players, however, generally use marching tubas or Contrabass bugles. Standard tubas can also be played whilst standing, with the use of a strap joined to the tuba with two rings. The strap goes over the shoulder like a sash, so the musician can play the instrument in the same position as when sitting.
+
+==Jazz==
+"Kaiserbass" (tuba in B♭) and cornet
+
+The tuba has been used in jazz since the genre's inception. In the earliest years, bands often used a tuba for outdoor playing and a double bass for indoor performances. In this context, the tuba was sometimes called "brass bass", as opposed to the double bass(string bass). Many musicians played both instruments.
+
+In modern jazz, tubas usually fill the traditional bass role, though it is not uncommon for them to take solos. New Orleans style Brass Bands like the Dirty Dozen Brass Band and the Rebirth Brass Band use a sousaphone as the bass instrument. Bill Barber played tuba on several Miles Davis albums, including Birth of the Cool and Miles Ahead. New York City-based tubist Marcus Rojas performed frequently with Henry Threadgill.
+Some people use tubas in big bands which where used over the years. Players who play tubas in big bands are called ' jazz tubists '.
+
+==Notable tubists==
+
+==See also==
+
+*Brass instrument valves 
+*Contrabass bugle
+*Subcontrabass tuba
+*Euphonium
+*Helicon (instrument)
+
+*Roman tuba
+*Sousaphone
+*Tubachristmas (music event)
+*Wagner tuba
+
+==References==
+
+==External links==
+
+*The International Tuba-Euphonium Association.
+*Tuba News, a free monthly online publication for tuba and euphonium players.
+*International Tuba Day
+*Tubenet Sean Chisham's popular Tubenet discussion forum.
+*Brass-Forum.co.uk UK based brass discussion forum.
+*Brassmusic.Ru — Russian Brass Community
+*The Wagner tuba
+*Acoustics of Brass Instruments from Music Acoustics at the University of New South Wales.
+*Tuba/Sousaphone as blues instruments
+*More Thoughts on Tuba
+*Official site for the annual TubaChristmas concerts in the US, Victoria BC and Switzerland
+*The Four-Valve Compensating System
+*
+
+

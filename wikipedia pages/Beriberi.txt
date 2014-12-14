@@ -1,0 +1,161 @@
+[[Beriberi]]
+
+"Beri Beri" redirects here. For the African ethnic group, please see Kanuri people
+
+Beriberi refers to a cluster of symptoms caused primarily by a nutritional deficit in Vitamin B1 (thiamine). Beriberi has conventionally been divided into three separate entities, relating to the body system mainly involved (peripheral nervous system or cardiovascular) or age of patient (infantile). Beriberi is one of several thiamine-deficiency related conditions which may occur concurrently, including Wernicke's encephalopathy (when mainly affects the central nervous system), Korsakoff's syndrome (when it reaches psychiatric aspects), and Wernicke-Korsakoff syndrome (with both neurologic and psychiatric symptoms).
+
+Historically, Beriberi has been endemic in regions dependent on what is variously referred to as polished, white, or de-husked rice. This type of rice has its husk removed in order to extend its lifespan, but also has the unintended side-effect of removing the primary source of thiamine. 
+
+==Pathophysiology==
+Thiamine has a half-life of 18 days and is quickly exhausted, particularly when metabolic demands exceed intake. Thiamine is involved in a variety of glucose metabolism-related and neurological functions. After modification in the body to a diphosphate form, thiamine is involved in a vast array of functions:
+* Carbohydrate metabolism 
+* Production of the neurotransmitters glutamic acid and GABA, through the citric acid cycle 
+* Lipid metabolism, necessary for myelin production 
+* Amino acid metabolism 
+* Neuromodulation. 
+
+Neurons are very sensitive to ionic and metabolic changes produced in their immediate environment, which initially affect metabolism, electrical activity and performance, but then can lead to cell death. 
+
+== Signs and symptoms ==
+Symptoms of beriberi include weight loss, emotional disturbances, impaired sensory perception, weakness and pain in the limbs, and periods of irregular heart rate. Edema (swelling of bodily tissues) is common. It may increase the amount of lactic acid and pyruvic acid within the blood. In advanced cases, the disease may cause high output cardiac failure and death. Symptoms may occur concurrently with those of Wernicke's encephalopathy, a primarily neurological thiamine-deficiency related condition.
+
+Beriberi is divided into three historical classifications:
+*Dry beriberi specially affects peripheral nervous system 
+*Wet beriberi specially affects the cardiovascular system and other bodily systems
+*Infantile beriberi affects also the children of malnourished mothers.
+
+===Dry beriberi===
+Dry beriberi causes wasting and partial paralysis resulting from damaged peripheral nerves. It is also referred to as endemic neuritis. It is characterized by:
+*Difficulty in walking
+*Tingling or loss of sensation (numbness) in hands and feet 
+*Loss of tendon reflexes 
+*Loss of muscle function or paralysis of the lower legs
+*Mental confusion/speech difficulties
+*Pain
+*Involuntary eye movements (nystagmus)
+*Vomiting.
+
+A selective impairment of the large proprioceptive sensory fibers without motor impairment can occur and present as a prominent sensory ataxia, which is a loss of balance and coordination due to loss of the proprioceptive inputs from the periphery and loss of position sense. 
+
+===Wet beriberi===
+Wet beriberi affects the heart and circulatory system. It is sometimes fatal, as it causes a combination of heart failure and weakening of the capillary walls, which causes the peripheral tissues to become edematous. Wet beriberi is characterized by:
+*Increased heart rate
+*Vasodilation leading to decreased systemic vascular resistance, and high output cardiac failure Anand AS, Florea VG (2001) High Output Cardiac Failure. Current Treatments in Cardiovascular Medicine 3:151-159 PMID 11242561 
+*Elevated jugular venous pressure 
+*Dyspnea (shortness of breath) on exertion
+*Paroxysmal nocturnal dyspnea
+*Peripheral oedema (swelling of lower legs)
+
+===Infantile beriberi===
+Infantile beriberi usually occurs between two and six months of age in children whose mothers have inadequate thiamine intake. In the acute form, the baby develops dyspnea and cyanosis and soon dies of heart failure. The following symptoms may be described in infantile beriberi:
+*Hoarseness, where the child makes moves to mourn but emits no sound or just faint moans, caused by nerve paralysis 
+*Weight loss, becoming thinner and then marasmic as the disease progresses 
+*Vomiting 
+*Diarrhea 
+*Occasionally convulsions were observed in the terminal stages 
+*Pale skin 
+*Edema 
+*Ill temper 
+*Alterations of the cardiovascular system, especially tachycardia (rapid heart rate). 
+
+==Epidemiology==
+
+===Inadequate nutrition===
+Beriberi caused by inadequate nutritional intake is rare today in developed countries because of quality of food and the fact that many foods are fortified with vitamins. There are no reliable statistics for beriberi in developed countries in the 19th century or earlier; neither are statistics available before the last century in countries in extreme poverty.
+
+Beriberi is a recurrent nutritional disease in detention houses even in this century. High rates of illness and death in overcrowded Haitian jails was traced in 2007 to the traditional practice of washing rice before cooking. In the Ivory Coast, among a group of prisoners with heavy punishment, 64% were affected by beriberi. Before beginning treatment, prisoners exhibited symptoms of dry or wet beriberi with neurological signs (swarming: 41%), cardiovascular signs (dyspnoea: 42%, thoracic pain: 35%), and oedemas of the lower limbs (51%). The rate of healing was about 97%. Bull Soc Pathol Exot. 2011 Dec;104(5):347-51. doi: 10.1007/s13149-011-0136-6. Epub 2011 Feb 18. 
+
+Populations under extreme stress may be at higher risk for beriberi. 
+Displaced populations, such as war refugees, are susceptible to micronutritional deficiency, including beriberi. The severe nutritional deprivation caused by famine will also cause beriberi, although symptoms may be overlooked in clinical assessment or masked by other famine-related problems. Extreme dieting can also rarely induce a famine-like state and the accompanying beriberi. 
+
+===Wernicke's encephalopathy===
+Beriberi may also be caused by shortcomings other than inadequate intake: diseases or operations on the digestive tract, alcoholism, dialysis, genetic deficiencies, etc. All these causes mainly affecting the central nervous system, and provoking the development of what is known as Wernicke's disease or Wernicke's encephalopathy.
+
+Wernicke´s disease is one of the most prevalent neurological or neuropsychiatric diseases. In autopsy series, features of Wernicke lesions are observed in approximately 2% of general cases. Medical record research shows that about 85% had not been diagnosed, although only 19% would be asymptomatic. In children, only 58% were diagnosed. In alcohol abusers, autopsy series showed neurological damages at rates of 12.5% or more. Mortality caused by Wernicke's disease reaches 17% of diseases, which means 3.4/1000 or about 25 million contemporaries. The rate of sufferers may be even higher, considering that early stages may have dysfunctions prior to the production of observable lesions at necropsy. In addition, uncounted numbers of persons can experience fetal damage and subsequent diseases.
+
+==History==
+
+===Etymology===
+The origin of the term 'beriber' comes from a Sinhalese phrase meaning "weak, weak" or "I cannot, I cannot", the word being duplicated for emphasis. Oxford English Dictionary: "Beri-beri... a Cingalese word, f. beri weakness, the reduplication being intensive ...", page 203, 1937 A Sinhalese-English Dictionary, Rev. Charles Carter: "බැරි බැරි.රෝගය, a. the diseaseberi beri, a form of neuritis accompanied by dropsy &c..." , page 448, 1924 Beriberi, Information about Beriberi 
+
+In 1630, a Dutch physician named Jacobus Bontius (Jacob de Bondt; 1591–1631) encountered the disease while working in Java. In the first known description of beriberi, he wrote: "A certain very troublesome affliction, which attacks men, is called by the inhabitants beriberi (which means sheep). I believe those, whom this same disease attacks, with their knees shaking and the legs raised up, walk like sheep. It is a kind of paralysis, or rather tremor: for it penetrates the motion and sensation of the hands and feet indeed sometimes of the whole body." 
+
+===Identification===
+In the late 1800s, beriberi was studied by Takaki Kanehiro, a British-trained Japanese medical doctor of the Japanese Navy. Beriberi was a serious problem in the Japanese navy: sailors fell ill an average of four times a year in the period 1878 to 1881, and 35% were cases of beriberi. In 1883, Kanehiro learned of a very high incidence of beriberi among cadets on a training mission from Japan to Hawaii, via New Zealand and South America. The voyage lasted more than 9 months and resulted in 169 cases of sickness and 25 deaths on a ship of 376 men. With the support of the Japanese Navy, he conducted an experiment in which another ship was deployed on the same route, except that its crew was fed a diet of meat, fish, barley, rice, and beans. At the end of the voyage, this crew had suffered only 14 cases of beriberi and no deaths. This convinced Kanehiro and the Japanese Navy that diet was the cause. In 1884, Kanehiro observed that beriberi was endemic among low-ranking crew who often were provided nothing but rice, but not among crews of Western navies and nor among Japanese officers who consumed a more varied diet.
+
+In 1897, Dr. Christiaan Eijkman, a Dutch physician and pathologist, demonstrated that beriberi is caused by poor diet, and discovered that feeding unpolished rice (instead of the polished variety) to chickens helped to prevent beriberi. The following year, Sir Frederick Hopkins postulated that some foods contained "accessory factors" – in addition to proteins, carbohydrates, fats, and salt – that were necessary for the functions of the human body. In 1901, Gerrit Grijns (May 28, 1865 – November 11, 1944), a Dutch physician and assistant to Christiaan Eijkman in the Netherlands, correctly interpreted the disease as a deficiency syndrome, and between 1910 and 1913, Dr. Edward Bright Vedder established that an extract of rice bran is a treatment for beriberi. Nonetheless, as late as 1911, the Encyclopaedia Britannica Eleventh Edition described it as ""believed...to be caused by an infective agent of a parasitic nature". In 1929, Eijkman and Hopkins were awarded the Nobel Prize for Physiology or Medicine for their discoveries.
+
+==Treatment==
+Many patients of beriberi can be treated with thiamine alone, http://emedicine.medscape.com/article/116930-treatment but many causes necessarily lead to multiple deficiencies of vitamins and minerals such as hyperemesis gravidarum or gastric bypass. 
+
+Initially, is managed intravenously with thiamine (later orally). This supplementation should be earlier than glucose supply that would cause the worsening of the disease. Supplementation can be monitored using blood tests. Rapid and dramatic recovery can occur within hours of administration. In situations where concentrated thiamine supplements are unavailable, feeding the patient with a thiamine-rich diet (e.g. whole grain brown bread) will lead to recovery, though at a much slower rate.
+
+==See also==
+* Wernicke's encephalopathy
+* Wernicke-Korsakoff syndrome
+* Korsakoff's syndrome
+
+==References==
+
+==Bibliography==
+
+* 
+* 
+* 
+* 
+* 
+
+==External links==
+
+*www.wrongdiagnosis.com : beriberi
+
+Beriberi is a disease in which the body does not have enough thiamine or vitamin B1. Beriberi is also a nutritional disorder and it is characterized by impairment of the nerves and heart. There are two major types of this disease:
+Wet beriberi and Dry beriberi.
+Wet Beriberi affects the cardiovascular system.
+Dry beriberi and WernickepKorsakoff syndrome affect the nervous system.
+
+Beriberi disease is rare in the United States because most of their food is enriched with vitamins.
+Beriberi is usually originated with people who abuse alcohol, drinking heavily can to poor nutrition and the excess of alcohol makes the body difficult to absorb thiamine.
+There is a genetic beriberi, which is a very rare condition. This is inherited. People with a genetic beriberi tend to lose the ability to absorb thiamine from foods. This can happen slowly over time and symptoms occur when the person is in the adulthood.
+Beriberi disease can also occur in breast-fed infants. This is because the mother’s body is lacking thiamine.
+
+The symptoms for dry beriberi include:
+* Difficulty walking
+* Loss of feeling (sensation) in hands and feet
+* Loss of muscle function or paralysis of the lower legs
+* Mental confusion/speech difficulties
+* Pain
+* Strange eye movements (nystagmus)
+* Tingling
+* Vomiting
+The symptoms for wet beriberi:
+* Awakening at night short of breath
+* Increased heart rate
+* Shortness of breath with activity
+* Swelling of the lower legs
+
+In order to treat this disease, there are some exams and test:
+A physical examination may show the signs of congestive heart failure. Congestive heart failure is a condition in which the heart is no longer to pump out enough oxygen rich in blood. This physical examination includes:
+* Difficulty breathing with neck veins that stick out
+* Enlarged heart
+* Fluid in the lungs
+* Rapid heartbeat
+* Swelling in both lower legs
+
+There is also neurological exam this shows the signs of:
+• Changes in the walk
+• Coordination problems
+• Decreased reflexes
+• Drooping of the eyelids
+
+As other typical test, blood tests and urine tests may have to be done. Blood tests are for measuring the amount of thiamine in the blood. Urine tests are to see if thiamine is passing through urine.
+
+There is treatment for beriberi disease.
+This is to replace the thiamine your body is lacking. This is done with supplement of thiamine. In order to give thiamine supplements, a shot/ injection, or it can be taken by mouth.
+
+Beriberi is most common in:
+Far Eastern countries, where their daily diet is boiled white rice.
+United States, consuming a lot of alcohol causes this. 
+Basically beriberi is most common in parts where people don’t consume foods with vitamins especially high in thiamine. An example would be, uncooked fish.
+
+

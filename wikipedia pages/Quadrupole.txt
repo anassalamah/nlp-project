@@ -1,0 +1,81 @@
+[[Quadrupole]]
+
+A quadrupole or quadrapole is one of a sequence of configurations of—for example—electric charge or current, or gravitational mass that can exist in ideal form, but it is usually just part of a multipole expansion of a more complex structure reflecting various orders of complexity.
+
+==Mathematical definition==
+
+The quadrupole moment tensor Q is a rank-two tensor (3x3 matrix) and is traceless (i.e. ). The quadrupole moment tensor has thus 9 components, but because of the rotational symmetry and zero-trace property, only 5 of these are independent.
+
+For a discrete system of point charges (or masses in the case of a gravitational quadrupole), each with charge (or mass ) and position relative to the coordinate system origin, the components of the Q matrix are defined by:
+
+.
+
+The indices run over the Cartesian coordinates and is the Kronecker delta.
+
+For a continuous system with charge density (or mass density) , the components of Q are defined by integral over the Cartesian space r: 
+
+As with any multipole moment, if a lower-order moment (monopole or dipole in this case) is non-zero, then the value of the quadrupole moment depends on the choice of the coordinate origin. For example, a dipole of two opposite-sign, same-strength point charges (which has no monopole moment) can have a nonzero quadrupole moment if the origin is shifted away from the center of the configuration (exactly between the two charges); or the quadrupole moment can be reduced to zero with the origin at the center. In contrast, if the monopole and dipole moments vanish, but the quadrupole moment does not (e.g., four same-strength charges, arranged in a square, with alternating signs), then the quadrupole moment is coordinate independent.
+
+If each charge is the source of a "" field, like the electric or gravitational field, the contribution to the field's potential from the quadrupole moment is:
+:
+where R is a vector with origin in the system of charges and n
+is the unit vector in the direction of R. Here, is a constant that depends on the type of field, and the units being used. The factors are components of the unit vector from the point of interest to the location of the quadrupole moment.
+
+==Electric quadrupole ==
+
+Contour plot of the equipotential surfaces of an electric quadrupole field.
+
+The simplest example of an electric quadrupole consists of alternating positive and negative charges, arranged on the corners of a square. The monopole moment (just the total charge) of this arrangement is zero. Similarly, the dipole moment is zero, regardless to the coordinate origin that has been chosen. But the quadrupole moment of the arrangement in the diagram cannot be reduced to zero, regardless of where we place the coordinate origin. The electric potential of an electric charge quadrupole is given by 
+:
+where is the electric permittivity, and follows the definition above.
+
+==Generalization: Higher multipoles==
+An extreme generalization ("Point octupole") would be: Eight alternating point charges at the eight corners of a parallelepiped, e.g. of a cube with edge length a. The "octupole moment" of this arrangement would correspond, in the "octupole limit" , to a nonzero diagonal tensor of order three. Still higher multipoles, e.g. of order 2l, would be obtained by dipolar (quadrupolar, octupolar, ...) arrangements of point dipoles (quadrupoles, octupoles, ...), not point monopoles, of lower order, e.g. 2l-1.
+
+==Magnetic quadrupole==
+
+Coils producing a quadrupole field.
+
+Schematic quadrupole magnet ("four-pole").
+
+All known magnetic sources give dipole fields. However, to make a magnetic quadrupole it is possible to place four identical bar magnets perpendicular to each other such that the north pole of one is next to the south of the other. Such a configuration cancels the dipole moment and gives a quadrupole moment, and its field will decrease at large distances faster than that of a dipole.
+
+An example of a magnetic quadrupole, involving permanent magnets, is depicted on the right. Electromagnets of similar conceptual design (called quadrupole magnets) are commonly used to focus beams of charged particles in particle accelerators and beam transport lines, a method known as strong focusing. The quadrupole-dipole intersect can be found by multiplying the spin of the unpaired nucleon by its parent atom. There are four steel pole tips, two opposing magnetic north poles and two opposing magnetic south poles. The steel is magnetized by a large electric current that flows in the coils of tubing wrapped around the poles.
+
+Changing magnetic quadrupole moments produces electromagnetic radiation.
+
+==Gravitational quadrupole==
+
+The mass quadrupole is very analogous to the electric charge quadrupole, where the charge density is simply replaced by the mass density. The gravitational potential is then expressed as:
+:
+For example, because the Earth is rotating, it is oblate (flattened at the poles). This gives it a nonzero quadrupole moment. While the contribution to the Earth's gravitational field from this quadrupole is extremely important for artificial satellites close to Earth, it is less important for the Moon, because the term falls quickly.
+
+The mass quadrupole moment is also important in general relativity because, if it changes in time, it can produce gravitational radiation, similar to the electromagnetic radiation produced by oscillating electric or magnetic dipoles and higher multipoles. However, only quadrupole and higher moments can radiate gravitationally. The mass monopole represents the total mass-energy in a system, which is conserved—thus it gives off no radiation. Similarly, the mass dipole corresponds to the center of mass of a system and its first derivative represents momentum which is also a conserved quantity so the mass dipole also emits no radiation. The mass quadrupole, however, can change in time, and is the lowest-order contribution to gravitational radiation. 
+
+The simplest and most important example of a radiating system is a pair of mass points with equal masses orbiting each other on a circular orbit (an approximation to e.g. special case of binary black holes). Since the dipole moment is constant, we can for convenience place the coordinate origin right between the two points. Then the dipole moment will be zero, and if we also scale the coordinates so that the points are at unit distance from the center, in opposite direction, the system's quadrupole moment will then simply be
+:
+where M is the mass of each point, and are components of the (unit) position vector of one of the points. As they orbit, this x-vector will rotate, which means that it will have a nonzero first, and also the second time derivative (this is of course true regardless the choice of the coordinate system). Therefore the system will radiate gravitational waves. Energy lost in this way was first inferred in the changing period of the Hulse–Taylor binary pulsar, a pulsar in orbit with another neutron star of similar mass.
+
+Just as electric charge and current multipoles contribute to the electromagnetic field, mass and mass-current multipoles contribute to the gravitational field in general relativity, causing the so-called "gravitomagnetic" effects. Changing mass-current multipoles can also give off gravitational radiation. However, contributions from the current multipoles will typically be much smaller than that of the mass quadrupole.
+
+==See also==
+
+* Multipole expansion
+* Multipole moments
+* Solid harmonics
+* Axial multipole moments
+* Cylindrical multipole moments
+* Spherical multipole moments
+* Laplace expansion
+* Legendre polynomials
+* Quadrupole ion trap
+* Quadrupole mass analyzer
+
+==References==
+
+ 
+
+==External links==
+* Multipole expansion
+
+

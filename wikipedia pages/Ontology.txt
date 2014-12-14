@@ -1,0 +1,245 @@
+[[Ontology]]
+
+Parmenides was among the first to propose an ontological characterization of the fundamental nature of reality.
+
+Ontology is the metaphysical study of the nature of being, becoming, existence, or reality, as well as the basic categories of being and their relations. Traditionally listed as a part of the major branch of philosophy known as metaphysics, ontology deals with questions concerning what entities exist or can be said to exist, and how such entities can be grouped, related within a hierarchy, and subdivided according to similarities and differences.
+== Overview ==
+Ontology, in analytic philosophy, concerns the determination whether some categories of being are fundamental and asks in what sense can the items in those categories be said to "be". It is the inquiry into being in so much as it is being ("being qua being"), or into beings insofar as they exist—and not insofar as (for instance) particular facts can be obtained about them or particular properties belong to them.
+
+Some philosophers, notably of the Platonic school, contend that all nouns (including abstract nouns) refer to existent entities. Other philosophers contend that nouns do not always name entities, but that some provide a kind of shorthand for reference to a collection of either objects or events. In this latter view, mind, instead of referring to an entity, refers to a collection of mental events experienced by a person; society refers to a collection of persons with some shared characteristics, and geometry refers to a collection of a specific kind of intellectual activity. Between these poles of realism and nominalism, stand a variety of other positions; but any ontology must give an account of which words refer to entities, which do not, why, and what categories result.
+
+=== Some fundamental questions ===
+Principal questions of ontology include:
+
+* "What can be said to exist?"
+* "Into what categories, if any, can we sort existing things?"
+* "What are the meanings of being?"
+* "What are the various modes of being of entities?"
+
+Various philosophers have provided different answers to these questions. One common approach is to divide the extant subjects and predicates into groups called categories. Of course, such lists of categories differ widely from one another, and it is through the co-ordination of different categorical schemes that ontology relates to such fields as library science and artificial intelligence. Such an understanding of ontological categories, however, is merely taxonomic, classificatory. Aristotle's categories are the ways in which a being can be addressed simply as a being, such as what it is (its 'whatness', quidditas or essence), how it is (its 'howness' or qualitativeness), how much it is (quantitativeness), where it is, its relatedness to other beings, etc. Aristotle Categories Vol. 1, Loeb Classical Library, transl. H.P. Cooke, Harvard U.P. 1983 
+
+Further examples of ontological questions include:
+
+* What is existence, i.e. what does it mean for a being to be?
+* Is existence a property?
+* Is existence a genus or general class that is simply divided up by specific differences?
+* Which entities, if any, are fundamental?
+* Are all entities objects?
+* How do the properties of an object relate to the object itself?
+* What features are the essential, as opposed to merely accidental attributes of a given object?
+* How many levels of existence or ontological levels are there? And what constitutes a 'level'?
+* What is a physical object?
+* Can one give an account of what it means to say that a physical object exists?
+* Can one give an account of what it means to say that a non-physical entity exists?
+* What constitutes the identity of an object?
+* When does an object go out of existence, as opposed to merely changing?
+* Do beings exist other than in the modes of objectivity and subjectivity, i.e. is the subject/object split of modern philosophy inevitable?
+
+=== Concepts ===
+Essential ontological dichotomies include:
+
+* universals and particulars
+* substance and accident
+* abstract and concrete objects
+* essence and existence
+* determinism and indeterminism
+
+=== Types ===
+Philosophers can classify ontologies in various ways using criteria such as the degree of abstraction and field of application: 
+
+# Upper ontology: concepts supporting development of an ontology, meta-ontology
+# Domain ontology: concepts relevant to a particular topic or area of interest, for example, information technology or computer languages, or particular branches of science
+# Interface ontology: concepts relevant to the juncture of two disciplines
+# Process ontology: inputs, outputs, constraints, sequencing information, involved in business or engineering processes
+
+== History ==
+
+=== Etymology ===
+The word ontology is a compound word, composed of onto-, from the Greek ὤν, on (gen. ὄντος, ontos), i.e. "being; that which is", which is the present participle of the verb εἰμί, eimi, i.e. "to be, I am", and -λογία, -logia, i.e. "science, study, theory". 
+
+While the etymology is Greek, the oldest extant record of the word itself is the New Latin form ontologia, which appeared in 1606, in the work Ogdoas Scholastica by Jacob Lorhard (Lorhardus) and in 1613 in the Lexicon philosophicum by Rudolf Göckel (Goclenius); see classical compounds for this type of word formation.
+
+The first occurrence in English of "ontology" as recorded by the OED (Oxford English Dictionary, online edition, 2008) was a work by Gideon Harvey (1636/7-1702): Archelogia philosophica nova; or, New principles of Philosophy. Containing Philosophy in general, Metaphysicks or Ontology, Dynamilogy or a Discourse of Power, Religio Philosophi or Natural Theology, Physicks or Natural philosophy, London, Thomson, 1663. It is likely the word was first used in its Latin form by philosophers based on the Latin roots, which themselves are based on the Greek.
+
+=== Origins ===
+
+==== Parmenides and monism ====
+Parmenides was among the first to propose an ontological characterization of the fundamental nature of existence. In his prologue or proem he describes two views of existence; initially that nothing comes from nothing, and therefore existence is eternal. Consequently, our opinions about truth must often be false and deceitful. Most of western philosophy, and science — including the fundamental concepts of falsifiability and the conservation of energy — have emerged from this view. This posits that existence is what can be conceived of by thought, created, or possessed. Hence, there can be neither void nor vacuum; and true reality can neither come into being nor vanish from existence. Rather, the entirety of creation is eternal, uniform, and immutable, though not infinite (he characterized its shape as that of a perfect sphere). Parmenides thus posits that change, as perceived in everyday experience, is illusory. Everything that can be apprehended is but one part of a single entity. This idea somewhat anticipates the modern concept of an ultimate grand unification theory that finally describes all of existence in terms of one inter-related sub-atomic reality which applies to everything.
+
+==== Ontological pluralism ====
+
+The opposite of eleatic monism is the pluralistic conception of Being. In the 5th century BC, Anaxagoras and Leucippus replaced the reality of Being (unique and unchanging) with that of Becoming and therefore by a more fundamental and elementary ontic plurality. This thesis originated in the Hellenic world, stated in two different ways by Anaxagoras and by Leucippus. The first theory dealt with "seeds" (which Aristotle referred to as "homeomeries") of the various substances. The second was the atomistic theory, which dealt with reality as based on the vacuum, the atoms and their intrinsic movement in it.
+
+The materialist Atomism proposed by Leucippus was indeterminist, but then developed by Democritus in a deterministic way. It was later (4th century BC) that the original atomism was taken again as indeterministic by Epicurus. He confirmed the reality as composed of an infinity of indivisible, unchangeable corpuscles or atoms (atomon, lit. 'uncuttable'), but he gives weight to characterize atoms while for Leucippus they are characterized by a "figure", an "order" and a "position" in the cosmos. Aristotle, Metaphysics, I , 4, 985 They are, besides, creating the whole with the intrinsic movement in the vacuum, producing the diverse flux of being. Their movement is influenced by the Parenklisis (Lucretius names it Clinamen) and that is determined by the chance. These ideas foreshadowed our understanding of traditional physics until the nature of atoms was discovered in the 20th century.
+
+==== Plato ====
+Plato developed this distinction between true reality and illusion, in arguing that what is real are eternal and unchanging Forms or Ideas (a precursor to universals), of which things experienced in sensation are at best merely copies, and real only in so far as they copy ('partake of') such Forms. In general, Plato presumes that all nouns (e.g., 'Beauty') refer to real entities, whether sensible bodies or insensible Forms. Hence, in The Sophist Plato argues that Being is a Form in which all existent things participate and which they have in common (though it is unclear whether 'Being' is intended in the sense of existence, copula, or identity); and argues, against Parmenides, that Forms must exist not only of Being, but also of Negation and of non-Being (or Difference).
+
+In his Categories, Aristotle identifies ten possible kinds of things that can be the subject or the predicate of a proposition. For Aristotle there are four different ontological dimensions:
+# according to the various categories or ways of addressing a being as such
+# according to its truth or falsity (e.g. fake gold, counterfeit money)
+# whether it exists in and of itself or simply 'comes along' by accident
+# according to its potency, movement (energy) or finished presence (Metaphysics Book Theta).
+
+According to Avicenna, and in an interpretation of Greek Aristotelian and Platonist ontological doctrines in medieval metaphysics, being is either necessary, contingent qua possible, or impossible. Necessary being is that which cannot but be, since its non-being entails a contradiction. Contingent qua possible being is neither necessary nor impossible for it to be or not to be. It is ontologically neutral, and is brought from potential existing into actual existence by way of a cause that is external to its essence. Its being is borrowed unlike the necessary existent, which is self-subsisting and is impossible for it not to be. As for the impossible, it necessarily does not exist, and the affirmation of its being is a contradiction. Nader El-Bizri, 'Avicenna and Essentialism, Review of Metaphysics, Vol. 54 (2001), pp. 753-778. 
+
+== Other ontological topics ==
+
+=== Ontological formations ===
+The concept of 'ontological formations' refers to formations of social relations understood as dominant ways of living. Temporal, spatial, corporeal, epistemological and performative relations are taken to be central to understanding a dominant formation. That is, a particular ontological formation is based on how ontological categories of time, space, embodiment, knowing and performing are lived—objectively and subjectively. Different ontological formations include the customary (including the tribal), the traditional, the modern and the postmodern. The concept was first introduced by Paul James' Globalism, Nationalism, Tribalism and carried forward by a series of writers including Damian Grenfell and Manfred Steger.
+
+In the engaged theory approach, ontological formations are seen as layered and intersecting rather than singular formations. They are 'formations of being'. This approach avoids the usual problems of a Great Divide being posited between the modern and the pre-modern.
+
+=== Ontological and epistemological certainty ===
+René Descartes, with "je pense donc je suis" or "cogito ergo sum" or "I think, therefore I am", argued that "the self" is something that we can know exists with epistemological certainty. Descartes argued further that this knowledge could lead to a proof of the certainty of the existence of God, using the ontological argument that had been formulated first by Anselm of Canterbury.
+
+Certainty about the existence of "the self" and "the other", however, came under increasing criticism in the 20th century. Sociological theorists, most notably George Herbert Mead and Erving Goffman, saw the Cartesian Other as a "Generalized Other", the imaginary audience that individuals use when thinking about the self. According to Mead, "we do not assume there is a self to begin with. Self is not presupposed as a stuff out of which the world arises. Rather, the self arises in the world" Hyde, R. Bruce. "Listening Authentically: A Heideggerian Perspective on Interpersonal Communication". In Interpretive Approaches to Interpersonal Communication, edited by Kathryn Carter and Mick Presnell. State University of New York Press, 1994. ISBN 0-7914-1847-2 Mead, G. H. The individual and the social self: Unpublished work of George Herbert Mead (D. L. Miller, Ed.). Chicago: University of Chicago Press, 1982. (p. 107). ISBN 0-226-51673-3 
+The Cartesian Other was also used by Sigmund Freud, who saw the superego as an abstract regulatory force, and Émile Durkheim who viewed this as a psychologically manifested entity which represented God in society at large.
+
+=== Body and environment, questioning the meaning of being ===
+Schools of subjectivism, objectivism and relativism existed at various times in the 20th century, and the postmodernists and body philosophers tried to reframe all these questions in terms of bodies taking some specific action in an environment. This relied to a great degree on insights derived from scientific research into animals taking instinctive action in natural and artificial settings—as studied by biology, ecology, Barry Smith: Objects and Their Environments: From Aristotle to Ecological Ontology The Life and Motion of SocioEconomic Units (GISDATA 8), London: Taylor and Francis, 2001, 79-97. and cognitive science.
+
+The processes by which bodies related to environments became of great concern, and the idea of being itself became difficult to really define. What did people mean when they said "A is B", "A must be B", "A was B"...? Some linguists advocated dropping the verb "to be" from the English language, leaving "E Prime", supposedly less prone to bad abstractions. Others, mostly philosophers, tried to dig into the word and its usage. Heidegger distinguished human being as existence from the being of things in the world. Heidegger proposes that our way of being human and the way the world is for us are cast historically through a fundamental ontological questioning. These fundamental ontological categories provide the basis for communication in an age: a horizon of unspoken and seemingly unquestionable background meanings, such as human beings understood unquestioningly as subjects and other entities understood unquestioningly as objects. Because these basic ontological meanings both generate and are regenerated in everyday interactions, the locus of our way of being in a historical epoch is the communicative event of language in use. For Heidegger, however, communication in the first place is not among human beings, but language itself shapes up in response to questioning (the inexhaustible meaning of) being. Heidegger, Martin, On the Way to Language Harper & Row, New York 1971. German edition: Unterwegs zur Sprache Neske, Pfullingen 1959. Even the focus of traditional ontology on the 'whatness' or 'quidditas' of beings in their substantial, standing presence can be shifted to pose the question of the 'wholeness' of human being itself. Eldred, Michael, Social Ontology: Recasting Political Philosophy Through a Phenomenology of Whoness ontos, Frankfurt 2008 xiv + 688 pp. ISBN 978-3-938793-78-7 
+
+=== Ontology and language ===
+Some philosophers suggest that the question of "What is?" is (at least in part) an issue of usage rather than a question about facts. This perspective is conveyed by an analogy made by Donald Davidson: Suppose a person refers to a 'cup' as a 'chair' and makes some comments pertinent to a cup, but uses the word 'chair' consistently throughout instead of 'cup'. One might readily catch on that this person simply calls a 'cup' a 'chair' and the oddity is explained. Davidson refers to a 'ketch' and a 'yawl'; see p. 18 in Analogously, if we find people asserting 'there are' such-and-such, and we do not ourselves think that 'such-and-such' exist, we might conclude that these people are not nuts (Davidson calls this assumption 'charity'), they simply use 'there are' differently than we do. The question of What is? is at least partially a topic in the philosophy of language, and is not entirely about ontology itself. This viewpoint has been expressed by Eli Hirsch. First published as “Physical-Object Ontology, Verbal Disputes, and Common Sense” First published as “Quantifier variance and realism” 
+
+Hirsch interprets Hilary Putnam as asserting that different concepts of "the existence of something" can be correct. This position does not contradict the view that some things do exist, but points out that different 'languages' will have different rules about assigning this property. 
+ How to determine the 'fitness' of a 'language' to the world then becomes a subject for investigation.
+
+=== Ontology and human geography ===
+In human geography there are two types of ontology: small "o" which accounts for the practical orientation, describing functions of being a part of the group, thought to oversimplify and ignore key activities. The other "o", or big "O", systematically, logically, and rationally describes the essential characteristics and universal traits. This concept relates closely to Plato's view that the human mind can only perceive a bigger world if they continue to live within the confines of their "caves". However, in spite of the differences, ontology relies on the symbolic agreements among members. That said, ontology is crucial for the axiomatic language frameworks. Harvey, F. (2006). Ontology. In B. Warf (Ed.), Encyclopedia of Human Geography. (pp. 341-343). Thousand Oaks, CA: SAGE Publications, Inc 
+
+=== Reality and actuality ===
+According to A.N. Whitehead, for ontology, it is useful to distinguish the terms 'reality' and 'actuality'.
+
+In this view, an 'actual entity' has a philosophical status of fundamental ontological priority, while a 'real entity' is one which may be actual, or may derive its reality from its logical relation to some actual entity or entities. For example, an occasion in the life of Socrates is an actual entity. But Socrates' being a man does not make 'man' an actual entity, because it refers indeterminately to many actual entities, such as several occasions in the life of Socrates, and also to several occasions in the lives of Alcibiades, and of others. But the notion of man is real; it derives its reality from its reference to those many actual occasions, each of which is an actual entity. An actual occasion is a concrete entity, while terms such as 'man' are abstractions from many concrete relevant entities.
+
+According to Whitehead, an actual entity must earn its philosophical status of fundamental ontological priority by satisfying several philosophical criteria, as follows.
+* There is no going behind an actual entity, to find something more fundamental in fact or in efficacy. This criterion is to be regarded as expressing an axiom, or postulated distinguished doctrine.
+* An actual entity must be completely determinate in the sense that there can be no confusion about its identity that would allow it to be confounded with another actual entity. In this sense an actual entity is completely concrete, with no potential to be something other than itself. It is what it is. It is of course a source of potentiality for the creation of other actual entities, of which it may be said to be a part cause. Likewise it is the concretion or realization of potentialities of other actual entities which are its partial causes.
+* Causation between actual entities is essential to their actuality. Consequently, for Whitehead, each actual entity has its distinct and definite extension in physical Minkowski space, and so is uniquely identifiable. A description in Minkowski space supports descriptions in time and space for particular observers.
+* It is part of the aim of the philosophy of such an ontology as Whitehead's that the actual entities should be all alike, qua actual entities; they should all satisfy a single definite set of well stated ontological criteria of actuality.
+
+Whitehead proposed that his notion of an occasion of experience satisfies the criteria for its status as the philosophically preferred definition of an actual entity. From a purely logical point of view, each occasion of experience has in full measure the characters of both objective and subjective reality. Subjectivity and objectivity refer to different aspects of an occasion of experience, and in no way do they exclude each other. Whitehead, A.N. (1929). Process and Reality, Cambridge University Press, Cambridge UK, passim. 
+
+Examples of other philosophical proposals or candidates as actual entities, in this view, are Aristotle's 'substances', Leibniz' monads, and Descartes ′res verae' , and the more modern 'states of affairs'. Aristotle's substances, such as Socrates, have behind them as more fundamental the 'primary substances', and in this sense do not satisfy Whitehead's criteria. Whitehead is not happy with Leibniz' monads as actual entities because they are "windowless" and do not cause each other. 'States of affairs' are often not closely defined, often without specific mention of extension in physical Minkowski space; they are therefore not necessarily processes of becoming, but may be as their name suggests, simply static states in some sense. States of affairs are contingent on particulars, and are therefore have something behind them. Armstrong, D.M. (1997). A World of States of Affairs, Cambridge University Press,Cambridge UK, ISBN 0-521-58064-1, p. 1. One summary of the Whiteheadian actual entity is that it is a process of becoming. Another summary, referring to its causal linkage to other actual entities, is that it is "all window", in contrast with Leibniz' windowless monads.
+
+This view allows philosophical entities other than actual entities to really exist, but not as fundamentally and primarily factual or causally efficacious; they have existence as abstractions, with reality only derived from their reference to actual entities. A Whiteheadian actual entity has a unique and completely definite place and time. Whiteheadian abstractions are not so tightly defined in time and place, and in the extreme, some are timeless and placeless, or 'eternal' entities. All abstractions have logical or conceptual rather than efficacious existence; their lack of definite time does not make them unreal if they refer to actual entities. Whitehead calls this 'the ontological principle'.
+
+== Prominent ontologists ==
+
+* Anselm of Canterbury
+* Thomas Aquinas
+* Aristotle
+* David Malet Armstrong
+* Alain Badiou
+* Gustav Bergmann
+* Bernard Bolzano
+* Franz Brentano
+* Mario Bunge
+* Rudolf Carnap
+* Ernst Cassirer
+* W. Norris Clarke
+* Gilles Deleuze
+* Jacques Derrida
+* René Descartes
+* Werner Erhard
+* Richard Foreman
+* Hans-Georg Gadamer
+* Al-Ghazali
+* Étienne Gilson
+* Nicolai Hartmann
+* Georg Wilhelm Friedrich Hegel
+* Martin Heidegger
+
+* Heraclitus of Ephesus
+* Edmund Husserl
+* Roman Ingarden
+* Peter van Inwagen
+* Immanuel Kant
+* Gottfried Leibniz
+* Stanisław Leśniewski
+* Leucippus
+* David Kellogg Lewis
+* John Locke
+* E.J. Lowe
+* Alexius Meinong
+* Friedrich Nietzsche
+* Nagarjuna
+* William of Ockam
+* Parmenides
+* Charles Sanders Peirce
+* Plato
+* Plotinus
+* Proclus Lycaeus
+
+* W. V. O. Quine
+* Bertrand Russell
+* Gilbert Ryle
+* Jean-Paul Sartre
+* Jonathan Schaffer
+* Adi Shankaracharya
+* Arthur Schopenhauer
+* Duns Scotus
+* John Searle
+* Theodore Sider
+* Peter Simons
+* Barry Smith
+* Baruch Spinoza
+* Peter van Inwagen
+* Achille Varzi
+* Swami Vivekananda
+* Alfred North Whitehead
+* Ludwig Wittgenstein
+* Edward N. Zalta 
+
+ 
+* Dean Zimmerman
+
+== See also ==
+
+* Engaged theory
+* Ontology (information science)
+* Ontological engineering
+* Applied ontology
+* Living educational theory
+* Foundation ontology
+* Geopolitical ontology
+* Guerrilla ontology
+* Holism
+* Mereology
+* Meta-ontology
+* Metamodeling
+
+* Modal logic
+* Monadology
+* Nihilism
+* Ontological paradox
+* Philosophy of mathematics
+* Philosophy of science
+* Philosophy of space and time
+* Physical ontology
+* Porphyrian tree
+* Quantum ontology
+* Solipsism
+
+* Speculative realism
+* Structure and agency
+* Subject–object problem
+* Taxonomy
+* Upper ontology
+
+== References ==
+
+== External links ==
+
+* Ontology. Its Theory and History from a Philosophical Perspective
+* 
+* 
+* International Ontology Congress
+* A short film with a general introduction to ontology
+
+ 
+ 
+

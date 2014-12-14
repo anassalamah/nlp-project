@@ -1,0 +1,105 @@
+[[Neutrophil granulocyte]]
+
+3D Rendering of a Neutrophil
+
+Neutrophil granulocytes (also known as neutrophils) are the most abundant (40% to 75%) type of white blood cells in mammals and form an essential part of the innate immune system. They are formed from stem cells in the bone marrow. They are short-lived and highly motile. Neutrophils may be subdivided into segmented neutrophils (or segs) and banded neutrophils (or bands). They form part of the polymorphonuclear cell family (PMNs) together with basophils and eosinophils. 
+
+The name neutrophil derives from staining characteristics on hematoxylin and eosin (H&E) histological or cytological preparations. Whereas basophilic white blood cells stain dark blue and eosinophilic white blood cells stain bright red, neutrophils stain a neutral pink. Normally, neutrophils contain a nucleus divided into 2–5 lobes.
+
+Neutrophils are a type of phagocyte and are normally found in the bloodstream. During the beginning (acute) phase of inflammation, particularly as a result of bacterial infection, environmental exposure, and some cancers, 
+ 
+ neutrophils are one of the first-responders of inflammatory cells to migrate towards the site of inflammation. They migrate through the blood vessels, then through interstitial tissue, following chemical signals such as Interleukin-8 (IL-8), C5a, fMLP and Leukotriene B4 in a process called chemotaxis. They are the predominant cells in pus, accounting for its whitish/yellowish appearance.
+
+Neutrophils are recruited to the site of injury within minutes following trauma, and are the hallmark of acute inflammation. Cohen, Stephen. Burns, Richard C. Pathways of the Pulp, 8th Edition. St. Louis: Mosby, Inc. 2002. page 465. 
+
+==Characteristics==
+Neutrophil granulocyte migrates from the blood vessel to the matrix, sensing proteolytic enzymes, in order to determine intercellular connections (to the improvement of its mobility) and envelop bacteria through phagocytosis.
+Neutrophil granulocytes have an average diameter of 12-15 micrometers (µm) in peripheral blood smears. When analyzing a pure neutrophil suspension on an automated cell counter, neutrophils have an average diameter of 8–9 µm.
+
+With the eosinophil and the basophil, they form the class of polymorphonuclear cells, named for the nucleus' multilobulated shape (as compared to lymphocytes and monocytes, the other types of white cells). The nucleus has a characteristic lobed appearance, the separate lobes connected by chromatin. The nucleolus disappears as the neutrophil matures, which is something that happens in only a few other types of nucleated cells. Zucker-Franklin, p. 168. In the cytoplasm, the Golgi apparatus is small, mitochondria and ribosomes are sparse, and the rough endoplasmic reticulum is absent. Zucker-Franklin, p. 170. The cytoplasm also contains about 200 granules, of which a third are azurophilic. 
+
+A minor difference is found between the neutrophils from a male subject and a female subject. The cell nucleus of a neutrophil from a female subject shows a small additional X chromosome structure, known as a "neutrophil drumstick". Zucker-Franklin, p. 174. 
+
+Neutrophils will show hypersegmentation (many segments of nucleus) as they mature.
+
+Reference ranges for blood tests of white blood cells, comparing neutrophil amount (shown in pink) with that of other cells.
+
+Neutrophils are the most abundant white blood cells in humans (approximately 1011 are produced daily); they account for approximately 50-70% of all white blood cells (leukocytes). The stated normal range for human blood counts varies between laboratories, but a neutrophil count of 2.5–7.5 x 109/L is a standard normal range. People of African and Middle Eastern descent may have lower counts, which are still normal. A report may divide neutrophils into segmented neutrophils and bands.
+
+When circulating in the bloodstream and unactivated, neutrophils are spherical. Once activated, they change shape and become more amorphous or amoeba-like and can extend pseudopods as they hunt for antigens. 
+
+Neutrophils have a preference to engulf refined carbohydrate (glucose, fructose, sucrose, honey and orange juice ) over bacteria. In 1973 Sanchez et al. found that the neutrophil phagocytic capacity to engulf bacteria is affected when simple sugars are digested. And fasting strengthens the neutrophils phagocytic capacity to engulf bacteria. However the digestion of normal starches has no effect. They concluded that the scientific data found that the function, and not the number of phagocytes in engulfing bacteria was altered by the ingestion of sugars. In 2007 researchers at the Whitehead Institute of Biomedical Research found that even amongst just a selection of sugars, neutrophils can again be picky and engulf preferred sugars. Cell Host & Microbe, July 11, 2007
+" Phagocytosis by human neutrophils is stimulated by a unique fungal cell wall component"
+Ifat Rubin-Bejerano(1), Claudia Abeijon(3^), Paula Magnelli(3), Paula Grisafi(1) & Gerald Fink(1,2)
+^Present Address: Cummings School of Veterinary Medicine, Tufts University, North Grafton, Massachusetts
+(1) Whitehead Institute for Biomedical Research, Cambridge, Massachusetts
+(2) Department of Biology, Massachusetts Institute of Technology, Cambridge, Massachusetts
+(3) Department of Molecular and Cell Biology, Goldman School of Dental Medicine, Boston, Massachusetts 
+
+==Life span==
+HSC=Hematopoietic stem cell, Progenitor=Progenitor cell, L-blast=lymphoblast, Lymphocyte, Mo-blast=Monoblast, Monocyte, Myeloblast, Pro-M=Promyelocyte, Myelocyte, Meta-M=Metamyelocyte, Neutrophil, Eosinophil, Basophil, Pro-E=Proerythroblast, Baso-E=Basophilic erythroblast, poly-e=Polychromatic erythroblast, Ortho-E=orthochromatic erythroblast, Erythrocyte, Promegakaryocyte, megakaryocyte, Platlet 
+
+The average lifespan of (non-activated human) neutrophils in the circulation is about 5.4 days. Pillay J, den Braber I, Vrisekoop N, Kwast LM, de Boer RJ, Borghans JA, Tesselaar K, Koenderman L. In vivo labeling with 2H2O reveals a human neutrophil lifespan of 5.4 days Blood. 2010 Jul 29;116(4):625-7. Upon activation, they marginate (position themselves adjacent to the blood vessel endothelium), and undergo selectin-dependent capture followed by integrin-dependent adhesion in most cases, after which they migrate into tissues, where they survive for 1–2 days. 
+
+Neutrophils are much more numerous than the longer-lived monocyte/macrophage phagocytes. A pathogen (disease-causing microorganism or virus) is likely to first encounter a neutrophil. Some experts hypothesize that the short lifetime of neutrophils is an evolutionary adaptation. The short lifetime of neutrophils minimizes propagation of those pathogens that parasitize phagocytes because the more time such parasites spend outside a host cell, the more likely they will be destroyed by some component of the body's defenses. Also, because neutrophil antimicrobial products can also damage host tissues, their short life limits damage to the host during inflammation. 
+
+Neutrophils will often be phagocytosed by macrophages after digestion of pathogens. PECAM-1 and phosphatidylserine on the cell surface are involved in this process.
+
+== Chemotaxis ==
+
+Neutrophils undergo a process called chemotaxis, which allows them to migrate toward sites of infection or inflammation. Cell surface receptors allow neutrophils to detect chemical gradients of molecules such as interleukin-8 (IL-8), interferon gamma (IFN-gamma), C5a, and Leukotriene B4, which these cells use to direct the path of their migration.
+
+Neutrophils have a variety of specific receptors, including complement receptors, cytokine receptors for interleukins and interferon gamma (IFN-gamma), receptors for chemokines, receptors to detect and adhere to endothelium, receptors for leptins and proteins, and Fc receptors for opsonin. 
+
+==Anti-microbial function==
+Being highly motile, neutrophils quickly congregate at a focus of infection, attracted by cytokines expressed by activated endothelium, mast cells, and macrophages. Neutrophils express and release cytokines, which in turn amplify inflammatory reactions by several other cell types.
+
+In addition to recruiting and activating other cells of the immune system, neutrophils play a key role in the front-line defence against invading pathogens. Neutrophils have three methods for directly attacking micro-organisms: phagocytosis (ingestion), release of soluble anti-microbials (including granule proteins), and generation of neutrophil extracellular traps (NETs). 
+
+===Phagocytosis===
+Neutrophils are phagocytes, capable of ingesting microorganisms or particles. For targets to be recognised, they must be coated in opsonins—a process known as antibody opsonization. They can internalize and kill many microbes, each phagocytic event resulting in the formation of a phagosome into which reactive oxygen species and hydrolytic enzymes are secreted. The consumption of oxygen during the generation of reactive oxygen species has been termed the "respiratory burst", although unrelated to respiration or energy production.
+
+The respiratory burst involves the activation of the enzyme NADPH oxidase, which produces large quantities of superoxide, a reactive oxygen species. Superoxide decays spontaneously or is broken down via enzymes known as superoxide dismutases (Cu/ZnSOD and MnSOD), to hydrogen peroxide, which is then converted to hypochlorous acid HClO, by the green heme enzyme myeloperoxidase. It is thought that the bactericidal properties of HClO are enough to kill bacteria phagocytosed by the neutrophil, but this may instead be a step necessary for the activation of proteases. 
+
+===Degranulation===
+Neutrophils also release an assortment of proteins in three types of granules by a process called degranulation. The contents of these granules have antimicrobial properties, and help combat infection.
+
+ Granule type Protein 
+ azurophilic granules (or \"primary granules\") myeloperoxidase, bactericidal/permeability-increasing protein (BPI), Defensins, and the serine proteases neutrophil elastase and cathepsin G 
+ specific granules (or \"secondary granules\") alkaline phosphatase, lysozyme, NADPH oxidase, collagenase, Lactoferrin and Cathelicidin 
+ tertiary granules cathepsin and gelatinase 
+
+===Neutrophil extracellular traps (NETs)===
+In 2004, Brinkmann and colleagues described a striking observation that activation of neutrophils causes the release of
+web-like structures of DNA; this represents a third mechanism for killing bacteria. These neutrophil extracellular traps (NETs) comprise a web of fibers composed of chromatin and serine proteases that trap and kill microbes extracellularly. It is suggested that NETs provide a high local concentration of antimicrobial components and bind, disarm, and kill microbes independent of phagocytic uptake. In addition to their possible antimicrobial properties, NETs may serve as a physical barrier that prevents further spread of pathogens. Trapping of bacteria may be a particularly important role for NETs in sepsis, where NETs are formed within blood vessels. Recently, NETs have been shown to play a role in inflammatory diseases, as NETs could be detected in preeclampsia, a pregnancy-related inflammatory disorder in which neutrophils are known to be activated. In addition, NETs are known to exhibit pro-thrombotic effects both in vitro and in vivo. 
+
+==Role in disease==
+Low neutrophil counts are termed neutropenia. This can be congenital (genetic disorder) or it can develop later, as in the case of aplastic anemia or some kinds of leukemia. It can also be a side-effect of medication, most prominently chemotherapy. Neutropenia makes an individual highly susceptible to infections. Neutropenia can be the result of colonization by intracellular neutrophilic parasites.
+
+In alpha 1-antitrypsin deficiency, the important neutrophil enzyme elastase is not adequately inhibited by alpha 1-antitrypsin, leading to excessive tissue damage in the presence of inflammation – the most prominent one being pulmonary emphysema.
+
+In Familial Mediterranean fever (FMF), a mutation in the pyrin (or marenostrin) gene, which is expressed mainly in neutrophil granulocytes, leads to a constitutively active acute-phase response and causes attacks of fever, arthralgia, peritonitis, and – eventually – amyloidosis. 
+
+==Neutrophil antigens==
+
+There are five (HNA 1-5) sets of neutrophil antigen recognised. Chu HT, Lin H, Tsao TT, Chang CF, Hsiao WW, Yeh TJ, Chang CM, Liu YW, Wang TY, Yang KC, Chen TJ, Chen JC, Chen KC, Kao CY (2013) Genotyping of human neutrophil antigens (HNA) from whole genome sequencing data. BMC Med Genomics 6(1):31 The three HNA-1 antigens (a-c) are located on the low affinity Fc-γ receptor IIIb (FCGR3B :CD16b) The single known HNA-2a antigen is located on CD177. The HNA-3 antigen system has two antigens (3a and 3b) which are located on the seventh exon of the CLT2 gene (SLC44A2). The HNA-4 and HNA-5 antigen systems each have two known antigens (a and b) and are located in the β2 integrin. HNA-4 is located on the αM chain (CD11b) and HNA-5 is located on the αL integrin unit (CD11a).
+
+==Media==
+
+Image:S1-Polymorphonuclear Cells with Conidia in Liquid Media.ogg|A rapidly moving neutrophil can be seen taking up several conidia over an imaging time of 2 hours with one frame every 30 seconds.
+Image:S15-Competitive Phagocytosis Assay in Collagen.ogg|A neutrophil can be seen here selectively taking up several Candida yeasts (fluorescently labeled in green) despite several contacts with Aspergillus fumigatus conidia (unlabeled, white/clear) in a 3-D collagen matrix. Imaging time was 2 hours with one frame every 30 seconds.
+
+ Neutrophils display highly directional amoeboid motility in infected footpad and phalanges. Intravital imaging was performed in the footpad path of LysM-eGFP mice 20 minutes after infection with LM. 
+
+==Additional images==
+
+ Image:Neutrophil with anthrax copy.jpg|A scanning electron microscope image of a single neutrophil (yellow), engulfing anthrax bacteria (orange)
+ Image:Illu blood cell lineage.jpg|Blood cell lineage
+ Image:Hematopoiesis (human) diagram.png|More complete lineages (very large)
+
+==References==
+
+===Cited text===
+*
+
+

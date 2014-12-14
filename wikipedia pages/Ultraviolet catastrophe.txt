@@ -1,0 +1,40 @@
+[[Ultraviolet catastrophe]]
+
+The ultraviolet catastrophe is the error at short wavelengths in the Rayleigh–Jeans law (depicted as "classical theory" in the graph) for the energy emitted by an ideal black-body. The error, much more pronounced for short wavelengths, is the difference between the black curve (the wrong curve predicted by the Rayleigh–Jeans law) and the blue curve (the correct curve predicted by Planck's law).
+
+The ultraviolet catastrophe, also called the Rayleigh–Jeans catastrophe, was a prediction of late 19th century/early 20th century classical physics that an ideal black body at thermal equilibrium will emit radiation with infinite power.
+
+The term "ultraviolet catastrophe" was first used in 1911 by Paul Ehrenfest, although the concept goes back to 1900 with the first derivation of the dependence of the Rayleigh–Jeans law; the word "ultraviolet" refers to the fact that the problem appears in the short wavelength region of the electromagnetic spectrum. Since the first appearance of the term, it has also been used for other predictions of a similar nature, as in quantum electrodynamics and such cases as ultraviolet divergence.
+
+== Problem ==
+The ultraviolet catastrophe results from the equipartition theorem of classical statistical mechanics which states that all harmonic oscillator modes (degrees of freedom) of a system at equilibrium have an average energy of .
+
+An example, from Mason's A History of the Sciences, 
+
+ illustrates multi-mode vibration via a piece of string. As a natural vibrator, the string will oscillate with specific modes (the standing waves of a string in harmonic resonance), dependent on the length of the string. In classical physics, a radiator of energy will act as a natural vibrator. And, since each mode will have the same energy, most of the energy in a natural vibrator will be in the smaller wavelengths and higher frequencies, where most of the modes are. 
+
+According to classical electromagnetism, the number of electromagnetic modes in a 3-dimensional cavity, per unit frequency, is proportional to the square of the frequency. This therefore implies that the radiated power per unit frequency should follow the Rayleigh–Jeans law, and be proportional to frequency squared. Thus, both the power at a given frequency and the total radiated power is unlimited as higher and higher frequencies are considered: this is clearly unphysical as the total radiated power of a cavity is not observed to be infinite, a point that was made independently by Einstein and by Lord Rayleigh and Sir James Jeans in the year 1905.
+
+== Solution ==
+Max Planck solved the problem by postulating that electromagnetic energy did not follow the classical description, but could only be emitted in discrete packets of energy proportional to the frequency, as given by Planck's law. This has the effect of reducing the number of possible excited modes with a given frequency in the cavity described above, and thus the average energy at those frequencies. The radiated power eventually goes to zero at infinite frequencies, and the total predicted power is finite. The formula for the radiated power for the idealized system (black body) was in line with known experiments, and came to be called Planck's law of black body radiation. Based on past experiments, Planck was also able to determine the value of its parameter, now called Planck's constant. The packets of energy later came to be called photons, and played a key role in the quantum description of electromagnetism. "Planck's constant" – University of Oregon – 21st Century Science Lectures – Retrieved 2 April 2011. 
+
+== Historical inaccuracies ==
+
+Many popular histories of physics, as well as a number of physics textbooks, present an incorrect version of the history of the ultraviolet catastrophe. In this version, the "catastrophe" was first noticed by Planck, who developed his formula in response. In fact Planck never concerned himself with this aspect of the problem, because he did not believe that the equipartition theorem was fundamental – his motivation for introducing "quanta" was entirely different. That Planck's proposal happened to provide a solution for it was realized much later, as stated above. 
+Though this has been known by historians for many decades, the historically incorrect version persists, in part because Planck's actual motivations for the proposal of the quantum are complicated and difficult to summarize to a lay audience. For some of the historiographical debates over what actually motivated Planck, see 
+
+==In popular culture==
+
+Ultraviolet catastrophe has appeared in popular culture as the title to a children's book by New Zealand author Margaret Mahy. The reference in the title isn't directly related to the physics concept, but rather to the catch-phrase of the main character's great-uncle who would have been roughly contemporary with the discovery of Planck's constant.
+
+In 1998, The Chemical Brothers released a DJ mix CD called Brothers Gonna Work It Out, which featured a song by a San Francisco techno / breakbeat band named The Ultraviolet Catastrophe.
+
+==See also==
+*Wien approximation
+
+==References==
+
+*
+*
+
+

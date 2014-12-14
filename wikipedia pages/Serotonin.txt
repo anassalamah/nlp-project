@@ -1,0 +1,13 @@
+[[Serotonin]]
+
+Serotonin or 5-hydroxytryptamine (5-HT) is a monoamine neurotransmitter. Biochemically derived from tryptophan, serotonin is primarily found in the gastrointestinal (GI) tract, platelets, and the central nervous system (CNS) of animals, including humans. It is popularly thought to be a contributor to feelings of well-being and happiness. 
+
+Approximately 90% of the human body's total serotonin is located in the enterochromaffin cells in the alimentary canal (gut), where it is used to regulate intestinal movements. The remainder is synthesized in serotonergic neurons of the CNS, where it has various functions. These include the regulation of mood, appetite, and sleep. Serotonin also has some cognitive functions, including memory and learning. Modulation of serotonin at synapses is thought to be a major action of several classes of pharmacological antidepressants.
+
+Serotonin secreted from the enterochromaffin cells eventually finds its way out of tissues into the blood. There, it is actively taken up by blood platelets, which store it. When the platelets bind to a clot, they release serotonin, where it serves as a vasoconstrictor and helps to regulate hemostasis and blood clotting. Serotonin also is a growth factor for some types of cells, which may give it a role in wound healing.
+
+Serotonin is metabolized mainly to 5-HIAA, chiefly by the liver. Metabolism involves first oxidation by monoamine oxidase to the corresponding aldehyde. This is followed by oxidation by aldehyde dehydrogenase to 5-HIAA, the indole acetic acid derivative. The latter is then excreted by the kidneys. One type of tumor, called carcinoid, sometimes secretes large amounts of serotonin into the blood, which causes various forms of the carcinoid syndrome of flushing (serotonin itself does not cause flushing. Potential causes of flushing in carcinoid syndrome include bradykinins, prostaglandins, tachykinins, substance P, and/or histamine.), diarrhea, and heart problems. Because of serotonin's growth-promoting effect on cardiac myocytes, persons with serotonin-secreting carcinoid may suffer a right heart (tricuspid) valve disease syndrome, caused by proliferation of myocytes onto the valve.
+
+In addition to animals, serotonin is found in fungi and plants. Serotonin's presence in insect venoms and plant spines serves to cause pain, which is a side-effect of serotonin injection. Serotonin is produced by pathogenic amoebae, and its effect on the gut causes diarrhea. Its widespread presence in many seeds and fruits may serve to stimulate the digestive tract into expelling the seeds.
+
+== Functions ==

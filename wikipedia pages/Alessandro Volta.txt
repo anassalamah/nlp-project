@@ -1,0 +1,75 @@
+[[Alessandro Volta]]
+
+Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 &ndash; March 5, 1827) was an Italian Giuliano Pancaldi, "Volta: Science and culture in the age of enlightenment", Princeton University Press, 2003. Alberto Gigli Berzolari, "Volta's Teaching in Como and Pavia"- Nuova voltiana physicist known for the invention of the battery in the 1800s.
+
+==Early life and works==
+
+Volta was born in Como, a town in present-day northern Italy (near the Swiss border) on February 18, 1745. In 1774, he became a professor of physics at the Royal School in Como. A year later, he improved and popularized the electrophorus, a device that produced static electricity. His promotion of it was so extensive that he is often credited with its invention, even though a machine operating on the same principle was described in 1762 by the Swedish experimenter Johan Wilcke. , p.73 Joh. Carl Wilcke (1762) "Ytterligare rön och försök om contraira electriciteterne vid laddningen och därtil hörande delar" (Additional findings and experiments on the opposing electric charges are created during charging, and parts related thereto) Kongliga Svenska Vetenskaps Academiens Handlingar (Proceedings of the Royal Swedish Science Academy), vol. 23, pages 206-229, 245-266. 
+
+In the years between 1776–78, Volta studied the chemistry of gases. He discovered methane after reading a paper by Benjamin Franklin of America on "flammable air", and Volta searched for it carefully in Italy. In November 1776, he found methane at Lake Maggiore, Alessandro Volta, Lettere del Signor Don Alessandro Volta … Sull' Aria Inflammabile Nativa delle Paludi of Signor Don Alessandro Volta … on the flammable native air of the marshes (Milan, (Italy): Guiseppe Marelli, 1777). and by 1778 he managed to isolate methane. He devised experiments such as the ignition of methane by an electric spark in a closed vessel. Volta also studied what we now call electrical capacitance, developing separate means to study both electrical potential (V ) and charge (Q ), and discovering that for a given object, they are proportional. This may be called Volta's Law of capacitance, and it was for this work the unit of electrical potential has been named the volt.
+
+In 1779 he became a professor of experimental physics at the University of Pavia, a chair that he occupied for almost 40 years. In 1794, Volta married an aristocratic lady also from Como, Teresa Peregrini, with whom he raised three sons: Giovanni, Flaminio and Zanino. 
+
+==Volta and Galvani==
+Luigi Galvani
+
+Luigi Galvani discovered something he named "animal electricity" when two different metals were connected in series with the frog's leg and to one another. Volta realized that the frog's leg served as both a conductor of electricity (what we would now call an electrolyte) and as a detector of electricity. He replaced the frog's leg with brine-soaked paper, and detected the flow of electricity by other means familiar to him from his previous studies. In this way he discovered the electrochemical series, and the law that the electromotive force (emf) of a galvanic cell, consisting of a pair of metal electrodes separated by electrolyte, is the difference between their two electrode potentials (thus, two identical electrodes and a common electrolyte give zero net emf). This may be called Volta's Law of the electrochemical series.
+
+In 1800 as the result of a professional disagreement over the galvanic response advocated by Galvani, he invented the voltaic pile, an early electric battery, which produced a steady electric current. Volta had determined that the most effective pair of dissimilar metals to produce electricity was zinc and silver. Initially he experimented with individual cells in series, each cell being a wine goblet filled with brine into which the two dissimilar electrodes were dipped. The voltaic pile replaced the goblets with cardboard soaked in brine.
+
+==First battery==
+
+In announcing his discovery of his voltaic pile, Volta paid tribute to the influences of William Nicholson, Tiberius Cavallo, and Abraham Bennet. 
+
+Voltaic pile
+The battery made by Volta is credited as the first electrochemical cell. It consists of two electrodes: one made of zinc, the other of copper. The electrolyte is either sulfuric acid mixed with water or a form of saltwater brine. The electrolyte exists in the form 2H+ and SO42−. The zinc, which is higher than both copper and hydrogen in the electrochemical series, reacts with the negatively charged sulfate (SO42−). The positively charged hydrogen ions (protons) capture electrons from the copper, forming bubbles of hydrogen gas, H2. This makes the zinc rod the negative electrode and the copper rod the positive electrode.
+
+Thus, there are two terminals, and an electric current will flow if they are connected. The chemical reactions in this voltaic cell are as follows:
+
+:zinc
+: Zn → Zn2+ + 2e−
+
+:sulfuric acid
+: 2H+ + 2e− → H2
+
+The copper does not react, but rather it functions as an electrode for the electric current.
+
+However, this cell also has some disadvantages. It is unsafe to handle, since sulfuric acid, even if diluted, can be hazardous. Also, the power of the cell diminishes over time because the hydrogen gas is not released. Instead, it accumulates on the surface of the zinc electrode and forms a barrier between the metal and the electrolyte solution.
+
+==Last years and retirement==
+Volta explains the principle of the "electric column" to Napoleon
+
+In honor of his work, Volta was made a count by Napoleon Bonaparte in 1801. Furthermore, his image was depicted upon the Italian 10,000 lira note (no longer in circulation, since the lira has been replaced by the euro) along with a sketch of his well-known voltaic pile.
+
+Volta retired in 1819 to his estate in Camnago,a frazione of Como, Italy, now named "Camnago Volta" in his honor. He died there on March 5, 1827. Volta's remains were also buried in Camnago Volta. For a photograph of his gravesite, and other Volta locales, see 
+
+Volta's legacy is celebrated by the Tempio Voltiano memorial located in the public gardens by the lake. There is also a museum which has been built in his honor, and it exhibits some of the original equipment that Volta used to conduct experiments. Not far away stands the Villa Olmo, which houses the Voltian Foundation, an organization promoting scientific activities. Volta carried out his experimental studies and produced his first inventions near Como.
+
+==Religious beliefs==
+Volta was raised as a Catholic and for all of his life continued to maintain a strong faith and to attend church. 
+
+==Publications==
+De vi attractiva ignis electrici (1769) (On the attractive force of electric fire)
+
+==See also==
+* Volta Prize
+* Luigi Galvani
+* Eudiometer
+* History of the battery
+* Volta (lunar crater)
+* History of the internal combustion engine
+* Lemon battery
+
+==References==
+
+==External links==
+
+*
+*Volta and the "Pile"
+*Alessandro Volta
+*Count Alessandro Giuseppe Antonio Anastasio Volta: A Pioneer in Electrochemistry
+*Count Alessandro Volta
+*Alessandro Volta (1745-1827)
+*
+
+

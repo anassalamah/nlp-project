@@ -1,0 +1,232 @@
+[[Syllable]]
+
+A syllable (from the Greek συλλαβή, syn = 'co, together' + labe = 'grasp', thus meaning a handful letters) is a unit of organization for a sequence of speech sounds. For example, the word water is composed of two syllables: wa and ter. A syllable is typically made up of a syllable nucleus (most often a vowel) with optional initial and final margins (typically, consonants).
+
+Syllables are often considered the phonological "building blocks" of words. They can influence the rhythm of a language, its prosody, its poetic meter and its stress patterns.
+
+Syllabic writing began several hundred years before the first letters. The earliest recorded syllables are on tablets written around 2800 BC in the Sumerian city of Ur. This shift from pictograms to syllables has been called "the most important advance in the history of writing". Geoffrey Blainey, A Short History of the World, p.87, citing J.T. Hooker et al., Reading the Past: Ancient Writing from Cuneiform to the Alphabet, British Museum, 1993, Ch. 2 
+
+A word that consists of a single syllable (like English dog) is called a monosyllable (and is said to be monosyllabic). Similar terms include disyllable (and disyllabic) for a word of two syllables; trisyllable (and trisyllabic) for a word of three syllables; and polysyllable (and polysyllabic), which may refer either to a word of more than three syllables or to any word of more than one syllable.
+
+==Structure==
+Syllable components as a directed graph
+In most theories of phonology, the general structure of a syllable (σ) consists of three segments:
+; Onset (ω): consonant, obligatory in some languages, optional or even restricted in others
+; Nucleus (ν): sonorant, obligatory in most languages
+; Coda (κ): consonant, optional in some languages, highly restricted or prohibited in others
+The syllable is usually considered right-branching, i.e. nucleus and coda are grouped together as a "rime" and are only distinguished at the second level. However, in some traditional descriptions of certain languages, the syllable is considered left-branching, i.e. onset and nucleus group below a higher-level unit, called a "body" or "core": 
+; Rime (ρ): right branch, contrasts with onset, splits into nucleus and coda
+; Body or core: left branch, contrasts with coda, splits into onset and nucleus
+In some theories the onset is strictly consonantal, thus necessitating another segment before the nucleus:
+; Initial (ι): often termed onset, but leaving out semi-vowels
+; Medial (μ): glide between initial, if any, and nucleus or rime
+; Final (φ): contrasts with initial, extended rime
+Although every syllable has supra-segmental features, these are usually ignored if not semantically relevant, e.g. in tonal languages.
+; Tone (τ): may be carried by the syllable as a whole or by the rime
+
+In some theories of phonology, these syllable structures are displayed as tree diagrams (similar to the trees found in some types of syntax). Not all phonologists agree that syllables have internal structure; in fact, some phonologists doubt the existence of the syllable as a theoretical entity. See CUNY Conference on the Syllable for discussion of the theoretical existence of the syllable. 
+
+The nucleus is usually the vowel in the middle of a syllable. The onset is the sound or sounds occurring before the nucleus, and the coda (literally 'tail') is the sound or sounds that follow the nucleus. They are sometimes collectively known as the shell. The term rime covers the nucleus plus coda. In the one-syllable English word cat, the nucleus is a (the sound that can be shouted or sung on its own), the onset c, the coda t, and the rime at. This syllable can be abstracted as a consonant-vowel-consonant syllable, abbreviated CVC. Languages vary greatly in the restrictions on the sounds making up the onset, nucleus and coda of a syllable, according to what is termed a language's phonotactics.
+
+===Onset===
+640px
+
+The onset is the consonant sound or sounds at the beginning of a syllable, occurring before the nucleus. Most syllables have an onset. Some languages restrict onsets to be only a single consonant, while others allow multiconsonant onsets according to various rules. For example, in English, onsets such as pr-, pl- and tr- are possible but tl- is not, and sk- is possible but ks- is not. In Greek, however, both ks- and tl- are possible onsets, while contrarily in Classical Arabic no multiconsonant onsets are allowed at all.
+
+Some languages require all syllables to have an onset; in these languages a null onset such as in the English word "at" is not possible. This is less strange than it may appear at first, as most such languages allow syllables to begin with a phonemic glottal stop (the sound in the middle of English "uh-oh", represented in the IPA as /ʔ/). Furthermore, in English and most other languages, a word that begins with a vowel is automatically pronounced with an initial glottal stop when following a pause, whether or not a glottal stop occurs as a phoneme in the language. Consequently, few languages make a phonemic distinction between a word beginning with a vowel and a word beginning with a glottal stop followed by a vowel, since the distinction will generally only be audible following another word. (However, Hawaiian and a number of other Polynesian languages do make such a distinction; cf. Hawaiian "fire", / "tuna".)
+
+This means that the difference between a syllable with a null onset and one beginning with a glottal stop is often purely a difference of phonological analysis, rather than the actual pronunciation of the syllable. In some cases, the pronunciation of a (putatively) vowel-initial word when following another word – particularly, whether or not a glottal stop is inserted – indicates whether the word should be considered to have a null onset. For example, many Romance languages such as Spanish never insert such a glottal stop, while English does so only some of the time, depending on factors such as conversation speed; in both cases, this suggests that the words in question are truly vowel-initial. But there are exceptions here, too. For example, standard German (excluding many southern accents) and Arabic both require that a glottal stop be inserted between a word and a following, putatively vowel-initial word. Yet such words are said to begin with a vowel in German but a glottal stop in Arabic. The reason for this has to do with other properties of the two languages. For example, a glottal stop does not occur in other situations in German, e.g. before a consonant or at the end of word. On the other hand, in Arabic, not only does a glottal stop occur in such situations (e.g. Classical "he asked", "opinion", "light"), but it occurs in alternations that are clearly indicative of its phonemic status (cf. Classical "writer" vs. /mak "written", "eater" vs. "eaten").
+
+The writing system of a language may not correspond with the phonological analysis of the language in terms of its handling of (potentially) null onsets. For example, in some languages written in the Latin alphabet, an initial glottal stop is left unwritten; on the other hand, some languages written using non-Latin alphabets such as abjads and abugidas have a special zero consonant to represent a null onset. As an example, in Hangul, the alphabet of the Korean language, a null onset is represented with ㅇ at the left or top section of a grapheme, as in 역 "station", pronounced yeok, where the diphthong yeo is the nucleus and k is the coda.
+
+===Nucleus===
+375px
+
+ 
+ Examples of syllable nuclei 
+ Word Nucleus 
+ cat 
+ bed 
+ ode 
+ beet 
+ bite 
+ rain 
+ bitten or or 
+
+The nucleus is usually the vowel in the middle of a syllable. Generally, every syllable requires a nucleus (sometimes called the peak), and the minimal syllable consists only of a nucleus, as in the English words "eye" or "owe". The syllable nucleus is usually a vowel, in the form of a monophthong, diphthong, or triphthong, but sometimes is a syllabic consonant. By far the most common syllabic consonants are sonorants like , , , or , but a few languages have so-called syllabic fricatives, also known as fricative vowels. (In the context of Chinese phonology, the related but non-synonymous term apical vowel is commonly used.) Mandarin Chinese is famous for having such sounds in at least some of its dialects, for example the pinyin syllables sī shī rī, sometimes pronounced respectively. A few languages, such as Nuxalk (Bella Coola), even allow stop consonants and voiceless fricatives as syllabic nuclei. However, linguists have analyzed this situation in various ways, some arguing that such syllables have no nucleus at all, and some arguing that the concept of "syllable" cannot clearly be applied at all to these languages. See the discussion below concerning syllable-less languages.
+
+===Coda===
+
+690px
+
+The coda comprises the consonant sounds of a syllable that follow the nucleus, which is usually a vowel. The combination of a nucleus and a coda is called a rime. Some syllables consist only of a nucleus with no coda. Some languages' phonotactics limit syllable codas to a small group of single consonants, whereas others allow any consonant phoneme or even clusters of consonants.
+
+A coda-less syllable of the form V, CV, CCV, etc. (V = vowel, C = consonant) is called an open syllable (or free syllable), while a syllable that has a coda (VC, CVC, CVCC, etc.) is called a closed syllable (or checked syllable). Note that they have nothing to do with open and close vowels. Almost all languages allow open syllables, but some, such as Hawaiian, do not have closed syllables.
+
+Note that when a syllable is not the last syllable in a word, the nucleus normally must be followed by two consonants in order for the syllable to be closed. This is because a single following consonant is typically considered the onset of the following syllable. For example, Spanish casar "to marry" is composed of an open syllable followed by a closed syllable (ca-sar), whereas cansar "to get tired" is composed of two closed syllables (can-sar). When a geminate (double) consonant occurs, the syllable boundary occurs in the middle, e.g. Italian panna "cream" (pan-na); cf. Italian pane "bread" (pa-ne).
+
+English single-syllable words that have both a nucleus and a coda (i.e. closed syllables), where ν denotes "nucleus" and κ "coda":
+*in: ν = , κ = 
+*cup: ν = , κ = 
+*tall: ν = , κ = 
+*milk: ν = , κ = 
+*tints: ν = , κ = 
+*fifths: ν = , κ = 
+*sixths: ν = , κ = 
+*twelfths: ν = , κ = 
+*strengths: ν = , κ = 
+
+The following single-syllable words end in a nucleus and do not have a coda (i.e. open syllables):
+*glue, ν = 
+*pie, ν = or 
+*though, ν = (UK) or (US)
+*boy, ν = 
+
+A list of examples of syllable codas in English is found at phonology#Coda|English phonology: Coda].
+
+=== Rime ===
+600px
+
+The rime or rhyme of a syllable consists of a nucleus and an optional coda. It is the part of the syllable used in poetic rhyme, and the part that is lengthened or stressed when a person elongates or stresses a word in speech.
+
+The rime is usually the portion of a syllable from the first vowel to the end. For example, is the rime of all of the words at, sat, and flat. However, the nucleus does not necessarily need to be a vowel in some languages. For instance, the rime of the second syllables of the words bottle and fiddle is just , a liquid consonant.
+
+"Rime" and "rhyme" are variants of the same word, but the rarer form "rime" is sometimes used to mean specifically "syllable rime" to differentiate it from the concept of poetic rhyme. This distinction is not made by some linguists and does not appear in most dictionaries.
+
+==== Structure ====
+Segmental model for cat and sing
+Hierarchical model for cat and sing
+The simplest model of syllable structure divides each syllable into an optional onset, an obligatory nucleus and an optional coda.
+
+There exist, however, many arguments for a hierarchical relationship, rather than a linear one, between the syllable constituents. This hierarchical model groups the syllable nucleus and coda into an intermediate level, the rime. The hierarchical model accounts for the role that the nucleus+coda constituent plays in verse (i.e., rhyming words such as cat and bat are formed by matching both the nucleus and coda, or the entire rhyme), and for the distinction between heavy and light syllables, which plays a role in phonological processes such as, for example, sound change in Old English scipu and wordu. 
+
+Branching nucleus for pout and branching coda for pondJust as the rime branches into the nucleus and coda, the nucleus and coda may each branch into multiple phonemes. The limit for the number of phonemes which may be contained in each varies by language. For example, Japanese and most Sino-Tibetan languages do not have consonant clusters at the beginning or end of syllables, whereas many Eastern European languages can have more than two consonants at the beginning or end of the syllable. In English, the onset, nucleus, and coda may all have two phonemes, as in the word flouts: in the onset, the diphthong in the nucleus, and in the coda. 
+
+ Examples C = consonant, V = vowel, optional components are in parentheses. structure: syllable = onset + rhyme 
+ C⁺V⁺C*: C₁(C₂)V₁(V₂)(C₃)(C₄) = C₁(C₂) + V₁(V₂)(C₃)(C₄) 
+ V⁺C*: V₁(V₂)(C₃)(C₄) = ∅ + V₁(V₂)(C₃)(C₄) 
+ 
+
+===Medial and final===
+
+545px
+
+In the phonology of some East Asian languages, especially Chinese, the syllable structure is expanded to include an additional, optional segment known as a medial, which is located between the onset (often termed the initial in this context) and the rime. The medial is normally a glide consonant, but reconstructions of Old Chinese generally include liquid medials ( in modern reconstructions, in older versions), and many reconstructions of Middle Chinese include a medial contrast between and , where the functions phonologically as a glide rather than as part of the nucleus. In addition, many reconstructions of both Old and Middle Chinese include complex medials such as , , and . The medial groups phonologically with the rime rather than the onset, and the combination of medial and rime is collectively known as the final.
+
+Some linguists, especially when discussing the modern Chinese varieties, use the terms "final" and "rime/rhyme" interchangeably. In historical Chinese phonology, however, the distinction between "final" (including the medial) and "rime" (not including the medial) is important in understanding the rime dictionaries and rime tables that form the primary sources for Middle Chinese, and as a result most authors distinguish the two according to the above definition.
+
+===Tone===
+
+In most languages, the pitch or pitch contour in which a syllable is pronounced conveys shades of meaning such as emphasis or surprise, or distinguishes a statement from a question. In tonal languages, however, the pitch affects the basic lexical meaning (e.g. "cat" vs. "dog") or grammatical meaning (e.g. past vs. present). In some languages, only the pitch itself (e.g. high vs. low) has this effect, while in others, especially East Asian languages such as Chinese, Thai or Vietnamese, the shape or contour (e.g. level vs. rising vs. falling) also needs to be distinguished.
+
+===Weight===
+
+A heavy syllable is generally one with a branching rime, i.e. it is either a closed syllable that ends in a consonant, or a syllable with a branching nucleus, i.e. a long vowel or diphthong. The name is a metaphor, based on the nucleus or coda having lines that branch in a tree diagram.
+
+In some languages, heavy syllables include both VV (branching nucleus) and VC (branching rime) syllables, contrasted with V, which is a light syllable.
+In other languages, only VV syllables are considered heavy, while both VC and V syllables are light.
+Some languages distinguish a third type of superheavy syllable, which consists of VVC syllables (with both a branching nucleus and rime) or VCC syllables (with a coda consisting of two or more consonants) or both.
+
+In moraic theory, heavy syllables are said to have two moras, while light syllables are said to have one and superheavy syllables are said to have three. Japanese phonology is generally described this way.
+
+Many languages forbid superheavy syllables, while a significant number forbid any heavy syllable. Some languages strive for consonant syllable weight; for example, in stressed, non-final syllables in Italian, short vowels co-occur with closed syllables while long vowels co-occur with open syllables, so that all such syllables are heavy (not light or superheavy).
+
+The difference between heavy and light frequently determines which syllables receive stress – this is the case in Latin and Arabic, for example. The system of poetic meter in many classical languages, such as Classical Greek, Classical Latin, Old Tamil and Sanskrit, is based on syllable weight rather than stress (so-called quantitative rhythm or quantitative meter).
+
+===A classical definition===
+
+Guilhem Molinier, a member of the Consistori del Gay Saber, which was the first literary academy in the world and held the Floral Games to award the best troubadour with the violeta d'aur top prize, gave a definition of the syllable in his Leys d'amor (1328–1337), a book aimed at regulating the then flourishing Occitan poetry:
+
+ Sillaba votz es literals. Segon los ditz . En un accen pronunciada. Et en un trag: d'una alenada. A syllable is the sound of several letters, According to those called grammarians, Pronounced in one accent And uninterruptedly: in one breath. 
+
+==Suprasegmentals==
+The domain of suprasegmental features is the syllable and not a specific sound, that is to say, they affect all the segments of a syllable:
+*Stress
+*Tone
+*Stød
+
+Sometimes syllable length is also counted as a suprasegmental feature; for example, in some Germanic languages, long vowels may only exist with short consonants and vice versa. However, syllables can be analyzed as compositions of long and short phonemes, as in Finnish and Japanese, where consonant gemination and vowel length are independent.
+
+==Phonotactic constraints==
+Phonotactic rules determine which sounds are allowed or disallowed in each part of the syllable. English allows very complicated syllables; syllables may begin with up to three consonants (as in string or splash), and occasionally end with as many as four (as in prompts). Many other languages are much more restricted; Japanese, for example, only allows and a chroneme in a coda, and theoretically has no consonant clusters at all, as the onset is composed of at most one consonant. 
+
+There are languages that forbid empty onsets, such as Hebrew and Arabic (the names transliterated as "Israel", "Abraham", "Abel", "Omar", "Abdullah", "Iraq" and "Iran", among many others, actually begin with semiconsonantic glides or with glottal or pharyngeal consonants: yisrāʔēl, ʔaḅrāhām, heḅel, ʕumar, ʕabduḷḷāh, ʕirāq, ʔīrān in proper transcription). Conversely, some analyses of the Arrernte language of central Australia posit that no onsets are permitted at all in that language, all syllables being underlyingly of the shape VC(C). Arrernte: a language with no syllable onsets. Gavan Breen and Rob Pensalfini. Linguistic Inquiry. Vol. 30, No. 1 (1999), pp. 1-25. Massachusetts Institute of Technology. 
+
+==Notation==
+The International Phonetic Alphabet provides the period as the symbol for marking syllable breaks. In practice, however, IPA transcription is typically divided into words by spaces, and often these spaces are also understood to be syllable breaks. When a word space comes in the middle of a syllable (that is, when a syllable spans words), a tie bar can be used for liaison. The liaison tie is also used to join lexical words into phonological words, for example in the Croatian illustration in the IPA Handbook 
+
+==Syllabification==
+
+Syllabification is the separation of a word into syllables, whether spoken or written. In most languages, the actually spoken syllables are the basis of syllabification in writing too. Due to the very weak correspondence between sounds and letters in the spelling of modern English, for example, written syllabification in English has to be based mostly on etymological i.e. morphological instead of phonetic principles. English "written" syllables therefore do not correspond to the actually spoken syllables of the living language.
+
+Syllabification may also refer to the process of a consonant becoming a syllable nucleus.
+
+== Syllable division and ambisyllabicity==
+Most commonly, a single consonant between vowels is grouped with the following syllable (i.e. ), while two consonants between vowels are split between syllables (i.e. ). In some languages, however, such as Old Church Slavonic, any group of consonants that can occur at the beginning of a word is grouped with the following syllable nucleus; hence, a word such as pazdva would be syllabified . (This allows the phonotactics of the language to be defined as requiring open syllables.) Contrarily, in some languages, any group of consonants that can occur at the end of a word is grouped with the preceding syllable nucleus.
+
+In English, it has been disputed whether certain consonants occurring between vowels (especially following a stressed syllable and preceding an unstressed syllable) should be grouped with the preceding or following syllable. For example, a word such as better is sometimes analyzed as and sometimes . Some linguists have in fact asserted that such words are "ambisyllabic", with the consonant shared between the preceding and following syllables. However, Wells (2002) http://www.phon.ucl.ac.uk/home/wells/syllabif.htm argues that this is not a useful analysis, and that English syllabification is simply .
+
+In English, consonants have been analyzed as acting simultaneously as the coda of one syllable and the onset of the following syllable, as in 'bellow' bel-low, a phenomenon known as ambisyllabicity. It is argued that words such as arrow can't be divided into separately pronounceable syllables: neither nor is a possible independent syllable, and likewise with the other short vowels . However, Wells (1990) argues against ambisyllabicity in English, positing that consonants and consonant clusters are codas when after a stressed syllable followed by an unstressed syllable, or after a full vowel and followed by a reduced syllable, and are onsets in other contexts. (See English phonology#Phonotactics.)
+
+==Stress==
+Syllable structure often interacts with stress. In Latin, for example, stress is regularly determined by syllable weight, a syllable counting as heavy if it has at least one of the following:
+* a long vowel in its nucleus
+* a diphthong in its nucleus
+* one or more coda(e)
+In each case the syllable is considered to have two morae.
+
+==Vowel tenseness==
+In most Germanic languages, lax vowels can occur only in closed syllables. Therefore, these vowels are also called checked vowels, as opposed to the tense vowels that are called free vowels because they can occur even in open syllables.
+
+==Nucleus-less syllables==
+The notion of syllable is challenged by languages that allow long strings of consonants without any intervening vowel or sonorant.
+Even in English there are a few para-verbal utterances that have no vowels; for example, shh (meaning "be quiet") and psst (a sound used to attract attention).
+
+Languages of the Northwest coast of North America, including Salishan and Wakashan languages, are famous for this.
+; Nuxálk (Bella Coola)
+: 'you spat on me'
+: 'he arrived'
+: 'he had in his possession a bunchberry plant' (Bagemihl 1991:589, 593, 627) 
+: 'seal blubber'
+In Bagemihl's survey of previous analyses, he finds that the word would have been parsed into 0, 2, 3, 5, or 6 syllables depending which analysis is used. One analysis would consider all vowel and consonants segments as syllable nuclei, another would consider only a small subset (fricatives or sibilants) as nuclei candidates, and another would simply deny the existence of syllables completely.
+
+This type of phenomenon has also been reported in Berber languages (such as Indlawn Tashlhiyt Berber), Moroccan Arabic (apparently under Berber influence), Mon–Khmer languages (such as Semai, Temiar, Kammu) and Ōgami (a Miyako Ryukyuan language). http://halshs.archives-ouvertes.fr/docs/00/52/95/98/PDF/irl-ogami.pdf 
+; Indlawn Tashlhiyt Berber
+: 'you sprained it and then gave it'
+: 'rot' (imperf.) (Dell & Elmedlaoui 1985, 1988) 
+; Semai
+: 'short, fat arms' (Sloan 1988) 
+
+==See also==
+
+*English phonology#Phonotactics. Covers syllable structure in English.
+*Entering tone
+*IPA symbols for syllables
+*Line (poetry)
+*List of the longest English words with one syllable
+*Minor syllable
+*Mora (linguistics)
+*Phonology
+*Pitch accent
+*Stress (linguistics)
+*Syllabary writing system
+*Syllabic consonant
+*Syllabification
+*Timing (linguistics)
+
+==References==
+
+==Sources and recommended reading==
+
+* 
+* Clements, George N.; Keyser, Samuel J.. (1983). CV phonology: A generative theory of the syllable. Linguistic inquiry monographs (No. 9). Cambridge, MA: MIT Press. ISBN 0-262-53047-3 (pbk); ISBN 0-262-03098-5 (hb)
+* 
+* 
+* 
+
+==External links==
+* Syllable Dictionary: Look up the # of syllables in a word. Learn to divide into syllables. Hear it pronounced.
+
+* Do syllables have internal structure? What is their status in phonology? CUNY Phonology Forum
+
+

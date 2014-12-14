@@ -1,0 +1,247 @@
+[[Rosalind Franklin]]
+
+Rosalind Elsie Franklin (25 July 192016 April 1958) was a British biophysicist and X-ray crystallographer who made critical contributions to the understanding of the fine molecular structures of DNA (deoxyribonucleic acid), RNA, viruses, coal, and graphite. Her DNA work achieved the most fame because DNA plays an essential role in cell metabolism and genetics, and the discovery of its structure helped her co-workers understand how genetic information is passed from parents to their offspring.
+
+Franklin is best known for her work on the X-ray diffraction images of DNA which led to the discovery of the DNA double helix. According to Francis Crick, her data was key to determining the structure Crick's 31 December 1961 letter to Jacques Monod was discovered in the Archives of the Pasteur Institute by Doris Zeller, then reprinted in . Watson confirmed this opinion in his own statement at the opening of the King's College London Franklin–Wilkins building in 2000. to formulate Crick and Watson's 1953 model regarding the structure of DNA. Watson JD, Crick FHC (1953). "A Structure for Deoxyribose Nucleic Acid". Nature 171: 737–738. Full text PDF This article was immediately followed by the two King's submissions: M.H.F. Wilkins, A.R. Stokes, and H.R. Wilson. Molecular Structure of Deoxypentose Nucleic Acids, pp738–740 then by: Rosalind E. Franklin and R.G. Gosling. Molecular configuration of Sodium Thymonucleate pp 740–741. Franklin's images of X-ray diffraction confirming the helical structure of DNA were shown to Watson without her approval or knowledge. This image provided valuable insight into the DNA structure, but Franklin's scientific contributions to the discovery of the double helix are often overlooked. Rosalind Franklin's Legacy, Interview of Lynn Osman Elkin conducted on 26 March 2003 
+
+Unpublished drafts of her papers (written just as she was arranging to leave King's College London) show that she had independently determined the overall B-form of the DNA helix and the location of the phosphate groups on the outside of the structure. Moreover, it was a report of Franklin's that convinced Crick and Watson that the backbones had to be on the outside, which was crucial since before this both they and Linus Pauling had independently generated non-illuminating models with the chains inside and the bases pointing outwards. In Pursuit of the Gene. From Darwin to DNA — By James Schwartz. Harvard University Press, 2008 However, her work was published third, in the series of three DNA Nature articles, led by the paper of Watson and Crick which only hinted at her contribution to their hypothesis. 
+
+After finishing her portion of the work on DNA, Franklin led pioneering work on the tobacco mosaic virus and the polio virus. She died in 1958 at the age of 37 of ovarian cancer.
+
+==Early life and education==
+Franklin was born in Notting Hill, London, GRO Register of Births: SEP 1920 1a 250 KENSINGTON – Rosalind E. Franklin, mmn = Waley into an affluent and influential British Jewish family. Her father was Ellis Arthur Franklin (1894–1964), a politically liberal London merchant banker who taught at the city's Working Men's College, and her mother was Muriel Frances Waley (1894–1976). Rosalind was the elder daughter, and the second child in the family of five children.
+Her father's uncle was Herbert Samuel (later Viscount Samuel), who was the Home Secretary in 1916 and the first practising Jew to serve in the British Cabinet. Maddox p. 7 Her aunt, Helen Caroline Franklin, was married to Norman de Mattos Bentwich, who was the Attorney General in the British Mandate of Palestine. Segev p. She was active in trade union organisation and the women's suffrage movement, and was later a member of the London County Council. Maddox p. 40 Franklin herself later became an agnostic. "This flat declaration prompted Ellis Franklin to accuse his strong-willed daughter of making science her religion. He was right. Rosalind sent him a four-page declaration, eloquent for a young woman just over 20, let alone a scientist of any age. ..."It has just occurred to me that you may raise the question of a creator. A creator of what? I see no reason to believe that a creator of protoplasm or primeval matter, if such there be, has any reason to be interested in our insignificant race in a tiny corner of the universe, and still less in us, as still more insignificant individuals. Again, I see no reason why the belief that we are insignificant or fortuitous should lessen our faith – as I have defined it."" Brenda Maddox, Mother of DNA, NewHumanist.org.uk – Volume 117 Issue 3 Autumn 2002. Listed as an agnostic on NNDB.com. Rosalind Franklin, NNDB.com. Her uncle, Hugh Franklin was another prominent figure in the suffrage movement, although his actions, which once included attacking Winston Churchill with a whip, embarrassed the Franklin family. 
+
+From early childhood, Franklin showed exceptional scholastic abilities. She was educated at St Paul's Girls' School Maddox p. 25 Sayre p. 41 where she excelled in science, Latin Maddox p. 30 and sports. Maddox, p. 26 Her family was actively involved with a Working Men's College, where her father taught electricity, magnetism, and the history of the Great War in the evenings and later became the vice-principal. Maddox, p. 20 Sayre, p. 35 Later Franklin's family helped settle Jewish refugees from Europe who had escaped the Nazis. 
+
+==Cambridge, Kingston and Paris==
+Franklin went up to Newnham College, Cambridge, in 1938 and studied chemistry within the Natural Sciences Tripos. One of the demonstrators who taught her was the spectroscopist W.C. Price. Later, he was one of her senior colleagues at King's College. R.N. Dixon, D.M. Agar and R.E. Burge, William Charles Price. 1 April 1909 – 10 March 1993, Biographical Memoirs of Fellows of the Royal Society, vol. 43, page 438, line 17, 1997. In 1941 she was awarded Second Class Honours in her Finals. This was accepted as a bachelor's degree in the qualifications for employment. Cambridge started to award the titular B.A. and M.A. to women in 1947, and the previous women graduates received these retroactively. Fact sheet: Women at Cambridge: A Chronology, . 
+
+Franklin was awarded a research fellowship and, according to an entry on the web site of the Dolan DNA Learning Center of the Cold Spring Harbor Laboratory, "She spent a year in R.G.W. Norrish's lab without great success." Rosalind Franklin, Cold Spring Harbor Laboratory's Dolan DNA Learning Center, ID 1649, . Resigning from Norrish's Lab, Franklin fulfilled the requirements of the National Service Act by working as an Assistant Research Officer at the British Coal Utilisation Research Association (BCURA). The BCURA was located on the Coombe Springs Estate, near Kingston upon Thames on the southwestern outskirts of London. Professor Norrish was a wartime advisor to BCURA. John G. Bennett was the Director. Marcello Pirani and Victor Goldschmidt, both refugees from the Nazis, were consultants and lectured at BCURA while Franklin was there. 
+
+She studied the porosity of coal, comparing its density to that of helium. Through this, she discovered the relationship between the fine constrictions in the pores in coals and the permeability of the pore space. By concluding that substances were expelled in order of molecular size as temperature increased, Franklin helped classify coals and accurately predict their performance for fuel purposes and in the production of wartime devices (i.e. gas masks). This work was the basis of her Ph.D. thesis The physical chemistry of solid organic colloids with special reference to coal for which Cambridge University awarded her a Ph.D. in 1945. It was also the basis of several papers. 
+
+The French scientist Adrienne Weill was one of Franklin's tutors at Newnham. At the end of the war, according to Anne Sayre, author of Rosalind Franklin and DNA, Franklin asked Weill to let her know of job openings for "a physical chemist who knows very little physical chemistry, but quite a lot about the holes in coal". At a conference in the autumn of 1946, Weill introduced Franklin to Marcel Mathieu, a director of the Centre National de la Recherche Scientifique (CNRS), the network of institutes that comprise the major part of the scientific research laboratories supported by the French government. This led to Franklin's appointment with Jacques Mering at the Laboratoire Central des Services Chimiques de l'Etat in Paris.
+
+Mering was an X-ray crystallographer who applied X-ray diffraction to the study of rayon and other amorphous substances, in contrast to the thousands of regular crystals that had been studied by this method for many years. He taught her the practical aspects of applying X-ray crystallography to amorphous substances. This presented new challenges in the conduct of experiments and the interpretation of results. Franklin applied them to further problems related to coal, in particular the changes to the arrangement of atoms when it is converted to graphite. Franklin published several further papers on this work. It became part of the mainstream of work on the physics and chemistry of coal, covered by a current monograph, D. W. van Krevelen, Coal, Third Edition: Typology – Physics – Chemistry – Constitution, Elsevier, New York, 1993. the annual Chemistry and Physics of Carbon, vol 1–, 1968–, Elsevier, New York. and other publications. Mering also continued the study of carbon in various forms, using X-ray diffraction and other methods. G. Terriere, A. Oberlin, J. Mering, Oxidation of graphite in liquid medium -- observations by means of microscopy and electron diffraction, Carbon, 5, 431--, 1967. 
+
+==King's College London==
+
+In January 1951, Franklin started working as a research associate at King's College London in the Medical Research Council's (MRC) Biophysics Unit, directed by John Randall. Maddox, p. 124 Although originally she was to have worked on X-ray diffraction of proteins and lipids in solution, Randall redirected her work to DNA fibres before she started working at King's since Franklin was to be the only experienced experimental diffraction researcher at King's in 1951. Maddox, p. 114 Wilkins, Wilkins, M., The Third Man of the Double Helix, an autobiography (2003) Oxford University Press, Oxford. pp. 143–144 He made this reassignment, even before she started working at King's, because of the following pioneering work by Maurice Wilkins and Raymond Gosling – a Ph.D. student assigned to help Franklin. The Dark Lady Of DNA by Branda Maddox Wilkins, p. 121 
+
+Even using crude equipment, these two men had obtained an outstanding diffraction picture of DNA which sparked further interest in this molecule. Wilkins and Gosling had been carrying out X-ray diffraction analysis of DNA in the unit since May 1950, but Randall had not informed them that he had asked Franklin to take over both the DNA diffraction work and guidance of Gosling's thesis. Maddox, pp. 149–150, Elkin, p 45. Elkin, L.O. Rosalind Franklin and the Double Helix. Physics Today, March 2003(available free on-line, see references). Olby, R. The Path to the Double Helix (London: MacMillan, 1974). Randall's lack of communication about this reassignment significantly contributed to the well documented friction that developed between Wilkins and Franklin. Sayre, Olby, Maddox, Elkin, Wilkins 
+
+Franklin, working with her student Raymond Gosling, Maddox, p. 129 started to apply her expertise in X-ray diffraction techniques to the structure of DNA. She used a new fine focus X-ray tube and microcamera ordered by Wilkins, but which she refined, adjusted and focused carefully. Drawing upon her physical chemistry background, Franklin also skillfully manipulated the critical hydration of her specimens. Elkin, p. 43 When Wilkins inquired about this improved technique, Franklin replied in terms which offended Wilkins as Franklin had "an air of cool superiority". Wilkins p. 155 
+
+Franklin's habit of intensely looking people in the eye while being concise, impatient and directly confrontational to the point of abrasiveness unnerved many of her colleagues. In stark contrast, Wilkins was very shy, and slowly calculating in speech while he avoided looking anyone directly in the eye. Elkin p. 45 In spite of the intense atmosphere, Franklin and Gosling discovered that there were two forms of DNA: at high humidity (when wet), the DNA fibre became long and thin; when it was dried it became short and fat. Maddox, p. 153 Wilkins, p. 154 
+
+These forms were termed DNA "B" and "A" respectively. Because of the intense personality conflict developing between Franklin and Wilkins, Randall Maddox p 155 divided the work on DNA. Franklin chose the data rich A form while Wilkins selected the "B" form Wilkins, p. 158 Maddox, p. 155 because his preliminary pictures had hinted it might be helical. He showed tremendous insight in this assessment of preliminary data. The X-ray diffraction pictures taken by Franklin at this time have been called, by J. D. Bernal, "amongst the most beautiful X-ray photographs of any substance ever taken". 
+
+By the end of 1951 it was generally accepted at King's that the B form of DNA was a helix, but after she had recorded an asymmetrical image in 1952 May, Franklin became unconvinced that the A form of DNA was helical in structure. Wilkins, p. 176 In July 1952, as a practical joke on Wilkins (who frequently expressed his view that DNA was helical), Franklin and Gosling produced a death notice regretting the 'death' of helical crystalline DNA (A-DNA). Wilkins, p. 182 During 1952, Rosalind Franklin and Raymond Gosling worked at applying the Patterson function to the X-ray pictures of DNA they had produced. Maddox, p. 168 This was a long and labour-intensive approach but would yield significant insight into the structure of the molecule. Maddox, p. 169 Wilkins, pp. 232–233 
+
+By January 1953, Franklin had reconciled her conflicting data, concluding that both DNA forms had two helices, and had started to write a series of three draft manuscripts, two of which included a double helical DNA backbone (see below). Her two A form manuscripts reached Acta Crystallographica in Copenhagen on 6 March 1953, Franklin, R.E. and Gosling, R.G. authors of papers received 6 March 1953 Acta Cryst. (1953). 6, 673 The Structure of Sodium Thymonucleate Fibres I. The Influence of Water Content Acta Cryst. (1953). 6, 678 The Structure of Sodium Thymonucleate Fibres II. The Cylindrically Symmetrical Patterson Function one day before Crick and Watson had completed their model. Maddox p 205 Franklin must have mailed them while the Cambridge team was building their model, and certainly had written them before she knew of their work. On 8 July 1953 she modified one of these "in proof", Acta articles "in light of recent work" by the King's and Cambridge research teams. Acta Cryst. (1953). 6, 673 The Structure of Sodium Thymonucleate Fibres I. The Influence of Water Content 
+
+The third draft paper on the "B" form of DNA, dated 17 March 1953, was discovered years later amongst her papers, by Franklin's Birkbeck colleague, Aaron Klug. He then published an evaluation of the draft's close correlation with the third of the original trio of 25 April 1953 Nature DNA articles. Klug, A. "Rosalind Franklin and the Double Helix", Nature 248 (26 April 1974): 787–788 Klug designed this paper to complement the first article he had written defending Franklin's significant contribution to DNA structure. Klug, A. Rosalind Franklin and the Discovery of the Structure of DNA, Nature 219 (24 August 1968): 808–810 & 843. He had written this first article in response to the incomplete picture of Franklin's work depicted in Watson's 1968 memoir, The Double Helix.
+
+As vividly described in The Double Helix, on 30 January 1953, Watson travelled to King's carrying a preprint of Linus Pauling's incorrect proposal for DNA structure. Since Wilkins was not in his office, Watson went to Franklin's lab with his urgent message that they should all collaborate before Pauling discovered his error. The unimpressed Franklin became angry when Watson suggested she did not know how to interpret her own data. Watson hastily retreated, backing into Wilkins who had been attracted by the commotion. Wilkins commiserated with his harried friend and then changed the course of DNA history with the following disclosure. Without Franklin's permission or knowledge, Wilkins showed Watson Franklin's famous photograph 51. Watson, in turn, showed Wilkins a prepublication manuscript by Pauling and Corey. Yockey, pp. 9–10 Franklin and Gosling's photo 51 gave the Cambridge pair critical insights into the DNA structure, whereas Pauling and Corey's paper described a molecule remarkably like their first incorrect model.
+
+===DNA modelling===
+In February 1953, Francis Crick and James D. Watson of the Cavendish Laboratory in Cambridge University had started to build a model of the B form of DNA using data similar to that available to both teams at King's. Much of their data were derived directly from research done at King's by Wilkins and Franklin. Franklin's research was completed by February 1953, ahead of her move to Birkbeck, and her data were critical. Crick's 31 December 1961 letter to Jacque Monod cited above Model building had been applied successfully in the elucidation of the structure of the alpha helix by Linus Pauling in 1951, Maddox, p. 147 but Franklin was opposed to prematurely building theoretical models, until sufficient data were obtained properly to guide the model building. She took the view that building a model was to be undertaken only after enough of the structure was known. Maddox, p. 161 
+
+Ever cautious, she wanted to eliminate misleading possibilities. Photographs of her Birkbeck work table show that she routinely used small molecular models, although certainly not ones on the grand scale successfully used at Cambridge for DNA. In the middle of February 1953, Crick's thesis advisor, Max Perutz, gave Crick a copy of a report written for a Medical Research Council biophysics committee visit to King's in December 1952, containing many of Franklin's crystallographic calculations. 
+
+Since Franklin had decided to transfer to Birkbeck College and Randall had insisted that all DNA work must stay at King's, Wilkins was given copies of Franklin's diffraction photographs by Gosling. By 28 February 1953, Watson and Crick felt they had solved the problem enough for Crick to proclaim (in the local pub) that they had "found the secret of life". "The Double Helix" p. 115 However they knew they must complete their model before they could be certain. "The Double Helix" p. 60 
+
+Watson and Crick finished building their model on 7 March 1953, one day before they received a letter from Wilkins stating that Franklin was finally leaving and they could put "all hands to the pump". "All hands to the pump" letter is preserved in the Crick archives at the University of California, San Diego, and was posted as part of their Web collection. It is also quoted by both Maddox, p 204, and Olby. This was also one day after Franklin's two A form papers had reached Acta Crystallographica. Wilkins came to see the model the following week, according to Maddox on 12 March, and allegedly informed Gosling on his return to King's. Maddox p. 207 
+
+It is uncertain how long it took for Gosling to inform Franklin at Birkbeck, but her original 17 March B form manuscript does not reflect any knowledge of the Cambridge model. Franklin did modify this draft later before publishing it as the third in the trio of 25 April 1953 Nature articles. On 18 March, In contrast to his other letters to Crick, Wilkins dated this one. in response to receiving a copy of their preliminary manuscript, Wilkins penned the following "I think you're a couple of old rogues, but you may well have something". "Old rogues" letter is preserved in the Crick archives at the University of California at San Diego, and was posted as part of their Web collection. It is also quoted by both Maddox, p. 208 and Olby. 
+
+Crick and Watson then published their model in Nature on 25 April 1953 in an article describing the double-helical structure of DNA with only a footnote acknowledging "having been stimulated by a general knowledge of" Franklin and Wilkin's 'unpublished' contribution. Maddox, p. 212 Actually, although it was the bare minimum, they had just enough specific knowledge of Franklin and Gosling's data upon which to base their model. As a result of a deal struck by the two laboratory directors, articles by Wilkins and Franklin, which included their X-ray diffraction data, were modified and then published second and third in the same issue of Nature, seemingly only in support of the Crick and Watson theoretical paper which proposed a model for the B form of DNA. Franklin and Gosling (1953) Maddox, p. 210 Franklin left King's College London in March 1953 to move to Birkbeck College in a move that had been planned for some time. 
+
+Weeks later, on 10 April, Franklin wrote to Crick for permission to see their model. 10 April 1953 Franklin post card to Crick asking permission to view model. The original is in the Crick archives at the University of California, San Diego. Franklin retained her scepticism for premature model building even after seeing the Crick–Watson model, and remained unimpressed. She is reported to have commented, "It's very pretty, but how are they going to prove it?" As an experimental scientist Franklin seems to have been interested in producing far greater evidence before publishing-as-proven a proposed model. As such her response to the Crick–Watson model was in keeping with her cautious approach to science. Holt, J. (2002) 
+
+However, as documented above, she did not hesitate to publish preliminary ideas about DNA in Acta, even before they could be definitively proven. Most of the scientific community hesitated several years before accepting the double helix proposal. At first mainly geneticists embraced the model because of its obvious genetic implications.
+
+Broader acceptance for the DNA double helix did not start until about 1960, and was not openly acknowledged until 1961 during the 1962 Nobel prize nominations. It took Wilkins and his colleagues about seven years to collect enough data to prove and refine the proposed DNA structure. According to the 1961 Crick–Monod letter cited above, this experimental proof, along with Wilkins having initiated the DNA diffraction work, were the reasons why Crick felt that Wilkins should be included in the DNA Nobel prize.
+
+==Birkbeck College==
+An electronmicrograph of tobacco mosaic virus.
+Franklin's work in Birkbeck involved the use of x-ray crystallography to study the structure of the tobacco mosaic virus (TMV) as a senior scientist with her own research group, funded by the Agricultural Research Council (ARC). Maddox, p. 235 She was recruited by physics department chair J. D. Bernal, Maddox, p. 229 a brilliant crystallographer who happened to be an Irish communist, known for promoting women crystallographers. In 1954 Franklin began a longstanding and successful collaboration with Aaron Klug. Maddox, p. 249 In 1955 Franklin had a paper published in the journal Nature, indicating that TMV virus particles were all of the same length. Franklin (1955) This was in direct contradiction to the ideas of the eminent virologist Norman Pirie, though her observation ultimately proved correct. Maddox, p. 252 
+
+Franklin, and the research group she headed, focused on the structure of RNA, a molecule equally central to life as DNA. RNA actually constitutes the genome (central information molecule) of many viruses, including tobacco mosaic virus. She assigned the study of rod-like viruses such as TMV (tobacco mosaic virus) to her PhD student Kenneth Holmes, while her colleague Aaron Klug worked on spherical viruses with his student John Finch, with Franklin coordinating and overseeing the work. Maddox, p. 254 
+
+Franklin also had a research assistant, James Watt, subsidised by the National Coal Board and was now the Leader of the "ARC group at Birkbeck. Maddox, p. 256 By the end of 1955 her team had completed a model of the TMV, to be exhibited at the upcoming Brussels World's fair. The Birkbeck team members were working on RNA viruses affecting several plants, including potato, turnip, tomato and pea. Maddox, p. 262 Franklin and Donald Caspar produced a paper each in Nature that taken together demonstrated that the RNA in TMV is wound along the inner surface of the hollow virus. Maddox, p. 269 Franklin (1956) 
+
+Her former colleagues at Birkbeck College, London Aaron Klug, John Finch and Kenneth Holmes moved to the Laboratory of Molecular Biology, Cambridge in 1962.
+
+==Illness and death==
+In mid-1956, while on a work-related trip to the United States, Franklin first began to suspect a health problem. Maddox, p. 284 An operation in September of the same year revealed two tumours in her abdomen. Maddox, p. 285 After this period and other periods of hospitalization, Franklin spent time convalescing with various friends and family members. These included Anne Sayre, Francis Crick, his wife Odile, with whom Franklin had formed a strong friendship, Maddox, p. 288 and finally with the Roland and Nina Franklin family where Rosalind's nieces and nephews bolstered her spirits.
+
+Franklin chose not to stay with her parents because her mother's uncontrollable grief and crying upset her too much. Even while undergoing cancer treatment, Franklin continued to work, and her group continued to produce results – seven papers in 1956 and six more in 1957. Maddox, p. 292 In 1957, the group was also working on the polio virus and had obtained funding from the Public Health Service of the National Institutes of Health in the United States for this. Maddox, p. 296 
+
+At the end of 1957, Franklin again fell ill and she was admitted to the Royal Marsden Hospital. She returned to work in January 1958, and she was given a promotion to Research Associate in Biophysics. Maddox, p. 302 She fell ill again on 30 March, and she died on 16 April 1958, in Chelsea, London, GRO Register of Deaths: JUN 1958 5c 257 CHELSEA – Rosalind E. Franklin, aged 37 Maddox, pp. 305–307 of bronchopneumonia, secondary carcinomatosis, and ovarian cancer. Exposure to X-ray radiation is sometimes considered to be a possible factor in her illness. Along with genetic predisposition; opinion of CSU's Lynne Osman Elkin; see also March 2003 Physics Today 
+
+Other members of her family have died of cancer, and the incidence of gynaecological cancer is known to be disproportionately high among Ashkenazi Jews. Maddox, p.320 Her death certificate read: A Research Scientist, Spinster, Daughter of Ellis Arthur Franklin, a Banker. Maddox, p.307 
+
+==Controversies after death==
+Various controversies surrounding Rosalind Franklin came to light following her death.
+
+===Allegations of sexism===
+Sayre states "In 1951 ... King's College as an institution, was not distinguished for the welcome that it offered to women ... Rosalind ... was unused to purdah religious and social institution of female seclusion ... there was one other woman scientist on the laboratory staff" (page 96, lines 8 to 10; page 97, line 4;page 99, footnote). Andrzej Stasiak states "Sayre's book became widely cited in feminist circles for exposing rampant sexism in science." Andrzej Stasiak, Rosalind Franklin, EMBO reports 2, 3, 181 (2001) Farooq Hussain states "there were seven women in the biophysics department ... Jean Hanson became an FRS, Dame Honor B. Fell, Director of Strangeways Laboratory, supervised the biologists". Maddox states, (page 134, final paragraph) "Randall ... did have many women on his staff ... they found him ... sympathetic and helpful."
+
+Sayre states "that while the male staff at King's lunched in a large, comfortable, rather clubby dining room" the female staff of all ranks "lunched in the student's hall or away from the premises". Sayre, p.97 Bryson, B. (2004) p. 490 Elkin states that most of the MRC group typically ate lunch together (including Franklin) in the mixed dining room discussed below. Elkin, p.45 And Maddox states, of Randall, "He liked to see his flock, men and women, come together for morning coffee, and at lunch in the joint dining room, where he ate with them nearly every day."
+
+Claustrophobia has been cited as an unrecognised confound to some interpersonal issues attributed to sexism. Nevertheless, sexism is said to pervade the memoir of one peer, James Watson, in his book The Double Helix published 10 years after Franklin's death and after Watson had returned from Cambridge to Harvard. In this, he denigrates her work and frequently refers to her in patronizing terms as "Rosy", a name she never used. Much later, at Cambridge, Francis Crick acknowledges, "I'm afraid we always used to adopt – let's say, a patronizing attitude towards her." And another Cambridge colleague, Peter Cavendish, wrote in a letter, "Wilkins is supposed to be doing this work; Miss Franklin is evidently a fool."
+
+Franklin herself is said to have been "not immune to the sexism rampant in these circles." In a letter to her parents in January 1939, she called one lecturer "very good, though female." 
+
+===Contribution to the model of DNA===
+One of Rosalind Franklin's important contributions to the Crick and Watson model was her lecture at the seminar in November 1951, where she presented to those present, among them Watson, the two forms of the molecule, type A and type B, and her position whereby the phosphate units are located in the external part of the molecule. She also specified the amount of water to be found in the molecule in accordance with other parts of it, data that have considerable importance in terms of the stability of the molecule. Franklin was the first to discover and formulate these facts, which in fact constituted the basis for all later attempts to build a model of the molecule.
+
+The other contribution included an X-ray photograph of B-DNA (called photograph 51), Maddox, pp. 177–178 that was briefly shown to James Watson by Maurice Wilkins in January 1953, Maddox, p. 196 Crick, (1988) p. 67. and a report written for an MRC biophysics committee visit to King's in December 1952 which was shown by Dr. Max Perutz at the Cavendish Laboratory to both Crick and Watson. This MRC report contained data from the King's group, including some of Rosalind Franklin's and Raymond Gosling's work, and was given to Francis Crick – who was working on his thesis on haemoglobin structure – by his thesis supervisor Max Perutz, a member of the visiting committee. Elkin, L.O. (2003)p 44 Maddox, pp. 198–199 
+
+Maurice Wilkins had been given photograph 51 by Rosalind Franklin's Ph.D. student Raymond Gosling, because she was leaving King's to work at Birkbeck. There was allegedly nothing untoward in this transfer of data to Wilkins, Maddox, pp. 196 Wilkins, p. 198 since the Director Sir John Randall had insisted that all DNA work belonged exclusively to King's and had instructed Franklin in a letter to even stop thinking about it. Maddox p.312, Also it was implied by Horace Freeland Judson, incorrectly, that Maurice Wilkins had taken the photograph out of Rosalind Franklin's drawer. Wilkins, p. 257 However, the B-DNA X-ray pattern photograph in question was shown to Watson by Wilkins – without Franklin's permission.
+
+Likewise Max Perutz saw "no harm" in showing an MRC report containing the conclusions of Franklin and Gosling's X-ray data analysis to Crick, since it had not been marked as confidential, although – in the customary British manner in which everything official is considered secret until it is deliberately made public – "The report was not expected to reach outside eyes". Maddox p.188 Indeed, after the publication of Watson's The Double Helix exposed Perutz's act, he received so many letters questioning his judgment that he felt the need to both answer them all Perutz's papers are in the Archive of the J. Craig Venter institute and Science Foundation in Rockville Maryland, which were purchased as part of the Jeremy Norman Archive of Molecular Biology; quoted in Ferry, Georgina, 2007. Max Perutz and the Secret of Life. Published in the UK by Chatto & Windus (ISBN 0-701-17695-4), and in the USA by the Cold Spring Harbor Laboratory Press. and to post a general statement in Science excusing himself on the basis of being "inexperienced and casual in administrative matters". Science, 27 June 1969, pp. 207–212, also reprinted in the Norton critical edition of The Double Helix, edited by Gunther Stent. 
+
+Perutz also claimed that the MRC information was already made available to the Cambridge team when Watson had attended Franklin's seminar in November 1951. A preliminary version of much of the important material contained in the 1952 December MRC report had been presented by Franklin in a talk she had given in November 1951, which Dr. Watson had attended but not understood. Maddox, p. 199 Watson (1969). 
+
+The Perutz letter was as said one of three letters, published with letters by Wilkins and Watson, which discussed their various contributions. Watson clarified the importance of the data obtained from the MRC report as he had not recorded these data while attending Franklin's lecture in 1951. The upshot of all this was that when Crick and Watson started to build their model in February 1953 they were working with critical parameters that had been determined by Franklin in 1951, and which she and Gosling had significantly refined in 1952, as well as with published data and other very similar data to those available at King's. Rosalind Franklin was probably never aware that her work had been used during construction of the model, Maddox, p. 316 but Maurice Wilkins was.
+
+===Recognition of her contribution to the model of DNA===
+Upon the completion of their model, Francis Crick and James Watson had invited Maurice Wilkins to be a co-author of their paper describing the structure. Wilkins, p. 213 Maddox, p. 205 Wilkins turned down this offer, as he had taken no part in building the model. Wilkins, p. 214 Maurice Wilkins later expressed regret that greater discussion of co-authorship had not taken place as this might have helped to clarify the contribution the work at King's had made to the discovery. Wilkins, p. 226 There is no doubt that Franklin's experimental data were used by Crick and Watson to build their model of DNA in 1953 (see above). Some, including Maddox as cited next, have explained this citation omission by suggesting that it may be a question of circumstance, because it would have been very difficult to cite the unpublished work from the MRC report they had seen. Maddox, p. 207 
+
+Indeed a clear timely acknowledgment would have been awkward, given the unorthodox manner in which data were transferred from King's to Cambridge. However, methods were available. Watson and Crick could have cited the MRC report as a personal communication or else cited the Acta articles in press, or most easily, the third Nature paper that they knew was in press. One of the most important accomplishments of Maddox's widely acclaimed biography is that Maddox made a well-received case for inadequate acknowledgement. "Such acknowledgement as they gave her was very muted and always coupled with the name of Wilkins". Maddox, pp316–317, and other parts of the epilogue 
+
+Twenty five years after the fact, the first clear recitation of Franklin's contribution appeared as it permeated Watson's account, The Double Helix, although it was buried under descriptions of Watson's (often quite negative) regard towards Franklin during the period of their work on DNA. This attitude is epitomized in the confrontation between Watson and Franklin over a preprint of Pauling's mistaken DNA manuscript. Watson, J.D. (1968) pp. 95–96 Watson's words impelled Sayre to write her rebuttal, in which the entire chapter nine, "Winner Take All" has the structure of a legal brief dissecting and analyzing the topic of acknowledgement. Sayre,A. (1975) pp. 156–167 
+
+Sayre's early analysis was often ignored because of perceived feminist overtones in her book. It should be noted that in their original paper, Watson and Crick do cite the X-ray diffraction work of both Wilkins and Franklin. In addition, they admit their, "having been stimulated by a knowledge of the general nature of the unpublished experimental work of led by both Wilkins and Franklin". This article was immediately followed by the two King's submissions: then by: Franklin and Raymond Gosling's own publication in the same issue of Nature was the first publication of this more clarified X-ray image of DNA. 
+
+Franklin's part in the discovery of the nature of DNA was shown in the 1987 TV Movie Life Story, starring Tim Pigott-Smith as Francis Crick, Alan Howard as Maurice Wilkins, Jeff Goldblum as James Watson, and Juliet Stevenson as Rosalind. This movie portrayed Franklin as somewhat stern, but also alleged that Watson and Crick did use a lot of her work to do theirs.
+
+A play entitled 'Rosalind: A Question of Life' was written by Deborah Gearing to mark the work of Rosalind, and was first published by Faber in 2006. Another play, Photograph 51 by Anna Ziegler, has been produced at several places in the USA. Ziegler's version of the 1951–53 'race' for the structure of DNA sometimes emphasizes the pivotal role of Franklin's research and her personality. Although sometimes altering history for dramatic effect, the play nevertheless illuminates many of the key issues of how science was and is conducted. False Assumptions by Lawrence Aronovitch is a play about the life of Marie Curie in which Franklin is portrayed as frustrated and angry at the lack of recognition for her scientific contributions. 
+
+===Nobel Prize===
+Franklin was never nominated for a Nobel Prize. She had died in 1958 and was therefore ineligible for nomination to the Nobel Prize in 1962 which was subsequently awarded to Crick, Watson, and Wilkins in that year. Nobel Prize (1962) The award was for their body of work on nucleic acids and not exclusively for the discovery of the structure of DNA. Wilkins, p. 242 By the time of the award Wilkins had been working on the structure of DNA for more than 10 years, and had done much to confirm the Watson–Crick model. Wilkins, p. 240 Crick had been working on the genetic code at Cambridge and Watson had worked on RNA for some years. Wilkins, p. 243 Watson has suggested that ideally Wilkins and Franklin would have been awarded the Nobel Prize in Chemistry. 
+
+==Posthumous recognition==
+Rosalind Franklin University of Medicine and Science
+* 1982, Iota Sigma Pi designated Franklin a National Honorary Member. 
+* 1992, English Heritage placed a blue plaque on the house that Rosalind Franklin grew up in. Maddox, p. 322 
+* 1993, King's College London renamed the Orchard Residence at their Hampstead Campus on Kidderpore Avenue Rosalind Franklin Hall.
+* 1995, Newnham College dedicated a residence in her name and put a bust of her in its garden. 
+* 1997, Birkbeck, University of London School of Crystallography opened the Rosalind Franklin Laboratory. Sir Aaron Klug opens new Laboratory 
+* 1997,The asteroid 9241 Rosfranklin, discovered in 1997, was named in her honour.
+* 1998, National Portrait Gallery in London added Rosalind Franklin's portrait next to those of Francis Crick, James Watson and Maurice Wilkins. 
+* 1999 A theatre at the Institute of Physics, Portland Place, London, was renamed for Rosalind Franklin.
+* 2000, King's College London opened the Franklin–Wilkins Building in honour of Dr. Franklin's and Professor Wilkins's work at the college. Maddox, p. 323 King's had earlier, in 1994, also named one of the Halls in Hampstead Campus residences in memory of Rosalind Franklin.
+* 2001, The American National Cancer Institute established the Rosalind E. Franklin Award for Women in Science. "seventh annual Rosalind E. Franklin Award for Women in Cancer Research at the National Cancer Institute's Intramural Scientific Retreat honors the commitment of women in cancer research and is given in tribute to chemist Rosalind Franklin, who played a critical role in the discovery of the DNA double helix." The JHU Gazette, Johns Hopkins University, 17 March 2008 For the Record: Cheers 
+* 2003, the Royal Society established the Rosalind Franklin Award, for an outstanding contribution to any area of natural science, engineering or technology. The Royal Society Rosalind Franklin Award (2003): The Royal Society web page. Retrieved 21 July 2006. 
+* 2004, Finch University of Health Sciences/The Chicago Medical School, located in North Chicago, Illinois, changed its name to the Rosalind Franklin University of Medicine and Science. Dedication of Rosalind Franklin University 
+* 2004, University of Groningen in the Netherlands started the Rosalind Franklin Fellowships to promote the hiring of young, promising, female researchers.
+* 2005, the wording on the DNA sculpture (which was donated by James Watson) outside Clare College, Cambridge's Memorial Court is a) on the base: i) "These strands unravel during cell reproduction. Genes are encoded in the sequence of bases." and ii) "The double helix model was supported by the work of Rosalind Franklin and Maurice Wilkins.", as well as b) on the helices: i) "The structure of DNA was discovered in 1953 by Francis Crick and James Watson while Watson lived here at Clare." and ii) "The molecule of DNA has two helical strands that are linked by base pairs Adenine – Thymine or Guanine – Cytosine." 
+* 2008, Columbia University awarded an Honorary Louisa Gross Horwitz Prize to Rosalind Franklin, Ph.D., posthumously, "for her seminal contributions to the discovery of the structure of DNA". 
+* 2012, Rosalind Franklin honored as namesake of Rosalind, an online project teaching programming via molecular biology.
+*2012, The Right Honourable Professor The Lord Robert Winston opens the Nottinham Trent University multi-million pound research building the Rosalind Franklin Building.
+* 2013, Google honoured Rosalind Franklin with a doodle showing her gazing at a double helix structure of DNA with an X-ray of Photo 51 beyond it. Rosalind Franklin, DNA scientist, celebrated by Google doodle, The Guardian News, 2013, 25 July 
+
+==Publications==
+
+Rosalind Franklin produced a number of publications, some cited a number of times. A representative sample is listed below. The last two publications in this list were published posthumously.
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+==Footnotes==
+
+==References==
+
+* Bryson, B. A Short History of Nearly Everything. (2004). Black Swan ISBN 0-552-99704-8.
+* 
+* Crick, F. H. C. What Mad Pursuit, (1988). Basic Books. ISBN 0-465-09137-7.
+* Elkin, L., O. Rosalind Franklin and the Double Helix Physics Today March 2003, pp. 42–48.
+* 
+* Ferry, Georgina, 2007. Max Perutz and the Secret of Life. Published in the UK by Chatto & Windus (ISBN 0-701-17695-4), and in the USA by the Cold Spring Harbor Laboratory Press.
+* 
+* Franklin, R.E. and Gosling, R.G. authors of papers received 6 March 1953: Acta Cryst. (1953). 6, 673 The Structure of Sodium Thymonucleate Fibres I. The Influence of Water Content II. The Cylindrically Symmetrical Patterson Function
+* 
+* 
+* Holt, J. (2002) "Photo Finish: Rosalind Franklin and the great DNA race" The New Yorker October
+* Judson, Horace Freeland, "The Eighth Day of Creation:Makers of the Revolution in Biology" ( London: Jonathan Cape,1979),Penguin,1995;expanded edition;New York:Cold Spring Harbor Press,1996).
+* Maddox, B. Rosalind Franklin: The Dark Lady of DNA (2002). Harper Collins ISBN 0-00-655211-0.
+* Nobel Prize (1962). The Nobel Prize in Physiology or Medicine 1962, for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material, Nobelprize.org
+* Olby, R., "The Path to the Double Helix"(London:Macmillan,1974)
+* Sayre, A. 1975. Rosalind Franklin and DNA. New York: W.W. Norton and Company. ISBN 0-393-32044-8.
+* Segev, T. One Palestine, Complete, (2000) (ISBN 0-349-11286-X) Abacus History.
+* Stent, Gunther, editor. "Critical Edition of The Double Helix"(1980) W.W. Norton Co, New York and London. ISBN 0-393-95075-1.
+* Watson, J. Letter to Science, 164, p. 1539, 27 (1969).
+* Wilkins, M., The Third Man of the Double Helix, an autobiography (2003) Oxford University Press, Oxford. ISBN 0-19-280667-X.
+* Yockey, H. P. Information Theory, Evolution, and the Origin of Life (2005).
+
+==Further reading==
+
+* Brown, Andrew; "J. D. Bernal: The Sage of Science", Oxford University Press, 2005; ISBN 0-19-920565-5
+* Chomet, S. (Ed.), D.N.A. Genesis of a Discovery. Newman-Hemisphere Press (1994): NB a few copies are available from Newman-Hemisphere at 101 Swan Court, London SW3 5RY (phone/fax: 07092 060530).
+* Crick, Francis (1988) "What Mad Pursuit: A Personal View of Scientific Discovery" (Basic Books reprint edition, 1990) ISBN 0-465-09138-5
+* Dickerson, Richard E.; "Present at the Flood: How Structural Molecular Biology Came About", Sinauer, 2005; ISBN 0-87893-168-6
+* John Finch; 'A Nobel Fellow On Every Floor', Medical Research Council 2008, 381 pp, ISBN 978-1-84046-940-0; this book is all about the MRC Laboratory of Molecular Biology, Cambridge
+* Gibbons, Michelle G. "Reassessing Discovery: Rosalind Franklin, Scientific Visualization, and the Structure of DNA." Philosophy of Science 79 (2012): 63-80. 
+* Hager, Thomas; "Force of Nature: The Life of Linus Pauling", Simon & Schuster 1995; ISBN 0-684-80909-5
+* 
+* Glynn, Jennifer, "My sister Rosalind Franklin"(Oxford University Press, 2012) ISBN 978-0-19-969962-9
+* Glynn, Jennifer, "Rosalind Franklin, 1920–1958" in "Cambridge Women: Twelve Portraits" (CUP 1996) pp 267 – 282 eds. Edward Shils and Carmen Blacker, ISBN 0-521-48287-9
+* Klug, A. Oxford Dictionary of National Biography article on R.E. Franklin, OUP, Matthew H.C.G. Ed., first published Sept 2004; online edn, Jan 2007, 1840 words; ISBN 0-19-861411-X; was selected "Life of The Day" on 16 April 2008 (50th anniversary of her death).
+* Klug, A. A lecture about Rosalind Franklin's contribution to the elucidation of the structure of DNA. in DNA Changing Science and Society: The Darwin Lectures for 2003 Krude, Torsten (Ed.) CUP (2003)
+* Olby, Robert, (1972) 'Rosalind Elsie Franklin' biography in "Dictionary of Scientific Biography", ed. Charles C. Gillespie (New York: Charles Scribner's sons) ISBN 0-684-10121-1
+* Olby, Robert, The Path to The Double Helix: Discovery of DNA, (1974). MacMillan ISBN 0-486-68117-3
+* 
+* Tait, Sylvia & James "A Quartet of Unlikely Discoveries" (Athena Press 2004) ISBN 1-84401-343-X
+* 
+* Wilkins, Maurice, "The Third Man of The Double Helix", OUP 2003; ISBN 978-0-19-280667-3.
+
+==External links==
+* The Rosalind Franklin Society
+* CWP at UCLA
+* The History of medicine topographical database in ub Himetop
+* Work at Birbeck and meeting REF (12)
+* Work with REF (13)
+* REF and the discovery of the structure of DNA. (17)
+* REF's death and joining the MRC's LMB in Cambridge (18)
+* My aunt, the DNA pioneer by S. Franklin
+* "Rosalind Franklin and the Double Helix", Physics Today, by Lynne O. Elkin
+* "Light on a Dark Lady", republished article by A. Piper from Trends in Biochemical Science
+* Oxford Dictionary of National Biography for article by Sir Aaron Klug
+* "The first American newspaper coverage of the discovery of the DNA structure", Saturday, 13 June 1953, The New York Times
+* "Biography of Rosalind Franklin", Lynne O. Elkin, Jewish Women Encyclopedia
+* Nova: "Secret of Photo 51"
+* The Rosalind Franklin Papers Profiles in Science, National Library of Medicine
+* Bancroft Archive of the University of California, Berkeley Lynne Elkin collection of original Franklin research
+* The Rosalind Franklin Papers at Churchill Archives Centre in Cambridge. The digitised papers are at Codebreakers: Makers of Modern Genetics: the Rosalind Franklin papers
+* Rosalind Franklin publications. List of publications from 1948 to (posthumous reprint) 1995
+* Key Participants: Rosalind Franklin – Linus Pauling and the Race for DNA: A Documentary History
+* "Rosalind Franklin's work on coal, carbon, and graphite", by Peter J F Harris in PDF format
+* Energia Vol.6 No.6 (1995) (University of Kentucky centre for Applied Energy Research). Contains Rosalind Franklin Article in PDF format
+
+

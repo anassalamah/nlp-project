@@ -1,0 +1,76 @@
+[[Prospect theory]]
+
+Daniel Kahneman, who won a Nobel Memorial Prize in Economics for his work developing Prospect theory.
+Prospect theory is a behavioral economic theory that describes the way people choose between probabilistic alternatives that involve risk, where the probabilities of outcomes are known. The theory states that people make decisions based on the potential value of losses and gains rather than the final outcome, and that people evaluate these losses and gains using certain heuristics. The model is descriptive: it tries to model real-life choices, rather than optimal decisions.
+The theory was developed by Daniel Kahneman and Amos Tversky in 1979 as a psychologically more accurate description of decision making, comparing to the expected utility theory. In the original formulation the term prospect referred to a lottery.
+
+The paper "Prospect Theory: An Analysis of Decision under Risk" http://www.princeton.edu/~kahneman/docs/Publications/prospect_theory.pdf has been called a "seminal paper in behavioral economics". 
+
+==Model==
+250px
+The theory describes the decision processes in two stages: editing and evaluation.
+During editing, outcomes of a decision are ordered according to a certain heuristic. In particular, people decide which outcomes they consider equivalent, set a reference point and then consider lesser outcomes as losses and greater ones as gains. The editing phase aims to alleviate any Framing effects. Kahneman, Daniel, and Amos Tversky. "Rational Choice and the Framing of Decisions." The Journal of Business 2nd ser. 59.4 (1986): 251–78 It also aims to resolve isolation effects stemming from individuals' propensity to often isolate consecutive probabilities instead of treating them together. In the subsequent evaluation phase, people behave as if they would compute a value (utility), based on the potential outcomes and their respective probabilities, and then choose the alternative having a higher utility.
+
+The formula that Kahneman and Tversky assume for the evaluation phase is (in its simplest form) given by
+
+:
+
+where is the overall or expected utility of the outcomes to the individual making the decision, are the potential outcomes and their respective probabilities. is a function that assigns a value to an outcome. The value function (sketched in the Figure) that passes through the reference point is s-shaped and asymmetrical. Losses hurt more than gains feel good (loss aversion). This differs from expected utility theory, in which a rational agent is indifferent to the reference point. In expected utility theory, the individual only cares about absolute wealth, not relative wealth in any given situation. The function is a probability weighting function and captures the idea that people tend to overreact to small probability events, but under react to large probabilities.
+
+==Example==
+To see how Prospect Theory can be applied, consider the decision to buy insurance. Assume the probability of the insured risk is 1%, the potential loss is $1,000 and the premium is $15. If we apply prospect theory, we first need to set a reference point. This could be the current wealth or the worst case (losing $1,000). If we set the frame to the current wealth, the decision would be either to
+
+1. Pay $15 for sure, which yields a prospect-utility of ,
+
+OR
+
+2. Enter a lottery with possible outcomes of $0 (probability 99%) or −$1,000 (probability 1%), which yields a prospect-utility of .
+
+These expressions can be computed numerically. For typical value and weighting functions, the latter expression could be larger due to the convexity of in losses, and hence the insurance looks unattractive. If we set the frame to −$1,000, both alternatives are set in gains. The concavity of the value function in gains can then lead to a preference for buying the insurance.
+
+In this example, a strong overweighting of small probabilities undo the effect of the convexity of in losses: the potential outcome of losing $1,000 is overweighted.
+
+The interplay of overweighting of small probabilities and concavity-convexity of the value function leads to the so-called fourfold pattern of risk attitudes: risk-averse behavior when gains have moderate probabilities and losses have small probabilities; risk-seeking behavior when losses have moderate probabilities and gains have small probabilities.
+
+Below is an example of the fourfold pattern of risk attitudes. The first item in quadrant shows an example prospect (e.g. 95% chance to win $10,000 is high probability and a gain). The second item in the quadrant shows the focal emotion that the prospect is likely to evoke. The third item indicates how most people would behave given each of the prospects (either Risk Averse or Risk Seeking). The fourth item states expected attitudes of a potential defendant and plaintiff in discussions of settling a civil suit. Kahneman, Daniel. Thinking, fast and slow. Farrar, Straus and Giroux, 2011. (p317) 
+
+ Example Gains Losses 
+ High Probability (Certainty Effect) 95% chance to win $10,000. Fear of disappointment. RISK AVERSE. Accept unfavorable settlement 95% chance to lose $10,000. Hope to avoid loss. RISK SEEKING. Reject favorable settlement. 
+ Low Probability (Possibility Effect) 5% chance to win $10,000. Hope of large gain. RISK SEEKING. Reject favorable settlement 5% chance to lose $10,000. Fear of large loss. RISK AVERSE. Accept unfavorable settlement 
+
+Probability distortion is that people generally do not look at the value of probability uniformly between 0 and 1. Lower probability is said to be over-weighted (that is a person is over concerned with the outcome of the probability) while medium to high probability is under-weighted (that is a person is not concerned enough with the outcome of the probability). The exact point in which probability goes from over-weighted to under-weighted is arbitrary, however a good point to consider is probability=.33. A person values probability=.01 much more than the value of prob=0 (probability=.01 is said to be over-weighted) . However, a person has about the same value for probability=.4 and probability=.5. Also, the value of probability=.99 is much less than the value of probability=1, a sure thing (probability=.99 is under-weighted). A little more in depth when looking at probability distortion is that π(p) + π(1 − p) < 1 (π(p) is probability in prospect theory) "Thinking and Deciding" by J. Baron pg 264–266 
+
+==Applications==
+Some behaviors observed in economics, like the disposition effect or the reversing of risk aversion/risk seeking in case of gains or losses (termed the reflection effect), can also be explained by referring to the prospect theory.
+
+The pseudocertainty effect is the observation that people may be risk-averse or risk-acceptant depending on the amounts involved and on whether the gamble relates to becoming better off or worse off. This is a possible explanation for why the same person may buy both an insurance policy and a lottery ticket.
+
+An important implication of prospect theory is that the way economic agents subjectively frame an outcome or transaction in their mind affects the utility they expect or receive. This aspect has been widely used in behavioral economics and mental accounting. Framing and prospect theory has been applied to a diverse range of situations which appear inconsistent with standard economic rationality: the equity premium puzzle, the excess returns puzzle and long swings/PPP puzzle of exchange rates through the endogenous prospect theory of Imperfect Knowledge Economics, the status quo bias, various gambling and betting puzzles, intertemporal consumption, and the endowment effect.
+
+==Limits and extensions==
+The original version of prospect theory gave rise to violations of first-order stochastic dominance. That is, prospect A might be preferred to prospect B even if the probability of receiving a value x or greater is at least as high under prospect B as it is under prospect A for all values of x, and is greater for some value of x. Later theoretical improvements overcame this problem, but at the cost of introducing intransitivity in preferences. A revised version, called cumulative prospect theory overcame this problem by using a probability weighting function derived from rank-dependent expected utility theory. Cumulative prospect theory can also be used for infinitely many or even continuous outcomes (for example, if the outcome can be any real number).
+
+==See also==
+
+* Decision theory
+* Endowment effect
+* Loss aversion
+* Description-experience gap
+* Ultimatum game
+
+==Notes==
+
+==References==
+* Easterlin, Richard A. "Does Economic Growth Improve the Human Lot?" in Paul A. David and Melvin W. Reder, eds., Nations and Households in Economic Growth: Essays in Honor of Moses Abramovitz, New York: Academic Press, Inc., 1974.
+* Frank, Robert H. "The Frame of Reference as a Public Good". The Economic Journal. Vol. 107, November 1977: 1832–47.
+* Kahneman, Daniel. Thinking, Fast and Slow. New York: Farrar, Straus and Giroux, 2011.
+* Kahneman, Daniel, and Amos Tversky. "Prospect Theory: An Analysis of Decision Under Risk". Econometrica. XLVII (1979): 263–291.
+* Lynn, John A. The Wars of Louis XIV 1667–1714. United Kingdom: Pearson Education Ltd., 1999.
+* McDermott, Rose, James H. Fowler, and Oleg Smirnov. "On the Evolutionary Origin of Prospect Theory Preferences". Journal of Politics. April 2008.
+* Post, Thierry, Martijn J. Van den Assem, Guido Baltussen, and Richard Thaler. "Deal or No Deal? Decision Making Under Risk in a Large-Payoff Game Show". American Economic Review. March 2008.
+
+==External links==
+* An introduction to Prospect Theory
+* Prospect Theory
+
+ 

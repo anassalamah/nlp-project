@@ -1,0 +1,75 @@
+[[Sympatric speciation]]
+
+Sympatric speciation is the process through which new species evolve from a single ancestral species while inhabiting the same geographic region. In evolutionary biology and biogeography, sympatric and sympatry are terms referring to organisms whose ranges overlap or are even identical, so that they occur together at least in some places. If these organisms are closely related (e.g. sister species), such a distribution may be the result of sympatric speciation. Etymologically, sympatry is derived from the Greek roots συν ("together", "with") and πατρίς ("homeland" or "fatherland"). http://www.greek-language.gr/greekLang/index.html The term was invented by Poulton in 1904, who explains the derivation. Poulton, E. B. 1904. What is a species? Proceedings of the Entomological Society of London 1903:lxxvii-cxvi. 
+
+Sympatric speciation is one of three traditional geographic categories for the phenomenon of speciation. Futuyma, D. J. 2009. Evolution (2nd edition). Sinauer Associates, Inc. Allopatric speciation is the evolution of geographically isolated populations into distinct species. In this case, divergence is facilitated by the absence of gene flow, which tends to keep populations genetically similar. Parapatric speciation is the evolution of geographically adjacent populations into distinct species. In this case, divergence occurs despite limited interbreeding where the two diverging groups come into contact. In sympatric speciation, there is no geographic constraint to interbreeding. These categories are special cases of a continuum from zero (sympatric) to complete (allopatric) spatial segregation of diverging groups. 
+
+In multicellular eukaryotic organisms, sympatric speciation is thought to be an uncommon but plausible process by which genetic divergence (through reproductive isolation) of various populations from a single parent species and inhabiting the same geographic region leads to the creation of new species. 
+In bacteria, however, the analogous process (defined as "the origin of new bacterial species that occupy definable ecological niches") might be more common because bacteria are less constrained by the homogenizing effects of sexual reproduction and prone to comparatively dramatic and rapid genetic change through horizontal gene transfer. 
+
+==Evidence==
+Comparison of allopatric, peripatric, parapatric and sympatric speciation
+
+A number of models have been proposed to account for this mode of speciation. The most popular, which invokes the disruptive selection model, was first put forward by John Maynard Smith in 1966. Maynard Smith suggested that homozygous individuals may, under particular environmental conditions, have a greater fitness than those with alleles heterozygous for a certain trait. Under the mechanism of natural selection, therefore, homozygosity would be favoured over heterozygosity, eventually leading to speciation. Sympatric divergence could also result from the sexual conflict. Thierry Lodé "La guerre des sexes chez les animaux" Eds O Jacob, Paris, 2006 
+
+Disruption may also occur in multiple-gene traits. The Medium Ground Finch (Geospiza fortis) is showing gene pool divergence in a population on Santa Cruz Island. Beak morphology conforms to two different size ideals, while intermediate individuals are selected against. Some characteristics (termed magic traits) such as beak morphology may drive speciation because they also affect mating signals. In this case, different beak phenotypes may result in different bird calls, providing a barrier to exchange between the gene pools. 
+
+A somewhat analogous system has been reported in horseshoe bats, in which echolocation call frequency appears to be a magic trait. In these bats, the constant frequency component of the call not only determines prey size but may also function in aspects of social communication. Work from one species, the large-eared horseshoe bat (Rhinolophus philippinensis), shows that abrupt changes in call frequency among sympatric morphs is correlated with reproductive isolation. A further well-studied circumstance of sympatric speciation is when insects feed on more than one species of host plant. In this case insects become specialized as they struggle to overcome the various plants' defense mechanisms. (Drès and Mallet, 2002) Begon, Townsend, Harper: Ecology - From individuals to ecosystems, 4th ed., p.10 
+
+Rhagoletis pomonella, the apple maggot, may be currently undergoing sympatric or, more precisely, heteropatric (see heteropatry) speciation. The apple feeding race of this species appears to have spontaneously emerged from the hawthorn feeding race in the 1800 - 1850 AD time frame, after apples were first introduced into North America. The apple feeding race does not now normally feed on hawthorns, and the hawthorn feeding race does not now normally feed on apples. This may be an early step towards the emergence of a new species. 
+Isolated and relatively homogeneous habitats such as crater lakes and islands are among the best geographical settings in which to demonstrate sympatric speciation. For example, Nicaragua crater lake cichlid fishes include nine described species and dozens of undescribed species that have evolved by sympatric speciation. 
+
+Allochrony offers some empirical evidence that sympatric speciation has taken place, as many examples exist of recently diverged (sister taxa) allochronic species.
+
+Sympatric speciation events are vastly more common in plants, as they are prone to developing multiple homologous sets of chromosomes, resulting in a condition called polyploidy. The polyploidal offspring occupy the same environment as the parent plants (hence sympatry), but are reproductively isolated.
+
+A rare example of sympatric speciation in animals is the divergence of "resident" and "transient" Orca forms in the northeast Pacific. Resident and transient orcas inhabit the same waters, but avoid each other and do not interbreed. The two forms hunt different prey species and have different diets, vocal behaviour, and social structures. Some divergences between species could also result from contrasts in microhabitats.
+
+The European Polecat Mustela putorius exhibited a rare dark phenotype similar to the European mink Mustela lutreola phenotype which is directly influenced by peculiarities of forest brooks. 
+
+==Controversy==
+
+For some time it was difficult to prove that sympatric speciation was possible, because it was impossible to observe it happening. It was believed by many, and championed by Ernst Mayr, that the theory of evolution by natural selection could not explain how two species could emerge from one if the subspecies were able to interbreed. Since Mayr's heyday in the 40's and 50's mechanisms have been proposed that explain how speciation might occur in the face of interbreeding, also known as gene flow. And even more recently concrete examples of sympatric divergence have been empirically studied. The debate now turns to how often sympatric speciation may actually occur in nature and how much of life's diversity it may be responsible for.
+
+===History===
+Ernst Mayr, a renowned 20th century evolutionary biologist from Germany argued that speciation cannot occur without geographic and thus reproductive, isolation. He stated that gene flow is the inevitable result of sympatry, which is known to squelch genetic differentiation between populations. Thus, a physical barrier must be present, he believed, at least temporarily, in order for a new biological species to arise. This hypothesis is the source of much controversy around the possibility of sympatric speciation. Mayr's hypothesis was popular and consequently quite influential, but is now widely disputed. 
+
+The first to propose what is now the most pervasive hypothesis on how sympatric speciation may occur was John Maynard-Smith. He came up with the idea of disruptive selection. He figured that if two ecological niches are occupied by a single species, diverging selection between the two niches could eventually cause reproductive isolation. By adapting to have the highest possible fitness in the distinct niches, two species may emerge from one even if they remain in the same area, and even if they are mating randomly. 
+
+===Defining Sympatry===
+Investigating the possibility of sympatric speciation requires a definition thereof, especially in the 21st century, when mathematical modeling is used to investigate or to predict evolutionary phenomena. Much of the controversy concerning sympatric speciation may lie solely on an argument over what sympatric divergence actually is. The use of different definitions by researchers is, sadly, a great impediment to empirical progress on the matter. The dichotomy between sympatric and allopatric speciation is no longer accepted by the scientific community. It is more useful to think of a continuum, on which there are limitless levels of geographic and reproductive overlap between species. On one extreme is allopatry, in which the overlap is zero (no gene flow), and on the other extreme is sympatry, in which the ranges overlap completely (maximal gene flow).
+ 
+The varying definitions of sympatric speciation fall generally into two categories: definitions based on biogeography, or on population genetics. As a strictly geographical concept, sympatric speciation is defined as one species diverging into two while the ranges of both nascent species overlap entirely – this definition is not specific enough about the original population to be useful in modeling. 
+
+Definitions based on population genetics are not necessarily spatial or geographical in nature, and can sometimes be more restrictive. These definitions deal with the demographics of a population, including allele frequencies, selection, population size, the probability of gene flow based on sex ratio, life cycles, etc. The main discrepancy between the two types of definitions tends to be the necessity for “panmixia”. Population genetics definitions of sympatry require that mating be dispersed randomly – or that it be equally likely for an individual to mate with either subspecies, in one area as another, or on a new host as a nascent one: this is also known as panmixia. Population genetics definitions, also known as non-spatial definitions, thus require the real possibility for random mating, and do not always agree with spatial definitions on what is and what is not sympatry.
+
+For example, micro-allopatry, also known as macro-sympatry, is a condition where there are two populations whose ranges overlap completely, but contact between the species is prevented because they occupy completely different ecological niches (such as diurnal vs. nocturnal). This can often be caused by host-specific parasitism, which causes dispersal to look like a mosaic across the landscape. Micro-allopatry is included as sympatry according to spatial definitions, but, as it does not satisfy panmixia, it is not considered sympatry according to population genetics definitions. 
+
+Mallet et al. (2002) claims that the new non-spatial definition is lacking in an ability to settle the debate about whether sympatric speciation regularly occurs in nature. They suggest using a spatial definition, but one that includes the role of dispersal, also known as cruising range, so as to represent more accurately the possibility for gene flow. They assert that this definition should be useful in modeling. They also state that under this definition, sympatric speciation seems plausible. 
+ 
+===Current state of the controversy===
+Evolutionary theory as well as mathematical models have predicted some plausible mechanisms for the divergence of species without a physical barrier. In addition there have now been several studies that have identified speciation that has occurred, or is occurring with gene flow (see section above: evidence). Molecular studies have been able to show that, in some cases where there is no chance for allopatry, species continue to diverge. One such example is the a pair of species of isolated desert palms. Two distinct, but closely related species exist on the same island, but they occupy two distinct soil types found on the island, each with a drastically different pH balance. Because they are palms they send pollen through the air they could freely interbreed, except that speciation has already occurred, so that they do not produce viable hybrids. This is hard evidence for the fact that, in at least some cases, fully sympatric species really do experience diverging selection due to competition, in this case for a spot in the soil.
+
+This, and the other few concrete examples that have been found, are just that; they're few, so they tell us little about how often sympatry actually results in speciation in a more typical context. The burden now lies on providing evidence for sympatric divergence occurring in non-isolated habitats. It is not known how much of the earth's diversity it could be responsible for. Some still say that panmixia should slow divergence, and thus sympatric speciation should be possible but rare (1). Meanwhile others claim that much of the earth's diversity could be due to speciation without geographic isolation. The difficulty in supporting a sympatric speciation hypothesis has always been that an allopatric scenario could always be invented, and those can be hard to rule out – but with modern molecular genetic techniques can be used to support the theory. 
+
+The dichotomy created by Ernst Mayr's dogmatic ideology about the necessity of a physical barrier in speciation is an artificial one. Because there is now empirical evidence of in situ, or fully sympatric speciation, evolutionary biologists interested in studying the phenomenon should shift their focus away from whether it can happen, and instead direct it towards figuring the mechanisms, and whether it may occur in non-isolated, marine or continental habitats. 
+
+== See also ==
+
+* Polymorphism (biology)
+* Ecotype
+* Polyploidy
+* Adaptive radiation
+* Hybrid speciation
+* Cladistics
+* Phylogenetics
+* Taxonomy
+* Wallace effect
+
+== References ==
+
+== External links ==
+
+*Berkeley evolution 101
+
+

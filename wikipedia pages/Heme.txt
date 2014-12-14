@@ -1,0 +1,114 @@
+[[Heme]]
+
+Space-filling model of Haem B
+Ball and Stick model of Heme B
+A haem (British English) or heme (American English) is a chemical compound of a type known as a prosthetic group consisting of an Fe2+ (ferrous) ion contained in the centre of a large heterocyclic organic ring called a porphyrin, made up of four pyrrolic groups joined together by methine bridges. Not all porphyrins contain iron, but a substantial fraction of porphyrin-containing metalloproteins have heme as their prosthetic group; these are known as hemoproteins. Hemes are most commonly recognized as components of hemoglobin, the red pigment in blood, but are also found in a number of other biologically important hemoproteins such as myoglobin, cytochrome, catalase, and endothelial nitric oxide synthase.
+
+==Function==
+The histidine bound heme group of succinate dehydrogenase, an electron carrier in the mitochondrial electron transfer chain. The large semi-transparent sphere indicates the location of the iron ion. From .
+Hemoproteins have diverse biological functions including the transportation of diatomic gases, chemical catalysis, diatomic gas detection, and electron transfer. The heme ion serves as a source or sink of electrons during electron transfer or redox chemistry. In peroxidase reactions, the porphyrin molecule also serves as an electron source. In the transportation or detection of diatomic gases, the gas binds to the heme ion. During the detection of diatomic gases, the binding of the gas ligand to the heme ion induces conformational changes in the surrounding protein.
+
+It has been speculated that the original evolutionary function of hemoproteins was electron transfer in primitive sulfur-based photosynthesis pathways in ancestral cyanobacteria-like organisms before the appearance of molecular oxygen. 
+
+Hemoproteins achieve their remarkable functional diversity by modifying the environment of the heme macrocycle within the protein matrix. For example, the ability of hemoglobin to effectively deliver oxygen to tissues is due to specific amino acid residues located near the heme molecule. Hemoglobin binds oxygen in the pulmonary vasculature, where the pH is high and the pCO2 is low, and releases it in the tissues, where the situations are reversed. This phenomenon is known as the Bohr effect. The molecular mechanism behind this effect is the steric organization of the globin chain; a histidine residue, located adjacent to the heme group, becomes positively charged under acid (low pH) circumstances (which are caused by dissolved CO2 in working muscles, etc.), sterically releasing oxygen from the heme group.
+
+==Types==
+
+===Major hemes===
+There are several biologically important kinds of heme:
+
+ Heme A Heme B Heme C Heme O 
+ PubChem number 7888115 444098 444125 6323367 
+ Chemical formula C49H56O6N4Fe C34H32O4N4Fe C34H36O4N4S2Fe C49H58O5N4Fe 
+ Functional group at C3 140px -CH(OH)CH2Far -CH=CH2 -CH(cystein-S-yl)CH3 -CH(OH)CH2Far 
+ Functional group at C8 -CH=CH2 -CH=CH2 -CH(cystein-S-yl)CH3 -CH=CH2 
+ Functional group at C18 -CH=O -CH3 -CH3 -CH3 
+
+Structure of Heme B
+Heme A Heme A is synthesized from Heme B. In two sequential reactions a 17-hydroxyethylfarnesyl moiety (blue) is added at the 2-position and an aldehyde (purple) is added at the 8-position.
+Nomenclature is shown in green.
+
+ 
+The most common type is heme B; other important types include heme A and heme C. Isolated hemes are commonly designated by capital letters while hemes bound to proteins are designated by lower case letters. Cytochrome a refers to the heme A in specific combination with membrane protein forming a portion of cytochrome c oxidase.
+
+===Other hemes===
+:The following carbon numbering system of porphyrins is an older numbering used by biochemists and not the 1-24 numbering system recommended by IUPAC which is shown in the table above.
+* Heme l is the derivative of heme B which is covalently attached to the protein of lactoperoxidase, eosinophil peroxidase, and thyroid peroxidase. The addition of peroxide with the glutamyl-375 and aspartyl-225 of lactoperoxidase forms ester bonds between these amino acid residues and the heme 1- and 5-methyl groups, respectively. Similar ester bonds with these two methyl groups are thought to form in eosinophil and thyroid peroxidases. Heme l is one important characteristic of animal peroxidases; plant peroxidases incorporate heme B. Lactoperoxidase and eosinophil peroxidase are protective enzymes responsible for the destruction of invading bacteria and virus. Thyroid peroxidase is the enzyme catalyzing the biosynthesis of the important thyroid hormones. Because lactoperoxidase destroys invading organisms in the lungs and excrement, it is thought to be an important protective enzyme.
+
+* Heme m is the derivative of heme B covalently bound at the active site of myeloperoxidase. Heme m contains the two ester bonds at the heme 1- and 5-methyls as in heme l found in other mammalian peroxidases. In addition, a unique sulfonium ion linkage between the sulfur of a methionyl amino-acid residue and the heme 2-vinyl group is formed, giving this enzyme the unique capability of easily oxidizing chloride and bromide ions. Myeloperoxidase is present in mammalian neutrophils and is responsible for the destruction of invading bacteria and viruses. It also synthesizes hypobromite by "mistake" which is a known mutagenic compound.
+
+* Heme D is another derivative of heme B, but in which the propionic acid side chain at the carbon of position 6, which is also hydroxylated, forms a γ-spirolactone. Ring III is also hydroxylated at position 5, in a conformation trans to the new lactone group. Heme D is the site for oxygen reduction to water of many types of bacteria at low oxygen tension.
+
+* Heme S is related to heme B by the having a formyl group at position 2 in place of the 2-vinyl group. Heme S is found in the hemoglobin of marine worms. The correct structures of heme B and heme S were first elucidated by German chemist Hans Fischer.
+
+The names of cytochromes typically (but not always) reflect the kinds of hemes they contain: cytochrome a contains heme A, cytochrome c contains heme C, etc.
+
+==Synthesis==
+Details of heme synthesis can be found in the article on porphyrin.
+
+Heme synthesis in the cytoplasm and mitochondrion.
+
+The enzymatic process that produces heme is properly called porphyrin synthesis, as all the intermediates are tetrapyrroles that are chemically classified as porphyrins. The process is highly conserved across biology. In humans, this pathway serves almost exclusively to form heme. In other species, it also produces similar substances such as cobalamin (vitamin B12).
+
+The pathway is initiated by the synthesis of D-Aminolevulinic acid (dALA or δALA) from the amino acid glycine and succinyl-CoA from the citric acid cycle (Krebs cycle). The rate-limiting enzyme responsible for this reaction, ALA synthase, is negatively regulated by glucose and heme concentration. Mechanism of inhibition of ALAs by hemme or hemin is by decreasing stability of mRNA synthesis and by decreasing the intake of mRNA in the mitochondria. This mechanism is of therapeutic importance: infusion of heme arginate or hematin and glucose can abort attacks of acute intermittent porphyria in patients with an inborn error of metabolism of this process, by reducing transcription of ALA synthase. http://escholarship.umassmed.edu/gsbs_diss/121/ 
+
+The organs mainly involved in heme synthesis are the liver ( in which the rate of synthesis is highly variable, depending on the systemic heme pool) and the bone marrow (in which rate of synthesis of Heme is relatively constant and depends on the production of globin chain), although every cell requires heme to function properly. Heme is seen as an intermediate molecule in catabolism of hemoglobin in the process of bilirubin metabolism. Defects in various enzymes in synthesis of heme can lead to group of disorder called porphyrias, these include acute intermittent porphyria, congenital erythropoetic porphyria, porphyria cutanea tarda, hereditary coproporphyria, verigate porphyria, erythropoetic protoporphyria.
+
+==Degradation==
+Heme Breakdown
+Degradation begins inside macrophages of the spleen, which remove old and damaged (senescent) erythrocytes from the circulation.
+In the first step, heme is converted to biliverdin by the enzyme heme oxygenase (HMOX). NADPH is used as the reducing agent, molecular oxygen enters the reaction, carbon monoxide (CO) is produced and the iron is released from the molecule as the ferric ion (Fe3+). CO acts as a cellular messenger and functions in vasodilation.
+
+In addition, heme degradation appears to be an evolutionary conserved response to oxidative stress. Briefly, when cells are exposed to free radicals, there is a rapid induction of the expression of the stress responsive heme oxygenase-1 (HMOX1) isoenzyme that catabolizes heme (see below). The reason why cells must increase exponentially their capability to degrade heme in response to oxidative stress remains unclear but this appears to be part of a cytoprotective response that avoids the deleterious effects of free heme.
+
+ HMOX1/2
+ heme ------------ biliverdin + Fe3+
+ / \
+ H+ + NADPH NADP+
+ O2 CO
+
+In the second reaction, biliverdin is converted to bilirubin by biliverdin reductase (BVR):
+
+ BVR
+ biliverdin --------- bilirubin
+ / \
+ H+ + NADPH NADP+
+
+Bilirubin is transported into the liver by facilitated diffusion bound to a protein (serum albumin), where it is conjugated with glucuronic acid to become more water soluble. The reaction is catalyzed by the enzyme UDP-glucuronide transferase (UDPGUTF).
+
+ UDPGUTF
+ bilirubin + 2 UDP-glucuronate ---------- bilirubin diglucuronide
+ \
+ 2 UMP + 2 Pi
+
+This form of bilirubin is excreted from the liver in bile. Excretion of bilirubin from liver to biliary canaliculi is an active, energy dependent and rate limiting process. The intestinal bacteria deconjugate bilirubin diglucuronide and convert bilirubin to urobilinogens. Some urobilinogen is absorbed by intestinal cells and transported into the kidneys and excreted with urine (urobilin, which is the product of oxidation of urobilinogen, is responsible for the yellow colour of urine). The remainder travels down the digestive tract and is converted to stercobilinogen. This is oxidized to stercobilin, which is excreted and is responsible for the color of feces.
+
+==Heme in health and disease==
+
+Under homeostasis, the reactivity of heme is controlled by its insertion into the “heme pockets” of hemoproteins. Under oxidative stress however, some hemoproteins, e.g. hemoglobin, can release their heme prosthetic groups. Proc Natl Acad Sci U S A. 1966 Sep;56(3):974-8. Exchange of heme among hemoglobin molecules. Bunn HF, Jandl JH. PMID 5230192 - indexed for MEDLINE PMCID: PMC219955, Proc Natl Acad Sci U S A. 1991 Feb;88(3):882-6. Heme-protein fission under nondenaturing conditions. Smith ML, Paul J, Ohlsson PI, Hjortsberg K, Paul KG. PMID 1846966 - indexed for MEDLINE PMCID: PMC50918 The non-protein-bound (free) heme produced in this manner becomes highly cytotoxic, most probably due to the Fe atom contained within its protoporphyrin IX ring, which can act as a Fenton chemistry to catalyze in an unfettered manner the production of free radicals. This property of free heme can sensitize a variety of cell types to undergo programmed cell death in response to pro-inflammatory agonists, a deleterious effect that plays an important role in the pathogenesis of certain inflammatory diseases such as malaria and sepsis. http://www.ncbi.nlm.nih.gov/pubmed/20881280 
+
+==Genes==
+
+The following genes are part of the chemical pathway for making heme:
+
+* ALAD: aminolevulinic acid, delta-, dehydratase
+* ALAS1: aminolevulinate, delta-, synthase 1
+* ALAS2: aminolevulinate, delta-, synthase 2 (sideroblastic/hypochromic anemia)
+* CPOX: coproporphyrinogen oxidase
+* FECH: ferrochelatase (protoporphyria)
+* HMBS: hydroxymethylbilane synthase
+* PPOX: protoporphyrinogen oxidase
+* UROD: uroporphyrinogen decarboxylase
+* UROS: uroporphyrinogen III synthase (congenital erythropoietic porphyria)
+
+==See also==
+* Bilirubin metabolism
+* Chlorin
+* Chlorophyll
+* Cobalamin
+* Corrin
+* Respiration (physiology)
+
+==References==
+
+

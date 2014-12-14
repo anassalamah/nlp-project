@@ -1,0 +1,63 @@
+[[Also sprach Zarathustra (Strauss)]]
+
+, Op. 30 (Thus Spoke Zarathustra or Thus Spake Zarathustra) Listed in the closing credits of 2001: A Space Odyssey as "Thus spoke Zarathustra" but on the official soundtrack albums as "Thus spake Zarathustra". The book by Nietzsche has been translated both ways and the title of Strauss's music is usually rendered in the original German whenever not discussed in the context of 2001. Although Britannica Online's entry lists the piece as "Thus spoke Zarathustra", music encyclopedias usually use "spake". is a tone poem by Richard Strauss, composed in 1896 and inspired by Friedrich Nietzsche's philosophical novel of the same name. "Richard Strauss – Tone-Poem, Death and Transfiguration, Opus 24" (and other works), Old And Sold The composer conducted its first performance on 27 November 1896 in Frankfurt. A typical performance lasts half an hour.
+
+Beginning of the music
+
+The work has been part of the classical repertoire since its first performance in 1896. The initial fanfare – entitled "Sunrise" in the composer's program notes Also sprach Zarathustra – notes by Los Angeles Philharmonic – became particularly well known to the general public due to its use in Stanley Kubrick's 1968 film 2001: A Space Odyssey. Also Sprach Zarathustra! Baltimore Symphony Orchestra, January 2012. 
+
+==Instrumentation==
+The orchestra consists of the following:
+
+*woodwinds: piccolo, 3 flutes (3rd doubling piccolo), 3 oboes, English horn, clarinet in E-flat, 2 clarinets in B-flat, bass clarinet in B-flat, 3 bassoons, contrabassoon
+*brass: 6 horns in F and E, 4 trumpets in C and E, 3 trombones, 2 tubas
+*percussion: timpani, bass drum, cymbals, triangle, glockenspiel, bell on low E
+*keyboard: organ
+*strings: 2 harps, violins I, II (16 each), violas (12), cellos (12), double basses (8) (with low C string).
+
+==Structure==
+The piece is divided into nine sections played with only three definite pauses. Strauss named the sections after selected chapters of the book:
+# (Introduction, or Sunrise)
+# (Of Those in Backwaters)
+# (Of the Great Longing)
+# (Of Joys and Passions)
+# (The Song of the Grave)
+# (Of Science and Learning)
+# (The Convalescent)
+# (The Dance Song)
+# (Song of the Night Wanderer)
+
+The piece starts with a sustained double low C on the double basses, contrabassoon and organ. This transforms into the brass fanfare of the Introduction and introduces the "dawn" motif (from "Zarathustra's Prologue", the text of which is included in the printed score) that is common throughout the work: the motif includes three notes, in intervals of a fifth and octave, as C–G–C (known also as the Nature-motif). On its first appearance, the motif is a part of the first five notes of the natural overtone series: octave, octave and fifth, two octaves, two octaves and major third (played as part of a C major chord with the third doubled). The major third is immediately changed to a minor third, which is the first note played in the work (E flat) that is not part of the overtone series. 
+
+"Of Those in Backwaters" (or "Of the Forest Dwellers") begins with cellos, double-basses and organ pedal before changing into a lyrical passage for the entire section. The next two sections, "Of the Great Yearning" and "Of Joys and Passions", both introduce motifs that are more chromatic in nature. 
+
+"Of Science" features an unusual fugue beginning in the double-basses and cellos, which consists of all twelve notes of the chromatic scale. It is one of the very few sections in the orchestral literature where the basses must play a contra-b (lowest b on a piano).
+
+"The Convalescent" acts as a reprise of the original motif, and ends with the entire orchestra climaxing on a massive chord.
+
+"The Dance Song" features a very prominent violin solo throughout the section.
+
+The end of the "Song of the Night Wanderer" leaves the piece half resolved, with high flutes, piccolos and violins playing a B major chord, while the lower strings pluck a C.
+
+One of the major compositional themes of the piece is the contrast between the keys of B major, representing humanity, and C major, representing the universe. Because B and C are adjacent notes, these keys are tonally dissimilar: B major uses five sharps, while C major has none. Also sprach Zarathustra – Notes by American Symphony Orchestra 
+
+==World riddle theme==
+There are two opinions about the World riddle theme. Some sources denote the fifth/octave intervals (C–G–C) as the World riddle motif. However, other sources refer to the 2 conflicting keys in the final section as representing the World riddle (C–G–C B–F-B8va), with the unresolved harmonic progression being an unfinished or unsolved riddle: the melody does not conclude with a well-defined tonic note as being either C or B, hence it is unfinished. The ending of the composition has been described: 
+
+Neither C major nor B major is established as the tonic at the end of the composition.
+
+==Recordings==
+In 1944, Strauss conducted the Vienna Philharmonic in an experimental high fidelity recording of the piece, made on a German Magnetophon tape recorder. This was later released on LP by Vanguard Records and on CD by various labels. Strauss's friend and colleague, Fritz Reiner, made the first stereophonic recording of the music with the Chicago Symphony Orchestra in March 1954 for RCA Victor. In 2012, this album was added to the Library of Congress's National Recording Registry list of "culturally, historically, or aesthetically important" American sound recordings. The recording of the opening fanfare used for 2001: A Space Odyssey was performed by Vienna Philharmonic and conducted by Herbert von Karajan. 
+
+Eumir Deodato's funk-influenced arrangement of the opening fanfare Sunrise theme, popularized by the 1968 film 2001: A Space Odyssey, reached #2 on the Billboard Hot 100 U.S. popular music sales charts in 1973, and #7 on the UK Singles Chart. Desouteiro, Arnaldo. 40 Years of Eumir Deodato's iconic "Prelude". Jazz Station. 30 September 2013. His version was titled "Also Sprach Zarathustra (2001)", and won the 1974 Grammy Award for Best Pop Instrumental Performance. Elvis Presley used the opening fanfare as the opening piece in his concerts between 1971 and his death in 1977, and as the introduction to several of his live albums, including (1972), Aloha from Hawaii Via Satellite (1973), and Elvis in Concert (1977).
+
+==Notes==
+
+==External links==
+* Also sprach Zarathustra, opening movement (video, 12:45), WDR Symphony Orchestra Cologne, Semyon Bychkov, conductor
+* Free-of-charge recording at the Internet Archive
+* 
+* Also sprach Zarathustra: Free scores at Musopen
+* Also Sprach Zarathustra: Decoding Strauss' Tone Poem by Marin Alsop (14 January 2012)
+
+

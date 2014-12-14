@@ -1,0 +1,145 @@
+[[John Dalton]]
+
+John Dalton FRS (6 September 1766 – 27 July 1844) was an English chemist, meteorologist and physicist. He is best known for his pioneering work in the development of modern atomic theory, and his research into colour blindness (sometimes referred to as Daltonism, in his honour).
+
+==Early life==
+John Dalton was born into a Quaker family at Eaglesfield, near Cockermouth, Cumberland, England. The son of a weaver, he joined his older brother Jonathan at age 15 in running a Quaker school in nearby Kendal. Around 1790 Dalton seems to have considered taking up law or medicine, but his projects were not met with encouragement from his relatives – Dissenters were barred from attending or teaching at English universities – and he remained at Kendal until, in the spring of 1793, he moved to Manchester. Mainly through John Gough, a blind philosopher and polymath to whose informal instruction he owed much of his scientific knowledge, Dalton was appointed teacher of mathematics and natural philosophy at the "New College" in Manchester, a dissenting academy. He remained in that position until 1800, when the college's worsening financial situation led him to resign his post and begin a new career in Manchester as a private tutor for mathematics and natural philosophy.
+
+Dalton's early life was highly influenced by a prominent Eaglesfield Quaker named Elihu Robinson, a competent meteorologist and instrument maker, who got him interested in problems of mathematics and meteorology. During his years in Kendal, Dalton contributed solutions of problems and questions on various subjects to The Ladies' Diary and the Gentleman's Diary, and in 1787 he began to keep a meteorological diary in which, during the succeeding 57 years, he entered more than 200,000 observations. He also rediscovered George Hadley's theory of atmospheric circulation (now known as the Hadley cell) around this time. George Hadley Encyclopædia Britannica. Accessed 30 April 2009. Dalton's first publication was Meteorological Observations and Essays (1793), which contained the seeds of several of his later discoveries. However, in spite of the originality of his treatment, little attention was paid to them by other scholars. A second work by Dalton, Elements of English Grammar, was published in 1801.
+
+===Colour blindness===
+In 1794, shortly after his arrival in Manchester, Dalton was elected a member of the Manchester Literary and Philosophical Society, the "Lit & Phil", and a few weeks later he communicated his first paper on "Extraordinary facts relating to the vision of colours", in which he postulated that shortage in colour perception was caused by discoloration of the liquid medium of the eyeball. In fact, a shortage of colour perception in some people had not even been formally described or officially noticed until Dalton wrote about his own. Since both he and his brother were colour blind, he recognized that this condition must be hereditary. 
+
+Although Dalton's theory lost credence in his own lifetime, the thorough and methodical nature of his research into his own visual problem was so broadly recognized that Daltonism became a common term for colour blindness. "Dalton believed that his vitreous humour possessed an abnormal blue tint, causing his anomalous colour perception, and he gave instructions for his eyes to be examined on his death, to test this hypothesis. His wishes were duly carried out, but no blue coloration was found, and Dalton’s hypothesis was refuted. However, the shrivelled remains of one eye have survived to this day, and now belong to the Manchester Literary and Philosophical Society." see "John Dalton’s Colour Vision Legacy" Book Review by Benedict Regan at bjo.bmj.com Examination of his preserved eyeball in 1995 demonstrated that Dalton actually had a less common kind of colour blindness, deuteroanopia, in which medium wavelength sensitive cones are missing (rather than functioning with a mutated form of their pigment, as in the most common type of colour blindness, deuteroanomaly). Besides the blue and purple of the spectrum he was able to recognize only one colour, yellow, or, as he says in his paper,
+
+This paper was followed by many others on diverse topics on rain and dew and the origin of springs, on heat, the colour of the sky, steam, the auxiliary verbs and participles of the English language and the reflection and refraction of light.
+
+===Measuring Mountains in the Lake District===
+Dalton regularly holidayed in the Lake District where his study of meteorology involved a lot of climbing the fells: until the advent of aeroplanes and weather balloons, the only way to make measurements of temperature, humidity, etc. at altitude was to climb a mountain. The altitude achieved was estimated using a barometer. This meant that, until the Ordnance Survey started publishing their maps for the Lake District in the 1860s, Dalton was one of the few sources of such information. http://www.geog.port.ac.uk/webmap/thelakes/html/West/WS21P190.htm Dalton was often accompanied in the fells by Jonathan Otley, who became both assistant and friend. Otley was one of the few other authorities on the heights of the various mountains in the Lake District at the time. Thomas Fletcher Smith Jonathan Otley, Man of Lakeland, publ. Bookcase, 2007ISBN 978-1-904147-23-7 
+
+==Atomic theory==
+
+In 1800, Dalton became a secretary of the Manchester Literary and Philosophical Society, and in the following year he orally presented an important series of papers, entitled "Experimental Essays" on the constitution of mixed gases; on the pressure of steam and other vapours at different temperatures, both in a vacuum and in air; on evaporation; and on the thermal expansion of gases. These four essays were published in the Memoirs of the Lit & Phil in 1802.
+
+The second of these essays opens with the striking remark,
+
+After describing experiments to ascertain the pressure of steam at various points between 0 and 100 °C (32 and 212 °F), Dalton concluded from observations on the vapour pressure of six different liquids, that the variation of vapour pressure for all liquids is equivalent, for the same variation of temperature, reckoning from vapour of any given pressure.
+
+In the fourth essay he remarks, J. Dalton (1802) "Essay IV. On the expansion of elastic fluids by heat," Memoirs of the Literary and Philosophical Society of Manchester, vol. 5, pt. 2, pages 595-602; see page 600. 
+
+===Gas laws===
+Joseph Louis Gay-Lussac
+Jacques Alexandre César Charles, 1820
+He thus enunciated Gay-Lussac's law or J.A.C. Charles's law, published in 1802 by Joseph Louis Gay-Lussac. In the two or three years following the reading of these essays, Dalton published several papers on similar topics, that on the absorption of gases by water and other liquids (1803), containing his law of partial pressures now known as Dalton's law.
+
+The most important of all Dalton's investigations are those concerned with the atomic theory in chemistry, with which his name is inseparably associated. It has been proposed that this theory was suggested to him either by researches on ethylene (olefiant gas) and methane (carburetted hydrogen) or by analysis of nitrous oxide (protoxide of azote) and nitrogen dioxide (deutoxide of azote), both views resting on the authority of Thomas Thomson. However, a study of Dalton's own laboratory notebooks, discovered in the rooms of the Lit & Phil, concluded that so far from Dalton being led by his search for an explanation of the law of multiple proportions to the idea that chemical combination consists in the interaction of atoms of definite and characteristic weight, the idea of atoms arose in his mind as a purely physical concept, forced upon him by study of the physical properties of the atmosphere and other gases. The first published indications of this idea are to be found at the end of his paper on the absorption of gases already mentioned, which was read on 21 October 1803, though not published until 1805. Here he says:
+
+===Atomic weights===
+Dalton proceeded to print his first published table of relative atomic weights. Six elements appear in this table, namely hydrogen, oxygen, nitrogen, carbon, sulfur, and phosphorus, with the atom of hydrogen conventionally assumed to weigh 1. Dalton provided no indication in this first paper how he had arrived at these numbers. However, in his laboratory notebook under the date 6 September 1803 Laboratory notebook in ibid., p. 248 there appears a list in which he sets out the relative weights of the atoms of a number of elements, derived from analysis of water, ammonia, carbon dioxide, etc. by chemists of the time.
+
+It appears, then, that confronted with the problem of calculating the relative diameter of the atoms of which, he was convinced, all gases were made, he used the results of chemical analysis. Assisted by the assumption that combination always takes place in the simplest possible way, he thus arrived at the idea that chemical combination takes place between particles of different weights, and it was this which differentiated his theory from the historic speculations of the Greeks, such as Democritus and Lucretius.
+
+The extension of this idea to substances in general necessarily led him to the law of multiple proportions, and the comparison with experiment brilliantly confirmed his deduction. It may be noted that in a paper on the proportion of the gases or elastic fluids constituting the atmosphere, read by him in November 1802, the law of multiple proportions appears to be anticipated in the words: "The elements of oxygen may combine with a certain portion of nitrous gas or with twice that portion, but with no intermediate quantity", but there is reason to suspect that this sentence may have been added some time after the reading of the paper, which was not published until 1805.
+
+Compounds were listed as binary, ternary, quaternary, etc. (molecules composed of two, three, four, etc. atoms) in the New System of Chemical Philosophy depending on the number of atoms a compound had in its simplest, empirical form.
+
+He hypothesized the structure of compounds can be represented in whole number ratios. So, one atom of element X combining with one atom of element Y is a binary compound. Furthermore, one atom of element X combining with two elements of Y or vice versa, is a ternary compound. Many of the first compounds listed in the New System of Chemical Philosophy correspond to modern views, although many others do not.
+Various atoms and molecules as depicted in John Dalton's A New System of Chemical Philosophy (1808).
+Dalton used his own symbols to visually represent the atomic structure of compounds. These have made it in New System of Chemical Philosophy where Dalton listed a number of elements, and common compounds.
+
+===Five main points of Dalton's atomic theory===
+# Elements are made of extremely small particles called atoms.
+# Atoms of a given element are identical in size, mass, and other properties; atoms of different elements differ in size, mass, and other properties.
+# Atoms cannot be subdivided, created, or destroyed.
+# Atoms of different elements combine in simple whole-number ratios to form chemical compounds.
+# In chemical reactions, atoms are combined, separated, or rearranged.
+
+Dalton proposed an additional "rule of greatest simplicity" that created controversy, since it could not be independently confirmed.
+
+:When atoms combine in only one ratio, "..it must be presumed to be a binary one, unless some cause appear to the contrary".
+
+This was merely an assumption, derived from faith in the simplicity of nature. No evidence was then available to scientists to deduce how many atoms of each element combine to form compound molecules. But this or some other such rule was absolutely necessary to any incipient theory, since one needed an assumed molecular formula in order to calculate relative atomic weights. In any case, Dalton's "rule of greatest simplicity" caused him to assume that the formula for water was OH and ammonia was NH, quite different from our modern understanding.
+
+Despite the uncertainty at the heart of Dalton's atomic theory, the principles of the theory survived. To be sure, the conviction that atoms cannot be subdivided, created, or destroyed into smaller particles when they are combined, separated, or rearranged in chemical reactions is inconsistent with the existence of nuclear fusion and nuclear fission, but such processes are nuclear reactions and not chemical reactions. In addition, the idea that all atoms of a given element are identical in their physical and chemical properties is not precisely true, as we now know that different isotopes of an element have slightly varying weights. However, Dalton had created a theory of immense power and importance. Indeed, Dalton's innovation was fully as important for the future of the science as Antoine Laurent Lavoisier's oxygen-based chemistry had been.
+
+==Later years==
+James Prescott Joule
+Dalton communicated his atomic theory to Thomson who, by consent, included an outline of it in the third edition of his System of Chemistry (1807), and Dalton gave a further account of it in the first part of the first volume of his New System of Chemical Philosophy (1808). The second part of this volume appeared in 1810, but the first part of the second volume was not issued till 1827. This delay is not explained by any excess of care in preparation, for much of the matter was out of date and the appendix giving the author's latest views is the only portion of special interest. The second part of vol. ii. never appeared. For Rees's Cyclopaedia Dalton contributed articles on Chemistry and Meteorology, but the topics are not known.
+
+He was president of the Lit & Phil from 1817 until his death, contributing 116 memoirs. Of these the earlier are the most important. In one of them, read in 1814, he explains the principles of volumetric analysis, in which he was one of the earliest workers. In 1840 a paper on the phosphates and arsenates, often regarded as a weaker work, was refused by the Royal Society, and he was so incensed that he published it himself. He took the same course soon afterwards with four other papers, two of which (On the quantity of acids, bases and salts in different varieties of salts and On a new and easy method of analysing sugar) contain his discovery, regarded by him as second in importance only to the atomic theory, that certain anhydrates, when dissolved in water, cause no increase in its volume, his inference being that the salt enters into the pores of the water.
+
+James Prescott Joule was a famous pupil of Dalton.
+
+==Dalton's experimental method==
+Sir Humphry Davy, 1830 engraving based on the painting by Sir Thomas Lawrence (1769–1830)
+As an investigator, Dalton was often content with rough and inaccurate instruments, though better ones were obtainable. Sir Humphry Davy described him as "a very coarse experimenter", who almost always found the results he required, trusting to his head rather than his hands. On the other hand, historians who have replicated some of his crucial experiments have confirmed Dalton's skill and precision.
+
+In the preface to the second part of Volume I of his New System, he says he had so often been misled by taking for granted the results of others that he determined to write "as little as possible but what I can attest by my own experience", but this independence he carried so far that it sometimes resembled lack of receptivity. Thus he distrusted, and probably never fully accepted, Gay-Lussac's conclusions as to the combining volumes of gases. He held unconventional views on chlorine. Even after its elementary character had been settled by Davy, he persisted in using the atomic weights he himself had adopted, even when they had been superseded by the more accurate determinations of other chemists. He always objected to the chemical notation devised by Jöns Jakob Berzelius, although most thought that it was much simpler and more convenient than his own cumbersome system of circular symbols.
+
+==Public and personal life==
+Before he had propounded the atomic theory, he had already attained a considerable scientific reputation. In 1803, he was chosen to give a course of lectures on natural philosophy at the Royal Institution in London, where he delivered another course in 1809–1810. However, some witnesses reported that he was deficient in the qualities that make an attractive lecturer, being harsh and indistinct in voice, ineffective in the treatment of his subject, and singularly wanting in the language and power of illustration.
+
+In 1810, Sir Humphry Davy asked him to offer himself as a candidate for the fellowship of the Royal Society, but Dalton declined, possibly for financial reasons. However, in 1822 he was proposed without his knowledge, and on election paid the usual fee. Six years previously he had been made a corresponding member of the French Académie des Sciences, and in 1830 he was elected as one of its eight foreign associates in place of Davy. In 1833, Earl Grey's government conferred on him a pension of £150, raised in 1836 to £300.
+
+Dalton never married and had only a few close friends, all in all as a Quaker he lived a modest and unassuming life. 
+
+He lived for more than a quarter of a century with his friend the Rev. W. Johns (1771–1845), in George Street, Manchester, where his daily round of laboratory work and tuition was broken only by annual excursions to the Lake District and occasional visits to London. In 1822 he paid a short visit to Paris, where he met many distinguished resident scientists. He attended several of the earlier meetings of the British Association at York, Oxford, Dublin and Bristol.
+
+==Death and legacy==
+Bust of Dalton by Chantrey
+Painting portrait of Dalton in later life
+
+Dalton suffered a minor stroke in 1837, and a second one in 1838 left him with a speech impediment, though he remained able to do experiments. In May 1844 he had yet another stroke; on 26 July he recorded with trembling hand his last meteorological observation. On 27 July, in Manchester, Dalton fell from his bed and was found lifeless by his attendant. Approximately 40,000 people filed by his coffin as it was laid in state in the Manchester Town Hall. He was buried in Manchester in Ardwick cemetery. The cemetery is now a playing field, but pictures of the original grave are in published materials. 
+
+A bust of Dalton, by Chantrey, was publicly subscribed for and placed in the entrance hall of the Royal Manchester Institution. Chantrey also crafted a large statue of Dalton, now in the Manchester Town Hall. The statue was erected while Dalton was still alive and it has been said: "He is probably the only scientist who got a statue in his lifetime". 
+
+In honour of Dalton's work, many chemists and biochemists use the (as yet unofficial) unit dalton (abbreviated Da) to denote one atomic mass unit, or 1/12 the weight of a neutral atom of carbon-12. There is a John Dalton Street connecting Deansgate and Albert Square in the centre of Manchester.
+
+Manchester Metropolitan University has a building named after John Dalton and occupied by the Faculty of Science and Engineering, in which the majority of its Science & Engineering lectures and classes take place. A statue is outside the John Dalton Building of the Manchester Metropolitan University in Chester Street which has been moved from Piccadilly. It was the work of William Theed (after Chantrey) and is dated 1855 (it was in Piccadilly until 1966).
+
+The University of Manchester has a hall of residence called Dalton Hall; it also established two Dalton Chemical Scholarships, two Dalton Mathematical Scholarships, and a Dalton Prize for Natural History. There is a Dalton Medal awarded occasionally by the Manchester Literary and Philosophical Society (only 12 times altogether).
+
+Dalton Township in southern Ontario was named for Dalton. It has, since 2001, been absorbed into the City of Kawartha Lakes. However the township name was used in a massive new park: Dalton Digby Wildlands Provincial Park, itself renamed since 2002.
+
+A lunar crater has been named after Dalton. "Daltonism" became a common term for colour blindness and "Daltonien" is the actual French word for "colour blind".
+
+The inorganic section of the UK's Royal Society of Chemistry is named after Dalton (Dalton Division), and the Society's academic journal for inorganic chemistry also bears his name (Dalton Transactions).
+
+The name Dalton can often be heard in the halls of many Quaker schools, for example, one of the school houses in Coram House, the primary sector of Ackworth School, is called Dalton.
+
+Much of his collected work was damaged during the bombing of the Manchester Literary and Philosophical Society on 24 December 1940. This event prompted Isaac Asimov to say, "John Dalton's records, carefully preserved for a century, were destroyed during the World War II bombing of Manchester. It is not only the living who are killed in war". The damaged papers are now in the John Rylands Library having been deposited in the university library by the Society.
+
+==See also==
+Statue of Dalton in the Manchester Town Hall.
+* Atomic mass unit (dalton) – the atomic mass unit
+* Dalton Minimum – a period of low solar activity
+* Daltonism
+* Democritus
+* Pneumatic chemistry
+
+==References==
+
+==Sources==
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* - Original edition published by Manchester University Press in 1966
+* 
+
+==External links==
+
+* 
+* 
+* 
+* 
+* – Alembic Club reprint with some of Dalton's papers, along with some by William Hyde Wollaston and Thomas Thomson
+* 
+
+

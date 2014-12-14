@@ -1,0 +1,164 @@
+[[Frederick Winslow Taylor]]
+
+Frederick Winslow Taylor (March 20, 1856 – March 21, 1915) was an American mechanical engineer who sought to improve industrial efficiency. He was one of the first management consultants. Taylor was one of the intellectual leaders of the Efficiency Movement and his ideas, broadly conceived, were highly influential in the Progressive Era. Taylor summed up his efficiency techniques in his book The Principles of Scientific Management.
+
+==Biography==
+Taylor was born in 1856 to a wealthy Quaker family in Germantown, Philadelphia, Pennsylvania. Taylor's father, Franklin Taylor, a Princeton-educated lawyer, built his wealth on mortgages. Taylor's mother, Emily Annette Taylor (née Winslow), was an ardent abolitionist and a coworker with Lucretia Mott. His father's ancestor, Samuel Taylor, settled in Burlington, New Jersey, in 1677. His mother's ancestor, Edward Winslow, was one of the fifteen original Mayflower Pilgrims who brought servants or children, and one of eight who had the honorable distinction of Mister. Winslow served for many years as the Governor of the Plymouth colony.
+
+Educated early by his mother, Taylor studied for two years in France and Germany and traveled Europe for 18 months. In 1872, he entered Phillips Exeter Academy in Exeter, New Hampshire, with the plan of eventually going to Harvard and becoming a lawyer like his father. In 1874, Taylor passed the Harvard entrance examinations with honors. However, due allegedly to rapidly deteriorating eyesight, Taylor chose quite a different path.
+
+Instead of attending Harvard, Taylor became an apprentice patternmaker and machinist, gaining shop-floor experience at Enterprise Hydraulic Works in Philadelphia (a pump-manufacturing company whose proprietors were friends of the Taylor family). He left his apprenticeship for six months and represented a group of New England machine-tool manufacturers at Philadelphia's centennial exposition. Taylor finished his four-year apprenticeship and in 1878 became a machine-shop laborer at Midvale Steel Works. At Midvale, he was quickly promoted to time clerk, journeyman machinist, gang boss over the lathe hands, machine shop foreman, research director, and finally chief engineer of the works (while maintaining his position as machine shop foreman). Taylor's fast promotions probably reflected not only his talent but also his family's relationship with Edward Clark, part owner of Midvale Steel. (Edward Clark's son Clarence Clark, who was also a manager at Midvale Steel, married Taylor's sister.)
+
+Early on at Midvale, working as a laborer and machinist, Taylor recognized that workmen were not working their machines, or themselves, nearly as hard as they could (which at the time was called "soldiering") and that this resulted in high labor costs for the company. When he became a foreman he expected more output from the workmen and in order to determine how much work should properly be expected he began to study and analyze the productivity of both the men and the machines (although the word "productivity" was not used at the time, and the applied science of productivity had not yet been developed). His focus on the human component of production eventually became Scientific Management, while the focus on the machine component led to his famous metal-cutting and materials innovations.
+
+While Taylor worked at Midvale, he and Clarence Clark won the first tennis doubles tournament in the 1881 US National Championships, the precursor of the US Open. Taylor became a student of Stevens Institute of Technology, studying via correspondence Kanigel 1997:182-183,199 and obtaining a degree in mechanical engineering in 1883. On May 3, 1884, he married Louise M. Spooner of Philadelphia.
+
+From 1890 until 1893 Taylor worked as a general manager and a consulting engineer to management for the Manufacturing Investment Company of Philadelphia, a company that operated large paper mills in Maine and Wisconsin. He spent time as a plant manager in Maine. In 1893, Taylor opened an independent consulting practice in Philadelphia. His business card read "Consulting Engineer - Systematizing Shop Management and Manufacturing Costs a Specialty". Through these consulting experiences, Taylor perfected his management system. In 1898 he joined Bethlehem Steel in order to solve an expensive machine-shop capacity problem. As a result, he and Maunsel White, with a team of assistants, developed high speed steel, paving the way for greatly increased mass production. Taylor was forced to leave Bethlehem Steel in 1901 after discord with other managers.
+
+After leaving Bethlehem Steel, Taylor focused the rest of his career on publicly promoting his management and machining methods through lecturing, writing, and consulting. In 1910, owing to the Eastern Rate Case, Frederick Winslow Taylor and his Scientific Management methodologies become famous worldwide. In 1911, Taylor introduced his The Principles of Scientific Management paper to the American mechanical engineering society, eight years after his Shop Management paper.
+
+On October 19, 1906, Taylor was awarded an honorary degree of Doctor of Science by the University of Pennsylvania. Taylor eventually became a professor at the Tuck School of Business at Dartmouth College. In early spring of 1915 Taylor caught pneumonia and died, one day after his fifty-ninth birthday, on March 21, 1915. He was buried in West Laurel Hill Cemetery, in Bala Cynwyd, Pennsylvania.
+
+==Work==
+Taylor was a mechanical engineer who sought to improve industrial efficiency. Taylor is regarded as the father of scientific management, and was one of the first management consultants and director of a famous firm. In Peter Drucker's description,
+
+Taylor's scientific management consisted of four principles:
+#Replace rule-of-thumb work methods with methods based on a scientific study of the tasks.
+#Scientifically select, train, and develop each employee rather than passively leaving them to train themselves.
+#Provide "Detailed instruction and supervision of each worker in the performance of that worker's discrete task" (Montgomery 1997: 250).
+#Divide work nearly equally between managers and workers, so that the managers apply scientific management principles to planning the work and the workers actually perform the tasks.
+
+Future US Supreme Court justice Louis Brandeis coined the term scientific management in the course of his argument for the Eastern Rate Case before the Interstate Commerce Commission in 1910. Brandeis argued that railroads, when governed according to Taylor's principles, did not need to raise rates to increase wages. Taylor used Brandeis's term in the title of his monograph The Principles of Scientific Management, published in 1911. The Eastern Rate Case propelled Taylor's ideas to the forefront of the management agenda. Taylor wrote to Brandeis "I have rarely seen a new movement started with such great momentum as you have given this one." Taylor's approach is also often referred to as Taylor's Principles, or, frequently disparagingly, as Taylorism.
+
+===Managers and workers===
+Taylor had very precise ideas about how to introduce his system:
+
+Workers were supposed to be incapable of understanding what they were doing. According to Taylor this was true even for rather simple tasks.
+
+Taylor believed in transferring control from workers to management. He set out to increase the distinction between mental (planning work) and manual labor (executing work). Detailed plans specifying the job, and how it was to be done, were to be formulated by management and communicated to the workers. Rinehart, J.W. The Tyranny of Work, Canadian Social Problems Series, Academic Press Canada (1975), p. 44. ISBN 0-7747-3029-3 
+
+The introduction of his system was often resented by workers and provoked numerous strikes. The strike at Watertown Arsenal led to the congressional investigation in 1912.
+Taylor believed the laborer was worthy of his hire, and pay was linked to productivity. His workers were able to earn substantially more than those under conventional management, . and this earned him enemies among the owners of factories where scientific management was not in use.
+
+===Propaganda techniques===
+Taylor promised to reconcile labor and capital. 
+
+===Scholarly confirmation of increased efficiency moving pig iron at Bethlehem Steel===
+A study published in the Journal of Management written by Jill R. Hough and Margaret A. White, titled: Using stories to create change: The object lesson of Frederick Taylor’s “pig-tale”, provides compelling historical evidence of the truth of the assertions Taylor made regarding the quite substantial increase in productivity, for even the most basic task of picking up, carrying and dropping pigs of iron.
+ Once Upon a Time There Was an Organization: Organizational Stories as Antitheses to Fairy Tales
+Journal of Management Inquiry March 1, 2009 18: 15-25 
+
+===Management theory===
+Taylor thought that by analyzing work, the "One Best Way" to do it would be found. He is most remembered for developing the stopwatch time study, which combined with Frank Gilbreth's motion study methods later becomes the field of time and motion study. He would break a job into its component parts and measure each to the hundredth of a minute. One of his most famous studies involved shovels. He noticed that workers used the same shovel for all materials. He determined that the most effective load was 21½ lb, and found or designed shovels that for each material would scoop up that amount. He was generally unsuccessful in getting his concepts applied and was dismissed from Bethlehem Steel. Nevertheless, Taylor was able to convince workers who used shovels and whose compensation was tied to how much they produced to adopt his advice about the optimum way to shovel by breaking the movements down into their component elements and recommending better ways to perform these movements. It was largely through the efforts of his disciples (most notably H.L. Gantt) that industry came to implement his ideas. Moreover, the book he wrote after parting company with Bethlehem Steel, Shop Management, sold well.
+
+===Relations with ASME===
+Taylor's own written works were designed for presentation to the American Society of Mechanical Engineers (ASME). These include Notes on Belting (1894), A Piece-Rate System (1895), Shop Management (1903), Art of Cutting Metals (1906), and The Principles of Scientific Management (1911).
+
+Taylor was president of the ASME from 1906 to 1907. While president, he tried to implement his system into the management of the ASME but was met with much resistance. He was only able to reorganize the publications department and then only partially. He also forced out the ASME's long-time secretary, Morris L. Cooke, and replaced him with Calvin W. Rice. His tenure as president was trouble-ridden and marked the beginning of a period of internal dissension within the ASME during the Progressive Age. Jaffe 1957:34 
+
+In 1911, Taylor collected a number of his articles into a book-length manuscript which he submitted to the ASME for publication. The ASME formed an ad hoc committee to review the text. The committee included Taylor allies such as James Mapes Dodge and Henry R. Towne. The committee delegated the report to the editor of the American Machinist, Leon P. Alford. Alford was a critic of the Taylor system and the report was negative. The committee modified the report slightly, but accepted Alford's recommendation not to publish Taylor's book. Taylor angrily withdrew the book and published Principles without ASME approval. Jaffe 1957:36-40; Nelson 1980:181-184) Taylor published the trade book himself in 1912.
+
+===Patents===
+Taylor authored 42 patents. 
+
+==Taylor's influence==
+
+===United States===
+One of Carl G. Barth's speed-and-feed slide rules.
+A Gantt chart.
+*Carl G. Barth helped Taylor to develop speed-and-feed-calculating slide rules to a previously unknown level of usefulness. Similar aids are still used in machine shops today. Barth became an early consultant on scientific management and later taught at Harvard.
+*H. L. Gantt developed the Gantt chart, a visual aid for scheduling tasks and displaying the flow of work.
+*Harrington Emerson introduced scientific management to the railroad industry, and proposed the dichotomy of staff versus line employees, with the former advising the latter.
+*Morris Cooke adapted scientific management to educational and municipal organizations.
+*Hugo Münsterberg created industrial psychology.
+*Lillian Gilbreth introduced psychology to management studies.
+*Frank Gilbreth (husband of Lillian) discovered scientific management while working in the construction industry, eventually developing motion studies independently of Taylor. These logically complemented Taylor's time studies, as time and motion are two sides of the efficiency improvement coin. The two fields eventually became time and motion study.
+*Harvard University, one of the first American universities to offer a graduate degree in business management in 1908, based its first-year curriculum on Taylor's scientific management.
+*Harlow S. Person, as dean of Dartmouth's Amos Tuck School of Administration and Finance, promoted the teaching of scientific management.
+*James O. McKinsey, professor of accounting at the University of Chicago and founder of the consulting firm bearing his name, advocated budgets as a means of assuring accountability and of measuring performance.
+
+===France===
+In France, Le Chatelier translated Taylor's work and introduced scientific management throughout government owned plants during World War I. This influenced the French theorist Henri Fayol, whose 1916 Administration Industrielle et Générale emphasized organizational structure in management. In the classic General and Industrial Management Fayol wrote that "Taylor's approach differs from the one we have outlined in that he examines the firm from the 'bottom up.' He starts with the most elemental units of activity &ndash; the workers' actions &ndash; then studies the effects of their actions on productivity, devises new methods for making them more efficient, and applies what he learns at lower levels to the hierarchy..." Fayol, 1987, p. 43 He suggests that Taylor has staff analysts and advisors working with individuals at lower levels of the organization to identify the ways to improve efficiency. According to Fayol, the approach results in a "negation of the principle of unity of command." Fayol, 1987,p. 44 Fayol criticized Taylor's functional management in this way: In Shop Management, Taylor said Fayol, 1949, p. 68 ... the most marked outward characteristics of functional management lies in the fact that each workman, instead of coming in direct contact with the management at one point only, ... receives his daily orders and help from eight different bosses... these eight were (1) route clerks, (2) instruction card men, (3) cost and time clerks, (4) gang bosses, (5) speed bosses, (6) inspectors, (7) repair bosses, and the (8) shop disciplinarian. This, Fayol said, was an unworkable situation, and that Taylor must have somehow reconciled the dichotomy in some way not described in Taylor's works.
+
+===Switzerland===
+In Switzerland, the American Edward Albert Filene established the International Management Institute to spread information about management techniques.
+
+===USSR===
+In the Soviet Union, Vladimir Lenin was very impressed by Taylorism, which he and Joseph Stalin sought to incorporate into Soviet manufacturing. Taylorism and the mass production methods of Henry Ford thus became highly influential during the early years of the Soviet Union. Nevertheless " Frederick Taylor's methods have never really taken root in the Soviet Union." Atta 1986: 335 The voluntaristic approach of the Stakhanovite movement in the 1930s of setting individual records was diametrically opposed to Taylor's systematic approach and proved to be counter-productive. Atta 1986: 331 The stop-and-go of the production process – workers having nothing to do at the beginning of a month and 'storming' during illegal extra shifts at the end of the month – which prevailed even in the 1980s had nothing to do with the successfully taylorized plants e.g., of Toyota which are characterized by continuous production processes (heijunka) which are continuously improved (kaizen). Head 2005: 38-59 
+
+"The easy availability of replacement labor, which allowed Taylor to choose only 'first-class men,' was an important condition for his system's success." Atta 1986: 329 The situation in the Soviet Union was very different. "Because work is so unrhythmic, the rational manager will hire more workers than he would need if supplies were even in order to have enough for storming. Because of the continuing labor shortage, managers are happy to pay needed workers more than the norm, either by issuing false job orders, assigning them to higher skill grades than they deserve on merit criteria, giving them 'loose' piece rates, or making what is supposed to be 'incentive' pay, premia for good work, effectively part of the normal wage. As Mary Mc Auley has suggested under these circumstances piece rates are not an incentive wage, but a way of justifying giving workers whatever they 'should' be getting, no matter what their pay is supposed to be according to the official norms." Atta 1986: 333 
+
+Taylor and his theories are also referenced (and put to practice) in the 1921 dystopian novel We by Yevgeny Zamyatin.
+
+===Canada===
+In the early 1920s, the Canadian textile industry was re-organized according to scientific management principles. In 1928, workers at Canada Cotton Ltd. in Hamilton, Ontario went on strike against newly introduced Taylorist work methods. Also, Henry Gantt, who was a close associate of Taylor, re-organized the Canadian Pacific Railway. Rinehart, ibid, p. 43 
+
+With the prevalence of US branch plants in Canada and close economic and cultural ties between the two countries, the sharing of business practices, including Taylorism, has been common.
+
+===Criticism of Taylor===
+Management theorist Henry Mintzberg is highly critical of Taylor’s methods. Mintzberg states that an obsession with efficiency allows measureable benefits to overshadow less quantifiable social benefits completely, and social values get left behind. Mintzberg 1989:333 
+
+Harry Braverman's work, , published in 1974 was critical of scientific management. This work pioneered the field of Labor Process Theory.
+
+Taylor's methods have also been challenged by socialist intellectuals. The argument put forward relates to progressive defanging of workers in the workplace and the subsequent degradation of work as management, powered by capital, uses Taylor's methods to render work repeatable, precise yet monotonous and skill-reducing. Harry Braverman, Labor and Monopoly Capital: The Degradation of Work in the Twentieth Century, 1974 James W. Rinehart argued that Taylor's methods of transferring control over production from workers to management, and the division of labor into simple tasks, intensified the alienation of workers that had begun with the factory system of production around 1870-1890. Rinehart, ibid, pp. 43-52 
+
+==Tennis accomplishments==
+Taylor was also an accomplished tennis player. Together with Clarence Clark he won the inaugural United States National tennis doubles championship at Newport Casino in 1881 defeating Alexander Van Rensselaer and Arthur Newbold in straight sets. 
+
+==Publications==
+Taylor published many articles and short monographs. A selection:
+*1894. Notes on Belting
+*1895. A Piece-rate System
+*1896. The adjustment of wages to efficiency; three papers .... New York, For the American economic association by the Macmillan company; London, S. Sonnenschein & co..
+*1903. Shop management; a paper read before the American society of mechanical engineers. New York.
+*1906. On the art of cutting metals, by Mr. F. W. Taylor; an address made at the opening of the annual meeting in New York, December 1906. New York, The American society of mechanical engineers.
+*1911. The Principles of Scientific Management. New York and London, Harper & brothers. 
+*1911. Shop management, by Frederick Winslow Taylor ... with an introduction by Henry R. Towne .... New York, London, Harper & Brothers.
+*1911. A treatise on concrete, plain and reinforced: materials, construction, and design of concrete and reinforced concrete. (2d ed). New York, J. Wiley & sons.
+*1912. Concrete costs. New York, J. Wiley & sons.
+
+==See also==
+*Assembly line
+*Frank Bunker Gilbreth, Sr.
+*Henry Ford
+*Scientific management
+*Organizational theory
+
+==References==
+
+==Sources==
+
+*Atta, Don Van (1986), “Why Is There No Taylorism in the Soviet Union?” in: Comparative Politics, Vol. 18, No. 3. (Apr. 1986), pp. 327–337
+*Head, Simon (2005), The new ruthless economy. Work and power in the digital age, Oxford University Press, Paperback Edition
+*
+*Epstein, Marc J. "Taylor, Frederick Winslow (1856-1915)." In History of Accounting: An International Encyclopedia, edited by Michael Chatfield and Richard Vangermeersch. New York: Garland Publishing, 1996. pp. 579–580.
+*Fayol, H. (1987). General and industrial management: Henri Fayol’s classic revised by Irwin Gray. Belmont, CA: David S. Lake Publishers.
+*
+*
+*
+*Montgomery, David (1989), The Fall of the House of Labor: The Workplace, the State, and American Labor Activism, 1865-1925, Cambridge University Press, Paperback edition
+
+==Further reading==
+*Aitken, Hugh (1960), Taylorism at Watertown Arsenal. Scientific management in action, 1908-1915, Harvard UPCompara
+*
+*
+*
+*
+*Taylor, Frederick, Scientific Management (includes "Shop Management" (1903), "The Principles of Scientific Management" (1911) and "Testimony Before the Special House Committee" (1912)), Routledge, 2003, ISBN 0-415-27983-6
+*
+
+==External links==
+
+*
+*The Principles of Scientific Management (1911), by Frederick Winslow Taylor
+*The Principles of Scientific Management (full text)
+* Special Collections – F.W. Taylor Collection , Stevens Institute of Technology has an extensive collection at its library
+*
+*NY Times Obituary, March 22, 1915: F. W. Taylor, Expert in Efficiency, Dies
+*A Selection from Frederick Taylor's Essays
+*The Principles of Scientific Management, with more information.
+*Shop Management, 1911 edition, online
+*An undergraduate's biography of Taylor (birth year of 1856 is incorrectly reported as 1865 here)
+*Biography-West Laurel Hill Cemetery web site
+
+

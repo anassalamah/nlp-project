@@ -1,0 +1,62 @@
+[[Utilitarianism (book)]]
+
+John Stuart Mill's book Utilitarianism is a philosophical defence of utilitarianism in ethics. The essay first appeared as a series of three articles published in Fraser's Magazine in 1861; the articles were collected and reprinted as a single book in 1863. It went through four editions during Mill's lifetime with minor additions and revisions.
+
+Although Mill includes discussions of utilitarian ethical principles in other works such as On Liberty and The Subjection of Women, Utilitarianism contains Mill's only major discussion of the fundamental grounds for utilitarian ethical theory.
+
+== Summary ==
+ The essay is divided into five chapters, namely
+
+#General Remarks;
+#What Utilitarianism Is;
+#Of the Ultimate Sanction of the Principle of Utility;
+#Of What Sort of Proof the Principle of Utility is Susceptible; and
+#On the Connection Between Justice and Utility.
+
+In the first two chapters, Mill aims to define precisely what utilitarianism claims in terms of the general moral principles that it uses to judge concrete actions, as well as in terms of the sort of evidence that is supposed to be given for such principles. He hopes thus to do away with some common misunderstandings of utilitarianism, as well as to defend it against philosophical criticisms, most notably those of Kant. In the first chapter, he distinguishes two broad schools of ethical theory – those whose principles are defended by appeals to intuition and those whose principles are defended by appeals to experience. He identifies utilitarianism as one of the empirical theories of ethics.
+
+In the second chapter, Mill formulates a single ethical principle, from which he says all utilitarian ethical principles are derived:
+
+The creed which accepts as the foundation of morals, Utility, or the Greatest-Happiness Principle, holds that actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness. By happiness is intended pleasure, and the absence of pain; by unhappiness, pain, and the privation of pleasure.
+
+Most importantly, it is not the agent's own greatest happiness that matters "but the greatest amount of happiness altogether." Utilitarianism, therefore, can only attain its goal of greater happiness by cultivating the nobleness of individuals so that all can benefit from the honour of others. In fact, notes Mill, Utilitarianism is actually a "standard of morality" which uses happiness of the greater number of people as its ultimate goal.
+
+The Greatest-Happiness Principle, deals with doing the greatest good for the greatest number of people. With the famous words "it is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied", (260) Mill touts the importance of being well brought up and knowledgeably curious about the world, and understanding higher pleasures such as art and music, than to be uneducated and complacent. One need not be personally satisfied with one's life to be able to contribute to the "total sum happiness" of a society.
+
+Mill goes on to discuss what is meant by "pleasure" and "pain" in his formulation of the Greatest-Happiness Principle, to argue that it encompasses intellectual as well as sensual pleasures, and to offer a defence of intellectual pleasures as preferable not only in degree, but also in kind, to sensual pleasures. Throughout the volume, Mill writes mainly as if addressing opponents of utilitarianism, but here he is trying also to criticise and refine the understanding of the Greatest-Happiness Principle offered by earlier utilitarians, Jeremy Bentham in particular.
+
+In the third chapter, Mill discusses questions concerning the motivation to follow utilitarian moral principles. He explores ways in which both external and internal sanctions – that is, the incentives provided by others and the inner feelings of sympathy and duty – encourage people to act in such a way as to promote general happiness. Daniel Callcut, “Mill,Sentimentalism, and the Problem of Moral Authority,” Utilitas,Vol. 21, No. 1 (March 2009), paper available online at http://philpapers.org/archive/CALMSA 
+
+The fourth chapter offers Mill's attempt at an inductive proof of the Greatest-Happiness Principle, on the grounds that happiness and happiness alone is desired as an end in itself.
+
+The fifth chapter concludes the essay with a discussion of problems concerning utilitarianism, as well as the concept of justice. Critics of utilitarianism often claim that judging actions solely in terms of their consequences is incompatible with a foundational and universally binding concept of justice. Mill sees this as the strongest objection to utilitarianism and sets out to argue
+
+#that a binding concept of justice can be explained in strictly utilitarian terms; and
+#that the problems created by the utilitarian explanation are difficult problems for any concept of justice whatsoever, whether utilitarian or not.
+
+Finally, to be truly happy, Mill believes that we must turn our attention away from our own happiness towards other objects and ends, such as doing good for others and such high pleasures in life as art and music.
+
+We can clarify what Mill means by utilitarianism by comparing and contrasting it with Aristotle's classic position of Eudaimonism or virtue ethics. Both Aristotle and Mill argue humans naturally seek the good life, which is happiness. Mill's principle of utility is natural because it is grounded in the psychological faculty of desiring pleasure and avoiding pain. In Chapter four of his text "Utilitarianism" Mill can claim that the proof for the principle of utility is the fact that it is human nature. Aristotle claims virtue is natural as the excellence of natural human function. But, for Aristotle, virtues are a means to the end of happiness. Virtues are chosen for the sake of happiness. According to Mill, this is an abstract philosophy separated from happiness. Means are, by definition, different from the end for which they are chosen. Mill seeks concrete happiness. The principle of utility establishes what is good because what is good brings about pleasure, while what is bad brings about pain. The principle of pleasure allows us to know what is the best good because it shows what contributes to the greatest good or happiness for the greatest many. As the principle of utility structures human nature it is present in every human action. Every human being desires happiness because every thing a human being desires is desired for its pleasure. Mill shows that the principle of utility is necessary and that those things that are desired are parts of happiness and not a means to happiness. Because humans have parts of happiness, happiness is concrete and not abstract. Happiness remains abstract for Aristotle according to Mill. Mill wants concrete happiness so that people can be happy. For some proponents of Aristotle's Nichomachean Ethics, one only becomes happy after they die. Mill wants the living to be happy. According to Mill, the mistake of other moral theories, including Aristotle's, is that all systems are based on the principle of utility, but other moralists were blind to this fact. Mill's principle of utility is the true principle of morality and human nature and makes it possible for the greatest number to have the greatest happiness.
+
+==See also==
+* Annals of the Parish, by John Galt
+
+== References ==
+
+==Bibliography==
+
+== External links ==
+
+* Full Text, Version of "Utilitarianism.com"
+* Mill, J.S. Utilitarianism. Parker, Son, and Bourn: London, 1863, a digitised copy from the Internet Archive.
+* Mill, J.S. Utilitarianism, second edition. Longman, Green, Longman, Roberts, and Green: London, 1864, a digitised copy from Google Book Search.
+* Mill, J.S. Utilitarianism, third edition. Longmans, Green, Reader, and Dyer: London, 1867, a digitised copy from Google Book Search.
+*Contains Utilitarianism, slightly modified for easier reading
+* Mill, J.S. Utilitarianism, fourth edition. Longmans, Green, Reader, and Dyer: London, 1871, a digitised copy from Google Book Search.
+* Utilitarianism, 7th edition, 1879 at Project Gutenberg
+* Utilitarianism (1871 edition, transcribed by the Fair Use Repository)
+* Utilitarianism (1863 edition, transcribed by the University of Adelaide Library)
+* Internet Encyclopedia of Philosophy: John Stuart Mill: Utilitarianism
+* Detailed summary of Mill's Utilitarianism
+
+

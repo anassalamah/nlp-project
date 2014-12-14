@@ -1,0 +1,139 @@
+[[Saccharomyces cerevisiae]]
+
+Saccharomyces cerevisiae is a species of yeast. It is perhaps the most useful yeast, having been instrumental to winemaking, baking, and brewing since ancient times. It is believed that it was originally isolated from the skin of grapes (one can see the yeast as a component of the thin white film on the skins of some dark-color fruits such as plums; it exists among the waxes of the cuticle). It is one of the most intensively studied eukaryotic model organisms in molecular and cell biology, much like Escherichia coli as the model bacterium. It is the microorganism behind the most common type of fermentation. S. cerevisiae cells are round to ovoid, 5–10 micrometres in diameter. It reproduces by a division process known as budding. 
+
+Many proteins important in human biology were first discovered by studying their homologs in yeast; these proteins include cell cycle proteins, signaling proteins, and protein-processing enzymes.
+
+Saccharomyces cerevisiae is currently the only yeast cell that is known to have Berkeley bodies present, which are involved in particular secretory pathways.
+
+Antibodies against S. cerevisiae are found in 60–70% of patients with Crohn's disease and 10–15% of patients with ulcerative colitis (and 8% of healthy controls). 
+
+==Etymology==
+
+"Saccharomyces" derives from Latinized Greek and means "sugar-mold" or "sugar-fungus", saccharo being the combining form "sugar" and myces being "fungus". Cerevisiae comes from Latin and means "of beer". Other names for the organism are:
+* S. cerevisiae short form of the scientific name
+* Brewer's yeast, though other species are also used in brewing
+* Ale yeast
+* Top-fermenting yeast
+* Baker's yeast
+* Budding yeast
+
+This species is also the main source of nutritional yeast and yeast extract.
+
+==Biology==
+
+===Ecology===
+
+In nature, yeast cells are found primarily on ripe fruits such as grapes (before maturation, grapes are almost free of yeasts). Since S. cerevisiae is not airborne, it requires a vector to move. In fact, queens of social wasps overwintering as adults (Vespa crabro and Polistes spp.) can harbor yeast cells from autumn to spring and transmit them to their progeny. 
+
+===Lifecycle===
+There are two forms in which fungal yeast cells can survive and grow: haploid and diploid. The haploid cells undergo a simple lifecycle of mitosis and growth, and under conditions of high stress will, in general, die. This is the asexual form of the fungus. The diploid cells (the preferential 'form' of yeast) similarly undergo a simple lifecycle of mitosis and growth, but under conditions of stress can undergo sporulation, entering meiosis and producing four haploid spores, which can subsequently mate. This is the sexual form of the fungus. With adequate nutrients, yeast cells can double their population every 100 minutes. Mean replicative lifespan is about 26 cell divisions. 
+
+===Nutritional requirements===
+
+All strains of S. cerevisiae can grow aerobically on glucose, maltose, and trehalose and fail to grow on lactose and cellobiose. However, growth on other sugars is variable. Galactose and fructose are shown to be two of the best fermenting sugars. The ability of yeasts to use different sugars can differ depending on whether they are grown aerobically or anaerobically. Some strains cannot grow anaerobically on sucrose and trehalose.
+
+All strains can use ammonia and urea as the sole nitrogen source, but cannot use nitrate, since they lack the ability to reduce them to ammonium ions. They can also use most amino acids, small peptides, and nitrogen bases as a nitrogen source. Histidine, glycine, cystine, and lysine are, however, not readily used. S. cerevisiae does not excrete proteases, so extracellular protein cannot be metabolized.
+
+Yeasts also have a requirement for phosphorus, which is assimilated as a dihydrogen phosphate ion, and sulfur, which can be assimilated as a sulfate ion or as organic sulfur compounds such as the amino acids methionine and cysteine. Some metals, like magnesium, iron, calcium, and zinc, are also required for good growth of the yeast.
+
+Concerning organic requirements, most strains of S. cervisiae require biotin. Indeed, a S. cerevisiae-based growth assay laid the foundation for the isolation, crystallisation, and later structural determination of biotin. Most strains also require pantothenate for full growth. In general, S. cerevisiae is prototrophic vitamins.
+
+===Mating===
+
+Yeast has two mating types, a and α (alpha), which show primitive aspects of sex differentiation. Saccharomyces cerevisiae http://bioweb.uwlax.edu/bio203/s2007/nelson_andr/ As in many other eukaryotes, mating leads to genetic recombination, i.e. production of novel combinations of chromosomes. Two haploid yeast cells of opposite mating type can mate to form diploid cells that can either sporulate to form another generation of haploid cells or continue to exist as diploid cells. Mating has been exploited by biologists as a tool to combine genes, plasmids, or proteins at will.
+
+===Cell cycle===
+Growth in yeast is synchronised with the growth of the bud, which reaches the size of the mature cell by the time it separates from the parent cell. In well nourished, rapidly growing yeast cultures, all the cells can be seen to have buds, since bud formation occupies the whole cell cycle. Both mother and daughter cells can initiate bud formation before cell separation has occurred. In yeast cultures growing more slowly, cells lacking buds can be seen, and bud formation only occupies a part of the cell cycle.
+
+==In biological research==
+
+===Model organism===
+Saccharomyces cerevisiaeNumbered ticks are 10 micrometers apart.
+When researchers look for an organism to use in their studies, they look for several traits. Among these are size, generation time, accessibility, manipulation, genetics, conservation of mechanisms, and potential economic benefit. The yeast species S. pombe and S. cerevisiae are both well studied; these two species diverged approximately , and are significant tools in the study of DNA damage and repair mechanisms. 
+
+S. cerevisiae has developed as a model organism because it scores favorably on a number of these criteria.
+* As a single-cell organism, S. cerevisiae is small with a short generation time (doubling time 1.25–2 hours at 30 C) and can be easily cultured. These are all positive characteristics in that they allow for the swift production and maintenance of multiple specimen lines at low cost.
+* S. cerevisiae divides with meiosis, allowing it to be a candidate for sexual genetics research.
+* S. cerevisiae can be transformed allowing for either the addition of new genes or deletion through homologous recombination. Furthermore, the ability to grow S. cerevisiae as a haploid simplifies the creation of gene knockouts strains.
+* As a eukaryote, S. cerevisiae shares the complex internal cell structure of plants and animals without the high percentage of non-coding DNA that can confound research in higher eukaryotes.
+* S. cerevisiae research is a strong economic driver, at least initially, as a result of its established use in industry.
+
+===In the study of aging===
+S. cerevisiae has been highly studied as a model organism to better understand aging for more than five decades and has contributed to the identification of more mammalian genes affecting aging than any other model organism. Some of the topics studied using yeast are calorie restriction, as well as in genes and cellular pathways involved in senescence. The two most common methods of measuring aging in yeast are Replicative Life Span, which measured the number of times a cell divides, and Chronological Life Span, which measures how long a cell can survive in a non-dividing stasis state. Limiting the amount of glucose or amino acids in the growth medium has been shown to increase RLS and CLS in yeast as well as other organisms and is referred to as Calorie Restriction or Dietary Restriction. At first, this was thought to increase RLS by up-regulating the sir2 enzyme, however it was later discovered that this effect is independent of sir2. Over-expression of the genes sir2 and fob1 has been shown to increase RLS by preventing the accumulation of extrachromosomal rDNA circles, which are thought to be one of the causes of senescence in yeast. The effects of DR may be the result of a decreased signaling in the TOR cellular pathway. This pathway modulates the cell's response to nutrients and mutations that decrease TOR activity were found to increase CLS and RLS. This has also been shown to be the case in other animals. A yeast mutant lacking the genes sch9 and ras2 have recently been shown to have a tenfold increase in chronological lifespan under conditions of calorie restriction and is the largest increase achieved in any organism. 
+
+Mother cells give rise to progeny buds by mitotic divisions, but undergo replicative aging over successive generations and ultimately die. However, when a mother cell undergoes meiosis and gametogenesis, lifespan is reset. The replicative potential of gametes (spores) formed by aged cells is the same as gametes formed by young cells, indicating that age-associated damage is removed by meiosis from aged mother cells. This observation suggests that during meiosis removal of age-associated damages leads to rejuvenation. However, the nature of these damages remains to be established.
+
+S. cerevisiae contain prions, and scientists do not yet know whether they play a role in prion disease, although they have found that nonpathogenic prions can be converted to pathogenic forms. They do not know yet how this happens.
+
+===Meiosis, recombination and DNA repair===
+S. cerevisiae reproduces by mitosis as diploid cells when nutrients are abundant. However, when starved, these cells undergo meiosis to form haploid spores. 
+
+Evidence from studies of S. cerevisiae bear on the adaptive function of meiosis and recombination. Mutations defective in genes essential for meiotic and mitotic recombination in S. cerevisiae cause increased sensitivity to radiation or DNA damaging chemicals. For instance, gene rad52 is required for both meiotic recombination and mitotic recombination. Rad52 mutants have increased sensitivity to killing by X-rays, Methyl methanesulfonate and the DNA cross-linking agent 8-methoxypsoralen-plus-UVA, and show reduced meiotic recombination. These findings suggest that recombination repair during meiosis and mitosis is needed for repair of the different damages caused by these agents.
+
+Ruderfer et al. (2006) analyzed the ancestry of natural S. cerevisiae strains and concluded that outcrossing occurs only about once every 50,000 cell divisions. Thus, it appears that in nature, mating is likely most often between closely related yeast cells. Mating occurs when haploid cells of opposite mating type MATa and MATα come into contact. Ruderfer et al. pointed out that such contacts are frequent between closely related yeast cells for two reasons. The first is that cells of opposite mating type are present together in the same ascus, the sac that contains the cells directly produced by a single meiosis, and these cells can mate with each other. The second reason is that haploid cells of one mating type, upon cell division, often produce cells of the opposite mating type with which they can mate. The relative rarity in nature of meiotic events that result from outcrossing is inconsistent with the idea that production of genetic variation is the main selective force maintaining meiosis in this organism. However, this finding is consistent with the alternative idea that the main selective force maintaining meiosis is enhanced recombinational repair of DNA damage, since this benefit is realized during each meiosis, whether or not out-crossing occurs.
+
+===Genome sequencing===
+S. cerevisiae was the first eukaryotic genome to be completely sequenced. The genome sequence was released to the public domain on April 24, 1996. Since then, regular updates have been maintained at the Saccharomyces Genome Database. This database is a highly annotated and cross-referenced database for yeast researchers. Another important S. cerevisiae database is maintained by the Munich Information Center for Protein Sequences (MIPS). The S. cerevisiae genome is composed of about 12,156,677 base pairs and 6,275 genes, compactly organized on 16 chromosomes. Only about 5,800 of these genes are believed to be functional. It is estimated at least 31% of yeast genes have homologs in the human genome. Yeast genes are classified using gene symbols (such as sch9) or systematic names. In the latter case the 16 chromosomes of yeast are represented by the letters A to P, then the gene is further classified by a sequence number on the left or right arm of the chromosome, and a letter showing which of the two DNA strands contains its coding sequence.
+
+ Systematic gene names for Baker's yeast 
+ Example gene name YGL118W 
+ Y the Y to show this is a yeast gene 
+ G chromosome on which the gene is located 
+ L left or right arm of the chromosome 
+ 118 sequence number of the gene/ORF on this arm, starting at the centromere 
+ W whether the coding sequence is on the Watson or Crick strand 
+
+*Examples
+*: YBR134C (aka SUP45 encoding eRF1, a translation termination factor) is located on the right arm of chromosome 2 and is the 134th open reading frame (ORF) on that arm, starting from the centromere. The coding sequence is on the Crick strand of the DNA.
+*: YDL102W (aka POL3 encoding a subunit of DNA polymerase delta) is located on the left arm of chromosome 4; it is the 102nd ORF from the centromere and codes from the Watson strand of the DNA.
+
+===Gene function and interactions===
+The availability of the S. cerevisiae genome sequence and a set of deletion mutants covering 90% of the yeast genome has further enhanced the power of S. cerevisiae as a model for understanding the regulation of eukaryotic cells. A project underway to analyze the genetic interactions of all double-deletion mutants through synthetic genetic array analysis will take this research one step further. The goal is to form a functional map of the cell's processes. As of 2010 a model of genetic interactions is most comprehensive yet to be constructed, containing "the interaction profiles for ~75% of all genes in the Budding yeast". This model was made from 5.4 million two-gene comparisons in which a double gene knockout for each combination of the genes studied was preformed. The effect of the double knockout on the fitness of the cell was compared to the expected fitness. Expected fitness is determined from the sum of the results on fitness of single-gene knockouts for each compared gene. When there is a change in fitness from what is expected, the genes are presumed to interact with each other. This was tested by comparing the results to what was previously known. For example, the genes Par32, Ecm30, and Ubp15 had similar interaction profiles to genes involved in the Gap1-sorting module cellular process. Consistent with the results, these genes, when knocked out, disrupted that process, confirming that they are part of it. From this, 170,000 gene interactions were found and genes with similar interaction patterns were grouped together. Genes with similar genetic interaction profiles tend to be part of the same pathway or biological process. This information was used to construct a global network of gene interactions organized by function. This network can be used to predict the function of uncharacterized genes based on the functions of genes they are grouped with. 
+
+===Other tools in yeast research===
+
+Approaches that can be applied in many different fields of biological and medicinal science have been developed by yeast scientists. These include yeast two-hybrid for studying protein interactions and tetrad analysis. Other resources, include a gene deletion library including ~4700 viable haploid single gene deletion strains. A GFP fusion strain library used to study protein localisation and a TAP tag library used to purify protein from yeast cell extracts.
+
+===Astrobiology===
+Among other microorganisms, a sample of living S. cerevisiae was included in the Living Interplanetary Flight Experiment, which would have completed a three-year interplanetary round-trip in a small capsule aboard the Russian Fobos-Grunt spacecraft, launched in late 2011. The goal was to test whether selected organisms could survive a few years in deep space by flying them through interplanetary space. The experiment would have tested one aspect of transpermia, the hypothesis that life could survive space travel, if protected inside rocks blasted by impact off one planet to land on another. Fobos-Grunt's mission ended unsuccessfully, however, when it failed to escape low Earth orbit. The spacecraft along with its instruments fell into the Pacific Ocean in an uncontrolled re-entry on January 15, 2012. (see: List of microorganisms tested in outer space.)
+
+==In commercial applications==
+
+===Brewing===
+Saccharomyces cerevisiae is used in brewing beer, when it is sometimes called a top-fermenting or top-cropping yeast. It is so called because during the fermentation process its hydrophobic surface causes the flocs to adhere to CO2 and rise to the top of the fermentation vessel. Top-fermenting yeasts are fermented at higher temperatures than the lager yeast Saccharomyces pastorianus, and the resulting beers have a different flavor than the same beverage fermented with a lager yeast. "Fruity esters" may be formed if the yeast undergoes temperatures near 21 C, or if the fermentation temperature of the beverage fluctuates during the process. Lager yeast normally ferments at a temperature of approximately 5 C, where Saccharomyces cerevisiae becomes dormant.
+
+In May 2013, the Oregon legislature made S. cerevisiae the official state microbe in recognition of the impact craft beer brewing has had on the state economy and the state's identity as the craft beer-brewing capital of the United States. 
+
+===Baking===
+
+S. cerevisiae is used in baking; the carbon dioxide generated by the fermentation is used as a leavening agent in bread and other baked goods. Historically, this use was closely linked to the brewing industry's use of yeast, as bakers took or bought the barm or yeast-filled foam from brewing ale from the brewers (producing the barm cake); today, brewing and baking yeast strains are somewhat different.
+
+===Uses in aquaria===
+Owing to the high cost of commercial CO2 cylinder systems, CO2 injection by yeast is one of the most popular DIY approaches followed by aquaculturists
+for providing CO2 to underwater aquatic plants. The yeast culture is, in general, maintained in plastic bottles, and typical systems provide one bubble every 3–7 seconds. Various approaches have been devised to allow proper absorption of the gas into the water.
+
+==See also==
+*Saccharomyces cerevisiae extracts Vegemite, Marmite, Cenovis, Guinness Yeast Extract, EpiCor, mannan oligosaccharides, pgg-glucan, zymosan
+*Fungus
+*Meiosis
+*Schizosaccharomyces pombe
+*Yeast
+
+==References==
+
+==Further reading==
+*
+*
+
+== External links ==
+
+* Cerevisiae Dissection Video
+* Saccharomyces Genome Database
+* Yeast Resource Center Public Data Repository
+* Munich Information Center for Protein Sequences
+*UniProt - Saccharomyces cerevisiae
+
+ 
+
+

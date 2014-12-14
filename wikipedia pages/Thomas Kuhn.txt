@@ -1,0 +1,78 @@
+[[Thomas Kuhn]]
+
+Thomas Samuel Kuhn (; July 18, 1922 – June 17, 1996) was an American physicist, historian, and philosopher of science whose controversial 1962 book The Structure of Scientific Revolutions was deeply influential in both academic and popular circles, introducing the term "paradigm shift", which has since become an English-language staple.
+
+Kuhn made several notable claims concerning the progress of scientific knowledge: that scientific fields undergo periodic "paradigm shifts" rather than solely progressing in a linear and continuous way; that these paradigm shifts open up new approaches to understanding what scientists would never have considered valid before; and that the notion of scientific truth, at any given moment, cannot be established solely by objective criteria but is defined by a consensus of a scientific community. Competing paradigms are frequently incommensurable; that is, they are competing accounts of reality which cannot be coherently reconciled. Thus, our comprehension of science can never rely on full "objectivity"; we must account for subjective perspectives as well, all objective conclusions being ultimately founded upon subjective conditioning/worldview.
+
+==Life==
+Kuhn was born in Cincinnati, Ohio, to Samuel L. Kuhn, an industrial engineer, and Minette Stroock Kuhn. He graduated from The Taft School in Watertown, CT, in 1940, where he became aware of his serious interest in mathematics and physics. He obtained his B.S. degree in physics from Harvard University in 1943, where he also obtained M.S. and Ph.D. degrees in physics in 1946 and 1949, respectively. As he states in the first few pages of the preface to the second edition of The Structure of Scientific Revolutions, his three years of total academic freedom as a Harvard Junior Fellow were crucial in allowing him to switch from physics to the history (and philosophy) of science. He later taught a course in the history of science at Harvard from 1948 until 1956, at the suggestion of university president James Conant. After leaving Harvard, Kuhn taught at the University of California, Berkeley, in both the philosophy department and the history department, being named Professor of the History of Science in 1961. Kuhn interviewed and tape recorded Danish physicist Niels Bohr the day before Bohr's death. At Berkeley, he wrote and published (in 1962) his best known and most influential work: http://plato.stanford.edu/entries/thomas-kuhn/ The Structure of Scientific Revolutions. In 1964, he joined Princeton University as the M. Taylor Pyne Professor of Philosophy and History of Science. He served as the president of the History of Science Society from 1969-70. The History of Science Society "The Society: Past Presidents of the History of Science Society", accessed 4 December 2013 In 1979 he joined the Massachusetts Institute of Technology (MIT) as the Laurance S. Rockefeller Professor of Philosophy, remaining there until 1991. In 1994 Kuhn was diagnosed with lung cancer. He died in 1996.
+
+Thomas Kuhn was married twice, first to Kathryn Muhs with whom he had three children, then to Jehane Barton Burns (Jehane R. Kuhn).
+
+Kuhn was an agnostic. His family was Jewish on both sides.
+
+==The Structure of Scientific Revolutions==
+
+The Structure of Scientific Revolutions (SSR) was originally printed as an article in the International Encyclopedia of Unified Science, published by the logical positivists of the Vienna Circle. In this book, Kuhn argued that science does not progress via a linear accumulation of new knowledge, but undergoes periodic revolutions, also called "paradigm shifts" (although he did not coin the phrase), in which the nature of scientific inquiry within a particular field is abruptly transformed. In general, science is broken up into three distinct stages. Prescience, which lacks a central paradigm, comes first. This is followed by "normal science", when scientists attempt to enlarge the central paradigm by "puzzle-solving". Guided by the paradigm, normal science is extremely productive: "when the paradigm is successful, the profession will have solved problems that its members could scarcely have imagined and would never have undertaken without commitment to the paradigm". 
+
+During the period of normal science, the failure of a result to conform to the paradigm is seen not as refuting the paradigm, but as the mistake of the researcher, contra Popper's falsifiability criterion. As anomalous results build up, science reaches a crisis, at which point a new paradigm, which subsumes the old results along with the anomalous results into one framework, is accepted. This is termed revolutionary science.
+
+In SSR, Kuhn also argues that rival paradigms are incommensurable—that is, it is not possible to understand one paradigm through the conceptual framework and terminology of another rival paradigm. For many critics, for example David Stove (Popper and After, 1982), this thesis seemed to entail that theory choice is fundamentally irrational: if rival theories cannot be directly compared, then one cannot make a rational choice as to which one is better. Whether Kuhn's views had such relativistic consequences is the subject of much debate; Kuhn himself denied the accusation of relativism in the third edition of SSR, and sought to clarify his views to avoid further misinterpretation. Freeman Dyson has quoted Kuhn as saying "I am not a Kuhnian!", referring to the relativism that some philosophers have developed based on his work.
+
+The enormous impact of Kuhn's work can be measured in the changes it brought about in the vocabulary of the philosophy of science: besides "paradigm shift", Kuhn popularized the word "paradigm" itself from a term used in certain forms of linguistics and the work of Georg Lichtenberg to its current broader meaning, coined the term "normal science" to refer to the relatively routine, day-to-day work of scientists working within a paradigm, and was largely responsible for the use of the term "scientific revolutions" in the plural, taking place at widely different periods of time and in different disciplines, as opposed to a single "Scientific Revolution" in the late Renaissance. The frequent use of the phrase "paradigm shift" has made scientists more aware of and in many cases more receptive to paradigm changes, so that Kuhn's analysis of the evolution of scientific views has by itself influenced that evolution.
+
+Kuhn's work has been extensively used in social science; for instance, in the post-positivist/positivist debate within International Relations. Kuhn is credited as a foundational force behind the post-Mertonian Sociology of Scientific Knowledge. Kuhn's work has also been used in the Arts and Humanities, such as by Matthew Edward Harris to distinguish between scientific and historical communities (such as political or religious groups): 'political-religious beliefs and opinions are not epistemologically the same as those pertaining to scientific theories'. This is because would-be scientists' worldviews are changed through rigorous training, through the engagement between what Kuhn calls 'exemplars' and the Global Paradigm.
+
+A defense Kuhn gives against the objection that his account of science from The Structure of Scientific Revolutions results in relativism can be found in an essay by Kuhn called "Objectivity, Value Judgment, and Theory Choice." In this essay, he reiterates five criteria from the penultimate chapter of SSR that determine (or help determine, more properly) theory choice:
+# - Accurate - empirically adequate with experimentation and observation
+# - Consistent - internally consistent, but also externally consistent with other theories
+# - Broad Scope - a theory's consequences should extend beyond that which it was initially designed to explain
+# - Simple - the simplest explanation, principally similar to Occam's razor
+# - Fruitful - a theory should disclose new phenomena or new relationships among phenomena
+
+He then goes on to show how, although these criteria admittedly determine theory choice, they are imprecise in practice and relative to individual scientists. According to Kuhn, "When scientists must choose between competing theories, two men fully committed to the same list of criteria for choice may nevertheless reach different conclusions." For this reason, the criteria still are not "objective" in the usual sense of the word because individual scientists reach different conclusions with the same criteria due to valuing one criterion over another or even adding additional criteria for selfish or other subjective reasons. Kuhn then goes on to say, "I am suggesting, of course, that the criteria of choice with which I began function not as rules, which determine choice, but as values, which influence it." Because Kuhn utilizes the history of science in his account of science, his criteria or values for theory choice are often understood as descriptive normative rules (or more properly, values) of theory choice for the scientific community rather than prescriptive normative rules in the usual sense of the word "criteria", although there are many varied interpretations of Kuhn's account of science.
+
+==Polanyi–Kuhn debate==
+Although they used different terminologies, both Kuhn and Michael Polanyi believed that scientists' subjective experiences made science a relativized discipline. Polanyi lectured on this topic for decades before Kuhn published The Structure of Scientific Revolutions.
+
+Supporters of Polanyi charged Kuhn with plagiarism, as it was known that Kuhn attended several of Polanyi's lectures, and that the two men had debated endlessly over epistemology before either had achieved fame. In response to these critics, Kuhn cited Polanyi in the second edition of The Structure of Scientific Revolutions. See Thomas S. Kuhn, The Structure of Scientific Revolutions. Chicago and London: University of Chicago Press, 1996 (3rd ed.), p.44. Despite this intellectual alliance, Polanyi's work was constantly interpreted by others within the framework of Kuhn's paradigm shifts, much to Polanyi's (and Kuhn's) dismay. Moleski, Martin X. "Polanyi vs. Kuhn: Worldviews Apart." The Polanyi Society. Missouri Western State University. Accessed 20 March 2008. http://www.missouriwestern.edu/orgs/polanyi/TAD%20WEB%20ARCHIVE/TAD33-2/TAD33-2-fnl-pg8-24-pdf.pdf 
+
+==Thomas Kuhn Paradigm Shift Award==
+In honor of his legacy, the "Thomas Kuhn Paradigm Shift Award" is awarded by the American Chemical Society to speakers who present original views that are at odds with mainstream scientific understanding. The winner is selected based in the novelty of the viewpoint and its potential impact if it were to be widely accepted. 
+
+==Honors==
+Kuhn was named a Guggenheim Fellow in 1954, and in 1982 was awarded the George Sarton Medal by the History of Science Society. He has also received numerous honorary doctorates.
+
+==Bibliography==
+*Bird, Alexander. Thomas Kuhn. Princeton and London: Princeton University Press and Acumen Press, 2000. ISBN 1-902683-10-2
+*Fuller, Steve. Thomas Kuhn: A Philosophical History for Our Times. Chicago: University of Chicago Press, 2000. ISBN 0-226-26894-2
+*Sal Restivo, The Myth of the Kuhnian Revolution. Sociological Theory, Vol. 1, (1983), 293-305.
+*Harris, Matthew Edward. The Notion of Papal Monarchy in the Thirteenth Century: The Idea of Paradigm in Church History. Lampeter and Lewiston, NY: Edwin Mellen Press, 2010. 978-0-7734-1441-9
+*Hoyningen-Huene, Paul (1993): Reconstructing Scientific Revolutions: Thomas S. Kuhn's Philosophy of Science. Chicago: University of Chicago Press.
+*Kuhn, T.S. Copernican Revolution (book)|The Copernican Revolution: Planetary Astronomy in the Development of Western Thought]. Cambridge: Harvard University Press, 1957. ISBN 0-674-17100-4
+*Kuhn, T.S. The Function of Measurement in Modern Physical Science. Isis, 52(1961): 161-193.
+*Kuhn, T.S. The Structure of Scientific Revolutions. Chicago: University of Chicago Press, 1962. ISBN 0-226-45808-3
+*Kuhn, T.S. "The Function of Dogma in Scientific Research". pp. 347–69 in A. C. Crombie (ed.). Scientific Change (Symposium on the History of Science, University of Oxford, 9–15 July 1961). New York and London: Basic Books and Heineman, 1963.
+*Kuhn, T.S. The Essential Tension: Selected Studies in Scientific Tradition and Change. Chicago and London: University of Chicago Press, 1977. ISBN 0-226-45805-9
+*Kuhn, T.S. Black-Body Theory and the Quantum Discontinuity, 1894-1912. Chicago: University of Chicago Press, 1987. ISBN 0-226-45800-8
+*Kuhn, T.S. The Road Since Structure: Philosophical Essays, 1970-1993. Chicago: University of Chicago Press, 2000. ISBN 0-226-45798-2
+
+==References==
+
+==External links==
+
+* 
+* Thomas Kuhn (Biography, Outline of Structure of Scientific Revolutions)
+* "Thomas Kuhn, 73; Devised Science Paradigm" (obituary by Lawrence Van Gelder, New York Times, 19 June 1996)
+* Thomas S. Kuhn (obituary, The Tech p. 9 vol 116 no 28, 26 June 1996)
+* Review in the New York Review of Books
+* Color Portrait
+* History of Twentieth-Century Philosophy of Science BOOK VI: Kuhn on Revolution and Feyerabend on Anarchy - with free downloads for public use.
+* article on his Road Since Structure: Philosophical Essays
+* Thomas Khun's Theory of incommensurability
+* John Horgan's Interview http://www.stevens.edu/csw/cgi-bin/shapers/kuhn/
+* Thomas S. Kuhn, post-modernism and materialist dialectics
+* Errol Morris, The Ashtray: The Ultimatum (Part 1 5 parts), a critical view and memoir of Kuhn. 
+* Racionality and Objectivity in Thomas Kuhn´s Philosophy of Science
+
+

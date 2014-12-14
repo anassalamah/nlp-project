@@ -1,0 +1,69 @@
+[[DNA ligase]]
+
+ 
+
+In molecular biology, DNA ligase is a specific type of enzyme, a ligase, () that facilitates the joining of DNA strands together by catalyzing the formation of a phosphodiester bond. It plays a role in repairing single-strand breaks in duplex DNA in living organisms, but some forms (such as DNA ligase IV) may specifically repair double-strand breaks (i.e. a break in both complementary strands of DNA). Single-strand breaks are repaired by DNA ligase using the complementary strand of the double helix as a template, with DNA ligase creating the final phosphodiester bond to fully repair the DNA.
+
+DNA ligase has applications in both DNA repair and DNA replication (see Mammalian ligases). In addition, DNA ligase has extensive use in molecular biology laboratories for recombinant DNA experiments (see Applications in molecular biology research). Purified DNA ligase is used in gene cloning to join DNA molecules together to form recombinant DNA.
+
+==Ligase mechanism==
+The mechanism of DNA ligase is to form two covalent phosphodiester bonds between 3' hydroxyl ends of one nucleotide, ("acceptor") with the 5' phosphate end of another ("donor"). ATP is required for the ligase reaction, which proceeds in three steps: 
+# adenylation (addition of AMP) of a lysine residue in the active center of the enzyme, pyrophosphate is released; 
+# transfer of the AMP to the 5' phosphate of the so-called donor, formation of a pyrophosphate bond; 
+# formation of a phosphodiester bond between the 5' phosphate of the donor and the 3' hydroxyl of the acceptor. 
+
+A pictorial example of how a ligase works (with sticky ends)
+
+Ligase will also work with blunt ends, although higher enzyme concentrations and different reaction conditions are required.
+
+== Types of ligases==
+
+=== E. coli DNA ligase ===
+The E. coli DNA ligase is encoded by the lig gene. DNA ligase in E. coli, as well as most prokaryotes, uses energy gained by cleaving nicotinamide adenine dinucleotide (NAD) to create the phosphodiester bond. It does not ligate blunt-ended DNA except under conditions of molecular crowding with polyethylene glycol, and cannot join RNA to DNA efficiently.
+
+=== T4 DNA ligase ===
+The DNA ligase from bacteriophage T4 is the ligase most-commonly used in laboratory research. It can ligate cohesive ends of DNA, oligonucleotides, as well as RNA and RNA-DNA hybrids, but not single-stranded nucleic acids. It can also ligate blunt-ended DNA with much greater efficiency than E. coli DNA ligase. Unlike E. coli DNA ligase, T4 DNA ligase cannot utilize NAD and it has an absolute requirement for ATP as a cofactor. Some engineering has been done to improve the in vivo activity of T4 DNA ligase; one successful approach, for example, tested T4 DNA ligase fused to several alternative DNA binding proteins and found that the constructs with either p50 or NF-kB as fusion partners were over 160% more active in blunt-end ligations for cloning purposes than wild type T4 DNA ligase. 
+
+=== Mammalian ligases ===
+In mammals, there are four specific types of ligase.
+*DNA ligase I: ligates the nascent DNA of the lagging strand after the Ribonuclease H has removed the RNA primer from the Okazaki fragments.
+*DNA ligase III: complexes with DNA repair protein XRCC1 to aid in sealing DNA during the process of nucleotide excision repair and recombinant fragments. Of the all known mammalian DNA ligases, only Lig III has been found to be present in mitochondria.
+*DNA ligase IV: complexes with XRCC4. It catalyzes the final step in the non-homologous end joining DNA double-strand break repair pathway. It is also required for V(D)J recombination, the process that generates diversity in immunoglobulin and T-cell receptor loci during immune system development.
+
+DNA ligase from eukaryotes and some microbes uses adenosine triphosphate (ATP) rather than NAD. 
+
+===Thermostable ligases===
+Ligases from various thermophilic bacteria have been cloned and sequenced, and are available commercially for use in ligase amplification reaction because of their thermostable properties.
+
+==Measurement of ligase activity==
+There are at least three different units used to measure the activity of DNA ligase: 
+* Weiss unit - the amount of ligase that catalyzes the exchange of 1 nmole of 32P from inorganic pyrophosphate to ATP in 20 minutes at 37°C. This is the one most commonly used.
+* Modrich-Lehman unit - this is rarely used, and one unit is defined as the amount of enzyme required to convert 100 nmoles of d(A-T)n to an exonuclease-III resistant form in 30 minutes under standard conditions.
+* Many commercial suppliers of ligases use an arbitrary unit based on the ability of ligase to ligate cohesive ends. These units are often more subjective than quantitative and lack precision.
+
+== Applications in molecular biology research ==
+
+DNA ligases have become indispensable tools in modern molecular biology research for generating recombinant DNA sequences. For example, DNA ligases are used with restriction enzymes to insert DNA fragments, often genes, into plasmids.
+
+Controlling the optimal temperature is a vital aspect of performing efficient recombination experiments involving the ligation of cohesive-ended fragments. Most experiments use T4 DNA Ligase (isolated from bacteriophage T4), which is most active at 37°C. However, for optimal ligation efficiency with cohesive-ended fragments ("sticky ends"), the optimal enzyme temperature needs to be balanced with the melting temperature Tm of the sticky ends being ligated, the homologous pairing of the sticky ends will not be stable because the high temperature disrupts hydrogen bonding. A ligation reaction is most efficient when the sticky ends are already stably annealed, and disruption of the annealing ends would therefore result in low ligation efficiency. The shorter the overhang, the lower the Tm.
+
+Since blunt-ended DNA fragments have no cohesive ends to anneal, the melting temperature is not a factor to consider within the normal temperature range of the ligation reaction. However, the higher the temperature, the lower the chance that the ends to be joined will be aligned to allow for ligation (molecules move around the solution more at higher temperatures). The limiting factor in blunt end ligation is not the activity of the ligase but rather the number of alignments between DNA fragment ends that occur. The most efficient ligation temperature for blunt-ended DNA would therefore be the temperature at which the greatest number of alignments can occur. The majority of blunt-ended ligations are carried out at 14-25°C overnight. The absence of stably annealed ends also means that the ligation efficiency is lowered, requiring a higher ligase concentration to be used. 
+
+== History ==
+The first DNA ligase was purified and characterized in 1967. The common commercially available DNA ligases were originally discovered in bacteriophage T4, E. coli and other bacteria. 
+
+== See also ==
+* DNA end
+* Lagging strand
+* DNA replication
+* Okazaki fragment
+* DNA Polymerase
+
+== References ==
+
+== External links ==
+*DNA Ligase: PDB molecule of the month
+*Davidson College General Information on Ligase
+*OpenWetWare DNA Ligation Protocol
+
+

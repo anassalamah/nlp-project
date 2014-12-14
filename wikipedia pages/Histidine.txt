@@ -1,0 +1,52 @@
+[[Histidine]]
+
+Histidine (abbreviated as His or H) is an α-amino acid with an imidazole functional group. It is one of the 23 proteinogenic amino acids. Its codons are CAU and CAC. Histidine was first isolated by German physician Albrecht Kossel in 1896. Histidine is an essential amino acid in humans and other mammals. It was initially thought that it was only essential for infants, but longer-term studies established that it is also essential for adult humans. 
+
+==Chemical properties==
+The conjugate acid (protonated form) of the imidazole side chain in histidine has a pKa of approximately 6.0. This means that, at physiologically relevant pH values, relatively small shifts in pH will change its average charge. Below a pH of 6, the imidazole ring is mostly protonated as described by the Henderson–Hasselbalch equation. When protonated, the imidazole ring bears two NH bonds and has a positive charge. The positive charge is equally distributed between both nitrogens and can be represented with two equally important resonance structures.
+
+===Aromaticity===
+The imidazole ring of histidine is aromatic at all pH values. It contains six pi electrons: four from two double bonds and two from a nitrogen lone pair. It can form pi stacking interactions, but is complicated by the positive charge. It does not absorb at 280 nm in either state, but does in the lower UV range more than some amino acids. 
+
+===Biochemistry===
+The imidazole sidechain of histidine is a common coordinating ligand in metalloproteins and is a part of catalytic sites in certain enzymes. In catalytic triads, the basic nitrogen of histidine is used to abstract a proton from serine, threonine, or cysteine to activate it as a nucleophile. In a histidine proton shuttle, histidine is used to quickly shuttle protons. It can do this by abstracting a proton with its basic nitrogen to make a positively charged intermediate and then use another molecule, a buffer, to extract the proton from its acidic nitrogen. In carbonic anhydrases, a histidine proton shuttle is utilized to rapidly shuttle protons away from a zinc-bound water molecule to quickly regenerate the active form of the enzyme. Histidine is also important in haemoglobin in helices E and F. Histidine assists in stabilising oxyhaemoglobin and destabilising CO-bound haemoglobin. As a result, carbon monoxide binding is only 200 times stronger in haemoglobin, compared to 20,000 times stronger in free haem.
+
+Certain amino acids can be converted to intermediates of the TCA cycle. Carbons from four groups of amino acids form the TCA cycle intermediates α-ketoglutarate, succinyl CoA, fumarate, and oxaloacetate. Amino acids that form α-ketoglutarate are glutamate, glutamine, proline, arginine, and histidine. Histidine is converted to formiminoglutamate (FIGLU). The formimino group is transferred to tetrahydrofolate, and the remaining five carbons form glutamate. Glutamate can be deaminated by glutamate dehydrogenase or transaminated to form α-ketoglutarate. Board review series (BRS)-- Biochemistry, Molecular Biology, and Genetics (fifth edition): Swanson, Kim, Glucksman 
+
+===NMR===
+As expected, the 15N chemical shifts of these nitrogens are indistinguishable (about 200 ppm, relative to nitric acid on the sigma scale, on which increased shielding corresponds to increased chemical shift). As the pH increases to approximately 8, the protonation of the imidazole ring is lost. The remaining proton of the now-neutral imidazole can exist on either nitrogen, giving rise to what is known as the N-1 or N-3 tautomers. NMR shows that the chemical shift of N-1 drops slightly, whereas the chemical shift of N-3 drops considerably (about 190 vs. 145 ppm). This indicates that the N-1-H tautomer is preferred, it is presumed due to hydrogen bonding to the neighboring ammonium. The shielding at N-3 is substantially reduced due to the second-order paramagnetic effect, which involves a symmetry-allowed interaction between the nitrogen lone pair and the excited pi* states of the aromatic ring. As the pH rises above 9, the chemical shifts of N-1 and N-3 become approximately 185 and 170 ppm. It is worth noting that the deprotonated form of imidazole, imidazolate ion, would be formed only above a pH of 14, and is therefore not physiologically relevant. This change in chemical shifts can be explained by the presumably decreased hydrogen bonding of an amine over an ammonium ion, and the favorable hydrogen bonding between a carboxylate and an NH. This should act to decrease the N-1-H tautomer preference. 
+
+==Metabolism==
+The amino acid is a precursor for histamine and carnosine biosynthesis.
+
+Conversion of histidine to histamine by histidine decarboxylase
+
+The enzyme histidine ammonia-lyase converts histidine into ammonia and urocanic acid. A deficiency in this enzyme is present in the rare metabolic disorder histidinemia. In Actinobacteria and filamentous fungi, such as Neurospora crassa, histidine can be converted into the antioxidant ergothioneine. 
+
+==Supplementation==
+Supplementation of histidine has been shown to cause rapid zinc excretion in rats with an excretion rate 3 to 6 times normal. 
+
+==Additional images==
+
+ Image:Histidine_resonant.png|Histidine
+ Image:Succinate Dehygrogenase 1YQ3 Haem group.png|The histidine-bound heme group of succinate dehydrogenase, an electron carrier in the mitochondrial electron transfer chain. The large semi-transparent sphere indicates the location of the iron ion. From .
+
+== See also ==
+*Imidazole
+*Aromatic amino acids
+*Urocanic aciduria
+*Carnosinemia
+*Beta-alanine
+*Diphthamide
+*Pauly reaction
+
+== References ==
+
+== External links ==
+*Histidine MS Spectrum
+*Histidine biosynthesis (early stages)
+*Histidine biosynthesis (later stages)
+*Histidine catabolism
+*Food Sources of Histidine
+
+

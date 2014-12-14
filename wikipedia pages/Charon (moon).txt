@@ -1,0 +1,78 @@
+[[Charon (moon)]]
+
+Charon is the largest satellite of the dwarf planet Pluto. It was discovered in 1978 at the United States Naval Observatory Flagstaff Station (NOFS). Following the 2005 discovery of two other natural satellites of Pluto (Nix and Hydra), and two more in 2011 and 2012 (Kerberos and Styx), Charon may also be referred to as (134340) Pluto I. The New Horizons mission is scheduled to visit Charon and Pluto in July 2015.
+
+==Discovery==
+
+Charon's discovery as a time-varying bulge on the image of Pluto (seen near the top at left, but absent on the right)
+Charon was discovered by United States Naval Observatory astronomer James Christy, using the 1.55-meter telescope at NOFS, and was formally announced to the world via the International Astronomical Union on July 7, 1978. On June 22, 1978, he had been examining highly magnified images of Pluto on photographic plates taken at the 61-inch Flagstaff telescope two months prior. Christy noticed that a slight elongation appeared periodically. Later, the bulge was confirmed on plates dating back to April 29, 1965.
+
+Subsequent observations of Pluto determined that the bulge was due to a smaller accompanying body. The periodicity of the bulge corresponded to Pluto's rotation period, which was previously known from Pluto's light curve. This indicated a synchronous orbit, which strongly suggested that the bulge effect was real and not spurious.
+
+All doubts were erased when Pluto and Charon entered a five-year period of mutual eclipses and transits between 1985 and 1990. This occurs when the Pluto–Charon orbital plane is edge-on as seen from Earth, which only happens at two intervals in Pluto's 248-year orbital period. It was fortuitous that one of these intervals happened to occur so soon after Charon's discovery.
+
+==Observations==
+1990 photograph of Pluto and Charon. Taken by the Hubble Telescope before it was corrected
+1994 image of Pluto and Charon (right) from ESA/Dornier Faint Object Camera on the Hubble Telescope after it was corrected
+Images showing Pluto and Charon resolved into separate disks were taken for the first time by the Hubble Space Telescope in the 1990s. Later, the development of adaptive optics made it possible to resolve Pluto and Charon into separate disks using ground-based telescopes.
+
+==Physical characteristics==
+Charon's diameter is about 1207 km, just over half that of Pluto, with a surface area of 4580000 km2. Unlike Pluto, which is covered with nitrogen and methane ices, the Charonian surface appears to be dominated by less volatile water ice, and also appears to have no atmosphere. In 2007, observations by the Gemini Observatory of patches of ammonia hydrates and water crystals on the surface of Charon suggested the presence of active cryo-geysers. (See also Cryovolcano.) Mutual eclipses of Pluto and Charon in the 1980s allowed astronomers to take spectra of Pluto and then the combined spectrum of the pair. By subtracting Pluto's spectrum from the total, astronomers were able to spectroscopically determine the surface composition of Charon.
+The two conflicting theories about Charon's internal structure
+
+Charon's volume and mass allow calculation of its density from which it can be determined that Charon is largely an icy body and contains less rock by proportion than its partner Pluto. This supports the idea that Charon was created by a giant impact into Pluto's icy mantle. There are two conflicting theories about Charon's internal structure: some scientists believe it to be a differentiated body like Pluto with a rocky core and an icy mantle while others believe Charon to be of uniform composition throughout. Evidence in support of the former position was found in 2007, when observations by the Gemini Observatory of patches of ammonia hydrates and water crystals on the surface of Charon suggested the presence of active cryo-geysers. The fact that the ice was still in crystalline form suggested it had been recently deposited, as solar radiation would have degraded older ice to an amorphous state after roughly thirty thousand years. 
+
+Photometric mapping of Charon's surface shows a latitudinal trend in albedo, with a bright equator band and darker poles. In particular the south polar region seems darker than the north. 
+
+==Orbital characteristics==
+Artist's concept of Charon seen from the surface of Pluto.
+Charon and Pluto revolve about each other every 6.387 days. The two objects are gravitationally locked, so each keeps the same face towards the other. The average distance between Charon and Pluto is 19570 km. The discovery of Charon allowed astronomers to accurately calculate the mass of the Plutonian system, and mutual occultations revealed their sizes. However, neither indicated the two bodies' individual masses, which could only be estimated, until the discovery of Pluto's outer moons in late 2005. Details in the orbits of the outer moons reveal that Charon has approximately 11.65% of the mass of Pluto. This shows it to have a density of 1.65 ± 0.06 g/cm3, suggesting a composition of 55 ± 5% "rock" to 45% ice, whereas Pluto is somewhat denser and about 70% "rock".
+
+Simulation work published in 2005 by Robin Canup suggested that Charon could have been formed by a giant impact around 4.5 billion years ago, much like the Earth and Moon. In this model a large Kuiper belt object struck Pluto at high velocity, destroying itself and blasting off much of Pluto's outer mantle, and Charon coalesced from the debris. However, such an impact should result in an icier Charon and rockier Pluto than scientists have found. It is now thought that Pluto and Charon may have been two bodies that collided before going into orbit about each other. The collision would have been violent enough to boil off volatile ices like methane but not violent enough to have destroyed either body.
+
+==Classification as a moon or dwarf planet==
+Charon compared with , Pluto, , , Sedna, Orcus, , Quaoar, their moons and Earth. All to scale
+An oblique view of the Pluto–Charon system showing that Pluto orbits a point outside itself.
+The Plutonian system contains 6 known bodies: Pluto and its five moons. Encircled is Styx
+The center of mass (barycenter) of the Pluto–Charon system lies outside either body. Since neither object truly orbits the other, and Charon has 11.6% the mass of Pluto, it has been argued that Charon should be considered to be part of a binary system. The International Astronomical Union (IAU) states that Charon is considered to be just a satellite of Pluto, but the idea that Charon might qualify to be a dwarf planet in its own right may be considered at a later date. 
+
+In a draft proposal for the 2006 redefinition of the term, the IAU proposed that a planet be defined as a body that orbits the sun that is large enough for gravitational forces to render the object (nearly) spherical. Under this proposal, Charon would have been classified as a planet, since the draft explicitly defined a planetary satellite as one in which the barycenter lies within the major body. In the final definition, Pluto was reclassified as a dwarf planet, but the formal definition of a planetary satellite was not decided upon. Charon is not in the list of dwarf planets currently recognized by the IAU. Had the draft proposal been accepted, even Earth's moon would have been classified as a planet in billions of years when the tidal acceleration that is gradually moving the Moon away from the Earth takes the Moon far enough away that the center of mass of the system no longer lies within the Earth. 
+
+The other moons of Pluto, Nix, Hydra, Kerberos and Styx, orbit the same barycenter, but they are not large enough to be spherical, and they are simply considered to be satellites of Pluto. 
+
+==Name==
+Charon was originally known by the temporary designation S/1978 P 1, according to the then recently instituted convention. On June 24, 1978, Christy first suggested the name Charon as a scientific-sounding version of his wife Charlene's nickname, "Char." Charon discovery image with description Although colleagues at the Naval Observatory proposed Persephone, Christy stuck with Charon after discovering it coincidentally refers to a Greek mythological figure: Govert Shilling, "A Bump in the Night" in Sky & Telescope (June 2008) pp. 26–27. Prior to this, Christy had considered naming the moon Oz. Charon is the ferryman of the dead, closely associated in myth with the god Hades, whom the Romans identified with their god Pluto. Official adoption of the name by the IAU waited until late 1985 and was announced on January 3, 1986. 
+
+There is minor debate over the preferred pronunciation of the name. The practice of following the classical pronunciation established for the mythological ferryman Charon is used by major English-language dictionaries such as the Merriam-Webster and Oxford English Dictionary. Charon – 5 dictionary results Charon at Oxford English Dictionary These indicate only one pronunciation of "Charon" when referring specifically to Pluto's moon: with an initial "k" sound. Speakers of many languages other than English, and many English-speaking astronomers as well, follow this pronunciation. 
+
+However, Christy himself pronounced the ch in the moon's name as sh (IPA ), after his wife Charlene. Because of this, as an acknowledgement of Christy and sometimes as an in-joke or shibboleth, the initial sh pronunciation is common among astronomers when speaking English, Astronomer Mike Brown can be heard pronouncing it in ordinary conversation on the KCET interview at 42min 48sec. Being a long-time resident of California, he does not distinguish the vowel of the name Sharon and the vowel of the classical pronunciation of Charon. 
+Pronounced "KAIR en" or "SHAHR en" per 
+Pronounced 'with a soft "sh" ' per
+ US Naval Observatory spokesman Jeff Chester, when interviewed on the NPR commentary (at 2min 49sec), says Christy pronounced it rather than classical . In normal conversation, the second vowel is reduced to a schwa: in RP (ref: OED). 
+and this is the prescribed pronunciation at NASA and of the New Horizons Pluto mission team. 
+Pronounced "Sharon" per and per Hal Weaver, who led the team that discovered Nix and Hydra, also pronounces it on the Discovery Science Channel documentary Passport to Pluto, premiered 2006-01-15. 
+
+==In popular culture==
+The Mass Effect videogame franchise is built around the premise of a series of relays that allow faster-than-light travel around the Milky Way without time dilation. In the series, Charon is discovered in 2149 not to be a moon or a dwarf planet, but to be a chunk of ice containing an intricate piece of technology built by an ancient civilization that allows this travel to occur, leading to the discovery of other planetary systems and enabling their colonization.
+
+== See also ==
+*Moons of Pluto
+
+==Notes==
+
+==References==
+
+==External links==
+
+* Charon Profile at NASA's Solar System Exploration site
+* James W. Christy and Robert S. Harrington, "The satellite of Pluto," The Astronomical Journal 83 (1978) 1005
+* Marc W. Buie, Phases of Charon as seen from Pluto, Lowell Observatory
+* Buie, Surface of Charon and Pluto
+* Hubble reveals new map of Pluto, BBC News, September 12, 2005
+* IAU Circular No. 3241 describing the discovery
+* Measuring the Size of a Small, Frost World (ESO press release January 2006)
+* M. J. Person et al.: Charon’s Radius and Density from the Combined Data Sets of the 2005 July 11 Occultation (submitted to the Astronomical Journal, February 3, 2006)
+* Cryovolcanism on Charon and other Kuiper Belt Objects
+*New Horizons Camera Spots Pluto’s Largest Moon - July 10, 2013
+
+

@@ -1,0 +1,83 @@
+[[Summary judgment]]
+
+In law, a summary judgment (also judgment as a matter of law) is a judgment entered by a court for one party and against another party summarily, i.e., without a full trial. Such a judgment may be issued on the merits of an entire case, or on discrete issues in that case.
+
+In common-law systems, questions about what the law actually is in a particular case are decided by judges; in rare cases jury nullification of the law may act to contravene or complement the instructions or orders of the judge, or other officers of the court. A factfinder has to decide what the facts are and apply the law. In traditional common law the factfinder was a jury, but in many jurisdictions the judge now acts as the factfinder as well. It is the factfinder who decides "what really happened," and it is the judge who applies the law to the facts as determined by the factfinder, whether directly or by giving instructions to the jury.
+
+Absent an award of summary judgment (or some type of pretrial dismissal), a lawsuit will ordinarily proceed to trial, which is an opportunity for litigants to present evidence in an attempt to persuade the factfinder that they are saying "what really happened," and that, under the applicable law, they should prevail.
+
+The necessary steps before a case can get to trial include disclosing documents to the opponent by discovery, showing the other side the evidence, often in the form of witness statements. This process is lengthy, and can be difficult and costly.
+
+A party moving (applying) for summary judgment is attempting to avoid the time and expense of a trial when the outcome is obvious. A party may also move for summary judgement in order to eliminate the risk of losing at trial, and possibly avoid having to go through discovery (i.e., by moving at the outset of discovery), by demonstrating to the judge, via sworn statements and documentary evidence, that there are no material factual issues remaining to be tried. If there's nothing for the factfinder to decide, then the moving party asks rhetorically, why have a trial? The moving party will also attempt to persuade the court that the undisputed material facts require judgment to be entered in its favor. In many jurisdictions, a party moving for summary judgment takes the risk that, although the judge may agree there are no material issues of fact remaining for trial, the judge may also find that it is the non-moving party that is entitled to judgment as a matter of law.
+
+In the United States summary judgment is governed by Federal Rule 56 of the Federal Rules of Civil Procedure, derived primarily from the three seminal cases concerning summary judgment out of the 1980s. See FRCP 56; Celotex Corp. v. Catrett, 477 U.S. 317, 322–27 (1986) (clarifying the shifting allocations of 
+burdens of production, persuasion, and proof at summary judgment); Anderson v. Liberty Lobby, 
+Inc., 477 U.S. 242, 257 (1986) (applying heightened evidentiary standard of proof in libel action 
+to judicial assessment of propriety of summary judgment); Matsushita Elec. Indus. Co. v. Zenith 
+Radio Corp., 475 U.S. 574, 596–98 (1986) (holding antitrust plaintiff with an inherently 
+implausible claim was subject to dismissal at summary judgment).
+
+==Specific jurisdictions==
+
+===United States===
+In American legal practice summary judgment can be awarded by the court before trial, effectively holding that no trial will be necessary. Issuance of summary judgment can be based only upon the court's finding that:
+# there are no disputes of "material" fact requiring a trial to resolve, and
+# in applying the law to the undisputed facts, one party is clearly entitled to judgment.
+A party seeking summary judgment (or making any other motion) is called the "moving party". A "material fact" is one which, depending upon what the factfinder believes "really happened," could lead to judgment in favor of one party, rather than the other.
+
+Summary judgment in the United States applies only in civil cases. It does not apply to criminal cases to obtain a pretrial judgment of conviction or acquittal, in part because a criminal defendant has a constitutional right to a jury trial. Some federal and state-court judges publish general guidelines and sample summary-judgment forms. 
+
+According to Federal Judicial Center research, summary-judgment motions are filed in 17% of federal cases. Since almost two-thirds of federal civil cases are dismissed or settled, over half of the cases that reach the final judgment stage were disposed of via summary judgment. 71% of summary-judgment motions were filed by defendants, 26% by plaintiffs. Out of these, 36% of the motions were denied, and 64% were granted in whole or in part. 
+Civil rights cases concluded in U.S. district courts, by disposition, 1990–2006. 
+From a tactical perspective, there are two basic types of summary-judgment motions. One requires a full evidentiary presentation, and the other requires only a more limited, targeted one.
+
+First, a plaintiff may seek summary judgment on any cause of action, and similarly, a defendant may seek summary judgment in its favor on any affirmative defense. But in either case, the moving party must produce evidence in support of each and every essential element of the claim or defense (as it would have to do at trial). To be successful, this type of summary-judgment motion must be drafted as a written preview of a party's entire case-in-chief (that it would put before the finder of fact at trial) because all parts of an entire claim or defense are at issue.
+
+Second, a different and very common tactic is where a defendant seeks summary judgment on a plaintiff's cause of action. The key difference is that in this latter situation, the defendant need only attack one essential element of the plaintiff's claim. A finding that the plaintiff cannot prove one essential element of its claim necessarily renders all other elements immaterial and results in summary judgment for the defendant. So these motions tend to be precisely targeted to the weakest points of the plaintiff's case. It is also possible for a plaintiff to seek summary judgment on a defendant's affirmative defense, but those types of motions are very rare.
+
+A party seeking summary judgment may refer to any evidence that would be admissible at trial, such as depositions (or deposition excerpts), party admissions, affidavits in support from witnesses, documents received during discovery (such as contracts, emails, letters, and certified government documents). The evidences should be accompanied by a declaration from the moving party that all copies of the documents are true and correct, including deposition excerpts. Each party may present to the court its view of applicable law by submitting a legal memorandum supporting, or opposing, the motion. The opposing party may also file its own summary-judgment motion (called a "cross-motion"), if deadline still allows. The court may allow for oral argument of the lawyers, generally where the judge wishes to question the lawyers on issues in the case.
+
+Deadline for filing of the dispositive motions in U.S. federal court system is set by judge in the initial Discovery Plan order. If a party wants to file a motion or a cross-motion for summary judgment after the deadline, it needs to ask for leave of court. Normally, federal judges require valid reasons to alter case-management deadlines and only do so with reluctance.
+
+There are also freely accessible web search engines to assist parties in finding court decisions that can be cited as an example or analogy to resolve similar questions of law. Google Scholar is the biggest database of full-text state and federal court decisions that can be accessed without charge. These web search engines often allow one to select specific state courts to search. 
+Summary judgment is awarded if the undisputed facts and the law make it clear that it would be impossible for one party to prevail if the matter were to proceed to trial. The court must consider all designated evidence in the light most favorable to the party opposing the summary-judgment motion.
+
+If a trial could result in the jury (or judge in a bench trial) deciding in favor of the party opposing the motion, then summary judgment is inappropriate. A decision granting summary judgment can be appealed without delay. A decision denying summary judgment ordinarily cannot be immediately appealed; instead, the case continues on its normal course. In United States federal courts, a denial of summary judgment cannot be appealed until final resolution of the whole case, because of the requirements of and (the final judgment rule).
+
+To defeat a summary-judgment motion, the non-moving party only has to show substantial evidence that a dispute of material facts exists, regardless of the strength of that evidence. For example, if one side can produce the testimony of "a dozen bishops", and the other side only has the testimony of a known liar, then summary judgment is not appropriate. Deciding on the relative credibility of witnesses is a question for the factfinder at trial.
+
+Where appropriate, a court may award judgment summarily upon fewer than all claims. This is known as "partial summary judgment".
+
+It is not uncommon for summary judgments of lower U.S. courts in complex cases to be overturned on appeal. A grant of summary judgment is reviewed "de novo" (meaning, without deference to the views of the trial judge) both as to the determination that there is no remaining genuine issue of material fact and that the prevailing party was entitled to judgment as a matter of law.
+
+A summary-judgment motion in United States District Court is governed by Rule 56 of the Federal Rules of Civil Procedure. Other pretrial motions, such as a "motion for judgment on the pleadings" or a "motion to dismiss for failure to state a claim upon which relief may be granted," can be converted by the judge to summary-judgment motions if matters outside the pleadings are presented toand not excluded bythe trial-court judge.
+
+====State-court practice====
+Summary-judgment practice in most states is similar to federal practice, though with minor differences. For example, the U.S. state of California requires the moving party to actually present evidence rather than merely refer to evidence. See Aguilar v. Atlantic Richfield Co., 25 Cal. 4th 826 (2001). This is done by attaching relevant documents and by summarizing all relevant factual points within those documents in a separate statement of facts. In turn, the record to be reviewed by the judge can be very large; for example, the Aguilar case involved a record of about 18,400 pages. Also, California uses the term "summary adjudication" instead of "partial summary judgment". The California view is that the latter term is an oxymoron since a judgment is supposed to be final (in the sense of completely disposing of the case). There is currently a conflict between the different districts of the California Courts of Appeal as to the availability of summary adjudication; most superior courts tend to side with the narrowest interpretation of California Code of Civil Procedure section 437c, under which a party may make such a motion only with respect to an entire cause of action, an affirmative defense, or a punitive-damages claim. There is also language in section 437c about "issues of duty," but some Courts of Appeal panels have given that phrase an extremely narrow interpretation due to evidence that the California State Legislature has been trying to stop the state courts from engaging in the piecemeal adjudication of individual issues.
+
+====Filing and privacy====
+ 
+Many U.S. district courts have developed their own requirements included in local rules for filing summary-judgment motions. Local rules can set limits on the number of pages, explain if a separate factual statement is required, whether it is acceptable to combine motion petition with a response, and if a judge needs an additional copy of the documents (called a "judge's copy"), etc. Local Rules can define page-layout elements like: margins, text font/size, distance between lines, mandatory footer text, page numbering, and provide directions on how the pages need to be bound together – i.e., acceptable fasteners, number and location of fastening holes, etc. If the filed motion does not comply with the local rules, then the judge can choose to strike the motion completely, or order the party to re-file its motion, or grant a special exception to the local rules.
+ 
+Summary-judgment motions, like many other court filings, are a matter of public record. So under Federal Rules of Civil Procedure 5.2, sensitive text like Social Security number, Taxpayer Identification Number, birthday, bank accounts and children's names, should be redacted from the summary-judgment motion and accompanying exhibits. The redacted text can be erased with black-out or white-out, and the page should have an indication that it was redacted – most often by stamping the word "redacted" on the bottom. Alternately, the filing party may ask the court's permission to file some exhibits completely under seal. A minor's name of the petitions should be replaced with initials. 
+ 
+A person making a redacted filing can file an unredacted copy under seal, or the court can choose to order later that an additional filing be made under seal without redaction. Copies of both redacted and unredacted documents filed with court should be provided to the other parties in the case.
+
+===England and Wales===
+In England and Wales, Part 24 Part 24 of the Civil Procedure Rules governs the award of summary judgment. Summary judgment is available in all claims against both the defendant and claimant with the following exceptions.
+* There may be no summary judgment in possession proceedings against a mortgagor or a person holding over after the end of his tenancy whose occupancy is protected within the meaning of the Rent Act 1977 or the Housing Act 1988.
+* There may be no summary judgment against a defendant in admiralty proceedings in rem.
+
+===Canada===
+Summary judgment procedures were first introduced in Canadian courts in the 1980s. With the exception of Quebec (which has its own procedural device for disposing of abusive claims summarily), all provinces feature a summary judgment mechanism in their respective rules of civil procedure. , at 696 Ontario, after a study on the issues of access to justice, reformed its rules in 2010 to extend the powers of motion judges and masters for ordering summary judgment, following the introduction of similar measures in Alberta and British Columbia. In 2014, the Supreme Court of Canada encouraged greater use of the procedure by the courts in its ruling in Hryniak v. Mauldin.
+
+==See also==
+* Dispositive motion
+
+==References==
+<
+
+==External links==
+* Los Angeles County Bar Association article comparing Federal Law and California summary judgment burden shifting differences
+
+

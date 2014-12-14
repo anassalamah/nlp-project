@@ -1,0 +1,134 @@
+[[J. J. Thomson]]
+
+Sir Joseph John "J. J." Thomson, OM, FRS (18 December 1856 – 30 August 1940) was a British physicist.
+
+In 1897 Thomson showed that cathode rays were composed of a previously unknown negatively charged particle, and thus he is credited with the discovery and identification of the electron; and, in a broader sense, with the discovery of the first subatomic particle. Thomson is also credited with finding the first evidence for isotopes of a stable (non-radioactive) element in 1913, as part of his exploration into the composition of canal rays (positive ions). He invented the mass spectrometer.
+
+Thomson was awarded the 1906 Nobel Prize in Physics for the discovery of the electron and for his work on the conduction of electricity in gases.
+
+==Biography==
+Joseph John Thomson was born in 1856 in Cheetham Hill, Manchester, England. His mother, Emma Swindells, came from a local textile family. His father, Joseph James Thomson, ran an antiquarian bookshop founded by a great-grandfather. He had a brother two years younger than he was, Frederick Vernon Thomson. Davis & Falconer, J.J. Thomson and the Discovery of the Electron 
+
+His early education was in small private schools where he demonstrated great talent and interest in science. In 1870 he was admitted to Owens College at the unusually young age of 14. His parents planned to enroll him as an apprentice engineer to Sharp-Stewart & Co, a locomotive manufacturer, but these plans were cut short when his father died in 1873. He moved on to Trinity College, Cambridge in 1876. In 1880, he obtained his BA in mathematics (Second Wrangler and 2nd Smith's Prize) and MA (with Adams Prize) in 1883. In 1884 he became Cavendish Professor of Physics. One of his students was Ernest Rutherford, who later succeeded him in the post.
+
+In 1890 he married Rose Elisabeth Paget, daughter of Sir George Edward Paget, KCB, a physician and then Regius Professor of Physic at Cambridge. They had one son, George Paget Thomson, and one daughter, Joan Paget Thomson.
+
+One of Thomson's greatest contributions to modern science was in his role as a highly gifted teacher: seven of his research assistants and his son won Nobel Prizes in physics. His son won the Nobel Prize in 1937 for proving the wavelike properties of electrons.
+
+He was awarded a Nobel Prize in 1906, "in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases." He was knighted in 1908 and appointed to the Order of Merit in 1912. In 1914 he gave the Romanes Lecture in Oxford on "The atomic theory". In 1918 he became Master of Trinity College, Cambridge, where he remained until his death. He died on 30 August 1940 and was buried in Westminster Abbey, close to Sir Isaac Newton.
+
+Thomson was elected a Fellow of the Royal Society on 12 June 1884 and was President of the Royal Society from 1915 to 1920.
+
+==Career==
+
+===Discovery of the electron===
+Several scientists, such as William Prout and Norman Lockyer, had suggested that atoms were built up from a more fundamental unit, but they envisioned this unit to be the size of the smallest atom, hydrogen. Thomson, in 1897, was the first to suggest that the fundamental unit was over 1000 times smaller than an atom, suggesting the subatomic particle now known as the electron. Thomson discovered this through his explorations on the properties of cathode rays. Thomson made his suggestion on 30 April 1897 following his discovery that Lenard rays could travel much further through air than expected for an atom-sized particle. J.J. Thomson (1897) "Cathode Rays", The Electrician 39, 104 He estimated the mass of cathode rays by measuring the heat generated when the rays hit a thermal junction and comparing this with the magnetic deflection of the rays. His experiments suggested not only that cathode rays were over 1000 times lighter than the hydrogen atom, but also that their mass was the same in whichever type of atom they came from. He concluded that the rays were composed of very light, negatively charged particles which were a universal building block of atoms. He called the particles "corpuscles", but later scientists preferred the name electron which had been suggested by George Johnstone Stoney in 1891, prior to Thomson's actual discovery. Falconer (2001)"Corpuscles to electrons" 
+
+In April 1897 Thomson had only early indications that the cathode rays could be deflected electrically (previous investigators such as Heinrich Hertz had thought they could not be). A month after Thomson's announcement of the corpuscle he found that he could reliably deflect the rays by an electric field if he evacuated the discharge tube to a very low pressure. By comparing the deflection of a beam of cathode rays by electric and magnetic fields he obtained more robust measurements of the mass to charge ratio that confirmed his previous estimates. J.J. Thomson (1897)"Cathode rays", Philosophical Magazine, 44, 293 This became the classic means of measuring the charge and mass of the electron.
+
+Thomson believed that the corpuscles emerged from the atoms of the trace gas inside his cathode ray tubes. He thus concluded that atoms were divisible, and that the corpuscles were their building blocks. To explain the overall neutral charge of the atom, he proposed that the corpuscles were distributed in a uniform sea of positive charge; this was the "plum pudding" model—the electrons were embedded in the positive charge like plums in a plum pudding (although in Thomson's model they were not stationary, but orbiting rapidly). , p. 324: "Thomson's model, then, consisted of a uniformly charged sphere of positive electricity (the pudding), with discrete corpuscles (the plums) rotating about the center in circular orbits, whose total charge was equal and opposite to the positive charge." 
+
+===Isotopes and mass spectrometry===
+In the bottom right corner of this photographic plate are markings for the two isotopes of neon: neon-20 and neon-22.
+In 1912, as part of his exploration into the composition of canal rays, Thomson and his research assistant F. W. Aston channeled a stream of neon ions through a magnetic and an electric field and measured its deflection by placing a photographic plate in its path. They observed two patches of light on the photographic plate (see image on right), which suggested two different parabolas of deflection, and concluded that neon is composed of atoms of two different atomic masses (neon-20 and neon-22), that is to say of two isotopes. See:
+* J.J. Thomson (1912) "Further experiments on positive rays," Philosophical Magazine, series 6, 24 (140): 209–253.
+* J.J. Thomson (1913) "Rays of positive electricity," Proceedings of the Royal Society A, 89: 1–20. This was the first evidence for isotopes of a stable element; Frederick Soddy had previously proposed the existence of isotopes to explain the decay of certain radioactive elements.
+
+JJ Thomson's separation of neon isotopes by their mass was the first example of mass spectrometry, which was subsequently improved and developed into a general method by F. W. Aston and by A. J. Dempster.
+
+===Other work===
+In 1905 Thomson discovered the natural radioactivity of potassium. 
+
+In 1906 Thomson demonstrated that hydrogen had only a single electron per atom. Previous theories allowed various numbers of electrons. 
+
+==Experiments with cathode rays==
+Earlier, physicists debated whether cathode rays were immaterial like light ("some process in the aether") or had mass and were composed of particles. The aetherial hypothesis was vague, but the particle hypothesis was definite enough for Thomson to test.
+
+===Experiments on the magnetic deflection of cathode rays===
+Thomson first investigated the magnetic deflection of cathode rays. Cathode rays were produced in the side tube on the left of the apparatus and passed through the anode into the main bell-jar, where they were deflected by a magnet. Thomson detected their path by the fluorescence on a squared screen in the jar. He found that whatever the material of the anode and the gas in the jar, the deflection of the rays was the same, suggesting that the rays were of the same form whatever their origin. Thomson (8 February 1897)'On the cathode rays', Proceedings of the Cambridge Philosophical Society, 9, 243 
+
+===Experiment to show that cathode rays were electrically charged===
+The cathode ray tube by which JJ Thomson demonstrated that cathode rays could be deflected by a magnetic field, and that their negative charge was not a separate phenomenon.
+While supporters of the aetherial theory accepted the possibility that negatively charged particles are produced in Crookes tubes, they believed that they are a mere byproduct and that the cathode rays themselves are immaterial. Thomson set out to investigate whether or not he could actually separate the charge from the rays.
+
+Thomson constructed a Crookes tube with an electrometer set to one side, out of the direct path of the cathode rays. Thomson could trace the path of the ray by observing the phosphorescent patch it created where it hit the surface of the tube. Thomson observed that the electrometer registered a charge only when he deflected the cathode ray to it with a magnet. He concluded that the negative charge and the rays were one and the same. 
+
+===Experiment to show that cathode rays could be deflected electrically===
+
+In May–June 1897 Thomson investigated whether or not the rays could be deflected by an electric field. Previous experimenters had failed to observe this, but Thomson believed their experiments were flawed because their tubes contained too much gas.
+
+Thomson constructed a Crookes tube with a near-perfect vacuum. At the start of the tube was the cathode from which the rays projected. The rays were sharpened to a beam by two metal slits – the first of these slits doubled as the anode, the second was connected to the earth. The beam then passed between two parallel aluminium plates, which produced an electric field between them when they were connected to a battery. The end of the tube was a large sphere where the beam would impact on the glass, created a glowing patch. Thomson pasted a scale to the surface of this sphere to measure the deflection of the beam. Note that any electron beam would collide with some residual gas atoms within the Crookes tube, thereby ionizing them and producing electrons and ions in the tube (space charge); in previous experiments this space charge electrically screened the externally applied electric field. However, in Thomson's Crookes tube the density of residual atoms was so low that the space charge from the electrons and ions was insufficient to electrically screen the externally applied electric field, which permitted Thomson to successfully observe electrical deflection. 
+
+When the upper plate was connected to the negative pole of the battery and the lower plate to the positive pole, the glowing patch moved downwards, and when the polarity was reversed, the patch moved upwards.
+
+===Experiment to measure the mass to charge ratio of cathode rays===
+J J Thomson's cathode ray tube with electromagnetic deflection coils, 1897
+
+In his classic experiment, Thomson measured the mass-to-charge ratio of the cathode rays by measuring how much they were deflected by a magnetic field and comparing this with the electric deflection. He used the same apparatus as in his previous experiment, but placed the discharge tube between the poles of a large electromagnet. He found that the mass to charge ratio was over a thousand times lower than that of a hydrogen ion (H+), suggesting either that the particles were very light and/or very highly charged. It is important to note that the rays from every cathode yielded the same mass-to-charge ratio. This is in contrast to anode rays (now known to arise from positive ions emitted by the anode), where the mass-to-charge ratio varies from anode-to-anode. Thomson himself remained critical of what his work established, in his Nobel Prize acceptance speech referring to "corpuscles" rather than "electrons". 
+
+Thomson's calculations can be summarised as follows (notice that we reproduce here Thomson's original notations, using F instead of E for the Electric field and H instead of B for the magnetic field):
+
+The electric deflection is given by Θ = Fel/mv2 where Θ is the angular electric deflection, F is applied electric intensity, e is the charge of the cathode ray particles, l is the length of the electric plates, m is the mass of the cathode ray particles and v is the velocity of the cathode ray particles.
+
+The magnetic deflection is given by φ = Hel/mv where φ is the angular magnetic deflection and H is the applied magnetic field intensity.
+
+The magnetic field was varied until the magnetic and electric deflections were the same, when Θ = φ and Fel/mv2= Hel/mv. This can be simplified to give m/e = H2l/FΘ. The electric deflection was measured separately to give Θ and H, F and l were known, so m/e could be calculated.
+
+===Conclusions===
+
+As to the source of these particles, Thomson believed they emerged from the molecules of gas in the vicinity of the cathode.
+
+Thomson imagined the atom as being made up of these corpuscles orbiting in a sea of positive charge; this was his plum pudding model. This model was later proved incorrect when his student Ernest Rutherford showed that the positive charge is concentrated in the nucleus of the atom.
+
+==Awards and recognition==
+Plaque commemorating J. J. Thomson's discovery of the electron outside the old Cavendish Laboratory in Cambridge, UK.
+
+* Adams Prize (1882)
+* Royal Medal (1894)
+* Hughes Medal (1902)
+* Nobel Prize for Physics (1906)
+* Elliott Cresson Medal (1910)
+* Copley Medal (1914)
+* Franklin Medal (1922)
+
+In 1991 the thomson (symbol: Th) was proposed as a unit to measure mass-to-charge ratio in mass spectrometry in his honour. 
+
+==Notes==
+
+==References==
+* Thomson, George Paget. (1964) J.J. Thomson: Discoverer of the Electron. Great Britain: Thomas Nelson & Sons, Ltd.
+* 1883. A Treatise on the Motion of Vortex Rings: An essay to which the Adams Prize was adjudged in 1882, in the University of Cambridge. London: Macmillan and Co., pp. 146. Recent reprint: ISBN 0-543-95696-2.
+* 1888. Applications of Dynamics to Physics and Chemistry. London: Macmillan and Co., pp. 326. Recent reprint: ISBN 1-4021-8397-6.
+* 1893. Notes on recent researches in electricity and magnetism: intended as a sequel to Professor Clerk-Maxwell's 'Treatise on Electricity and Magnetism. Oxford Univ. Press, pp.xvi and 578. 1991, Cornell University Monograph: ISBN 1-4297-4053-1.
+* 1921 (1895). Elements Of The Mathematical Theory Of Electricity And Magnetism. London: Macmillan and Co. Scan of 1895 edition.
+* A Text book of Physics in Five Volumes, coauthored with J.H. Poynting: (1) Properties of Matter, (2) Sound, (3) Heat, (4) Light, and (5) Electricity and Magnetism. Dated 1901 and later, and with revised later editions.
+* Navarro, Jaume, 2005, "Thomson on the Nature of Matter: Corpuscles and the Continuum," Centaurus 47(4): 259–82.
+* Downard, Kevin, 2009. "J.J. Thomson Goes to America" J. Am. Soc. Mass Spectrom. 20(11): 1964–1973. 
+* Dahl, Per F., "Flash of the Cathode Rays: A History of J.J. Thomson's Electron". Institute of Physics Publishing. June 1997. ISBN 0-7503-0453-7
+* J.J. Thomson (1897) "Cathode Rays", The Electrician 39, 104, also published in Proceedings of the Royal Institution 30 April 1897, 1–14—first announcement of the "corpuscle" (before the classic mass and charge experiment)
+* J.J. Thomson (1897), Cathode rays, Philosophical Magazine, 44, 293—The classic measurement of the electron mass and charge
+* J.J. Thomson (1912), "Further experiments on positive rays" Philosophical Magazine, 24, 209–253—first announcement of the two neon parabolae
+* J.J. Thomson (1913), Rays of positive electricity, Proceedings of the Royal Society, A 89, 1–20—Discovery of neon isotopes
+* J.J. Thomson, "On the Structure of the Atom: an Investigation of the Stability and Periods of Oscillation of a number of Corpuscles arranged at equal intervals around the Circumference of a Circle; with Application of the Results to the Theory of Atomic Structure," Philosophical Magazine Series 6, Volume 7, Number 39, pp. 237–265. This paper presents the classical "plum pudding model" from which the Thomson Problem is posed.
+* The Master of Trinity at Trinity College, Cambridge
+* J.J. Thomson, The Electron in Chemistry: Being Five Lectures Delivered at the Franklin Institute, Philadelphia (1923).
+* Davis, Eward Arthur & Falconer, Isobel. J.J. Thomson and the Discovery of the Electron. 1997. ISBN 978-0-7484-0696-8
+* Falconer, Isobel (1988) "J.J. Thomson's Work on Positive Rays, 1906–1914" Historical Studies in the Physical and Biological Sciences 18(2) 265–310
+* Falconer, Isobel (2001) "Corpuscles to Electrons" in J Buchwald and A Warwick (eds) Histories of the Electron, Cambridge, Mass: MIT Press, pp. 77–100
+
+==External links==
+
+* 
+* 
+* The Discovery of the Electron
+* The Nobel Prize in Physics 1906
+* Annotated bibliography for Joseph J. Thomson from the Alsos Digital Library for Nuclear Issues
+* Essay on Thomson life and religious views
+* The Cathode Ray Tube site
+* Nobel Prize acceptance lecture (1906)
+* Thomson's discovery of the isotopes of Neon
+* Thomson Building Opening – The Leys School, Cambridge (1927)
+* Photos of some of Thomson's remaining apparatus at the Cavendish Laboratory Museum
+* E.R. (2007). The Periodic Table, Its Story and Its Significance. Oxford University Press,. ISBN 0-19-530573-6. http://www.us.oup.com/us/catalog/general/subject/Chemistry/?view=usa&ci=9780195305739
+
+

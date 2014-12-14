@@ -1,0 +1,84 @@
+[[Essential amino acid]]
+
+An essential amino acid or indispensable amino acid is an amino acid that cannot be synthesized de novo (from scratch) by the organism being considered, and therefore must be supplied in its diet. The amino acids regarded as essential for humans are phenylalanine, valine, threonine, tryptophan, methionine, leucine, isoleucine, lysine, and histidine. Additionally, cysteine (or sulphur-containing amino acids), tyrosine (or aromatic amino acids), and arginine are always required by infants and growing children. , page 150 Essential amino acids are "essential" not because they are more important for protein synthesis or general homeostasis than the others, but because the body does not synthesize them. If they are not uptaken through diet, they will not be available for protein synthesis. 
+In addition, the amino acids arginine, cysteine, glycine, glutamine, proline, serine and tyrosine are considered conditionally essential, meaning they are not normally required in the diet, but must be supplied exogenously to specific populations that do not synthesize them in adequate amounts. An example would be with the disease phenylketonuria (PKU). Individuals living with PKU must keep their intake of phenylalanine extremely low to prevent mental retardation and other metabolic complications. However, they cannot synthesize tyrosine from phenylalanine, so tyrosine becomes essential in the diet of PKU patients.
+
+The distinction between essential and non-essential amino acids is somewhat unclear, as some amino acids can be produced from others. The sulfur-containing amino acids, methionine and homocysteine, can be converted into each other but neither can be synthesized de novo in humans. Likewise, cysteine can be made from homocysteine but cannot be synthesized on its own. So, for convenience, sulfur-containing amino acids are sometimes considered a single pool of nutritionally equivalent amino acids as are the aromatic amino acid pair, phenylalanine and tyrosine. Likewise arginine, ornithine, and citrulline, which are interconvertible by the urea cycle, are considered a single group.
+
+==Essentiality vs. conditional essentiality in humans==
+
+ Essential Nonessential ** 
+ Histidine Alanine 
+ Isoleucine Arginine* 
+ Leucine Aspartic acid 
+ Lysine Cysteine* 
+ Methionine Glutamic acid 
+ Phenylalanine Glutamine* 
+ Threonine Glycine* 
+ Tryptophan Proline* 
+ Valine Serine* 
+ Tyrosine* 
+ Asparagine* 
+ Selenocysteine 
+ 
+
+(*) Essential only in certain cases. 
+
+(**) Pyrrolysine, sometimes considered "the 22nd amino acid", is not listed here as it is not used by humans. 
+
+==Recommended daily amounts==
+Estimating the daily requirement for the indispensable amino acids has proven to be difficult; these numbers have undergone considerable revision over the last 20 years. The following table lists the WHO recommended daily amounts currently in use for essential amino acids in adult humans, together with their standard one-letter abbreviations. Food sources are identified based on the USDA National Nutrient Database Release.
+
+ Amino acid(s) mg per kg body weight mg per 70 kg mg per 100 kg Main food sources 
+ H Histidine 10 700 1000 eggs, soy protein, sesame, parmesan, peanuts 
+ I Isoleucine 20 1400 2000 eggs, soy protein, whitefish, parmesan, tofu, pork 
+ L Leucine 39 2730 3900 eggs, soy protein, sesame, whitefish, parmesan 
+ K Lysine 30 2100 3000 eggs, soy protein, whitefish, parmesan, smelts 
+ M Methionine + C Cysteine 10.4 + 4.1 (15 total) 1050 1500 eggs, soy protein, sesame, whitefish, smelts + eggs, soy protein, sesame, peanuts, mustard seeds 
+ F Phenylalanine + Y Tyrosine 25 (total) 1750 2500 eggs, soy protein, sesame, whitefish, peanuts + eggs, soy protein, sesame, parmesan 
+ T Threonine 15 1050 1500 eggs, soy protein, sesame, whitefish, smelts 
+ W Tryptophan 4 280 400 eggs, soy protein, sesame, winged beans, chia seeds 
+ V Valine 26 1820 2600 eggs, soy protein, sesame, parmesan, beef 
+
+The recommended daily intakes for children aged three years and older is 10% to 20% higher than adult levels and those for infants can be as much as 150% higher in the first year of life.
+
+==Cellular use==
+At the level of the ribosome, the cells of eukaryotes require up to 21 different amino acids for protein synthesis. A shortfall of any one of these amino acids would thus be a limiting factor in protein synthesis. However, eukaryotes can synthesize some of these amino acids from other substrates. Consequently, only a subset of the amino acids used in protein synthesis are essential nutrients. Whether a particular amino acid is essential depends upon the species and the stage of development.
+
+Scientists had known since the early 20th century that rats could not survive on a diet whose only protein source was zein, which comes from maize (corn), but recovered if they were fed casein from cow's milk. This led William Cumming Rose to the discovery of the essential amino acid threonine. Rose WC, Haines WJ, Warner DT, Johnson JE. The amino acid requirements of man. II. The role of threonine and histidine. J Biol Chem. 1951;188(1):49-58 Through manipulation of rodent diets, Rose was able to show that ten amino acids are essential for rats: lysine, tryptophan, histidine, phenylalanine, leucine, isoleucine, methionine, valine, and arginine, in addition to threonine. Rose's later work showed that eight amino acids are essential for adult human beings, with histidine also being essential for infants. Longer term studies established histidine as also essential for adult humans. 
+
+Because of the obvious difference in the nutritional value of zein versus casein in rat nutrition, various attempts have been made to express the "quality" or "value" of various kinds of protein. Measures include the biological value, net protein utilization, protein efficiency ratio, protein digestibility-corrected amino acid score. These concepts are important in the livestock industry, because the relative lack of one or more of the essential amino acids in animal feeds would have a limiting effect on growth and thus on feed conversion ratio. Thus, various feedstuffs may be fed in combination to increase net protein utilization, or a supplement of an individual amino acid (methionine, lysine, threonine, or tryptophan) can be added to the feed.
+
+Although proteins from plant sources tend to have a relatively low biological value, in comparison to protein from eggs or milk, they are nevertheless "complete" in that they contain at least trace amounts of all of the amino acids that are essential in human nutrition. McDougall J. Plant foods have a complete amino acid composition. Circulation. 2002;105(25):e197 Eating various plant foods in combination can provide a protein of higher biological value. Certain native combinations of foods, such as corn and beans, soybeans and rice, or red beans and rice, contain the essential amino acids necessary for humans in adequate amounts. http://hyperphysics.phy-astr.gsu.edu/hbase/organic/essam.html "Tillery points out that a number of popular ethnic foods involve such a combination, so that in a single dish, one might hope to get the ten essential amino acids. Mexican corn and beans, Japanese rice and soybeans, and Cajun red beans and rice are examples of such fortuitous combinations." 
+
+==Effects of deficiency==
+The amino acids that are essential in the human diet were established in a series of experiments led by William Cumming Rose. The experiments involved elemental diets to healthy male graduate students. These diets consisted of cornstarch, sucrose, butterfat without protein, corn oil, inorganic salts, the known vitamins, a large brown "candy" made of liver extract flavored with peppermint oil (to supply any unknown vitamins), and mixtures of highly purified individual amino acids. The main outcome measure was nitrogen balance. Rose noted that the symptoms of nervousness, exhaustion, and dizziness were encountered to a greater or lesser extent whenever human subjects were deprived of an essential amino acid. 
+
+Essential amino acid deficiency should be distinguished from protein-energy malnutrition, which can manifest as marasmus or kwashiorkor. Kwashiorkor was once attributed to pure protein deficiency in individuals who were consuming enough calories ("sugar baby syndrome"). However, this theory has been challenged by the finding that there is no difference in the diets of children developing marasmus as opposed to kwashiorkor. Ahmed T, Rahman S, Cravioto A. Oedematous malnutrition. Indian J Med Res. 2009;130(5):651-654 
+
+==Mnemonics==
+Using the one-letter designation shown above, mnemonic devices have been developed for use in memorizing the essential amino acids. Previous devices have utilized the first letter of the amino acids' names, and in general did not include arginine which is not always essential. Mnemonic devices in common use are PVT TIM HaLL and TT HALL V(ery) IMP(ortant). ;MATT VIL PLy Essential amino acids Essential amino acids, Mnemonic. 
+
+Another method uses the first letter of each essential amino acid to begin each word in a phrase, such as: "Any Help In Learning These Little Molecules Proves Truly Valuable". This method begins with the two amino acids that need some qualifications as to their requirements.
+
+==See also==
+*Biological Value (BV)
+*Complete protein
+*Edible protein per unit area of land
+*Essential fatty acid
+*Essential genes
+*Essential nutrient
+*List of standard amino acids
+*Low-protein diet
+*Orthomolecular medicine
+*Protein Digestibility Corrected Amino Acid Score
+
+==References==
+
+==External links==
+*Amino acid content of some vegetarian foods at veganhealth.org.
+*Amino Acid Profiles of Some Common Feeds at Virginia Tech.
+* Molecular Expressions: The Amino Acid Collection at Florida State University. Features detailed information and crystal photographs of each amino acid.
+* vProtein, an online software tool to analyze the essential amino acid profiles of single and pairs of plant based foods based on human requirements.
+
+

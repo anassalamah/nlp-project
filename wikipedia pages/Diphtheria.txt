@@ -1,0 +1,126 @@
+[[Diphtheria]]
+
+Diphtheria (Greek διφθέρα (diphthera) "pair of leather scrolls") is an upper respiratory tract illness caused by Corynebacterium diphtheriae, a facultative anaerobic, Gram-positive bacterium. Office of Laboratory Security, Public Health Agency of Canada Corynebacterium diphtheriae Material Safety Data Sheet. January 2000. Corynebacterium diphtheriae only produces diphtheria toxin when lysogenized by beta phage It is characterized by sore throat, low fever, and an adherent membrane (a pseudomembrane) on the tonsils, pharynx, and/or nasal cavity. A milder form of diphtheria can be restricted to the skin. Less common consequences include myocarditis (about 20% of cases) and peripheral neuropathy (about 10% of cases). 
+
+Diphtheria is an infectious disease spread by direct physical contact or breathing the aerosolized secretions of infected individuals. Historically quite common, diphtheria has largely been eradicated in developed nations through widespread vaccination. In the United States, for example, there were 53 reported cases of diphtheria between 1980 and 2000, but in the 21st century only two cases of diphtheria have been reported, the last of which was in 2003. Diphtheria reported cases, Table Last update: 4-Oct-2012, World Health Organization. The diphtheria–pertussis–tetanus (DPT) vaccine is recommended for all school-age children in the U.S., and boosters of the vaccine are recommended for adults, since the benefits of the vaccine decrease with age without constant re-exposure; they are particularly recommended for those traveling to areas where the disease has not been eradicated.
+
+==Signs and symptoms==
+An adherent, dense, grey pseudomembrane covering the tonsils is classically seen in diphtheria
+A diphtheria skin lesion on the leg
+The symptoms of diphtheria usually begin two to seven days after infection.
+Symptoms of diphtheria include fever of 38°C (100.4°F) or above, chills, fatigue, bluish skin coloration (cyanosis), sore throat, hoarseness, cough, headache, difficulty swallowing, painful swallowing, difficulty breathing, rapid breathing, foul-smelling bloodstained nasal discharge and lymphadenopathy. http://www.nhs.uk/Conditions/Diphtheria/Pages/Symptoms.aspx http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0002575/ Symptoms can also include cardiac arrhythmias, myocarditis, and cranial and peripheral nerve palsies.
+
+=== Diphtheritic croup ===
+Laryngeal diphtheria can lead to a characteristic swollen neck and throat, or "bull neck". The swollen throat is often accompanied by a serious respiratory condition, characterized by a brassy or "barking" cough, stridor, hoarseness, and difficulty breathing, and historically referred to variously as "diphtheritic croup", "true croup", or sometimes simply as "croup". Diphtheritic croup is extremely rare in countries where diphtheria vaccination is customary. As a result, the term "croup" nowadays most often refers to an unrelated viral illness that produces similar but milder respiratory symptoms. 
+
+==Mechanism==
+Diphtheria toxin is produced by C. diphtheriae only when infected with a bacteriophage that integrates the toxin-encoding genetic elements into the bacteria. 
+
+Diphtheria toxin is a single, 60kDa molecular weight protein composed of two peptide chains, fragment A and fragment B, held together by a disulfide bond. Fragment B is a recognition subunit that gains the toxin entry into the host cell by binding to the EGF-like domain of heparin-binding EGF-like growth factor (HB-EGF) on the cell surface. This signals the cell to internalize the toxin within an endosome via receptor-mediated endocytosis. Inside the endosome, the toxin is split by a trypsin-like protease into its individual A and B fragments. The acidity of the endosome causes fragment B to create pores in the endosome membrane, thereby catalyzing the release of fragment A into the cell's cytoplasm.
+
+Fragment A inhibits the synthesis of new proteins in the affected cell. It does this by catalyzing ADP-ribosylation of elongation factor EF-2—a protein that is essential to the translation step of protein synthesis. This ADP-ribosylation involves the transfer of an ADP-ribose from NAD+ to a diphthamide (a modified histidine) residue within the EF-2 protein. Since EF-2 is needed for the moving of tRNA from the A-site to the P-site of the ribosome during protein translation, ADP-ribosylation of EF-2 prevents protein synthesis.
+
+ADP-ribosylation of EF-2 is reversed by giving high doses of nicotinamide (a form of vitamin B3), since this is one of the reaction's end-products, and high amounts will drive the reaction in the opposite direction.
+
+==Diagnosis==
+The current definition of diphtheria used by the Centers for Disease Control and Prevention (CDC) is based on both laboratory and clinical criteria.
+
+===Laboratory criteria===
+* Isolation of Corynebacterium diphtheriae from a gram stain or throat culture from a clinical specimen, or
+* Histopathologic diagnosis of diphtheria by a stain called "Albert's Stain".
+
+===Clinical criteria===
+* Upper respiratory tract illness with sore throat
+* Low-grade fever (>102 F is rare)
+* An adherent, dense, grey pseudomembrane covering the posterior aspect of the pharynx. In severe cases, it can extend to cover the entire tracheobronchial tree.
+
+===Case classification===
+* Probable: a clinically compatible case that is not laboratory-confirmed and is not epidemiologically linked to a laboratory-confirmed case
+* Confirmed: a clinically compatible case that is either laboratory-confirmed or epidemiologically linked to a laboratory-confirmed case
+
+Empirical treatment should generally be started in a patient in whom suspicion of diphtheria is high.
+
+==Treatment==
+The disease may remain manageable, but in more severe cases, lymph nodes in the neck may swell, and breathing and swallowing will be more difficult. People in this stage should seek immediate medical attention, as obstruction in the throat may require intubation or a tracheotomy. Abnormal cardiac rhythms can occur early in the course of the illness or weeks later, and can lead to heart failure. Diphtheria can also cause paralysis in the eye, neck, throat, or respiratory muscles. Patients with severe cases will be put in a hospital intensive care unit and be given a diphtheria antitoxin. Since antitoxin does not neutralize toxin that is already bound to tissues, delaying its administration is associated with an increase in mortality risk. Therefore, the decision to administer diphtheria antitoxin is based on clinical diagnosis, and should not await laboratory confirmation. 
+
+Antibiotics have not been demonstrated to affect healing of local infection in diphtheria patients treated with antitoxin. Antibiotics are used in patients or carriers to eradicate C. diphtheriae and prevent its transmission to others. The CDC recommends The first version of this article was adapted from the CDC document "Diphtheria - 1995 Case Definition" at http://www.cdc.gov/epo/dphsi/casedef/diphtheria_current.htm. As a work of an agency of the U.S. Government without any other copyright notice it should be available as a public domain resource. either:
+
+* Metronidazole
+* Erythromycin (orally or by injection) for 14 days (40 mg/kg per day with a maximum of 2 g/d), or
+* Procaine penicillin G given intramuscularly for 14 days (300,000 U/d for patients weighing 10 kg). Patients with allergies to penicillin G or erythromycin can use rifampin or clindamycin.
+
+In cases that progress beyond a throat infection, diphtheria toxin spreads through the blood and can lead to potentially life-threatening complications that affect other organs, such as the heart and kidneys. The toxin can cause damage to the heart that affects its ability to pump blood or the kidneys' ability to clear wastes. It can also cause nerve damage, eventually leading to paralysis. About 40% to 50% of those left untreated can die.
+
+==Epidemiology==
+Disability-adjusted life year for diphtheria per 100,000 inhabitants in 2004
+
+Diphtheria cases reported to the World Health Organization between 1997 and 2006:
+
+Diphtheria is fatal in between 5% and 10% of cases. In children under five years and adults over 40 years, the fatality rate may be as much as 20%. As of 2010 it caused about 2,900 deaths down from 6,300 in 1990. 
+
+Outbreaks, though very rare, still occur worldwide, including in developed nations, such as Germany and Canada. After the breakup of the former Soviet Union in the late 1980s, vaccination rates in its constituent countries fell so low that there was an explosion of diphtheria cases. In 1991, there were 2,000 cases of diphtheria in the USSR. By 1998, according to Red Cross estimates, there were as many as 200,000 cases in the Commonwealth of Independent States, with 5,000 deaths. This was so great an increase that diphtheria was cited in the Guinness Book of World Records as "most resurgent disease".
+
+==History==
+In 1613, Spain experienced an epidemic of diphtheria. The year is known as "El Año de los Garotillos" (The Year of Strangulations) in history of Spain. 
+
+In 1735, a diphtheria epidemic swept through New England. 
+
+Before 1826, diphtheria was known by different names across the world. In England, it was known as Boulogne sour throat, as it spread from France. In 1826, Pierre Bretonneau gave the name to disease as diphtérite (from Greek diphthera "leather") describing the appearance of pseudomembrane in the throat. 
+
+In 1856, Victor Fourgeaud described an epidemic of diphtheria in California. 
+
+In 1878, Queen Victoria's daughter Princess Alice and her family became infected with it, causing two deaths, Princess Marie of Hesse and by Rhine and Princess Alice herself.
+
+In 1883, Edwin Klebs identified the bacterium and named it Klebs-Loeffler bacterium. The club shape of bacterium helped Edwin to differentiate it from other bacteria. Over the period of time, it was called Microsporon diphtheriticum, Bacillus diphtheriae and Mycobacterium diphtheriae. Current nomenclature is Corynebacterium diphtheriae.
+
+Friedrich Loeffler was the first one to cultivate Corynebacterium diphtheriae in 1884. He used Koch's postulates to prove association between Corynebacterium diphtheriae and Diphtheria. He also showed that the bacillus produces an exotoxin.
+A diphtheria immunisation scheme in London, 1941
+
+Joseph P. O’Dwyer introduced O'Dwyer tube for laryngeal intubation in patients with obstructed larynx in 1885. It soon replaced tracheostomy as emergency diphtheric intubation method. 
+
+In 1888, Emile Roux and Alexandre Yersin showed that a substance produced by C. diphtheriae caused symptoms of diphtheria in animals. 
+
+In 1890, Shibasaburo Kitasato and Emil von Behring immunized guinea pigs with heat-treated diphtheria toxin. Von Behring won the first Nobel Prize in medicine in 1901 for his work on diphtheria. Over the Christmas holiday in 1891 in Berlin, the first attempt to cure a person of diphtheria was made. It succeeded. ... it was the first cure." John M. Barry, The Great Influenza; The Story of the Deadliest Pandemic in History (New York: Penguin Books, c2004, 2005) p. 70. 
+
+In 1895, Mulford Company of Philadelphia started production and testing of diphtheria antitoxin in the United States. Park and Biggs described the method for producing serum from horses for use in diphtheria treatment.
+
+In 1897, Paul Ehrlich developed a standardized unit of measure for diphtheria antitoxin. This was first ever standardization of biological product and played an important factor in future developmental work on sera and vaccines.
+
+In 1901, 10 out of 11 inoculated St. Louis children died from contaminated diphtheria antitoxin. The horse from which the antitoxin was derived died of tetanus. This incident coupled with a tetanus outbreak in Camden, New Jersey played an important part in initiating federal regulation of biologic products. 
+
+On January 7, 1904, Ruth Cleveland died of diphtheria at the age of twelve years old in Princeton, New Jersey. Ruth was the eldest daughter of former president Grover Cleveland and the former first lady Frances Folsom. She was the only one of the Cleveland's five children who died before adulthood. Ruth Cleveland (1891-1904) Find A Grave Ruth Cleveland Wikipedia 
+
+In 1905, Franklin Royer, from Philadelphia’s Municipal Hospital, published a paper urging timely treatment for diphtheria and adequate doses of antitoxin. In the same year, Clemens Pirquet and Bela Schick described serum sickness in children receiving large quantities of horse-derived antitoxin.
+
+Between 1910 and 1911 Béla Schick developed the Schick test to detect preexistent immunity to diphtheria in an exposed person. Only those who were not exposed to diphtheria were preferably vaccinated. A massive five-year campaign was coordinated by Dr. Schick. As a part of the campaign, 85 million pieces of literature were distributed by the Metropolitan Life Insurance Company with an appeal to parents to "Save your child from diphtheria." A vaccine was developed in the next decade, and deaths began declining in earnest in 1924. 
+A poster from the United Kingdom advertising diphtheria immunisation (published prior to 1962)
+
+In 1919, in Dallas, Texas, U.S.A., 10 children were killed and 60 others made seriously ill by toxic antitoxin which had passed the tests of the New York State Health Department. Mulford Company of Philadelphia (manufacturers) paid damages in every case. 
+
+In the 1920s, there were an estimated 100,000 to 200,000 cases of diphtheria per year in the United States, causing 13,000 to 15,000 deaths per year. Children represented a large majority of these cases and fatalities. One of the most famous outbreaks of diphtheria was in Nome, Alaska; the "Great Race of Mercy" to deliver diphtheria antitoxin is now celebrated by the Iditarod Trail Sled Dog Race.
+
+In 1926, Alexander Thomas Glenny increased the effectiveness of diphtheria toxoid by treating it with aluminum salts. 
+
+In 1943, diphtheria outbreaks accompanied war and disruption in Europe. There were 1 million cases in Europe, with 50,000 deaths.
+
+In 1949, 68 of 606 children died after diphtheria immunization due to improper manufacture of aluminum phosphate toxoid.
+
+In 1974, WHO included DPT vaccine in their Expanded Programme on Immunization for developing countries.
+
+In 1975, an outbreak of cutaneous diphtheria in Seattle, Washington was reported . 
+
+In 1994, the Russian Federation saw 39,703 diphtheria cases. In contrast, in 1990, there had been only 1,211 cases. http://jid.oxfordjournals.org/content/181/Supplement_1/S228.full 
+
+In early May 2010, a case of diphtheria was diagnosed in Port-au-Prince, Haiti after the devastating 2010 Haiti earthquake. The 15-year-old male patient died while workers searched for antitoxin. 
+
+In 2013, 3 children died of diphtheria in Hyderabad, India. 
+
+==References==
+
+==Further reading==
+
+*
+* "Antitoxin dars 1735 and 1740." The William and Mary Quarterly, 3rd Ser., Vol 6, No 2. p. 338.
+*
+
+

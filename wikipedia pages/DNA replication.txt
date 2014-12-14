@@ -1,0 +1,130 @@
+[[DNA replication]]
+
+DNA replication. The double helix is unwound and each strand acts as a template for the next strand. Bases are matched to synthesize the new partner strands. 
+DNA replication is the process of producing two identical replicas from one original DNA molecule. This biological process occurs in all living organisms and is the basis for biological inheritance. DNA is made up of two strands and each strand of the original DNA molecule serves as template for the production of the complementary strand, a process referred to as semiconservative replication. Cellular proofreading and error-checking mechanisms ensure near perfect fidelity for DNA replication. Imperfect DNA replication results in mutations. 
+
+In a cell, DNA replication begins at specific locations, or origins of replication, in the genome. Unwinding of DNA at the origin and synthesis of new strands results in replication forks growing bidirectional from the origin. A number of proteins are associated with the replication fork which helps in terms of the initiation and continuation of DNA synthesis. Most prominently, DNA polymerase synthesizes the new DNA by adding complementary nucleotides to the template strand.
+
+DNA replication can also be performed in vitro (artificially, outside a cell). DNA polymerases isolated from cells and artificial DNA primers can be used to initiate DNA synthesis at known sequences in a template DNA molecule. The polymerase chain reaction (PCR), a common laboratory technique, cyclically applies such artificial synthesis to amplify a specific target DNA fragment from a pool of DNA.
+
+==Background on DNA structure==
+DNA usually exists as a double-stranded structure, with both strands coiled together to form the characteristic double-helix. Each single strand of DNA is a chain of four types of nucleotides. Nucleotides in DNA contain a deoxyribose sugar, a phosphate, and a nucleobase. The four types of nucleotide correspond to the four nucleobases adenine, cytosine, guanine, and thymine, commonly abbreviated as A,C, G and T. Adenine and guanine are purine bases, while cytosine and thymine are pyrimidines. These nucleotides form phosphodiester bonds, creating the phosphate-deoxyribose backbone of the DNA double helix with the nucleobases pointing inward. Nucleotides (bases) are matched between strands through hydrogen bonds to form base pairs. Adenine pairs with thymine (two hydrogen bonds), and guanine pairs with cytosine (stronger: three hydrogen bonds).
+
+DNA strands have a directionality, and the different ends of a single strand are called the "3' (three-prime) end" and the "5' (five-prime) end". By convention, if the base sequence of a single strand of DNA is given, the left end of the sequence is 5' end, while the right end of the sequence is the 3' end. The strands of the double helix are anti-parallel with one being 5' to 3', and the opposite strand 3' to 5'. These terms refer to the carbon atom in deoxyribose to which the next phosphate in the chain attaches. Directionality has consequences in DNA synthesis, because DNA polymerase can synthesize DNA in only one direction by adding nucleotides to the 3' end of a DNA strand.
+
+The pairing of complementary bases in DNA through hydrogen bonding means that the information contained within each strand is redundant. The nucleotides on a single strand can be used to reconstruct nucleotides on a newly synthesized partner strand. Alberts, B., et al., Molecular Biology of the Cell, Garland Science, 4th ed., 2002, pp. 238-240 ISBN 0-8153-3218-1 
+
+==DNA polymerase==
+
+ DNA polymerases adds nucleotides to the 3' end of a strand of DNA. Allison, Lizabeth A. Fundamental Molecular Biology. Blackwell Publishing. 2007. p.112 ISBN 978-1-4051-0379-4 If a mismatch is accidentally incorporated, the polymerase is inhibited from further extension. Proofreading removes the mismatched nucleotide and extension continues.
+
+DNA polymerases are a family of enzymes that carry out all forms of DNA replication. Chapter 27, Section 2: DNA Polymerases Require a Template and a Primer DNA polymerases in general cannot initiate synthesis of new strands, but can only extend an existing DNA or RNA strand paired with a template strand. To begin synthesis, a short fragment of RNA, called a primer, must be created and paired with the template DNA strand.
+
+DNA polymerase synthesizes a new strand of DNA by extending the 3' end of an existing nucleotide chain, adding new nucleotides matched to the template strand one at a time via the creation of phosphodiester bonds. The energy for this process of DNA polymerization comes from hydrolysis of the high-energy phosphate (phosphoanhydride) bonds between the three phosphates attached to each unincorporated base. (Free bases with their attached phosphate groups are called nucleotides; in particular, bases with three attached phosphate groups are called nucleoside triphosphates.) When a nucleotide is being added to a growing DNA strand, the formation of a phosphodiester bond between the proximal phosphate of the nucleotide to the growing chain is accompanied by hydrolysis of a high-energy phosphate bond with release of the two distal phosphates as a pyrophosphate. Enzymatic hydrolysis of the resulting pyrophosphate into inorganic phosphate consumes a second high-energy phosphate bond and renders the reaction effectively irreversible. The energetics of this process may also help explain the directionality of synthesis&mdash;if DNA were synthesized in the 3' to 5' direction, the energy for the process would come from the 5' end of the growing strand rather than from free nucleotides. The problem is that if the high energy triphosphates were on the growing strand and not on the free nucleotides, proof-reading by removing a mismatched terminal nucleotide would be problematic: Once a nucleotide is added, the triphosphate is lost and a single phosphate remains on the backbone between the new nucleotide and the rest of the strand. If the added nucleotide were mismatched, removal would result in a DNA strand terminated by a monophosphate at the end of the "growing strand" rather than a high energy triphosphate. So strand would be stuck and wouldn't be able to grow anymore. In actuality, the high energy triphosphates hydrolyzed at each step originate from the free nucleotides, not the polymerized strand, so this issue does not exist. 
+
+In general, DNA polymerases are highly accurate, with an intrinsic error rate of less than one mistake for every 107 nucleotides added. In addition, some DNA polymerases also have proofreading ability; they can remove nucleotides from the end of a growing strand in order to correct mismatched bases. Finally, post-replication mismatch repair mechanisms monitor the DNA for errors, being capable of distinguishing mismatches in the newly synthesized DNA strand from the original strand sequence. Together, these three discrimination steps enable replication fidelity of less than one mistake for every 109 nucleotides added. 
+
+The rate of DNA replication in a living cell was first measured as the rate of phage T4 DNA elongation in phage-infected E. coli. During the period of exponential DNA increase at 37 °C, the rate was 749 nucleotides per second. The mutation rate per base pair per replication during phage T4 DNA synthesis is 1.7 per 10−8. Drake JW (1970) The Molecular Basis of Mutation. Holden-Day, San Francisco ISBN 0816224501 ISBN 978-0816224500 Thus DNA replication is both impressively fast and accurate.
+
+== Replication process ==
+
+DNA Replication, like all biological polymerization processes, proceeds in three enzymatically catalyzed and coordinated steps: initiation, elongation and termination.
+
+=== Initiation ===
+For a cell to divide, it must first replicate its DNA. Chapter 5: DNA Replication Mechanisms This process is initiated at particular points in the DNA, known as "origins", which are targeted by initiator proteins. In E. coli this protein is DnaA; in yeast, this is the origin recognition complex. Sequences used by initiator proteins tend to be "AT-rich" (rich in adenine and thymine bases), because A-T base pairs have two hydrogen bonds (rather than the three formed in a C-G pair) which are easier to unzip. 12.1. General Features of Chromosomal Replication: Three Common Features of Replication Origins Once the origin has been located, these initiators recruit other proteins and form the pre-replication complex, which unzips the double-stranded DNA.
+
+===Elongation===
+All known DNA replication systems require a free 3' hydroxyl group before synthesis can be initiated (Important note: DNA is read in 3' to 5' direction whereas a new strand is synthesized in the 5' to 3' direction&mdash;this is often confused). Four distinct mechanisms for synthesis have been described. 
+#All cellular life forms and many DNA viruses, phages and plasmids use a primase to synthesize a short RNA primer with a free 3′ OH group which is subsequently elongated by a DNA polymerase. 
+#The retroelements (including retroviruses) employ a transfer RNA that primes DNA replication by providing a free 3′ OH that is used for elongation by the reverse transcriptase. 
+#In the adenoviruses and the φ29 family of bacteriophages, the 3' OH group is provided by the side chain of an amino acid of the genome attached protein (the terminal protein) to which nucleotides are added by the DNA polymerase to form a new strand. 
+#In the single stranded DNA viruses — a group that includes the circoviruses, the geminiviruses, the parvoviruses and others — and also the many phages and plasmids that use the rolling circle replication (RCR) mechanism, the RCR endonuclease creates a nick in the genome strand (single stranded viruses) or one of the DNA strands (plasmids). The 5′ end of the nicked strand is transferred to a tyrosine residue on the nuclease and the free 3′ OH group is then used by the DNA polymerase for new strand synthesis.
+
+The first is the best known of these mechanisms and is used by the cellular organisms. In this mechanism, once the two strands are separated, primase adds RNA primers to the template strands. The leading strand receives one RNA primer while the lagging strand receives several. The leading strand is continuously extended from the primer by a high processivity, replicative DNA polymerase, while the lagging strand is extended discontinuously from each primer, forming Okazaki fragments. RNase removes the primer RNA fragments, and a low processivity DNA polymerase distinct from the replicative polymerase enters to fill the gaps. When this is complete, a single nick on the leading strand and several nicks on the lagging strand can be found. Ligase works to fill these nicks in, thus completing the newly replicated DNA molecule.
+
+The primase used in this process differs significantly between bacteria and archaea/eukaryotes. Bacteria use a primase belonging to the DnaG protein superfamily which contains a catalytic domain of the TOPRIM fold type. The TOPRIM fold contains an α/β core with four conserved strands in a Rossmann-like topology. This structure is also found in the catalytic domains of topoisomerase Ia, topoisomerase II, the OLD-family nucleases and DNA repair proteins related to the RecR protein.
+
+The primase used by archaea and eukaryotes in contrast contains a highly derived version of the RNA recognition motif (RRM). This primase is structurally similar to many viral RNA dependent RNA polymerases, reverse transcriptases, cyclic nucleotide generating cyclases and DNA polymerases of the A/B/Y families that are involved in DNA replication and repair. All these proteins share a catalytic mechanism of di-metal-ion-mediated nucleotide transfer, whereby two acidic residues located at the end of the first strand and between the second and third strands of the RRM-like unit respectively, chelate two divalent cations.
+
+Multiple DNA polymerases take on different roles in the DNA replication process. In E. coli, DNA Pol III is the polymerase enzyme primarily responsible for DNA replication. It assembles into a replication complex at the replication fork that exhibits extremely high processivity, remaining intact for the entire replication cycle. In contrast, DNA Pol I is the enzyme responsible for replacing RNA primers with DNA. DNA Pol I has a 5' to 3' exonuclease activity in addition to its polymerase activity, and uses its exonuclease activity to degrade the RNA primers ahead of it as it extends the DNA strand behind it, in a process called nick translation. Pol I is much less processive than Pol III because its primary function in DNA replication is to create many short DNA regions rather than a few very long regions.
+
+In eukaryotes, the low-processivity initiating enzyme, Pol α, has intrinsic primase activity. The high-processivity extension enzymes are Pol δ and Pol ε.
+
+As DNA synthesis continues, the original DNA strands continue to unwind on each side of the bubble, forming a replication fork with two prongs. In bacteria, which have a single origin of replication on their circular chromosome, this process creates a "theta structure" (resembling the Greek letter theta: θ). In contrast, eukaryotes have longer linear chromosomes and initiate replication at multiple origins within these. 
+
+===Replication fork===
+Scheme of the replication fork.a: template, b: leading strand, c: lagging strand, d: replication fork, e: primer, f: Okazaki fragments
+Many enzymes are involved in the DNA replication fork.
+The replication fork is a structure that forms within the nucleus during DNA replication. It is created by helicases, which break the hydrogen bonds holding the two DNA strands together. The resulting structure has two branching "prongs", each one made up of a single strand of DNA. These two strands serve as the template for the leading and lagging strands, which will be created as DNA polymerase matches complementary nucleotides to the templates; the templates may be properly referred to as the leading strand template and the lagging strand template.
+
+DNA is always synthesized in the 5' to 3' direction. Since the leading and lagging strand templates are oriented in opposite directions at the replication fork, a major issue is how to achieve synthesis of nascent (new) lagging strand DNA, whose direction of synthesis is opposite to the direction of the growing replication fork.
+
+====Leading strand====
+The leading strand is the strand of nascent DNA which is being synthesized in the same direction as the growing replication fork. A polymerase "reads" the leading strand template and adds complementary nucleotides to the nascent leading strand on a continuous basis.
+
+The polymerase involved in leading strand synthesis is DNA polymerase III (DNA Pol III) in prokaryotes and presumably Pol ε in yeasts. In human cells the leading and lagging strands are synthesized by Pol ε and Pol δ, respectively, within the nucleus and Pol γ in the mitochondria. Pol ε can substitute for Pol δ in special circumstances. 
+
+====Lagging strand====
+The lagging strand is the strand of nascent DNA whose direction of synthesis is opposite to the direction of the growing replication fork. Because of its orientation, replication of the lagging strand is more complicated than that of the leading strand.
+
+The lagging strand is synthesized in short, separated segments. On the lagging strand template, a primase "reads" the template DNA and initiates synthesis of a short complementary RNA primer. A DNA polymerase extends the primed segments, forming Okazaki fragments. The RNA primers are then removed and replaced with DNA, and the fragments of DNA are joined together by DNA ligase.
+
+In eukaryotes, primase is intrinsic to Pol α. DNA polymerase III (in prokaryotes) or Pol δ/Pol ε (in eukaryotes) is/are responsible for extension of the primed segments. Primer removal in eukaryotes is also performed by Pol δ. Distinguishing the pathways of primer removal during Eukaryotic Okazaki fragment maturation Contributor Author Rossi, Marie Louise. Date Accessioned: 2009-02-23T17:05:09Z. Date Available: 2009-02-23T17:05:09Z. Date Issued: 2009-02-23T17:05:09Z. Identifier Uri: http://hdl.handle.net/1802/6537. Description: Dr. Robert A. Bambara, Faculty Advisor. Thesis (PhD) - School of Medicine and Dentistry, University of Rochester. UR only until January 2010. UR only until January 2010. In prokaryotes, primer removal is performed by DNA polymerase I, which "reads" the fragments, removes the RNA using its flap endonuclease domain (RNA primers are removed by 5'-3' exonuclease activity of polymerase I, and replaces the RNA nucleotides with DNA nucleotides.)
+
+====Dynamics at the replication fork====
+The assembled human DNA clamp, a trimer of the protein PCNA.
+As helicase unwinds DNA at the replication fork, the DNA ahead is forced to rotate. This process results in a build-up of twists in the DNA ahead. DNA Replication Mechanisms: DNA Topoisomerases Prevent DNA Tangling During Replication This build-up forms a torsional resistance that would eventually halt the progress of the replication fork. DNA gyrase is an enzyme that temporarily breaks the strands of DNA, relieving the tension caused by unwinding the two strands of the DNA helix; DNA gyrase achieves this by adding negative supercoils to the DNA helix. 
+
+Bare single-stranded DNA tends to fold back on itself forming secondary structures; these structures can interfere with the movement of DNA polymerase. To prevent this, single-strand binding proteins bind to the DNA until a second strand is synthesized, preventing secondary structure formation. DNA Replication Mechanisms: Special Proteins Help to Open Up the DNA Double Helix in Front of the Replication Fork 
+
+Clamp proteins form a sliding clamp around DNA, helping the DNA polymerase maintain contact with its template, thereby assisting with processivity. The inner face of the clamp enables DNA to be threaded through it. Once the polymerase reaches the end of the template or detects double-stranded DNA, the sliding clamp undergoes a conformational change that releases the DNA polymerase. Clamp-loading proteins are used to initially load the clamp, recognizing the junction between template and RNA primers. :274-5
+
+===DNA replication proteins===
+At the replication fork, many replication enzymes assemble on the DNA into a complex molecular machine called the replisome. The following is a list of major DNA replication enzymes that participate in the replisome: 7: DNA: Structure and Replication. pg 283-290 
+
+ Enzyme Function in DNA replication 
+ DNA Helicase Also known as helix destabilizing enzyme. Unwinds the DNA double helix at the Replication Fork. 
+ DNA Polymerase Builds a new duplex DNA strand by adding nucleotides in the 5' to 3' direction. Also performs proof-reading and error correction. 
+ DNA clamp A protein which prevents DNA polymerase III from dissociating from the DNA parent strand. 
+ Single-Strand Binding (SSB) Proteins Bind to ssDNA and prevent the DNA double helix from re-annealing after DNA helicase unwinds it, thus maintaining the strand separation. 
+ Topoisomerase Relaxes the DNA from its super-coiled nature. 
+ DNA Gyrase Relieves strain of unwinding by DNA helicase; this is a specific type of topoisomerase 
+ DNA Ligase Re-anneals the semi-conservative strands and joins Okazaki Fragments of the lagging strand. 
+ Primase Provides a starting point of RNA (or DNA) for DNA polymerase to begin synthesis of the new DNA strand. 
+ Telomerase Lengthens telomeric DNA by adding repetitive nucleotide sequences to the ends of eukaryotic chromosomes. 
+
+===Termination ===
+Eukaryotes initiate DNA replication at multiple points in the chromosome, so replication forks meet and terminate at many points in the chromosome; these are not known to be regulated in any particular way. Because eukaryotes have linear chromosomes, DNA replication is unable to reach the very end of the chromosomes, but ends at the telomere region of repetitive DNA close to the end. This shortens the telomere of the daughter DNA strand. Shortening of the telomeres is a normal process in somatic cells. As a result, cells can only divide a certain number of times before the DNA loss prevents further division. (This is known as the Hayflick limit.) Within the germ cell line, which passes DNA to the next generation, telomerase extends the repetitive sequences of the telomere region to prevent degradation. Telomerase can become mistakenly active in somatic cells, sometimes leading to cancer formation.
+
+Termination requires that the progress of the DNA replication fork must stop or be blocked. Termination at a specific locus, when it occurs, involves the interaction between two components: (1) a termination site sequence in the DNA, and (2) a protein which binds to this sequence to physically stop DNA replication. In various bacterial species, this is named the DNA replication terminus site-binding protein, or Ter protein.
+
+Because bacteria have circular chromosomes, termination of replication occurs when the two replication forks meet each other on the opposite end of the parental chromosome. E. coli regulates this process through the use of termination sequences that, when bound by the Tus protein, enable only one direction of replication fork to pass through. As a result, the replication forks are constrained to always meet within the termination region of the chromosome. 13.2.3. Termination of replication 
+
+==Regulation==
+The cell cycle of eukaryotic cells.
+
+===Eukaryotes===
+Within eukaryotes, DNA replication is controlled within the context of the cell cycle. As the cell grows and divides, it progresses through stages in the cell cycle; DNA replication occurs during the S phase (synthesis phase). The progress of the eukaryotic cell through the cycle is controlled by cell cycle checkpoints. Progression through checkpoints is controlled through complex interactions between various proteins, including cyclins and cyclin-dependent kinases. Intracellular Control of Cell-Cycle Events: S-Phase Cyclin-Cdk Complexes (S-Cdks) Initiate DNA Replication Once Per Cycle 
+
+The G1/S checkpoint (or restriction checkpoint) regulates whether eukaryotic cells enter the process of DNA replication and subsequent division. Cells that do not proceed through this checkpoint remain in the G0 stage and do not replicate their DNA.
+
+Replication of chloroplast and mitochondrial genomes occurs independently of the cell cycle, through the process of D-loop replication.
+
+===Bacteria===
+Most bacteria do not go through a well-defined cell cycle but instead continuously copy their DNA; during rapid growth, this can result in the concurrent occurrence of multiple rounds of replication. In E. coli, the best-characterized bacteria, DNA replication is regulated through several mechanisms, including: the hemimethylation and sequestering of the origin sequence, the ratio of adenosine triphosphate (ATP) to adenosine diphosphate (ADP), and the levels of protein DnaA. All these control the binding of initiator proteins to the origin sequences.
+
+Because E. coli methylates GATC DNA sequences, DNA synthesis results in hemimethylated sequences. This hemimethylated DNA is recognized by the protein SeqA, which binds and sequesters the origin sequence; in addition, DnaA (required for initiation of replication) binds less well to hemimethylated DNA. As a result, newly replicated origins are prevented from immediately initiating another round of DNA replication. 
+
+ATP builds up when the cell is in a rich medium, triggering DNA replication once the cell has reached a specific size. ATP competes with ADP to bind to DnaA, and the DnaA-ATP complex is able to initiate replication. A certain number of DnaA proteins are also required for DNA replication &mdash; each time the origin is copied, the number of binding sites for DnaA doubles, requiring the synthesis of more DnaA to enable another initiation of replication.
+
+==Polymerase chain reaction==
+
+Researchers commonly replicate DNA in vitro using the polymerase chain reaction (PCR). PCR uses a pair of primers to span a target region in template DNA, and then polymerizes partner strands in each direction from these primers using a thermostable DNA polymerase. Repeating this process through multiple cycles produces amplification of the targeted DNA region. At the start of each cycle, the mixture of template and primers is heated, separating the newly synthesized molecule and template. Then, as the mixture cools, both of these become templates for annealing of new primers, and the polymerase extends from these. As a result, the number of copies of the target region doubles each round, increasing exponentially. 
+
+==Notes==
+
+==References==
+
+ 
+
+

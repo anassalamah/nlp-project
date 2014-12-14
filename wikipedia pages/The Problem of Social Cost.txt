@@ -1,0 +1,61 @@
+[[The Problem of Social Cost]]
+
+'The Problem of Social Cost' (1960) by Ronald Coase is an article dealing with economic problem of externalities. It draws from a number of English legal cases and statutes to illustrate Coase's belief that legal rules are only justified by reference to a cost–benefit analysis, and that nuisances that are often regarded as being the fault of one party are more symmetric conflicts between the interests of the two parties. If there are sufficiently low costs of doing a transaction, legal rules would be irrelevant to the maximization of production. Because in the real world there are costs of bargaining and information gathering, legal rules are justified to the extent of their ability to allocate rights to the most efficient right-bearer. Along with an earlier article, The Nature of the Firm, this was cited as being a reason for Coase's award of the Nobel Memorial Prize in Economic Sciences in 1991. As of June 2012, The Problem of Social Cost is the most cited law review article in history. 
+
+==Summary==
+Coase argued that if we lived in a world without transaction costs, people would bargain with one another to produce the most efficient distribution of resources, regardless of the initial allocation. This is superior to allocation through litigation . Coase used the example of a nuisance case named Sturges v Bridgman, where a noisy sweetmaker and a quiet doctor were neighbours and went to court to see who should have to move. Sturges v Bridgman (1879) 11 Ch D 852 Coase said that regardless of whether the judge ruled that the sweetmaker had to stop using his machinery, or that the doctor had to put up with it, they could strike a mutually beneficial bargain about who moves that reaches the same outcome of resource distribution.
+
+However, many welfare-maximizing reallocations are often forgone because of the transaction costs involved in bargaining . For instance, the sweetmaker may have many neighbors who claim "nuisance" — some legitimate and some not, that the firm would have to sort through, and some of those neighbors who do claim nuisance may try to hold out for excessive compensation. In these cases, the transaction costs eat away, and ultimately eclipse, the price signals that would have led to the most efficient distribution of resources.
+
+In cases like these with potentially high transaction costs, the law ought to produce an outcome similar to what would result if the transaction costs were eliminated. Hence courts should be guided by the most efficient solution.
+
+The ultimate thesis is that law and regulation are not as important or effective at helping people as lawyers and government planners believe. Coase and others like him wanted a change of approach, to put the burden of proof for positive effects on a government that was intervening in the market, by analysing the costs of action .
+
+The argument forms the basis of the Coase Theorem as labeled by George Stigler.
+
+==Theoretical challenges==
+Guido Calabresi in his book The Cost of Accidents (1970) The Cost of Accidents (1970), 135–403 argues that it is still efficient to hold companies liable that produce greater wealth. See also 
+
+In the real world, where people cannot negotiate costlessly, there may be collective action problems of those who caused a nuisance, for instance by smoke emissions from a factory to many neighbouring farms, and so getting together to negotiate effectively can be difficult against a single polluter because of coordination problems. If it is efficient for the farmers to pay the factory to abate the emissions, some of those the farmers may hold off paying their fair share, hoping to get a free ride. The factory may be in a better position to know what measures to take to reduce harm, and can be the cheapest avoider, illustrating Coase's argument.
+
+==Cases and statutes==
+Coase uses three main examples in his article to attempt to illustrate his points. The first is a fictional cattle herder and a farmer, but the second is the case Sturges v Bridgman (1960) 3 JLE 1, 8-11, 20–21 and the third is the Railway (Fires) Act 1905. (1960) 3 JLE 1, 30–34 Apart from these main examples, the following cases are referred to.
+
+*Fontainebleu Hotel Corp. v. Forty-Five Twenty-Five, Inc., 114 So. 2d 357 (1959)
+*Cooke v Forbes (1867–1868) LR 5 Eq 166 (1960) 3 JLE 1, 10–11 
+*Bryant v Lefever (1878–1879) 4 CPD 172, Bramwell LJ and Cotton LJ (1960) 3 JLE 1, 11–12 
+*Bass v Gregory (1890) 25 QBD 481 (1960) 3 JLE 1, 14 
+*Attorney General v Doughty (1752) 28 ER 290 (1960) 3 JLE 1, 20 
+*Versailles Borough v. McKeesport Coal & Coke Co. (1935) 83 Pitts. Leg. J 379, 385
+*Webb v Bird (1863) 143 ER 332
+*Rushmer v Polsue and Alfieri, Ltd (1906) 1 Ch 234
+*Adams v Ursell (1913) 1 Ch 269, regarding fish and chips
+*Andreae v Selfridge and Company Ltd (1938) 1 Ch 1
+*Delta Air Corporation v. Kersey (1942) 193 Ga. 862
+*Thrasher v. City of Atlanta (1934) 178 Ga. 514
+*Georgia Railroad and Banking Co. v. Maddox (1902) 116 Ga. 64 
+*Smith v. New England Aircraft Co. (1930) 270 Mass. 511
+*Vaughan v Taff Vale Railway Co. (1858) 3 H and N 743
+*Boulston v Hardy (1597) 77 ER 216
+*Stearn v Prentice Bros Ltd (1919) 1 KB 395
+*Bland v Yates (1913–1914) 58 Sol J 612
+
+==See also==
+*Theory of the firm
+
+==Notes==
+
+==References==
+*RH Coase, 'The Problem of Social Cost' (1960) 3 Journal of Law and Economics 1–44
+*RH Coase, 'The Nature of the Firm' (1937) 16(4) Economica 386–405 
+*Sir Alfred Denning, Freedom Under the Law (1949) 71
+*E McGaughey, 'The Fairness Motive: Coase's Mistake?' (2013) SSRN Working Paper
+*AC Pigou, The Economics of Welfare (4th ed 1932)
+*AWB Simpson, '"Coase v. Pigou" Reexamined' (1996) 25(1) The Journal of Legal Studies 53
+
+==External links==
+*Nobel prize in Economics 1991 – Press release
+*His Autobiography
+*His page at the University of Chicago
+
+

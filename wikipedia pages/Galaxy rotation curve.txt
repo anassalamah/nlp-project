@@ -1,0 +1,88 @@
+[[Galaxy rotation curve]]
+
+curve of a typical spiral galaxy: predicted (A) and observed (B). The discrepancy between the curves can be accounted for by adding a dark matter component to the galaxy. "The generally accepted explanation of the mass discrepancy is the proposal that spiral galaxies consist of a visible component surrounded by a more massive and extensive dark component .." is stated in the introduction of the article: available online at the [http://adsabs.harvard.edu/cgi-bin/bib_query?1991MNRAS.249..523B Smithsonian/NASA Astrophysics Data System. Also Figure 1 of the article has numerous galactic rotation curves qualitatively similar to this one. ]]
+
+The rotation curve of a disc galaxy (also called a velocity curve) is a plot of the magnitude of the orbital velocities (i.e., the speeds) of visible stars or gas in that galaxy versus their radial distance from that galaxy's center, typically rendered graphically as a scatter plot.
+
+A general feature of the galaxy rotation curves that have been obtained through measurement to date is that the orbital speed of stars and gas is almost constant as far from the galactic centre as can be measured (line B in the illustration): that is, stars are observed to revolve around the centre of the galaxy at almost the same speed over a large range of distances from the centre of the galaxy. If disc galaxies had mass distributions similar to the observed distributions of stars and gas then the orbital speed would decline at increasing distances (dotted line A in illustration) in the same way as do other systems with most of their mass in the centre, such as the Solar System or the moons of Jupiter.
+
+The rotation curves of Spiral galaxies are also known to be asymmetric. The observational data from each side of a galaxy are generally averaged. Therefore, only highly asymmetric cases are well known. But smaller asymmetries are also reported. Shane, W. W. and Bieger-Smith, G. P., 1966, “The galactic rotation curve derived from observations of neutral hydrogen”, ``Bull. Astron. Inst. Netherlands’’, 18, 263. RC asymmetry appears to be normal rather than exceptional. Jog, C. J., 2002, “Large-scale asymmetry of rotation curves in lopsided spiral galaxies”, ``A&A’’,391,471 and references therein. 
+
+The galaxy rotation problem is the discrepancy between observed galaxy rotation curves and the theoretical prediction, assuming a centrally-dominated mass associated with the observed luminous material. When masses of galaxies are calculated solely from the luminosities and mass-to-light ratios in the disk, and if core portions of spiral galaxies are assumed to approximate to those of stars, the masses derived from the kinematics of the observed rotation and the law of gravity do not match.
+
+This discrepancy can be accounted for by postulating a large amount of dark matter that permeates the galaxy and extends into the galaxy's halo.
+
+Though dark matter is by far the most accepted explanation for the resolution to the galaxy rotation problem, other proposals have been offered with varying degrees of success. Of the possible alternatives, the most notable is Modified Newtonian Dynamics (MOND), which involves modifying the laws of gravity. For an extensive discussion of the data and its fit to MOND see This paper is a talk presented at the XIX Rencontres de Blois "Matter and energy in the Universe: from nucleosynthesis to cosmology". 
+
+==History and description of the galaxy rotation problem==
+
+In 1932 Jan Hendrik Oort became the first to report measurements that the stars in the Solar neighborhood moved faster than expected when a mass distribution based upon visible matter was assumed, but this measurement was later determined to be essentially erroneous. Kuijken K., Gilmore G., 1989a, MNRAS, 239, 651 In 1933, Fritz Zwicky postulated "missing mass" to account for the orbital velocities of galaxies in clusters. In 1939, Horace Babcock reported in his PhD thesis measurements of the rotation curve for Andromeda which suggested that the mass-to-luminosity ratio increases radially. Babcock, H, 1939, “The rotation of the Andromeda Nebula”, Lick Observatory bulletin ; no. 498 He, however, attributed it to either absorption of light within the galaxy or modified dynamics in the outer portions of the spiral and not to any form of missing matter. In 1959, Louise Volders demonstrated that spiral galaxy M33 does not spin as expected according to Keplerian dynamics. Following this, in the late 1960s and early 1970s, Vera Rubin, a young astronomer at the Department of Terrestrial Magnetism at the Carnegie Institution of Washington worked with a new sensitive spectrograph that could measure the velocity curve of edge-on spiral galaxies to a greater degree of accuracy than had ever before been achieved. Together with fellow staff-member Kent Ford, Rubin announced at a 1975 meeting of the American Astronomical Society the discovery that most stars in spiral galaxies orbit at roughly the same speed, Rubin, V. C., Thonnard, N., and Ford, W. K., Jr., 1978, ApJ 225 L107-L111, http://adsabs.harvard.edu/abs/1978ApJ...225L.107R which implied that their mass densities were uniform well beyond the location with most of the stars (the galactic bulge), a result independently found in 1978. A. Bosma, "The distribution and kinematics of neutral hydrogen in spiral galaxies of various morphological types", PhD Thesis, Rijksuniversiteit Groningen, 1978, available online at the Nasa Extragalactic Database Rubin presented her results in an influential paper in 1980. These results suggest that either Newtonian gravity does not apply universally or that, conservatively, upwards of 50% of the mass of galaxies was contained in the relatively dark galactic halo. Met with skepticism, Rubin insisted that the observations were correct.
+
+Based on Newtonian mechanics and assuming, as was originally thought, that most of the mass of the galaxy had to be in the galactic bulge near the center, matter (such as stars and gas) in the disk portion of a spiral should orbit the center of the galaxy similar to the way in which planets in the solar system orbit the sun, i.e. where the average orbital speed of an object at a specified distance away from the majority of the mass distribution would decrease inversely with the square root of the radius of the orbit (the dashed line in Fig. 1).
+
+Observations of the rotation curve of spirals, however, do not bear this out. Rather, the curves do not decrease in the expected inverse square root relationship but are "flat", i.e. outside of the central bulge the speed is nearly a constant (the solid line in Fig. 1). It is also observed that galaxies with a uniform distribution of luminous matter have a rotation curve that slopes up from the center to the edge, and most low-surface-brightness galaxies (LSB galaxies) rotate with a rotation curve that slopes up from the center, indicating little core bulge.
+
+The rotation curves can be explained if there is a substantial amount of matter permeating the galaxy that is not emitting light in the mass-to-light ratio of the central bulge. The material responsible for the extra mass was dubbed, "dark matter", the existence of which was first posited in the 1930s by Jan Oort in his measurements of the Oort constants and Fritz Zwicky in his studies of the masses of galaxy clusters, though these proposals were left unexplored until after Rubin's work was accepted as correct. The existence of non-baryonic cold dark matter (CDM) is today a major feature of the Lambda-CDM model that describes the cosmology of the universe.
+
+==Halo density profiles==
+
+In order to accommodate a flat rotation curve, a density profile for galactic environs must be different than one that is centrally concentrated. Newton's version of Kepler's Third Law states that the radial density profile ρ(r) equals
+
+:
+
+where v(r) is the radial orbital velocity profile and G is the gravitational constant. This profile closely matches the expectations of a singular isothermal sphere profile where if v(r) is approximately constant then the density to some inner "core radius" where the density leveled off to a constant. Observations did not comport with such a simple profile as reported by Navarro, Frenk, and White in a seminal 1996 paper:
+
+If more massive halos were indeed associated with faster rotating disks and so with brighter galaxies, a correlation would be expected between the luminosity of binary galaxies and the relative velocity of their components. Similarly, there should be a correlation between the velocity of a satellite galaxy relative to its primary and the rotation velocity of the primary's disk. No such correlations are apparent in existing data. 
+
+The authors then remarked, as did a few others before them, that a "gently changing logarithmic slope" for a density profile could also accommodate approximately flat rotation curves over large scales. They wrote down the famous Navarro–Frenk–White profile which is consistent both with N-body simulations and observations given by
+
+:
+
+where the central density, ρ0, and the scale radius, Rs, are parameters that vary from halo to halo. In part because the slope of the density profile diverges at the center, other alternative profiles have been proposed, for example, the Einasto profile which has exhibited as good or better agreement with certain dark matter halo simulations. 
+
+==Further investigations==
+
+The rotational dynamics of galaxies are, in fact, extremely well characterized by their position on the Tully-Fisher relation which shows that for spiral galaxies that rotational velocity is uniquely related to its total luminosity with essentially no scatter. A consistent way to predict the rotational velocity of a spiral galaxy is to measure its bolometric luminosity and then extrapolate its rotation curve from its location on the Tully-Fisher diagram. Likewise, knowing the rotational velocity of a spiral galaxy is an excellent indication of its luminosity. Thus the amplitude of the galaxy rotation curve is related to the galaxy's visible mass.
+
+While precise fitting bulge, disk, and halo density profiles is a rather complicated process, it is straightforward to model the observables of rotating galaxies through this relationship. Reliance on Indirect Evidence Fuels Dark Matter Doubts: Scientific American So, while state-of-the-art cosmological and galaxy formation simulations of dark matter with normal baryonic matter included can be matched to galaxy observations, there is not yet any straightforward explanation as to why the scaling relationship exists as observed. Additionally, detailed investigations of the rotation curves of low-surface-brightness galaxies (LSB galaxies) in the 1990s available online at the Smithsonian/NASA Astrophysics Data System and of their position on the Tully-Fisher relation available online at the Smithsonian/NASA Astrophysics Data System showed that LSB galaxies had to have dark matter haloes that are more extended and less dense than those of HSB galaxies and thus surface brightness is related to the halo properties. Such dark matter-dominated dwarf galaxies may hold the key to solving the dwarf galaxy problem of structure formation.
+
+Additionally, analysis of the centres of low surface brightness galaxies showed that the shape of the rotation curves in the centre of dark-matter dominated systems, indicated a profile that differed from the NFW spatial mass distribution profile. available online at the Smithsonian/NASA Astrophysics Data System This so-called cuspy halo problem of cold dark matter requires detailed modeling and understanding of the feedback mechanisms in the innermost regions of galaxies. de Blok, W. G. The Core Cusp Problem. "Dwarf Galaxy Cosmology" special issue of Advances in Astrophysics. 2009. . 
+
+That dark matter theory continues to be supported as an explanation for galaxy rotation curves is because the evidence for dark matter is not solely derived from these curves. It has been uniquely successful in simulating the formation of the large scale structure seen in the distribution of galaxies and in explaining the dynamics of groups and clusters of galaxies. Peter, Annika H. G. Dark Matter: A Brief Review. Proceedings of Science. 2012. Dark matter also correctly predicts the results of gravitational lensing observations, see especially the Bullet Cluster.
+
+Left: A galaxy with a rotation curve as predicted before the effects of dark matter were known. Right: A galaxy with a flat rotation curve.
+
+== Alternatives to dark matter ==
+
+There have been a number of attempts to solve the problem of galaxy rotation curves by modifying gravity without invoking dark matter.
+One of the most discussed is MOND (Modified Newtonian Dynamics), originally proposed by Mordehai Milgrom in 1983, which modifies the Newtonian force law at large scales to include extra gravitational attraction. It is not a relativistic theory, although relativistic theories which reduce to MOND have been proposed, such as tensor–vector–scalar gravity, and scalar–tensor–vector gravity (STVG), of John Moffat. 
+
+However, observations of the Bullet Cluster have shown that the gravitational potential does not match the location of the baryonic matter. abstract only 
+This was done by measuring the total mass using gravitational lensing, and the location of the gas through its X-ray emission. Because the cluster recently underwent a merger, the gas is spread across a wide area, but the gravitational mass seen by gravitational lensing is concentrated into two spheroids. Thus some form of non-luminous (ie, dark) form of matter must be present.
+
+Recent MOND theoriests include a form of dark matter based on neutrinos, in addition to extra gravitational force. The Bullet Cluster (Milgrom) Although this can be tuned to match galaxy rotation curves, the extra gravitational attraction produced by MOND tends to lead to far more galaxy clusters than is observed.
+
+==See also==
+* Vera Rubin
+* Unsolved problems in physics
+* Nonsymmetric gravitational theory
+* Dark matter
+* Long-slit spectroscopy
+
+==Footnotes==
+
+== External links ==
+*A nice animation about dark matter
+*Dark Matter Candidates for Rotation Curves
+
+== Bibliography ==
+
+* 
+*: This was the first detailed study of orbital rotation in galaxies.
+
+* 
+*: Observations of a set of spiral galaxies gave convincing evidence that orbital velocities of stars in galaxies were unexpectedly high at large distances from the nucleus. This paper was influential in convincing astronomers that most of the matter in the universe is dark, and much of it is clumped about galaxies.
+
+* Galactic Astronomy, Dmitri Mihalas and Paul McRae.W. H. Freeman 1968.
+
+

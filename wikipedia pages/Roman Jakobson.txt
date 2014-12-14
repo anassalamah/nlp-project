@@ -1,0 +1,90 @@
+[[Roman Jakobson]]
+
+Roman Osipovich Jakobson (; October 11, 1896 Kucera, Henry. 1983. "Roman Jakobson." Language: Journal of the Linguistic Society of America 59(4): 871–883. – July 18, "Roman Jakobson: A Brief Chronology", compiled by Stephen Rudy 1982) was a Russian–American linguist and literary theorist.
+
+As a pioneer of the structural analysis of language, which became the dominant trend in linguistics during the first half of the 20th century, Jakobson was among the most influential linguists of the century. Influenced by the work of Ferdinand de Saussure, Jakobson developed, with Nikolai Trubetzkoy, techniques for the analysis of sound systems in languages, inaugurating the discipline of phonology. He went on to apply the same techniques of analysis to syntax and morphology, and controversially proposed that they be extended to semantics (the study of meaning in language). He made numerous contributions to Slavic linguistics, most notably two studies of Russian case and an analysis of the categories of the Russian verb. Drawing on insights from Charles Sanders Peirce's semiotics, as well as from communication theory and cybernetics, he proposed methods for the investigation of poetry, music, the visual arts, and cinema.
+
+Through his decisive influence on Claude Lévi-Strauss and Roland Barthes, among others, Jakobson became a pivotal figure in the adaptation of structural analysis to disciplines beyond linguistics, including anthropology and literary theory; this generalization of Saussurean methods, known as "structuralism", became a major post-war intellectual movement in Europe and the United States. Meanwhile, though the influence of structuralism declined during the 1970s, Jakobson's work has continued to receive attention in linguistic anthropology, especially through the ethnography of communication developed by Dell Hymes and the semiotics of culture developed by Jakobson's former student Michael Silverstein.
+
+==Life and work==
+Jakobson was born in Russia on 11 October 1896 to a well-to-do family of Jewish descent, the industrialist Osip Jakobson and chemist Anna Volpert Jakobson, and he developed a fascination with language at a very young age. He studied at the Lazarev Institute of Oriental Languages and then at the Historical-Philological Faculty of Moscow University. Jakobson, Roman (1997). My Futurist Years, pp. 5, 30. trans. Stephen Rudy. Marsilio Publishers. ISBN 1-56886-049-8. As a student he was a leading figure of the Moscow Linguistic Circle and took part in Moscow's active world of avant-garde art and poetry. The linguistics of the time was overwhelmingly neogrammarian and insisted that the only scientific study of language was to study the history and development of words across time (the diachronic approach, in Saussure's terms). Jakobson, on the other hand, had come into contact with the work of Ferdinand de Saussure, and developed an approach focused on the way in which language's structure served its basic function (synchronic approach) – to communicate information between speakers. Jakobson was also well known for his critique of the emergence of sound in film. Jakobson received a master's degree from Moscow University in 1918. 
+
+===In Czechoslovakia===
+1920 was a year of political conflict in Russia, and Jakobson relocated to Prague as a member of the Soviet diplomatic mission to continue his doctoral studies. He immersed himself both into the academic and cultural life of pre-World War II Czechoslovakia and established close relationships with a number of Czech poets and literary figures. Jakobson received his Ph.D. from Charles University in 1930. He became a professor at Masaryk University in Brno in 1933. He also made an impression on Czech academics with his studies of Czech verse. In 1926, together with Vilém Mathesius and others he became one of the founders of the "Prague school" of linguistic theory (other members included Nikolai Trubetzkoi, René Wellek, Jan Mukařovský). There his numerous works on phonetics helped continue to develop his concerns with the structure and function of language. Jakobson's universalizing structural-functional theory of phonology, based on a markedness hierarchy of distinctive features, was the first successful solution of a plane of linguistic analysis according to the Saussurean hypotheses. (This theory achieved its most canonical exposition in a book co-authored with Morris Halle.) This mode of analysis has been since applied to the plane of Saussurean sense by his protégé Michael Silverstein in a series of foundational articles in functionalist linguistic typology.
+
+===Escapes before the war===
+Jakobson escaped from Prague in early March 1939 via Berlin for Denmark, where he was associated with the Copenhagen linguistic circle, and such intellectuals as Louis Hjelmslev. He fled to Norway on 1 September 1939. In 1940 fled to Sweden by walking across the border, where he continued his work at the Karolinska Hospital (with works on aphasia and language competence). When Swedish colleagues feared a possible German occupation, he managed to leave on a cargo ship, together with Ernst Cassirer (the former rector of Hamburg University) to New York City in 1941 to become part of the wider community of intellectual émigrés who fled there.
+
+===Career in the United States and Later Life ===
+In New York, he began teaching at The New School, still closely associated with the Czech émigré community during that period. At the École libre des hautes études, a sort of Francophone university-in-exile, he met and collaborated with Claude Lévi-Strauss, who would also become a key exponent of structuralism. He also made the acquaintance of many American linguists and anthropologists, such as Franz Boas, Benjamin Whorf, and Leonard Bloomfield. When the American authorities considered "repatriating" him to Europe, it was Franz Boas who actually saved his life. After the war, he became a consultant to the International Auxiliary Language Association, which would present Interlingua in 1951.
+
+In 1949 Jakobson moved to Harvard University, where he remained until his retirement in 1967. In his last decade he maintained an office at the Massachusetts Institute of Technology, where he was an honorary Professor Emeritus. In the early 1960s Jakobson shifted his emphasis to a more comprehensive view of language and began writing about communication sciences as a whole. He converted to Orthodox Christianity in 1975. 
+
+Jakobson died in Cambridge, Massachusetts on 18 July 1982. 
+
+==The communication functions==
+
+Influenced by the Organon-Model by Karl Bühler, Jakobson distinguishes six communication functions, each associated with a dimension or factor of the communication process – Elements from Bühler's theory appear in the diagram below in yellow and pink, Jakobson's elaborations in blue:
+*Functions
+#referential (: contextual information)
+#aesthetic/poetic (: auto-reflection)
+#emotive (: self-expression)
+#conative (: vocative or imperative addressing of receiver)
+#phatic (: checking channel working)
+#metalingual (: checking code working) 
+
+ Middleton, Richard (1990/2002). Studying Popular Music, p.241. Philadelphia: Open University Press. ISBN 0-335-15275-9. 
+
+One of the six functions is always the dominant function in a text and usually related to the type of text. In poetry, the dominant function is the poetic function: the focus is on the message itself. The true hallmark of poetry is according to Jakobson "the projection of the principle of equivalence from the axis of selection to the axis of combination". Very broadly speaking, it implies that poetry successfully combines and integrates form and function, that poetry turns the poetry of grammar into the grammar of poetry, so to speak. A famous example of this principle is the political slogan "I like Ike." Jakobson's theory of communicative functions was first published in "Closing Statements: Linguistics and Poetics" (in Thomas A. Sebeok, Style In Language, Cambridge Massachusetts, MIT Press, 1960, pp. 350–377).
+
+==Legacy==
+Jakobson's three principal ideas in linguistics play a major role in the field to this day: linguistic typology, markedness, and linguistic universals. The three concepts are tightly intertwined: typology is the classification of languages in terms of shared grammatical features (as opposed to shared origin), markedness is (very roughly) a study of how certain forms of grammatical organization are more "natural" than others, and linguistic universals is the study of the general features of languages in the world. He also influenced Nicolas Ruwet's paradigmatic analysis. 
+
+Jakobson has also influenced Friedemann Schulz von Thun's four sides model, as well as Michael Silverstein's metapragmatics, Dell Hymes's ethnography of communication and ethnopoetics, the psychoanalysis of Jacques Lacan, and philosophy of Giorgio Agamben.
+
+==Bibliography==
+* Jakobson R., Remarques sur l'evolution phonologique du russe comparée à celle des autres langues slaves. Prague, 1929
+* Jakobson R., K charakteristike evrazijskogo jazykovogo sojuza. Prague, 1930
+* Jakobson R., Child Language, Aphasia and Phonological Universals, 1941
+* Jakobson R., On Linguistic Aspects of Translation, essay, 1959
+* Jakobson R., "Closing Statement: Linguistics and Poetics," in Style in Language (ed. Thomas Sebeok), 1960
+* Jakobson R., Selected Writings (ed. Stephen Rudy). The Hague, Paris, Mouton, in six volumes (1971–1985):
+** I. Phonological Studies, 1962 
+** II. Word and Language, 1971 
+** III. The Poetry of Grammar and the Grammar of Poetry, 1980 
+** IV. Slavic Epic Studies, 1966 
+** V. On Verse, Its Masters and Explores, 1978 
+** VI. Early Slavic Paths and Crossroads, 1985
+* Jakobson R., Questions de poetique, 1973
+* Jakobson R., Six Lectures of Sound and Meaning, 1978
+* Jakobson R., The Framework of Language, 1980
+* Jakobson R., Halle M., Fundamentals of Language, 1956
+* Jakobson R., Waugh L., The Sound Shape of Language, 1979
+* Jakobson R., Pomorska K., Dialogues, 1983
+* Jakobson R., Verbal Art, Verbal Sign, Verbal Time (ed. Krystyna Pomorska and Stephen Rudy), 1985
+* Jakobson R. "Shifters and Verbal Categories." On Language. (ed. Linda R. Waugh and Monique Monville-Burston). 1990. 386-392.
+
+== Notes ==
+
+==References==
+* Esterhill, Frank (2000). Interlingua Institute: A History. New York: Interlingua Institute.
+* MIT "Guide to the Papers of Roman Jakobson"
+
+==Further reading==
+* Roman Jakobson: Echoes of His Scholarship. Ed. by Daniel Armstrong and Cornelis H. van Schooneveld, 1977
+* Brooke-Rose, C., A Structural Analysis of Pound's 'Usura Canto': Jakobson's Method Extended and Applied to Free Verse,1976
+* Caton, Steve C., "Contributions of Roman Jakobson" Annual Review of Anthropology, vol 16: pp. 223–260, 1987.
+* Culler, J., Structuralist Poetics: Structuralism, Linguistics, and the Study of Literature, 1975
+* Groupe µ, Rhétorique générale, 1970. General Rhetoric, 1981
+* Holenstein, E., Roman Jakobson's Approach to Language: Phenomenological Structuralism, Bloomington and London: Indiana University Press, 1975
+* Ihwe, J., Literaturwissenschaft und Linguistik. Ergebnisse und Perspektiven, 1971
+* Kerbrat-Orecchioni, C., L'Enonciation: De la subjectivité dans le langage, 1980
+* Koch, W. A., Poetry and Science, 1983
+* Le Guern, M., Sémantique de la metaphore et de la métonymie, 1973
+* Lodge, D., The Modes of Modern Writing: Metaphor, Metonymy, and the Typology of Modern Literature, 1977
+* Riffaterre, M., Semiotics of Poetry, 1978
+* Steiner, P., Russian Formalism: A Metapoetics, 1984
+* Todorov, T., Poétique de la prose,1971
+* Waugh, L., Roman Jakobson's Science of Language, 1976
+
+

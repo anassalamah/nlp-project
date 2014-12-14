@@ -1,0 +1,110 @@
+[[Gorgias (dialogue)]]
+
+Gorgias (; ) is a Socratic dialogue written by Plato around 380 BC. In this dialogue, Socrates seeks the true definition of rhetoric, attempting to pinpoint the essence of rhetoric and unveil the flaws of the sophistic oratory popular in Athens at this time. The art of persuasion was widely considered necessary for political and legal advantage in classical Athens, and rhetoricians promoted themselves as teachers of this fundamental skill. Some, like Gorgias, were foreigners attracted to Athens because of its reputation for intellectual and cultural sophistication. In the Gorgias, Socrates argues that philosophy is an art, whereas rhetoric is merely a knack. To Socrates, most rhetoric in practice is merely flattery. In order to use rhetoric for good, rhetoric cannot exist alone; it must depend on philosophy to guide its morality. Socrates, therefore, believes that morality is not inherent in rhetoric and that without philosophy, rhetoric is simply used to persuade for personal gain. Socrates suggests that he is one of the few (but not only) Athenians to practice true politics (521d).
+
+==The characters==
+*Socrates, the philosopher
+*Chaerephon, a friend of Socrates
+*Gorgias, the rhetorician
+*Polus, a student of Gorgias
+*Callicles, an older rhetorician
+
+==Major themes==
+===Definition of rhetoric===
+Socrates interrogates Gorgias in order to determine the true definition of rhetoric, framing his argument around the question format, "What is X?" (2). Doyle, James. "Socrates and Gorgias." Phronesis 55 (2010): 1-25. Academic Search Premier. Web. 27 Apr. 2011. He asks, "…why don’t you tell us yourself what the craft you’re an expert in is, and hence what we’re supposed to call you?" (449e). 
+
+Throughout the remainder of the dialogue, Socrates debates about the nature of rhetoric. Socrates believes there are two types: "…one part of it would be flattery, I suppose, and shameful public harangue, while the other—that of getting the souls of the citizens to be as good as possible and of striving valiantly to say what is best, whether the audience will find it more pleasant or more unpleasant—is something admirable. But you’ve never seen this type of oratory…" (502e). Although rhetoric has the potential to be used justly, Socrates believes that in practice, rhetoric is flattery; the rhetorician makes the audience feel worthy because they can identify with the rhetorician’s argument.
+
+===The question of techne: art vs. knack===
+Socrates and Polus debate whether rhetoric can be considered an art. Polus states that rhetoric is indeed a craft, but Socrates replies, "To tell you the truth, Polus, I don't think it's a craft at all" (462b). The dialogue continues:
+
+"POLUS: So you think oratory's a knack?
+
+SOCRATES: Yes, I do, unless you say it's something else.
+
+POLUS: A knack for what?
+
+SOCRATES: For producing a certain gratification and pleasure" (462c).
+
+Socrates continues to argue that rhetoric is not an art, but merely a knack: "…it guesses at what's pleasant with no consideration for what's best. And I say that it isn't a craft, but a knack, because it has no account of the nature of whatever things it applies by which it applies them, so that it’s unable to state the cause of each thing" (465a).
+
+===The morality of rhetoric===
+Socrates discusses the morality of rhetoric with Gorgias, asking him if rhetoric was just. Socrates catches the incongruity in Gorgias statements: "well, at the time you said that, I took it that oratory would never be an unjust thing, since it always makes its speeches about justice. But when a little later you were saying that the orator could also use oratory unjustly, I was surprised and thought that your statements weren't consistent" (461a). To this argument, Gorgias "…is left wishing he could respond, knowing he cannot, and feeling frustrated and competitive. The effect of the 'proof' is not to persuade, but to disorient him". White, James B. "The Ethics of Argument: Plato's Gorgias and the Modern Lawyer." The University of Chicago Law Review 50.2 (1983): 849-95, at 865. JSTOR. Web. 27 Apr. 2011. 
+
+Socrates believes that rhetoric alone is not a moral endeavor. Gorgias is criticized because, "he would teach anyone who came to him wanting to learn oratory but without expertise in what's just…" (482d). Socrates believes that people need philosophy to teach them what is right, and that oratory cannot be righteous without philosophy.
+
+===Truth===
+Socrates continually claims that his methods of questioning are aimed at discovering the truth. He sarcastically compliments Callicles on his frankness because it helps expose the truth about oratory: "I well know that if you concur with what my soul believes, then that is the very truth. I realize that the person who intends to put a soul to an adequate test to see whether it lives rightly or not must have three qualities, all of which you have: knowledge, goodwill, and frankness" (487a). Truth can be found through deliberation with others, relaying to one another the knowledge in ones' soul in order to come to a conclusion about each other's beliefs. 
+
+At the same time, truth is not based upon commonly accepted beliefs. Socrates outlines a problem about truth when it is misaligned from public opinion: "you don't compel me; instead you produce many false witnesses against me and try to banish me from my property, the truth. For my part, if I don't produce you as a single witness to agree with what I'm saying, then I suppose I've achieved nothing worth mentioning concerning the things we’ve been discussing" (472c).
+
+==Summary==
+===Introduction===
+The dialogue begins just after Gorgias has given a speech. Callicles says that Gorgias is a guest in his home, and has agreed to a private audience with Socrates and his friend Chaerephon. Socrates gets Gorgias to agree to his cross-examination style of conversation, asks him questions, and praises him for the brevity of his replies. Gorgias remarks that no one has asked him a new question in a long time, and when Socrates asks, assures him that he is just as capable of brevity as of long-windedness (449c).
+
+===Physical and intellectual combat compared===
+Gorgias admits under Socrates' cross-examination that while rhetoricians give people the power of words, they are not instructors of morality. Gorgias does not deny that his students might use their skills for immoral purposes (such as persuading the assembly to make an unwise decision, or to let a guilty man go free), but he says the teacher cannot be held responsible for this. He makes an argument from analogy: Gorgias says that if a man who went to wrestling school took to thrashing his parents or friends, you would not send his drill instructor into exile (456d-457c). He says that just as the trainer teaches his craft (techne) in good faith, and hopes that his student will use his physical powers wisely, the rhetorician has the same trust, that his students will not abuse their power. 
+
+Socrates says that he is one of those people who is actually happy to be refuted if he is wrong. He says that he would rather be refuted than to refute someone else because it is better to be delivered from harm oneself than to deliver someone else from harm. Gorgias, whose profession is persuasion, readily agrees that he is also this sort of man, who would rather be refuted than refute another. Gorgias has only one misgiving: he fears that the present company may have something better to do than listen to two men try to outdo each other in being wrong (458b-c). The company protests and proclaim that they are anxious to witness this new version of intellectual combat.
+
+===The debate about rhetoric===
+Socrates gets Gorgias to agree that the rhetorician is actually more convincing in front of an ignorant audience than an expert, because mastery of the tools of persuasion gives a man more conviction than mere facts. Gorgias accepts this criticism and asserts that it is an advantage of his profession that a man can be considered above specialists without having to learn anything of substance (459c). Socrates calls rhetoric a form of flattery, or pandering, and compares it to pastry baking and beautification (cosmetics). He says that rhetoric is to politics what pastry baking is to medicine, and what cosmetics are to gymnastics. All of these activities are aimed at surface adornment, an impersonation of what is really good (464c-465d).
+
+Some have argued that Gorgias may have been uncharacteristically portrayed by Plato, because "…Plato's Gorgias agrees to the binary opposition knowledge vs. opinion" (82). McComiskey, Bruce. "Disassembling Plato's Critique of Rhetoric in the Gorgias." Rhetoric Review 11.1 (1992): 79-90. JSTOR. Web. 27 Apr. 2011. This is inaccurate because, "for Gorgias the sophist, all 'knowledge' is opinion. There can be no rational or irrational arguments because all human beliefs and communicative situations are relative to a kairotic moment" (83). 
+
+===The pitiful tyrant===
+Socrates then advances that "orators and tyrants have the very least power of any in our cities" (466d). Lumping tyrants and rhetoricians into a single category, Socrates says that both of them, when they kill people or banish them or confiscate their property, think they are doing what is in their own best interest, but are actually pitiable. Socrates maintains that the wicked man is unhappy, but that the unhappiest man of all is the wicked one who does not meet with justice, rebuke, and punishment (472e). Polus, who has stepped into the conversation at this point, laughs at Socrates. Socrates asks him if he thinks laughing is a legitimate form of refutation (473e). Polus then asks Socrates if putting forth views that no one would accept is not a refutation in itself. Socrates replies that if Polus cannot see how to refute him, he will show Polus how.
+
+Socrates states that it is far worse to inflict evil than to be the innocent victim of it (475e). He gives the example of tyrants being the most wretched people on earth. He adds that poverty is to financial condition as disease is to the body as injustice is to the soul (477b-c). This analogy is used to define the states of corruption in each instance. Money-making, medicine, and justice are the respective cures (478a,b). Socrates argues that just penalties discipline people, make them more just, and cure them of their evil ways (478d). Wrongdoing is second among evils, but wrongdoing and getting away with it is the first and greatest of evils (479d). It follows from this, that if a man does not want to have a festering and incurable tumor growing in his soul, he needs to hurry himself to a judge upon realizing that he has done something wrong. Socrates posits that the rhetorician should accuse himself first, and then do his family and friends the favor of accusing them, so great is the curative power of justice (480c-e).
+
+Socrates maintains that if your enemy has done something awful, you should contrive every means to see that he does not come before the judicial system. "...supposing it is our duty to injure somebody, whether an enemy or anyone else—provided only that it is not against oneself that wrong has been done by such enemy, for this we must take care to avoid—but supposing our enemy has wronged some one else, we must make every exertion of act and word to prevent him from being punished or coming to trial" (480e–481a). Because you want his soul to rot and fester, you should make sure he keeps and squanders his ill-gotten gains, and lives as long as possible in his wicked state. Polus and Callicles are both astounded at Socrates' position and wonder if he is just kidding (481b).
+
+===Callicles criticizes philosophy===
+Callicles observes that if Socrates is correct, people have life upside down, and are everywhere doing the opposite of what they should be doing. Socrates says he is in love with Alcibiades and philosophy, and cannot stop his beloveds from saying what is on their minds. While the statements of certain people often differ from one time to the next, Socrates claims that what philosophy says always stays the same (482b).
+
+Callicles accuses Socrates of carrying on like a demagogue. He argues that suffering wrong is worse than doing it, that there is nothing good about being a victim. He further argues (as Glaucon does in the Gyges story in the Republic) that wrongdoing is only by convention shameful, and it is not wrong by nature. Then, he berates Socrates for wasting time in frivolous philosophy, saying there is no harm in young people engaging in useless banter, but that it is unattractive in older men. He tells Socrates that he is disgraceful, and that if anyone should seize him and carry him off to prison, he would be helpless to defend himself, saying that Socrates would reel and gape in front of a jury, and end up being put to death (486a,b). Socrates is not offended by this, and tells Callicles that his extraordinary frankness proves that he is well-disposed towards him (487d).
+
+Callicles then returns to his defense of nature's own justice, where the strong exercise their advantages over the weak. He states that the natural man has large appetites and the means to satisfy them, and that only a weakling praises temperance and justice based on artificial law not natural. (483b, 492a-c).
+
+Socrates calls Callicles a "desired touchstone" (486) and counters that not only "nomos" (custom or law) but also nature affirms that to do injustice is more disgraceful than to suffer it, that equality is justice (489a-b), and that a man such as Callicles' ideal is like a leaky jar, insatiable and unhappy (494a). Socrates returns to his previous position, that an undisciplined man is unhappy and should be restrained and subjected to justice (505b).
+
+===Socrates debates with himself===
+Callicles becomes exasperated at the intellectual stalemate, and invites Socrates to carry on by himself, asking and answering his own questions (505d). He requests that his audience, including Callicles, listen to what he says and kindly break in on him if he says something that sounds false. If his opponent (whom he will be speaking for himself) makes a point, he agrees to concede to it (506a-c). Socrates proceeds with a monologue, and reiterates that he was not kidding about the best use of rhetoric, that it is best used against one's own self. A man who has done something wrong is wretched, but a man who gets away with it is even worse off (509b).
+
+===Philosophy is a bitter draught===
+Socrates argues that he aims at what is best, not at what is pleasant, and that he alone understands the technique of politics. He says that he enjoins people to take the bitter draughts, and compels them to hunger and thirst, while most politicians flatter the people with sweetmeats. He also says that "the body is our tomb of soul" (493a) citing the words of Euripides, "who knows if life be not death and death life". (492e) He says of his trial that, "I shall be judged like a doctor brought before a jury of children with a cook as prosecutor" (521e). He says that such a pandering prosecutor will no doubt succeed in getting him sentenced to death, and he will be helpless to stop it. Socrates says that all that matters is his own purity of soul; he has maintained this, and it is the only thing that is really within his power (522d).
+
+===The Judgment of Naked Souls===
+Socrates ends the dialogue by telling Callicles, Polus, and Gorgias a story that they will regard as a myth, but which he regards as true (523a). He recounts that in the old days, Cronos judged men just before they died, and divided them into two categories. He sent good and righteous men to the Isles of the Blessed, and godless, unrighteous men to the prison of vengeance and punishment called Tartarus. These cases were judged badly because the men were judged while they were alive and with their clothes on, and the judges were fooled by appearances. Zeus fixed the problem by arranging for people to be dead, and stripped naked of body and made his sons judges, Minos and Rhadamanthus from Europa and Aeacus from Aegina. (523d-524a) The judges had to be naked too, so he could scan the souls of men without distractions.
+
+Socrates adds that he has heard this myth, believes it, and infers from it that death is the separation of body and soul. He says that each retains after death the qualities it had in life, so that a fat, long-haired man will have a fat, long-haired corpse. If he was a scoundrel, he will bear the scars of his beatings. When the judge lays hold of some potentate, he will find that his soul bears the scars of his perjuries and crimes, because these will be branded on his soul (524b-525a).
+
+Socrates remarks that some people are benefited by the pain and agony of their own punishments (525b) and by watching others suffer excruciating torture; but others have misdeeds that cannot be cured. He says that Odysseus by Homer pictures kings suffering eternally in Hades, but not the ordinary scoundrel, like Thersites. Socrates tells Callicles that this might sound like nonsense to him, like an old folk tale, but warns him that when he is up before the judge on his own judgment day, he will reel and gape just like Socrates is currently doing. He finishes up by saying his ideas could be justly despised if anyone could come up with a better idea, but unfortunately, no one has.
+
+==Translations==
+* 
+* 
+* Walter Rangeley Maitland Lamb, 1927: 
+* A revised text with introduction and commentary by Professor E.R. Dodds - Oxford University Press, London, 1959.
+* Translation and introduction by Robin Waterfield - Oxford University Press, London, 1994
+* 
+
+==Notes==
+* Plato, Gorgias, : "So that, in Epicharmus's phrase, 'what two men spake erewhile' I may prove I can manage single-handed". 
+
+==Citations==
+ 
+
+==Sources==
+* Seth Benardete, The Rhetoric of Morality and Philosophy: Plato's Gorgias and Phaedrus (Chicago: University of Chicago Press, 1991).
+* Michael Vickers, "Alcibiades and Critias in the Gorgias: Plato's 'fine satire'," Dialogues d'Histoire Ancienne, 20,2 (1994), 85–112.
+* Harold Tarrant, "The Gorgias and the Demiurge," in Idem, From the Old Academy to Later Neo-Platonism: Studies in the History of Platonic Thought (Aldershot, Ashgate, 2010), (Variorum Collected Studies Series: CS964).
+* Christina H. Tarnopolsky, Prudes, Perverts, and Tyrants: Plato's Gorgias and the Politics of Shame (Princeton, PUP, 2010).
+
+== External links ==
+
+* Approaching Plato: A Guide to the Early and Middle Dialogues
+* Full text of Plato's Gorgias (Translated by Benjamin Jowett) - The Internet Classics Archive
+* Full text of Plato's Gorgias at Project Gutenberg
+
+

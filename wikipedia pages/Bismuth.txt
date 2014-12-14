@@ -1,0 +1,81 @@
+[[Bismuth]]
+
+Bismuth is a chemical element with symbol Bi and atomic number 83. Bismuth, a pentavalent other metal, chemically resembles arsenic and antimony. Elemental bismuth may occur naturally, although its sulfide and oxide form important commercial ores. The free element is 86% as dense as lead. It is a brittle metal with a silvery white color when freshly produced, but is often seen in air with a pink tinge owing to surface oxidation. Bismuth is the most naturally diamagnetic element and has one of the lowest values of thermal conductivity among metals.
+
+Bismuth metal has been known from ancient times, although until the 18th century it was often confused with lead and tin, which share some physical properties. The etymology is uncertain, but possibly comes from Arabic bi ismid, meaning having the properties of antimony Bismuth. WebMineral. Retrieved on 17 December 2011. or German words weisse masse or wismuth ("white mass"), translated in the mid-sixteenth century to New Latin bisemutum. 
+
+Bismuth has long been considered as the element with the highest atomic mass that is stable. However, in 2003 it was discovered to be slightly radioactive: its only primordial isotope, bismuth-209, decays with a half life more than a billion times the estimated age of the universe. 
+
+Bismuth compounds account for about half the production of bismuth. They are used in cosmetics, pigments, and a few pharmaceuticals, notably Pepto-Bismol. Bismuth's unusual propensity to expand upon freezing is responsible for some of its uses, such as in casting of printing type. Bismuth has unusually low toxicity for a heavy metal. As the toxicity of lead has become more apparent in recent years, there is an increasing use of bismuth alloys (presently about a third of bismuth production) as a replacement for lead.
+
+== History ==
+
+Alchemical symbol used by Torbern Bergman, 1775
+
+The name bismuth is from ca. 1660s, and is of uncertain etymology. It is one of the first 10 metals to have been discovered. Bismuth appears in the 1660s, from obsolete German , , (early 16th century); perhaps related to Old High German ("white"). The New Latin (due to Georgius Agricola, who Latinized many German mining and technical words) is from the German , perhaps from , "white mass." The element was confused in early times with tin and lead because of its resemblance to those elements. Bismuth has been known since ancient times, so no one person is credited with its discovery. Agricola, in De Natura Fossilium (ca. 1546) states that bismuth is a distinct metal in a family of metals including tin and lead. This was based on observation of the metals and their physical properties. Miners in the age of alchemy also gave bismuth the name , or "silver being made," in the sense of silver still in the process of being formed within the Earth. Giunta, Carmen J. Glossary of Archaic Chemical Terms, Le Moyne College. See also for other terms for bismuth, including stannum glaciale (glacial tin or ice-tin). 
+
+Beginning with Johann Heinrich Pott in 1738, Carl Wilhelm Scheele and Torbern Olof Bergman, the distinctness of lead and bismuth became clear, and Claude François Geoffroy demonstrated in 1753 that this metal is distinct from lead and tin. 
+
+Bismuth was also known to the Incas and used (along with the usual copper and tin) in a special bronze alloy for knives. 
+
+== Characteristics ==
+
+Bismuth crystal illustrating the many iridescent refraction hues of its oxide surface
+
+Artificially grown bismuth crystal illustrating the stairstep crystal structure, with a 1 cm³ cube of bismuth metal
+
+=== Physical characteristics ===
+
+Bismuth is a brittle metal with a white, silver-pink hue, often occurring in its native form, with an iridescent oxide tarnish showing many colors from yellow to blue. The spiral, stair-stepped structure of bismuth crystals is the result of a higher growth rate around the outside edges than on the inside edges. The variations in the thickness of the oxide layer that forms on the surface of the crystal causes different wavelengths of light to interfere upon reflection, thus displaying a rainbow of colors. When burned in oxygen, bismuth burns with a blue flame and its oxide forms yellow fumes. Its toxicity is much lower than that of its neighbors in the periodic table, such as lead, antimony, and polonium.
+
+No other metal is verified to be more naturally diamagnetic than bismuth. Krüger, p. 171. (Superdiamagnetism is a different physical phenomenon.) Of any metal, it has one of the lowest values of thermal conductivity (after manganese, and maybe neptunium and plutonium) and the highest Hall coefficient. It has a high electrical resistance. When deposited in sufficiently thin layers on a substrate, bismuth is a semiconductor, rather than an other metal. 
+
+Elemental bismuth is denser in the liquid phase than the solid, a characteristic it shares with antimony, germanium, silicon and gallium. Wiberg, p. 768. Bismuth expands 3.32% on solidification; therefore, it was long a component of low-melting typesetting alloys, where it compensated for the contraction of the other alloying components, to form almost isostatic bismuth-lead eutectic alloys.
+
+Though virtually unseen in nature, high-purity bismuth can form distinctive, colorful hopper crystals. It is relatively nontoxic and has a low melting point just above 271 °C, so crystals may be grown using a household stove, although the resulting crystals will tend to be lower quality than lab-grown crystals. 
+
+At ambient conditions shares the same layered structure as the metallic forms of arsenic and antimony, Wiberg, p. 767. crystallizing in the rhombohedral lattice Krüger, p. 172. (Pearson symbol hR6, space group Rm No. 166), which is often classed into trigonal or hexagonal crystal systems. When compressed at room temperature, this Bi-I structure changes first to the monoclinic Bi-II at 2.55 GPa, then to the tetragonal Bi-III at 2.7 GPa, and finally to the body-centered cubic Bi-IV at 7.7 GPa. The corresponding transitions can be monitored via changes in electrical conductivity; they are rather reproducible and abrupt, and are therefore used for calibration of high-pressure equipment. 
+
+=== Chemical characteristics ===
+
+Bismuth is stable to both dry and moist air at ordinary temperatures. When red-hot, it reacts with water to make bismuth(III) oxide. 
+
+: 2 Bi + 3 H2O → Bi2O3 + 3 H2
+
+It reacts with fluorine to make bismuth(V) fluoride at 500 °C or bismuth(III) fluoride at lower temperatures (typically from Bi melts); with other halogens it yields only bismuth(III) halides. Wiberg, pp. 769–770. Greenwood, pp. 559–561. The trihalides are corrosive and easily react with moisture, forming oxyhalides with the formula BiOX. Suzuki, p. 9. 
+
+: 2 Bi + 3 X2 → 2 BiX3 (X = F, Cl, Br, I)
+
+Bismuth dissolves in concentrated sulfuric acid to make bismuth(III) sulfate and sulfur dioxide. Suzuki, p. 8. 
+
+: 6 H2SO4 + 2 Bi → 6 H2O + Bi2(SO4)3 + 3 SO2
+
+It reacts with nitric acid to make bismuth(III) nitrate.
+
+: Bi + 6 HNO3 → 3 H2O + 3 NO2 + Bi(NO3)3
+
+It also dissolves in hydrochloric acid, but only with oxygen present. 
+
+: 4 Bi + 3 O2 + 12 HCl → 4 BiCl3 + 6 H2O
+
+It is used as a transmetalating agent in the synthesis of alkaline-earth metal complexes:
+
+: 3 Ba + 2 BiPh3 → 3 BaPh2 + 2 Bi
+
+=== Isotopes ===
+
+The only primordial isotope of bismuth, bismuth-209, was traditionally regarded as the heaviest stable isotope, but it had long been suspected to be unstable on theoretical grounds. This was finally demonstrated in 2003, when researchers at the Institut d'Astrophysique Spatiale in Orsay, France, measured the alpha emission half-life of to be , over a billion times longer than the current estimated age of the universe. Owing to its extraordinarily long half-life, for all presently known medical and industrial applications, bismuth can be treated as if it is stable and nonradioactive. The radioactivity is of academic interest because bismuth is one of few elements whose radioactivity was suspected and theoretically predicted, before being detected in the laboratory. Bismuth has the longest known alpha decay half-life, although tellurium-128 has a double beta decay half-life of over . 
+
+Several isotopes of bismuth with short half-lives occur within the radioactive disintegration chains of actinium, radium, and thorium, and more have been synthesized experimentally. Bismuth-213 is also found on the decay chain of uranium-233. 
+
+Commercially, the radioactive isotope bismuth-213 can be produced by bombarding radium with bremsstrahlung photons from a linear particle accelerator. In 1997, an antibody conjugate with bismuth-213, which has a 45-minute half-life and decays with the emission of an alpha particle, was used to treat patients with leukemia. This isotope has also been tried in cancer treatment, for example, in the targeted alpha therapy (TAT) program. 
+
+== Chemical compounds ==
+
+Bismuth forms trivalent and pentavalent compounds, the trivalent ones being more common. Many of its chemical properties are similar to those of arsenic and antimony, although they are less toxic than derivatives of those lighter elements.
+
+=== Oxides and sulfides ===
+
+At elevated temperatures, the vapors of the metal combine rapidly with oxygen, forming the yellow trioxide, oxide|]. Wiberg, p. 768. Greenwood, p. 553. When molten, at temperatures above 710 °C, this oxide corrodes any metal oxide, and even platinum. Krüger, p. 185 On reaction with base, it forms two series of oxyanions: , which is polymeric and forms linear chains, and . The anion in is actually a cubic octameric anion, , whereas the anion in is tetrameric. 
+
+The dark red bismuth(V) oxide, , is unstable, liberating

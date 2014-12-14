@@ -1,0 +1,89 @@
+[[Quinine total synthesis]]
+
+quinine carbon atom numbering scheme left and asymmetric centers right
+In total synthesis, the Quinine total synthesis describes the efforts in synthesis of quinine over a 150 year period. The development of synthetic quinine is considered a milestone in organic chemistry although it has never been produced industrially as a substitute for natural occurring quinine. The subject has also been attended with some controversy: in 2001 Gilbert Stork published the first stereoselective quinine synthesis and he shed doubt (calling it a myth) on the earlier claim in 1944 by Bob Woodward and William Doering on account that they had obtained not quinine but a precursor molecule. In 2001, an editorial in Chemical & Engineering News supported Storks claim but according to a critical 30 page review in this matter published in 2007 in Angewandte Chemie the Woodward/Doering claim is valid.
+
+==Chemical structure==
+
+The aromatic component of the quinine molecule is a quinoline with a methoxy substituent. The amine component has a quinuclidine skeleton and the methylene bridge in between the two components has a hydroxyl group. The substituent at the carbon-3 position is a vinyl group. The molecule is optically active with five stereogenic centers (the
+N1 and C4 constituting a single asymmetric unit), making synthesis potentially difficult because it is one of 16 stereoisomers.
+
+==Quinine total synthesis timeline==
+* 1817: First isolation of quinine from cinchona tree by Pierre Joseph Pelletier and Joseph Caventou
+* 1853: Louis Pasteur obtains quinotoxine (or quinicine in older literature) by acid-catalysed isomerization of quinine Pasteur, L. Compt. rend. 1853, 37, 110. 
+:Quinine degradation by Pasteur
+* 1856: William Henry Perkin attempts quinine synthesis by oxidation of N-allyl toluidine based on the erroneous idea that 2 equivalents of this compound with chemical formula C10H13N plus three equivalents of oxygen yield one equivalent of C20H24N2O2 (quinine's chemical formula) and one equivalent of water Perkin, W. H. J. Chem. Soc. 1896, 69, 596 His oxidations with other toluidines sets him on the path of mauveine which eventually leads to the birth of chemical industry.
+:Attempt at quinine by William Perkin
+* 1907: the correct atom connectivity established by Paul Rabe Rabe, P.; Ackerman, E.; Schneider, W. Ber. 1907, 40, 3655 
+* 1918: Paul Rabe and Karl Kindler synthesize quinine from quinotoxine, Rabe, P.; Kindler, K. Chem. Ber. 1918, 51, 466 reversing the Pasteur chemistry. The lack of experimental details in this publication would become a major issue in the Stork/Woodward controversy almost a century later.
+:Quinine synthesis by Rabe & Kindler
+:The first step in this sequence is sodium hypobromite addition to quinotoxine to an N-bromo intermediate possibly with structure 2. The second step is organic oxidation with sodium ethoxide in ethanol. Because of the basic conditions the initial product quininone interconverts with quinidinone via a common enol intermediate and mutarotation is observed. In the third step the ketone group is reduced with aluminum powder and sodium ethoxide in ethanol and quinine can be identified. Quinotoxine is the first relay molecule in the Woodward/Doering claim.
+:Final step in Rabe Kindler synthesis: reduction
+* 1939: Rabe and Kindler re investigate a sample left over from their 1918 experiments and identify and isolate quinine (again) together with diastereomers quinidine, epi-quinine and epi-quinidine P. Rabe, K. Kindler, Ber. Dtsch. Chem. Ges. B 1939, 72, 263–264. 
+* 1940: Robert Burns Woodward signs on as a consultant for the Polaroid Corporation at the request of Edwin H. Land. Quinine is of interest to Polaroid for its light polarizing properties.
+* 1943: Prelog and Proštenik interconvert an allyl piperidine called homomeroquinene and quinotoxine. Proštenik, M.; Prelog, V. HelV. Chim. Acta 1943, 26, 1965. Homomeroquinene (the second relay molecule in the Woodward/Doering claim) is obtained in several steps from the biomolecule cinchonine (related to quinidine but without the methoxy group):
+
+:Homomeroquinene synthesis
+
+:The key step in the assembly of quinotoxine is a claisen condensation:
+
+:Claisen condensation in Prelog conversion of homomeroquinene to quinotoxine
+
+* 1944: Bob Woodward and W.E. Doering report the synthesis of quinine The Total Synthesis of Quinine R. B. Woodward and W. E. Doering J. Am. Chem. Soc.; 1944; 66(5) pp 849 - 849; starting from 7-hydroxyisoquinoline. Although the title of their 1 page publication is The total synthesis of quinine it is oddly not the synthesis of quinine but that of the precursor homomeroquinene (racemic) and then with groundwork already provided by Prelog a year earlier to quinotoxine (enantiopure after chiral resolution) that is described.
+:homomeroquinene synthesis by Woodward / Doering
+:Woodward and Doering argue that Rabe in 1918 already proved that this compound will eventually give quinine but do not repeat Rabe's work. In this project 27-year-old assistant-professor Woodward is the theorist and post doc Doering (age 26) the bench worker. According to William, Bob was able to boil water but an egg would be a challenge. As many natural quinine resources are tied up in the enemy-held Dutch East Indies synthetic quinine is a promising alternative for fighting malaria on the battlefield and both men become instant war heroes making headlines in the New York Times, Newsweek and Life magazine.
+* 1944: The then 22 year old Gilbert Stork writes to Woodward asking him if he did repeat Rabe's work.
+* 1945: Woodward and Doering publish their second lengthy Quinine paper. The Total Synthesis of Quinine R. B. Woodward and W. E. Doering J. Am. Chem. Soc.; 1945; 67(5) pp 860 - 874; One of the two referees rejects the manuscript (too much historic material, too much experimental details and poor literary style with inclusion of words like adumbrated and apposite) but it is published without changes nonetheless.
+* 1974: Kondo & Mori synthesize racemic vinylic gamma-lactones, a key starting material in Stork's 2001 quinine synthesis.: SYNTHESIS OF γ-LACTONES BY THE CONDENSATION OF 2-ALKENE-1,4-DIOLS WITH ORTHOCARBOXYLIC ESTERS Kiyosi Kondo and Fumio Mori Chemistry Letters Vol.3 (1974) , No.7 pp.741-742 
+vinyl lactone synthesis from trans-2-butene-1,4-diol and ethyl orthoacetate
+:The starting materials are trans-2-butene-1,4-diol and ethyl orthoacetate and the key step is a Claisen rearrangement
+* 1988: Ishibashi & Taniguchy resolve said lactone to enantiopure compounds via chiral resolution: Synthesis and Absolute Configuration of the Acetalic Lignan (+)-Phrymarolin Fumito Ishibashi and Eiji Taniguchi Bulletin of the Chemical Society of Japan Vol.61 (1988) , No.12 pp.4361-4366 
+:Lactone Chiral resolution
+:In this process the racemic lactone reacts in aminolysis with (S)-methylbenzylamine assisted by triethylaluminum to a diastereomeric pair of amides which can be separated by column chromatography. The S-enantiomer is converted back to the S-lactone in two steps by hydrolysis with potassium hydroxide and ethylene glycol followed by azeotropic ring closure.
+* 2001: Gilbert Stork publishes his stereoselective quinine synthesis. The First Stereoselective Total Synthesis of Quinine Gilbert Stork, Deqiang Niu, A. Fujimoto, Emil R. Koft, James M. Balkovec, James R. Tata, and Gregory R. Dake J. Am. Chem. Soc.; 2001; 123(14) pp 3239 - 3242; (Article) . He questions the validity of the Woodward/Doering claim: "the basis of their characterization of Rabe’s claim as “established” is unclear". The Chemical & Engineering News is equally critical. M. Jacobs, Chemical & Engineering News 2001, 79 (May 7), 5. 
+:Quinine Stork synthesis overview
+* 2007: Researcher Jeffrey I Seeman in a 30 page review Review: The Woodward-Doering/Rabe-Kindler Total Synthesis of Quinine: Setting the Record Straight Jeffrey I. Seeman Angew. Chem. Int. Ed. 2007, 46, 1378–1413 PMID 17294412 concludes that the Woodward–Doering/ Rabe–Kindler total synthesis of quinine is a valid achievement. He notes that Paul Rabe was an extremely experienced alkaloid chemist, that he had ample opportunity to compare his quinine reaction product with authentic samples and that the described 1918 chemistry was repeated by Rabe although not with quinotoxine itself but still with closely related derivatives.
+* 2008: Smith and Williams revisit and confirm Rabe's d-quinotoxine to quinine route Communication Rabe Rest in Peace: Confirmation of the Rabe-Kindler Conversion of d-Quinotoxine to Quinine: Experimental Affirmation of the Woodward-Doering Formal Total Synthesis of Quinine Aaron C. Smith, Robert M. Williams Angewandte Chemie International Edition 2008, 47, 1736–1740 
+:2008 Rabe quinine revisited
+
+==Stork quinine total synthesis==
+The Stork quinine synthesis starts from chiral (S)-4-vinylbutyrolactone 1. The compound is obtained by chiral resolution and in fact, in the subsequent steps all stereogenic centers are put in place by chiral induction: the sequence does not contain asymmetric steps.
+
+Stork Quinine synthesis Stork quinine synthesis II 
+ Stork quinine synthesis Introducing C8 and nitrogen 
+ 
+
+The lactone is ring-opened with diethylamine to amide 2 and its hydroxyl group is protected as a tert-butyldimethyl (TBS) silyl ether in 3. The C5 and C6 atoms are added as tert-butyldiphenylsilyl (TBDPS) protected iodoethanol in a nucleophilic substitution of acidic C4 with LDA at -78°C to 4 with correct stereochemistry. Removal of the silyl protecting group with p-toluenesulfonic acid to alcohol 4b and ring-closure by azeotropic distillation returns the compound to lactone 5 (direct alkylation of 1 met with undisclosed problems). 
+
+The lactone is then reduced to the lactol 5b with diisobutylaluminum hydride and its liberated aldehyde reacts in a Wittig reaction with methoxymethylenetriphenylphosphine (delivering the C8 atom) to form enol ether 6. The hydroxyl group is replaced in a Mitsunobu reaction by an azide group with diphenylphosphoryl azide in 7 and acid hydrolysis yields the azido aldehyde 8.
+
+Stork Quinine synthesis Stork quinine synthesis II 
+ First ring closure Second ring closure 
+ 
+
+The methyl group in 6-methoxy-4-methylquinoline 9 is sufficiently acidic for nucleophilic addition of its anion (by reaction with LDA) to the aldehyde group in 8 to form 10 as a mixture of epimers. This is of no consequence for stereocontrol because in the next step the alcohol is oxidized in a Swern oxidation to ketone 11. A Staudinger reaction with triphenylphosphine closes the ring between the ketone and the azide to the tetrahydropyridine 12. The imine group in this compound is reduced to the amine 13 with sodium borohydride with the correct stereospecificity. The silyl protecting group is removed with hydrogen fluoride to alcohol 14 and then activated as an mesyl leaving group by reaction with mesyl chloride in pyridine which enables the third ring closure to 15. In the final step the C9 hydroxyl group was introduced by oxidation with sodium hydride, dmso and oxygen with quinine to epiquinine ratio of 14:1.
+
+==Woodward / Doering formal quinine total synthesis ==
+The 1944 Woodward / Doering synthesis starts from 7-hydroxyisoquinoline 3 for the quinuclidine skeleton which is somewhat counter intuitive because one goes from a stable heterocyclic aromat to a completely saturated bicyclic ring. This compound (already known since 1895) is prepared in two steps. 
+
+Woodward / Doering Quinine synthesis Woodward / Doering Quinine synthesis 
+ Woodward/Doering quinine synthesis part I Part II 
+ 
+
+The first reaction step is condensation reaction of 3-hydroxybenzaldehyde 1 with (formally) the diacetal of aminoacetaldehyde to the imine 2 and the second reaction step is cyclization in concentrated sulfuric acid. Isoquinoline 3 is then alkylated in another condensation by formaldehyde and piperidine and the product is isolated as the sodium salt of 4. 
+
+Part III 
+ Woodward/Doering quinine synthesis part III 
+ 
+
+Hydrogenation at 220°C for 10 hours in methanol with sodium methoxide liberates the piperidine group and leaving the methyl group in 5 with already all carbon and nitrogen atoms accounted for. A second hydrogenation takes place with Adams catalyst in acetic acid to tetrahydroisoquinoline 6. Further hydrogenation does not take place until the amino group is acylated with acetic anhydride in methanol but by then 7 is again hydrogenated with Raney nickel in ethanol at 150°C under high pressure to decahydroisoquinoline 8. The mixture of cis and trans isomers is then oxidized by chromic acid in acetic acid to the ketone 9. Only the cis isomer crystallizes and used in the next reaction step, a ring opening with the alkyl nitrite ethyl nitrite with sodium ethoxide in ethanol to 10 with a newly formed carboxylic ester group and an oxime group. The oxime group is hydrogenated to the amine 11 with platinum in acetic acid and alkylation with iodomethane gives the quaternary ammonium salt 12 and subsequently the betaine 13 after reaction with silver oxide. 
+
+Quinine's vinyl group is then constructed by Hofmann elimination with sodium hydroxide in water at 140°C. This process is accompanied by hydrolysis of both the ester and the amide group but it is not the free amine that is isolated but the urea 14 by reaction with potassium cyanate. In the next step the carboxylic acid group is esterified with ethanol and the urea group replaced with a benzoyl group. The final step is a claisen condensation of 15 with ethyl quininate 16, which after acidic workup yields racemic quinotoxine 17. The desired enantiomer is obtained by chiral resolution with the chiral dibenzoyl ester of Tartaric acid. The conversion of this compound to quinine is based on the Rabe/Kindler chemistry discussed in the timelime.
+
+==External links==
+* Quinine Total Syntheses @ SynArchive.com
+* Quinine story at Harvard.edu Link
+
+==References==
+
+

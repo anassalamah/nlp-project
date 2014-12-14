@@ -1,0 +1,108 @@
+[[Tryptophan]]
+
+Tryptophan (IUPAC-IUBMB abbreviation: Trp or W; IUPAC abbreviation: L-Trp or D-Trp; sold for medical use as Tryptan) is one of the 22 standard amino acids and an essential amino acid in the human diet, as demonstrated by its growth effects on rats. It is encoded in the standard genetic code as the codon UGG. Only the L-stereoisomer of tryptophan is used in structural or enzyme proteins, but the R -stereoisomer is occasionally found in naturally produced peptides (for example, the marine venom peptide contryphan). The distinguishing structural characteristic of tryptophan is that it contains an indole functional group.
+
+==Isolation==
+The isolation of tryptophan was first reported by Frederick Hopkins in 1901 through hydrolysis of casein. From 600 grams of crude casein one obtains 4-8 grams of tryptophan. 
+
+== Biosynthesis and industrial production ==
+Plants and microorganisms commonly synthesize tryptophan from shikimic acid or anthranilate. The latter condenses with phosphoribosylpyrophosphate (PRPP), generating pyrophosphate as a by-product. After ring opening of the ribose moiety and following reductive decarboxylation, indole-3-glycerinephosphate is produced, which in turn is transformed into indole. In the last step, tryptophan synthase catalyzes the formation of tryptophan from indole and the amino acid serine.
+
+:755px
+
+The industrial production of tryptophan is also biosynthetic and is based on the fermentation of serine and indole using either wild-type or genetically modified bacteria such as B. amyloliquefaciens, B. subtilis, C. glutamicum or E. coli. These strains carry either mutations that prevent the reuptake of aromatic amino acids or multiple/overexpressed trp operons. The conversion is catalyzed by the enzyme tryptophan synthase. 
+
+==Function==
+Metabolism of L-tryptophan into serotonin and melatonin (left) and niacin (right). Transformed functional groups after each chemical reaction are highlighted in red.
+For many organisms (including humans), tryptophan is an essential amino acid. This means that it is essential for human life, cannot be synthesized by the organism, and therefore must be part of our diet. Amino acids, including tryptophan, act as building blocks in protein biosynthesis. In addition, tryptophan functions as a biochemical precursor for the following compounds (see also figure to the right):
+* Serotonin (a neurotransmitter), synthesized via tryptophan hydroxylase. Serotonin, in turn, can be converted to melatonin (a neurohormone), via N-acetyltransferase and 5-hydroxyindole-O-methyltransferase activities. 
+* Niacin is synthesized from tryptophan via kynurenine and quinolinic acids as key biosynthetic intermediates. 
+* Auxin (a phytohormone) when sieve tube elements undergo apoptosis tryptophan is converted to auxins. 
+
+The disorder fructose malabsorption causes improper absorption of tryptophan in the intestine, reduced levels of tryptophan in the blood and depression. The authors did not find reduced tryptophan in lactose maldigestion. 
+
+In bacteria that synthesize tryptophan, high cellular levels of this amino acid activate a repressor protein, which binds to the trp operon. Binding of this repressor to the tryptophan operon prevents transcription of downstream DNA that codes for the enzymes involved in the biosynthesis of tryptophan. So high levels of tryptophan prevent tryptophan synthesis through a negative feedback loop and, when the cell's tryptophan levels are reduced, transcription from the trp operon resumes. The genetic organisation of the trp operon thus permits tightly regulated and rapid responses to changes in the cell's internal and external tryptophan levels.
+
+==Dietary sources==
+Tryptophan is a routine constituent of most protein-based foods or dietary proteins. It is particularly plentiful in chocolate, oats, dried dates, milk, yogurt, cottage cheese, red meat, eggs, fish, poultry, sesame, chickpeas, sunflower seeds, pumpkin seeds, spirulina, bananas, and peanuts. Tryptophan background Despite popular belief. that turkey has a particularly high amount of tryptophan, the amount of tryptophan in turkey is typical of most poultry. There is also a myth that plant protein lacks tryptophan; in fact, tryptophan is present in significant amounts in almost all forms of plant protein, and abundant in some.
+
+ Tryptophan (Trp) Content of Various Foods - The National Institute for Public Health and the Environment (Netherlands) 
+ Food Protein g of food Tryptophan g of food Tryptophan/Protein 
+ egg, white, dried 81.10 1.00 1.23 
+ spirulina, dried 57.47 0.93 1.62 
+ cod, atlantic, dried 62.82 0.70 1.11 
+ soybeans, raw 36.49 0.59 1.62 
+ cheese, Parmesan 37.90 0.56 1.47 
+ sesame seed 17.00 0.37 2.17 
+ cheese, cheddar 24.90 0.32 1.29 
+ sunflower seed 17.20 0.30 1.74 
+ pork, chop 19.27 0.25 1.27 
+ turkey 21.89 0.24 1.11 
+ chicken 20.85 0.24 1.14 
+ beef 20.13 0.23 1.12 
+ oats 16.89 0.23 1.39 
+ salmon 19.84 0.22 1.12 
+ lamb, chop 18.33 0.21 1.17 
+ perch, Atlantic 18.62 0.21 1.12 
+ chickpeas, raw 19.30 0.19 0.96 
+ egg 12.58 0.17 1.33 
+ wheat flour, white 10.33 0.13 1.23 
+ baking chocolate, unsweetened 12.9 0.13 1.23 
+ milk 3.22 0.08 2.34 
+ Rice, white, medium-grain, cooked 2.38 0.028 1.18 
+ Quinoa, uncooked 14.12 0.167 1.2 
+ Quinoa, cooked 4.40 0.052 1.1 
+ potatoes, russet 2.14 0.02 0.84 
+ tamarind 2.80 0.018 0.64 
+ banana 1.03 0.01 0.87 
+
+===Use as a dietary supplement and drug===
+Since tryptophan is converted into 5-hydroxytryptophan (5-HTP) which is subsequently converted into the neurotransmitter serotonin, it has been proposed that consumption of tryptophan or 5-HTP may therefore improve depression symptoms by increasing the level of serotonin in the brain. Small studies have been performed using 5-HTP and tryptophan as adjunctive therapy in addition to standard treatment for depression. While some studies had positive results, they were criticized for having methodological flaws, and a more recent study did not find sustained benefit from their use. The safety of these medications has not been well studied. Due to the lack of high quality studies and preliminary nature of studies showing effectiveness and the lack of adequate study on their safety, the use of tryptophan and 5-HTP is not highly recommended or thought to be clinically useful. 
+
+There is evidence that blood tryptophan levels are unlikely to be altered by changing the diet, but tryptophan is available in health food stores as a dietary supplement. 
+
+=== Metabolites ===
+A metabolite of tryptophan, 5-hydroxytryptophan (5-HTP), has been suggested as a treatment for epilepsy and depression, since 5-HTP readily crosses the blood–brain barrier and in addition is rapidly decarboxylated to serotonin (5-hydroxytryptamine or 5-HT). Clinical trials, however, are regarded inconclusive and lacking. Serotonin has a relatively short half-life since it is rapidly metabolized by monoamine oxidase.
+
+Due to the conversion of 5-HTP into serotonin by the liver, there may be a significant risk of heart valve disease from serotonin's effect on the heart. 
+
+It is marketed in Europe for depression and other indications under the brand names Cincofarm and Tript-OH. In the United States, 5-HTP does not require a prescription, as it is covered under the Dietary Supplement Act. Since the quality of dietary supplements is now regulated by the U.S. Food and Drug Administration, manufacturers are required to market products whose ingredients match the labeling, but are not required to establish efficacy of the product. 
+
+The primary product of the liver enzyme tryptophan dioxygenase is kynurenine. 
+
+In 1912 Felix Ehrlich demonstrated that yeast attacks the natural amino acids essentially by splitting off carbon dioxide and re-placing the amino group with hydroxyl. By this reaction, tryptophan gives rise to tryptophol. 
+
+=== Tryptophan supplements and EMS ===
+There was a large outbreak of eosinophilia-myalgia syndrome (EMS) in the U.S. in 1989, which caused 1,500 cases of permanent disability and at least thirty-seven deaths. After preliminary investigation revealed that the outbreak was linked to intake of tryptophan, the FDA banned most tryptophan from sale in the US in 1991, and other countries followed suit. 
+
+Subsequent epidemiological studies however, were able to pinpoint the syndrome to those exposed to specific batches of L-tryptophan supplied by a single large Japanese manufacturer, Showa Denko KK. It eventually became clear that the cause had not been the tryptophan itself, but rather that flaws in Showa Denko's 1980s manufacturing process (long since corrected) had allowed trace impurities to contaminate these batches, and those impurities were in turn responsible for the 1989 EMS outbreak. Against this backdrop, the FDA rescinded its restriction on sales and marketing of tryptophan in February 2001, but continued to ban importation. 
+
+The fact that the Showa Denko facility used genetically engineered bacteria to produce the contaminated batches of L-tryptophan later found to have caused the outbreak of eosinophilia-myalgia syndrome has been cited as evidence of a need for "close monitoring of the chemical purity of biotechnology-derived products." Those calling for purity monitoring have, in turn, been criticized as anti-GMO activists who overlook possible non-GMO causes of contamination and threaten the development of biotech. 
+
+===Turkey meat and drowsiness===
+
+A common assertion is that heavy consumption of turkey meat results in drowsiness, due to high levels of tryptophan contained in turkey. However, the amount of tryptophan in turkey is comparable to that contained in most other meats. Furthermore, post-meal drowsiness may have more to do with what else is consumed along with the turkey and, in particular, carbohydrates. It has been demonstrated in both animal models and humans that ingestion of a meal rich in carbohydrates triggers release of insulin. Insulin in turn stimulates the uptake of large neutral branched-chain amino acids (BCAA), but not tryptophan (an aromatic amino acid) into muscle, increasing the ratio of tryptophan to BCAA in the blood stream. The resulting increased ratio of tryptophan to BCAA in the blood reduces competition at the large neutral amino acid transporter (which transports both BCAA and aromatic amino acids), resulting in the uptake of tryptophan across the blood–brain barrier into the cerebrospinal fluid (CSF). Once in the CSF, tryptophan is converted into serotonin in the raphe nuclei by the normal enzymatic pathway. The resultant serotonin is further metabolised into melatonin by the pineal gland. Hence, this data suggests that "feast-induced drowsiness"&mdash; or postprandial somnolence &mdash; may be the result of a heavy meal rich in carbohydrates, which, via an indirect mechanism, increases the production of sleep-promoting melatonin in the brain. 
+
+== Fluorescence ==
+
+== See also ==
+* 5-HTP
+* Attenuator (genetics)
+* Dimethyltryptamine
+* Serotonin
+* Tryptamine
+* Hopkins Cole reaction
+* Acree-Rosenheim reaction
+
+==References==
+
+== External links ==
+* Tryptophan MS Spectrum
+* 
+* 
+* 
+* 
+* 
+* 
+
+

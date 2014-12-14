@@ -1,0 +1,74 @@
+[[Nuclear force]]
+
+A Feynman diagram of a strong proton–neutron interaction mediated by a neutral pion. Time proceeds from left to right.
+
+The same diagram with the individual quark constituents shown, to illustrate how the fundamental strong interaction gives rise to the nuclear force. Straight lines are quarks, while multi-colored loops are gluons (the carriers of the fundamental force). Other gluons, which bind together the proton, neutron, and pion "in-flight," are not shown.
+this diagram. Nulcear Force anim.gif] is a larger version]]
+The nuclear force (or nucleon–nucleon interaction or residual strong force) is the force between two or more nucleons.  Its fundamental laws and constants are unknown unlike the Coulomb and Newton laws. Its quantitative description relies on internucleon potentials with phenomenological constants determined from fitting experimental data. It is responsible for binding protons and neutrons into atomic nuclei. The energy released by such binding causes the masses of nuclei to be less than the total mass of the protons and neutrons which form them; this is the energy used in nuclear power and nuclear weapons. Binding Energy, Mass Defect, Furry Elephant physics educational site, retr 2012 7 1 Chapter 4 NUCLEAR PROCESSES, THE STRONG FORCE, M. Ragheb 1/30/2013, University of Illinois The force is powerfully attractive between nucleons at distances of about 1 femtometer (fm) between their centers, but rapidly decreases to insignificance at distances beyond about 2.5 fm. At very short distances less than 0.7 fm, it becomes repulsive, and is responsible for the physical size of nuclei, since the nucleons can come no closer than the force allows. 
+
+The nuclear force is now understood as a residual effect of the even more powerful strong force, or strong interaction, which is the attractive force that binds particles called quarks together, to form the nucleons themselves. This more powerful force is mediated by particles called gluons, which are a type of gauge boson. Gluons hold quarks together with a force like that of electric charge, but of far greater power. 
+
+The concept of a nuclear force was first quantitatively constructed in 1934, shortly after the discovery of the neutron revealed that atomic nuclei were made of protons and neutrons, held together by an attractive force. The nuclear force at that time was conceived to be transmitted by particles called mesons, which were predicted in theory before being discovered in 1947. In the 1970s, further understanding revealed these mesons to be combinations of quarks and gluons, transmitted between nucleons that themselves were made of quarks and gluons. This new model allowed the strong forces that held nucleons together, to be felt in neighboring nucleons, as residual strong forces.
+
+The nuclear forces arising between nucleons are now seen to be analogous to the forces in chemistry between neutral atoms or molecules called London forces. Such forces between atoms are much weaker than the attractive electrical forces that hold the atoms themselves together (i.e., that bind electrons to the nucleus), and their range between atoms is shorter, because they arise from small separation of charges inside the neutral atom. Similarly, even though nucleons are made of quarks in combinations which cancel most gluon forces (they are "color neutral"), some combinations of quarks and gluons nevertheless leak away from nucleons, in the form of short-range nuclear force fields that extend from one nucleon to another nucleon that is close by. These nuclear forces are very weak compared to direct gluon forces ("color forces" or strong forces) inside nucleons, and the nuclear forces extend only over a few nuclear diameters, falling exponentially with distance. Nevertheless, they are strong enough to bind neutrons and protons over short distances, and overcome the electrical repulsion between protons in the nucleus.
+
+Like London forces, nuclear forces also stop being attractive and become repulsive, when nucleons are brought too close together.
+
+==History==
+The nuclear force has been at the heart of nuclear physics ever since the field was born in 1932 with the discovery of the neutron by James Chadwick. The traditional goal of nuclear physics is to understand the properties of atomic nuclei in terms of the 'bare' interaction between pairs of nucleons, or nucleon–nucleon forces (NN forces).
+
+In 1934, Hideki Yukawa made the earliest attempt to explain the nature of the nuclear force. According to his theory, massive bosons (mesons) mediate the interaction between two nucleons. Although, in light of quantum chromodynamics (QCD), meson theory is no longer perceived as fundamental, the meson-exchange concept (where hadrons are treated as elementary particles) continues to represent the best working model for a quantitative NN potential.
+
+Historically, it was a formidable task to describe the nuclear force phenomenologically, and the first semi-empirical quantitative models came in the mid-1950s. There has been substantial progress in experiment and theory related to the nuclear force. Most basic questions were settled in the 1960s and 1970s. In recent years, experimenters have concentrated on the subtleties of the nuclear force, such as its charge dependence, the precise value of the πNN coupling constant, improved phase shift analysis, high-precision NN data, high-precision NN potentials, NN scattering at intermediate and high energies, and attempts to derive the nuclear force from QCD.
+
+To a large extent, the nuclear force can be understood in terms of the exchange of virtual light mesons, such as the virtual pions, as well as two types of virtual mesons with spin (vector mesons), the rho mesons and the omega mesons. The vector mesons account for the spin-dependence of the nuclear force in this "virtual meson" picture. 
+
+Sometimes, the nuclear force is called the residual strong force, in contrast to the strong interactions which are now understood to arise from QCD. This phrasing arose during the 1970s when QCD was being established. Before that time, the strong nuclear force referred to the inter-nucleon potential. After the verification of the quark model, strong interaction has come to mean QCD.
+
+== Basic properties ==
+
+The nuclear force is only felt among hadrons. At small separations between nucleons (less than ~ 0.7 fm between their centers, depending upon spin alignment) the force becomes repulsive, which keeps the nucleons at a certain average separation, even if they are of different types. This repulsion is to be understood in terms of the Pauli exclusion force for identical nucleons (such as two neutrons or two protons), and also a Pauli exclusion between quarks of the same type within nucleons, when the nucleons are different (a proton and a neutron, for example). As will be discussed, the nuclear force also has a "tensor" component which depends on whether or not the spins of the nucleons are aligned or anti-aligned. A graph of internuclear forces and potentials is presented in the reference: http://www.cartage.org.lb/en/themes/sciences/physics/NuclearPhysics/WhatisNuclear/Forces/Forces.htm See graph of various potentials for spin-aligned and non-aligned nucleons 
+
+At distances larger than 0.7 fm the force becomes attractive between spin-aligned nucleons, becoming maximal at a center–center distance of about 0.9 fm. Beyond this distance the force drops essentially exponentially, until beyond about 2.0 fm separation, the force drops to negligibly small values.
+
+At short distances (less than 1.7 fm or so), the nuclear force is stronger than the Coulomb force between protons; it thus overcomes the repulsion of protons inside the nucleus. However, the Coulomb force between protons has a much larger range due to its decay as the inverse square of charge separation, and Coulomb repulsion thus becomes the only significant force between protons when their separation exceeds about 2 to 2.5 fm.
+
+To disassemble a nucleus into unbound protons and neutrons would require doing work against the nuclear force. Conversely, energy is released when a nucleus is created from free nucleons or other nuclei: the nuclear binding energy. Because of mass–energy equivalence (i.e. Einstein's famous formula E = mc2), releasing this energy causes the mass of the nucleus to be lower than the total mass of the individual nucleons, leading to the so-called "mass deficit". 
+
+The nuclear force is nearly independent of whether the nucleons are neutrons or protons. This property is called charge independence. It depends on whether the spins of the nucleons are parallel or antiparallel, and has a noncentral or tensor component. This part of the force does not conserve orbital angular momentum, which is a constant of motion under central forces.
+
+The symmetry resulting in the strong force was first proposed by Werner Heisenberg. In essence, this is that protons and neutrons are identical in every respect other than their charge. This is not completely true, because neutrons are a tiny bit heavier, so it is an approximate symmetry. Under Heisenberg's symmetry, both protons and neutrons are termed as nucleons with different isospin. The strong force is invariant under SU(2) transformations, just as particles with "regular spin" are. Isospin and "regular" spin are related under this SU(2) symmetry group. There are only strong attractions when the total isospin is 0, as is confirmed by experiment. Griffiths, David, Introduction to Elementary Particles 
+
+The info on nuclear force are obtained by scattering experiments and the study of light nuclei binding energy.
+
+== Nucleon–nucleon potentials ==
+
+Two-nucleon systems such as the deuteron, the nucleus of a deuterium atom, as well as proton–proton or neutron–proton scattering are ideal for studying the NN force. Such systems can be described by attributing a potential (such as the Yukawa potential) to the nucleons and using the potentials in a Schrödinger equation. The form of the potential is derived phenomenologically, although for the long-range interaction, meson-exchange theories help to construct the potential. The parameters of the potential are determined by fitting to experimental data such as the deuteron binding energy or NN elastic scattering cross sections (or, equivalently in this context, so-called NN phase shifts).
+
+The most widely used NN potentials are the Paris potential, the Argonne AV18 potential
+, the CD-Bonn potential and the Nijmegen potentials.
+
+A more recent approach is to develop effective field theories for a consistent description of nucleon–nucleon and three-nucleon forces. In particular, chiral symmetry breaking can be analyzed in terms of an effective field theory (called chiral perturbation theory) which allows perturbative calculations of the interactions between nucleons with pions as exchange particles.
+
+=== From nucleons to nuclei ===
+
+The ultimate goal of nuclear physics would be to describe all nuclear interactions from the basic interactions between nucleons. This is called the microscopic or ab initio approach of nuclear physics. There are two major obstacles to overcome before this dream can become reality:
+
+* Calculations in many-body systems are difficult and require advanced computation techniques.
+* There is evidence that three-nucleon forces (and possibly higher multi-particle interactions) play a significant role. This means that three-nucleon potentials must be included into the model.
+This is an active area of research with ongoing advances in computational techniques leading to better first-principles calculations of the nuclear shell structure. Two- and three-nucleon potentials have been implemented for nuclides up to A = 12.
+
+=== Nuclear potentials ===
+A successful way of describing nuclear interactions is to construct one potential for the whole nucleus instead of considering all its nucleon components. This is called the macroscopic approach. For example, scattering of neutrons from nuclei can be described by considering a plane wave in the potential of the nucleus, which comprises a real part and an imaginary part. This model is often called the optical model since it resembles the case of light scattered by an opaque glass sphere.
+
+Nuclear potentials can be local or global: local potentials are limited to a narrow energy range and/or a narrow nuclear mass range, while global potentials, which have more parameters and are usually less accurate, are functions of the energy and the nuclear mass and can therefore be used in a wider range of applications.
+
+==References==
+
+* Gerald Edward Brown and A. D. Jackson, The Nucleon–Nucleon Interaction, (1976) North-Holland Publishing, Amsterdam ISBN 0-7204-0335-9
+* R. Machleidt and I. Slaus, "The nucleon–nucleon interaction", J. Phys. G 27 (2001) R69 (topical review).
+* Kenneth S. Krane, "Introductory Nuclear Physics", (1988) Wiley & Sons ISBN 0-471-80553-X
+* E.A. Nersesov, Fundamentals of atomic and nuclear physics, (1990), Mir Publishers, Moscow, ISBN 5-06-0011249-2
+* P. Navrátil and W.E. Ormand, "Ab initio shell model with a genuine three-nucleon force for the p-shell nuclei", Phys. Rev. C 68, 034305 (2003).
+
+

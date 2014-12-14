@@ -1,0 +1,174 @@
+[[Poetics (Aristotle)]]
+
+Aristotle's Poetics (Greek: , c. 335 BCE Dukore (1974, 31). ) is the earliest surviving work of dramatic theory and the first extant philosophical treatise to focus on literary theory. Janko (1987, ix). In it, Aristotle offers an account of what he calls "poetry" (a term which in Greek literally means "making" and in this context includes drama&mdash;comedy, tragedy, and the satyr play&mdash;as well as lyric poetry, epic poetry, and the dithyramb-A song sung to praise Dionysus, the God of wine and fertility). They are similar in the fact that they are all imitations but different in the three ways that Aristotle describes. 1. They differ in the music rhythm, harmony, meter and melody. 2. The difference of goodness in the characters. 3. The way the characters are presented in which they stay in the role that they are describing as a narrative or acting as if they are doing the things that the characters are doing.
+
+He examines its "first principles" Aristotle says there are two causes for the origin of poetry. 1. Is imitation because we learn imitation and helps with learning. 2. To have an easier time of seeing truths. and identifies its genres and basic elements. His analysis of tragedy constitutes the core of the discussion. Aristotle Poetics 1447a13 (1987, 1). Although Aristotle's Poetics is universally acknowledged in the Western critical tradition, Marvin Carlson explains, "almost every detail about his seminal work has aroused divergent opinions." Carlson (1993, 16). 
+
+The work was lost to the Western world and often misrepresented for a long time. It was available through the Middle Ages and early Renaissance only through a Latin translation of an Arabic version written by Averroes. 
+
+==Form and content==
+Aristotle's work on aesthetics consists of the Poetics and Rhetoric. The Poetics is specifically concerned with drama. At some point, Aristotle's original work was divided in two, each "book" written on a separate roll of papyrus. Janko (1987, xx). Only the first part&ndash;that which focuses on tragedy&ndash;survives. The lost second part addressed comedy. Scholars speculate that the Tractatus coislinianus summarises the contents of the lost second book. Janko (1987, xxi). 
+
+===Form===
+The table of contents page of the Poetics found in Modern Library's Basic Works of Aristotle (2001) identifies five basic parts within it. The Basic Works of Aristotle. Ed. Richard McKeon Modern Library (2001) - Poetics. Trans. Ingrid Bywater, pp. 1453-1487 
+
+* A. Preliminary discourse on tragedy, epic poetry, and comedy, as the chief forms of imitative poetry.
+* B. Definition of a tragedy, and the rules for its construction. Definition and analysis into qualitative parts.
+* C. Rules for the construction of an epic: Tragic pleasure, or catharsis experienced by fear and pity should be produced in the spectator. The characters must be four things: good, appropriate, realistic, and consistent. Discovery must occur within the plot. It is important for the poet to visualize all of the scenes when creating the plot. The poet should incorporate Complication and Denouement within the story, as well as combine all of the elements of Tragedy. The poet must express Thought through the characters' words and actions, while paying close attention to Diction and how a character's spoken words express a specific idea. Aristotle believed that all of these different elements had to be present in order for the poetry to be well-done. 
+* D. Possible criticisms of an epic or tragedy, and the answers to them.
+* E. Tragedy as artistically superior to epic poetry: Tragedy has everything that the Epic has even the epic meter being admissible. The reality of presentation is felt in the play as read, as well as in the play as acted. The tragic imitation requires less space for the attainment of its end. If it has more concentrated effect, it is more pleasurable than one with a large admixture of time to dilute it. There is less unity in the imitation of the epic poets (plurality of actions) and this is proved by any work of their supplies matter for several tragedies. Considers tragedy a higher form of art.
+
+===Content===
+
+Aristotle distinguishes between the genres of "poetry" in three ways:
+* Matter
+::language, rhythm, and melody, for Aristotle, make up the matter of poetic creation. Where the epic poem makes use of language alone, the playing of the lyre involves rhythm and melody. Some poetic forms include a blending of all materials; for example, Greek tragic drama included a singing chorus, and so music and language were all part of the performance.
+* Subjects
+::Also "agents" in some translations. Aristotle differentiates between tragedy and comedy throughout the work by distinguishing between the nature of the human characters that populate either form. Aristotle finds that tragedy treats of serious, important, and virtuous people. Comedy, on the other hand, treats of people who are less virtuous, who are unimportant, undignified, laughable. Aristotle introduces here the influential tripartite division of characters in superior (βελτίονας) to the audience, inferior (χείρονας), or at the same level (τοιούτους). Gregory Michael Sifakis (2001) Aristotle on the function of tragic poetry p.50 Aristotle, Poetics 1448a, English, original Greek Northrop Frye (1957) Anatomy of Criticism 
+* Method
+::One may imitate the agents through use of a narrator throughout, or only occasionally (using direct speech in parts and a narrator in parts, as Homer does), or only through direct speech (without a narrator), using actors to speak the lines directly. This latter is the method of tragedy (and comedy): without use of any narrator.
+
+Having examined briefly the field of "poetry" in general, Aristotle proceeds to his definition of tragedy:
+Tragedy is a representation of a serious, complete action which has magnitude, in embellished speech, with each of its elements separately in the parts the play and by people acting and not by narration, accomplishing by means of pity and terror the catharsis of such emotions.By "embellished speech", I mean that which has rhythm and melody, i.e. song. By "with its elements separately", I mean that some of it are accomplished only by means of spoken verses, and others again by means of song (1449b25-30). Janko (1987, 7). In Butcher's translation, this passage reads: "Tragedy, then, is an imitation of an action that is serious, complete, and of a certain magnitude; in language embellished with each kind of artistic ornament, the several kinds being found in separate parts of the play, in the form of action, not of narrative; through pity and fear effecting the proper catharsis of these emotions." 
+
+Tragedy consists of six parts which Aristotle enumerates in order of importance, beginning with the most essential and ending with the least: Aristotle considers Tragedy superior to Epics and considers them higher forms of art. Tragedies are said to be an "imitation of an action that is serious." Tragedies are written in a dramatic form with dialogue between multiple character, and not in traditional narrative form. Tragedy should make the viewer feel fear and pity. Tragedy arouses the emotions of pity and fear in order to purge away their excess, to reduce these passions to a healthy. Aristotle also talks about “pleasure” that is proper to tragedy, apparently meaning the aesthetic pleasure one gets from contemplating the pity and fear that are aroused through the play. Tragedy is rooted in the fundamental order of the universe; it creates a cause-and-effect chain that clearly reveals what may happen at any time or place because that is the way the world operates.
+* plot (mythos)
+::Refers to the "structure of incidents" (actions). Key elements of the plot are reversals, recognition, and suffering. The best plot should be "complex" (i.e. involve a change of fortune). It should imitate actions arousing fear and pity. Thus it should proceed from good fortune to bad and involve a high degree of suffering for the protagonist, usually involving physical harm or death.
+
+::Actions should be logical and follow naturally from actions that precede them. They will be more satisfying to the audience if they come about by surprise or seeming coincidence and are only afterward seen as plausible, even necessary.
+
+::When a character is unfortunate by reversal(s) of fortune (peripeteia known today in pop culture as a plot twist), at first he suffers (pathos) and then he can realize (anagnorisis) the cause of his misery or a way to be released from the misery.
+
+* character (ethos)
+::It is much better if a tragical accident happens to a hero because of a mistake he makes (hamartia) instead of things that might happen anyway. That is because the audience is more likely to be "moved" by it. A hero may have made it knowingly (in Medea) or unknowingly (Oedipus). A hero may leave a deed undone (due to timely discovery, knowledge present at the point of doing deed ...). Character is the moral or ethical character in tragic play. In a perfect tragedy, the character will support the plot, which means personal motivations will somehow connect parts of the cause-and-effect chain of actions producing pity and fear. 
+::Main character should be
+::* good - Aristotle explains that audiences do not like, for example, villains "making fortune from misery" in the end. It might happen though, and might make the play interesting. Nevertheless, the moral is at stake here and morals are important to make people happy (people can, for example, see tragedy because they want to release their anger)
+::* appropriate&ndash;if a character is supposed to be wise, it is unlikely he is young (supposing wisdom is gained with age)
+::* consistent&ndash;if a person is a soldier, he is unlikely to be scared of blood (if this soldier is scared of blood it must be explained and play some role in the story to avoid confusing the audience); it is also "good" if a character doesn't change opinion "that much" if the play is not "driven" by who characters are, but by what they do (audience is confused in case of unexpected shifts in behaviour its reasons, morals ... of characters)
+::* "consistently inconsistent"&ndash;if a character always behaves foolishly it is strange if he suddenly becomes smart. In this case it would be good to explain such change, otherwise the audience may be confused. If character changes opinion a lot it should be clear he is a character who has this trait, not a real life person - this is also to avoid confusion
+* thought (dianoia)&ndash;spoken (usually) reasoning of human characters can explain the characters or story background ...
+* diction (lexis)
+::Refers to the quality of speech in tragedy. Speeches should reflect character, the moral qualities of those on the stage. The expression of the meaning of the words.
+* melody (melos)
+::The Chorus too should be regarded as one of the actors. It should be an integral part of the whole, and share in the action. Should be contributed to the unity of the plot. It is a very real factor in the pleasure of the drama. 
+* spectacle (opsis)
+::Refers to the visual apparatus of the play, including set, costumes and props (anything you can see). Aristotle calls spectacle the "least artistic" element of tragedy, and the "least connected with the work of the poet (playwright). For example: if the play has "beautiful" costumes and "bad" acting and "bad" story, there is "something wrong" with it. Even though that "beauty" may save the play it is "not a nice thing". Spectacle is like a suspenseful horror film.
+
+He offers the earliest-surviving explanation for the origins of tragedy and comedy:
+Anyway, arising from an improvisatory beginning (both tragedy and comedy—tragedy from the leaders of the dithyramb, and comedy from the leaders of the phallic processions which even now continue as a custom in many of our cities) (1449a10-13) Janko (1987, 6). This text is available online in an older translation, in which the same passage reads: "At any rate it originated in improvisation—both tragedy itself and comedy. The one tragedy came from the prelude to the dithyramb and the other comedy from the prelude to the phallic songs which still survive as institutions in many cities." 
+
+==Influence==
+Poetics is considered to have been less influential in its time compared with what is generally understood to be its more famous contemporary, Rhetoric. This is probably because in Aristotle's time rhetoric and poetics were classified as sort of siblings in the pantheon of ideal things. Because of rhetoric's direct importance for law and politics, it evolved to become, to a large degree, distinct from poetics, in spite of both themes being classified under aesthetics in the Aristotelian system of metaphysics. In this sense, rhetoric and poetics are two sides of the same thing—the aesthetic dimension. In Aristotelian philosophy, this is regarded as one of the metaphysical aspects of things; in the Kantian view of the pure aesthetic, it is understood as something non-conceptual that frees the mind.
+
+The Arabic version of Aristotle’s Poetics that influenced the Middle Ages was translated from a Greek manuscript dated to sometime prior to the year 700. This manuscript was translated from Greek to Syriac and is independent of the currently-accepted 11th-century source designated Paris 1741. The Syriac language source used for the Arabic translations departed widely in vocabulary from the original Poetics and it initiated a misinterpretation of Aristotelian thought that continued through the Middle Ages. Hardison, 81. 
+
+There are two different Arabic interpretations of Aristotle’s Poetics in commentaries by Abu Nasr al-Farabi and Averroes (i.e., Abu al-Walid Ibn Rushd).
+
+Al-Farabi’s treatise endeavors to establish poetry as a logical faculty of expression, giving it validity in the Islamic world. Averroes’ commentary attempts to harmonize his assessment of the Poetics with al-Farabi’s, but he is ultimately unable to reconcile his ascription of moral purpose to poetry with al-Farabi’s logical interpretation.
+
+Averroes' interpretation of the Poetics was accepted by the West because of its relevance to their humanistic viewpoints. Occasionally the philosophers of the Middle Ages even preferred Averroes’ commentary to Aristotle's stated sense. This resulted in the survival of Aristotle’s Poetics through the Arabic literary tradition.
+
+==Core terms==
+* Mimesis or "imitation", "representation"
+* Catharsis or, variously, "purgation", "purification", "clarification"
+* Peripeteia or "reversal"
+* Anagnorisis or "recognition", "identification"
+* Hamartia or "miscalculation" (understood in Romanticism as "tragic flaw")
+* Mythos or "plot"
+* Ethos or "character"
+* Dianoia or "thought", "theme"
+* Lexis or "diction", "speech"
+* Melos, or "melody"
+* Opsis or "spectacle"
+
+==English translations==
+* Thomas Twining, 1789
+* Samuel Henry Butcher, 1902: full text
+* Ingram Bywater, 1909: full text
+* William Hamilton Fyfe, 1926: full text
+* L. J. Potts, 1953
+* G. M. A. Grube, 1958
+* Richard Janko, 1987
+* Stephen Halliwell, 1987
+* Stephen Halliwell, 1995 (Loeb Classical Library)
+* Malcolm Heath, 1996 (Penguin Classics)
+* Seth Benardete and Michael Davis, 2002 (St. Augustine's Press)
+* Joe Sachs, 2006 (Focus Publishing)
+* Anthony Kenny, 2013 (Oxford World's Classics)
+
+==Cultural references==
+The Poetics—both the extant first book and the lost second book—figure prominently in Umberto Eco's novel The Name of the Rose.
+
+==Notes==
+
+==Sources==
+;Editions - commentaries - translations
+
+* Aristotle’s Treatise On Poetry, transl. with notes ... by Th. Twining, I-II, London 21812
+* Aristotelis De arte poetica liber, tertiis curis recognovit et adnotatione critica auxit I. Vahlen, Lipsiae 31885
+* Aristotle on the Art of Poetry. A revised Text with Critical Introduction, Translation and Commentary by I. Bywater, Oxford 1909
+* Aristoteles: Περὶ ποιητικῆς, mit Einleitung, Text und adnotatio critica, exegetischem Kommentar ... von A. Gudeman, Berlin/Leipzig 1934
+* Ἀριστοτέλους Περὶ ποιητικῆς, μετάφρασις ὑπὸ Σ. Μενάρδου, Εἰσαγωγή, κείμενον καὶ ἑρμηνεία ὑπὸ Ἰ. Συκουτρῆ, (Ἀκαδ. Ἀθηνῶν, Ἑλληνική Βιβλιοθήκη 2) Ἀθῆναι 1937
+* Aristotele: Poetica, introduzione, testo e commento di A. Rostagni, Torino 21945
+* Aristotle’s Poetics: The Argument, by G. F. Else, Harvard 1957
+* Aristotelis De arte poetica liber, recognovit brevique adnotatione critica instruxit R. Kassel, Oxonii 1965
+* Aristotle: Poetics, Introduction, Commentary and Appendixes by D. W. Lucas, Oxford 1968
+* Aristotle: Poetics, with Tractatus Coislinianus, reconstruction of Poetics II, and the Fragments of the On the Poets, transl. by R. Janko, Indianapolis/Cambridge 1987
+* Aristotle: Poetics, edited and translated by St. Halliwell, (Loeb Classical Library), Harvard 1995
+* Aristotle: Poetics, translated with an introduction and notes by M. Heath, (Penguin) London 1996
+* Aristoteles: Poetik, (Werke in deutscher Übersetzung 5) übers. von A. Schmitt, Darmstadt 2008
+* Aristotle: Poetics, editio maior of the Greek text with historical introductions and philological commentaries by L. Tarán and D. Goutas, (Mnemosyne Supplements 338) Leiden/Boston 2012
+
+;Further reading
+
+* Belfiore, Elizabeth, S., Tragic Pleasures: Aristotle on Plot and Emotion. Princeton, N.J.: Princeton UP (1992). ISBN 0-691-06899-2
+* Bremer, J.M., Hamartia: Tragic Error in the Poetics of Aristotle and the Greek Tragedy, Amsterdam 1969
+* Butcher, Samuel H., Aristotle’s Theory of Poetry and Fine Art, New York 41911
+* Carroll, M., Aristotle’s Poetics, c. xxv, Ιn the Light of the Homeric Scholia, Baltimore 1895
+* Cave, Terence, Recognitions. A Study in Poetics, Oxford 1988 
+* Carlson, Marvin, Theories of the Theatre: A Historical and Critical Survey from the Greeks to the Present. Expanded ed. Ithaca and London: Cornell UP (1993). ISBN 978-0-8014-8154-3.
+* Dukore, Bernard F., Dramatic Theory and Criticism: Greeks to Grotowski. Florence, KY: Heinle & Heinle (1974). ISBN 0-03-091152-4
+* Downing, E., “oἷον ψυχή: Αn Εssay on Aristotle’s muthos”, Classical Antiquity 3 (1984) 164-78
+* Else, Gerald F., Plato and Aristotle on Poetry, Chapel Hill/London 1986
+* Heath, Malcolm, "Aristotelian Comedy", Classical Quarterly 39 (1989) 344-54
+* Heath, Malcolm, "The Universality of Poetry in Aristotle’s Poetics", Classical Quarterly 41 (1999) 389-402
+* Heath, Malcolm, "Cognition in Aristotle’s Poetics", Mnemosyne 62 (2009) 51-75
+* Halliwell, Stephen, Aristotle’s Poetics, Chapel Hill 1986.
+* Halliwell, Stephen, The Aesthetics of Mimesis. Ancient Texts and Modern Problems, Princeton/Oxford 2002.
+* Hardison, O. B., Jr., "Averroes", in Medieval Literary Criticism: Translations and Interpretations. New York: Ungar (1987), 81-88.
+* Hiltunen, Ari, Aristotle in Hollywood. Intellect (2001). ISBN 1-84150-060-7.
+* Ηöffe, O. (ed.), Aristoteles: Poetik, (Klassiker auslegen, Band 38) Berlin 2009
+* Janko, R., Aristotle on Comedy, London 1984
+* Jones, John, On Aristotle and Greek Tragedy, London 1971
+* Lanza, D. (ed.), La poetica di Aristotele e la sua storia, Pisa 2002
+* Leonhardt, J., Phalloslied und Dithyrambos. Aristoteles über den Ursprung des griechischen Dramas. Heidelberg 1991
+* Lienhard, K., Entstehung und Geschichte von Aristoteles ‘Poetik’, Zürich 1950
+* Lord, C., “Aristotle’s History of Poetry”, Transactions and Proceedings of the American Philological Association 104 (1974) 195-228
+* Lucas, F. L., Tragedy: Serious Drama in Relation to Aristotle's “Poetics”. London: Hogarth (1957). New York: Collier. ISBN 0-389-20141-3. London: Chatto. ISBN 0-7011-1635-8
+* Luserke, M. (ed.), Die aristotelische Katharsis. Dokumente ihrer Deutung im 19. und 20. Jahrhundert, Hildesheim/Zürich/N. York 1991
+* Morpurgo- Tagliabue, G., Linguistica e stilistica di Aristotele, Rome 1967
+* Rorty, Amélie Oksenberg (ed.), Essays on Aristotle’s Poetics, Princeton 1992
+* Schütrumpf, E., “Traditional Elements in the Concept of Hamartia in Aristotle’s Poetics”, Harvard Studies in Classical Philology 92 (1989) 137-56
+* Sen, R. K., Mimesis, Calcutta: Syamaprasad College, 2001
+* Sen, R. K., Aesthetic Enjoyment: Its Background in Philosophy and Medicine, Calcutta: University of Calcutta, 1966
+* Sifakis, Gr. M., Aristotle on the Function of Tragic Poetry, Heraklion 2001. ISBN 960-524-132-3
+* Söffing, W., Deskriptive und normative Bestimmungen in der Poetik des Aristoteles, Amsterdam 1981
+* Sörbom, G., Mimesis and Art, Uppsala 1966
+* Solmsen, F., "The Origins and Methods of Aristotle’s Poetics", Classical Quarterly 29 (1935) 192-201
+* Tsitsiridis, S., "Mimesis and Understanding. An Interpretation of Aristotle’s Poetics 4.1448b4-19", Classical Quarterly 55 (2005) 435-46
+* Vahlen, Johannes, Beiträge zu Aristoteles’ Poetik, Leipzig/Berlin 1914
+* Vöhler, M. – Seidensticker B. (edd.), Katharsiskonzeptionen vor Aristoteles: zum kulturellen Hintergrund des Tragödiensatzes, Berlin 2007
+
+==External links==
+
+* librivox.org audio recording
+* Project Gutenberg - Poetics (Aristotle) 
+*Aristotle's Poetics: Perseus Digital Library edition.
+*Greek text from Hodoi elektronikai
+*Critical edition (Oxford Classical Texts) by Ingram Bywater
+*Seven parallel translations of Poetics: Russian, English, French
+* Aristotle: Poetics entry by Joe Sachs in the Internet Encyclopedia of Philosophy
+* Notes of Friedrich Sylburg (1536-1596) in a critical edition (parallel Greek and Latin) available at Google Books
+* Analysis and discussion in the BBC's In Our Time series on Radio 4.
+
+

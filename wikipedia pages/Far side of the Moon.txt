@@ -1,0 +1,82 @@
+[[Far side of the Moon]]
+
+Far side of the Moon, photographed by Apollo 16
+
+The far side of the Moon, sometimes called the "dark" side of the Moon, is the hemisphere of the Moon that always faces away from Earth. The far side's terrain is rugged, with a multitude of impact craters and relatively few flat lunar maria. It has one of the largest craters in the Solar System, the South Pole–Aitken basin.
+
+About 18 percent of the far side is occasionally visible from Earth due to libration. The remaining 82 percent remained unobserved until 1959, when the Soviet Union's Luna 3 space probe photographed it. The Russian Academy of Sciences published the first atlas of the far side in 1960. In 1968, the Apollo 8 mission's astronauts were the first humans to view this region directly when they orbited the Moon. To date, no one has explored the far side of the Moon on the ground.
+
+Astronomers have suggested installing a large radio telescope on the far side, where the Moon would shield it from possible radio interference from Earth.
+
+==Definition==
+Tidal forces from Earth have slowed down the Moon's rotation so that the same side is always facing the Earth, a phenomenon called tidal locking. The other face, most of which is never visible from the Earth, is therefore called the "far side of the Moon". It should be noted that over time some parts of the far side can be seen due to libration. In total 59 percent of the Moon's surface is visible from Earth at one time or another. However, useful observation of the parts of the far side of the Moon occasionally visible from Earth is difficult because of the low viewing angle from Earth (they cannot be observed "full on").
+
+The commonly used term "dark side of the Moon" does not refer to "dark" as in the absence of light, but rather as the unknown, as until man was able to send spacecraft around the Moon, this area had never been seen. While many misconstrue this to think that the "dark side" receives little to no sunlight, in reality, both the near and far sides receive (on average) almost equal amounts of light directly from the Sun. However, the near side also receives sunlight reflected from the Earth, known as earthshine. Earthshine does not reach the area of the far side which can't be seen from Earth. Only during a full moon (as viewed from Earth) is the whole far side of the Moon physically dark. The word "dark" may also refer to the fact that communication with spacecraft can be blocked while on the far side of the Moon, during Apollo space missions for example. 
+
+==Differences==
+
+Detailed view by the Lunar Reconnaissance Orbiter (LRO)
+The two hemispheres have distinctly different appearances, with the near side covered in multiple, large maria (Latin for 'seas,' since the earliest astronomers incorrectly thought that these plains were seas of lunar water).
+The far side has a battered, densely cratered appearance with few maria. Only 1% of the surface of the far side is covered by maria, compared to 31.2% on the near side. One commonly accepted explanation for this difference is related to a higher concentration of heat-producing elements on the near-side hemisphere, as has been demonstrated by geochemical maps obtained from the Lunar Prospector gamma-ray spectrometer. While other factors such as surface elevation and crustal thickness could also affect where basalts erupt, these do not explain why the farside South Pole–Aitken basin (which contains the lowest elevations of the Moon and possesses a thin crust) was not as volcanically active as Oceanus Procellarum on the near side.
+
+It has also been proposed that the differences between the two hemispheres may have been caused by a collision with a smaller companion moon that also originated from the Theia collision. In this model the impact led to an accretionary pile rather than a crater, contributing a hemispheric layer of extent and thickness that may be consistent with the dimensions of the farside highlands.
+
+Though the far side has more visible craters, this is due to the effects of lunar lava flows, which cover and obscure craters, rather than a shielding effect from the Earth. NASA calculates that the Earth obscures only about 4 square degrees out of 41,000 square degrees of the sky as seen from the Moon. "This makes the Earth negligible as a shield for the Moon. . . . It is likely that each side of the Moon has received equal numbers of impacts, but the resurfacing by lava results in fewer craters visible on the near side than the far side, even though the both sides have received the same number of impacts." Near-side/far-side impact crater counts by David Morrison and Brad Bailey, NASA. http://lunarscience.nasa.gov/?question=3318. Accessed Jan 9th, 2013. 
+
+==Exploration==
+1959 USSR stamp commemorating first photographs of the far side of the Moon
+
+Until the late 1950s, little was known about the far side of the Moon. Librations of the Moon periodically allowed limited glimpses of features near the lunar limb on the far side. These features, however, were seen from a low angle, hindering useful observation. (It proved difficult to distinguish a crater from a mountain range.) The remaining 82% of the surface on the far side remained unknown, and its properties were subject to much speculation.
+
+An example of a far side feature that can be seen through libration is the Mare Orientale, which is a prominent impact basin spanning almost 1000 km, yet this was not even named as a feature until 1906, by Julius Franz in Der Mond. The true nature of the basin was discovered in the 1960s when rectified images were projected onto a globe. It was photographed in fine detail by Lunar Orbiter 4 in 1967.
+
+On October 7, 1959, the Soviet probe Luna 3 took the first photographs of the lunar far side, eighteen of them resolvable, Luna 3. NASA covering one-third of the surface invisible from the Earth. Great Soviet Encyclopedia, 3rd. edition, entry on "Луна (спутник Земли)", available online here The images were analysed, and the first atlas of the far side of the Moon was published by the USSR Academy of Sciences on November 6, 1960. АТЛАС ОБРАТНОЙ СТОРОНЫ ЛУНЫ, Ч. 1, Moscow: USSR Academy of Sciences, 1960 Aeronautics and Astronautics Chronology, 1960. NASA It included a catalog of 500 distinguished features of the landscape. Chronology, 1804-1980, to the 150th anniversary of GAISh - Moscow State University observatory. MSU A year later the first globe (1:13 600 000 scale Moon maps and globes, created with the participation of Lunar and Planetary Research Department of SAI. SAI ) containing lunar features invisible from the Earth was released in the USSR, based on images from Luna 3. Saving the Globes an article in Sphaera: the Newsletter of the Museum of the History of Science, Oxford On July 20, 1965 another Soviet probe Zond 3 transmitted 25 pictures of very good quality of the lunar far side, Zond 3. NASA with much better resolution than those from Luna 3. In particular, they revealed chains of craters, hundreds of kilometers in length. In 1967 the second part of the "Atlas of the Far Side of the Moon" was published in Moscow, АТЛАС ОБРАТНОЙ СТОРОНЫ ЛУНЫ, Ч. 2, Мoscow: Nauka, 1967 Observing the Moon Throughout History. Adler Planetarium based on data from Zond 3, with the catalog now including 4,000 newly discovered features of lunar far side landscape. In the same year the first "Complete Map of the Moon" (1:5 000 000 scale ) and updated complete globe (1:10 000 000 scale), featuring 95 percent of the lunar surface were released in the Soviet Union. Works of the Department of lunar and planetary research of GAISh MGU. SAI Moon Maps. MSU 
+
+As many prominent landscape features of the far side were discovered by Soviet space probes, Soviet scientists selected names for them. This caused some controversy, and the International Astronomical Union, leaving many of those names intact, later assumed the role of naming lunar features on this hemisphere.
+
+The far side was first seen directly by human eyes during the Apollo 8 mission in 1968. Astronaut William Anders described the view:
+
+It has been seen by all crew members of the Apollo 8 and Apollo 10 through Apollo 17 missions since that time, and photographed by multiple lunar probes. Spacecraft passing behind the Moon were out of direct radio communication with the Earth, and had to wait until the orbit allowed transmission. During the Apollo missions, the main engine of the Service Module was fired when the vessel was behind the Moon, producing some tense moments in Mission Control before the craft reappeared.
+
+Geologist-astronaut Harrison Schmitt, who became the second to last to step onto the Moon, had aggressively lobbied for his landing site to be on the far side of the Moon, targeting the lava-filled crater Tsiolkovskiy. Schmitt's ambitious proposal included a special communications satellite based on the existing TIROS satellites to be launched into a Farquhar–Lissajous halo orbit around the L2 point so as to maintain line-of-sight contact with the astronauts during their powered descent and lunar surface operations. NASA administrators rejected these plans based on added risk and lack of funding.
+
+== Potential ==
+Some of the features of the geography are labeled in this image.
+Because the far side of the Moon is shielded from radio transmissions from the Earth, it is considered a good location for placing radio telescopes for use by astronomers. Small, bowl-shaped craters provide a natural formation for a stationary telescope similar to Arecibo in Puerto Rico. For much larger-scale telescopes, the 100 km diameter crater Daedalus is situated near the center of the far side, and the 3 km-high rim would help to block stray communications from orbiting satellites. Another potential candidate for a radio telescope is the Saha crater. 
+
+Before deploying radio telescopes to the far side, several problems must be overcome. The fine lunar dust can contaminate equipment, vehicles, and space suits. The conducting materials used for the radio dishes must also be carefully shielded against the effects of solar flares. Finally the area around the telescopes must be protected against contamination by other radio sources.
+
+The Lagrange point of the Earth–Moon system is located about 62800 km above the far side, which has also been proposed as a location for a future radio telescope which would perform a Lissajous orbit about the Lagrangian point.
+
+One of the NASA missions to the Moon under study would send a sample-return lander to the South Pole–Aitken basin, the location of a major impact event that created a formation nearly 2400 km across. The size of this impact has created a deep penetration into the lunar surface, and a sample returned from this site could be analyzed for information concerning the interior of the Moon. 
+
+Because the near side is partly shielded from the solar wind by the Earth, the far side maria are expected to have the highest concentration of helium-3 on the surface of the Moon. This isotope is relatively rare on the Earth, but has good potential for use as a fuel in fusion reactors. Proponents of lunar settlement have cited presence of this material as a reason for development of a Moon base. 
+
+ 
+
+== Alleged UFO sightings and conspiracies ==
+*Some conspiracy theorists, notably Milton William Cooper, have alleged that some Apollo astronauts had seen UFOs on the far side of the Moon but were told to keep quiet about them. Some have allegedly reported seeing an alien base (code named "Luna") and even encountered aliens who told them to stay off the Moon. Some photographs circulated on the Internet purport to show a large "castle" on the Moon. However, NASA describes these claims as hoaxes, [http://astrobiology2.arc.nasa.gov/ask-an-astrobiologist/question/?id=1606 ] and in 2006 announced plans for manned missions to the far side of the Moon. Communication between the far side and Earth would require a relay satellite, perhaps at one of the trojan points.
+
+*The late Secretary of Defense Robert McNamara stated that several unspecified officials ("Chiefs") within the Pentagon were opposed to a Nuclear Test Ban Treaty between the United States and the Soviet Union, on the premise that the Soviets would continue nuclear weapons testing on the far side of the Moon, far from the observations of American observers. McNamara considered this premise "...absurd" and that “…were out of minds”, but he believed that it was an example of the state of mind of some Pentagon officials during the Cold War. The Fog of War, Errol Morris, 2003. Retrieved, Oct. 19, 2013. 
+
+:Ironically, it was later revealed that the Pentagon had their own plan to detonate a nuclear weapon as part of the experiment Project A119. The project was created not only to help in answering some of the mysteries in planetary astronomy and astrogeology, but also as a show of force in hopes of boosting domestic morale in the astro-capabilities of the United States, a boost that was needed after the Soviet Union took an early lead in the Space Race and who were also working on a similar project. U.S. had plans to nuke the moon., CNN Nov. 28, 2012. Retrieved, Oct 21, 2013. 
+
+==See also==
+
+* Geology of the Moon
+* Giant impact hypothesis
+* Lunar south pole
+* Near side of the Moon
+
+==References==
+
+==External links==
+* Lunar and Planetary Institute: Exploring the Moon
+* 
+* Lunar and Planetary Institute: Lunar Atlases
+* Ralph Aeschliman Planetary Cartography and Graphics: Lunar Maps
+* Northwest Africa 482, only meteorite believed to have originated from the far side of the Moon
+* Moon articles in Planetary Science Research Discoveries
+* 
+
+

@@ -1,0 +1,95 @@
+[[Endosymbiont]]
+
+A representation of the endosymbiotic theory
+
+An endosymbiont is any organism that lives within the body or cells of another organism, i.e. forming an endosymbiosis (Greek: ἔνδον endon "within", σύν syn "together" and βίωσις biosis "living"). Examples are nitrogen-fixing bacteria (called rhizobia), which live in root nodules on legume roots, single-cell algae inside reef-building corals, and bacterial endosymbionts that provide essential nutrients to about 10–15% of insects.
+
+Many instances of endosymbiosis are obligate; that is, either the endosymbiont or the host cannot survive without the other, such as the gutless marine worms of the genus Riftia, which get nutrition from their endosymbiotic bacteria. The most common examples of obligate endosymbioses are mitochondria and chloroplasts. Some human parasites, e.g. Wuchereria bancrofti and Mansonella perstans, thrive in their intermediate insect hosts because of an obligate endosymbiosis with Wolbachia spp. They can both be eliminated from said hosts by treatments that target this bacterium. However, not all endosymbioses are obligate. Also, some endosymbioses can be harmful to either of the organisms involved.
+
+It is generally agreed that certain organelles of the eukaryotic cell, especially mitochondria and plastids such as chloroplasts, originated as bacterial endosymbionts. This theory is called the endosymbiotic theory, and was first articulated by the Russian botanist Konstantin Mereschkowski in 1910, even though the first paper that referenced this theory was published in 1905. 
+
+== Endosymbiosis theory and mitochondria and chloroplasts ==
+
+The endosymbiosis theory explains the origins of organelles such as mitochondria and chloroplasts in eukaryotic cells. The theory proposes that chloroplasts and mitochondria evolved from certain types of bacteria that eukaryotic cells engulfed through endophagocytosis. These cells and the bacteria trapped inside them entered a symbiotic relationship, a close association between different types of organisms over an extended time. However, to be specific, the relationship was endosymbiotic, meaning that one of the organisms (the bacteria) lived within the other (the eukaryotic cells).
+
+According to endosymbiosis theory, an anaerobic cell probably ingested an aerobic bacterium but failed to digest it. The aerobic bacterium flourished within the cell because the cell's cytoplasm was abundant in half-digested food molecules. The bacterium digested these molecules with oxygen and gained great amounts of energy. Because the bacterium had so much energy, it probably leaked some of it as Adenosine triphosphate into the cell's cytoplasm. This benefited the anaerobic cell because it was now able to breathe aerobically, which means more potential for energy gain. Eventually, the aerobic bacterium could no longer live independently from the cell, and it, therefore, became a mitochondrion. The origin of the chloroplast is very similar to that of the mitochondrion. A cell must have captured a photosynthetic cyanobacterium and failed to digest it. The cyanobacterium thrived in the cell and eventually evolved into the first chloroplast. Other eukaryotic organelles may have also evolved through endosymbiosis; it has been proposed that cilia, flagella, centrioles, and microtubules may have originated from a symbiosis between a Spirochaete bacterium and an early eukaryotic cell, but this is not widely accepted among biologists.
+
+There are several examples of evidence that support endosymbiosis theory. Tree of Life Eukaryotes Mitochondria and chloroplasts contain their own small supply of DNA, which may be remnants of the genome the organelles had when they were independent aerobic bacteria. The single most convincing evidence of the descent of organelles from bacteria is the position of mitochondria and plastid DNA sequences in phylogenetic trees of bacteria. Mitochondria have sequences that clearly indicate origin from a group of bacteria called the alphaproteobacteria. Plastids have DNA sequences that indicate origin from the cyanobacteria (blue-green algae). In addition, there are organisms alive today, called living intermediates, that are in a similar endosymbiotic condition to the prokaryotic cells and the aerobic bacteria. Living intermediates show that the evolution proposed by the endosymbiont theory is possible. For example, the giant amoeba Pelomyxa lacks mitochondria but has aerobic bacteria that carry out a similar role. A variety of corals, clams, snails, and one species of Paramecium permanently host algae in their cells. Many of the insect endosymbionts have been shown to have ancient associations with their hosts, involving strictly vertical inheritance. In addition, these insect symbionts have similar patterns of genome evolution to those found in true organelles: genome reduction, rapid rates of gene evolution, and bias in nucleotide base composition favoring adenine and thymine, at the expense of guanine and cytosine.
+
+Further evidence of endosymbiosis are the prokaryotic ribosomes found within chloroplasts and mitochondria as well as the double-membrane enclosing them. It used to be widely assumed that the inner membrane is the original membrane of the once independent prokaryote, while the outer one is the food vacuole (phagosomal membrane) it was enclosed in initially. However, this view neglects the fact that i) both modern cyanobacteria and alpha-proteobacteria are Gram-negative bacteria, which are surrounded by double membranes; ii) the outer membranes of the endosymbiotic organelles (chloroplasts and mitochondria) are very similar to those of these bacteria in their lipid and protein compositions. Accumulating biochemical data strongly suggests that the double-membrane-enclosing chloroplasts and mitochondria derived from those of the ancestral bacteria, and the phagosomal membrane disappeared during organelle evolution. Triple or quadruple membranes are found among certain algae, probably resulting from repeated endosymbiosis (although little else was retained of the engulfed cell).
+
+These modern organisms with endosymbiotic relationships with aerobic bacteria have verified the endosymbiotic theory, which explains the origin of mitochondria and chloroplasts from bacteria. Researchers in molecular and evolutionary biology no longer question this theory, although some of the details, such as the mechanisms for loss of genes from organelles to host nuclear genomes, are still being worked out.
+
+Comparison of chloroplasts and cyanobacteria showing their similarities.
+
+==Bacterial endosymbionts in marine invertebrates==
+
+Extracellular endosymbionts are also represented in all four extant classes of Echinodermata (Crinoidea, Ophiuroidea, Echinoidea, and Holothuroidea). Little is known of the nature of the association (mode of infection, transmission, metabolic requirements, etc.) but phylogenetic analysis indicates that these symbionts belong to the alpha group of the class Proteobacteria, relating them to Rhizobium and Thiobacillus. Other studies indicate that these subcuticular bacteria may be both abundant within their hosts and widely distributed among the Echinoderms in general.
+
+Some marine oligochaeta (e.g., Olavius or Inanidrillus) have obligate extracellular endosymbionts that fill the entire body of their host. These marine worms are nutritionally dependent on their symbiotic chemoautotrophic bacteria lacking any digestive or excretory system (no gut, mouth, or nephridia).
+
+== Symbiodinium dinoflagellate endosymbionts in marine metazoa and protists ==
+
+Dinoflagellate endosymbionts of the genus Symbiodinium, commonly known as zooxanthellae, are found in corals, mollusks (esp. giant clams, the Tridacna), sponges, and foraminifera. These endosymbionts drive the amazing formation of coral reefs by capturing sunlight and providing their hosts with energy for carbonate deposition.
+
+Previously thought to be a single species, molecular phylogenetic evidence over the past couple decades has shown there to be great diversity in Symbiodinium. In some cases, there is specificity between host and Symbiodinium clade. More often, however, there is an ecological distribution of Symbiodinium, the symbionts switching between hosts with apparent ease. When reefs become environmentally stressed, this distribution of symbionts is related to the observed pattern of coral bleaching and recovery. Thus, the distribution of Symbiodinium on coral reefs and its role in coral bleaching presents one of the most complex and interesting current problems in reef ecology.
+
+==Endosymbionts in protists==
+Mixotricha paradoxa is a protozoan that lacks mitochondria. However, spherical bacteria live inside the cell and serve the function of the mitochondria. Mixotricha also has three other species of symbionts that live on the surface of the cell.
+
+Paramecium bursaria, a species of ciliate, has a mutualistic symbiotic relationship with green alga called Zoochlorella. The algae live inside the cell, in the cytoplasm.
+
+Paulinella chromatophora is a freshwater amoeboid which has recently (evolutionarily speaking) taken on a cyanobacterium as an endosymbiont.
+
+== Bacterial endosymbionts in insects ==
+
+Scientists classify insect endosymbionts in two broad categories, 'Primary' and 'Secondary'. Primary endosymbionts (sometimes referred to as P-endosymbionts) have been associated with their insect hosts for many millions of years (from 10 to several hundred million years in some cases). They form obligate associations (see below), and display cospeciation with their insect hosts. Secondary endosymbionts exhibit a more recently developed association, are sometimes horizontally transferred between hosts, live in the hemolymph of the insects (not specialized bacteriocytes, see below), and are not obligate.
+
+Among primary endosymbionts of insects, the best-studied are the pea aphid (Acyrthosiphon pisum) and its endosymbiont Buchnera sp. APS, the tsetse fly Glossina morsitans morsitans and its endosymbiont Wigglesworthia glossinidia brevipalpis and the endosymbiotic protists in lower termites. As with endosymbiosis in other insects, the symbiosis is obligate in that neither the bacteria nor the insect is viable without the other. Scientists have been unable to cultivate the bacteria in lab conditions outside of the insect. With special nutritionally-enhanced diets, the insects can survive, but are unhealthy, and at best survive only a few generations.
+
+In some insect groups, these endosymbionts live in specialized insect cells called bacteriocytes (also called mycetocytes), and are maternally-transmitted, i.e. the mother transmits her endosymbionts to her offspring. In some cases, the bacteria are transmitted in the egg, as in Buchnera; in others like Wigglesworthia, they are transmitted via milk to the developing insect embryo. In termites, the endosymbionts reside within the hindguts and are transmitted through trophallaxis among colony members.
+
+The primary endosymbionts are thought to help the host either by providing nutrients that the host cannot obtain itself or by metabolizing insect waste products into safer forms. For example, the putative primary role of Buchnera is to synthesize essential amino acids that the aphid cannot acquire from its natural diet of plant sap. Likewise, the primary role of Wigglesworthia, it is presumed, is to synthesize vitamins that the tsetse fly does not get from the blood that it eats. In lower termites, the endosymbiotic protists play a major role in the digestion of lignocellulosic materials that constitute a bulk of the termites' diet.
+
+Bacteria benefit from the reduced exposure to predators and competition from other bacterial species, the ample supply of nutrients and relative environmental stability inside the host.
+
+Genome sequencing reveals that obligate bacterial endosymbionts of insects have among the smallest of known bacterial genomes and have lost many genes that are commonly found in closely related bacteria. Several theories have been put forth to explain the loss of genes. It is presumed that some of these genes are not needed in the environment of the host insect cell. A complementary theory suggests that the relatively small numbers of bacteria inside each insect decrease the efficiency of natural selection in 'purging' deleterious mutations and small mutations from the population, resulting in a loss of genes over many millions of years. Research in which a parallel phylogeny of bacteria and insects was inferred supports the belief that the primary endosymbionts are transferred only vertically (i.e., from the mother), and not horizontally (i.e., by escaping the host and entering a new host).
+
+Attacking obligate bacterial endosymbionts may present a way to control their insect hosts, many of which pests or carriers of human disease. For example aphids are crop pests and the tsetse fly carries the organism Trypanosoma brucei that causes African sleeping sickness. Other motivations for their study is to understand symbiosis, and to understand how bacteria with severely depleted genomes are able to survive, thus improving our knowledge of genetics and molecular biology.
+
+Less is known about secondary endosymbionts. The pea aphid (Acyrthosiphon pisum) is known to contain at least three secondary endosymbionts, Hamiltonella defensa, Regiella insecticola, and Serratia symbiotica . H. defensa aids in defending the insect from parasitoids. Sodalis glossinidius is a secondary endosymbiont of tsetse flies that lives inter- and intracellularly in various host tissues, including the midgut and hemolymph. Phylogenetic studies have not indicated a correlation between evolution of Sodalis and tsetse. Aksoy, S., Pourhosseini, A. & Chow, A. 1995. Mycetome endosymbionts of tsetse flies constitute a distinct lineage related to Enterobacteriaceae. Insect Mol Biol. 4, 15-22. Unlike tsetse's P-symbiont Wigglesworthia, though, Sodalis has been cultured in vitro. Welburn, S.C., Maudlin, I. & Ellis, D.S. 1987. In vitro cultivation of rickettsia-like-organisms from Glossina spp. Ann. Trop. Med. Parasitol. 81, 331-335. 
+
+==Viral endosymbionts and endogenous retrovirus==
+
+During pregnancy in viviparous mammals, endogenous retroviruses (ERVs) are activated and produced in high quantities during the implantation of the embryo. On one hand, they act as immunodepressors, and protect the embryo from the immune system of the mother, and on the other hand viral fusion proteins cause the formation of the placental syncytium in order to limit the exchange of migratory cells between the developing embryo and the body of the mother, where an epithelium will not be adequate because certain blood cells are specialized to be able to insert themselves between adjacent epithelial cells. The ERV is a virus similar to HIV (the virus causing AIDS in humans). The immunodepressive action was the initial normal behavior of the virus, similar to HIV. The fusion proteins was a way to spread the infection to other cells by simply merging them with the infected one (similar to HIV). It is believed that the ancestors of modern viviparous mammals evolved after an accidental infection of an ancestor with this virus, which permitted the fetus to survive the immune system of the mother. The Viruses That Make Us: A Role For Endogenous Retrovirus In The Evolution Of Placental Species (by Luis P. Villarreal) 
+
+The human genome project found several thousand ERVs, which are organized into 24 families. 
+
+== See also ==
+* Anagenesis
+* Endophyte
+* List of symbiotic organisms
+* List of symbiotic relationships
+* Multigenomic organism
+* Protocell
+
+== Notes ==
+
+== References and external links ==
+
+=== Obligate bacterial endosymbiosis in marine oligochaetes ===
+*
+
+=== Bacterial endosymbionts in echinoderms ===
+*
+
+=== Obligate bacterial endosymbionts in insects ===
+*
+* A general review of bacterial endosymbionts in insects. P. Baumann, N. A. Moran and L. Baumann, Bacteriocyte-associated endosymbionts of insects in M. Dworkin, ed., The prokaryotes, Springer, New York, 2000. http://link.springer.de/link/service/books/10125/
+*
+*
+*
+*
+*
+
+

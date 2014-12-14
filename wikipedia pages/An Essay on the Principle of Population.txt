@@ -1,0 +1,250 @@
+[[An Essay on the Principle of Population]]
+
+The book An Essay on the Principle of Population was first published in 1798 under the alias Joseph Johnson., "Malthus, An Essay on the Principle of Population: Library of Economics" (description), Liberty Fund, Inc., 2000, EconLib.org webpage: EconLib-MalPop. but the author was soon identified as Thomas Robert Malthus. While it was not the first book on population, it has been acknowledged as the most influential work of its era. Its 6th edition was independently cited as a key influence by both Charles Darwin and Alfred Russel Wallace in developing the theory of natural selection.
+
+A key portion of the book was dedicated to what is now known as Malthus' Iron Law of Population. This name itself is retrospective, based on the iron law of wages, which is the reformulation of Malthus' position by Ferdinand Lassalle, who in turn derived the name from Goethe's "great, eternal iron laws" in Das Göttliche. Critique of the Gotha Programme, Karl Marx, Chapter 2, footnote 1, (1875) This theory suggested that growing population rates would contribute to a rising supply of labour that would inevitably lower wages. In essence, Malthus feared that continued population growth would lend itself to poverty.
+
+One immediate impact of Malthus's book was that it fueled the debate about the size of the population in Britain and led to (or at least greatly accelerated) the passing of the Census Act 1800. This Act enabled the holding of a national census in England, Wales and Scotland, starting in 1801 and continuing every ten years to the present.
+
+In 1803, Malthus published a major revision to his first edition, as the same title second edition; The fourth edition appeared in 1807 in two volumes. See , volume II via Google Books his final version, the 6th edition, was published in 1826. However, in 1830, 32 years after the first edition, Malthus published a condensed version titled A Summary View on the Principle of Population, which included remarks about criticisms of the main book.
+
+== Overview ==
+
+Between 1798 and 1826 Malthus published six editions of his famous treatise, updating each edition to incorporate new material, to address criticism, and to convey changes in his own perspectives on the subject. He wrote the original text in reaction to the optimism of his father and his father's associates (notably Rousseau) regarding the future improvement of society. Malthus also constructed his case as a specific response to writings of William Godwin (1756–1836) and of the Marquis de Condorcet (1743–1794).
+
+Malthus regarded ideals of future improvement in the lot of humanity with skepticism, considering that throughout history a segment of every human population seemed relegated to poverty. He explained this phenomenon by arguing that population growth generally expanded in times and in regions of plenty until the size of the population relative to the primary resources caused distress:
+
+Malthus also saw that societies through history had experienced at one time or another epidemics, famines, or wars: events that masked the fundamental problem of populations overstretching their resource limitations:
+
+=== Proposed solutions ===
+Malthus argued that two types of checks hold population within resource limits: positive checks, which raise the death rate; and preventive ones, which lower the birth rate. The positive checks include hunger, disease and war; the preventive checks, abortion, birth control, prostitution, postponement of marriage and celibacy. Geoffrey Gilbert, introduction to Malthus T.R. 1798. An Essay on the Principle of Population. Oxford World's Classics reprint. viii Regarding possibilities for freeing man from these limits, Malthus argued against a variety of imaginable solutions. For example, he satirically criticized the notion that agricultural improvements could expand without limit:
+
+He also commented on the notion that Francis Galton later called eugenics:
+
+In the second and subsequent editions Malthus put more emphasis on moral restraint. By that he meant the postponement of marriage until people could support a family, coupled with strict celibacy (sexual abstinence) until that time. "He went so far as to claim that moral restraint on a wide scale was the best means—indeed, the only means—of easing the poverty of the lower classes." Geoffrey Gilbert, introduction to Malthus T.R. 1798. An Essay on the Principle of Population. Oxford World's Classics reprint. xviii This plan appeared consistent with virtue, economic gain and social improvement.
+
+Malthus emphasises the difference between government-supported welfare, and public charity. He proposed the gradual abolition of poor laws by gradually reducing the number of persons qualifying for relief. Relief in dire distress would come from private charity. Malthus T.R. 1798. An Essay on the Principle of Population. Chapter V, pp 39–45, in Oxford World's Classics reprint. He reasoned that poor relief acted against the longer-term interests of the poor by raising the price of commodities and undermining the independence and resilience of the peasant. In other words, the poor laws tended to "create the poor which they maintain." By doing what appears good, we may do harm. Unintended consequences play a major role in economic thought; see the invisible hand and the tragedy of the commons. 
+
+It offended Malthus that critics claimed he lacked a caring attitude toward the situation of the poor. In the 1798 edition his concern for the poor shows in passages such as the following:
+
+In an addition to the 1817 edition he wrote:
+
+Some, such as William Farr 
+and Karl Marx, argued that Malthus did not fully recognize the human capacity to increase food supply. On this subject, however, Malthus had written: "The main peculiarity which distinguishes man from other animals, in the means of his support, is the power which he possesses of very greatly increasing these means." 
+Quoted in 
+
+=== On religion ===
+As a believer and a clergyman, Malthus addressed the question of how an omnipotent and caring God could permit suffering. In the First Edition of his Essay (1798) Malthus reasoned that the constant threat of poverty and starvation served to teach the virtues of hard work and virtuous behaviour. 
+ "Had population and food increased in the same ratio, it is probable that man might never have emerged from the savage state," he wrote, adding further, "Evil exists in the world not to create despair, but activity." Malthus T.R. 1798. An Essay on the Principle of Population. Oxford World's Classics reprint. p 158 Similarly, Malthus believed that "the infinite variety of nature...is admirably adapted to further the high purpose of the creation and to produce the greatest possible quantity of good." Malthus, An Essay on the Principle of Population, 1st ed., published anonymously, (St. Paul's Churchyard, London: J. Johnson, 1798), p. 73. 
+
+Nevertheless, although the threat of poverty could be understood to be a prod to motivate human industry, it was not God's will that man should suffer. Malthus wrote that mankind itself was solely to blame for human suffering: 
+
+=== Demographics, wages, and inflation ===
+Malthus wrote of the relationship between population, real wages, and inflation. When the population of laborers grows faster than the production of food, real wages fall because the growing population causes the cost of living (i.e., the cost of food) to go up. Difficulties of raising a family eventually reduce the rate of population growth, until the falling population again leads to higher real wages:
+
+"A circumstance which has, perhaps, more than any other, contributed to conceal this oscillation from common view, is the difference between the nominal and real price of labour. It very rarely happens that the nominal price of labour universally falls; but we well know that it frequently remains the same, while the nominal price of provisions has been gradually rising. This, indeed, will generally be the case, if the increase of manufactures and commerce be sufficient to employ the new labourers that are thrown into the market, and to prevent the increased supply from lowering the money-price.10 But an increased number of labourers receiving the same money-wages will necessarily, by their competition, increase the money-price of corn. This is, in fact, a real fall in the price of labour; and, during this period, the condition of the lower classes of the community must be gradually growing worse. But the farmers and capitalists are growing rich from the real cheapness of labour. Their increasing capitals enable them to employ a greater number of men; and, as the population had probably suffered some check from the greater difficulty of supporting a family, the demand for labour, after a certain period, would be great in proportion to the supply, and its price would of course rise, if left to find its natural level; and thus the wages of labour, and consequently the condition of the lower classes of society, might have progressive and retrograde movements, though the price of labour might never nominally fall. Essay (1798), Chap. IV. Accessed from http://oll.libertyfund.org/title/1945 on 2010-02-13 
+
+In later editions of his essay, Malthus clarified his view that if society relied on human misery to limit population growth, then sources of misery (e.g., hunger, disease, and war, termed by Malthus "positive checks on population") would inevitably afflict society, as would volatile economic cycles. On the other hand, "preventive checks" to population that limited birthrates, such as later marriages, could ensure a higher standard of living for all, while also increasing economic stability. Essay (1826), I:2. See also A:1:17 
+
+=== Editions and versions ===
+* 1798: An Essay on the Principle of Population, as it affects the future improvement of society with remarks on the speculations of Mr. Godwin, M. Condorcet, and other writers.. Anonymously published.
+* 1803: Second and much enlarged edition: An Essay on the Principle of Population; or, a view of its past and present effects on human happiness; with an enquiry into our prospects respecting the future removal or mitigation of the evils which it occasions. Authorship acknowledged.
+* 1806, 1807, 1817 and 1826: editions 3–6, with relatively minor changes from the second edition.
+* 1823: Malthus contributed the article on Population to the supplement of the Encyclopædia Britannica.
+* 1830: Malthus had a long extract from the 1823 article reprinted as A summary view of the Principle of Population. dates from Malthus T.R. 1798. An Essay on the Principle of Population. Oxford World's Classics reprint: xxix Chronology. 
+
+== 1st edition ==
+The full title of the first edition of Malthus' essay was "An Essay on the Principle of Population, as it affects the Future Improvement of Society with remarks on the Speculations of Mr. Godwin, M. Condorcet, and Other Writers." The speculations and other writers are explained below.
+
+William Godwin had published his utopian work Enquiry concerning Political Justice in 1793, with later editions in 1796 and 1798. Also, Of Avarice and Profusion (1797). Malthus' remarks on Godwin's work spans chapters 10 through 15 (inclusive) out of nineteen. Godwin responded with Of Population (1820).
+
+The Marquis de Condorcet had published his utopian vision of social progress and the perfectibility of man Esquisse d'un Tableau Historique des Progres de l'Espirit Humain (The Future Progress of the Human Mind) in 1794. Malthus' remarks on Condorcet's work spans chapters 8 and 9.
+
+Malthus' essay was in response to these utopian visions, as he argued:
+
+: "This natural inequality of the two powers, of population, and of production of the earth, and that great law of our nature which must constantly keep their effects equal, form the great difficulty that appears to me insurmountable in the way to the perfectibility of society."
+
+The "Other writers" included Robert Wallace, Adam Smith, Richard Price, and David Hume.
+
+Malthus himself claimed:
+
+: "The only authors from whose writings I had deduced the principle, which formed the main argument of the Essay, were Hume, Wallace, Adam Smith, and Dr. Price ..."
+
+Chapters 1 and 2 outline Malthus' Principle of Population, and the unequal nature of food supply to population growth. The exponential nature of population growth is today known as the Malthusian growth model. This aspect of Malthus' Principle of Population, together with his assertion that food supply was subject to a linear growth model, would remain unchanged in future editions of his essay. Note that Malthus actually used the terms geometric and arithmetic, respectively.
+
+Chapter 3 examines the overrun of the Roman empire by barbarians, due to population pressure. War as a check on population is examined.
+
+Chapter 4 examines the current state of populousness of civilized nations (particularly Europe). Malthus criticises David Hume for a "probable error" in his "criteria that he proposes as assisting in an estimate of population."
+
+Chapter 5 examines The Poor Laws of Pitt the Younger .
+
+Chapter 6 examines the rapid growth of new colonies such as the former Thirteen Colonies of the United States of America.
+
+Chapter 7 examines checks on population such as pestilence and famine.
+
+Chapter 8 also examines a "probable error" by Wallace "that the difficulty arising from population is at a great distance."
+
+Chapters 16 and 17 examine the causes of the wealth of states, including criticisms of Adam Smith and Richard Price. English wealth is compared with Chinese poverty.
+
+Chapters 18 and 19 set out a theodicy to explain the problem of evil in terms of natural theology. This views the world as a "a mighty process for awakening matter" in which the Supreme Being acting "according to general laws" created "wants of the body" as "necessary to create exertion" which forms "the reasoning faculty". In this way, the principle of population would "tend rather to promote, than impede the general purpose of Providence."
+
+The 1st edition influenced writers of natural theology such as William Paley and Thomas Chalmers.
+
+== 2nd to 6th editions ==
+Following both widespread praise and criticism of his essay, Malthus revised his arguments and recognized other influences:
+
+:"In the course of this enquiry I found that much more had been done than I had been aware of, when I first published the Essay. The poverty and misery arising from a too rapid increase of population had been distinctly seen, and the most violent remedies proposed, so long ago as the times of Plato and Aristotle. And of late years the subject has been treated in such a manner by some of the French Economists; occasionally by Montesquieu, and, among our own writers, by Dr. Franklin, Sir James Stewart, Mr. Arthur Young, and Mr. Townsend, as to create a natural surprise that it had not excited more of the public attention."
+
+The 2nd edition, published in 1803 (with Malthus now clearly identified as the author), was entitled "An Essay on the Principle of Population; or, a View of its Past and Present Effects on Human Happiness; with an enquiry into our Prospects respecting the Future Removal or Mitigation of the Evils which it occasions."
+
+Malthus advised that the 2nd edition "may be considered as a new work", and essentially the subsequent editions were all minor revisions of the 2nd edition. These were published in 1806, 1807, 1817, and 1826.
+
+By far the biggest change was in how the 2nd to 6th editions of the essay were structured, and the most copious and detailed evidence that Malthus presented, more than any previous such book on population. Essentially, for the first time, Malthus examined his own Principle of Population on a region by region basis of world population. The essay was organized in four books:
+
+* Book I - Of the Checks to Population in the Less Civilized Parts of the World and in Past Times. 
+* Book II - Of the Checks To Population in the Different States of Modern Europe. 
+* Book III - Of the different Systems or Expedients which have been proposed or have prevailed in Society, as They affect the Evils arising from the Principle of Population. 
+* Book IV - Of our future Prospects respecting the Removal or Mitigation of the Evils arising from the Principle of Population.
+
+Due in part to the highly influential nature of Malthus' work (see main article Thomas Malthus), this approach is regarded as pivotal in establishing the field of demography.
+
+The following controversial quote appears in the second edition:
+:"A man who is born into a world already possessed, if he cannot get subsistence from his parents on whom he has a just demand, and if the society do not want his labour, has no claim of right to the smallest portion of food, and, in fact, has no business to be where he is. At nature's mighty feast there is no vacant cover for him. She tells him to be gone, and will quickly execute her own orders, if he does not work upon the compassion of some of her guests. If these guests get up and make room for him, other intruders immediately appear demanding the same favour. The report of a provision for all that come, fills the hall with numerous claimants. The order and harmony of the feast is disturbed, the plenty that before reigned is changed into scarcity; and the happiness of the guests is destroyed by the spectacle of misery and dependence in every part of the hall, and by the clamorous importunity of those, who are justly enraged at not finding the provision which they had been taught to expect. The guests learn too late their error, in counter-acting those strict orders to all intruders, issued by the great mistress of the feast, who, wishing that all guests should have plenty, and knowing she could not provide for unlimited numbers, humanely refused to admit fresh comers when her table was already full."
+
+Ecologist Professor Garrett Hardin claims that the preceding passage inspired hostile reactions from many critics. The offending passage of Malthus' essay appeared in the 2nd edition only, as Malthus felt obliged to remove it. 
+ 
+
+From the 2nd edition onwards - in Book IV - Malthus advocated moral restraint as an additional, and voluntary, check on population. This included such measures as sexual abstinence and late marriage.
+
+As noted by Professor Robert M. Young, Malthus dropped his chapters on natural theology from the 2nd edition onwards. Also, the essay became less of a personal response to William Godwin and Marquis de Condorcet.
+
+== A summary view ==
+A Summary View on the Principle of Population was published in 1830. The author was identified as Rev. T.R. Malthus, A.M., F.R.S. Malthus wrote A Summary View for those who did not have the leisure to read the full essay and, as he put it:
+
+: "...to correct some of the misrepresentations which have gone abroad respecting two or three of the most important points of the Essay..." Thomas Robert Malthus, George Thomas Bettany, "A Summary View on the Principle of Population, p 36" 
+
+A Summary View ends with a defense of the Principle of Population against the charge that it:
+
+: "...impeaches the goodness of the Deity, and is inconsistent with the letter and spirit of the scriptures."
+
+See main article Thomas Malthus for more.
+
+This was Malthus' final word on his Principle of Population. He died in 1834.
+
+== Other works that influenced Malthus ==
+* Of the Populousness of Ancient Nations (1752) - David Hume (1711–76)
+* An enquiry into the Nature and Causes of the Wealth of Nations (1776) - Adam Smith (1723–90)
+* A Dissertation on the Numbers of Mankind in Ancient and Modern Times (1753), Characteristics of the Present State of Great Britain (1758), and Various Prospects of Mankind, Nature and Providence (1761) - Robert Wallace (1697-1771)
+* Essay on the Population of England from the Revolution to Present Time (1780), Evidence for a Future Period in the State of Mankind, with the Means and Duty of Promoting it (1787) - Richard Price (1723-1791).
+* Observations Concerning the Increase of Mankind, Peopling of Countries, etc. (1751) by Benjamin Franklin (1706-1790)
+
+== Reception and influence of the Essay ==
+
+=== Personalia ===
+Malthus became subject to extreme personal criticism. People who knew nothing about his private life criticised him both for having no children and for having too many. In 1819, Shelley, berating Malthus as a priest, called him "a eunuch and a tyrant". Percy B. Shelley: "A philosophical view of reform." In The Complete Works of Percy Bysshe Shelley. London: Gordian, 1829. (vol. 7, p. 32) Marx repeated the lie, adding that Malthus had taken the vow of celibacy, and called him "superficial", "a professional plagiarist", "the agent of the landed aristocracy", "a paid advocate" and "the principal enemy of the people." 
+Dupaquier J. (ed). 1983. Malthus past and present. New York: Academic Press. p. 258 
+
+In the 20th century an editor of the Everyman edition of Malthus claimed that Malthus had practised population control by begetting eleven girls. Fogarty, Michael P. 1958. Introduction to Malthus, Essay on the Principle of Population. Dent, London. vi In fact, Malthus fathered two daughters and one son. Garrett Hardin provides an overview of such personal comments. Hardin, Garrett 1998. "The feast of Malthus: living within limits". The Social Contract. 
+
+=== Early influence ===
+The position held by Malthus as professor at the Haileybury training college, to his death in 1834, gave his theories some influence over Britain's administration of India. Petersen, William. 1979. Malthus. Heinemann, London. 2nd ed 1999. p 32 According to Peterson, William Pitt the Younger (in office: 1783–1801 and 1804–1806), on reading the work of Malthus, withdrew a Bill he had introduced that called for the extension of Poor Relief. Concerns about Malthus's theory helped promote the idea of a national population census in the UK. Government official John Rickman became instrumental in the carrying out of the first modern British census in 1801, under Pitt's administration. In the 1830s Malthus's writings strongly influenced Whig reforms which overturned Tory paternalism and brought in the Poor Law Amendment Act of 1834.
+
+Malthus convinced most economists that even while high fertility might increase the gross output, it tended to reduce output per capita. David Ricardo and Alfred Marshall admired Malthus, and so came under his influence. Early converts to his population theory included William Paley. Despite Malthus's opposition to contraception, his work exercised a strong influence on Francis Place (1771–1854), whose neo-Malthusian movement became the first to advocate contraception. Place published his Illustrations and Proofs of the Principles of Population in 1822. Petersen, William. 1979. Malthus. Heinemann, London. 2nd ed 1999. Chapter 9: Fertility 
+
+=== Early responses in the Malthusian controversy ===
+William Godwin criticized Malthus's criticisms of his own arguments in his book On Population (1820). Other theoretical and political critiques of Malthus and Malthusian thinking emerged soon after the publication of the first Essay on Population, most notably in the work of Robert Owen, of the essayist William Hazlitt (1807) A Reply to the Essay on Population, by the Rev. T. R. Malthus. For an annotated extract, see: Malthus And The Liberties Of The Poor, 1807 and of the economist Nassau William Senior, Two Lectures on Population, 1829 and moralist William Cobbett. True Law of Population (1845) was by politician Thomas Doubleday, an adherent of Cobbett's views.
+
+John Stuart Mill strongly defended the ideas of Malthus in his 1848 work, Principles of Political Economy (Book II, Chapters 11–13). Mill considered the criticisms of Malthus made thus far to have been superficial.
+
+The American economist Henry Charles Carey rejected Malthus's argument in his magnum opus of 1858–59, The Principles of Social Science. Carey maintained that the only situation in which the means of subsistence will determine population growth is one in which a given society is not introducing new technologies or not adopting forward-thinking governmental policy, and that population regulated itself in every well-governed society, but its pressure on subsistence characterized the lower stages of civilization.
+
+=== Marxist opposition ===
+Another strand of opposition to Malthus's ideas started in the middle of the 19th century with the writings of Friedrich Engels (Outlines of a Critique of Political Economy, 1844) and Karl Marx (Capital, 1867). Engels and Marx argued that what Malthus saw as the problem of the pressure of population on the means of production actually represented the pressure of the means of production on population. They thus viewed it in terms of their concept of the reserve army of labour. In other words, the seeming excess of population that Malthus attributed to the seemingly innate disposition of the poor to reproduce beyond their means actually emerged as a product of the very dynamic of capitalist economy.
+
+Engels called Malthus's hypothesis "...the crudest, most barbarous theory that ever existed, a system of despair which struck down all those beautiful phrases about love thy neighbour and world citizenship." Engels, Friedrich, "Outlines of a Critique of Political Economy", original in DEUTSCHFRANZÖSISCHE JAHRBÜCHER, First (and only) Issue, February 1844, reprinted in Meek (1971), (transl. not specified) Engels also predicted that science would solve the problem of an adequate food supply.
+
+In the Marxist tradition, Lenin sharply criticized Malthusian theory and its neo-Malthusian version, 
+See V. I. Lenin: "The Working Class and NeoMalthusianism" in Pravda No. 137, 16 June 1913; see also http://www.rcgfrfi.easynet.co.uk/ww/lenin/1913-wcn.htm
+ 
+calling it a "reactionary doctrine" and "an attempt on the part of bourgeois ideologists to exonerate capitalism and to prove the inevitability of privation and misery for the working class under any social system".
+
+In addition, many Russian philosophers could not easily apply Malthus’ population theory to Russian society in the 1840s. In England, where Malthus lived, population was rapidly increasing but suitable agricultural land was limited. Russia, on the other hand, had extensive land with agricultural potential yet a relatively sparse population. It is possible that this discrepancy between Russian and English realities contributed to the rejection of Malthus’ Essay on the Principle of Population by key Russian thinkers. 
+Another difference which contributed to the confusion and ultimately the rejection of Malthus's argument in Russia was its cultural basis in English capitalism. This political contrast helps explain why it took Russia twenty years to publish of review of the work and fifty years to translate Malthus's Essay. 
+
+=== Later responses ===
+Some 19th-century economists believed that improvements in finance, manufacturing and science rendered some of Malthus's warnings implausible. They had in mind the division and specialization of labour, increased capital investment, and increased productivity of the land due to the introduction of science into agriculture (note the experiments of Justus Liebig and of Sir John Bennet Lawes). Even in the absence of improvement in technology or of increase of capital equipment, an increased supply of labour may have a synergistic effect on productivity that overcomes the law of diminishing returns. As American land-economist Henry George observed with characteristic piquancy in dismissing Malthus: "Both the jayhawk and the man eat chickens; but the more jayhawks, the fewer chickens, while the more men, the more chickens." In the 20th century, those who regarded Malthus as a failed prophet of doom included an editor of Nature, John Maddox. Maddox, John 1972. The Doomsday Syndrome: an assault on pessimism. 
+
+Economist Julian Lincoln Simon has criticised Malthus's conclusions. Simon J.L. 1981. The ultimate resource; and 1992 The ultimate resource II. He notes that despite the predictions of Malthus and of the Neo-Malthusians, massive geometric population growth in the 20th century did not result in a Malthusian catastrophe. Many factors have been identified as having contributed: general improvements in farming methods (industrial agriculture), mechanization of work (tractors), the introduction of high-yield varieties of wheat and other plants (Green Revolution), the use of pesticides to control crop pests. Each played a role. 
+Antony Trewavas: "Malthus foiled again and again", in Nature 418, 668–670 (8 August 2002), retrieved 28 December 2008 
+
+The enviro-sceptic Bjørn Lomborg presents data showing that the environment has actually improved. Lomborg, Bjorn. 2001. The Skeptical Environmentalist. Cambridge UP, London. Chapter 5 Food and hunger, p60–69; and note also Part III: "Can human prosperity continue?" p91–160. Calories produced per day per capita globally went up 23% between 1960 and 2000, despite the world population doubling during that period. Graph in Lomberg 2001 p61; data from United Nations Food and Agriculture Organization database http://apps.fao.org/ 
+
+Anthropologist Eric Ross depicts Malthus's work as a rationalization of the social inequities produced by the Industrial Revolution, anti-immigration movements, the eugenics movement and the various international development movements. Ross, Eric B. 1998. The Malthus factor: population, poverty, and politics in capitalist development. Zed Books, London, 1998. ISBN 1-85649-564-7
+ 
+
+=== Social theory ===
+Despite use of the term "Malthusian catastrophe" by detractors such as economist Julian Simon (1932–1998), Malthus himself did not write that mankind faced an inevitable future catastrophe. Rather, he offered an evolutionary social theory of population dynamics as it had acted steadily throughout all previous history. See Elwell (2001) for an extended exposition Eight major points regarding population dynamics appear in the 1798 Essay:
+
+# subsistence severely limits population-level
+# when the means of subsistence increases, population increases
+# population-pressures stimulate increases in productivity
+# increases in productivity stimulate further population-growth
+# because productivity increases cannot maintain the potential rate of population growth, population requires strong checks to keep parity with the carrying-capacity
+# individual cost/benefit decisions regarding sex, work, and children determine the expansion or contraction of population and production
+# checks will come into operation as population exceeds subsistence-level
+# the nature of these checks will have significant effect on the larger sociocultural system—Malthus points specifically to misery, vice, and poverty
+
+Malthusian social theory influenced Herbert Spencer's idea of the survival of the fittest, Spencer, Herbert 1864. Principles of Biology, vol. 1, p 444 and the modern ecological-evolutionary social theory of Gerhard Lenski and Marvin Harris. Malthusian ideas have thus contributed to the canon of socioeconomic theory.
+
+The first Director-General of UNESCO, Julian Huxley, wrote of The crowded world in his Evolutionary Humanism (1964), calling for a world population policy. Huxley openly criticised communist and Roman Catholic attitudes to birth control, population control and overpopulation.
+
+=== Biology ===
+Charles Darwin and Alfred Russel Wallace each read and acknowledged the role played by Malthus in the development of their own ideas. Darwin referred to Malthus as "that great philosopher", Letter to J.D. Hooker, 5 June 1860 and said: "This is the doctrine of Malthus, applied with manifold force to the animal and vegetable kingdoms, for in this case there can be no artificial increase of food, and no prudential restraint from marriage". Darwin, Charles 1859. On the origin of species by means of natural selection. Murray, London. p 63 
+Darwin also wrote:
+
+Wallace stated:
+
+Ronald Fisher commented sceptically on Malthusianism as a basis for a theory of natural selection. 
+Quoted in: Fisher did not deny Malthus's basic premises, but emphasised the role of fecundity. Quoted in: John Maynard Smith doubted that famine functioned as the great leveller, as portrayed by Malthus, but he also accepted the basic premises:
+
+Populations cannot increase geometrically forever. Sooner or later, a shortage of resources must bring the increase to a halt. It was this insight, that led Darwin to the idea of natural selection and is a major underpinning of the Origin of Species.
+
+=== Later influence ===
+Malthusian ideas continue to have considerable influence. Paul R. Ehrlich has written several books predicting famine as a result of population increase: The Population Bomb (1968); Population, resources, environment: issues in human ecology (1970, with Anne Ehrlich); The end of affluence (1974, with Anne Ehrlich); The population explosion (1990, with Anne Ehrlich). In the late 1960s Ehrlich predicted that hundreds of millions would die from a coming overpopulation-crisis in the 1970s. Other examples of applied Malthusianism include the 1972 book The Limits to Growth (published by the Club of Rome) and the Global 2000 report to the then President of the United States of America Jimmy Carter. Science-fiction author Isaac Asimov issued many appeals for population-control reflecting the perspective articulated by people from Robert Malthus through Paul R. Ehrlich.
+
+More , a school of "neo-Malthusian" scholars has begun to link population and economics to a third variable, political change and political violence, and to show how the variables interact. In the early 1980s, James Goldstone linked population variables to the English Revolution of 1640–1660 and David Lempert devised a model of demographics, economics, and political change in the multi-ethnic country of Mauritius. Goldstone has since modeled other revolutions by looking at demographics and economics and Lempert has explained Stalin's purges and the Russian Revolution of 1917 in terms of demographic factors that drive political economy. Ted Robert Gurr has also modeled political violence, such as in the Palestinian territories and in Rwanda/Congo (two of the world's regions of most rapidly growing population) using similar variables in several comparative cases. These approaches suggest that political ideology follows demographic forces.
+
+Malthus, sometimes regarded as the founding father of modern demography, continues to inspire and influence futuristic visions, such as those of K Eric Drexler relating to space advocacy and molecular nanotechnology. As Drexler put it in Engines of Creation (1986): "In a sense, opening space will burst our limits to growth, since we know of no end to the universe. Nevertheless, Malthus was essentially right."
+
+The Malthusian growth model now bears Malthus's name. The logistic function of Pierre Francois Verhulst (1804–1849) results in the S-curve. Verhulst developed the logistic growth model favored by so many critics of the Malthusian growth model in 1838 only after reading Malthus's essay. Malthus has also inspired retired physics professor, Albert Allen Bartlett, to lecture over 1,500 times on "Arithmetic, Population, and Energy", promoting sustainable living and explaining the mathematics of overpopulation.
+* became the best-abused man of the age Bonar, James 1885. Malthus and His Work. Macmillan, London. p1 
+* There is hardly a cherished ideology, left or right, that is not brought into question by the principle of population.
+
+== See also ==
+* Adam Smith
+* Book of Murder - two satirical attacks on the Poor Law Amendment Act
+* Benjamin Franklin
+* David Hume
+* The dismal science
+* Famous predictions
+* Marquis de Condorcet
+* Montesquieu 
+* Richard Price 
+* William Godwin
+* A Christmas Carol
+
+== References ==
+
+== References ==
+* Malthus, An Essay On The Principle Of Population (1798 1st edition) with A Summary View (1830), and Introduction by Professor Antony Flew. Penguin Classics. ISBN 0-14-043206-X.
+* Malthus, An Essay On The Principle Of Population (1798 1st edition, plus excerpts 1803 2nd edition), Introduction by Philip Appleman, and assorted commentary on Malthus edited by Appleman. Norton Critical Editions. ISBN 0-393-09202-X.
+* William Peterson, Malthus, Founder of Modern Demography (1979, 1999). ISBN 0-7658-0481-6.
+* Online chapter MALTHUS AND THE EVOLUTIONISTS: THE COMMON CONTEXT OF BIOLOGICAL AND SOCIAL THEORY from Darwin's Metaphor: Nature's Place in Victorian Culture by Professor Robert M. Young (1985, 1988, 1994). Cambridge University Press.
+
+== External links ==
+
+* EconLib-1798: An Essay on the Principle of Population, 1st edition, 1798. Library of Economics and Liberty. Free online, full-text searchable. 
+* EconLib-1826: An Essay on the Principle of Population, 6th edition, 1826. Library of Economics and Liberty. Free online, full-text searchable. Malthus published a major revision to his first edition&mdash;his second edition&mdash;in 1803. His 6th edition, published 1826, and revising his various 2nd-5th editions, became his widely cited 6th and final revision.
+*Darwin Online, Malthus, Thomas. 1826. An essay on the principle of population 6th edition. London: John Murray. Volume 1, Volume 2, free online access, full searchable text plus pdf views of each page.
+
+

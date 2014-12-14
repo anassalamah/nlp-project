@@ -1,0 +1,29 @@
+[[Nuclear transport]]
+
+The entry and exit of large molecules from the cell nucleus is tightly controlled by the nuclear pore complexes (NPCs). Although small molecules can enter the nucleus without regulation, macromolecules such as RNA and proteins require association with karyopherins called importins to enter the nucleus and exportins to exit.
+
+Protein that must be imported to the nucleus from the cytoplasm carry nuclear localization signals (NLS) that are bound by importins. A NLS is a sequence of amino acids that acts as a tag. They are diverse in their composition and most commonly hydrophilic, although hydrophobic sequences have also been documented. Proteins, transfer RNA, and assembled ribosomal subunits are exported from the nucleus due to association with exportins, which bind signaling sequences called nuclear export signals (NES). The ability of both importins and exportins to transport their cargo is regulated by the small Ras related GTPase, Ran. 
+
+GTPases are enzymes that bind to a molecule called guanosine triphosphate (GTP) which they then hydrolyze to create guanosine diphosphate (GDP) and release energy. Ran is in a different conformation depending on whether it is bound to GTP or GDP. In its GTP bound state, Ran is capable of binding karyopherins (importins and exportins). Importins release cargo upon binding to RanGTP, while exportins must bind RanGTP to form a ternary complex with their export cargo. The dominant nucleotide binding state of Ran depends on whether it is located in the nucleus (RanGTP) or the cytoplasm (RanGDP).
+
+Macromolecules, such as RNA and proteins, are actively transported across the nuclear membrane in a process called the Ran-GTP nuclear transport cycle.
+
+==Nuclear import==
+Importin proteins bind their cargo in the cytoplasm, after which they are able to interact with the nuclear pore complex and pass through its channel. Once inside the nucleus, interaction with Ran-GTP causes a conformational change in the importin that causes it to dissociate from its cargo. The resulting complex of importin and Ran-GTP then translocates to the cytoplasm, where a protein called Ran Binding Protein (RanBP) separates Ran-GTP from importin. Separation allows access to a GTPase activating protein (GAP) that binds Ran-GTP and induces the hydrolysis of GTP to GDP. Izaurralde E, Adam S. (1998). Transport of macromolecules between the nucleus and the cytoplasm. RNA 4(4):351-64. The Ran-GDP produced from this process now binds the nuclear transport factor NUTF2 which returns it to the nucleoplasm. Now in the nucleus, the Ran-GDP interacts with a guanine nucleotide exchange factor (GEF) which replaces the GDP with GTP, resulting again in Ran-GTP, and beginning the cycle anew.
+
+==Nuclear export==
+Nuclear export roughly reverses the import process; in the nucleus, the exportin binds the cargo and Ran-GTP and diffuses through the pore to the cytoplasm, where the complex dissociates. Ran-GTP binds GAP and hydrolyzes GTP, and the resulting Ran-GDP complex is restored to the nucleus where it exchanges its bound ligand for GTP. Hence, whereas importins depend on RanGTP to dissociate from their cargo, exportins require RanGTP in order to bind to their cargo. 
+
+A specialized mRNA exporter protein moves mature mRNA to the cytoplasm after post-transcriptional modification is complete. This translocation process is actively dependent on the Ran protein, although the specific mechanism is not yet well understood. Some particularly commonly transcribed genes are physically located near nuclear pores to facilitate the translocation process. Cole CN, Scarcelli JJ.(2006). Transport of messenger RNA from the nucleus to the cytoplasm. Curr Opin Cell Biol 18(3):299-306. 
+
+tRNA export is also dependent on the various modifications it undergoes, thus preventing export of improperly functioning tRNA. This quality control mechanism is important due to tRNA's central role in translation, where it is involved in adding amino acids to a growing peptide chain. The tRNA exporter in vertebrates is called exportin-t. Exportin-t binds directly to its tRNA cargo in the nucleus, a process promoted by the presence of RanGTP. Mutations that affect tRNA's structure inhibit its ability to bind to exportin-t, and consequentially, to be exported, providing the cell with another quality control step. As described above, once the complex has crossed the envelope it dissociates and releases the tRNA cargo into the cytosol.
+
+==References==
+ 
+
+==External links==
+
+* Nuclear Transport animations
+* Nuclear Transport illustrations
+
+

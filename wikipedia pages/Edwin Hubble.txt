@@ -1,0 +1,121 @@
+[[Edwin Hubble]]
+
+Edwin Powell Hubble (November 20, 1889 – September 28, 1953) was an American astronomer who played a crucial role in establishing the field of extragalactic astronomy and is generally regarded as one of the most important observational cosmologists of the 20th century. Hubble is known for showing that the recessional velocity of a galaxy increases with its distance from the earth, implying the universe is expanding. Known as "Hubble's law", this relation had been discovered previously by Georges Lemaître, a Belgian priest/astronomer who published his work in a less visible journal. There is still much controversy surrounding the issue and some argue that it should be referred to as "Lemaître's law" although this change has not taken hold in the astronomy community.
+
+Hubble is also known for providing substantial evidence that many formerly known "nebulae" were actually galaxies beyond the Milky Way. American astronomer Vesto Slipher provided the first evidence to this argument almost a decade before. 
+
+Hubble supported the Doppler shift interpretation of the observed redshift that had been proposed earlier by Slipher, and that led to the theory of the metric expansion of space. Effects of Red Shifts on the Distribution of Nebulae, Hubble, Edwin, Astrophysical Journal, vol. 84, p.517, The SAO/NASA Astrophysics Data System Red-shifts and the distribution of nebul&aelig, Hubble, Edwin, Monthly Notices of the Royal Astronomical Society, Vol. 97, p.513, The SAO/NASA Astrophysics Data System He tended to believe the frequency of light could, by some so far unknown means, decrease the longer light travels through space. Engelbert Broda: 
+
+==Biography==
+Edwin Hubble was born to Virginia Lee James (1864-1934) and John Powell Hubble, an insurance executive, in Marshfield, Missouri, and moved to Wheaton, Illinois, in 1900. In his younger days, he was noted more for his athletic prowess than his intellectual abilities, although he did earn good grades in every subject except for spelling. Edwin was a gifted athlete playing baseball, football, basketball, and he ran track in both high school and college. He played a variety of positions on the basketball court from center to shooting guard. In fact Hubble even led the University of Chicago ’s basketball team to their first conference title in 1907. He won seven first places and a third place in a single high school track and field meet in 1906. That year he also set the state high school record for the high jump in Illinois. Another of his personal interests was dry-fly fishing, and he practiced amateur boxing as well. World of Physics and The Cloudy Night Book 
+
+His studies at the University of Chicago were concentrated on mathematics and astronomy, which led to a bachelor of science degree in 1910. Hubble also became a member of the Kappa Sigma Fraternity (and in 1948 was named the Kappa Sigma "Man of the Year"). He spent the three years at The Queen's College, Oxford after earning his bachelors as one of the university's first Rhodes Scholars, initially studying jurisprudence instead of science (as a promise to his dying father), and later added literature and Spanish, and earning his master's degree. 
+
+In 1909, Hubble's father moved his family from Chicago to Shelbyville, Kentucky, so that the family could live in a small town, ultimately settling in nearby Louisville. His father died in the winter of 1913, while Edwin was still in England, and in the summer of 1913, Edwin returned to care for his mother, two sisters, and younger brother, as did his brother William. The family moved once more to Everett Avenue, in Louisville's Highlands neighborhood, to accommodate Edwin and William. 
+
+Hubble was also a dutiful son, who despite his intense interest in astronomy since boyhood, surrendered to his father’s request to study law, first at the University of Chicago and later at Oxford, though he managed to take a few math and science courses. After the death of his father in 1913, Edwin returned to the Midwest from Oxford, but did not have the motivation to practice law. So he taught Spanish, physics, and mathematics at the New Albany High School in New Albany, Indiana for a year before he resolved to start over, at the age of 25, to become a professional astronomer. He also coached the boys' basketball team there. After a year of high-school teaching, he entered graduate school with the help of his former professor from the University of Chicago to study astronomy at the Yerkes Observatory of the University, where he received his PhD in 1917. His dissertation was titled Photographic Investigations of Faint Nebulae.
+
+When Congress declared war on Germany in 1917, Hubble rushed his dissertation for his PhD, volunteering for the United States Army and was assigned to the newly created 86th Division. He rose to the rank of Major and was found fit for overseas duty on July 9, 1918. The 86th Division never saw combat, and after the end of World War One Hubble spent a year in Cambridge, where he renewed his studies of Astronomy. In 1919, Hubble was offered a staff position in California by George Ellery Hale, the founder and director of the Carnegie Institution's Mount Wilson Observatory, near Pasadena, California, where he remained on the staff until his death. Hubble also served in the U.S. Army at the Aberdeen Proving Ground during World War II. For his work there, he received the Legion of Merit award. Shortly before his death, Mount Palomar's giant 200 in reflector Hale Telescope was completed, and Hubble was the first astronomer to use it. Hubble continued his research at the Mount Wilson and Mount Palomar Observatories, where he remained active until his death.
+
+Although Hubble was raised as a Christian, he later became an agnostic. 
+
+Hubble experienced a heart attack in July 1949 while on vacation in Colorado. He was taken care of by his wife, Grace Hubble, and continued on a modified diet and work schedule. He died of cerebral thrombosis (a spontaneous blood clot in his brain) on September 28, 1953, in San Marino, California. No funeral was held for him, and his wife never revealed his burial site. 
+
+==Discoveries==
+
+===The universe goes beyond the Milky Way galaxy===
+Edwin Hubble's arrival at Mount Wilson, California in 1919 coincided roughly with the completion of the 100 in Hooker Telescope, then the world's largest telescope. At that time, the prevailing view of the cosmos was that the universe consisted entirely of the Milky Way Galaxy. Using the Hooker Telescope at Mt. Wilson, Hubble identified Cepheid variables (a kind of star; see also standard candle) in several spiral nebulae, including the Andromeda Nebula and Triangulum. His observations, made in 1922–1923, proved conclusively that these nebulae were much too distant to be part of the Milky Way and were, in fact, entire galaxies outside our own. This idea had been opposed by many in the astronomy establishment of the time, in particular by the Harvard University-based Harlow Shapley. Despite the opposition, Hubble, then a thirty-five-year-old scientist, had his findings first published in The New York Times on November 23, 1924, and then more formally presented in the form of a paper at the January 1, 1925 meeting of the American Astronomical Society. Hubble's findings fundamentally changed the scientific view of the universe. Supporters of Hubble’s expanding universe theory state that Hubble’s discovery of nebulas outside of our galaxy helped pave the way for future astronomers. Although some of his more renowned colleagues simply scoffed at Hubble's idea of an expanding universe, Hubble ended up publishing his findings on nebulas. This published work earned him an award titled the American Association Prize and five hundred dollars from Burton E. Livingston of the Committee on Awards. 
+
+Hubble also devised the most commonly used system for classifying galaxies, grouping them according to their appearance in photographic images. He arranged the different groups of galaxies in what became known as the Hubble sequence. 
+
+===Redshift increases with distance===
+The 100 in Hooker telescope at Mount Wilson Observatory that Hubble used to measure galaxy distances and a value for the rate of expansion of the universe.
+
+Combining his own measurements of galaxy distances based on Henrietta Swan Leavitt's period-luminosity relationship for Cepheids with Vesto Slipher and Milton L. Humason's measurements of the redshifts associated with the galaxies, he discovered a rough proportionality of the objects' distances with their red shifts. Though there was considerable scatter (now known to be due to peculiar velocities), he was able to plot a trend line from the 46 galaxies and obtained a value for the Hubble Constant of 500 km/s/Mpc, which is much higher than the currently accepted value due to errors in their distance calibrations. In 1929 Hubble formulated the Redshift Distance Law, nowadays termed simply Hubble's law, which, if the redshift is understood to be a measure of recession velocity, is consistent with the solutions of Einstein’s equations of general relativity for a homogeneous, isotropic expanding space. Although concepts underlying an expanding universe were well understood earlier, this statement by Hubble and Humason led to wider-scale acceptance for this view. The law states that the greater the distance between any two galaxies, the greater their relative speed of separation. But two years before, in 1927, Georges Lemaître, a Belgian Catholic priest and physicist, published a paper in an obscure Belgian journal, Annales de la Société Scientifique de Bruxelles. In that paper, he showed that the data collected by Hubble and two other astronomers up to that time was enough to derive a linear velocity-distance relation between the galaxies, and that this supported a model of an expanding universe based on Einstein’s equations for General Relativity.
+
+This discovery was the first observational support for the Big Bang theory which had been proposed by Georges Lemaître in 1927. The observed velocities of distant galaxies, taken together with the cosmological principle, appeared to show that the universe was expanding in a manner consistent with the Friedmann-Lemaître model of general relativity. In 1931 Hubble wrote a letter to the Dutch cosmologist Willem de Sitter expressing his opinion on the theoretical interpretation of the redshift-distance relation: 
+
+Today, the "apparent velocities" in question are understood as an increase in proper distance that occurs due to the expansion of space. Light traveling through stretching space will experience a Hubble-type redshift, a mechanism different from the Doppler effect (although the two mechanisms become equivalent descriptions related by a coordinate transformation for nearby galaxies).
+
+In the 1930s, Hubble was involved in determining the distribution of galaxies and spatial curvature. These data seemed to indicate that the universe was flat and homogeneous, but there was a deviation from flatness at large redshifts. According to Allan Sandage,
+
+There were methodological problems with Hubble's survey technique that showed a deviation from flatness at large redshifts. In particular, the technique did not account for changes in luminosity of galaxies due to galaxy evolution.
+Earlier, in 1917, Albert Einstein had found that his newly developed theory of general relativity indicated that the universe must be either expanding or contracting. Unable to believe what his own equations were telling him, Einstein introduced a cosmological constant (a "fudge factor") to the equations to avoid this "problem". When Einstein learned of Hubble's redshifts, he immediately realized that the expansion predicted by General Relativity must be real, and in later life he said that changing his equations was "the biggest blunder of life." In fact, Einstein apparently once visited Hubble and tried to convince him that the universe was expanding. 
+
+===Other discoveries===
+Hubble discovered the asteroid 1373 Cincinnati on August 30, 1935. He also wrote The Observational Approach to Cosmology and The Realm of the Nebulae approximately during this time. 
+
+==No Nobel Prize==
+Hubble spent much of the later part of his career attempting to have astronomy considered an area of physics, instead of being its own science. He did this largely so that astronomers—including himself—could be recognized by the Nobel Prize Committee for their valuable contributions to astrophysics. This campaign was unsuccessful in Hubble's lifetime, but shortly after his death, the Nobel Prize Committee decided that astronomical work would be eligible for the physics prize. However, the prize is not one that can be awarded posthumously.
+
+==Stamp==
+On March 6, 2008, the United States Postal Service released a 41-cent stamp honoring Hubble on a sheet titled "American Scientists" designed by artist Victor Stabin. His citation reads: The other scientists on the "American Scientists" sheet include Gerty Cori, biochemist; Linus Pauling, chemist, and John Bardeen, physicist.
+
+==Honors==
+Awards
+*Bruce Medal in 1938;
+*Franklin Medal in 1939;
+*Gold Medal of the Royal Astronomical Society in 1940;
+*Legion of Merit for outstanding contribution to ballistics research in 1946.
+Named after him
+* Asteroid 2069 Hubble;
+* The crater Hubble on the Moon;
+* Orbiting Hubble Space Telescope;
+* Edwin P. Hubble Planetarium, located in the Edward R. Murrow High School, Brooklyn, NY.;
+* Edwin Hubble Highway, the stretch of Interstate 44 passing through his birthplace of Marshfield, Missouri;
+* Hall of Famous Missourians 2003;
+* 2008 "American Scientists" US stamp series, $0.41.
+
+* The Edwin P. Hubble Medal of Initiative is awarded annually by the city of Marshfield, Missouri — Hubble's birthplace.
+* Hubble Middle School in Wheaton, Illinois, was renamed for Edwin Hubble when Wheaton Central High School was converted to a middle school in the fall of 1992.
+
+==In Popular Culture==
+The play "Creation's Birthday", written by Cornell physicist Hasan Padamsee, tells Hubble's life story. Symmetry Magazine, "On Stage: Hubble's Contentious Life and Science" 
+
+==See also==
+* Astronomy
+** Distance measures
+** Cosmic distance ladder
+* Galaxies
+** Hubble sequence
+** Galaxy morphological classification
+** Gerard de Vaucouleurs
+** William Wilson Morgan
+* Expansion of the universe
+** Big bang
+** General relativity
+** Hubble's law
+** Hubble constant
+** Albert Einstein
+* Hubble Space Telescope
+* Edwin Hubble House, residence and National Historic Landmark in San Marino, California
+* The Great Debate of April 26, 1920
+
+==References and notes==
+
+==Further reading==
+*Bartusiak, Marcia. The Day We Found the Universe. New York: Pantheon, 2009.
+*Christianson, Gale; Edwin Hubble: Mariner of the Nebulae Farrar Straus & Giroux (T) (New York, August 1995.)
+*Hubble E.P., The Observational Approach to Cosmology (Oxford, 1937.)
+*Hubble E.P., The Realm of the Nebulae (New Haven, 1936.)
+*
+*Mayall, N.U., Edwin Powell Hubble Biographical Memoirs NAS 41
+* 
+*Harry Nussbaumer and Lydia Bieri, Discovering the expanding universe. Cambridge University Press, 2009.
+
+==External links==
+
+*http://edwinhubble.com/
+*Time Profile
+*Astronomy at the University of Louisville — Photographs of Edwin Hubble at New Albany High School.
+*Edwin Hubble bio — Written by Allan Sandage
+* 
+*American Physical Society's Hubble Bio
+*Edwin Powell Hubble — The man who discovered the cosmos
+*Astroprof's article on Hubble
+* Hubble: The Man and His Telescope — slideshow by Life magazine
+* The problem with the expanding Universe, 1942 Edwin Hubble
+
+ 
+
+

@@ -1,0 +1,98 @@
+[[Aniline]]
+
+Aniline, phenylamine or aminobenzene is a toxic organic compound with the formula C6H5NH2. Consisting of a phenyl group attached to an amino group, aniline is the prototypical aromatic amine. Its main use is in the manufacture of precursors to polyurethane and other industrial chemicals. Like most volatile amines, it possesses the odor of rotten fish. It ignites readily, burning with a smoky flame characteristic of aromatic compounds.
+
+==Production==
+Industrial aniline production involves two steps. First, benzene is nitrated with a concentrated mixture of nitric acid and sulfuric acid at 50 to 60 °C to yield nitrobenzene. The nitrobenzene is then hydrogenated (typically at 200–300 °C) in the presence of metal catalysts.
+
+400px
+
+Originally, the reduction was effected with a mixture of ferrous chloride and iron metal via the Bechamp reduction.
+
+Aniline can alternatively be prepared from ammonia and phenol derived from the cumene process. Thomas Kahl, Kai-Wilfrid Schröder, F. R. Lawrence, W. J. Marshall, Hartmut Höke, Rudolf Jäckh "Aniline" in Ullmann's Encyclopedia of Industrial Chemistry 2007; John Wiley & Sons: New York. 
+
+In commerce, three brands of aniline are distinguished: aniline oil for blue, which is pure aniline; aniline oil for red, a mixture of equimolecular quantities of aniline and ortho- and para-toluidines; and aniline oil for safranine, which contains aniline and ortho-toluidine, and is obtained from the distillate (échappés) of the fuchsine fusion.
+
+===Related aniline derivatives===
+Many derivatives of aniline can be prepared in similar fashion from nitrated aromatic compounds. Nitration followed by reduction of toluene affords toluidines. Nitration of chlorobenzene and related derivatives and reduction of the nitration products gives aniline derivatives, e.g. 4-chloroaniline. Thomas Kahl, Kai-Wilfrid Schröder, F. R. Lawrence, W. J. Marshall, Hartmut Höke, Rudolf Jäckh "Aniline" in Ullmann's Encyclopedia of Industrial Chemistry 2007; John Wiley & Sons: New York. 
+
+==Reactions==
+The chemistry of aniline is rich because the compound has been cheaply available for many years. Below are some classes of its reactions.
+
+===Oxidation===
+The oxidation of aniline has been heavily investigated, and can result in reactions localized at nitrogen or more commonly results in the formation of new C-N bonds. In alkaline solution, azobenzene results, whereas arsenic acid produces the violet-coloring matter violaniline. Chromic acid converts it into quinone, whereas chlorates, in the presence of certain metallic salts (especially of vanadium), give aniline black. Hydrochloric acid and potassium chlorate give chloranil. Potassium permanganate in neutral solution oxidizes it to nitrobenzene, in alkaline solution to azobenzene, ammonia and oxalic acid, in acid solution to aniline black. Hypochlorous acid gives 4-aminophenol and para-amino diphenylamine. Oxidation with persulfate affords a variety of polyanilines compounds. These polymers exhibit rich redox and acid-base properties.
+Polyanilines can form upon oxidation of aniline.
+
+===Electrophilic reactions at carbon===
+Like phenols, aniline derivatives are highly susceptible to electrophilic substitution reactions. Its high reactivity reflects that it is an enamine, which enhances the electron-donating ability of the ring. For example, reaction of aniline with sulfuric acid at 180 °C produces sulfanilic acid, H2NC6H4SO3H, which can be converted to sulfanilamide. Sulfanilamide is one of the sulfa drugs, which were widely used as antibacterials in the early 20th century. The largest scale industrial reaction of aniline involves its alkylation with formaldehyde. . An idealized equation is shown:
+:2 C6H5NH2 + CH2O → CH2(C6H4NH2)2 + H2O
+The resulting diamine is the precursor to 4,4'-MDI and related diisocyanates.
+
+===Reactions at nitrogen===
+
+====Basicity====
+Aniline is a weak base. Aromatic amines such as aniline are, in general, much weaker bases than aliphatic amines because of the electron-withdrawing effect of the phenyl group. Aniline reacts with strong acids to form anilinium (or phenylammonium) ion (C6H5-NH3+). Although aniline is weakly basic, it precipitates zinc, aluminium, and ferric salts, and, on warming expels ammonia from its salts. The weak basicity is due to both an inductive effect from the more electronegative sp2 carbon and to a resonance effect, as the lone pair on the nitrogen is partially delocalized into the pi system of the benzene ring.
+
+====Acylation====
+Aniline reacts with carboxylic acids or more readily with acyl chlorides such as acetyl chloride to give amides. The amides formed from aniline are sometimes called anilides, for example CH3-CO-NH-C6H5 is acetanilide. Antifebrin (acetanilide), an anti-pyretic and analgesic, No longer in common medicinal use. is obtained by the reaction of acetic acid and aniline.
+
+====N-Alkylation====
+N-Methylation of aniline with methanol at elevated temperatures over acid catalysts gives N-methylaniline and dimethylaniline:
+:C6H5NH2 + 2 CH3OH → C6H5N(CH3)2 + 2H2O
+N-Methylaniline and dimethylaniline are colorless liquids with boiling points of 193–195 °C and 192 °C, respectively. These derivatives are of importance in the color industry. Aniline combines directly with alkyl iodides to form secondary and tertiary amines.
+
+====Carbon disulfide derivatives====
+Boiled with carbon disulfide, it gives sulfocarbanilide (diphenylthiourea) (CS(NHC6H5)2), which may be decomposed into phenyl isothiocyanate(C6H5CNS), and triphenyl guanidine (C6H5N=C(NHC6H5)2).
+
+====Diazotization====
+Aniline and its ring-substituted derivatives react with nitrous acid to form diazonium salts. Through these intermediates, aniline can be conveniently converted to -OH, -CN, or a halide via Sandmeyer reactions. This diazonium salt can also be reacted with NaNO2 and phenol which produces a dye which is benzeneazophenol, this process is called coupling.
+
+===Other reactions===
+It reacts with nitrobenzene to produce phenazine in the Wohl-Aue reaction. Hydrogenation gives cyclohexylamine.
+
+Being a standard reagent in laboratories, aniline is used for many niche reactions. Its acetate is used in the Aniline acetate test for carbohydrates, identifying pentoses by conversion to furfural. It is used to stain neural RNA blue in the Nissl stain.
+
+==Uses==
+The largest application of aniline is for the preparation of methylene dianiline and related compounds by condensation with formaldehyde (as discussed above). The diamines are condensed with phosgene to give Methylene diphenyl diisocyanate, a precursor to urethane polymers. Thomas Kahl, Kai-Wilfrid Schröder, F. R. Lawrence, W. J. Marshall, Hartmut Höke, Rudolf Jäckh "Aniline" in Ullmann's Encyclopedia of Industrial Chemistry 2007; John Wiley & Sons: New York. 
+Other uses include rubber processing chemicals (9%), herbicides (2%), and dyes and pigments (2%). As additives to rubber, aniline derivatives such as phenylenediamines and diphenylamine, are antioxidants. Illustrative of the drugs prepared from aniline is paracetamol (acetaminophen, Tylenol). The principal use of aniline in the dye industry is as a precursor to indigo, the blue of blue jeans. 
+Cake of indigo dye, which is prepared from aniline.
+
+Aniline is also used at a smaller scale in the production of the intrinsically conducting polymer polyaniline.
+
+==History==
+Aniline was first isolated by destructive distillation of indigo by Otto Unverdorben, who named it Crystallin. In 1834, Friedlieb Runge isolated from coal tar a substance that turned a beautiful blue color when treated with chloride of lime, and he named it kyanol or cyanol. F. F. Runge (1834) "Ueber einige Produkte der Steinkohlendestillation" (On some products of coal distillation), Annalen der Physik und Chemie, 31 : 65–77 (see page 65), 513–524; and 32 : 308–332 (see page 331). In 1840, Carl Julius Fritzsche (1808–1871) treated indigo with caustic potash and obtained an oil that he named aniline, after an indigo-yielding plant, Añil (Indigofera suffruticosa). J. Fritzsche (1840) "Ueber das Anilin, ein neues Zersetzungsproduct des Indigo" (On aniline, a new decomposition product of indigo), Bulletin Scientifique par l'Académie Impériale des Sciences de Saint-Petersbourg, 7 (12) : 161–165. Reprinted in:
+* J. Fritzsche (1840) "Ueber das Anilin, ein neues Zersetzungsproduct des Indigo," Justus Liebigs Annalen der Chemie, 36 (1) : 84–90.
+* J. Fritzsche (1840) "Ueber das Anilin, ein neues Zersetzungsproduct des Indigo", Journal für praktische Chemie, 20 : 453–457. In a postscript to this article, Erdmann (one of the journal's editors) argues that aniline and the "cristallin", which was found by Unverdorben in 1826, are the same substance ; see pages 457–459. synonym I anil, ultimately from Sanskrit "nīla", dark-blue. In 1842, Nikolay Nikolaevich Zinin reduced nitrobenzene and obtained a base that he named benzidam. N. Zinin (1842). "Beschreibung einiger neuer organischer Basen, dargestellt durch die Einwirkung des Schwefelwasserstoffes auf Verbindungen der Kohlenwasserstoffe mit Untersalpetersäure" (Description of some new organic bases, produced by the action of hydrogen sulfide on compounds of hydrocarbons and hyponitric acid ), Bulletin Scientifique par l'Académie Impériale des Sciences de Saint-Petersbourg, 10 (18) : 272–285. Reprinted in: N. Zinin (1842) "Beschreibung einiger neuer organischer Basen, dargestellt durch die Einwirkung des Schwefelwasserstoffes auf Verbindungen der Kohlenwasserstoffe mit Untersalpetersäure," Journal für praktische Chemie, 27 (1): 140–153. Benzidam is named on page 150.
+Fritzsche, Zinin's colleague, soon recognized that "benzidam" was actually aniline. See: Fritzsche (1842) Bulletin Scientifique, 10 : 352. Reprinted as a postscript to Zinin's article in: J. Fritzsche (1842) "Bemerkung zu vorstehender Abhandlung des Hrn. Zinin" (Comment on the preceding article by Mr. Zinin), Journal für praktische Chemie, 27 (1) : 153.
+See also: (Anon.) (1842) "Organische Salzbasen, aus Nitronaphtalose und Nitrobenzid mittelst Schwefelwasserstoff entstehend" (Organic bases originating from nitronaphthalene and nitrobenzene via hydrogen sulfide), Annalen der Chemie und Pharmacie, 44 : 283–287. In 1843, August Wilhelm von Hofmann showed that all of these substances are the same substance — thereafter known as phenylamine or aniline. August Wilhelm Hofmann (1843) "Chemische Untersuchung der organischen Basen im Steinkohlen-Theeröl" (Chemical investigation of organic bases in coal tar oil), Annalen der Chemie und Pharmacie, 47 : 37–87. On page 48, Hofmann argues that krystallin, kyanol, benzidam, and aniline are identical. 
+
+===Synthetic dye industry===
+In 1856, von Hofmann's student William Henry Perkin discovered mauveine and went into industry producing the first synthetic dye. Other aniline dyes followed, such as fuchsine, safranine, and induline. At the time of mauveine's discovery, aniline was expensive. Soon thereafter, applying a method reported in 1854 by Antoine Béchamp, A. Béchamp (1854) "De l'action des protosels de fer sur la nitronaphtaline et la nitrobenzine. Nouvelle méthode de formation des bases organiques artificielles de Zinin" (On the action of iron protosalts on nitronaphthaline and nitrobenzene. New method of forming Zinin's synthetic organic bases.), Annales de Chemie et de Physique, 3rd series, 42 : 186 – 196. (Note: In the case of a metal having two or more distinct oxides (e.g., iron), a "protosalt" is an obsolete term for a salt that is obtained from the oxide containing the lowest proportion of oxygen to metal; e.g., in the case of iron, which has two oxides – iron (II) oxide (FeO) and iron (III) oxide (Fe2O3) – FeO is the "protoxide" from which protosalts can be made. See: Wiktionary: protosalt.) it was prepared "by the ton". Perkin, William Henry. 1861-06-08. "Proceedings of Chemical Societies: Chemical Society, Thursday, May 16, 1861." The Chemical News and Journal of Industrial Science. Retrieved on 2007-09-24. The Béchamp reduction enabled the evolution of a massive dye industry in Germany. Today, the name of BASF, originally Badische Anilin- und Soda-Fabrik, now among the largest chemical suppliers, echoes the legacy of the synthetic dye industry, built via aniline dyes and extended via the related azo dyes. The first azo dye was aniline yellow. Auerbach G, "Azo and naphthol dyes", Textile Colorist, 1880 May;2(17):137-9, p 138. 
+
+===Developments in medicine===
+In the late 19th century, aniline emerged as an analgesic drug, its cardiac-suppressive side effects countered with caffeine. Wilcox RW, "The treatment of influenza in adults", Medical News, 1900 Dec 15;77():931-2, p 932. During the first decade of the 20th century, while trying to modify synthetic dyes to treat African sleeping sickness, Paul Ehrlich – who had coined the term chemotherapy for his magic bullet approach to medicine – failed and switched to modifying Béchamp's atoxyl, the first organic arsenical drug, and serendipitously obtained a treatment for syphilis – salvarsan – the first successful chemotherapy agent. Salvarsan's targeted microorganism, not yet recognized as a bacterium, was still thought to be a parasite, and medical bacteriologists, believing that bacteria were not susceptible to the chemotherapeutic approach, overlooked Alexander Fleming's report in 1928 on the effects of penicillin. D J Th Wagener, The History of Oncology (Houten: Springer, 2009), pp 150–1. 
+
+In 1932, Bayer sought medical applications of its dyes. Gerhard Domagk identified as an antibacterial a red azo dye, introduced in 1935 as the first antibacterial drug, prontosil, soon found at Pasteur Institute to be a prodrug degraded in vivo into sulfanilamide – a colorless intermediate for many, highly colorfast azo dyes – already with an expired patent, synthesized in 1908 in Vienna by the researcher Paul Gelmo for his doctoral research. By the 1940s, over 500 related sulfa drugs were produced. Medications in high demand during World War II (1939–45), these first miracle drugs, chemotherapy of wide effectiveness, propelled the American pharmaceutics industry. John E Lesch, The First Miracle Drugs: How the Sulfa Drugs Transformed Medicine (New York: Oxford University Press, 2007), pp 202–3. In 1939, at Oxford University, seeking an alternative to sulfa drugs, Howard Florey developed Fleming's penicillin into the first systemic antibiotic drug, penicillin G. (Gramicidin, developed by René Dubos at Rockefeller Institute in 1939, was the first antibiotic, yet its toxicity restricted it to topical use.) After World War II, Cornelius P. Rhoads introduced the chemotherapeutic approach to cancer treatment. "Medicine: Spoils of war", Time, 15 May 1950. 
+
+===Rocket Fuel===
+In the 1940s and early 1950s, aniline was used with nitric acid as rocket fuel for small missiles and jet assisted take-off (JATO). The two fuel components are hypergolic, producing a violent reaction on contact. "Hypergolic propellant", Wikipedia 
+
+==Toxicology and testing==
+Aniline is toxic by inhalation of the vapour, ingestion, or percutaneous absorption. Muir, GD (ed.) 1971, Hazards in the Chemical Laboratory, The Royal Institute of Chemistry, London. The Merck Index. 10th ed. (1983), p.96, Rahway: Merck & Co. The IARC lists it in Group 3 (not classifiable as to its carcinogenicity to humans) due to the limited and contradictory data available. The early manufacture of aniline resulted in increased incidents of bladder cancer, but these effects are now attributed to naphthylamines, not anilines. 
+
+Many methods exist for detection of aniline. Basic Analytical Toxicology (1995), R. J. Flanagan, S. S. Brown, F. A. de Wolff, R. A. Braithwaite, B. Widdop: World Health Organization 
+
+==References==
+:
+ 
+
+==External links==
+
+* International Chemical Safety Card 0011
+* CDC - NIOSH Pocket Guide to Chemical Hazrds
+* Aniline electropolymerisation
+* 
+
+ 
+
+

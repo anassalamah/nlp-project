@@ -1,0 +1,115 @@
+[[Politics (Aristotle)]]
+
+Aristotle's Politics (Greek Πολιτικά) is a work of political philosophy. The end of the X. Chapters 6–9: Politics|Nicomachean Ethics] declared that the inquiry into ethics necessarily follows into politics, and the two works are frequently considered to be parts of a larger treatise, or perhaps connected lectures, dealing with the "philosophy of human affairs." The title of the Politics literally means "the things concerning the polis."
+
+==Overview==
+
+===Book I===
+In the first book, Aristotle discusses the city (polis) or "political community" (koinōnia politikē) as opposed to other types of communities and partnerships such as the household and village. The highest form of community is the polis. Aristotle comes to this conclusion because he believes the public life is far more virtuous than the private. He comes to this conclusion because men are "political animals." He begins with the relationship between the city and man (I. 1&ndash;2), and then specifically discusses the household (I. 3&ndash;13). Lord, "Introduction," 27. He takes issue with the view that political rule, kingly rule, rule over slaves and rule over a household or village are only different in terms of size. He then examines in what way the city may be said to be natural.
+
+Aristotle discusses the parts of the household, which includes slaves, leading to a discussion of whether slavery can ever be just and better for the person enslaved or is always unjust and bad. He distinguishes between those who are slaves because the law says they are and those who are slaves by nature, saying the inquiry hinges on whether there are any such natural slaves. Only someone as different from other people as the body is from the soul or beasts are from human beings would be a slave by nature, Aristotle concludes, all others being slaves solely by law or convention. Some scholars have therefore concluded that the qualifications for natural slavery preclude the existence of such a being. 
+
+Aristotle then moves to the question of property in general, arguing that the acquisition of property does not form a part of household management (oikonomike) and criticizing those who take it too seriously. It is necessary, but that does not make it a part of household management any more than it makes medicine a part of household management just because health is necessary. He criticizes income based upon trade and upon interest, saying that those who become avaricious do so because they forget that money merely symbolizes wealth without being wealth and "contrary to nature" on interest because it increases by itself not through exchange.
+
+Book I concludes with Aristotle's assertion that the proper object of household rule is the virtuous character of one's wife and children, not the management of slaves or the acquisition of property. Rule over the slaves is despotic, rule over children kingly, and rule over one's wife political (except there is no rotation in office). Aristotle questions whether it is sensible to speak of the "virtue" of a slave and whether the "virtues" of a wife and children are the same as those of a man before saying that because the city must be concerned that its women and children be virtuous, the virtues that the father should instill are dependent upon the regime and so the discussion must turn to what has been said about the best regime.
+
+===Book II===
+Book II examines various views concerning the best regime. It opens with an analysis of the regime presented in Plato's Republic (2. 1&ndash;5) before moving to that presented in Plato's Laws (2. 6). Aristotle then discusses the systems presented by two other philosophers, Phaleas of Chalcedon (2. 7) and Hippodamus of Miletus (2. 8).
+
+After addressing regimes invented by theorists, Aristotle moves to the examination of three regimes that are commonly held to be well managed. These are the Spartan (2. 9), Cretan (2. 10), and Carthaginian (2. 11). The book concludes with some observations on regimes and legislators.
+
+===Book III===
+*Who can be a citizen?
+"He who has the power to take part in the deliberative or judicial administration of any state is said by us to be a citizen of that state; and speaking generally, a state is a body of citizens sufficing for the purpose of life. But in practice a citizen is defined to be one of whom both the parents are citizens; others insist on going further back; say two or three or more grandparents."
+Aristotle asserts that a citizen is anyone who can take part in the governmental process. He finds that most people in the polis are capable of being citizens. This is contrary to the Platonist view which asserts that only very few can take part in the deliberative or judicial administration of the state. 
+*Classification of constitution.
+*Just distribution of political power.
+*Types of monarchies:-
+:*Monarchy: exercised over voluntary subjects, but limited to certain functions; the king was a general and a judge, and had control of religion.
+:*Absolute: government of one for the absolute good
+:*Barbarian: legal and hereditary+ willing subjects
+:*Dictator: installed by foreign power elective dictatorship + willing subjects (elective tyranny)
+
+===Book IV===
+Aristotle's classification of constitutions
+
+*Tasks of political theory
+*Why are there many types of constitutions?
+*Types of democracies
+*Types of oligarchies
+*Polity (Constitutional Government) is the optimal form of government
+:*When perverted, a Polity becomes a Democracy, the least harmful derivative government as regarded by Aristotle.
+*Government offices
+
+===Book V===
+*Constitutional change
+*Revolutions in different types of constitutions and ways to preserve constitutions
+*Instability of tyrannies
+
+===Book VI===
+*Demonic constitutions
+*Oligarchic constitutions
+
+===Book VII===
+*Best state and best life
+*Ideal state. Its population, territory, position etc.
+*Citizens of the ideal state
+*Marriage and children
+
+===Book VIII===
+*Education in the ideal state
+
+==Aristotle's classification==
+After studying a number of real and theoretical city-state's constitutions, Aristotle classified them according to various criteria. On one side stand the true (or good) constitutions, which are considered such because they aim for the common good, and on the other side the perverted (or deviant) ones, considered such because they aim for the well being of only a part of the city. The constitutions are then sorted according to the "number" of those who participate to the magistracies: one, a few, or many. Aristotle's sixfold classification is slightly different from the one found in The Statesman by Plato. The diagram above illustrates Aristotle's classification.
+
+==Composition==
+The literary character of the Politics is subject to some dispute, growing out of the textual difficulties that attended the loss of Aristotle's works. Book III ends with a sentence that is repeated almost verbatim at the start of Book VII, while the intervening Books IV-VI seem to have a very different flavor from the rest; Book IV seems to refer several times back to the discussion of the best regime contained in Books VII-VIII. Lord, "Introduction," 15. Some editors have therefore inserted Books VII-VIII after Book III. At the same time, however, references to the "discourses on politics" that occur in the Nicomachean Ethics suggest that the treatise as a whole ought to conclude with the discussion of education that occurs in Book VIII of the Politics, although it is not certain that Aristotle is referring to the Politics here. Lord, "Introduction," 19, 246n53. 
+
+Werner Jaeger suggested that the Politics actually represents the conflation of two, distinct treatises. Jaeger, Aristoteles. The first (Books I-III, VII-VIII) would represent a less mature work from when Aristotle had not yet fully broken from Plato, and consequently show a greater emphasis on the best regime. The second (Books IV-VI) would be more empirically minded, and thus belong to a later stage of development.
+
+Carnes Lord has argued against the sufficiency of this view, however, noting the numerous cross-references between Jaeger's supposedly separate works and questioning the difference in tone that Jaeger saw between them. For example, Book IV explicitly notes the utility of examining actual regimes (Jaeger's "empirical" focus) in determining the best regime (Jaeger's "Platonic" focus). Instead, Lord suggests that the Politics is indeed a finished treatise, and that Books VII and VIII do belong in between Books III and IV; he attributes their current ordering to a merely mechanical transcription error. Lord, "Introduction," 15–16 
+
+==Notes==
+
+==Further reading==
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+==Translations==
+*
+*
+*
+* (Out of Print)
+*
+*
+*
+
+==External links==
+
+* Aristotle: Politics entry by Edward Clayton in the Internet Encyclopedia of Philosophy
+* 
+* 
+;Versions
+* Politics full text by Project Gutenberg
+* English translation at Perseus Digital Library translation by Harris Rackham
+* Australian copy trans. by Benjamin Jowett
+* HTML trans. by Benjamin Jowett
+* PDF at McMaster trans. by Benjamin Jowett
+* 
+
+
