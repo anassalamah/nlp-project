@@ -4,7 +4,7 @@ from collections import defaultdict
 
 ## BEGIN ##
 
-infile_name = "../linear regressor/test_guesses_POLYLINE_supermax.csv"
+infile_name = "../linear regressor/test_guesses_POLYLINE_W3_augment.csv"
 data = DictReader(open(infile_name, 'r'))
 
 outfile_name = "regression answers.csv"

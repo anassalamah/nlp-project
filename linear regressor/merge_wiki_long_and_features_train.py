@@ -11,12 +11,19 @@ if __name__ == "__main__":
     features_train = DictReader(features_train_file)
     
     # Create a File for output
-    output = DictWriter(open('wiki_long_features_train.csv', 'w'), ['Question ID', 'Sentence Position', 'Answer', 'is correct', 'Q score','IR score','join score', 'category','Wikipedia Score', 'Wikipedia Found', 'SearchWords','SearchFound', 'WikipediaLen'], lineterminator='\n')
+    outfile = open('wiki_long_features_train_NICK.csv', 'w')
+    output = DictWriter(outfile, ['Question ID', 'Sentence Position', 'Answer', 'is correct', 'Q score','IR score','join score', 'category','Wikipedia Score', 'Wikipedia Found', 'SearchWords','SearchFound', 'WikipediaLen'], lineterminator='\n')
     output.writeheader()
 
-    for ii in wiki_long:
-        for bb in features_train:
-            if (ii['Question ID'],ii['Sentence Position'],ii['Answer']) == ( bb['Question ID'],bb['Sentence Position'],bb['Answer']):
+    numout = 0
+
+    for bb in features_train:
+        print bb['Answer']
+        for ii in wiki_long:
+            print (ii['Question ID'],ii['Sentence Position'],ii['Answer']), ( bb['Question ID'],bb['Sentence Position'],bb['Answer'])
+            #if (ii['Question ID'],ii['Sentence Position'],ii['Answer']) == ( bb['Question ID'],bb['Sentence Position'],bb['Answer']):
+            if ii['Question ID'] == bb['Question ID'] and ii['Sentence Position'] == bb['Sentence Position'] and ii['Answer'] == bb['Answer']: 
+                numout += 1
                 output.writerow({'Question ID': ii['Question ID'], \
                                  'Sentence Position': ii['Sentence Position'], \
                                  'Answer': ii['Answer'], \
@@ -29,8 +36,9 @@ if __name__ == "__main__":
                                  'Wikipedia Found': ii['Wikipedia Found'], \
                                  'SearchWords': ii['SearchWords'], \
                                  'WikipediaLen': ii['WikipediaLen'] })
-                features_train_file.seek(0)
-                #print "MATCH: ", ii['Question ID'], ii['Sentence Position'], ii['Answer'], bb['Q score'], bb['IR score'], bb['join score'],bb['category'],ii['Wikipedia Score'],ii['Wikipedia Found'],ii['SearchWords'],ii['SearchFound'],ii['WikipediaLen']
-                #print ''
-
-    
+                break
+              
+        if numout > 20:
+            break
+    outfile.close()
+    print "done", 'wiki_long_features_train_NICK.csv'

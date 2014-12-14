@@ -12,9 +12,9 @@ import random
 from random import shuffle
 
 # VARIABLES:
-NUM_TRAIN_ITERATIONS = 10
+NUM_TRAIN_ITERATIONS = 3
 PRINT_OUTPUT_TABLE = 1
-NUM_TO_SCREEN_PRINT = 100
+NUM_TO_SCREEN_PRINT = 10
 
 USE_VALIDATION = 1 # NOT IMPLEMENTED
 USE_TEST_AND_WRITE_OUTPUT = 1
@@ -77,7 +77,7 @@ print "guess how many?"
 for ii in data:
     num_read += 1
     #if random.random() > 0.6:
-    if random.random() > 0.99:
+    if ii['is correct'] == '1' or random.random() > 0.7:
         correct = 'correct' if ii['is correct'] == '1' else 'wrong'
         #print ii['Question ID'], correct
         feat_dict = dict()
@@ -89,14 +89,14 @@ for ii in data:
         feat_dict['category'] = ii['category']
         feat_dict['Wikipedia Score'] = float(ii['Wikipedia Score'])
         feat_dict['Wikipedia Found'] = float(ii['Wikipedia Found'])
-        feat_dict['SearchWords'] = float(ii['SearchWords'])
-        feat_dict['SearchFound'] = float(ii['SearchFound'])
-        feat_dict['WikipediaLen'] = float(ii['WikipediaLen'])
+        #feat_dict['SearchWords'] = float(ii['SearchWords'])
+        #feat_dict['SearchFound'] = float(ii['SearchFound'])
+        #feat_dict['WikipediaLen'] = float(ii['WikipediaLen'])
 
         train_input = train_input + [(feat_dict,correct)]
         train_input_guesses = train_input_guesses + [(ii['Question ID'], ii['Sentence Position'], ii['Answer'], ii['is correct'])]
-    if num_read % 1000 == 0:
-        print num_read, "/ 171000"
+    if num_read % 10000 == 0:
+        print num_read, "/ 371000"
 
 if USE_VALIDATION:
     print "you want to validate, great. This is always on, you have no choice."
@@ -190,9 +190,9 @@ if USE_TEST_AND_WRITE_OUTPUT:
         feat_dict['join score'] = float(ii['join score'])
         feat_dict['Wikipedia Score'] = float(ii['Wikipedia Score'])
         feat_dict['Wikipedia Found'] = float(ii['Wikipedia Found'])
-        feat_dict['SearchWords'] = float(ii['SearchWords'])
-        feat_dict['SearchFound'] = float(ii['SearchFound'])
-        feat_dict['WikipediaLen'] = float(ii['WikipediaLen'])
+        #feat_dict['SearchWords'] = float(ii['SearchWords'])
+        #feat_dict['SearchFound'] = float(ii['SearchFound'])
+        #feat_dict['WikipediaLen'] = float(ii['WikipediaLen'])
 
         test_input = test_input + [feat_dict]
         test_guesses = test_guesses + [ii['Answer']]
