@@ -21,7 +21,6 @@ IR_Wiki Scores,
 category
 """
 
-
 def top_guess(guesses):
     for jj in guesses.split(", "):
         key, val = jj.split(":")
@@ -40,7 +39,7 @@ def guess_score_dict(guesses):
     return d
 
 WRITE_FILE = 1
-USE_TRAIN = 0
+USE_TRAIN = 1
 NORMALIZE_OUTPUT_SCORE = 1
 # alpha value has been optimized to give best rate on training = 0.751838235294
 # best found alpha = 0.3
@@ -74,7 +73,8 @@ if __name__ == "__main__":
         o.writeheader()
     
 
-
+    guess_count = 0
+    guess_count2 = 0
     data_examples = 0
     for ii in data:
         data_examples += 1
@@ -107,6 +107,7 @@ if __name__ == "__main__":
             print "BAD SUM on question", ii['Question ID'], Q_sum, IR_sum
 
         for key in join_d.keys():
+            guess_count += 1
             join_d[key] = ((Q_d[key]+alpha)/Q_sum)*((IR_d[key]+alpha)/IR_sum)
 
         join_list = join_d.items()
@@ -140,6 +141,7 @@ if __name__ == "__main__":
                             
         out_line = ""
         for g,s in join_list:
+            guess_count2 += 1
             #print g
             if join_list.index((g,s)) == 0:
                 out_line += g+":"+str(s)
@@ -162,6 +164,8 @@ if __name__ == "__main__":
     if WRITE_FILE:    
         outfile.close()    
         print "wrote", data_examples, "lines"
+        print "wrote", guess_count, "guesses"
+        print "wrote2", guess_count, "guesses"
     else:
         print "DONE", data_examples
     
